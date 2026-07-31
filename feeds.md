@@ -1,45 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-07-31 09:57:16 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-31 10:54:59 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 37 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, July 31, 2026 - 09:57 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, July 31, 2026 - 10:55 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/31/spain-pm-to-visit-ceuta-after-19-migrants-die-breaching-border-from-morocco?traffic_source=rss" target="_blank">Spain PM to visit Ceuta after 19 migrants die breaching border from Morocco</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-31 10:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -100,20 +99,29 @@
                 <span class="time">2026-07-31 08:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-3-ap-gmh-260730_1785433170256_hpMain_4x3t_384.jpg" alt="Trump announces Hamas disarmament agreement as part of Gaza peace plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/trump-announces-hamas-disarmament-agreement-part-gaza-peace/story?id=135246610" target="_blank">Trump announces Hamas disarmament agreement as part of Gaza peace plan</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-31 03:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/stoke-zenith-500x500.jpg" alt="Rocket Report: New launch rule may limit environmental regulations, Falcon 9 to hit Moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/07/rocket-report-big-deals-for-us-launch-firms-rfa-one-debut-is-delayed/" target="_blank">Rocket Report: New launch rule may limit environmental regulations, Falcon 9 to hit Moon</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-31 10:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a6c0e475abc2a8fa7b821f5/master/pass/Review--SJY-Zeph-Open-Back-Planar-Magnetic-Headphones.jpg" alt="SJY Zeph Open-Back Headphones Review: Music Through Magnets" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/sjy-zeph-open-back-planar-magnetic-headphones/" target="_blank">SJY Zeph Open-Back Headphones Review: Music Through Magnets</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-31 10:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a6baf032bc54c722b6ba526/master/pass/GettyImages-2287485272.jpg" alt="The World Is Too Hot. El Niño Is Partly to Blame" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,24 +156,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/" target="_blank">Anthropic says its own AI models breached three companies during security tests</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-07-31 01:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a6bd3709585cd0b1c9cc267/master/pass/The-FCC-Is-Coming-for-Robot-Vacuums.-How-Soon-Will-It-Be-a-Problem-.jpg" alt="How the FCC’s New Rule Will Affect Robot Vacuums" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-fcc-is-coming-for-robot-vacuums/" target="_blank">How the FCC’s New Rule Will Affect Robot Vacuums</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-30 23:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai" target="_blank">Tim Cook hints at iCloud Plus tier for AI power users</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-30 22:29</span>
             </div>
         </div>
 </div>
@@ -355,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 134 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 09:57 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 10:55 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
