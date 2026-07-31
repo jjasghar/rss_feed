@@ -1,30 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-07-31 13:30:51 UTC -->
+<!-- Processing 54 RSS feeds at 2026-07-31 14:45:20 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 22 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 13 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, July 31, 2026 - 13:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, July 31, 2026 - 14:45 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/31/russia-and-ukraine-report-casualties-as-they-continue-to-trade-attacks?traffic_source=rss" target="_blank">Russia and Ukraine report casualties as they continue to trade attacks</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-07-31 14:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b043/live/7bfe9a70-2ea9-11f1-a79a-77e93010d956.jpg" alt="Disgraced funeral boss who failed to bury bodies jailed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ckg35errde5o?at_medium=RSS&at_campaign=rss" target="_blank">Disgraced funeral boss who failed to bury bodies jailed</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-31 14:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,29 +106,29 @@
                 <span class="time">2026-07-31 11:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths" target="_blank">At least 24 people die as thousands cross to Spanish enclave of Ceuta from Morocco</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-07-31 11:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/31/spain-pm-to-visit-ceuta-after-19-migrants-die-breaching-border-from-morocco?traffic_source=rss" target="_blank">Spain PM to visit Ceuta after 19 migrants die breaching border from Morocco</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-31 10:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/07/31/whatsapp-is-testing-a-new-folder-for-messages-from-large-businesses/" target="_blank">WhatsApp is testing a new folder for messages from large businesses</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-07-31 14:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast" target="_blank">It’s time to panic about AI safety</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-07-31 14:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a6b80ea3f1c7c0cdd779c39/master/pass/Review--Steelseries-Arctis-Nova-Pro-Omni.jpg" alt="Steelseries Arctis Nova Pro Omni Review: For Multisystem Gamers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -135,29 +165,29 @@
                 <span class="time">2026-07-31 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6823e30edca726f818b163e9/master/pass/The-Best-Phones-With-an-Actual-Headphone-Jack_052025_Lede.jpg" alt="6 Best Phones With Headphone Jacks (2026), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-headphone-jack-phones/" target="_blank">6 Best Phones With Headphone Jacks (2026), Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-31 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/stoke-zenith-500x500.jpg" alt="Rocket Report: New launch rule may limit environmental regulations, Falcon 9 to hit Moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/07/rocket-report-big-deals-for-us-launch-firms-rfa-one-debut-is-delayed/" target="_blank">Rocket Report: New launch rule may limit environmental regulations, Falcon 9 to hit Moon</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-31 10:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vishalsworkspace/how-i-built-an-autonomous-ai-tool-engine-with-mcp-llama-33-and-automated-hugging-face-pipelines-31nd" target="_blank">How I Built an Autonomous AI Tool Engine with MCP, Llama 3.3, and Automated Hugging Face Pipelines</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-07-31 14:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Arch-Linux-AUR-Adoptions-Halted" target="_blank">Arch Linux AUR Under Another Wave Of Malicious Packages, Package Adoptions Halted</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-31 13:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,29 +224,20 @@
                 <span class="time">2026-07-31 09:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/virtual-threads-after-jdk24/en/headerimage/virtual-threads-after-jdk24-header-1785232507934.jpg" alt="Article: Virtual Threads After JDK 24: What Changed for Production Java" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/virtual-threads-after-jdk24/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Virtual Threads After JDK 24: What Changed for Production Java</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-31 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/07/31/what-happens-internet-when-robots-act-like-humans/" target="_blank">What happens to the internet when robots act like humans?​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‌​﻿‍​‌‍‌​‌‍​‌​﻿‍‌​﻿‍‌​﻿‍‌​﻿​‍​‍﻿‌​﻿​​​﻿‌‍‌‍‌‍​﻿‌‌​‍﻿‌​﻿‌​​﻿‌‍​﻿​​​﻿​‍​‍﻿‌​﻿‍​​﻿​‍​﻿‌​‌‍‌​​‍﻿‌‌‍‌‍​﻿‌‍‌‍‌​‌‍​﻿‌‍‌​​﻿‌​​﻿‌‌‌‍​‍‌‍​﻿​﻿‌﻿​﻿​﻿‌‍‌​​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿​‌​﻿‍​‌‍‌​‌‍​‌​﻿‍‌​﻿‍‌​﻿‍‌​﻿​‍​‍﻿‌​﻿​​​﻿‌‍‌‍‌‍​﻿‌‌​‍﻿‌​﻿‌​​﻿‌‍​﻿​​​﻿​‍​‍﻿‌​﻿‍​​﻿​‍​﻿‌​‌‍‌​​‍﻿‌‌‍‌‍​﻿‌‍‌‍‌​‌‍​﻿‌‍‌​​﻿‌​​﻿‌‌‌‍​‍‌‍​﻿​﻿‌﻿​﻿​﻿‌‍‌​​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-07-31 07:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/facial-recognition-at-madison-square-garden.html" target="_blank">Facial Recognition at Madison Square Garden</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-07-31 11:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -240,6 +261,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/shutterstock_431335693-e1780949810544.jpg?fit=768%2C508&amp;quality=60&amp;ssl=1" alt="At $4 a gallon again, even Republicans souring on Iran war" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/31/at-4-a-gallon-again-even-republicans-souring-on-iran-war.html" target="_blank">At $4 a gallon again, even Republicans souring on Iran war</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-31 13:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/Guillermo-Del-Toro-In-Death-Stranding-with-the-Dead-Cells-protag-Sony-Motion-Twin.jpg" alt="Guillermo Del Toro Wants Extra Checkpoints In Games For ‘Elderly Players’ After Getting His Ass Kicked By Dead Cells" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +315,6 @@
                 <span class="time">2026-07-31 00:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/ashaxbox-1280x720.jpg" alt="Xbox CEO Lays Out Post-Layoff Priorities For Ambitious Growth After A Terrible Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/xbox-ceo-lays-out-post-layoff-priorities-for-ambitious-growth-after-a-terrible-year-2000720600" target="_blank">Xbox CEO Lays Out Post-Layoff Priorities For Ambitious Growth After A Terrible Year</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-30 23:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -331,8 +352,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 40 | 📸 With Images: 260 |
-        🔄 Last Updated: 13:30 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 14:45 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
