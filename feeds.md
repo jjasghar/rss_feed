@@ -1,33 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-07-31 20:26:04 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-07-31 21:21:42 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Generated 9 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, July 31, 2026 - 20:26 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, July 31, 2026 - 21:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/31/nx-s1-5913376/climate-adaptation-at-its-limits-says-one-scientist" target="_blank">Climate adaptation at its limits, says one scientist</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-07-31 20:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/cabinet-21-rt-gmh-260731_1785516825114_hpMain_4x3t_384.jpg" alt="Trump says &#x27;Anti-Weaponization Fund&#x27; is &#x27;dead,&#x27; but says he still wants payouts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-anti-weaponization-fund-dead-payouts/story?id=135270168" target="_blank">Trump says &#x27;Anti-Weaponization Fund&#x27; is &#x27;dead,&#x27; but says he still wants payouts</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-31 20:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +105,20 @@
                 <span class="time">2026-07-31 17:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/7/31/western-allies-warn-north-korean-it-workers-funding-nuclear-arsenal?traffic_source=rss" target="_blank">Western allies warn North Korean IT workers funding nuclear arsenal</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-31 17:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a5d/live/3f125d00-8cea-11f1-b1ae-d9d901a2754c.jpg" alt="Spain&#x27;s PM blames traffickers after 60,000 migrants reach Ceuta from Morocco" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss" target="_blank">Spain&#x27;s PM blames traffickers after 60,000 migrants reach Ceuta from Morocco</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-31 17:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2218358312-500x500.jpg" alt="Reddit keeps weird DMCA lawsuit against web scraper alive despite Google’s loss" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/" target="_blank">Reddit keeps weird DMCA lawsuit against web scraper alive despite Google’s loss</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-07-31 21:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -118,6 +135,15 @@
                 <span class="title"><a href="https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/" target="_blank">Would you get tattooed just to interview at a 7-days-a-week AI startup?</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-07-31 19:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a6bc43ecd95420c8647a339/master/pass/Made-in-China--China-AI-Researchers-Are-Finding-Their-Voice-on-X-Business.jpg" alt="Chinese AI Researchers Are Finding Their Voice on X" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/" target="_blank">Chinese AI Researchers Are Finding Their Voice on X</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-07-31 18:14</span>
             </div>
         </div>
 <div class="story">
@@ -138,29 +164,20 @@
                 <span class="time">2026-07-31 17:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/" target="_blank">Siri AI could come with a paywall for power users</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-31 16:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/31/samsung-expects-memory-shortage-to-worsen-through-2027-and-last-until-2028/" target="_blank">Samsung expects memory shortage to worsen through 2027 and last until 2028</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-31 15:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-CDNA5-ISA-Documentation" target="_blank">AMD Publishes CDNA5 ISA Documentation For Instinct MI455X</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-07-31 20:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,20 +223,20 @@
                 <span class="time">2026-07-31 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/booyaka101/debugging-a-black-box-36-renders-against-claude-and-the-part-where-my-own-data-was-wrong-43ag" target="_blank">Debugging a black box: 36 renders against Claude, and the part where my own data was wrong</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-31 15:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squid-helps-discover-new-marine-species.html" target="_blank">Friday Squid Blogging: Squid Helps Discover New Marine Species</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-07-31 21:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -243,6 +260,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KYVDX2484D70XD8RC08K2N58/hero-image.jpg" alt="10 Snipping Tool Hacks Every Windows 11 User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/10-snipping-tool-hacks-every-windows-11-user-should-know?utm_medium=RSS" target="_blank">10 Snipping Tool Hacks Every Windows 11 User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-07-31 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/shutterstock_2765348225-edited-e1785521670211.jpg?fit=1575%2C910&amp;quality=60&amp;ssl=1" alt="Patronscan&#x27;s &quot;ultimate bouncer&quot; never forgets a face in San Francisco&#x27;s gay bars" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/31/patronscans-ultimate-bouncer-never-forgets-a-face-in-san-franciscos-gay-bars.html" target="_blank">Patronscan&#x27;s &quot;ultimate bouncer&quot; never forgets a face in San Francisco&#x27;s gay bars</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-31 18:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2024/10/f88bf326b1894a17bd0a3e09f6d698c8-1280x720.jpg" alt="Mahershala Ali Says That If There Is A Blade Movie He Won’t Be In It Which Means There’s No Reason To See It Anymore" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,24 +312,6 @@
                 <span class="title"><a href="https://kotaku.com/guillermo-del-toro-gdt-dead-cells-video-games-difficulty-2000720732" target="_blank">Guillermo Del Toro Wants Extra Checkpoints In Games For ‘Elderly Players’ After Getting His Ass Kicked By Dead Cells</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-07-31 13:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KYVTDN4H88PCDN5FPHPCAC4W/hero-image.png" alt="This Self-Cleaning Roborock Vacuum Is $700 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/roborock-saros-10r-deal-july-2026?utm_medium=RSS" target="_blank">This Self-Cleaning Roborock Vacuum Is $700 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-07-31 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/Stellar-Blade-Blood-Rain-Wanna-be-in-LOVE-music-video-Shift-Up-1280x720.jpg" alt="Even Stellar Blade Fans Hate The Sequel’s Official GenAI Music Video" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/even-stellar-bladefans-hate-the-sequels-official-genai-music-video-2000720725" target="_blank">Even Stellar Blade Fans Hate The Sequel’s Official GenAI Music Video</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-31 11:40</span>
             </div>
         </div>
 </div>
@@ -352,8 +369,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 119 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 20:26 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 21:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
