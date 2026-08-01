@@ -1,41 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-08-01 00:19:48 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-01 01:30:55 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 32 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, August 01, 2026 - 00:20 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Saturday, August 01, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2db7/live/563651e0-8c0d-11f1-8665-e382dc49dfdb.jpg" alt="Victims of disgraced funeral boss demand industry regulation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cr49w13w9d0o?at_medium=RSS&at_campaign=rss" target="_blank">Victims of disgraced funeral boss demand industry regulation</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-01 00:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,15 +97,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/07/31/nx-s1-5913376/climate-adaptation-at-its-limits-says-one-scientist" target="_blank">Climate adaptation at its limits, says one scientist</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-07-31 20:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/cabinet-21-rt-gmh-260731_1785516825114_hpMain_4x3t_384.jpg" alt="Trump says &#x27;Anti-Weaponization Fund&#x27; is &#x27;dead,&#x27; but says he still wants payouts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-anti-weaponization-fund-dead-payouts/story?id=135270168" target="_blank">Trump says &#x27;Anti-Weaponization Fund&#x27; is &#x27;dead,&#x27; but says he still wants payouts</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-31 20:15</span>
             </div>
         </div>
 </div>
@@ -173,6 +167,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/debashish_ghosal/faster-prs-weaker-instincts-the-judgment-problem-in-ai-assisted-engineering-4fd8" target="_blank">Faster PRs, Weaker Instincts: The Judgment Problem in AI-Assisted Engineering</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-01 01:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/priya_sajja_c336921bbda87/beyond-the-resume-why-every-tech-professional-needs-a-portfolio-1dp2" target="_blank">Beyond the Resume: Why Every Tech Professional Needs a Portfolio</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-31 22:11</span>
@@ -214,15 +217,6 @@
                 <span class="time">2026-07-31 18:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/07/terraform-policy-as-code/en/headerimage/terraform-1-4-null-resource-1785517729441.jpeg" alt="Terraform Introduces tfpolicy, an HCL-based Policy-as-Code Framework" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/07/terraform-policy-as-code/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Terraform Introduces tfpolicy, an HCL-based Policy-as-Code Framework</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-07-31 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -260,6 +254,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Image-NASA.jpg?fit=1080%2C607&amp;quality=60&amp;ssl=1" alt="Spacecraft sent on rescue mission now spinning out of control" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/31/spacecraft-sent-on-rescue-mission-now-spinning-out-of-control.html" target="_blank">Spacecraft sent on rescue mission now spinning out of control</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-07-31 22:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2021/01/washington-monument-by-pedro-szekely.jpg?fit=1261%2C806&amp;quality=60&amp;ssl=1" alt="DOJ admits the Reflecting Pool &quot;vandal&quot; was the contractor" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -305,15 +308,6 @@
                 <span class="time">2026-07-31 17:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/itchio.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="If you like indie games, have you tried the Itch desktop app?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/31/if-you-like-indie-games-have-you-tried-the-itch-desktop-app.html" target="_blank">If you like indie games, have you tried the Itch desktop app?</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-31 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -355,22 +349,13 @@
                 <span class="time">2026-07-31 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5885.png" alt="Soggy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5885" target="_blank">Soggy</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-07-31 00:42</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 110 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 00:20 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 111 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
