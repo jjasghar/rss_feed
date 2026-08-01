@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-08-01 18:16:49 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2026-08-01 19:24:05 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Saturday, August 01, 2026 - 18:17 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Saturday, August 01, 2026 - 19:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,6 +106,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/" target="_blank">Should you still buy your next smartphone — or subscribe to it instead?</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-01 18:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/Swift_and_LINK_withEarthartist_concept-500x500.png" alt="Here&#x27;s how engineers plan to save the satellite sent to save NASA&#x27;s Swift mission" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/" target="_blank">Here&#x27;s how engineers plan to save the satellite sent to save NASA&#x27;s Swift mission</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-01 18:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/" target="_blank">Sam Altman is still making the case for parenting via ChatGPT</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-08-01 17:07</span>
@@ -139,29 +156,20 @@
                 <span class="time">2026-08-01 15:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/odysseyTOP-500x500.jpg" alt="Review: Yes, we&#x27;re still arguing about Nolan&#x27;s The Odyssey" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2026/08/review-yes-were-still-arguing-about-nolans-the-odyssey/" target="_blank">Review: Yes, we&#x27;re still arguing about Nolan&#x27;s The Odyssey</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-01 15:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/" target="_blank">Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-01 15:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lunetrax/i-tried-to-prove-ai-writes-insecure-wordpress-code-32-runs-later-i-could-not-252h" target="_blank">I tried to prove AI writes insecure WordPress code. 32 runs later, I could not.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-01 19:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +215,6 @@
                 <span class="time">2026-08-01 15:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/" target="_blank">A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-01 14:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/PRAGMATA_SS_15-1280x720.jpg" alt="Pragmata Devs Considered A Bob To Save On Hair Rendering" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pragmata-devs-considered-a-bob-to-save-on-hair-rendering-2000721012" target="_blank">Pragmata Devs Considered A Bob To Save On Hair Rendering</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-01 18:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/linkshocked-1280x728.jpg" alt="Did You Know Gaming Disputes Metacritic’s Ocarina Of Time Score, Upsetting Its Top Rated Spot" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +288,6 @@
                 <span class="time">2026-08-01 03:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/shutterstock_2170589913-scaled.jpg?fit=2560%2C1662&amp;quality=60&amp;ssl=1" alt="Unpublished novel&#x27;s $2.4m deal pulled over AI concerns" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/31/unpublished-novels-2-4m-deal-pulled-over-ai-concerns.html" target="_blank">Unpublished novel&#x27;s $2.4m deal pulled over AI concerns</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-01 03:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -303,22 +302,13 @@
                 <span class="time">2026-08-01 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/07/31/jimothy-chalamet" target="_blank">Jimothy Chalamet</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-07-31 18:44</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 87 | 📡 Total Sources: 40 | 📸 With Images: 242 |
-        🔄 Last Updated: 18:17 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 87 | 📡 Total Sources: 40 | 📸 With Images: 239 |
+        🔄 Last Updated: 19:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
