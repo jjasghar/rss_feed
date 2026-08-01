@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-08-01 16:17:56 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-01 17:18:57 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Saturday, August 01, 2026 - 16:18 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, August 01, 2026 - 17:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing" target="_blank">EU to hold urgent meeting after Spanish PM calls Ceuta crisis response ‘selfish’</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-08-01 16:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +99,29 @@
                 <span class="time">2026-08-01 12:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/01/nx-s1-5907932/opinion-remembering-margo-howard" target="_blank">Opinion: Remembering Margo Howard</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-01 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/" target="_blank">Sam Altman is still making the case for parenting via ChatGPT</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-01 17:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/974199/spider-man-brand-new-day-leak-box-office-records" target="_blank">Spider-Man: Brand New Day leak racks up millions of views</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-01 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,29 +158,20 @@
                 <span class="time">2026-08-01 15:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/968645/back-to-school-shopping-guide-gifts" target="_blank">The Verge’s 2026 back-to-school shopping guide</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-01 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/973929/instapaper-app-pastebot-spiderman-movie-installer" target="_blank">The OG reading app just got a big update</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-01 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/NetBSD-11.0" target="_blank">NetBSD 11.0 Released With RISC-V Support, Enhanced Linux System Call Compatibility</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-01 16:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +217,6 @@
                 <span class="time">2026-08-01 14:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/July-2026-Highlights" target="_blank">MPEG-4 Patent Expiration, RADV On Windows, Open-Source AI &amp; Other July Highlights</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-01 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +245,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/linkshocked-1280x728.jpg" alt="Did You Know Gaming Disputes Metacritic’s Ocarina Of Time Score, Upsetting Its Top Rated Spot" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/did-you-know-gaming-disputes-metacritics-zelda-ocarina-of-time-score-upsetting-its-top-rated-spot-2000721004" target="_blank">Did You Know Gaming Disputes Metacritic’s Ocarina Of Time Score, Upsetting Its Top Rated Spot</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-01 16:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/1964_Peel_P50_Blue-scaled.jpg?fit=2560%2C2182&amp;quality=60&amp;ssl=1" alt="The smallest car ever made had no reverse gear" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/01/peel-p50.html" target="_blank">The smallest car ever made had no reverse gear</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-01 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/image-77-1280x720.jpg" alt="Game Freak’s Beast Of Reincarnation Reportedly Leaked By Pirates Three Days Before Official Release" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,29 +299,20 @@
                 <span class="time">2026-08-01 03:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Image-NASA.jpg?fit=1080%2C607&amp;quality=60&amp;ssl=1" alt="Spacecraft sent on rescue mission now spinning out of control" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/31/spacecraft-sent-on-rescue-mission-now-spinning-out-of-control.html" target="_blank">Spacecraft sent on rescue mission now spinning out of control</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-31 22:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2021/01/washington-monument-by-pedro-szekely.jpg?fit=1261%2C806&amp;quality=60&amp;ssl=1" alt="DOJ admits the Reflecting Pool &quot;vandal&quot; was the contractor" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/31/doj-reflecting-pool-contractor-david-hearn.html" target="_blank">DOJ admits the Reflecting Pool &quot;vandal&quot; was the contractor</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-31 22:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1785531427-20260801.png" alt="Saturday Morning Breakfast Cereal - Doc" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/doc" target="_blank">Saturday Morning Breakfast Cereal - Doc</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-08-01 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -317,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 96 | 📡 Total Sources: 40 | 📸 With Images: 241 |
-        🔄 Last Updated: 16:18 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 98 | 📡 Total Sources: 40 | 📸 With Images: 242 |
+        🔄 Last Updated: 17:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
