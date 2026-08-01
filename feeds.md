@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-08-01 15:20:45 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-01 16:17:56 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, August 01, 2026 - 15:20 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Saturday, August 01, 2026 - 16:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,12 +45,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/1/two-ex-sri-lanka-officials-sentenced-to-death-over-2019-easter-bombings?traffic_source=rss" target="_blank">Two ex-Sri Lanka officials sentenced to death over 2019 Easter bombings</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-01 15:34</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22bc/live/9b18d720-8da6-11f1-9e26-8164f877b701.jpg" alt="Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss" target="_blank">Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-08-01 14:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e48/live/4d54be50-8d9c-11f1-b166-41a144b04f85.png" alt="Greater Manchester mayor says Burnham&#x27;s new powers will change lives" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cddj3j50rmpo?at_medium=RSS&at_campaign=rss" target="_blank">Greater Manchester mayor says Burnham&#x27;s new powers will change lives</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-01 13:15</span>
             </div>
         </div>
 <div class="story">
@@ -81,29 +98,38 @@
                 <span class="time">2026-08-01 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3e1/live/98c7dee0-8d7d-11f1-b2ab-0dd01740f9f6.jpg" alt="Spain attacks &#x27;selfish&#x27; response of some EU countries to Ceuta migrant crossings" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss" target="_blank">Spain attacks &#x27;selfish&#x27; response of some EU countries to Ceuta migrant crossings</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-01 10:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/01/nx-s1-5910555/lebanon-israel-war-hezbollah" target="_blank">Lebanese who fled the Israeli invasion visit to see what&#x27;s left</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-01 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/" target="_blank">This $9 key physically locks your most addictive apps</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-01 15:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/974197/trump-tim-walz-minnesota-water-hacks-iran" target="_blank">Trump blames Tim Walz for water hacks even though it’s probably Iran</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-01 15:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/odysseyTOP-500x500.jpg" alt="Review: Yes, we&#x27;re still arguing about Nolan&#x27;s The Odyssey" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2026/08/review-yes-were-still-arguing-about-nolans-the-odyssey/" target="_blank">Review: Yes, we&#x27;re still arguing about Nolan&#x27;s The Odyssey</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-01 15:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -131,38 +157,29 @@
                 <span class="time">2026-08-01 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68563692fd268ad4c81d6dc3/master/pass/The%2014%20Best%20Office%20Chairs.png" alt="15 Best Office Chairs of 2026—We Tested 70 to Pick Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-office-chairs/" target="_blank">15 Best Office Chairs of 2026—We Tested 70 to Pick Them</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-01 11:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a6d2d369489ec53630e766b/master/pass/Dreo%E2%80%99s-Summer-Flash-Sale-2026--Lowest-Price-Ever-on-a-Top-Tested-Air-Fryer.jpg" alt="Dreo Summer Flash Sale 2026: Lowest Price Ever on Chefmaker, Fan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/dreo-chefmaker-turbocool-fan-flash-deal-2026/" target="_blank">Dreo Summer Flash Sale 2026: Lowest Price Ever on Chefmaker, Fan</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-01 10:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/defconbadge-500x500.jpg" alt="Defcon&#x27;s new badge is a security key you can see inside" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2026/08/defcons-new-badge-is-a-security-key-you-can-see-inside/" target="_blank">Defcon&#x27;s new badge is a security key you can see inside</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-01 10:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ccortezb/-blog-10-minecraft-mod-agent-i-made-my-ai-agent-judge-itself-and-used-the-scores-to-make-it-a-333j" target="_blank"># Blog 10: Minecraft Mod Agent- I Made My AI Agent Judge Itself — And Used the Scores to Make It a Better Combat Advisor</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-01 16:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://lalitm.com/post/github-alternatives/" target="_blank">GitHub has alternatives, but no replacement</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-01 15:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,24 +216,6 @@
                 <span class="time">2026-08-01 13:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/skywalker_2de7de5f97df567/building-fair-rhythm-game-judgement-windows-in-javascript-1og9" target="_blank">Building Fair Rhythm-Game Judgement Windows in JavaScript</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-01 13:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/BurntSushi/ripgrep/issues/3494" target="_blank">RipGrep musl binaries occasionally segfault during very-large searches</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-01 12:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/image-77-1280x720.jpg" alt="Game Freak’s Beast Of Reincarnation Reportedly Leaked By Pirates Three Days Before Official Release" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/game-freaks-beast-of-reincarnation-reportedly-leaked-by-pirates-three-days-before-official-release-2000720999" target="_blank">Game Freak’s Beast Of Reincarnation Reportedly Leaked By Pirates Three Days Before Official Release</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-01 16:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/Official-promo-image-of-Fortitude-Op-Fortitude-1280x720.jpg" alt="Netflix Hit With $105 Million Lawsuit After Losing Master Copy Of Unreleased Nicolas Cage Movie: ‘Someone Stole A Good Amount Of Drives’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -290,15 +298,6 @@
                 <span class="time">2026-07-31 22:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/ludwig-badwig-road-to-empress-1280x720.jpeg" alt="The Internet Is Clowning The Hell Outta Ludwig For His Hilarious Appearance In A Chinese FMV Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ludwig-road-to-empress-2-chinese-fmv-game-ai-slop-2000720867" target="_blank">The Internet Is Clowning The Hell Outta Ludwig For His Hilarious Appearance In A Chinese FMV Game</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-31 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 95 | 📡 Total Sources: 40 | 📸 With Images: 243 |
-        🔄 Last Updated: 15:20 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 96 | 📡 Total Sources: 40 | 📸 With Images: 241 |
+        🔄 Last Updated: 16:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
