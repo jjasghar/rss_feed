@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-08-01 01:30:55 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-01 02:59:11 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Saturday, August 01, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Saturday, August 01, 2026 - 02:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/07/31/nx-s1-5915820/fifa-world-cup-gianni-infantino" target="_blank">FIFA scraps controversial deal to sell stakes in World Cup to private investors</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-01 02:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2db7/live/563651e0-8c0d-11f1-8665-e382dc49dfdb.jpg" alt="Victims of disgraced funeral boss demand industry regulation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -64,6 +74,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/cabinet-21-rt-gmh-260731_1785516825114_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump weighs strikes on Iranian energy sites, US officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-tehran-progress-made-strait-hormuz/?id=135110405" target="_blank">Iran live updates: Trump weighs strikes on Iranian energy sites, US officials say</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-07-31 23:36</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/reflecting-pool-gty-jt-260731_1785536078039_hpMain_4x3t_384.jpg" alt="DOJ dropping Reflecting Pool vandalism charge against Olympian David Hearn" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -73,30 +92,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4918/live/44b70360-8d2f-11f1-a8c6-f78b94006729.jpg" alt="Labour&#x27;s Bev Craig elected Greater Manchester mayor, succeeding Andy Burnham" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/7/31/israeli-settlers-vandalise-palestinian-cemetery-in-west-bank?traffic_source=rss" target="_blank">Israeli settlers vandalise Palestinian cemetery in West Bank</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-31 22:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/31/pathirage-wins-sri-lankas-first-athletics-gold-in-commonwealth-javelin?traffic_source=rss" target="_blank">Pathirage beats Chopra and Nadeem to win Commonwealth gold in javelin</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-07-31 21:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/31/nx-s1-5913376/climate-adaptation-at-its-limits-says-one-scientist" target="_blank">Climate adaptation at its limits, says one scientist</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-07-31 20:28</span>
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cy74n1n1lnxo?at_medium=RSS&at_campaign=rss" target="_blank">Labour&#x27;s Bev Craig elected Greater Manchester mayor, succeeding Andy Burnham</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-07-31 22:53</span>
             </div>
         </div>
 </div>
@@ -175,6 +176,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-DCN6-Linux-Start" target="_blank">AMD Begins Posting Display Core Next 6 &quot;DCN6&quot; Linux Patches For RDNA5 GPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-01 00:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/priya_sajja_c336921bbda87/beyond-the-resume-why-every-tech-professional-needs-a-portfolio-1dp2" target="_blank">Beyond the Resume: Why Every Tech Professional Needs a Portfolio</a></span>
                 <span class="feed">DEV Community</span>
@@ -206,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/cloudhoste/how-to-deploy-self-hosted-n8n-on-a-eu399mo-european-vps-28cl" target="_blank">How to Deploy Self-Hosted n8n on a €3.99/mo European VPS</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-31 18:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/OSS-Firmware-MSI-B850-P-WIFI" target="_blank">The First Open-Source Firmware Released For Modern AMD Ryzen AM5 Platform</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-31 18:04</span>
             </div>
         </div>
 </div>
@@ -354,8 +355,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 111 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 114 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 02:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
