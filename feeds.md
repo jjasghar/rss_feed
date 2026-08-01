@@ -1,31 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-08-01 12:17:17 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-01 13:28:17 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 22 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, August 01, 2026 - 12:17 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, August 01, 2026 - 13:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/1/most-australian-teens-still-online-three-months-after-under-16-ban?traffic_source=rss" target="_blank">Most Australian teens still online three months after under-16 ban</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-01 13:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing" target="_blank">Spanish PM calls for urgent EU meeting after ‘selfish’ responses to Ceuta crisis</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-08-01 12:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,24 +93,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/08/01/nx-s1-5912219/trump-truth-social-access-insider-trading" target="_blank">For sale: early access to Trump&#x27;s Truth Social posts</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-08-01 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/8/1/fifa-world-cup-plan-fallout-afc-react-as-fifa-scrap-investment-push?traffic_source=rss" target="_blank">FIFA World Cup plan fallout: AFC reacts as Infantino scraps investment push</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-01 07:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6843/live/935b3ad0-8d6c-11f1-a7ab-8b30adf0800a.jpg" alt="Fifa scraps controversial World Cup investment plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss" target="_blank">Fifa scraps controversial World Cup investment plan</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-01 05:42</span>
             </div>
         </div>
 </div>
@@ -163,6 +163,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/skywalker_2de7de5f97df567/building-fair-rhythm-game-judgement-windows-in-javascript-1og9" target="_blank">Building Fair Rhythm-Game Judgement Windows in JavaScript</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-01 13:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/BurntSushi/ripgrep/issues/3494" target="_blank">RipGrep musl binaries occasionally segfault during very-large searches</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-01 12:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/sarvar_04/introducing-devpub-open-source-devto-cli-tool-49jf" target="_blank">Introducing DevPub - Open Source Dev.to CLI Tool</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-01 12:10</span>
@@ -193,24 +211,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-rc6-ATA" target="_blank">Linux 7.2-rc6 Working Around Several Buggy Western Digital SATA Drives</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-08-01 10:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/chenyuan20509/i-built-a-state-machine-for-my-ai-agents-publishing-pipeline-heres-the-pattern-that-survived-50-36a9" target="_blank">I Built a State Machine for My AI Agent&#x27;s Publishing Pipeline. Here&#x27;s the Pattern That Survived 50 Consecutive Runs.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-01 10:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/KDE-Plasma-6.8-Faster-eGPU" target="_blank">KDE Plasma 6.8 To Enjoy Huge Performance Gains For Multi-GPU/eGPU Performance</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-01 10:18</span>
             </div>
         </div>
 </div>
@@ -323,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 103 | 📡 Total Sources: 40 | 📸 With Images: 248 |
-        🔄 Last Updated: 12:17 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 101 | 📡 Total Sources: 40 | 📸 With Images: 245 |
+        🔄 Last Updated: 13:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
