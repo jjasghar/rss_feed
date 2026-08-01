@@ -1,37 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-08-01 11:25:42 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-08-01 12:17:17 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, August 01, 2026 - 11:25 UTC</div>
+    <div class="newspaper-date">Saturday, August 01, 2026 - 12:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/01/nx-s1-5907932/opinion-remembering-margo-howard" target="_blank">Opinion: Remembering Margo Howard</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-01 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3e1/live/98c7dee0-8d7d-11f1-b2ab-0dd01740f9f6.jpg" alt="Spain attacks &#x27;selfish&#x27; response of some EU countries to Ceuta migrant crossings" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,20 +95,20 @@
                 <span class="time">2026-08-01 05:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/1/protesters-detained-at-rally-in-support-of-pakistan-administered-kashmir?traffic_source=rss" target="_blank">Protesters detained at rally in support of Pakistan-administered Kashmir</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-01 04:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/973929/instapaper-app-pastebot-spiderman-movie-installer" target="_blank">The OG reading app just got a big update</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-01 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a6d2d369489ec53630e766b/master/pass/Dreo%E2%80%99s-Summer-Flash-Sale-2026--Lowest-Price-Ever-on-a-Top-Tested-Air-Fryer.jpg" alt="Dreo Summer Flash Sale 2026: Lowest Price Ever on Chefmaker, Fan" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +154,29 @@
                 <span class="time">2026-07-31 23:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/" target="_blank">OpenAI reportedly finds evidence that more of its agents ran amok</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-07-31 22:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sarvar_04/introducing-devpub-open-source-devto-cli-tool-49jf" target="_blank">Introducing DevPub - Open Source Dev.to CLI Tool</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-01 12:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Arch-Linux-Foxboron" target="_blank">Prominent Arch Linux Developer Resigns After 10 Year Run</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-01 11:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,24 +211,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/KDE-Plasma-6.8-Faster-eGPU" target="_blank">KDE Plasma 6.8 To Enjoy Huge Performance Gains For Multi-GPU/eGPU Performance</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-08-01 10:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/saad4software/create-god-and-ask-him-for-money-13l0" target="_blank">Create God and Ask Him for Money</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-01 09:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/parsajiravand/youve-been-wrapping-new-url-in-trycatch-urlparse-does-it-natively-4p2e" target="_blank">You&#x27;ve been wrapping `new URL()` in try/catch. `URL.parse()` does it natively.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-01 08:27</span>
             </div>
         </div>
 </div>
@@ -329,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 11:25 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 103 | 📡 Total Sources: 40 | 📸 With Images: 248 |
+        🔄 Last Updated: 12:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
