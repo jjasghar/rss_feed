@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-08-01 20:16:49 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-08-01 21:15:51 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Error processing https://ubuntu.com/blog/feed: The read operation timed out -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Saturday, August 01, 2026 - 20:17 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, August 01, 2026 - 21:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/moscow-explosion-ap-jt-260801_1785613988475_hpMain_4x3t_384.jpg" alt="Explosion in Moscow leaves at least 3 dead, 21 injured" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/explosion-moscow-leaves-3-dead-15-injured/story?id=135294336" target="_blank">Explosion in Moscow leaves at least 3 dead, 21 injured</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-01 21:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/1/police-say-13-killed-as-small-plane-viewing-nazca-lines-in-peru-crashes?traffic_source=rss" target="_blank">Police say 13 killed as small plane viewing Nazca Lines in Peru crashes</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-01 20:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes" target="_blank">Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-01 20:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing" target="_blank">EU to hold urgent meeting of interior ministers on Tuesday over Ceuta crisis</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-08-01 19:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -63,47 +102,20 @@
                 <span class="time">2026-08-01 15:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22bc/live/9b18d720-8da6-11f1-9e26-8164f877b701.jpg" alt="Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss" target="_blank">Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-01 14:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e48/live/4d54be50-8d9c-11f1-b166-41a144b04f85.png" alt="Greater Manchester mayor says Burnham&#x27;s new powers will change lives" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cddj3j50rmpo?at_medium=RSS&at_campaign=rss" target="_blank">Greater Manchester mayor says Burnham&#x27;s new powers will change lives</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-01 13:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/1/most-australian-teens-still-online-three-months-after-under-16-ban?traffic_source=rss" target="_blank">Most Australian teens still online three months after under-16 ban</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-01 13:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing" target="_blank">Spanish PM calls for urgent EU meeting after ‘selfish’ responses to Ceuta crisis</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-08-01 12:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/" target="_blank">Inside the London hacker house taking a stand against founder burnout</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-01 21:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +161,20 @@
                 <span class="time">2026-08-01 17:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/974199/spider-man-brand-new-day-leak-box-office-records" target="_blank">Spider-Man: Brand New Day leak racks up millions of views</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-01 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/" target="_blank">The Silicon Valley Founder Meat Grinder</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-01 20:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F345901%2Fbfbf95cb-0966-4fe4-a436-61f1f800b6b1.jpeg" alt="900MB 8MB says it all. Starred." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -208,34 +220,20 @@
                 <span class="time">2026-08-01 16:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ccortezb/-blog-10-minecraft-mod-agent-i-made-my-ai-agent-judge-itself-and-used-the-scores-to-make-it-a-333j" target="_blank"># Blog 10: Minecraft Mod Agent- I Made My AI Agent Judge Itself — And Used the Scores to Make It a Better Combat Advisor</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-01 16:13</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squid-helps-discover-new-marine-species.html" target="_blank">Friday Squid Blogging: Squid Helps Discover New Marine Species</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-07-31 21:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/brainiacinj2-1280x742.jpg" alt="Book Database Shutters AI Service Following Outrage Over Destroyed Rare Texts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/book-database-shutters-ai-service-following-outrage-over-destroyed-rare-texts-2000721018" target="_blank">Book Database Shutters AI Service Following Outrage Over Destroyed Rare Texts</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-01 20:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/PRAGMATA_SS_15-1280x720.jpg" alt="Pragmata Devs Considered A Bob To Save On Hair Rendering" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -243,6 +241,15 @@
                 <span class="title"><a href="https://kotaku.com/pragmata-devs-considered-a-bob-to-save-on-hair-rendering-2000721012" target="_blank">Pragmata Devs Considered A Bob To Save On Hair Rendering</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-08-01 18:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/1280px-6sided_dice.jpg?fit=1280%2C881&amp;quality=60&amp;ssl=1" alt="The messy-bedroom explanation of entropy is wrong" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/01/what-is-entropy-really.html" target="_blank">The messy-bedroom explanation of entropy is wrong</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-01 17:00</span>
             </div>
         </div>
 <div class="story">
@@ -272,24 +279,6 @@
                 <span class="time">2026-08-01 16:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/Official-promo-image-of-Fortitude-Op-Fortitude-1280x720.jpg" alt="Netflix Hit With $105 Million Lawsuit After Losing Master Copy Of Unreleased Nicolas Cage Movie: ‘Someone Stole A Good Amount Of Drives’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/netflix-hit-with-105-million-lawsuit-after-losing-master-copy-of-unreleased-nicolas-cage-movie-someone-stole-a-good-amount-of-drives-2000720992" target="_blank">Netflix Hit With $105 Million Lawsuit After Losing Master Copy Of Unreleased Nicolas Cage Movie: ‘Someone Stole A Good Amount Of Drives’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-01 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/shutterstock_2766212099-scaled.jpg?fit=2560%2C1556&amp;quality=60&amp;ssl=1" alt="Boy George&#x27;s Pro-Israel AI Slop Reggae Song was Promotional Stunt for Playing Herod in Jesus Christ Superstar" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/31/boy-georges-pro-israel-ai-slop-reggae-song-was-promotional-stunt-for-playing-herod-in-jesus-christ-superstar.html" target="_blank">Boy George&#x27;s Pro-Israel AI Slop Reggae Song was Promotional Stunt for Playing Herod in Jesus Christ Superstar</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-01 03:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -309,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 89 | 📡 Total Sources: 40 | 📸 With Images: 238 |
-        🔄 Last Updated: 20:17 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 91 | 📡 Total Sources: 40 | 📸 With Images: 237 |
+        🔄 Last Updated: 21:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
