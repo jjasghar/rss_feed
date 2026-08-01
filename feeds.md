@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-08-01 04:12:33 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-01 05:58:15 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Saturday, August 01, 2026 - 04:12 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, August 01, 2026 - 05:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -169,6 +170,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jaketao/will-ai-replace-software-198h" target="_blank">Will AI replace software?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-01 05:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/08/aws-builder-sandbox/en/headerimage/generatedHeaderImage-1783889777241.jpg" alt="AWS Introduces Free Sandbox Environments for Workshops" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/08/aws-builder-sandbox/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Introduces Free Sandbox Environments for Workshops</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-01 04:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/huynhnhanquoc/every-building-journey-deserves-respect-3m37" target="_blank">Every Building Journey Deserves Respect</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-01 03:53</span>
@@ -199,24 +218,6 @@
                 <span class="title"><a href="https://dev.to/priya_sajja_c336921bbda87/beyond-the-resume-why-every-tech-professional-needs-a-portfolio-1dp2" target="_blank">Beyond the Resume: Why Every Tech Professional Needs a Portfolio</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-07-31 22:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-CDNA5-ISA-Documentation" target="_blank">AMD Publishes CDNA5 ISA Documentation For Instinct MI455X</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-07-31 20:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://tailscale.com/blog/hugging-face-intrusion" target="_blank">Tailscale didn&#x27;t stop the Hugging Face intrusion</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-07-31 19:03</span>
             </div>
         </div>
 </div>
@@ -256,6 +257,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/shutterstock_2766212099-scaled.jpg?fit=2560%2C1556&amp;quality=60&amp;ssl=1" alt="Boy George&#x27;s Pro-Israel AI Slop Reggae Song was Promotional Stunt for Playing Herod in Jesus Christ Superstar" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/31/boy-georges-pro-israel-ai-slop-reggae-song-was-promotional-stunt-for-playing-herod-in-jesus-christ-superstar.html" target="_blank">Boy George&#x27;s Pro-Israel AI Slop Reggae Song was Promotional Stunt for Playing Herod in Jesus Christ Superstar</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-01 03:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/shutterstock_2170589913-scaled.jpg?fit=2560%2C1662&amp;quality=60&amp;ssl=1" alt="Unpublished novel&#x27;s $2.4m deal pulled over AI concerns" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -301,15 +311,6 @@
                 <span class="time">2026-07-31 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/shutterstock_2765348225-edited-e1785521670211.jpg?fit=1575%2C910&amp;quality=60&amp;ssl=1" alt="Patronscan&#x27;s &quot;ultimate bouncer&quot; never forgets a face in San Francisco&#x27;s gay bars" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/31/patronscans-ultimate-bouncer-never-forgets-a-face-in-san-franciscos-gay-bars.html" target="_blank">Patronscan&#x27;s &quot;ultimate bouncer&quot; never forgets a face in San Francisco&#x27;s gay bars</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-31 18:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -347,8 +348,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 112 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 04:12 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 113 | 📡 Total Sources: 40 | 📸 With Images: 255 |
+        🔄 Last Updated: 05:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
