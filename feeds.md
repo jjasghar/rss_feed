@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-08-01 06:56:57 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-01 07:45:29 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, August 01, 2026 - 06:57 UTC</div>
+    <div class="newspaper-date">Saturday, August 01, 2026 - 07:45 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6843/live/935b3ad0-8d6c-11f1-a7ab-8b30adf0800a.jpg" alt="Fifa scraps controversial World Cup investment plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss" target="_blank">Fifa scraps controversial World Cup investment plan</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-01 05:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +98,20 @@
                 <span class="time">2026-07-31 23:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/reflecting-pool-gty-jt-260731_1785536078039_hpMain_4x3t_384.jpg" alt="DOJ dropping Reflecting Pool vandalism charge against Olympian David Hearn" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/doj-moves-dismiss-reflecting-pool-case-olympian-citing/story?id=135274977" target="_blank">DOJ dropping Reflecting Pool vandalism charge against Olympian David Hearn</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-31 23:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png" alt="Paramount+ Coupon Codes and Deals for August 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/paramount-plus-coupon-code/" target="_blank">Paramount+ Coupon Codes and Deals for August 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-01 05:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a6ce4d0afbe242a6bbbf131/master/pass/GettyImages-2287699812.jpg" alt="SpaceX’s Falcon 9 Rocket Is About to Crash Into the Moon—and It Could Be Visible From Earth" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,20 +157,20 @@
                 <span class="time">2026-07-31 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2218358312-500x500.jpg" alt="Reddit keeps weird DMCA lawsuit against web scraper alive despite Google’s loss" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/" target="_blank">Reddit keeps weird DMCA lawsuit against web scraper alive despite Google’s loss</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-31 21:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/fromzerotoship/two-of-my-projects-were-about-to-jump-a-grade-nobody-had-fixed-anything-2med" target="_blank">Two of my projects were about to jump a grade. Nobody had fixed anything.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-01 07:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +214,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/AMD-DCN6-Linux-Start" target="_blank">AMD Begins Posting Display Core Next 6 &quot;DCN6&quot; Linux Patches For RDNA5 GPUs</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-08-01 00:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/priya_sajja_c336921bbda87/beyond-the-resume-why-every-tech-professional-needs-a-portfolio-1dp2" target="_blank">Beyond the Resume: Why Every Tech Professional Needs a Portfolio</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-31 22:11</span>
             </div>
         </div>
 </div>
@@ -294,20 +290,20 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/ludwig-badwig-road-to-empress-1280x720.jpeg" alt="The Internet Is Clowning The Hell Outta Ludwig For His Hilarious Appearance In A Chinese FMV Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ludwig-road-to-empress-2-chinese-fmv-game-ai-slop-2000720867" target="_blank">The Internet Is Clowning The Hell Outta Ludwig For His Hilarious Appearance In A Chinese FMV Game</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-07-31 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Voibe-Lifetime-Subscription.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Voibe gives Mac users a much faster way to get words down" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
                 <span class="title"><a href="https://boingboing.net/2026/07/31/voibe-gives-mac-users-a-much-faster-way-to-get-words-down.html" target="_blank">Voibe gives Mac users a much faster way to get words down</a></span>
                 <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-31 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KYVDX2484D70XD8RC08K2N58/hero-image.jpg" alt="10 Snipping Tool Hacks Every Windows 11 User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/10-snipping-tool-hacks-every-windows-11-user-should-know?utm_medium=RSS" target="_blank">10 Snipping Tool Hacks Every Windows 11 User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
                 <span class="time">2026-07-31 21:00</span>
             </div>
         </div>
@@ -334,22 +330,13 @@
                 <span class="time">2026-07-31 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/07/31/jimothy-chalamet" target="_blank">Jimothy Chalamet</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-07-31 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 114 | 📡 Total Sources: 40 | 📸 With Images: 254 |
-        🔄 Last Updated: 06:57 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 07:45 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
