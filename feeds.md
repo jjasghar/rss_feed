@@ -1,31 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-08-01 14:28:04 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-01 15:20:45 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, August 01, 2026 - 14:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, August 01, 2026 - 15:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22bc/live/9b18d720-8da6-11f1-9e26-8164f877b701.jpg" alt="Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss" target="_blank">Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-01 14:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,20 +99,20 @@
                 <span class="time">2026-08-01 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/01/nx-s1-5912219/trump-truth-social-access-insider-trading" target="_blank">For sale: early access to Trump&#x27;s Truth Social posts</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-01 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/" target="_blank">Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-01 15:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -116,6 +129,15 @@
                 <span class="title"><a href="https://www.theverge.com/tech/973929/instapaper-app-pastebot-spiderman-movie-installer" target="_blank">The OG reading app just got a big update</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-08-01 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68563692fd268ad4c81d6dc3/master/pass/The%2014%20Best%20Office%20Chairs.png" alt="15 Best Office Chairs of 2026—We Tested 70 to Pick Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-office-chairs/" target="_blank">15 Best Office Chairs of 2026—We Tested 70 to Pick Them</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-01 11:59</span>
             </div>
         </div>
 <div class="story">
@@ -136,29 +158,29 @@
                 <span class="time">2026-08-01 10:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a6d42512800a81073f2596e/master/pass/Review--Alienware-15-Gaming-Laptop.jpg" alt="Alienware 15 Gaming Laptop Review: Hedging Its Bets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/alienware-15-gaming-laptop/" target="_blank">Alienware 15 Gaming Laptop Review: Hedging Its Bets</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-01 09:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png" alt="Paramount+ Coupon Codes and Deals for August 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/paramount-plus-coupon-code/" target="_blank">Paramount+ Coupon Codes and Deals for August 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-01 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/octoooo/same-deepseek-v4-flash-different-agent-why-the-runtime-changes-the-result-3m3b" target="_blank">Same DeepSeek V4 Flash, Different Agent: Why the Runtime Changes the Result</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-01 15:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/" target="_blank">A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-01 14:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,24 +217,6 @@
                 <span class="time">2026-08-01 12:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sarvar_04/introducing-devpub-open-source-devto-cli-tool-49jf" target="_blank">Introducing DevPub - Open Source Dev.to CLI Tool</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-01 12:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Arch-Linux-Foxboron" target="_blank">Prominent Arch Linux Developer Resigns After 10 Year Run</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-01 11:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +245,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/Official-promo-image-of-Fortitude-Op-Fortitude-1280x720.jpg" alt="Netflix Hit With $105 Million Lawsuit After Losing Master Copy Of Unreleased Nicolas Cage Movie: ‘Someone Stole A Good Amount Of Drives’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/netflix-hit-with-105-million-lawsuit-after-losing-master-copy-of-unreleased-nicolas-cage-movie-someone-stole-a-good-amount-of-drives-2000720992" target="_blank">Netflix Hit With $105 Million Lawsuit After Losing Master Copy Of Unreleased Nicolas Cage Movie: ‘Someone Stole A Good Amount Of Drives’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-01 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/shutterstock_2766212099-scaled.jpg?fit=2560%2C1556&amp;quality=60&amp;ssl=1" alt="Boy George&#x27;s Pro-Israel AI Slop Reggae Song was Promotional Stunt for Playing Herod in Jesus Christ Superstar" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +299,6 @@
                 <span class="time">2026-07-31 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Voibe-Lifetime-Subscription.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Voibe gives Mac users a much faster way to get words down" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/07/31/voibe-gives-mac-users-a-much-faster-way-to-get-words-down.html" target="_blank">Voibe gives Mac users a much faster way to get words down</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-07-31 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -309,22 +313,13 @@
                 <span class="time">2026-07-31 18:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1785374139-20260731.png" alt="Saturday Morning Breakfast Cereal - EV" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/ev-2" target="_blank">Saturday Morning Breakfast Cereal - EV</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-07-31 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 97 | 📡 Total Sources: 40 | 📸 With Images: 243 |
-        🔄 Last Updated: 14:28 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 95 | 📡 Total Sources: 40 | 📸 With Images: 243 |
+        🔄 Last Updated: 15:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
