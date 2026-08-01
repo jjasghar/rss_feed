@@ -1,42 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-08-01 22:17:04 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-01 23:16:32 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 33 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Saturday, August 01, 2026 - 22:17 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Saturday, August 01, 2026 - 23:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/01/nx-s1-5916418/vincent-pastore-sopranos-obit" target="_blank">&#x27;Sopranos&#x27; actor Vincent Pastore, known for playing mobsters and tough guys, dead at 80</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-01 22:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/moscow-explosion-ap-jt-260801_1785613988475_hpMain_4x3t_384.jpg" alt="Explosion in Moscow leaves at least 3 dead, 21 injured" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -95,15 +95,6 @@
                 <span class="title"><a href="https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing" target="_blank">EU to hold urgent meeting of interior ministers on Tuesday over Ceuta crisis</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2026-08-01 19:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing" target="_blank">EU to hold urgent meeting after Spanish PM calls Ceuta crisis response ‘selfish’</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-08-01 16:59</span>
             </div>
         </div>
 </div>
@@ -174,6 +165,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/coridev/your-voice-assistant-can-be-social-engineered-too-and-nobodys-watching-for-it-51jp" target="_blank">Your Voice Assistant Can Be Social-Engineered Too, and Nobody&#x27;s Watching For It</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-01 22:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/said_olano/understanding-java-virtual-threads-lightweight-concurrency-in-modern-java-19" target="_blank">Understanding Java Virtual Threads: Lightweight Concurrency in Modern Java</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-01 22:02</span>
@@ -215,20 +215,20 @@
                 <span class="time">2026-08-01 19:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rushdev/beyond-woocommercecoms-selective-plugin-loading-59hh" target="_blank">Beyond WooCommerce.com’s Selective Plugin Loading</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-01 18:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/endocopia-1280x772.jpg" alt="Indie Horror Game Occupies Void Between Nightmare And Putt-Putt Saves The Zoo" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/indie-horror-game-occupies-void-between-nightmare-and-putt-putt-saves-the-zoo-2000721023" target="_blank">Indie Horror Game Occupies Void Between Nightmare And Putt-Putt Saves The Zoo</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-01 22:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Microsoft-Office-Professional-2021-for-Windows-2.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Get Word, Excel, PowerPoint, and more for life for less than $5 each with this Microsoft Office license" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,15 +274,6 @@
                 <span class="time">2026-08-01 16:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/1964_Peel_P50_Blue-scaled.jpg?fit=2560%2C2182&amp;quality=60&amp;ssl=1" alt="The smallest car ever made had no reverse gear" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/01/peel-p50.html" target="_blank">The smallest car ever made had no reverse gear</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-01 16:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -302,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 88 | 📡 Total Sources: 40 | 📸 With Images: 237 |
-        🔄 Last Updated: 22:17 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 86 | 📡 Total Sources: 40 | 📸 With Images: 238 |
+        🔄 Last Updated: 23:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
