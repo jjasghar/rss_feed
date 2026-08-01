@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-08-01 07:45:29 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-01 08:42:53 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, August 01, 2026 - 07:45 UTC</div>
+    <div class="newspaper-date">Saturday, August 01, 2026 - 08:43 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/8/1/fifa-world-cup-plan-fallout-afc-react-as-fifa-scrap-investment-push?traffic_source=rss" target="_blank">FIFA World Cup plan fallout: AFC reacts as Infantino scraps investment push</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-01 07:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6843/live/935b3ad0-8d6c-11f1-a7ab-8b30adf0800a.jpg" alt="Fifa scraps controversial World Cup investment plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,15 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/7/31/fifa-forced-to-scrap-world-cup-private-investment-plan-after-backlash?traffic_source=rss" target="_blank">FIFA scrap controversial World Cup private investment plan</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-07-31 23:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/cabinet-21-rt-gmh-260731_1785516825114_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump weighs strikes on Iranian energy sites, US officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-tehran-progress-made-strait-hormuz/?id=135110405" target="_blank">Iran live updates: Trump weighs strikes on Iranian energy sites, US officials say</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-07-31 23:36</span>
             </div>
         </div>
 </div>
@@ -166,6 +166,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/parsajiravand/youve-been-wrapping-new-url-in-trycatch-urlparse-does-it-natively-4p2e" target="_blank">You&#x27;ve been wrapping `new URL()` in try/catch. `URL.parse()` does it natively.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-01 08:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/fromzerotoship/two-of-my-projects-were-about-to-jump-a-grade-nobody-had-fixed-anything-2med" target="_blank">Two of my projects were about to jump a grade. Nobody had fixed anything.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-01 07:41</span>
@@ -205,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/debashish_ghosal/faster-prs-weaker-instincts-the-judgment-problem-in-ai-assisted-engineering-4fd8" target="_blank">Faster PRs, Weaker Instincts: The Judgment Problem in AI-Assisted Engineering</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-01 01:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-DCN6-Linux-Start" target="_blank">AMD Begins Posting Display Core Next 6 &quot;DCN6&quot; Linux Patches For RDNA5 GPUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-01 00:29</span>
             </div>
         </div>
 </div>
@@ -335,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 254 |
-        🔄 Last Updated: 07:45 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 114 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 08:43 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
