@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-08-01 09:36:02 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-01 10:29:51 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 31 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Saturday, August 01, 2026 - 09:36 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Saturday, August 01, 2026 - 10:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3e1/live/98c7dee0-8d7d-11f1-b2ab-0dd01740f9f6.jpg" alt="Spain attacks &#x27;selfish&#x27; response of some EU countries to Ceuta migrant crossings" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss" target="_blank">Spain attacks &#x27;selfish&#x27; response of some EU countries to Ceuta migrant crossings</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-01 10:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/01/nx-s1-5910555/lebanon-israel-war-hezbollah" target="_blank">Lebanese who fled the Israeli invasion visit to see what&#x27;s left</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-01 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,29 +100,29 @@
                 <span class="time">2026-08-01 04:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/07/31/nx-s1-5915820/fifa-world-cup-gianni-infantino" target="_blank">FIFA scraps controversial deal to sell stakes in World Cup to private investors</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-01 02:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2db7/live/563651e0-8c0d-11f1-8665-e382dc49dfdb.jpg" alt="Victims of disgraced funeral boss demand industry regulation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cr49w13w9d0o?at_medium=RSS&at_campaign=rss" target="_blank">Victims of disgraced funeral boss demand industry regulation</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-01 00:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a6d2d369489ec53630e766b/master/pass/Dreo%E2%80%99s-Summer-Flash-Sale-2026--Lowest-Price-Ever-on-a-Top-Tested-Air-Fryer.jpg" alt="Dreo Summer Flash Sale 2026: Lowest Price Ever on Chefmaker, Fan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/dreo-chefmaker-turbocool-fan-flash-deal-2026/" target="_blank">Dreo Summer Flash Sale 2026: Lowest Price Ever on Chefmaker, Fan</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-01 10:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/defconbadge-500x500.jpg" alt="Defcon&#x27;s new badge is a security key you can see inside" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2026/08/defcons-new-badge-is-a-security-key-you-can-see-inside/" target="_blank">Defcon&#x27;s new badge is a security key you can see inside</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-01 10:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a6d42512800a81073f2596e/master/pass/Review--Alienware-15-Gaming-Laptop.jpg" alt="Alienware 15 Gaming Laptop Review: Hedging Its Bets" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,29 +159,29 @@
                 <span class="time">2026-07-31 22:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2163385148-500x500.jpg" alt="Not just Neanderthals: Ghost lineage in Africa left its mark on our DNA" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/07/not-just-neanderthals-ghost-lineage-in-africa-left-its-mark-on-our-dna/" target="_blank">Not just Neanderthals: Ghost lineage in Africa left its mark on our DNA</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-07-31 22:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/973886/sharge-disk-pro-2-hands-on-switch-2-hdmi-usb-c-dock" target="_blank">With Switch 2, iPhone, and laptop tricks, the Sharge Disk Pro 2 is finally a worthy EDC</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-07-31 22:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/chenyuan20509/i-built-a-state-machine-for-my-ai-agents-publishing-pipeline-heres-the-pattern-that-survived-50-36a9" target="_blank">I Built a State Machine for My AI Agent&#x27;s Publishing Pipeline. Here&#x27;s the Pattern That Survived 50 Consecutive Runs.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-01 10:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/KDE-Plasma-6.8-Faster-eGPU" target="_blank">KDE Plasma 6.8 To Enjoy Huge Performance Gains For Multi-GPU/eGPU Performance</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-01 10:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,24 +216,6 @@
                 <span class="title"><a href="https://dev.to/jaketao/will-ai-replace-software-198h" target="_blank">Will AI replace software?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-01 05:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/08/aws-builder-sandbox/en/headerimage/generatedHeaderImage-1783889777241.jpg" alt="AWS Introduces Free Sandbox Environments for Workshops" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/08/aws-builder-sandbox/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Introduces Free Sandbox Environments for Workshops</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-01 04:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/huynhnhanquoc/every-building-journey-deserves-respect-3m37" target="_blank">Every Building Journey Deserves Respect</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-01 03:53</span>
             </div>
         </div>
 </div>
@@ -340,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 112 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 09:36 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 113 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 10:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
