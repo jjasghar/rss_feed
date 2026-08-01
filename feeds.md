@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-08-01 10:29:51 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-08-01 11:25:42 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, August 01, 2026 - 10:30 UTC</div>
+    <div class="newspaper-date">Saturday, August 01, 2026 - 11:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -168,6 +169,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kevin_menesesgonzlez/5-best-free-ai-courses-in-2026-with-certificates-igp" target="_blank">5 Best Free AI Courses in 2026 (With Certificates)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-01 11:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-rc6-ATA" target="_blank">Linux 7.2-rc6 Working Around Several Buggy Western Digital SATA Drives</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-01 10:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/chenyuan20509/i-built-a-state-machine-for-my-ai-agents-publishing-pipeline-heres-the-pattern-that-survived-50-36a9" target="_blank">I Built a State Machine for My AI Agent&#x27;s Publishing Pipeline. Here&#x27;s the Pattern That Survived 50 Consecutive Runs.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-01 10:20</span>
@@ -200,24 +219,6 @@
                 <span class="time">2026-08-01 08:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/fromzerotoship/two-of-my-projects-were-about-to-jump-a-grade-nobody-had-fixed-anything-2med" target="_blank">Two of my projects were about to jump a grade. Nobody had fixed anything.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-01 07:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jaketao/will-ai-replace-software-198h" target="_blank">Will AI replace software?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-01 05:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,15 +240,6 @@
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/anthropics-opus-5-is-better-at-resisting-prompt-injection.html" target="_blank">Anthropic’s Opus 5 Is Better at Resisting Prompt Injection</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2026-07-31 17:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/07/facial-recognition-at-madison-square-garden.html" target="_blank">Facial Recognition at Madison Square Garden</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-07-31 11:08</span>
             </div>
         </div>
 </div>
@@ -337,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 113 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 10:30 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 11:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
