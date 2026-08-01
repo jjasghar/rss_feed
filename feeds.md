@@ -1,31 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-08-01 13:28:17 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-08-01 14:28:04 UTC -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, August 01, 2026 - 13:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Saturday, August 01, 2026 - 14:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,6 +104,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/968645/back-to-school-shopping-guide-gifts" target="_blank">The Verge’s 2026 back-to-school shopping guide</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-01 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/973929/instapaper-app-pastebot-spiderman-movie-installer" target="_blank">The OG reading app just got a big update</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-08-01 12:00</span>
@@ -145,20 +154,29 @@
                 <span class="time">2026-08-01 05:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a6ce4d0afbe242a6bbbf131/master/pass/GettyImages-2287699812.jpg" alt="SpaceX’s Falcon 9 Rocket Is About to Crash Into the Moon—and It Could Be Visible From Earth" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/spacex-falcon-9-rocket-crash-into-moon/" target="_blank">SpaceX’s Falcon 9 Rocket Is About to Crash Into the Moon—and It Could Be Visible From Earth</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-07-31 23:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mehvetero/how-one-missing-assert-drained-114m-from-aftermath-finance-a-signed-integer-exploit-on-sui-1db3" target="_blank">How One Missing Assert Drained $1.14M From Aftermath Finance — A Signed Integer Exploit on Sui</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-01 14:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/July-2026-Highlights" target="_blank">MPEG-4 Patent Expiration, RADV On Windows, Open-Source AI &amp; Other July Highlights</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-01 13:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -193,24 +211,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Arch-Linux-Foxboron" target="_blank">Prominent Arch Linux Developer Resigns After 10 Year Run</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-08-01 11:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kevin_menesesgonzlez/5-best-free-ai-courses-in-2026-with-certificates-igp" target="_blank">5 Best Free AI Courses in 2026 (With Certificates)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-01 11:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-rc6-ATA" target="_blank">Linux 7.2-rc6 Working Around Several Buggy Western Digital SATA Drives</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-01 10:49</span>
             </div>
         </div>
 </div>
@@ -323,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 101 | 📡 Total Sources: 40 | 📸 With Images: 245 |
-        🔄 Last Updated: 13:28 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 97 | 📡 Total Sources: 40 | 📸 With Images: 243 |
+        🔄 Last Updated: 14:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
