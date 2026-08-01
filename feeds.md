@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-08-01 19:24:05 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-01 20:16:49 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Saturday, August 01, 2026 - 19:24 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Saturday, August 01, 2026 - 20:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +107,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead" target="_blank">Angela Nissel faces down grief with a laugh</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-01 20:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/" target="_blank">YouTuber Hank Green says his AI usage is ‘not healthy’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-01 19:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/" target="_blank">Should you still buy your next smartphone — or subscribe to it instead?</a></span>
                 <span class="feed">TechCrunch</span>
@@ -138,29 +158,29 @@
                 <span class="time">2026-08-01 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/" target="_blank">This $9 key physically locks your most addictive apps</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-01 15:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/974197/trump-tim-walz-minnesota-water-hacks-iran" target="_blank">Trump blames Tim Walz for water hacks even though it’s probably Iran</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-01 15:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F345901%2Fbfbf95cb-0966-4fe4-a436-61f1f800b6b1.jpeg" alt="900MB 8MB says it all. Starred." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ozgurburakozdemir/-15m2" target="_blank">900MB 8MB says it all. Starred.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-01 20:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now" target="_blank">Google News is just Forrest Gump&#x27;s shrimp boat now</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-01 19:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,24 +215,6 @@
                 <span class="title"><a href="https://dev.to/ccortezb/-blog-10-minecraft-mod-agent-i-made-my-ai-agent-judge-itself-and-used-the-scores-to-make-it-a-333j" target="_blank"># Blog 10: Minecraft Mod Agent- I Made My AI Agent Judge Itself — And Used the Scores to Make It a Better Combat Advisor</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-01 16:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://lalitm.com/post/github-alternatives/" target="_blank">GitHub has alternatives, but no replacement</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-01 15:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/octoooo/same-deepseek-v4-flash-different-agent-why-the-runtime-changes-the-result-3m3b" target="_blank">Same DeepSeek V4 Flash, Different Agent: Why the Runtime Changes the Result</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-01 15:11</span>
             </div>
         </div>
 </div>
@@ -307,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 87 | 📡 Total Sources: 40 | 📸 With Images: 239 |
-        🔄 Last Updated: 19:24 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 89 | 📡 Total Sources: 40 | 📸 With Images: 238 |
+        🔄 Last Updated: 20:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
