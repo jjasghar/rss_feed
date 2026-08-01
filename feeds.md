@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-08-01 02:59:11 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-01 04:12:33 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Saturday, August 01, 2026 - 02:59 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Saturday, August 01, 2026 - 04:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -92,12 +93,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4918/live/44b70360-8d2f-11f1-a8c6-f78b94006729.jpg" alt="Labour&#x27;s Bev Craig elected Greater Manchester mayor, succeeding Andy Burnham" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-eclipse-moon_7310535.jpg?20260730162625" alt="The first solar eclipse in almost 30 years: Where best to view it?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cy74n1n1lnxo?at_medium=RSS&at_campaign=rss" target="_blank">Labour&#x27;s Bev Craig elected Greater Manchester mayor, succeeding Andy Burnham</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-07-31 22:53</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/the-first-solar-eclipse-in-almost-30-years-where-best-to-view-it-13568455" target="_blank">The first solar eclipse in almost 30 years: Where best to view it?</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-07-31 23:01</span>
             </div>
         </div>
 </div>
@@ -168,6 +169,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/huynhnhanquoc/every-building-journey-deserves-respect-3m37" target="_blank">Every Building Journey Deserves Respect</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-01 03:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/debashish_ghosal/faster-prs-weaker-instincts-the-judgment-problem-in-ai-assisted-engineering-4fd8" target="_blank">Faster PRs, Weaker Instincts: The Judgment Problem in AI-Assisted Engineering</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-01 01:27</span>
@@ -209,15 +219,6 @@
                 <span class="time">2026-07-31 19:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/cloudhoste/how-to-deploy-self-hosted-n8n-on-a-eu399mo-european-vps-28cl" target="_blank">How to Deploy Self-Hosted n8n on a €3.99/mo European VPS</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-07-31 18:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -255,6 +256,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/shutterstock_2170589913-scaled.jpg?fit=2560%2C1662&amp;quality=60&amp;ssl=1" alt="Unpublished novel&#x27;s $2.4m deal pulled over AI concerns" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/07/31/unpublished-novels-2-4m-deal-pulled-over-ai-concerns.html" target="_blank">Unpublished novel&#x27;s $2.4m deal pulled over AI concerns</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-01 03:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Image-NASA.jpg?fit=1080%2C607&amp;quality=60&amp;ssl=1" alt="Spacecraft sent on rescue mission now spinning out of control" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -300,15 +310,6 @@
                 <span class="time">2026-07-31 18:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2024/10/f88bf326b1894a17bd0a3e09f6d698c8-1280x720.jpg" alt="Mahershala Ali Says That If There Is A Blade Movie He Won’t Be In It Which Means There’s No Reason To See It Anymore" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/mahershala-ali-blade-movie-departure-marvel-studios-2000720796" target="_blank">Mahershala Ali Says That If There Is A Blade Movie He Won’t Be In It Which Means There’s No Reason To See It Anymore</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-07-31 17:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -341,22 +342,13 @@
                 <span class="time">2026-07-31 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/main_span.png" alt="Main Span" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3279/" target="_blank">Main Span</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-07-31 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 114 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 02:59 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 112 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 04:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
