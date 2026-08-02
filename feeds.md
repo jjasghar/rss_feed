@@ -1,44 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-08-02 19:24:12 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-02 20:17:41 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 35 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Sunday, August 02, 2026 - 19:24 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, August 02, 2026 - 20:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -116,6 +105,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music" target="_blank">Fender’s CEO seems to think your bandmates are just analog AI</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-02 19:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/" target="_blank">Malaysia is reportedly shutting down Balaji Srinivasan’s Network School</a></span>
                 <span class="feed">TechCrunch</span>
@@ -158,15 +156,6 @@
                 <span class="time">2026-08-02 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a6cc5c02bba9f4c44a51585/master/pass/Reality-Aboflah_lead.jpg" alt="YouTube Star AboFlah Made Streaming His Life. He Wants His Kids to Live Offline" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/youtube-star-aboflah-made-streaming-his-life-he-wants-his-kids-to-live-offline/" target="_blank">YouTube Star AboFlah Made Streaming His Life. He Wants His Kids to Live Offline</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-02 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -179,6 +168,15 @@
                 <span class="title"><a href="https://dev.to/lev_riabov_e6f2883d44b3ab/i-measured-the-rag-technique-menu-on-46000-chunks-four-things-mattered-2266" target="_blank">I measured the RAG technique menu on 46,000 chunks. Four things mattered.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-02 19:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/" target="_blank">SwiftUI After 7 Years: A Story of Mediocrity</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-02 18:59</span>
             </div>
         </div>
 <div class="story">
@@ -217,20 +215,29 @@
                 <span class="time">2026-08-02 15:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Starfire-Starts-Linux-7.3" target="_blank">Linux 7.3 To Begin Laying The Groundwork For Intel Starfire</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-02 14:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/machineparty-1280x720.jpg" alt="Buckshot Roulette Creator Unleashes A New Black Hearted Mario Party-Style Massacre" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/buckshot-roulette-creator-unleashes-a-new-black-hearted-mario-party-style-massacre-2000721071" target="_blank">Buckshot Roulette Creator Unleashes A New Black Hearted Mario Party-Style Massacre</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-02 19:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/Abridgment_of_the_Book_of_Kings_28Shahnama292C_ZCCA4aE1B8A5E1B8A5C481k_after_Satan_kissed_his_shoulder_and_two_snakes_came_out_of_it2C_Walters_Art_Museum_Ms._W.5972C_fol._6b.jpg?fit=1110%2C1800&amp;quality=60&amp;ssl=1" alt="A 15th-century Persian book says what a snake sighting means" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/02/marnameh-snake-omens.html" target="_blank">A 15th-century Persian book says what a snake sighting means</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-02 18:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2024/06/153c68ca713b0a8ac0228065e1b4cf93-1280x647.jpg" alt="Microsoft Increases Prices Of Xbox Series Consoles By Upwards Of $230 In UK And Europe" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,24 +274,6 @@
                 <span class="time">2026-08-02 16:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/mtgseizethestorm.jpg" alt="Major Tabletop Convention Gen Con Hit By Severe Storm As Ceiling Leaks And Attendees Take Shelter" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/major-tabletop-convention-gen-con-hit-by-severe-storm-as-ceiling-leaks-and-attendees-take-shelter-2000721049" target="_blank">Major Tabletop Convention Gen Con Hit By Severe Storm As Ceiling Leaks And Attendees Take Shelter</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-02 14:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/shutterstock_2773362545.jpg?fit=1000%2C668&amp;quality=60&amp;ssl=1" alt="Little Debbie delivery driver made $17k selling them from his truck at flea markets, say cops" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/02/little-debbie-delivery-driver-made-17k-selling-them-from-his-truck-at-flea-markets-say-cops.html" target="_blank">Little Debbie delivery driver made $17k selling them from his truck at flea markets, say cops</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-02 13:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -304,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 89 | 📡 Total Sources: 40 | 📸 With Images: 239 |
-        🔄 Last Updated: 19:24 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 87 | 📡 Total Sources: 40 | 📸 With Images: 238 |
+        🔄 Last Updated: 20:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
