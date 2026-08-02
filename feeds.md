@@ -1,42 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-08-02 22:16:08 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-02 23:17:05 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 34 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Sunday, August 02, 2026 - 22:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, August 02, 2026 - 23:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1785712065757_wnn_dgi_new_video_shows_moment_hero_fires_at_shooter_at_idaho_inandout_260802_S3_1920x1080-vojmee.jpg" alt="New video shows moment hero fires at shooter at Idaho In-and-Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/new-video-shows-moment-hero-fires-at-shooter-at-idaho-in-and-out-267650629521" target="_blank">New video shows moment hero fires at shooter at Idaho In-and-Out</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-02 23:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/max-miller-20260802-ap-jh_1785688722587_hpMain_4x3t_384.jpg" alt="Sen. Moreno: Rep. Max Miller &#x27;should not serve in the House&#x27; over abuse allegations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,30 +80,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-pakistan-kabal-suicide-bombing_7312464.jpg?20260802215329" alt="Deadly suicide bombing targeting anti-militant rally in Pakistan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/deadly-suicide-bombing-targeting-anti-militant-protesters-in-pakistan-13569275" target="_blank">Deadly suicide bombing targeting anti-militant rally in Pakistan</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-08-02 20:29</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-08/260802-in-n-out-vl-239p-15e047.jpg" alt="Armed bystander distracted gunman in fatal In-N-Out shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
                 <span class="title"><a href="https://www.nbcnews.com/news/us-news/bystander-handgun-distracted-gunman-fatal-shooting-rcna590473" target="_blank">Armed bystander distracted gunman in fatal In-N-Out shooting</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-08-02 19:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/max-miller-20260802-ap-jh_1785688722587_hpMain_4x3t_384.jpg" alt="Sen. Moreno calls for Rep. Max Miller to resign for allegedly abusing his daughter" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/sen-moreno-calls-rep-max-miller-resign-allegedly/story?id=135307603" target="_blank">Sen. Moreno calls for Rep. Max Miller to resign for allegedly abusing his daughter</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-02 19:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/2/iran-says-negotiations-with-oman-over-strait-of-hormuz-in-final-stages?traffic_source=rss" target="_blank">Iran says negotiations with Oman over Strait of Hormuz in final stages</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-02 19:08</span>
             </div>
         </div>
 </div>
@@ -174,6 +165,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ognivo/understanding-pegas-pzpvstream-why-a-20-year-old-design-still-makes-sense-3kh1" target="_blank">Understanding Pega&#x27;s `pzPVStream`: Why a 20-Year-Old Design Still Makes Sense</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-02 23:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/bkocdur/i-ran-lighthouse-on-269-shopify-stores-the-median-mobile-score-was-48-3p3e" target="_blank">I ran Lighthouse on 269 Shopify stores. The median mobile score was 48.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-02 22:09</span>
@@ -213,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/aiarch_wibo/how-to-build-an-mcp-server-step-by-step-3iom" target="_blank">How to build an MCP server, step by step</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-02 18:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/wie-project/kakehashi" target="_blank">Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-02 16:26</span>
             </div>
         </div>
 </div>
@@ -302,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 87 | 📡 Total Sources: 40 | 📸 With Images: 241 |
-        🔄 Last Updated: 22:16 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 40 | 📸 With Images: 241 |
+        🔄 Last Updated: 23:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
