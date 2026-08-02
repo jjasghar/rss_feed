@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-08-02 00:20:56 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-02 01:31:24 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, August 02, 2026 - 00:21 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, August 02, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/reflecting-pool-gty-jt-260731_1785536078039_hpMain_4x3t_384.jpg" alt="Trump objects to Pirro dropping vandalism case: &#x27;I don’t know what she was thinking?&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/doj-moves-dismiss-reflecting-pool-case-olympian-citing/story?id=135274977" target="_blank">Trump objects to Pirro dropping vandalism case: &#x27;I don’t know what she was thinking?&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-02 01:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b913/live/403e8040-8e03-11f1-8f5c-bb464f752049.jpg" alt="How Spain&#x27;s migrant crisis created a political storm - whipped up by social media" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss" target="_blank">How Spain&#x27;s migrant crisis created a political storm - whipped up by social media</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-02 00:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/2/hungary-plans-to-shut-down-only-nuclear-power-plant-amid-drought?traffic_source=rss" target="_blank">Hungary plans to shut down only nuclear power plant amid drought</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-02 00:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -62,39 +90,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4b7/live/0e5a2e40-8dee-11f1-9e04-0f917561a818.jpg" alt="Emotional Kerr delivers moment Glasgow 2026 has waited for with men&#x27;s mile gold" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/01/nx-s1-5916418/vincent-pastore-sopranos-obit" target="_blank">&#x27;Sopranos&#x27; actor Vincent Pastore, known for playing mobsters and tough guys, dead at 80</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-01 22:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/moscow-explosion-ap-jt-260801_1785613988475_hpMain_4x3t_384.jpg" alt="Explosion in Moscow leaves at least 3 dead, 21 injured" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/explosion-moscow-leaves-3-dead-15-injured/story?id=135294336" target="_blank">Explosion in Moscow leaves at least 3 dead, 21 injured</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-01 21:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/1/police-say-13-killed-as-small-plane-viewing-nazca-lines-in-peru-crashes?traffic_source=rss" target="_blank">Police say 13 killed as small plane viewing Nazca Lines in Peru crashes</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-01 20:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes" target="_blank">Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-01 20:27</span>
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/sport/athletics/articles/ckge35ywjvyo?at_medium=RSS&at_campaign=rss" target="_blank">Emotional Kerr delivers moment Glasgow 2026 has waited for with men&#x27;s mile gold</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-01 22:41</span>
             </div>
         </div>
 </div>
@@ -162,6 +163,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gimalay/designing-edit-operations-for-ai-agents-16e8" target="_blank">Designing Edit Operations for AI Agents</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-02 01:02</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgzeokcw2my19qqt7j05e.jpg" alt="Your on-call rotation is only as good as the context that transfers with it" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -204,15 +214,6 @@
                 <span class="title"><a href="https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/" target="_blank">The Silicon Valley Founder Meat Grinder</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-08-01 20:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F345901%2Fbfbf95cb-0966-4fe4-a436-61f1f800b6b1.jpeg" alt="900MB 8MB says it all. Starred." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ozgurburakozdemir/-15m2" target="_blank">900MB 8MB says it all. Starred.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-01 20:05</span>
             </div>
         </div>
 </div>
@@ -293,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 87 | 📡 Total Sources: 40 | 📸 With Images: 238 |
-        🔄 Last Updated: 00:21 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 89 | 📡 Total Sources: 39 | 📸 With Images: 238 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
