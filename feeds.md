@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-08-01 23:16:32 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-02 00:20:56 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Saturday, August 01, 2026 - 23:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Sunday, August 02, 2026 - 00:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/1/singapore-bans-uk-band-massive-attack-over-palestinian-flag?traffic_source=rss" target="_blank">Singapore bans UK band Massive Attack over Palestinian flag</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-01 23:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1785624692648_wnn_ksi_gaza_fut_260801_S3_1920x1080-spr04j.jpg" alt="Questions grow about Gaza’s future after Trump announces deal to disarm Hamas" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/questions-grow-about-gaza-s-future-after-trump-announces-deal-to-disarm-hamas-267631173776" target="_blank">Questions grow about Gaza’s future after Trump announces deal to disarm Hamas</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-01 22:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,24 +95,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes" target="_blank">Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-08-01 20:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/394b/live/4f569510-8dd9-11f1-b2ab-0dd01740f9f6.jpg" alt="EU calls emergency meeting to discuss Ceuta migrant crossings" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss" target="_blank">EU calls emergency meeting to discuss Ceuta migrant crossings</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-01 20:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing" target="_blank">EU to hold urgent meeting of interior ministers on Tuesday over Ceuta crisis</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-08-01 19:03</span>
             </div>
         </div>
 </div>
@@ -162,12 +162,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgzeokcw2my19qqt7j05e.jpg" alt="Your on-call rotation is only as good as the context that transfers with it" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sireesha_chavvakula_0f6ba/your-on-call-rotation-is-only-as-good-as-the-context-that-transfers-with-it-5879" target="_blank">Your on-call rotation is only as good as the context that transfers with it</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-02 00:16</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/coridev/your-voice-assistant-can-be-social-engineered-too-and-nobodys-watching-for-it-51jp" target="_blank">Your Voice Assistant Can Be Social-Engineered Too, and Nobody&#x27;s Watching For It</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-01 22:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions" target="_blank">AI financial advice is surprisingly good if you ask the right questions</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-01 22:25</span>
             </div>
         </div>
 <div class="story">
@@ -195,24 +213,6 @@
                 <span class="title"><a href="https://dev.to/ozgurburakozdemir/-15m2" target="_blank">900MB 8MB says it all. Starred.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-01 20:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now" target="_blank">Google News is just Forrest Gump&#x27;s shrimp boat now</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-01 19:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lunetrax/i-tried-to-prove-ai-writes-insecure-wordpress-code-32-runs-later-i-could-not-252h" target="_blank">I tried to prove AI writes insecure WordPress code. 32 runs later, I could not.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-01 19:09</span>
             </div>
         </div>
 </div>
@@ -293,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 86 | 📡 Total Sources: 40 | 📸 With Images: 238 |
-        🔄 Last Updated: 23:16 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 87 | 📡 Total Sources: 40 | 📸 With Images: 238 |
+        🔄 Last Updated: 00:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
