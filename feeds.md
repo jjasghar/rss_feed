@@ -1,33 +1,44 @@
-<!-- Processing 54 RSS feeds at 2026-08-02 18:16:33 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-08-02 19:24:12 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Sunday, August 02, 2026 - 18:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Sunday, August 02, 2026 - 19:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +54,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/max-miller-20260802-ap-jh_1785688722587_hpMain_4x3t_384.jpg" alt="Sen. Moreno calls for Rep. Max Miller to resign for allegedly abusing his daughter" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/sen-moreno-calls-rep-max-miller-resign-allegedly/story?id=135307603" target="_blank">Sen. Moreno calls for Rep. Max Miller to resign for allegedly abusing his daughter</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-02 19:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/2/iran-says-negotiations-with-oman-over-strait-of-hormuz-in-final-stages?traffic_source=rss" target="_blank">Iran says negotiations with Oman over Strait of Hormuz in final stages</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-02 19:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/02/g-s1-136834/capital-one-trump-bank-anti-money-laundering" target="_blank">Capital One says it closed Trump Organization accounts over money-laundering concerns</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-02 18:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,33 +106,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/8/2/suicide-bomber-kills-14-outside-police-station-in-pakistans-swat?traffic_source=rss" target="_blank">Suicide bomber kills 14 outside police station in Pakistan’s Swat</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-02 16:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbd8/live/50a80820-8e85-11f1-9469-c37ab1100afc.jpg" alt="Burnham pledges to be &#x27;relentless&#x27; in curbing small boat crossings" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&at_campaign=rss" target="_blank">Burnham pledges to be &#x27;relentless&#x27; in curbing small boat crossings</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-02 15:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-settlers-shoot-palestinian-child-during-farm-raid?traffic_source=rss" target="_blank">Israeli settlers shoot Palestinian child during farm raid</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-02 15:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/282d/live/2cbdf280-8e80-11f1-a7ab-8b30adf0800a.jpg" alt="Helicopters fighting Greece wildfires collide in mid-air" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss" target="_blank">Helicopters fighting Greece wildfires collide in mid-air</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-02 15:21</span>
             </div>
         </div>
 </div>
@@ -165,9 +176,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lev_riabov_e6f2883d44b3ab/i-measured-the-rag-technique-menu-on-46000-chunks-four-things-mattered-2266" target="_blank">I measured the RAG technique menu on 46,000 chunks. Four things mattered.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-02 19:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/aiarch_wibo/how-to-build-an-mcp-server-step-by-step-3iom" target="_blank">How to build an MCP server, step by step</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-02 18:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/wie-project/kakehashi" target="_blank">Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-02 16:26</span>
             </div>
         </div>
 <div class="story">
@@ -195,24 +224,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-Starfire-Starts-Linux-7.3" target="_blank">Linux 7.3 To Begin Laying The Groundwork For Intel Starfire</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-08-02 14:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sarantoon/docker-model-runner-vs-ollama-aikhrkhwryaay-aikhraimkhwr-aelathamaim-1175" target="_blank">Docker Model Runner vs Ollama — ใครควรย้าย ใครไม่ควร (และทำไม)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-02 14:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/42phi61861/ai-foundational-guideline-for-developers-5138" target="_blank">A.I Foundational Guideline for Developers</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-02 13:24</span>
             </div>
         </div>
 </div>
@@ -294,7 +305,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 25 | 📅 Last 24h: 89 | 📡 Total Sources: 40 | 📸 With Images: 239 |
-        🔄 Last Updated: 18:16 UTC
+        🔄 Last Updated: 19:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
