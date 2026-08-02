@@ -1,30 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-08-02 12:18:47 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-02 13:28:20 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, August 02, 2026 - 12:19 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, August 02, 2026 - 13:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/8/2/yemens-crumbling-roads-means-an-arduous-quest-for-water-for-taiz-villagers?traffic_source=rss" target="_blank">Yemen’s crumbling roads mean an arduous quest for water for Taiz villagers</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-02 13:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,15 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/features/2026/8/2/how-davutoglu-helped-shape-erdogans-turkiye-but-failed-to-challenge-it?traffic_source=rss" target="_blank">How Davutoglu helped shape Erdogan’s Turkiye but failed to challenge it</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-02 09:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/02/nx-s1-5758054/we-asked-a-first-grader-to-interview-his-hero-a-bird-scientist" target="_blank">We asked a first grader to interview his hero: A bird scientist</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-02 09:00</span>
             </div>
         </div>
 </div>
@@ -162,6 +168,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/42phi61861/ai-foundational-guideline-for-developers-5138" target="_blank">A.I Foundational Guideline for Developers</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-02 13:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open" target="_blank">Twenty Years of RISC OS Open</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-02 12:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/siva_samanthapudi/react-mastery-series-day-20-building-production-ready-react-applications-project-structure-and-njd" target="_blank">React Mastery Series – Day 20: Building Production-Ready React Applications – Project Structure and Architecture</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-02 11:14</span>
@@ -192,24 +216,6 @@
                 <span class="title"><a href="https://dev.to/siva_samanthapudi/react-mastery-series-day-19-routing-in-react-building-single-page-applications-with-react-2op8" target="_blank">React Mastery Series – Day 19: Routing in React – Building Single Page Applications with React Router</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-02 09:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/takeaseatventure/your-cron-expression-can-be-valid-and-still-never-run-4alg" target="_blank">Your cron expression can be valid and still never run</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-02 06:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/08/cloudflare-meerkat-consensus/en/headerimage/generatedHeaderImage-1784096459205.jpg" alt="Cloudflare Introduces Meerkat for Strongly Consistent Global Coordination" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/08/cloudflare-meerkat-consensus/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Introduces Meerkat for Strongly Consistent Global Coordination</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-02 06:17</span>
             </div>
         </div>
 </div>
@@ -290,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 91 | 📡 Total Sources: 40 | 📸 With Images: 242 |
-        🔄 Last Updated: 12:19 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 89 | 📡 Total Sources: 40 | 📸 With Images: 240 |
+        🔄 Last Updated: 13:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
