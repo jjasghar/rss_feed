@@ -1,33 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-08-02 20:17:41 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-08-02 21:15:39 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, August 02, 2026 - 20:17 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Sunday, August 02, 2026 - 21:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +49,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/max-miller-20260802-ap-jh_1785688722587_hpMain_4x3t_384.jpg" alt="Sen. Moreno: Rep. Max Miller &#x27;should not serve in the House&#x27; over abuse allegations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/sen-moreno-calls-rep-max-miller-resign-allegedly/story?id=135307603" target="_blank">Sen. Moreno: Rep. Max Miller &#x27;should not serve in the House&#x27; over abuse allegations</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-02 21:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04be/live/be742720-8ea4-11f1-a7ab-8b30adf0800a.jpg" alt="Two crew killed after firefighting helicopters collide in Greece, as British pilot survives" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss" target="_blank">Two crew killed after firefighting helicopters collide in Greece, as British pilot survives</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-02 20:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/2/venezuela-and-the-dominican-republic-say-they-will-work-to-restore-ties?traffic_source=rss" target="_blank">Venezuela and the Dominican Republic say they will work to restore ties</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-02 20:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-08/260802-in-n-out-vl-239p-15e047.jpg" alt="Armed bystander distracted gunman in fatal In-N-Out shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/bystander-handgun-distracted-gunman-fatal-shooting-rcna590473" target="_blank">Armed bystander distracted gunman in fatal In-N-Out shooting</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-02 19:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/max-miller-20260802-ap-jh_1785688722587_hpMain_4x3t_384.jpg" alt="Sen. Moreno calls for Rep. Max Miller to resign for allegedly abusing his daughter" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -61,47 +103,20 @@
                 <span class="time">2026-08-02 19:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/02/g-s1-136834/capital-one-trump-bank-anti-money-laundering" target="_blank">Capital One says it closed Trump Organization accounts over money-laundering concerns</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-02 18:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/2/migrant-deaths-in-ceuta-rise-to-72-after-border-surge-from-morocco?traffic_source=rss" target="_blank">Migrant deaths in Ceuta rise to 72 after border surge from Morocco</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-02 17:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1e7/live/7df3ff90-8e95-11f1-ac80-77f267fd04da.png" alt="Two crew killed as British pilot survives after firefighting helicopters collide in Greece" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss" target="_blank">Two crew killed as British pilot survives after firefighting helicopters collide in Greece</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-02 17:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/2/suicide-bomber-kills-14-outside-police-station-in-pakistans-swat?traffic_source=rss" target="_blank">Suicide bomber kills 14 outside police station in Pakistan’s Swat</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-02 16:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/" target="_blank">Sam Altman and AI’s decel debate</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-02 20:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +162,20 @@
                 <span class="time">2026-08-02 11:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a6cc52fffa01fba7c8c302e/master/pass/JWSTUpdate-crKristinaArmitage-Default.jpg" alt="The James Webb Telescope Is Changing Astronomers’ Understanding of the Ancient Cosmos" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/james-webb-space-telescope-changing-astronomers-universe/" target="_blank">The James Webb Telescope Is Changing Astronomers’ Understanding of the Ancient Cosmos</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-02 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tehrfurth/how-much-should-live-together-learning-to-isolate-services-the-hard-way-4b8m" target="_blank">How Much Should Live Together? Learning to Isolate Services the Hard Way</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-02 21:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,20 +221,29 @@
                 <span class="time">2026-08-02 15:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tonytonycoder11/your-quantized-model-got-worse-and-nothing-told-you-22m9" target="_blank">Your quantized model got worse, and nothing told you</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-02 15:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/roseasmr-1280x754.jpg" alt="Multiple Major ASMR Accounts Suddenly Removed From YouTube Over ‘Explicit Content’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/multiple-major-asmr-accounts-suddenly-removed-from-youtube-over-explicit-content-2000721076" target="_blank">Multiple Major ASMR Accounts Suddenly Removed From YouTube Over ‘Explicit Content’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-02 20:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/tumblr_mo7shphrIO1r2kbn7o1_500.png?fit=478%2C358&amp;quality=55&amp;ssl=1" alt="Gallery of anime user interfaces" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/02/gallery-of-anime-user-interfaces.html" target="_blank">Gallery of anime user interfaces</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-02 20:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/machineparty-1280x720.jpg" alt="Buckshot Roulette Creator Unleashes A New Black Hearted Mario Party-Style Massacre" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -256,24 +280,6 @@
                 <span class="time">2026-08-02 17:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/wondermanyell.jpg" alt="Wonder Man Showrunner Opens Up About The Sudden Cancellation And Is As Confused As Everyone Else" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/wonder-man-showrunner-opens-up-on-sudden-cancellation-in-tiktok-video-as-confused-as-anyone-else-2000721053" target="_blank">Wonder Man Showrunner Opens Up About The Sudden Cancellation And Is As Confused As Everyone Else</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-02 16:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/shutterstock_714783013-scaled.jpg?fit=2560%2C1708&amp;quality=60&amp;ssl=1" alt="Arizona Supreme Court: clergy don&#x27;t have to report child abuse confessions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/02/arizona-supreme-court-rules-clergy-dont-have-to-report-child-abuse-confessions.html" target="_blank">Arizona Supreme Court: clergy don&#x27;t have to report child abuse confessions</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-02 16:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -293,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 87 | 📡 Total Sources: 40 | 📸 With Images: 238 |
-        🔄 Last Updated: 20:17 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 87 | 📡 Total Sources: 40 | 📸 With Images: 240 |
+        🔄 Last Updated: 21:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
