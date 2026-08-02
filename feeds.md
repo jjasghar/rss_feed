@@ -1,41 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-08-02 05:58:42 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-08-02 07:01:24 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 33 feeds processed -->
+<!-- Generated 2 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, August 02, 2026 - 05:58 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, August 02, 2026 - 07:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -170,12 +169,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/takeaseatventure/your-cron-expression-can-be-valid-and-still-never-run-4alg" target="_blank">Your cron expression can be valid and still never run</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-02 06:44</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fexe55urlm2gkfhwktutz.png" alt="Claude Code in CI: Running Agentic Code Review, Test Generation, and Auto-Fix on Every Pull Request" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/jsmanifest/claude-code-in-ci-running-agentic-code-review-test-generation-and-auto-fix-on-every-pull-request-1de3" target="_blank">Claude Code in CI: Running Agentic Code Review, Test Generation, and Auto-Fix on Every Pull Request</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-02 05:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.wafer.ai/blog/kimi-k3-mi355x" target="_blank">Running Kimi K3 on MI355X at Better Performance per Dollar Than B300</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-02 04:21</span>
             </div>
         </div>
 <div class="story">
@@ -203,24 +220,6 @@
                 <span class="title"><a href="https://dev.to/gimalay/designing-edit-operations-for-ai-agents-16e8" target="_blank">Designing Edit Operations for AI Agents</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-02 01:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Steam-On-Linux-July-2026" target="_blank">Steam On Linux Use Back Above 4% In July</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-02 00:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgzeokcw2my19qqt7j05e.jpg" alt="Your on-call rotation is only as good as the context that transfers with it" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sireesha_chavvakula_0f6ba/your-on-call-rotation-is-only-as-good-as-the-context-that-transfers-with-it-5879" target="_blank">Your on-call rotation is only as good as the context that transfers with it</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-02 00:16</span>
             </div>
         </div>
 </div>
@@ -301,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 90 | 📡 Total Sources: 40 | 📸 With Images: 240 |
-        🔄 Last Updated: 05:58 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 92 | 📡 Total Sources: 40 | 📸 With Images: 239 |
+        🔄 Last Updated: 07:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
