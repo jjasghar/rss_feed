@@ -1,30 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-08-02 08:44:14 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-02 09:37:08 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 21 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Sunday, August 02, 2026 - 08:44 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, August 02, 2026 - 09:37 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/8/2/how-davutoglu-helped-shape-erdogans-turkiye-but-failed-to-challenge-it?traffic_source=rss" target="_blank">How Davutoglu helped shape Erdogan’s Turkiye but failed to challenge it</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-02 09:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/cabinet-21-rt-gmh-260731_1785516825114_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump calls off new strikes, Saudi ruler urges de-escalation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-tehran-progress-made-strait-hormuz/?id=135110405" target="_blank">Iran live updates: Trump calls off new strikes, Saudi ruler urges de-escalation</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-02 08:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,29 +99,20 @@
                 <span class="time">2026-08-02 03:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c36/live/eb797180-8e18-11f1-b916-5b9500660788.jpg" alt="Trump says he is cancelling strikes on Iran subject to &#x27;rapidly&#x27; making deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss" target="_blank">Trump says he is cancelling strikes on Iran subject to &#x27;rapidly&#x27; making deal</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-02 03:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/2/us-embassies-issue-alerts-after-trump-vows-to-hit-iran?traffic_source=rss" target="_blank">US embassies issue alerts after Trump vows to hit Iran ‘hard’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-02 02:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a6cc5c02bba9f4c44a51585/master/pass/Reality-Aboflah_lead.jpg" alt="YouTube Star AboFlah Made Streaming His Life. He Wants His Kids to Live Offline" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/youtube-star-aboflah-made-streaming-his-life-he-wants-his-kids-to-live-offline/" target="_blank">YouTube Star AboFlah Made Streaming His Life. He Wants His Kids to Live Offline</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-02 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,20 +158,20 @@
                 <span class="time">2026-08-01 18:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/Swift_and_LINK_withEarthartist_concept-500x500.png" alt="Here&#x27;s how engineers plan to save the satellite sent to save NASA&#x27;s Swift mission" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/" target="_blank">Here&#x27;s how engineers plan to save the satellite sent to save NASA&#x27;s Swift mission</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-01 18:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/siva_samanthapudi/react-mastery-series-day-19-routing-in-react-building-single-page-applications-with-react-2op8" target="_blank">React Mastery Series – Day 19: Routing in React – Building Single Page Applications with React Router</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-02 09:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/agi2y/designing-a-practical-minimax-h3-video-workflow-text-frames-and-omni-references-2747" target="_blank">Designing a Practical MiniMax H3 Video Workflow: Text, Frames, and Omni References</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-02 02:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://victoriametrics.com/blog/go-1-27/index.html" target="_blank">Go 1.27 Interactive Tour</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-02 01:35</span>
             </div>
         </div>
 </div>
@@ -290,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 93 | 📡 Total Sources: 40 | 📸 With Images: 241 |
-        🔄 Last Updated: 08:44 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 94 | 📡 Total Sources: 40 | 📸 With Images: 241 |
+        🔄 Last Updated: 09:37 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
