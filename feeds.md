@@ -1,32 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-08-02 10:29:37 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-02 11:25:08 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, August 02, 2026 - 10:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, August 02, 2026 - 11:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,12 +46,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f054/live/47777f10-8e44-11f1-b92b-e77f734e2374.jpg" alt="Trump cancels Iran strikes subject to deal being made &#x27;rapidly&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss" target="_blank">Trump cancels Iran strikes subject to deal being made &#x27;rapidly&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-02 11:12</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22bc/live/9b18d720-8da6-11f1-9e26-8164f877b701.jpg" alt="Body of mountaineer Nirmal Purja recovered after Pakistan avalanche" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss" target="_blank">Body of mountaineer Nirmal Purja recovered after Pakistan avalanche</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-08-02 10:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-indonesia-ferry_7312142.jpg?20260802112809" alt="At least five dead and dozens missing after Indonesian ferry catches fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/at-least-five-dead-and-41-missing-after-indonesian-ferry-catches-fire-13569145" target="_blank">At least five dead and dozens missing after Indonesian ferry catches fire</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-08-02 10:05</span>
             </div>
         </div>
 <div class="story">
@@ -78,29 +99,20 @@
                 <span class="time">2026-08-02 08:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/8/2/tarik-skubal-acquired-by-la-dodgers-at-the-mlb-trade-deadline?traffic_source=rss" target="_blank">Tarik Skubal acquired by LA Dodgers at the MLB trade deadline</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-02 08:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f054/live/47777f10-8e44-11f1-b92b-e77f734e2374.jpg" alt="Trump says he is cancelling strikes on Iran subject to deal being made &#x27;rapidly&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss" target="_blank">Trump says he is cancelling strikes on Iran subject to deal being made &#x27;rapidly&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-02 06:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a6cc52fffa01fba7c8c302e/master/pass/JWSTUpdate-crKristinaArmitage-Default.jpg" alt="The James Webb Telescope Is Changing Astronomers’ Understanding of the Ancient Cosmos" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/james-webb-space-telescope-changing-astronomers-universe/" target="_blank">The James Webb Telescope Is Changing Astronomers’ Understanding of the Ancient Cosmos</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-02 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a6cc5c02bba9f4c44a51585/master/pass/Reality-Aboflah_lead.jpg" alt="YouTube Star AboFlah Made Streaming His Life. He Wants His Kids to Live Offline" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,20 +158,29 @@
                 <span class="time">2026-08-01 19:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/" target="_blank">Should you still buy your next smartphone — or subscribe to it instead?</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-01 18:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/siva_samanthapudi/react-mastery-series-day-20-building-production-ready-react-applications-project-structure-and-njd" target="_blank">React Mastery Series – Day 20: Building Production-Ready React Applications – Project Structure and Architecture</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-02 11:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://publicdomainreview.org/essay/ars-notoria/" target="_blank">Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-02 10:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,24 +215,6 @@
                 <span class="title"><a href="https://dev.to/jsmanifest/claude-code-in-ci-running-agentic-code-review-test-generation-and-auto-fix-on-every-pull-request-1de3" target="_blank">Claude Code in CI: Running Agentic Code Review, Test Generation, and Auto-Fix on Every Pull Request</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-02 05:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.wafer.ai/blog/kimi-k3-mi355x" target="_blank">Running Kimi K3 on MI355X at Better Performance per Dollar Than B300</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-02 04:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/agi2y/designing-a-practical-minimax-h3-video-workflow-text-frames-and-omni-references-2747" target="_blank">Designing a Practical MiniMax H3 Video Workflow: Text, Frames, and Omni References</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-02 02:48</span>
             </div>
         </div>
 </div>
@@ -292,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 90 | 📡 Total Sources: 40 | 📸 With Images: 240 |
-        🔄 Last Updated: 10:29 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 93 | 📡 Total Sources: 40 | 📸 With Images: 241 |
+        🔄 Last Updated: 11:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
