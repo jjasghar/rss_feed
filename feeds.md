@@ -1,35 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-08-02 11:25:08 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-08-02 12:18:47 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, August 02, 2026 - 11:25 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, August 02, 2026 - 12:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/8/2/spanish-ceuta-witnesses-a-deadly-game-for-moroccan-migrants?traffic_source=rss" target="_blank">Spanish Ceuta witnesses a deadly ‘game’ for Moroccan migrants</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-02 12:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f054/live/47777f10-8e44-11f1-b92b-e77f734e2374.jpg" alt="Trump cancels Iran strikes subject to deal being made &#x27;rapidly&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,20 +94,20 @@
                 <span class="time">2026-08-02 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/cabinet-21-rt-gmh-260731_1785516825114_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump calls off new strikes, Saudi ruler urges de-escalation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-tehran-progress-made-strait-hormuz/?id=135110405" target="_blank">Iran live updates: Trump calls off new strikes, Saudi ruler urges de-escalation</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-02 08:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/690270685216e0070a31d8d0/master/pass/The%20Best%20Password%20Managers%20to%20Secure%20Your%20Digital%20Life.png" alt="8 Best Password Managers (2026), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-password-managers/" target="_blank">8 Best Password Managers (2026), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-02 11:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a6cc52fffa01fba7c8c302e/master/pass/JWSTUpdate-crKristinaArmitage-Default.jpg" alt="The James Webb Telescope Is Changing Astronomers’ Understanding of the Ancient Cosmos" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,15 +153,6 @@
                 <span class="time">2026-08-01 20:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/" target="_blank">YouTuber Hank Green says his AI usage is ‘not healthy’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-01 19:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,6 +165,15 @@
                 <span class="title"><a href="https://dev.to/siva_samanthapudi/react-mastery-series-day-20-building-production-ready-react-applications-project-structure-and-njd" target="_blank">React Mastery Series – Day 20: Building Production-Ready React Applications – Project Structure and Architecture</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-02 11:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-MSM-DRM-Driver" target="_blank">Linux 7.3 To Support The Qualcomm Adreno 704 &amp; Adreno 722 GPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-02 10:47</span>
             </div>
         </div>
 <div class="story">
@@ -206,15 +210,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/08/cloudflare-meerkat-consensus/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Introduces Meerkat for Strongly Consistent Global Coordination</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-08-02 06:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fexe55urlm2gkfhwktutz.png" alt="Claude Code in CI: Running Agentic Code Review, Test Generation, and Auto-Fix on Every Pull Request" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jsmanifest/claude-code-in-ci-running-agentic-code-review-test-generation-and-auto-fix-on-every-pull-request-1de3" target="_blank">Claude Code in CI: Running Agentic Code Review, Test Generation, and Auto-Fix on Every Pull Request</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-02 05:53</span>
             </div>
         </div>
 </div>
@@ -295,8 +290,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 93 | 📡 Total Sources: 40 | 📸 With Images: 241 |
-        🔄 Last Updated: 11:25 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 91 | 📡 Total Sources: 40 | 📸 With Images: 242 |
+        🔄 Last Updated: 12:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
