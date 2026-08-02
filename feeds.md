@@ -1,32 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-08-02 14:28:53 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-02 15:20:54 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, August 02, 2026 - 14:29 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, August 02, 2026 - 15:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -102,6 +104,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/973789/skylight-calendar-2-max-back-to-school-deal-sale" target="_blank">Skylight&amp;#8217;s smart calendars are up to $90 off during its back-to-school sale</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-02 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/690270685216e0070a31d8d0/master/pass/The%20Best%20Password%20Managers%20to%20Secure%20Your%20Digital%20Life.png" alt="8 Best Password Managers (2026), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -146,20 +157,20 @@
                 <span class="time">2026-08-01 21:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead" target="_blank">Angela Nissel faces down grief with a laugh</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-01 20:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tonytonycoder11/your-quantized-model-got-worse-and-nothing-told-you-22m9" target="_blank">Your quantized model got worse, and nothing told you</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-02 15:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,20 +216,29 @@
                 <span class="time">2026-08-02 10:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://publicdomainreview.org/essay/ars-notoria/" target="_blank">Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-02 10:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/mtgseizethestorm.jpg" alt="Major Tabletop Convention Gen Con Hit By Severe Storm As Ceiling Leaks And Attendees Take Shelter" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/major-tabletop-convention-gen-con-hit-by-severe-storm-as-ceiling-leaks-and-attendees-take-shelter-2000721049" target="_blank">Major Tabletop Convention Gen Con Hit By Severe Storm As Ceiling Leaks And Attendees Take Shelter</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-02 14:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/shutterstock_2773362545.jpg?fit=1000%2C668&amp;quality=60&amp;ssl=1" alt="Little Debbie delivery driver made $17k selling them from his truck at flea markets, say cops" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/02/little-debbie-delivery-driver-made-17k-selling-them-from-his-truck-at-flea-markets-say-cops.html" target="_blank">Little Debbie delivery driver made $17k selling them from his truck at flea markets, say cops</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-02 13:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/endocopia-1280x772.jpg" alt="Indie Horror Game Occupies Void Between Nightmare And Putt-Putt Saves The Zoo" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -255,45 +275,13 @@
                 <span class="time">2026-08-01 18:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/1280px-6sided_dice.jpg?fit=1280%2C881&amp;quality=60&amp;ssl=1" alt="The messy-bedroom explanation of entropy is wrong" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/01/what-is-entropy-really.html" target="_blank">The messy-bedroom explanation of entropy is wrong</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-01 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/linkshocked-1280x728.jpg" alt="Did You Know Gaming Disputes Metacritic’s Ocarina Of Time Score, Upsetting Its Top Rated Spot" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/did-you-know-gaming-disputes-metacritics-zelda-ocarina-of-time-score-upsetting-its-top-rated-spot-2000721004" target="_blank">Did You Know Gaming Disputes Metacritic’s Ocarina Of Time Score, Upsetting Its Top Rated Spot</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-01 16:50</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section webcomics-section" id="webcomics">
-<h2 class="section-header">🎨 Daily Comics</h2>
-<div class="stories-container">
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1785531427-20260801.png" alt="Saturday Morning Breakfast Cereal - Doc" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/doc" target="_blank">Saturday Morning Breakfast Cereal - Doc</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-08-01 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 88 | 📡 Total Sources: 40 | 📸 With Images: 238 |
-        🔄 Last Updated: 14:29 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 88 | 📡 Total Sources: 40 | 📸 With Images: 238 |
+        🔄 Last Updated: 15:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
