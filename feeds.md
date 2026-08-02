@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-08-02 17:19:10 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-02 18:16:33 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Sunday, August 02, 2026 - 17:19 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Sunday, August 02, 2026 - 18:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/2/migrant-deaths-in-ceuta-rise-to-72-after-border-surge-from-morocco?traffic_source=rss" target="_blank">Migrant deaths in Ceuta rise to 72 after border surge from Morocco</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-02 17:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1e7/live/7df3ff90-8e95-11f1-ac80-77f267fd04da.png" alt="Two crew killed as British pilot survives after firefighting helicopters collide in Greece" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,15 +95,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss" target="_blank">Helicopters fighting Greece wildfires collide in mid-air</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-08-02 15:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6a8/live/173bb8e0-8e6f-11f1-8f96-0352b5c66e86.jpg" alt="Prolonged drought could cause shortage of some foods, farmers&#x27; union head says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss" target="_blank">Prolonged drought could cause shortage of some foods, farmers&#x27; union head says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-02 14:15</span>
             </div>
         </div>
 </div>
@@ -167,6 +165,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aiarch_wibo/how-to-build-an-mcp-server-step-by-step-3iom" target="_blank">How to build an MCP server, step by step</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-02 18:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/luis_f5d/this-article-will-implete-pagination-on-the-web-project-48e4" target="_blank">This article will implete pagination on the web Project</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-02 15:57</span>
@@ -179,6 +186,15 @@
                 <span class="title"><a href="https://dev.to/tonytonycoder11/your-quantized-model-got-worse-and-nothing-told-you-22m9" target="_blank">Your quantized model got worse, and nothing told you</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-02 15:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Starfire-Starts-Linux-7.3" target="_blank">Linux 7.3 To Begin Laying The Groundwork For Intel Starfire</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-02 14:32</span>
             </div>
         </div>
 <div class="story">
@@ -199,29 +215,29 @@
                 <span class="time">2026-08-02 13:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open" target="_blank">Twenty Years of RISC OS Open</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-02 12:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/siva_samanthapudi/react-mastery-series-day-20-building-production-ready-react-applications-project-structure-and-njd" target="_blank">React Mastery Series – Day 20: Building Production-Ready React Applications – Project Structure and Architecture</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-02 11:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2024/06/153c68ca713b0a8ac0228065e1b4cf93-1280x647.jpg" alt="Microsoft Increases Prices Of Xbox Series Consoles By Upwards Of $230 In UK And Europe" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/microsoft-increases-prices-of-xbox-series-consoles-by-upwards-of-230-in-uk-and-europe-2000721066" target="_blank">Microsoft Increases Prices Of Xbox Series Consoles By Upwards Of $230 In UK And Europe</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-02 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/1280px-Red_Bull_in_Israel.jpg?fit=1280%2C1028&amp;quality=60&amp;ssl=1" alt="Red Bull paid for the studies saying vodka Red Bulls are fine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/02/red-bull-funded-energy-drink-research.html" target="_blank">Red Bull paid for the studies saying vodka Red Bulls are fine</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-02 17:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/wondermanyell.jpg" alt="Wonder Man Showrunner Opens Up About The Sudden Cancellation And Is As Confused As Everyone Else" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -258,24 +274,6 @@
                 <span class="time">2026-08-02 13:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/endocopia-1280x772.jpg" alt="Indie Horror Game Occupies Void Between Nightmare And Putt-Putt Saves The Zoo" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/indie-horror-game-occupies-void-between-nightmare-and-putt-putt-saves-the-zoo-2000721023" target="_blank">Indie Horror Game Occupies Void Between Nightmare And Putt-Putt Saves The Zoo</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-01 22:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Microsoft-Office-Professional-2021-for-Windows-2.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Get Word, Excel, PowerPoint, and more for life for less than $5 each with this Microsoft Office license" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/01/get-word-excel-powerpoint-and-more-for-life-for-less-than-5-each-with-this-microsoft-office-license.html" target="_blank">Get Word, Excel, PowerPoint, and more for life for less than $5 each with this Microsoft Office license</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-01 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -295,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 86 | 📡 Total Sources: 39 | 📸 With Images: 239 |
-        🔄 Last Updated: 17:19 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 89 | 📡 Total Sources: 40 | 📸 With Images: 239 |
+        🔄 Last Updated: 18:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
