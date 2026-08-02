@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-08-02 13:28:20 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-02 14:28:53 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, August 02, 2026 - 13:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Sunday, August 02, 2026 - 14:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +43,42 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6a8/live/173bb8e0-8e6f-11f1-8f96-0352b5c66e86.jpg" alt="Prolonged drought could cause shortage of some foods, farmers&#x27; union head says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss" target="_blank">Prolonged drought could cause shortage of some foods, farmers&#x27; union head says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-02 14:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/2/hundreds-mourn-moroccan-footballer-who-died-trying-to-reach-ceuta?traffic_source=rss" target="_blank">Hundreds mourn Moroccan footballer who died trying to reach Ceuta</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-02 13:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/02/g-s1-136814/washington-state-wildfires-old-trails-fire-spokane" target="_blank">Thousands of people under evacuation order from wildfires in Spokane, Wash.</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-02 13:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/aug/02/ceuta-border-crossing-spain-morocco" target="_blank">Chaos of border crossing gives way to limbo for Moroccans on Ceuta’s streets</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-08-02 13:11</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -62,42 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/features/2026/8/2/spanish-ceuta-witnesses-a-deadly-game-for-moroccan-migrants?traffic_source=rss" target="_blank">Spanish Ceuta witnesses a deadly ‘game’ for Moroccan migrants</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-02 12:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f054/live/47777f10-8e44-11f1-b92b-e77f734e2374.jpg" alt="Trump cancels Iran strikes subject to deal being made &#x27;rapidly&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss" target="_blank">Trump cancels Iran strikes subject to deal being made &#x27;rapidly&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-02 11:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22bc/live/9b18d720-8da6-11f1-9e26-8164f877b701.jpg" alt="Body of mountaineer Nirmal Purja recovered after Pakistan avalanche" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss" target="_blank">Body of mountaineer Nirmal Purja recovered after Pakistan avalanche</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-02 10:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-indonesia-ferry_7312142.jpg?20260802112809" alt="At least five dead and dozens missing after Indonesian ferry catches fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/at-least-five-dead-and-41-missing-after-indonesian-ferry-catches-fire-13569145" target="_blank">At least five dead and dozens missing after Indonesian ferry catches fire</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-08-02 10:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/8/2/how-davutoglu-helped-shape-erdogans-turkiye-but-failed-to-challenge-it?traffic_source=rss" target="_blank">How Davutoglu helped shape Erdogan’s Turkiye but failed to challenge it</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-02 09:07</span>
             </div>
         </div>
 </div>
@@ -168,6 +164,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sarantoon/docker-model-runner-vs-ollama-aikhrkhwryaay-aikhraimkhwr-aelathamaim-1175" target="_blank">Docker Model Runner vs Ollama — ใครควรย้าย ใครไม่ควร (และทำไม)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-02 14:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/42phi61861/ai-foundational-guideline-for-developers-5138" target="_blank">A.I Foundational Guideline for Developers</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-02 13:24</span>
@@ -207,15 +212,6 @@
                 <span class="title"><a href="https://publicdomainreview.org/essay/ars-notoria/" target="_blank">Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-08-02 10:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/siva_samanthapudi/react-mastery-series-day-19-routing-in-react-building-single-page-applications-with-react-2op8" target="_blank">React Mastery Series – Day 19: Routing in React – Building Single Page Applications with React Router</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-02 09:22</span>
             </div>
         </div>
 </div>
@@ -296,8 +292,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 89 | 📡 Total Sources: 40 | 📸 With Images: 240 |
-        🔄 Last Updated: 13:28 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 88 | 📡 Total Sources: 40 | 📸 With Images: 238 |
+        🔄 Last Updated: 14:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
