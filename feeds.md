@@ -1,31 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-08-02 16:17:38 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-08-02 17:19:10 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Sunday, August 02, 2026 - 16:17 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Sunday, August 02, 2026 - 17:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1e7/live/7df3ff90-8e95-11f1-ac80-77f267fd04da.png" alt="Two crew killed as British pilot survives after firefighting helicopters collide in Greece" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss" target="_blank">Two crew killed as British pilot survives after firefighting helicopters collide in Greece</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-02 17:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/2/suicide-bomber-kills-14-outside-police-station-in-pakistans-swat?traffic_source=rss" target="_blank">Suicide bomber kills 14 outside police station in Pakistan’s Swat</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-02 16:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbd8/live/50a80820-8e85-11f1-9469-c37ab1100afc.jpg" alt="Burnham pledges to be &#x27;relentless&#x27; in curbing small boat crossings" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,29 +99,29 @@
                 <span class="time">2026-08-02 14:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/2/hundreds-mourn-moroccan-footballer-who-died-trying-to-reach-ceuta?traffic_source=rss" target="_blank">Hundreds mourn Moroccan footballer who died trying to reach Ceuta</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-02 13:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/02/g-s1-136814/washington-state-wildfires-old-trails-fire-spokane" target="_blank">Thousands of people under evacuation order from wildfires in Spokane, Wash.</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-02 13:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/" target="_blank">Malaysia is reportedly shutting down Balaji Srinivasan’s Network School</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-02 17:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros" target="_blank">Xbox prices are increasing by up to €200 or £170</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-02 16:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -134,24 +156,6 @@
                 <span class="title"><a href="https://www.wired.com/story/youtube-star-aboflah-made-streaming-his-life-he-wants-his-kids-to-live-offline/" target="_blank">YouTube Star AboFlah Made Streaming His Life. He Wants His Kids to Live Offline</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-08-02 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak" target="_blank">Pixel 11 specs and price leak with no surprises</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-01 21:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/" target="_blank">Inside the London hacker house taking a stand against founder burnout</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-01 21:14</span>
             </div>
         </div>
 </div>
@@ -219,6 +223,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/wondermanyell.jpg" alt="Wonder Man Showrunner Opens Up About The Sudden Cancellation And Is As Confused As Everyone Else" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/wonder-man-showrunner-opens-up-on-sudden-cancellation-in-tiktok-video-as-confused-as-anyone-else-2000721053" target="_blank">Wonder Man Showrunner Opens Up About The Sudden Cancellation And Is As Confused As Everyone Else</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-02 16:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/shutterstock_714783013-scaled.jpg?fit=2560%2C1708&amp;quality=60&amp;ssl=1" alt="Arizona Supreme Court: clergy don&#x27;t have to report child abuse confessions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/02/arizona-supreme-court-rules-clergy-dont-have-to-report-child-abuse-confessions.html" target="_blank">Arizona Supreme Court: clergy don&#x27;t have to report child abuse confessions</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-02 16:33</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/mtgseizethestorm.jpg" alt="Major Tabletop Convention Gen Con Hit By Severe Storm As Ceiling Leaks And Attendees Take Shelter" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -254,24 +276,6 @@
                 <span class="time">2026-08-01 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/brainiacinj2-1280x742.jpg" alt="Book Database Shutters AI Service Following Outrage Over Destroyed Rare Texts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/book-database-shutters-ai-service-following-outrage-over-destroyed-rare-texts-2000721018" target="_blank">Book Database Shutters AI Service Following Outrage Over Destroyed Rare Texts</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-01 20:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/PRAGMATA_SS_15-1280x720.jpg" alt="Pragmata Devs Considered A Bob To Save On Hair Rendering" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pragmata-devs-considered-a-bob-to-save-on-hair-rendering-2000721012" target="_blank">Pragmata Devs Considered A Bob To Save On Hair Rendering</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-01 18:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -291,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 87 | 📡 Total Sources: 40 | 📸 With Images: 238 |
-        🔄 Last Updated: 16:17 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 86 | 📡 Total Sources: 39 | 📸 With Images: 239 |
+        🔄 Last Updated: 17:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
