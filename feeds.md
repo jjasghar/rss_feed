@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-08-02 01:31:24 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-08-02 02:59:02 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Sunday, August 02, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Sunday, August 02, 2026 - 02:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/2/us-embassies-issue-alerts-after-trump-vows-to-hit-iran?traffic_source=rss" target="_blank">US embassies issue alerts after Trump vows to hit Iran ‘hard’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-02 02:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/reflecting-pool-gty-jt-260731_1785536078039_hpMain_4x3t_384.jpg" alt="Trump objects to Pirro dropping vandalism case: &#x27;I don’t know what she was thinking?&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,15 +95,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/questions-grow-about-gaza-s-future-after-trump-announces-deal-to-disarm-hamas-267631173776" target="_blank">Questions grow about Gaza’s future after Trump announces deal to disarm Hamas</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-08-01 22:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4b7/live/0e5a2e40-8dee-11f1-9e04-0f917561a818.jpg" alt="Emotional Kerr delivers moment Glasgow 2026 has waited for with men&#x27;s mile gold" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/sport/athletics/articles/ckge35ywjvyo?at_medium=RSS&at_campaign=rss" target="_blank">Emotional Kerr delivers moment Glasgow 2026 has waited for with men&#x27;s mile gold</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-01 22:41</span>
             </div>
         </div>
 </div>
@@ -166,9 +165,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/agi2y/designing-a-practical-minimax-h3-video-workflow-text-frames-and-omni-references-2747" target="_blank">Designing a Practical MiniMax H3 Video Workflow: Text, Frames, and Omni References</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-02 02:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://victoriametrics.com/blog/go-1-27/index.html" target="_blank">Go 1.27 Interactive Tour</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-02 01:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/gimalay/designing-edit-operations-for-ai-agents-16e8" target="_blank">Designing Edit Operations for AI Agents</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-02 01:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Steam-On-Linux-July-2026" target="_blank">Steam On Linux Use Back Above 4% In July</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-02 00:25</span>
             </div>
         </div>
 <div class="story">
@@ -187,33 +213,6 @@
                 <span class="title"><a href="https://dev.to/coridev/your-voice-assistant-can-be-social-engineered-too-and-nobodys-watching-for-it-51jp" target="_blank">Your Voice Assistant Can Be Social-Engineered Too, and Nobody&#x27;s Watching For It</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-01 22:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions" target="_blank">AI financial advice is surprisingly good if you ask the right questions</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-01 22:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/said_olano/understanding-java-virtual-threads-lightweight-concurrency-in-modern-java-19" target="_blank">Understanding Java Virtual Threads: Lightweight Concurrency in Modern Java</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-01 22:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/" target="_blank">The Silicon Valley Founder Meat Grinder</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-01 20:20</span>
             </div>
         </div>
 </div>
@@ -294,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 89 | 📡 Total Sources: 39 | 📸 With Images: 238 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 92 | 📡 Total Sources: 39 | 📸 With Images: 235 |
+        🔄 Last Updated: 02:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
