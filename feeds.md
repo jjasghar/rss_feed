@@ -1,33 +1,44 @@
-<!-- Processing 54 RSS feeds at 2026-08-03 19:29:04 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-03 20:28:19 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 11 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 36 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Monday, August 03, 2026 - 19:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, August 03, 2026 - 20:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -103,6 +114,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/" target="_blank">AWS is helping vibe-coding startup Superblocks, and the implications are big</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-03 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a70e5445f8a4fdf9264c1a2/master/pass/GettyImages-2040205852-cropped.jpg" alt="The SpaceX Falcon Lunar Crash Is a Warning for Moon Bases" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/spacex-falcon-moon-crash-warning-for-lunar-bases/" target="_blank">The SpaceX Falcon Lunar Crash Is a Warning for Moon Bases</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-03 19:58</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/news-080226a-lg-500x500.jpg" alt="LEGO deploys Hubble Space Telescope as detailed desktop model" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -138,29 +167,29 @@
                 <span class="time">2026-08-03 17:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/" target="_blank">Congress’s favorite AI tool? ChatGPT</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-03 16:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/2026-VW-Jetta-1-500x500.jpg" alt="2026 Volkswagen Jetta Sport: The cheap car isn&#x27;t completely extinct yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/08/2026-volkswagen-jetta-sport-the-cheap-car-isnt-completely-extinct-yet/" target="_blank">2026 Volkswagen Jetta Sport: The cheap car isn&#x27;t completely extinct yet</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-03 16:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/soverflowed/6-ways-to-get-dramatically-better-results-from-claude-4331" target="_blank">6 Ways to Get Dramatically Better Results From Claude</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-03 20:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://www.amarthchen.com/nerdy-stuff/imaging-system-simulation" target="_blank">Imaging System Simulation</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-08-03 20:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,24 +226,6 @@
                 <span class="time">2026-08-03 18:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/beehivestrategy/mcp-vs-rest-api-vs-graphql-a-complete-comparison-data-2ncm" target="_blank">MCP vs REST API vs GraphQL: A Complete Comparison Data</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-03 17:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://softwaremaniacs.org/blog/2026/07/30/categorization-with-nlp/en/" target="_blank">Categorization with NLP</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-08-03 17:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +254,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2022/01/bc0bc9c990918a8c0678c7b56e907662-1280x720.jpg" alt="Former Dev Says Midnight Club 5 Was Canceled Because The Series Was Rockstar’s ‘Red-Headed Stepchild’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/former-dev-says-midnight-club-5-was-canceled-because-the-series-was-rockstars-red-headed-stepchild-2000721232" target="_blank">Former Dev Says Midnight Club 5 Was Canceled Because The Series Was Rockstar’s ‘Red-Headed Stepchild’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-03 19:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/big-red-1280x720.jpg" alt="The Week In Games: Heavy Artillery Fire Incoming" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,20 +308,20 @@
                 <span class="time">2026-08-03 16:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/warcavill2-1280x720.jpg" alt="Henry Cavill Is Working On A Warhammer 40K Animated Show For Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/henry-cavill-warhammer-40k-animated-show-amazon-tim-miller-2000721209" target="_blank">Henry Cavill Is Working On A Warhammer 40K Animated Show For Amazon</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-03 16:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/08/03/hostile-radishes" target="_blank">Hostile Radishes</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-08-03 19:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1785717195-20260803.png" alt="Saturday Morning Breakfast Cereal - Proof" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -334,8 +354,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 240 |
-        🔄 Last Updated: 19:29 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 109 | 📡 Total Sources: 40 | 📸 With Images: 239 |
+        🔄 Last Updated: 20:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
