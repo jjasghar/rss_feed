@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-08-03 10:14:13 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-03 12:02:42 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Monday, August 03, 2026 - 10:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, August 03, 2026 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/03/g-s1-136892/up-first-newsletter-iran-war-todd-blanche-capital-one-bank-accounts-trump-conspiracy" target="_blank">Todd Blanche rescinds &#x27;anti-weaponization fund&#x27;. And, Trump calls off striking Iran</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-03 11:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/3/pakistan-administered-kashmir-elections-and-protests-all-you-need-to-know?traffic_source=rss" target="_blank">Pakistan-administered Kashmir elections and protests – all you need to know</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-03 11:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,24 +95,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/cgje8d1p419o?at_medium=RSS&at_campaign=rss" target="_blank">How parents and pupils took on &#x27;cruel&#x27;, &#x27;authoritarian&#x27; schools - and won</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-08-03 05:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-07/260730-todd-blanche-vl-1159a-f2d691.jpg" alt="Trump’s AG pick scraps ‘anti-weaponization’ fund in deal with holdout senators" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/congress/acting-ag-todd-blanche-reaches-deal-holdout-senators-end-18b-anti-weap-rcna590525" target="_blank">Trump’s AG pick scraps ‘anti-weaponization’ fund in deal with holdout senators</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-03 03:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/3/fires-in-spokane-washington-burn-600-structures-force-60000-evacuations?traffic_source=rss" target="_blank">Fires in Spokane, Washington, burn 600 structures, force 60,000 evacuations</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-03 03:26</span>
             </div>
         </div>
 </div>
@@ -167,6 +164,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/" target="_blank">Critical CVE issued for hallucinated SQLite vulnerability</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-03 11:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/articles/evolutionary-architecture-change-locality/en/headerimage/evolutionary-architecture-change-locality-header-1785239081753.jpg" alt="Article: Enabling Evolutionary Architecture Through the Preservation of Change Locality" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/evolutionary-architecture-change-locality/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Enabling Evolutionary Architecture Through the Preservation of Change Locality</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-03 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/_artclick/build-a-modern-chat-ui-with-just-css-and-javascript-34ah" target="_blank">Build a Modern Chat UI with Just CSS and JavaScript</a></span>
                 <span class="feed">DEV Community</span>
@@ -200,22 +215,18 @@
                 <span class="time">2026-08-03 06:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/08/typescript-7-released/en/headerimage/generatedHeaderImage-1785691904681.jpg" alt="Microsoft Releases TypeScript 7.0 with a Native Go Compiler, Delivering 10x Faster Builds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/08/typescript-7-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Microsoft Releases TypeScript 7.0 with a Native Go Compiler, Delivering 10x Faster Builds</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-03 05:22</span>
-            </div>
-        </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/susiewang/when-ai-moves-the-button-build-a-support-loop-for-adaptive-uis-1d7" target="_blank">When AI Moves the Button: Build a Support Loop for Adaptive UIs</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-03 04:12</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/08/the-openai-hack-shows-the-genie-is-out-of-the-bottle.html" target="_blank">The OpenAI Hack Shows the Genie Is Out of the Bottle</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-08-03 10:47</span>
             </div>
         </div>
 </div>
@@ -223,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/wolv-butt2-1280x720.jpg" alt="Wolverine’s Going To Get His Butt Out In Insomniac’s New Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/wolverine-butt-insomniac-marvel-bottom-bum-rear-ass-cheeks-2000721164" target="_blank">Wolverine’s Going To Get His Butt Out In Insomniac’s New Game</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-03 11:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/RAM.-2023-Shea-McMullan-Shutterstock.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="PC and console prices still going up" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,15 +288,6 @@
                 <span class="time">2026-08-02 20:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/tumblr_mo7shphrIO1r2kbn7o1_500.png?fit=478%2C358&amp;quality=55&amp;ssl=1" alt="Gallery of anime user interfaces" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/02/gallery-of-anime-user-interfaces.html" target="_blank">Gallery of anime user interfaces</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-02 20:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -314,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 87 | 📡 Total Sources: 40 | 📸 With Images: 234 |
-        🔄 Last Updated: 10:14 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 87 | 📡 Total Sources: 40 | 📸 With Images: 233 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
