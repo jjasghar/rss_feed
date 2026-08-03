@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-08-03 15:54:10 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-08-03 16:45:43 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Slashdot -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 30 feeds processed -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, August 03, 2026 - 15:54 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Monday, August 03, 2026 - 16:45 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,9 +48,45 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/3/uncertainty-on-iranians-minds-as-trump-fluctuates-on-war-and-talk?traffic_source=rss" target="_blank">Uncertainty on Iranians’ minds as Trump fluctuates on war and talk</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-03 16:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0473/live/63c04990-8f39-11f1-973f-390a1966f1f1.jpg" alt="Rhine falls to record low levels as drought strains Europe&#x27;s rivers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss" target="_blank">Rhine falls to record low levels as drought strains Europe&#x27;s rivers</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-03 16:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/aug/03/stronger-eu-borders-physical-barriers-ceuta-von-der-leyen" target="_blank">Stronger EU borders needed after Ceuta crisis, von der Leyen says</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-08-03 16:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/8/3/australias-under-16-social-media-ban-failing-study-shows-what-it-means?traffic_source=rss" target="_blank">Australia’s under-16 social media ban failing, study shows: What it means</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-03 15:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/cabinet-20-gty-gmh-260731_1785516044537_hpMain_2_4x3t_384.jpg" alt="Key Republicans say they&#x27;ll back Blanche after he rescinds &#x27;Anti-Weaponization Fund&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/blanche-rescinds-trumps-anti-weaponization-fund-amid-ag/story?id=135315931" target="_blank">Key Republicans say they&#x27;ll back Blanche after he rescinds &#x27;Anti-Weaponization Fund&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-03 15:13</span>
             </div>
         </div>
 <div class="story">
@@ -66,47 +98,20 @@
                 <span class="time">2026-08-03 14:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/03/g-s1-136892/up-first-newsletter-iran-war-todd-blanche-capital-one-bank-accounts-trump-conspiracy" target="_blank">Todd Blanche rescinds &#x27;anti-weaponization fund&#x27;. And, Trump calls off striking Iran</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-03 11:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/3/pakistan-administered-kashmir-elections-and-protests-all-you-need-to-know?traffic_source=rss" target="_blank">Pakistan-administered Kashmir elections and protests – all you need to know</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-03 11:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1785756200503_tdy_news_7a_haake_trump_blanche_260803_S3_1920x1080-xf0w18.jpg" alt="Blanche Scraps ‘Anti-Weaponization’ Fund Ahead of Nomination" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/trump-ag-pick-scraps-anti-weaponization-fund-ahead-of-vote-267663429895" target="_blank">Blanche Scraps ‘Anti-Weaponization’ Fund Ahead of Nomination</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-03 11:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1785756153126_tdy_news_7a_simmons_trump_iran_260803_S3_1920x1080-x6k6an.jpg" alt="Trump Says Iran Talks to Resume After Strikes Called off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/us-and-iran-talks-set-for-new-negotiations-monday-267661893898" target="_blank">Trump Says Iran Talks to Resume After Strikes Called off</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-03 11:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/" target="_blank">Congress’s favorite AI tool? ChatGPT</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-03 16:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,15 +155,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/" target="_blank">Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-08-03 12:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a3221464e63d441b28e3620/master/pass/The-Best-Robot-Lawn-Mowers.jpg" alt="Best Robot Lawn Mowers (2026): My Picks After 3 Years of Testing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-robot-lawn-mowers/" target="_blank">Best Robot Lawn Mowers (2026): My Picks After 3 Years of Testing</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-03 11:30</span>
             </div>
         </div>
 </div>
@@ -240,6 +236,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/1280px-Inshoku_yC58DjC58D_kagami_28503906705329.jpg?fit=1280%2C1850&amp;quality=60&amp;ssl=1" alt="Japanese prints show tiny workers running the human body" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/03/ukiyo-e-body-prints.html" target="_blank">Japanese prints show tiny workers running the human body</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-03 16:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/warcavill2-1280x720.jpg" alt="Henry Cavill Is Working On A Warhammer 40K Animated Show For Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/henry-cavill-warhammer-40k-animated-show-amazon-tim-miller-2000721209" target="_blank">Henry Cavill Is Working On A Warhammer 40K Animated Show For Amazon</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-03 16:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/Push_Ball_Scrimmage2C_Columbia_LCCN2014689636-scaled.jpg?fit=2560%2C1866&amp;quality=60&amp;ssl=1" alt="Students once played a sport with a ball taller than they were" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -273,24 +287,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/08/02/pc-and-console-prices-still-going-up.html" target="_blank">PC and console prices still going up</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-08-03 00:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/rsz_1233241238.webp?fit=1440%2C964&amp;quality=55&amp;ssl=1" alt="Charmera too modern for you? Kodak&#x27;s $35 film camera puts 1990 in your pocket" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/02/charmera-too-modern-for-you-kodaks-35-film-camera-puts-1990-in-your-pocket.html" target="_blank">Charmera too modern for you? Kodak&#x27;s $35 film camera puts 1990 in your pocket</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-02 23:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/arinowii-1280x722.jpg" alt="‘Retro Game Master’ Shinya Arino Makes Fans Feel Ancient As Wii Games Up For Consideration" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/retro-game-master-shinya-arino-makes-fans-feel-ancient-as-wii-games-up-for-consideration-2000721080" target="_blank">‘Retro Game Master’ Shinya Arino Makes Fans Feel Ancient As Wii Games Up For Consideration</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-02 21:57</span>
             </div>
         </div>
 </div>
@@ -330,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 95 | 📡 Total Sources: 40 | 📸 With Images: 240 |
-        🔄 Last Updated: 15:54 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 96 | 📡 Total Sources: 40 | 📸 With Images: 242 |
+        🔄 Last Updated: 16:45 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
