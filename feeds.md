@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-08-02 23:17:05 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-03 00:21:02 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, August 02, 2026 - 23:17 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, August 03, 2026 - 00:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +51,15 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/new-video-shows-moment-hero-fires-at-shooter-at-idaho-in-and-out-267650629521" target="_blank">New video shows moment hero fires at shooter at Idaho In-and-Out</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-08-02 23:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/cabinet-21-rt-gmh-260731_1785516825114_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says Iran deal is &#x27;imminent,&#x27; negotiations resume Monday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-tehran-progress-made-strait-hormuz/?id=135110405" target="_blank">Iran live updates: Trump says Iran deal is &#x27;imminent,&#x27; negotiations resume Monday</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-02 22:50</span>
             </div>
         </div>
 <div class="story">
@@ -88,20 +98,20 @@
                 <span class="time">2026-08-02 20:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-08/260802-in-n-out-vl-239p-15e047.jpg" alt="Armed bystander distracted gunman in fatal In-N-Out shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/bystander-handgun-distracted-gunman-fatal-shooting-rcna590473" target="_blank">Armed bystander distracted gunman in fatal In-N-Out shooting</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-02 19:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/974271/rachika-nayars-heaven-come-crashing-music-review" target="_blank">Rachika Nayar’s Heaven Come Crashing is an instrumental epic of desperate longing</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-02 21:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +157,29 @@
                 <span class="time">2026-08-02 16:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/973789/skylight-calendar-2-max-back-to-school-deal-sale" target="_blank">Skylight&amp;#8217;s smart calendars are up to $90 off during its back-to-school sale</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-02 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-rc6-Released" target="_blank">Linux 7.2-rc6 Released: &quot;This RC Is Huge&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-02 23:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/pg83/shitty" target="_blank">Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-02 23:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,24 +216,6 @@
                 <span class="time">2026-08-02 19:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/" target="_blank">SwiftUI After 7 Years: A Story of Mediocrity</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-02 18:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aiarch_wibo/how-to-build-an-mcp-server-step-by-step-3iom" target="_blank">How to build an MCP server, step by step</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-02 18:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -227,6 +228,15 @@
                 <span class="title"><a href="https://kotaku.com/retro-game-master-shinya-arino-makes-fans-feel-ancient-as-wii-games-up-for-consideration-2000721080" target="_blank">‘Retro Game Master’ Shinya Arino Makes Fans Feel Ancient As Wii Games Up For Consideration</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-08-02 21:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/shutterstock_2106671042Roquillo-Tebar-.jpg?fit=1280%2C854&amp;quality=60&amp;ssl=1" alt="A printable one-page Guide to Recording Law Enforcement" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/02/a-printable-one-page-guide-to-recording-law-enforcement.html" target="_blank">A printable one-page Guide to Recording Law Enforcement</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-02 20:59</span>
             </div>
         </div>
 <div class="story">
@@ -265,15 +275,6 @@
                 <span class="time">2026-08-02 18:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2024/06/153c68ca713b0a8ac0228065e1b4cf93-1280x647.jpg" alt="Microsoft Increases Prices Of Xbox Series Consoles By Upwards Of $230 In UK And Europe" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/microsoft-increases-prices-of-xbox-series-consoles-by-upwards-of-230-in-uk-and-europe-2000721066" target="_blank">Microsoft Increases Prices Of Xbox Series Consoles By Upwards Of $230 In UK And Europe</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-02 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -293,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 40 | 📸 With Images: 241 |
-        🔄 Last Updated: 23:17 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 88 | 📡 Total Sources: 40 | 📸 With Images: 240 |
+        🔄 Last Updated: 00:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
