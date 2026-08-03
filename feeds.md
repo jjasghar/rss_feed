@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-08-03 16:45:43 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-08-03 17:31:23 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Monday, August 03, 2026 - 16:45 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, August 03, 2026 - 17:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/3/new-illegal-israeli-outpost-spotted-in-occupied-west-bank?traffic_source=rss" target="_blank">New illegal Israeli outpost spotted in occupied West Bank</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-03 17:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +98,6 @@
                 <span class="time">2026-08-03 15:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/03/nx-s1-5918018/washington-spokane-wildfires-evacuations" target="_blank">Washington wildfires destroy homes, force thousands to evacuate</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-03 14:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -106,10 +106,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/974536/kindle-scribe-2022-refurbished-woot-deal-sale" target="_blank">The first-gen Kindle Scribe is a big e-reader and digital notebook that’s $150 refurbished</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-03 17:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/" target="_blank">Sequoia’s Shaun Maguire leads $1B round for nuclear startup Valar Atomics</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-03 17:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/" target="_blank">Congress’s favorite AI tool? ChatGPT</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-08-03 16:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/2026-VW-Jetta-1-500x500.jpg" alt="2026 Volkswagen Jetta Sport: The cheap car isn&#x27;t completely extinct yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/08/2026-volkswagen-jetta-sport-the-cheap-car-isnt-completely-extinct-yet/" target="_blank">2026 Volkswagen Jetta Sport: The cheap car isn&#x27;t completely extinct yet</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-03 16:10</span>
             </div>
         </div>
 <div class="story">
@@ -130,38 +157,20 @@
                 <span class="time">2026-08-03 14:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/HI-A7kbXEAEZyU_-500x500.jpg" alt="SpaceX is set to acquire 130,000 acres of marshland in southern Louisiana" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/08/spacex-is-set-to-acquire-130000-acres-of-marshland-in-southern-louisiana/" target="_blank">SpaceX is set to acquire 130,000 acres of marshland in southern Louisiana</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-03 14:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/refinery-500x500.jpg" alt="Trump wants the power to stop the public from suing polluters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/08/trump-wants-the-power-to-stop-the-public-from-suing-polluters/" target="_blank">Trump wants the power to stop the public from suing polluters</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-03 13:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/" target="_blank">Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-03 12:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/beehivestrategy/mcp-vs-rest-api-vs-graphql-a-complete-comparison-data-2ncm" target="_blank">MCP vs REST API vs GraphQL: A Complete Comparison Data</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-03 17:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,20 +216,20 @@
                 <span class="time">2026-08-03 14:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/08/java-news-roundup-jul27-2026/en/headerimage/java-news-roundup-image-1785767259108.jpg" alt="Java News Roundup: OpenJDK JEPs, Jakarta EE, GraalVM, TornadoVM, Micronaut, Quarkus, JobRunr, Maven" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/08/java-news-roundup-jul27-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: OpenJDK JEPs, Jakarta EE, GraalVM, TornadoVM, Micronaut, Quarkus, JobRunr, Maven</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-03 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html" target="_blank">More on the OpenAI Agent’s Attack on Hugging Face</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-08-03 17:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -326,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 96 | 📡 Total Sources: 40 | 📸 With Images: 242 |
-        🔄 Last Updated: 16:45 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 99 | 📡 Total Sources: 40 | 📸 With Images: 238 |
+        🔄 Last Updated: 17:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
