@@ -1,41 +1,26 @@
-<!-- Processing 54 RSS feeds at 2026-08-03 22:19:49 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-08-03 23:20:31 UTC -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Error processing https://www.phoronix.com/rss.php: The read operation timed out -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 31 feeds processed -->
+<!-- Generated 4 new posts out of 18 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, August 03, 2026 - 22:20 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Monday, August 03, 2026 - 23:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -111,6 +96,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/6a70c4a6513c0e0e60aeb407/master/pass/Culture_DidAnAIMusicAppJustSnitchontheSongoftheSummer-ezgif.com-video-to-gif-converter.gif" alt="Did an AI Music App Just Snitch on the Song of the Summer?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/ai-music-app-treblo-just-snitched-on-rubberz-song-of-the-summer/" target="_blank">Did an AI Music App Just Snitch on the Song of the Summer?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-03 22:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/Screenshot-2026-08-03-at-5.14.23-PM-500x500.png" alt="US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/" target="_blank">US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-03 22:11</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -146,24 +149,6 @@
                 <span class="time">2026-08-03 17:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/974536/kindle-scribe-2022-refurbished-woot-deal-sale" target="_blank">The first-gen Kindle Scribe is a big e-reader and digital notebook that’s $150 refurbished</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-03 17:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/" target="_blank">Sequoia’s Shaun Maguire leads $1B round for nuclear startup Valar Atomics</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-03 17:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -185,6 +170,15 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/ubuntu-hwctl-deb-to-snap-transition" target="_blank">Ubuntu’s turning another system Deb package into a snap</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-08-03 21:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.seangoedecke.com/llms-reward-expertise/" target="_blank">LLMs reward expertise</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-03 21:13</span>
             </div>
         </div>
 <div class="story">
@@ -212,15 +206,6 @@
                 <span class="title"><a href="https://github.com/Amarthgul/ISS" target="_blank">ISS: A Framework for Imaging System Simulation</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2026-08-03 19:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sybilgambleyyu/an-editable-range-can-change-without-changing-word-text-532o" target="_blank">An editable range can change without changing Word text</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-03 19:19</span>
             </div>
         </div>
 </div>
@@ -251,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/mariolopezgross-1280x720.jpg" alt="What Is Wrong With You Mario Lopez?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/what-is-wrong-with-you-mario-lopez-2000721352" target="_blank">What Is Wrong With You Mario Lopez?</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-03 22:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KZ4RJY50EREB1YAMD5QQC4G0/hero-image.jpg" alt="How to Finally Sync Your Fitbit Data to Apple Health" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -294,15 +288,6 @@
                 <span class="title"><a href="https://kotaku.com/former-dev-says-midnight-club-5-was-canceled-because-the-series-was-rockstars-red-headed-stepchild-2000721232" target="_blank">Former Dev Says Midnight Club 5 Was Canceled Because The Series Was Rockstar’s ‘Red-Headed Stepchild’</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-08-03 19:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/big-red-1280x720.jpg" alt="The Week In Games: Heavy Artillery Fire Incoming" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-week-in-games-heavy-artillery-fire-incoming-2000721224" target="_blank">The Week In Games: Heavy Artillery Fire Incoming</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-03 19:00</span>
             </div>
         </div>
 </div>
@@ -360,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 242 |
-        🔄 Last Updated: 22:20 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 107 | 📡 Total Sources: 39 | 📸 With Images: 244 |
+        🔄 Last Updated: 23:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
