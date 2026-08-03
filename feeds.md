@@ -1,44 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-08-03 20:28:19 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-08-03 21:21:50 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 36 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, August 03, 2026 - 20:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Monday, August 03, 2026 - 21:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/3/el-sayed-stevens-face-off-in-michigan-democratic-senate-primary?traffic_source=rss" target="_blank">El-Sayed, Stevens face off in Michigan Democratic Senate primary</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-03 20:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-gianni-infantino-fifa-president_7313256.jpg?20260803205946" alt="How Infantino will be framing his battle to remain FIFA president" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/how-gianni-infantino-will-be-framing-his-battle-to-remain-fifa-president-13569543" target="_blank">How Infantino will be framing his battle to remain FIFA president</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-08-03 19:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/03/nx-s1-5918001/reflecting-pool-vandalism-charges-dropped" target="_blank">Ripple effects: After Hearn, three others have their Reflecting Pool charges dropped</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-03 19:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/cyclosporiasis-gty-gmh-260803_1785774719590_hpMain_4x3t_384.jpg" alt="2 deaths reported in Michigan as cyclosporiasis outbreak continues to spread" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,33 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/3/new-illegal-israeli-outpost-spotted-in-occupied-west-bank?traffic_source=rss" target="_blank">New illegal Israeli outpost spotted in occupied West Bank</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-03 17:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/3/uncertainty-on-iranians-minds-as-trump-fluctuates-on-war-and-talk?traffic_source=rss" target="_blank">Uncertainty on Iranians’ minds as Trump fluctuates on war and talk</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-03 16:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0473/live/63c04990-8f39-11f1-973f-390a1966f1f1.jpg" alt="Rhine falls to record low levels as drought strains Europe&#x27;s rivers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss" target="_blank">Rhine falls to record low levels as drought strains Europe&#x27;s rivers</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-03 16:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/aug/03/stronger-eu-borders-physical-barriers-ceuta-von-der-leyen" target="_blank">Stronger EU borders needed after Ceuta crisis, von der Leyen says</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-08-03 16:26</span>
             </div>
         </div>
 </div>
@@ -255,6 +247,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KAXWWJFKER5JD91DVQ2WFGG4/hero-image.png" alt="My Favorite Sony Headphones Are $60 Off Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/sony-wh-1000xm6-headphones-sale?utm_medium=RSS" target="_blank">My Favorite Sony Headphones Are $60 Off Again</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-03 20:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/ascii-today-title-generator.jpg?fit=1200%2C596&amp;quality=60&amp;ssl=1" alt="Type a word, get it back in 50 ASCII art fonts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/03/ascii-today-title-generator.html" target="_blank">Type a word, get it back in 50 ASCII art fonts</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-03 20:19</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2022/01/bc0bc9c990918a8c0678c7b56e907662-1280x720.jpg" alt="Former Dev Says Midnight Club 5 Was Canceled Because The Series Was Rockstar’s ‘Red-Headed Stepchild’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -288,24 +298,6 @@
                 <span class="title"><a href="https://kotaku.com/xbox-disc-to-digital-original-xbox-games-pc-backwards-compatibility-2000721243" target="_blank">Xbox’s Disc-To-Digital Plan Rolls Out This August According To Leaked Roadmap</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-08-03 18:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/1280px-TOAD2C_GIANT_SONORAN_28Bufo_alvarius29_288-2-1029_YARD2C_WEST_OF_PATAGONIA2C_SCC2C_AZ_-02_28485897663029.jpg?fit=1280%2C853&amp;quality=60&amp;ssl=1" alt="The world&#x27;s only psychedelic animal lives in a cartel zone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/03/psychedelic-toad-poachers.html" target="_blank">The world&#x27;s only psychedelic animal lives in a cartel zone</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-03 18:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/1280px-Inshoku_yC58DjC58D_kagami_28503906705329.jpg?fit=1280%2C1850&amp;quality=60&amp;ssl=1" alt="Japanese prints show tiny workers running the human body" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/03/ukiyo-e-body-prints.html" target="_blank">Japanese prints show tiny workers running the human body</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-03 16:32</span>
             </div>
         </div>
 </div>
@@ -354,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 109 | 📡 Total Sources: 40 | 📸 With Images: 239 |
-        🔄 Last Updated: 20:28 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 240 |
+        🔄 Last Updated: 21:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
