@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-08-03 18:31:24 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-08-03 19:29:04 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Error processing https://www.phoronix.com/rss.php: The read operation timed out -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 11 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Monday, August 03, 2026 - 18:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, August 03, 2026 - 19:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/cyclosporiasis-gty-gmh-260803_1785774719590_hpMain_4x3t_384.jpg" alt="2 deaths reported in Michigan as cyclosporiasis outbreak continues to spread" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Health/2-deaths-reported-cyclosporiasis-outbreak-michigan-cases-surpass/story?id=135329968" target="_blank">2 deaths reported in Michigan as cyclosporiasis outbreak continues to spread</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-03 19:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45c0/live/aa0a0bd0-8f65-11f1-a7ab-8b30adf0800a.jpg" alt="Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,20 +97,20 @@
                 <span class="time">2026-08-03 16:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-glen-hansard-dubline_7313092.jpg?20260803171803" alt="Thousands attend wake for &#x27;trailblazer&#x27; Oscar-winning actor and singer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/thousands-attend-wake-for-trailblazer-oscar-winning-actor-and-singer-glen-hansard-13569470" target="_blank">Thousands attend wake for &#x27;trailblazer&#x27; Oscar-winning actor and singer</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-08-03 16:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/news-080226a-lg-500x500.jpg" alt="LEGO deploys Hubble Space Telescope as detailed desktop model" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/08/lego-deploys-hubble-space-telescope-as-detailed-desktop-model/" target="_blank">LEGO deploys Hubble Space Telescope as detailed desktop model</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-03 19:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +156,47 @@
                 <span class="time">2026-08-03 16:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/podcast/974387/bluesky-toni-schneider-interview-ai-atproto-atmosphere" target="_blank">Bluesky’s new CEO wants a big tent, not a bubble</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-03 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://github.com/Amarthgul/ISS" target="_blank">ISS: A Framework for Imaging System Simulation</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-08-03 19:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sybilgambleyyu/an-editable-range-can-change-without-changing-word-text-532o" target="_blank">An editable range can change without changing Word text</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-03 19:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/08/choosing-between-subagent-skills/en/headerimage/azure-skills-subagents-1785780670625.jpeg" alt="Azure and Community Guidelines on Choosing Between a Skill or a Sub-Agent" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/08/choosing-between-subagent-skills/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Azure and Community Guidelines on Choosing Between a Skill or a Sub-Agent</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-03 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-Expects-FailFS" target="_blank">Linux 7.3 Looks Like It Will Upstream FailFS</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-03 18:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -179,42 +213,6 @@
                 <span class="title"><a href="https://softwaremaniacs.org/blog/2026/07/30/categorization-with-nlp/en/" target="_blank">Categorization with NLP</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2026-08-03 17:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/haruodev/the-black-box-in-your-pdf-is-a-shape-not-a-delete-key-1nc3" target="_blank">The black box in your PDF is a shape, not a delete key</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-03 15:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fno9cfx92hart6un9pssg.gif" alt="How would you decide, whether the content is good or bad?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/francistrdev/how-would-you-decide-whether-the-content-is-good-or-bad-295p" target="_blank">How would you decide, whether the content is good or bad?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-03 14:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/framework-laptop-13-pro-linux" target="_blank">Benchmarking Six Linux Distributions On The Framework Laptop 13 Pro</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-03 14:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/11/ubuntu-weather-clouds.jpg?resize=406%2C232&amp;ssl=1" alt="Curl dropped from Ubuntu 26.04 minimal cloud images by mistake" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/ubuntu-2604-server-cloud-minimal-curl-missing" target="_blank">Curl dropped from Ubuntu 26.04 minimal cloud images by mistake</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-08-03 14:34</span>
             </div>
         </div>
 </div>
@@ -246,12 +244,39 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/big-red-1280x720.jpg" alt="The Week In Games: Heavy Artillery Fire Incoming" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-week-in-games-heavy-artillery-fire-incoming-2000721224" target="_blank">The Week In Games: Heavy Artillery Fire Incoming</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-03 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HN0ZP8S1KSR9CY579D4F5JF6/hero-image.png" alt="Amazon Prime Members Can Get Two Free E-Books in August" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/free-kindle-books-august-2026?utm_medium=RSS" target="_blank">Amazon Prime Members Can Get Two Free E-Books in August</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-03 19:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/xbox.jpg" alt="Xbox’s Disc-To-Digital Plan Rolls Out This August According To Leaked Roadmap" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/xbox-disc-to-digital-original-xbox-games-pc-backwards-compatibility-2000721243" target="_blank">Xbox’s Disc-To-Digital Plan Rolls Out This August According To Leaked Roadmap</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-08-03 18:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/1280px-TOAD2C_GIANT_SONORAN_28Bufo_alvarius29_288-2-1029_YARD2C_WEST_OF_PATAGONIA2C_SCC2C_AZ_-02_28485897663029.jpg?fit=1280%2C853&amp;quality=60&amp;ssl=1" alt="The world&#x27;s only psychedelic animal lives in a cartel zone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/03/psychedelic-toad-poachers.html" target="_blank">The world&#x27;s only psychedelic animal lives in a cartel zone</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-03 18:03</span>
             </div>
         </div>
 <div class="story">
@@ -270,33 +295,6 @@
                 <span class="title"><a href="https://kotaku.com/henry-cavill-warhammer-40k-animated-show-amazon-tim-miller-2000721209" target="_blank">Henry Cavill Is Working On A Warhammer 40K Animated Show For Amazon</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-08-03 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/Push_Ball_Scrimmage2C_Columbia_LCCN2014689636-scaled.jpg?fit=2560%2C1866&amp;quality=60&amp;ssl=1" alt="Students once played a sport with a ball taller than they were" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/03/pushball.html" target="_blank">Students once played a sport with a ball taller than they were</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-03 15:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KPR1F85S1D35VMFQNY926W1W/hero-image.png" alt="This Floatable Anker Speaker Is Nearly Half Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/anker-soundcore-boom-2-speaker-sale-august-2026?utm_medium=RSS" target="_blank">This Floatable Anker Speaker Is Nearly Half Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-03 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/wolv-butt2-1280x720.jpg" alt="Wolverine’s Going To Get His Butt Out In Insomniac’s New Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/wolverine-butt-insomniac-marvel-bottom-bum-rear-ass-cheeks-2000721164" target="_blank">Wolverine’s Going To Get His Butt Out In Insomniac’s New Game</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-03 11:30</span>
             </div>
         </div>
 </div>
@@ -336,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 101 | 📡 Total Sources: 40 | 📸 With Images: 238 |
-        🔄 Last Updated: 18:31 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 240 |
+        🔄 Last Updated: 19:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
