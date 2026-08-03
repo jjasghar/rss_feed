@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-08-03 02:59:04 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-03 04:18:00 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Error processing https://www.phoronix.com/rss.php: The read operation timed out -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Monday, August 03, 2026 - 02:59 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, August 03, 2026 - 04:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/3/fires-in-spokane-washington-burn-600-structures-force-60000-evacuations?traffic_source=rss" target="_blank">Fires in Spokane, Washington, burn 600 structures, force 60,000 evacuations</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-03 03:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,15 +99,6 @@
                 <span class="title"><a href="https://abcnews.com/Politics/sen-moreno-calls-rep-max-miller-resign-allegedly/story?id=135307603" target="_blank">Sen. Moreno: Rep. Max Miller &#x27;should not serve in the House&#x27; over abuse allegations</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-08-02 21:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04be/live/be742720-8ea4-11f1-a7ab-8b30adf0800a.jpg" alt="Two crew killed after firefighting helicopters collide in Greece, as British pilot survives" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss" target="_blank">Two crew killed after firefighting helicopters collide in Greece, as British pilot survives</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-02 20:36</span>
             </div>
         </div>
 </div>
@@ -170,6 +169,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/susiewang/when-ai-moves-the-button-build-a-support-loop-for-adaptive-uis-1d7" target="_blank">When AI Moves the Button: Build a Support Loop for Adaptive UIs</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-03 04:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/childrentime/react-useinfinitescroll-hook-infinite-scrolling-made-simple-2026-15c4" target="_blank">React useInfiniteScroll Hook: Infinite Scrolling Made Simple (2026)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-03 01:25</span>
@@ -211,20 +219,20 @@
                 <span class="time">2026-08-02 23:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ognivo/understanding-pegas-pzpvstream-why-a-20-year-old-design-still-makes-sense-3kh1" target="_blank">Understanding Pega&#x27;s `pzPVStream`: Why a 20-Year-Old Design Still Makes Sense</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-02 23:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/RAM.-2023-Shea-McMullan-Shutterstock.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="PC and console prices still going up" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/02/pc-and-console-prices-still-going-up.html" target="_blank">PC and console prices still going up</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-03 00:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/rsz_1233241238.webp?fit=1440%2C964&amp;quality=55&amp;ssl=1" alt="Charmera too modern for you? Kodak&#x27;s $35 film camera puts 1990 in your pocket" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,15 +278,6 @@
                 <span class="time">2026-08-02 20:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/machineparty-1280x720.jpg" alt="Buckshot Roulette Creator Unleashes A New Black Hearted Mario Party-Style Massacre" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/buckshot-roulette-creator-unleashes-a-new-black-hearted-mario-party-style-massacre-2000721071" target="_blank">Buckshot Roulette Creator Unleashes A New Black Hearted Mario Party-Style Massacre</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-02 19:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -298,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 87 | 📡 Total Sources: 40 | 📸 With Images: 237 |
-        🔄 Last Updated: 02:59 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 86 | 📡 Total Sources: 40 | 📸 With Images: 236 |
+        🔄 Last Updated: 04:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
