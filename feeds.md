@@ -1,37 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-08-03 06:01:25 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-08-03 08:05:39 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, August 03, 2026 - 06:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, August 03, 2026 - 08:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +38,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/8/3/jasprit-bumrah-ruled-out-of-sri-lanka-test-series-due-to-injury?traffic_source=rss" target="_blank">Jasprit Bumrah ruled out of Sri Lanka Test series due to injury</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-03 07:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -66,6 +66,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-07/260730-todd-blanche-vl-1159a-f2d691.jpg" alt="Trump’s AG pick scraps ‘anti-weaponization’ fund in deal with holdout senators" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/congress/acting-ag-todd-blanche-reaches-deal-holdout-senators-end-18b-anti-weap-rcna590525" target="_blank">Trump’s AG pick scraps ‘anti-weaponization’ fund in deal with holdout senators</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-03 03:48</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -81,24 +90,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/features/2026/8/3/the-battle-for-the-maasai-mara-can-kenyas-most-iconic-ecosystem-be-saved?traffic_source=rss" target="_blank">The battle for the Maasai Mara: Can Kenya’s most iconic ecosystem be saved?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-03 01:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13fa/live/ad119c30-8ec5-11f1-942d-9772a4b2ac54.jpg" alt="Trump suggests new talks with Iran to begin on Monday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss" target="_blank">Trump suggests new talks with Iran to begin on Monday</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-03 00:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/02/nx-s1-5917201/space-x-falcon-nine-moon" target="_blank">Defunct part of SpaceX Falcon 9 rocket will slam into the moon</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-02 23:38</span>
             </div>
         </div>
 </div>
@@ -166,6 +157,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devwithzach/calgary-energy-tech-and-offshore-engineering-teams-a-match-made-in-the-cloud-34hn" target="_blank">Calgary Energy Tech and Offshore Engineering Teams: A Match Made in the Cloud</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-03 08:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://gruhn.me/blog/2026-08-03/" target="_blank">Don&#x27;t be a meat proxy</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-03 06:28</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/08/typescript-7-released/en/headerimage/generatedHeaderImage-1785691904681.jpg" alt="Microsoft Releases TypeScript 7.0 with a Native Go Compiler, Delivering 10x Faster Builds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -199,24 +208,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/AerynOS-Big-Update-2026" target="_blank">AerynOS Issues First Development Update &amp; New ISOs In Three Months</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-08-03 00:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/" target="_blank">Why Book Corners won&#x27;t sync contributions back to OpenStreetMap</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-03 00:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-rc6-Released" target="_blank">Linux 7.2-rc6 Released: &quot;This RC Is Huge&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-02 23:38</span>
             </div>
         </div>
 </div>
@@ -284,6 +275,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/08/03/hostile-radishes" target="_blank">Hostile Radishes</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-08-03 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1785531473-20260802.png" alt="Saturday Morning Breakfast Cereal - Prompt" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -297,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 88 | 📡 Total Sources: 40 | 📸 With Images: 236 |
-        🔄 Last Updated: 06:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 90 | 📡 Total Sources: 40 | 📸 With Images: 233 |
+        🔄 Last Updated: 08:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
