@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-08-03 17:31:23 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-03 18:31:24 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Error processing https://www.phoronix.com/rss.php: The read operation timed out -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, August 03, 2026 - 17:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Monday, August 03, 2026 - 18:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45c0/live/aa0a0bd0-8f65-11f1-a7ab-8b30adf0800a.jpg" alt="Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss" target="_blank">Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-03 18:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,21 +91,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-glen-hansard-dubline_7313092.jpg?20260803171803" alt="Thousands attend wake for &#x27;trailblazer&#x27; Oscar-winning actor and singer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/3/australias-under-16-social-media-ban-failing-study-shows-what-it-means?traffic_source=rss" target="_blank">Australia’s under-16 social media ban failing, study shows: What it means</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-03 15:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/cabinet-20-gty-gmh-260731_1785516044537_hpMain_2_4x3t_384.jpg" alt="Key Republicans say they&#x27;ll back Blanche after he rescinds &#x27;Anti-Weaponization Fund&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/blanche-rescinds-trumps-anti-weaponization-fund-amid-ag/story?id=135315931" target="_blank">Key Republicans say they&#x27;ll back Blanche after he rescinds &#x27;Anti-Weaponization Fund&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-03 15:13</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/thousands-attend-wake-for-trailblazer-oscar-winning-actor-and-singer-glen-hansard-13569470" target="_blank">Thousands attend wake for &#x27;trailblazer&#x27; Oscar-winning actor and singer</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-08-03 16:02</span>
             </div>
         </div>
 </div>
@@ -103,6 +104,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes" target="_blank">Europe’s AI labeling and transparency rules are now in effect</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-03 17:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,15 +158,6 @@
                 <span class="time">2026-08-03 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/974450/palworld-online-mobile-mmo" target="_blank">Palworld’s expanding to mobile with a new MMORPG</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-03 14:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +170,15 @@
                 <span class="title"><a href="https://dev.to/beehivestrategy/mcp-vs-rest-api-vs-graphql-a-complete-comparison-data-2ncm" target="_blank">MCP vs REST API vs GraphQL: A Complete Comparison Data</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-03 17:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://softwaremaniacs.org/blog/2026/07/30/categorization-with-nlp/en/" target="_blank">Categorization with NLP</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-08-03 17:11</span>
             </div>
         </div>
 <div class="story">
@@ -207,15 +217,6 @@
                 <span class="time">2026-08-03 14:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/11/ubuntu-weather-clouds.jpg?resize=406%2C232&amp;ssl=1" alt="Curl dropped from Ubuntu 26.04 minimal server images by mistake" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/ubuntu-2604-server-cloud-minimal-curl-missing" target="_blank">Curl dropped from Ubuntu 26.04 minimal server images by mistake</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-08-03 14:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +245,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/xbox.jpg" alt="Xbox’s Disc-To-Digital Plan Rolls Out This August According To Leaked Roadmap" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/xbox-disc-to-digital-original-xbox-games-pc-backwards-compatibility-2000721243" target="_blank">Xbox’s Disc-To-Digital Plan Rolls Out This August According To Leaked Roadmap</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-03 18:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/1280px-Inshoku_yC58DjC58D_kagami_28503906705329.jpg?fit=1280%2C1850&amp;quality=60&amp;ssl=1" alt="Japanese prints show tiny workers running the human body" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -289,15 +299,6 @@
                 <span class="time">2026-08-03 11:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/RAM.-2023-Shea-McMullan-Shutterstock.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="PC and console prices still going up" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/02/pc-and-console-prices-still-going-up.html" target="_blank">PC and console prices still going up</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-03 00:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -335,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 99 | 📡 Total Sources: 40 | 📸 With Images: 238 |
-        🔄 Last Updated: 17:31 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 101 | 📡 Total Sources: 40 | 📸 With Images: 238 |
+        🔄 Last Updated: 18:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
