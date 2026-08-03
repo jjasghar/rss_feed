@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-08-03 00:21:02 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-08-03 01:31:22 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Monday, August 03, 2026 - 00:21 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, August 03, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/02/nx-s1-5917201/space-x-falcon-nine-moon" target="_blank">Defunct part of SpaceX Falcon 9 rocket will slam into the moon</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-02 23:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1785712065757_wnn_dgi_new_video_shows_moment_hero_fires_at_shooter_at_idaho_inandout_260802_S3_1920x1080-vojmee.jpg" alt="New video shows moment hero fires at shooter at Idaho In-and-Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,15 +100,6 @@
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/8/2/venezuela-and-the-dominican-republic-say-they-will-work-to-restore-ties?traffic_source=rss" target="_blank">Venezuela and the Dominican Republic say they will work to restore ties</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-02 20:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-pakistan-kabal-suicide-bombing_7312464.jpg?20260802215329" alt="Deadly suicide bombing targeting anti-militant rally in Pakistan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/deadly-suicide-bombing-targeting-anti-militant-protesters-in-pakistan-13569275" target="_blank">Deadly suicide bombing targeting anti-militant rally in Pakistan</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-08-02 20:29</span>
             </div>
         </div>
@@ -165,6 +170,33 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/childrentime/react-useinfinitescroll-hook-infinite-scrolling-made-simple-2026-15c4" target="_blank">React useInfiniteScroll Hook: Infinite Scrolling Made Simple (2026)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-03 01:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AerynOS-Big-Update-2026" target="_blank">AerynOS Issues First Development Update &amp; New ISOs In Three Months</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-03 00:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/" target="_blank">Why Book Corners won&#x27;t sync contributions back to OpenStreetMap</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-03 00:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-rc6-Released" target="_blank">Linux 7.2-rc6 Released: &quot;This RC Is Huge&quot;</a></span>
                 <span class="feed">Phoronix</span>
@@ -189,38 +221,20 @@
                 <span class="time">2026-08-02 23:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bkocdur/i-ran-lighthouse-on-269-shopify-stores-the-median-mobile-score-was-48-3p3e" target="_blank">I ran Lighthouse on 269 Shopify stores. The median mobile score was 48.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-02 22:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tehrfurth/how-much-should-live-together-learning-to-isolate-services-the-hard-way-4b8m" target="_blank">How Much Should Live Together? Learning to Isolate Services the Hard Way</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-02 21:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lev_riabov_e6f2883d44b3ab/i-measured-the-rag-technique-menu-on-46000-chunks-four-things-mattered-2266" target="_blank">I measured the RAG technique menu on 46,000 chunks. Four things mattered.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-02 19:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/rsz_1233241238.webp?fit=1440%2C964&amp;quality=55&amp;ssl=1" alt="Charmera too modern for you? Kodak&#x27;s $35 film camera puts 1990 in your pocket" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/02/charmera-too-modern-for-you-kodaks-35-film-camera-puts-1990-in-your-pocket.html" target="_blank">Charmera too modern for you? Kodak&#x27;s $35 film camera puts 1990 in your pocket</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-02 23:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/arinowii-1280x722.jpg" alt="‘Retro Game Master’ Shinya Arino Makes Fans Feel Ancient As Wii Games Up For Consideration" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,15 +280,6 @@
                 <span class="time">2026-08-02 19:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/Abridgment_of_the_Book_of_Kings_28Shahnama292C_ZCCA4aE1B8A5E1B8A5C481k_after_Satan_kissed_his_shoulder_and_two_snakes_came_out_of_it2C_Walters_Art_Museum_Ms._W.5972C_fol._6b.jpg?fit=1110%2C1800&amp;quality=60&amp;ssl=1" alt="A 15th-century Persian book says what a snake sighting means" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/02/marnameh-snake-omens.html" target="_blank">A 15th-century Persian book says what a snake sighting means</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-02 18:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -294,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 88 | 📡 Total Sources: 40 | 📸 With Images: 240 |
-        🔄 Last Updated: 00:21 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 88 | 📡 Total Sources: 40 | 📸 With Images: 237 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
