@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-08-03 12:02:42 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-03 13:49:33 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, August 03, 2026 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Monday, August 03, 2026 - 13:49 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -62,6 +63,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1785756200503_tdy_news_7a_haake_trump_blanche_260803_S3_1920x1080-xf0w18.jpg" alt="Blanche Scraps ‘Anti-Weaponization’ Fund Ahead of Nomination" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/trump-ag-pick-scraps-anti-weaponization-fund-ahead-of-vote-267663429895" target="_blank">Blanche Scraps ‘Anti-Weaponization’ Fund Ahead of Nomination</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-03 11:23</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -80,21 +90,12 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/03/g-s1-136866/us-dollar-japanese-yen-market-interventions" target="_blank">U.S. dollar weakens sharply against the Japanese yen after market interventions</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-03 05:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c57/live/50fd27c0-8a79-11f1-b2ab-0dd01740f9f6.jpg" alt="How parents and pupils took on &#x27;cruel&#x27;, &#x27;authoritarian&#x27; schools - and won" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d57f/live/14aa9760-8f17-11f1-a7ab-8b30adf0800a.jpg" alt="English FA set to withdraw support for Fifa president Infantino" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cgje8d1p419o?at_medium=RSS&at_campaign=rss" target="_blank">How parents and pupils took on &#x27;cruel&#x27;, &#x27;authoritarian&#x27; schools - and won</a></span>
+                <span class="title"><a href="https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss" target="_blank">English FA set to withdraw support for Fifa president Infantino</a></span>
                 <span class="feed">BBC News</span>
-                <span class="time">2026-08-03 05:01</span>
+                <span class="time">2026-08-03 07:49</span>
             </div>
         </div>
 </div>
@@ -102,6 +103,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/refinery-500x500.jpg" alt="Trump wants the power to stop the public from suing polluters" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/08/trump-wants-the-power-to-stop-the-public-from-suing-polluters/" target="_blank">Trump wants the power to stop the public from suing polluters</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-03 13:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a6d92996e3835e5a7842d63/master/pass/I%E2%80%99m-Turning-My-1907-House-Into-a-Smart-Home%E2%80%94Without-Ruining-It.jpg" alt="The Delicate Art of Making a 1907 House Smarter" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,20 +157,20 @@
                 <span class="time">2026-08-02 19:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/" target="_blank">Malaysia is reportedly shutting down Balaji Srinivasan’s Network School</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-02 17:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/zlib-rs-0.6.7" target="_blank">zlib-rs 0.6.7 Released With LoongArch LSX Optimizations, Use-After-Free Fix</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-03 13:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,19 +210,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/devwithzach/calgary-energy-tech-and-offshore-engineering-teams-a-match-made-in-the-cloud-34hn" target="_blank">Calgary Energy Tech and Offshore Engineering Teams: A Match Made in the Cloud</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-03 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://gruhn.me/blog/2026-08-03/" target="_blank">Don&#x27;t be a meat proxy</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-03 06:28</span>
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://third-bit.com/gl4py/" target="_blank">Gleam for Python Programmers</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-08-03 08:23</span>
             </div>
         </div>
 </div>
@@ -325,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 87 | 📡 Total Sources: 40 | 📸 With Images: 233 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 85 | 📡 Total Sources: 40 | 📸 With Images: 236 |
+        🔄 Last Updated: 13:49 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
