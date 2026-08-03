@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-08-03 04:18:00 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-08-03 06:01:25 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, August 03, 2026 - 04:18 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Monday, August 03, 2026 - 06:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/03/g-s1-136866/us-dollar-japanese-yen-market-interventions" target="_blank">U.S. dollar weakens sharply against the Japanese yen after market interventions</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-03 05:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c57/live/50fd27c0-8a79-11f1-b2ab-0dd01740f9f6.jpg" alt="How parents and pupils took on &#x27;cruel&#x27;, &#x27;authoritarian&#x27; schools - and won" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cgje8d1p419o?at_medium=RSS&at_campaign=rss" target="_blank">How parents and pupils took on &#x27;cruel&#x27;, &#x27;authoritarian&#x27; schools - and won</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-03 05:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -66,39 +84,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13fa/live/ad119c30-8ec5-11f1-942d-9772a4b2ac54.jpg" alt="Trump suggests new talks with Iran to begin on Monday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss" target="_blank">Trump suggests new talks with Iran to begin on Monday</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-03 00:11</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/08/02/nx-s1-5917201/space-x-falcon-nine-moon" target="_blank">Defunct part of SpaceX Falcon 9 rocket will slam into the moon</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-08-02 23:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1785712065757_wnn_dgi_new_video_shows_moment_hero_fires_at_shooter_at_idaho_inandout_260802_S3_1920x1080-vojmee.jpg" alt="New video shows moment hero fires at shooter at Idaho In-and-Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/new-video-shows-moment-hero-fires-at-shooter-at-idaho-in-and-out-267650629521" target="_blank">New video shows moment hero fires at shooter at Idaho In-and-Out</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-02 23:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/cabinet-21-rt-gmh-260731_1785516825114_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says Iran deal is &#x27;imminent,&#x27; negotiations resume Monday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-tehran-progress-made-strait-hormuz/?id=135110405" target="_blank">Iran live updates: Trump says Iran deal is &#x27;imminent,&#x27; negotiations resume Monday</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-02 22:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/max-miller-20260802-ap-jh_1785688722587_hpMain_4x3t_384.jpg" alt="Sen. Moreno: Rep. Max Miller &#x27;should not serve in the House&#x27; over abuse allegations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/sen-moreno-calls-rep-max-miller-resign-allegedly/story?id=135307603" target="_blank">Sen. Moreno: Rep. Max Miller &#x27;should not serve in the House&#x27; over abuse allegations</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-02 21:01</span>
             </div>
         </div>
 </div>
@@ -166,6 +166,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/08/typescript-7-released/en/headerimage/generatedHeaderImage-1785691904681.jpg" alt="Microsoft Releases TypeScript 7.0 with a Native Go Compiler, Delivering 10x Faster Builds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/08/typescript-7-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Microsoft Releases TypeScript 7.0 with a Native Go Compiler, Delivering 10x Faster Builds</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-03 05:22</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -208,15 +217,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-rc6-Released" target="_blank">Linux 7.2-rc6 Released: &quot;This RC Is Huge&quot;</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-08-02 23:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/pg83/shitty" target="_blank">Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-02 23:05</span>
             </div>
         </div>
 </div>
@@ -297,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 86 | 📡 Total Sources: 40 | 📸 With Images: 236 |
-        🔄 Last Updated: 04:18 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 88 | 📡 Total Sources: 40 | 📸 With Images: 236 |
+        🔄 Last Updated: 06:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
