@@ -1,28 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-08-04 02:58:44 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-04 04:05:57 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 20 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, August 04, 2026 - 02:58 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, August 04, 2026 - 04:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/4/pochettino-agrees-to-coach-mens-us-soccer-through-2030-world-cup?traffic_source=rss" target="_blank">Pochettino agrees to coach men’s US Soccer through 2030 World Cup</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-04 03:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/GMA/salinas-1-abc-gmh-260803_1785797924927_hpMain_4x3t_384.jpg" alt="Idaho In-N-Out shooting: Good Samaritan who confronted gunman speaks out" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -75,21 +92,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1785798364572_nn_mch_spokane_wildfire_evacuations_260803_S3_1920x1080-6kfn7h.jpg" alt="65,000 forced to evacuate from Spokane fires" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/03/g-s1-136055/pacific-ocean-protections-removed" target="_blank">These are some of the last pristine ocean ecosystems. Now, they&#x27;re losing protections</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-03 22:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e43/live/e99c5fb0-8f6e-11f1-8f4e-3510a1b37663.jpg" alt="Rapists and child sex offenders to be barred from early release scheme" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss" target="_blank">Rapists and child sex offenders to be barred from early release scheme</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-03 21:35</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/65-000-forced-to-evacuate-from-spokane-fires-267706437595" target="_blank">65,000 forced to evacuate from Spokane fires</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-03 23:06</span>
             </div>
         </div>
 </div>
@@ -160,6 +168,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sven_welack/llms-on-consumer-hardware-part-2-prefill-and-the-failure-of-the-ai-pc-bd7" target="_blank">LLMs on Consumer Hardware — Part 2: Prefill and the Failure of the AI PC</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-04 03:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/hannune/incremental-graph-updates-for-corporate-knowledge-graphs-three-problems-batch-pipelines-cant-solve-2phm" target="_blank">Incremental Graph Updates for Corporate Knowledge Graphs: Three Problems Batch Pipelines Can&#x27;t Solve</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-04 02:38</span>
@@ -193,21 +210,12 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/cloudinary/up-and-running-with-cloudinarys-next-starter-kit-4586" target="_blank">Up and running with Cloudinary’s Next Starter Kit</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-03 22:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/12/Ubuntu-hardware.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu’s turning another system Deb package into a snap" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/08/dropbeat.webp?resize=406%2C232&amp;ssl=1" alt="Dropbeat is yet another flashy music controller for GNOME Shell" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/ubuntu-hwctl-deb-to-snap-transition" target="_blank">Ubuntu’s turning another system Deb package into a snap</a></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/dropbeat-music-controller-gnome-extension" target="_blank">Dropbeat is yet another flashy music controller for GNOME Shell</a></span>
                 <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-08-03 21:56</span>
+                <span class="time">2026-08-03 23:31</span>
             </div>
         </div>
 </div>
@@ -333,22 +341,13 @@
                 <span class="time">2026-08-03 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/maze.png" alt="Maze" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3280/" target="_blank">Maze</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-08-03 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 241 |
-        🔄 Last Updated: 02:58 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 110 | 📡 Total Sources: 40 | 📸 With Images: 241 |
+        🔄 Last Updated: 04:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
