@@ -1,28 +1,26 @@
-<!-- Processing 54 RSS feeds at 2026-08-04 05:55:51 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-04 06:49:37 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 3 new posts out of 19 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 18 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, August 04, 2026 - 05:56 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, August 04, 2026 - 06:49 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -160,6 +158,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/karamkhoury88/aws-introduction-for-beginner-software-engineers-4ec5" target="_blank">AWS Introduction for Beginner Software Engineers</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-04 06:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/sven_welack/llms-on-consumer-hardware-part-2-prefill-and-the-failure-of-the-ai-pc-bd7" target="_blank">LLMs on Consumer Hardware — Part 2: Prefill and the Failure of the AI PC</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-04 03:54</span>
@@ -199,15 +206,6 @@
                 <span class="title"><a href="https://dev.to/_1a008d053e73e4a54d13a/openais-astra-solved-10-open-math-problems-and-the-price-tag-is-the-real-story-hn6" target="_blank">OpenAI&#x27;s Astra Solved 10 Open Math Problems — and the Price Tag Is the Real Story</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-04 00:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/08/dropbeat.webp?resize=406%2C232&amp;ssl=1" alt="Dropbeat is yet another flashy music controller for GNOME Shell" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/dropbeat-music-controller-gnome-extension" target="_blank">Dropbeat is yet another flashy music controller for GNOME Shell</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-08-03 23:31</span>
             </div>
         </div>
 </div>
@@ -298,6 +296,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.questionablecontent.net/comics/5887.png" alt="Bubbles Catches On" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5887" target="_blank">Bubbles Catches On</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-08-04 04:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -338,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 241 |
-        🔄 Last Updated: 05:56 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 108 | 📡 Total Sources: 39 | 📸 With Images: 242 |
+        🔄 Last Updated: 06:49 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
