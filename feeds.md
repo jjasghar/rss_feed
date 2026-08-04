@@ -1,30 +1,46 @@
-<!-- Processing 54 RSS feeds at 2026-08-04 11:41:52 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-04 12:33:03 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 21 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 37 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, August 04, 2026 - 11:42 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Tuesday, August 04, 2026 - 12:33 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,12 +57,48 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/International/Tehran-picture-DB-260804_1785841755202_hpMain_4x3t_384.jpg" alt="Iran live updates: Diplomatic efforts to end war ongoing, Qatari official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trump-deal-imminent-iran-oman/?id=135317231" target="_blank">Iran live updates: Diplomatic efforts to end war ongoing, Qatari official says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-04 12:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/4/dr-congo-ebola-outbreak-kills-more-than-1700-as-who-accelerates-trials?traffic_source=rss" target="_blank">DR Congo Ebola outbreak kills more than 1,700 as WHO accelerates trials</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-04 11:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/04/g-s1-137277/up-first-newsetter-michigan-primaries-todd-blanche-spokane-wildfires-chuck-edwards" target="_blank">5 states hold primaries today. And, Spokane police arrest man connected to wildfire</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-04 11:29</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/opinions/2026/8/4/the-gulf-can-no-longer-outsource-its-security?traffic_source=rss" target="_blank">Misread as passive, the Gulf is quietly ending fifty years of dependence</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-04 11:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5041/live/51773f50-8f93-11f1-a7ab-8b30adf0800a.jpg" alt="Prison capacity crisis limits ability to cut early releases, minister says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss" target="_blank">Prison capacity crisis limits ability to cut early releases, minister says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-04 10:48</span>
             </div>
         </div>
 <div class="story">
@@ -58,47 +110,20 @@
                 <span class="time">2026-08-04 10:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/04/nx-s1-5697067/texas-banking-goldman-sachs-wall-street" target="_blank">Why Texas is betting &#x27;Y&#x27;all Street&#x27; can take on Wall Street</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-04 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/4/why-are-the-washington-wildfires-so-severe-spokane-fires-explained?traffic_source=rss" target="_blank">Why are the Washington wildfires so severe? Spokane fires explained</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-04 05:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/wash_1785814661346_hpMain_4x3t_384.jpg" alt="Man arrested on suspicion of arson for allegedly starting Spokane fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/man-arrested-suspicion-arson-allegedly-starting-spokane-fire/story?id=135343244" target="_blank">Man arrested on suspicion of arson for allegedly starting Spokane fire</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-04 04:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/4/pochettino-agrees-to-coach-mens-us-soccer-through-2030-world-cup?traffic_source=rss" target="_blank">Pochettino agrees to coach men’s US Soccer through 2030 World Cup</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-04 03:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/" target="_blank">EON wants to move the data superhighway from ocean fiber to space lasers</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-04 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a7130c0eb55137d34098766/master/pass/Review--Purple-Carrot-(2026).jpg" alt="Purple Carrot Meal Kit Review: Tastier Than Meal Kits With Meat" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,15 +169,6 @@
                 <span class="time">2026-08-04 00:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/" target="_blank">After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-03 23:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -162,9 +178,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/fromzerotoship/i-quoted-133-resolved-0-absent-340-unreachable-my-log-had-one-entry-and-it-wasnt-that-run-4567" target="_blank">I quoted 133 resolved, 0 absent, 340 unreachable. My log had one entry — and it wasn&#x27;t that run.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-04 12:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/08/perforce-maturity-ai-success/en/headerimage/generatedHeaderImage-1785503078995.jpg" alt="Platform Engineering Maturity Emerges as a Key Differentiator for Enterprise AI Success" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/08/perforce-maturity-ai-success/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Platform Engineering Maturity Emerges as a Key Differentiator for Enterprise AI Success</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-04 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/kamero/taming-70-flutter-flavors-flavorizr-batch-ci-for-white-label-releases-54fl" target="_blank">Taming 70 Flutter Flavors: flavorizr + Batch CI for White-Label Releases</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-04 11:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17403075/gnome-boxes-glow-up" target="_blank">GNOME Boxes Won&#x27;t Look Ancient Anymore Thanks to a Glow-Up</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-08-04 10:55</span>
             </div>
         </div>
 <div class="story">
@@ -183,33 +226,6 @@
                 <span class="title"><a href="https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES" target="_blank">FFmpeg 9.0</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-08-04 09:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alvin_james/from-zero-to-building-real-software-what-every-aspiring-developer-learns-beyond-coding-46lm" target="_blank">From Zero to Building Real Software: What Every Aspiring Developer Learns Beyond Coding</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-04 08:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/08/04/your-mvp-doesn-t-need-a-kubernetes-cluster/" target="_blank">Your MVP doesn’t need a Kubernetes cluster​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‍​​﻿​‌‌‍‌‌​﻿​﻿‌‍​﻿​﻿‌‌‌‍‌‌​﻿​﻿​‍﻿‌​﻿​‌​﻿​‌‌‍​‍​﻿‌‌​‍﻿‌​﻿‌​‌‍​‌​﻿​‍​﻿​​​‍﻿‌​﻿‍​​﻿‌‌‌‍‌‍​﻿‌‌​‍﻿‌‌‍‌​​﻿‍‌‌‍‌‍​﻿​﻿​﻿‍​​﻿​‍‌‍​‍​﻿​‍​﻿‍‌‌‍​﻿​﻿​‌‌‍​‍​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‍​​﻿​‌‌‍‌‌​﻿​﻿‌‍​﻿​﻿‌‌‌‍‌‌​﻿​﻿​‍﻿‌​﻿​‌​﻿​‌‌‍​‍​﻿‌‌​‍﻿‌​﻿‌​‌‍​‌​﻿​‍​﻿​​​‍﻿‌​﻿‍​​﻿‌‌‌‍‌‍​﻿‌‌​‍﻿‌‌‍‌​​﻿‍‌‌‍‌‍​﻿​﻿​﻿‍​​﻿​‍‌‍​‍​﻿​‍​﻿‍‌‌‍​﻿​﻿​‌‌‍​‍​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-08-04 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/08/eslint-rspack-plugin-5/en/headerimage/generatedHeaderImage-1785692458963.jpg" alt="eslint-rspack-plugin 5.0.0 Ships as a Pure ESM Package, Aligning with the Rstack Ecosystem" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/08/eslint-rspack-plugin-5/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">eslint-rspack-plugin 5.0.0 Ships as a Pure ESM Package, Aligning with the Rstack Ecosystem</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-04 07:39</span>
             </div>
         </div>
 </div>
@@ -240,6 +256,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Autodesk-AutoCAD.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This $399 AutoCAD deal is suspiciously well drafted" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/04/this-399-autocad-deal-is-suspiciously-well-drafted.html" target="_blank">This $399 AutoCAD deal is suspiciously well drafted</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-04 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/kooandemma-1280x720.jpg" alt="Does The Dog Die In Beast Of Reincarnation?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +310,6 @@
                 <span class="time">2026-08-03 20:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/ascii-today-title-generator.jpg?fit=1200%2C596&amp;quality=60&amp;ssl=1" alt="Type a word, get it back in 50 ASCII art fonts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/03/ascii-today-title-generator.html" target="_blank">Type a word, get it back in 50 ASCII art fonts</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-03 20:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -331,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 241 |
-        🔄 Last Updated: 11:42 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 114 | 📡 Total Sources: 39 | 📸 With Images: 240 |
+        🔄 Last Updated: 12:33 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
