@@ -1,31 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-08-04 08:53:11 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-08-04 09:51:29 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, August 04, 2026 - 08:53 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, August 04, 2026 - 09:51 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/04/nx-s1-5697067/texas-banking-goldman-sachs-wall-street" target="_blank">Why Texas is betting &#x27;Y&#x27;all Street&#x27; can take on Wall Street</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-04 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,15 +91,6 @@
                 <span class="title"><a href="https://abcnews.com/US/idaho-shooting-good-samaritan-confronted-gunman-speaks/story?id=135338660" target="_blank">Idaho In-N-Out shooting: Good Samaritan who confronted gunman speaks out</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-08-04 00:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5041/live/51773f50-8f93-11f1-a7ab-8b30adf0800a.jpg" alt="PC Harper&#x27;s mother &#x27;devastated&#x27; his killers set for early release under revised plans" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss" target="_blank">PC Harper&#x27;s mother &#x27;devastated&#x27; his killers set for early release under revised plans</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-04 00:50</span>
             </div>
         </div>
 </div>
@@ -178,6 +176,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/08/eslint-rspack-plugin-5/en/headerimage/generatedHeaderImage-1785692458963.jpg" alt="eslint-rspack-plugin 5.0.0 Ships as a Pure ESM Package, Aligning with the Rstack Ecosystem" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/08/eslint-rspack-plugin-5/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">eslint-rspack-plugin 5.0.0 Ships as a Pure ESM Package, Aligning with the Rstack Ecosystem</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-04 07:39</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -202,15 +209,6 @@
                 <span class="title"><a href="https://dev.to/hannune/incremental-graph-updates-for-corporate-knowledge-graphs-three-problems-batch-pipelines-cant-solve-2phm" target="_blank">Incremental Graph Updates for Corporate Knowledge Graphs: Three Problems Batch Pipelines Can&#x27;t Solve</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-04 02:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hirodeath/handling-notification-taps-in-expo-notifications-launch-vs-runtime-1egf" target="_blank">Handling Notification Taps in expo-notifications: Launch vs. Runtime</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-04 01:03</span>
             </div>
         </div>
 </div>
@@ -332,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 243 |
-        🔄 Last Updated: 08:53 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 243 |
+        🔄 Last Updated: 09:51 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
