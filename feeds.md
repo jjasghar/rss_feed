@@ -1,37 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-08-04 18:28:57 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-04 19:29:06 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Tuesday, August 04, 2026 - 18:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Tuesday, August 04, 2026 - 19:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +46,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/8/4/white-house-to-meet-ai-firms-on-advanced-model-safety?traffic_source=rss" target="_blank">White House to meet AI firms on advanced model safety</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-04 19:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/8/4/israel-election-pressure-fuels-settlement-push-as-west-bank-violence-surges?traffic_source=rss" target="_blank">Israel election pressure fuels settlement push as West Bank violence surges</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-04 18:08</span>
@@ -63,6 +67,15 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss" target="_blank">Video shows Russian drone chasing Ukrainian street vendor in &#x27;human safari&#x27; attack</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-08-04 17:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/idaho-victims-ht-gmh-260804_1785848936582_hpMain_4x3t_384.jpg" alt="What to know about the victims of the In-N-Out Burger shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/victims-burger-shooting/story?id=135352228" target="_blank">What to know about the victims of the In-N-Out Burger shooting</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-04 17:14</span>
             </div>
         </div>
 <div class="story">
@@ -83,29 +96,29 @@
                 <span class="time">2026-08-04 16:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/4/why-did-trump-attack-jeanine-pirro-over-us-reflecting-pool-vandalism?traffic_source=rss" target="_blank">Why did Trump attack Jeanine Pirro over US reflecting pool ‘vandalism’?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-04 16:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6100/live/a9a2a1c0-9005-11f1-9dfb-fd4408d16f2f.jpg" alt="Justice secretary apologises to families affected by early release scheme" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss" target="_blank">Justice secretary apologises to families affected by early release scheme</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-04 15:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/" target="_blank">Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-04 19:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2270890949-500x500.jpg" alt="China is Tesla&#x27;s cash cow, but for how much longer?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/08/china-is-teslas-cash-cow-but-for-how-much-longer/" target="_blank">China is Tesla&#x27;s cash cow, but for how much longer?</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-04 17:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,29 +155,20 @@
                 <span class="time">2026-08-04 15:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a7105271c84f397782d5629/master/pass/Security_USArmyIsAddingHighEnergyLaser_v1.gif" alt="Landmark Deal Would Officially Add Laser Weapons to US Army Arsenal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/landmark-deal-would-officially-add-laser-weapons-to-us-army-arsenal/" target="_blank">Landmark Deal Would Officially Add Laser Weapons to US Army Arsenal</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-04 15:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/2026-Chevrolet-Corvette-Grand-Sport-X-005-500x500.jpg" alt="2027 Chevrolet Corvette Grand Sport X proves code is as important as hardware" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/08/2027-chevrolet-corvette-grand-sport-x-proves-code-is-as-important-as-hardware/" target="_blank">2027 Chevrolet Corvette Grand Sport X proves code is as important as hardware</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-04 14:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows/" target="_blank">How the GitHub legal team used Copilot CLI to streamline their workflows</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-08-04 19:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,15 +214,6 @@
                 <span class="time">2026-08-04 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://toneyalexander.github.io/inclusive-color-space/" target="_blank">Show HN: Simple algorithm and color space to generate diverse skin tones</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-04 15:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/minecraftslavb-1280x720.jpg" alt="Minecraft Adds Concrete Stairs After Making Fans Wait Nearly A Decade And People Are Excited" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/minecraft-adds-concrete-stairs-after-making-fans-wait-nearly-a-decade-and-people-are-excited-2000721630" target="_blank">Minecraft Adds Concrete Stairs After Making Fans Wait Nearly A Decade And People Are Excited</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-04 19:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KZ6N22YEHG8K7GCB0JRTQ5V2/hero-image.jpg" alt="Five Hacks Every Amazfit Cheetah 2 Ultra User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +287,6 @@
                 <span class="time">2026-08-04 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/ballpit-1280x720.jpg" alt="A Bunch Of Terrific Games Are Coming To The Cheaper Version Of Game Pass In August 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/a-bunch-of-terrific-games-are-coming-to-the-cheaper-version-of-game-pass-in-august-2026-2000721521" target="_blank">A Bunch Of Terrific Games Are Coming To The Cheaper Version Of Game Pass In August 2026</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-04 14:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,22 +310,13 @@
                 <span class="time">2026-08-04 04:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/08/03/hostile-radishes" target="_blank">Hostile Radishes</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-08-03 19:06</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 118 | 📡 Total Sources: 40 | 📸 With Images: 238 |
-        🔄 Last Updated: 18:29 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 239 |
+        🔄 Last Updated: 19:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
