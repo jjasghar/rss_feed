@@ -1,4 +1,4 @@
-<!-- Processing 54 RSS feeds at 2026-08-04 22:02:13 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-04 23:52:55 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
@@ -6,29 +6,32 @@
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, August 04, 2026 - 22:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, August 04, 2026 - 23:53 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1785885734927_nn_sbr_michigan_primary_260804_S3_1920x1080-c7anel.jpg" alt="Divided Democrats face critical Michigan Senate primary" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/divided-democrats-face-critical-michigan-senate-primary-267771461647" target="_blank">Divided Democrats face critical Michigan Senate primary</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-04 23:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/8/4/elon-musks-spacex-reports-reports-losses-but-less-than-expected?traffic_source=rss" target="_blank">Elon Musk’s SpaceX reports losses but less than expected</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-04 22:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/04/nx-s1-5918536/spacex-first-earnings-report-since-ipo" target="_blank">SpaceX&#x27;s revenue rises as its once-soaring stock price drifts back to Earth</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-04 22:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf57/live/7b6be310-901f-11f1-a7ab-8b30adf0800a.jpg" alt="Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo?at_medium=RSS&at_campaign=rss" target="_blank">Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-04 21:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -62,47 +101,20 @@
                 <span class="time">2026-08-04 19:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/4/israel-election-pressure-fuels-settlement-push-as-west-bank-violence-surges?traffic_source=rss" target="_blank">Israel election pressure fuels settlement push as West Bank violence surges</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-04 18:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8528/live/11898c20-9026-11f1-b2ab-0dd01740f9f6.jpg" alt="Video shows Russian drone chasing Ukrainian street vendor in &#x27;human safari&#x27; attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss" target="_blank">Video shows Russian drone chasing Ukrainian street vendor in &#x27;human safari&#x27; attack</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-04 17:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/idaho-victims-ht-gmh-260804_1785848936582_hpMain_4x3t_384.jpg" alt="What to know about the victims of the In-N-Out Burger shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/victims-burger-shooting/story?id=135352228" target="_blank">What to know about the victims of the In-N-Out Burger shooting</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-04 17:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/4/gaza-holds-mass-funeral-for-112-people-killed-in-israels-2023-sabra-attack?traffic_source=rss" target="_blank">Gaza holds mass funeral for 112 people killed in Israel’s 2023 Sabra attack</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-04 17:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/04/elon-musk-repeatedly-one-upped-his-execs-on-spacexs-first-earnings-call/" target="_blank">Elon Musk repeatedly one-upped his execs on SpaceX’s first earnings call</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-04 22:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2170814475-500x500.jpg" alt="Senators demand crackdown on wildfire &quot;prediction markets&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,20 +160,20 @@
                 <span class="time">2026-08-04 19:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2270890949-500x500.jpg" alt="China is Tesla&#x27;s cash cow, but for how much longer?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/08/china-is-teslas-cash-cow-but-for-how-much-longer/" target="_blank">China is Tesla&#x27;s cash cow, but for how much longer?</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-04 17:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jjoyneriv/keep-docker-engine-as-your-kubernetes-runtime-on-ubuntu-with-cri-dockerd-18de" target="_blank">Keep Docker Engine as Your Kubernetes Runtime on Ubuntu with cri-dockerd</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-04 23:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +217,6 @@
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17403257/rhythmbox-3-5-release" target="_blank">Linux&#x27;s Favorite Music Player Rhythmbox 3.5 Lands After Nearly a Decade in the 3.4 Series</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2026-08-04 16:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/ai-sdlc-maturity-framework-bottlenecks/en/mediumimage/LizzieMatusov-medium-1785314207748.jpeg" alt="Presentation: The Five Stages of AI Maturity in Engineering Organizations - Where and Why Teams Get Stuck" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/ai-sdlc-maturity-framework-bottlenecks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: The Five Stages of AI Maturity in Engineering Organizations - Where and Why Teams Get Stuck</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-04 16:00</span>
             </div>
         </div>
 </div>
@@ -263,6 +266,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-04 21:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/EA-logo-generic-red-1280x720.jpg" alt="Electronic Arts Officially Belongs To Saudi Arabia, Private Equity, And Jared Kushner Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -287,15 +299,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/08/04/rocky-horror-show-musical-director-sent-threats-to-self-to-end-production-and-avoid-cast-drama.html" target="_blank">Rocky Horror Show musical director sent threats to self to end production and avoid cast drama</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-08-04 18:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KZ6N22YEHG8K7GCB0JRTQ5V2/hero-image.jpg" alt="Five Hacks Every Amazfit Cheetah 2 Ultra User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/hacks-every-amazfit-cheetah-2-ultra-user-should-know?utm_medium=RSS" target="_blank">Five Hacks Every Amazfit Cheetah 2 Ultra User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-04 18:00</span>
             </div>
         </div>
 </div>
@@ -326,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 110 | 📡 Total Sources: 40 | 📸 With Images: 242 |
-        🔄 Last Updated: 22:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 109 | 📡 Total Sources: 40 | 📸 With Images: 243 |
+        🔄 Last Updated: 23:53 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
