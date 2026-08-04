@@ -1,26 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-08-04 06:49:37 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-04 07:49:26 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 18 feeds processed -->
+<!-- Generated 3 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, August 04, 2026 - 06:49 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Tuesday, August 04, 2026 - 07:49 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +58,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-trump100-t100-pod-trump100-4-aug-26_7313333.jpg?20260804065344" alt="Trump sells his social posts to the highest bidder - with huge stock market consequences" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/art-of-the-deal-or-insider-trading-trump-takes-truth-social-to-wall-street-13569579" target="_blank">Trump sells his social posts to the highest bidder - with huge stock market consequences</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-08-04 01:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/GMA/salinas-1-abc-gmh-260803_1785797924927_hpMain_4x3t_384.jpg" alt="Idaho In-N-Out shooting: Good Samaritan who confronted gunman speaks out" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -79,15 +91,6 @@
                 <span class="title"><a href="https://abcnews.com/Politics/pirro-meets-trump-white-house-amid-questions-future/story?id=135337199" target="_blank">Pirro meets with Trump at White House amid questions about her future</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-08-04 00:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/8/4/iran-war-live-tehran-denies-us-talks-as-trump-warns-of-last-chance?traffic_source=rss" target="_blank">Iran war live: Tehran denies US talks as Trump warns of ‘last chance’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-04 00:00</span>
             </div>
         </div>
 </div>
@@ -331,22 +334,13 @@
                 <span class="time">2026-08-03 08:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/08/03/hostile-radishes" target="_blank">Hostile Radishes</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-08-03 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 108 | 📡 Total Sources: 39 | 📸 With Images: 242 |
-        🔄 Last Updated: 06:49 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 106 | 📡 Total Sources: 39 | 📸 With Images: 243 |
+        🔄 Last Updated: 07:49 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
