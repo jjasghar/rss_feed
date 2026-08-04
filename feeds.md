@@ -1,41 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-08-04 14:46:43 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-08-04 15:44:49 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 32 feeds processed -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, August 04, 2026 - 14:47 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, August 04, 2026 - 15:45 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e55/live/0e092f10-9012-11f1-aabc-c3c7aa714117.jpg" alt="Oil prices fall on hopes Strait of Hormuz could reopen" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss" target="_blank">Oil prices fall on hopes Strait of Hormuz could reopen</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-04 15:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1785856663886_now_current_wong_gutierrez_blanche_advance_260804_S3_1920x1080-kmlrmt.jpg" alt="Senate Judiciary Committee advances Todd Blanche&#x27;s attorney general nomination" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/senate-judiciary-committee-advances-todd-blanche-s-attorney-general-nomination-267742277912" target="_blank">Senate Judiciary Committee advances Todd Blanche&#x27;s attorney general nomination</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-04 15:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6100/live/a9a2a1c0-9005-11f1-9dfb-fd4408d16f2f.jpg" alt="Prison early release scheme comes &#x27;at expense of victims&#x27;, families complain" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -72,37 +84,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/04/nx-s1-5905346/new-books-august-2026" target="_blank">13 new books in August will get you through the dog days of summer</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-04 13:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/8/4/more-than-150-people-rescued-in-english-channel-after-boat-catches-fire?traffic_source=rss" target="_blank">More than 150 people rescued in English Channel after boat catches fire</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-04 12:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Tehran-picture-DB-260804_1785841755202_hpMain_4x3t_384.jpg" alt="Iran live updates: Diplomatic efforts to end war ongoing, Qatari official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trump-deal-imminent-iran-oman/?id=135317231" target="_blank">Iran live updates: Diplomatic efforts to end war ongoing, Qatari official says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-04 12:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/4/dr-congo-ebola-outbreak-kills-more-than-1700-as-who-accelerates-trials?traffic_source=rss" target="_blank">DR Congo Ebola outbreak kills more than 1,700 as WHO accelerates trials</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-04 11:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/04/g-s1-137277/up-first-newsetter-michigan-primaries-todd-blanche-spokane-wildfires-chuck-edwards" target="_blank">5 states hold primaries today. And, Spokane police arrest man connected to wildfire</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-04 11:29</span>
             </div>
         </div>
 </div>
@@ -110,6 +104,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/" target="_blank">Texas halts new data centers as governor calls for audits</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-04 15:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/2026-Chevrolet-Corvette-Grand-Sport-X-005-500x500.jpg" alt="2027 Chevrolet Corvette Grand Sport X proves code is as important as hardware" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -155,20 +158,20 @@
                 <span class="time">2026-08-04 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a7130c0eb55137d34098766/master/pass/Review--Purple-Carrot-(2026).jpg" alt="Purple Carrot Meal Kit Review: Tastier Than Meal Kits With Meat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/purple-carrot-meal-kit-2026/" target="_blank">Purple Carrot Meal Kit Review: Tastier Than Meal Kits With Meat</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-04 11:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/08/papirus-icon-update-2026.webp?resize=406%2C232&amp;ssl=1" alt="Paprius icon set gets first update in a over year with 80+ new icons" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/paprius-icon-pack-sees-first-update-in-a-year-with-80-new-icons" target="_blank">Paprius icon set gets first update in a over year with 80+ new icons</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-08-04 14:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -214,15 +217,6 @@
                 <span class="time">2026-08-04 11:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17403075/gnome-boxes-glow-up" target="_blank">GNOME Boxes Won&#x27;t Look Ancient Anymore Thanks to a Glow-Up</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-08-04 10:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -252,12 +246,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/The-Award-Winning-Luminar-Neo-Lifetime-Bundle.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This AI photo editor turns your blurry vacation pics into gallery material" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/04/this-ai-photo-editor-turns-your-blurry-vacation-pics-into-gallery-material.html" target="_blank">This AI photo editor turns your blurry vacation pics into gallery material</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-04 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/ballpit-1280x720.jpg" alt="A Bunch Of Terrific Games Are Coming To The Cheaper Version Of Game Pass In August 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/a-bunch-of-terrific-games-are-coming-to-the-cheaper-version-of-game-pass-in-august-2026-2000721521" target="_blank">A Bunch Of Terrific Games Are Coming To The Cheaper Version Of Game Pass In August 2026</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-08-04 14:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KZ6FE9GXDHWA4REXY7DPJXNE/hero-image.jpg" alt="WhatsApp Just Added Five New Group Chat Features, Including &#x27;@All&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/whatsapps-five-new-group-chat-features?utm_medium=RSS" target="_blank">WhatsApp Just Added Five New Group Chat Features, Including &#x27;@All&#x27;</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-04 14:00</span>
             </div>
         </div>
 <div class="story">
@@ -287,29 +299,20 @@
                 <span class="time">2026-08-03 22:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KZ4RJY50EREB1YAMD5QQC4G0/hero-image.jpg" alt="How to Finally Sync Your Fitbit Data to Apple Health" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/fitbit-data-can-finally-sync-to-apple-health?utm_medium=RSS" target="_blank">How to Finally Sync Your Fitbit Data to Apple Health</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-03 21:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Microsoft-Windows-11-Pro-3.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Give your PC an upgrade that BitLocker, Hyper-V, and Copilot can all agree on" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/03/give-your-pc-an-upgrade-that-bitlocker-hyper-v-and-copilot-can-all-agree-on.html" target="_blank">Give your PC an upgrade that BitLocker, Hyper-V, and Copilot can all agree on</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-03 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1785787461-20260804.png" alt="Saturday Morning Breakfast Cereal - Wants" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/wants-2" target="_blank">Saturday Morning Breakfast Cereal - Wants</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-08-04 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.questionablecontent.net/comics/5887.png" alt="Bubbles Catches On" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -328,22 +331,13 @@
                 <span class="time">2026-08-03 19:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1785717195-20260803.png" alt="Saturday Morning Breakfast Cereal - Proof" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/proof-7" target="_blank">Saturday Morning Breakfast Cereal - Proof</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-08-03 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 114 | 📡 Total Sources: 40 | 📸 With Images: 238 |
-        🔄 Last Updated: 14:47 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 238 |
+        🔄 Last Updated: 15:45 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
