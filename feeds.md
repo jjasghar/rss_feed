@@ -1,29 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-08-04 07:49:26 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-04 08:53:11 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 21 feeds processed -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Tuesday, August 04, 2026 - 07:49 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, August 04, 2026 - 08:53 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +48,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/8/4/why-are-the-washington-wildfires-so-severe-spokane-fires-explained?traffic_source=rss" target="_blank">Why are the Washington wildfires so severe? Spokane fires explained</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-04 05:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/wash_1785814661346_hpMain_4x3t_384.jpg" alt="Man arrested on suspicion of arson for allegedly starting Spokane fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/man-arrested-suspicion-arson-allegedly-starting-spokane-fire/story?id=135343244" target="_blank">Man arrested on suspicion of arson for allegedly starting Spokane fire</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-04 04:24</span>
             </div>
         </div>
 <div class="story">
@@ -84,20 +95,20 @@
                 <span class="time">2026-08-04 00:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/pirro-1-gty-gmh-260803_1785790335622_hpMain_4x3t_384.jpg" alt="Pirro meets with Trump at White House amid questions about her future" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/pirro-meets-trump-white-house-amid-questions-future/story?id=135337199" target="_blank">Pirro meets with Trump at White House amid questions about her future</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-04 00:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" alt="Loop Earplugs Discount Codes: 40% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/loop-earplugs-discount-code/" target="_blank">Loop Earplugs Discount Codes: 40% Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-04 05:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" alt="Lowe’s Promo Codes and Deals: Up to $300 Off Appliances" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,20 +154,29 @@
                 <span class="time">2026-08-03 22:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/" target="_blank">AWS is helping vibe-coding startup Superblocks, and the implications are big</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-03 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alvin_james/from-zero-to-building-real-software-what-every-aspiring-developer-learns-beyond-coding-46lm" target="_blank">From Zero to Building Real Software: What Every Aspiring Developer Learns Beyond Coding</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-04 08:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/08/04/your-mvp-doesn-t-need-a-kubernetes-cluster/" target="_blank">Your MVP doesn’t need a Kubernetes cluster​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‍​​﻿​‌‌‍‌‌​﻿​﻿‌‍​﻿​﻿‌‌‌‍‌‌​﻿​﻿​‍﻿‌​﻿​‌​﻿​‌‌‍​‍​﻿‌‌​‍﻿‌​﻿‌​‌‍​‌​﻿​‍​﻿​​​‍﻿‌​﻿‍​​﻿‌‌‌‍‌‍​﻿‌‌​‍﻿‌‌‍‌​​﻿‍‌‌‍‌‍​﻿​﻿​﻿‍​​﻿​‍‌‍​‍​﻿​‍​﻿‍‌‌‍​﻿​﻿​‌‌‍​‍​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‍​​﻿​‌‌‍‌‌​﻿​﻿‌‍​﻿​﻿‌‌‌‍‌‌​﻿​﻿​‍﻿‌​﻿​‌​﻿​‌‌‍​‍​﻿‌‌​‍﻿‌​﻿‌​‌‍​‌​﻿​‍​﻿​​​‍﻿‌​﻿‍​​﻿‌‌‌‍‌‍​﻿‌‌​‍﻿‌‌‍‌​​﻿‍‌‌‍‌‍​﻿​﻿​﻿‍​​﻿​‍‌‍​‍​﻿​‍​﻿‍‌‌‍​﻿​﻿​‌‌‍​‍​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-08-04 07:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -191,24 +211,6 @@
                 <span class="title"><a href="https://dev.to/hirodeath/handling-notification-taps-in-expo-notifications-launch-vs-runtime-1egf" target="_blank">Handling Notification Taps in expo-notifications: Launch vs. Runtime</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-04 01:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/FFmpeg-9.0-Released" target="_blank">FFmpeg 9.0 Released With More Vulkan Acceleration, Animated WebP &amp; More AMD AMF</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-04 00:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/_1a008d053e73e4a54d13a/openais-astra-solved-10-open-math-problems-and-the-price-tag-is-the-real-story-hn6" target="_blank">OpenAI&#x27;s Astra Solved 10 Open Math Problems — and the Price Tag Is the Real Story</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-04 00:20</span>
             </div>
         </div>
 </div>
@@ -325,22 +327,13 @@
                 <span class="time">2026-08-03 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5886.png" alt="Funny Ha Ha" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5886" target="_blank">Funny Ha Ha</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-08-03 08:29</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 106 | 📡 Total Sources: 39 | 📸 With Images: 243 |
-        🔄 Last Updated: 07:49 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 243 |
+        🔄 Last Updated: 08:53 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
