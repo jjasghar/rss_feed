@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-08-04 15:44:49 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-04 16:33:59 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 27 feeds processed -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, August 04, 2026 - 15:45 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, August 04, 2026 - 16:34 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/4/why-did-trump-attack-jeanine-pirro-over-us-reflecting-pool-vandalism?traffic_source=rss" target="_blank">Why did Trump attack Jeanine Pirro over US reflecting pool ‘vandalism’?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-04 16:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6100/live/a9a2a1c0-9005-11f1-9dfb-fd4408d16f2f.jpg" alt="Justice secretary apologises to families affected by early release scheme" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss" target="_blank">Justice secretary apologises to families affected by early release scheme</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-04 15:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e55/live/0e092f10-9012-11f1-aabc-c3c7aa714117.jpg" alt="Oil prices fall on hopes Strait of Hormuz could reopen" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -64,6 +84,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-hassayna-abu-sharia_7313451.jpg?20260804094025" alt="Funeral held for 112 victims buried under rubble of Gaza flats for nearly three years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/mass-funeral-held-for-112-victims-buried-under-rubble-of-gaza-flats-for-nearly-three-years-13569765" target="_blank">Funeral held for 112 victims buried under rubble of Gaza flats for nearly three years</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-08-04 14:48</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6100/live/a9a2a1c0-9005-11f1-9dfb-fd4408d16f2f.jpg" alt="Prison early release scheme comes &#x27;at expense of victims&#x27;, families complain" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -72,38 +101,29 @@
                 <span class="time">2026-08-04 14:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/4/beirut-port-blast-anniversary-overshadowed-by-new-wave-of-destruction?traffic_source=rss" target="_blank">Beirut port blast anniversary overshadowed by new wave of destruction</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-04 14:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/04/nx-s1-5905346/new-books-august-2026" target="_blank">13 new books in August will get you through the dog days of summer</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-04 13:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/4/more-than-150-people-rescued-in-english-channel-after-boat-catches-fire?traffic_source=rss" target="_blank">More than 150 people rescued in English Channel after boat catches fire</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-04 12:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/04/hackers-steal-over-130-million-by-exploiting-bug-in-offline-hardware-wallets/" target="_blank">Hackers steal over $130 million by exploiting bug in offline hardware wallets</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-04 16:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/975115/t-mobile-financing-eip-flex-36-plan" target="_blank">T-Mobile’s $0-down financing plan bundles taxes and fees</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-04 16:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,29 +160,29 @@
                 <span class="time">2026-08-04 14:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/973624/peak-design-city-line-details-price" target="_blank">Peak Design’s latest bags have clever integrated hooks</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-04 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/" target="_blank">EON wants to move the data superhighway from ocean fiber to space lasers</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-04 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/leobaniak/omdias-2026-supply-chain-survey-puts-the-annual-incident-rate-at-77-percent-11p4" target="_blank">Omdia&#x27;s 2026 supply-chain survey puts the annual-incident rate at 77 percent</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-04 16:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17403257/rhythmbox-3-5-release" target="_blank">Linux&#x27;s Favorite Music Player Rhythmbox 3.5 Lands After Nearly a Decade in the 3.4 Series</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-08-04 16:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/08/papirus-icon-update-2026.webp?resize=406%2C232&amp;ssl=1" alt="Paprius icon set gets first update in a over year with 80+ new icons" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -199,24 +219,6 @@
                 <span class="time">2026-08-04 12:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/08/perforce-maturity-ai-success/en/headerimage/generatedHeaderImage-1785503078995.jpg" alt="Platform Engineering Maturity Emerges as a Key Differentiator for Enterprise AI Success" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/08/perforce-maturity-ai-success/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Platform Engineering Maturity Emerges as a Key Differentiator for Enterprise AI Success</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-04 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kamero/taming-70-flutter-flavors-flavorizr-batch-ci-for-white-label-releases-54fl" target="_blank">Taming 70 Flutter Flavors: flavorizr + Batch CI for White-Label Releases</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-04 11:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +247,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2023/04/e8044addc0b35c9252f9353cd7606efb.jpg" alt="Spider-Man: Brand New Day And All 37 Other Marvel Cinematic Universe Movies, Ranked From Worst To Best" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/marvel-cinematic-universe-mcu-best-worst-movies-spider-man-2000721507" target="_blank">Spider-Man: Brand New Day And All 37 Other Marvel Cinematic Universe Movies, Ranked From Worst To Best</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-04 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/The-Award-Winning-Luminar-Neo-Lifetime-Bundle.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This AI photo editor turns your blurry vacation pics into gallery material" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -290,15 +301,6 @@
                 <span class="time">2026-08-04 00:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/mariolopezgross-1280x720.jpg" alt="What Is Wrong With You Mario Lopez?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/what-is-wrong-with-you-mario-lopez-2000721352" target="_blank">What Is Wrong With You Mario Lopez?</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-03 22:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -336,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 238 |
-        🔄 Last Updated: 15:45 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 237 |
+        🔄 Last Updated: 16:34 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
