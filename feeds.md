@@ -1,26 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-08-03 23:20:31 UTC -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-08-04 00:21:06 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 18 feeds processed -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Monday, August 03, 2026 - 23:20 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, August 04, 2026 - 00:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -36,6 +41,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/pirro-1-gty-gmh-260803_1785790335622_hpMain_4x3t_384.jpg" alt="Pirro meets with Trump at White House amid questions about her future" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/pirro-meets-trump-white-house-amid-questions-future/story?id=135337199" target="_blank">Pirro meets with Trump at White House amid questions about her future</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-04 00:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/8/4/iran-war-live-tehran-denies-us-talks-as-trump-warns-of-last-chance?traffic_source=rss" target="_blank">Iran war live: Tehran denies US talks as Trump warns of ‘last chance’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-04 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/03/g-s1-136055/pacific-ocean-protections-removed" target="_blank">These are some of the last pristine ocean ecosystems. Now, they&#x27;re losing protections</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-03 22:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e43/live/e99c5fb0-8f6e-11f1-8f4e-3510a1b37663.jpg" alt="Rapists and child sex offenders to be barred from early release scheme" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss" target="_blank">Rapists and child sex offenders to be barred from early release scheme</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-03 21:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -54,47 +95,29 @@
                 <span class="time">2026-08-03 20:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-gianni-infantino-fifa-president_7313256.jpg?20260803205946" alt="How Infantino will be framing his battle to remain FIFA president" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/how-gianni-infantino-will-be-framing-his-battle-to-remain-fifa-president-13569543" target="_blank">How Infantino will be framing his battle to remain FIFA president</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-08-03 19:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/03/nx-s1-5918001/reflecting-pool-vandalism-charges-dropped" target="_blank">Ripple effects: After Hearn, three others have their Reflecting Pool charges dropped</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-03 19:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/cyclosporiasis-gty-gmh-260803_1785774719590_hpMain_4x3t_384.jpg" alt="2 deaths reported in Michigan as cyclosporiasis outbreak continues to spread" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Health/2-deaths-reported-cyclosporiasis-outbreak-michigan-cases-surpass/story?id=135329968" target="_blank">2 deaths reported in Michigan as cyclosporiasis outbreak continues to spread</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-03 19:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45c0/live/aa0a0bd0-8f65-11f1-a7ab-8b30adf0800a.jpg" alt="Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss" target="_blank">Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-03 18:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/974505/beast-of-reincarnation-review-ps5-xbox" target="_blank">The studio behind Pokémon struggles to find its voice in Beast of Reincarnation</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-04 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/" target="_blank">After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-03 23:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a70c4a6513c0e0e60aeb407/master/pass/Culture_DidAnAIMusicAppJustSnitchontheSongoftheSummer-ezgif.com-video-to-gif-converter.gif" alt="Did an AI Music App Just Snitch on the Song of the Summer?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -131,29 +154,20 @@
                 <span class="time">2026-08-03 19:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/news-080226a-lg-500x500.jpg" alt="LEGO deploys Hubble Space Telescope as detailed desktop model" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/08/lego-deploys-hubble-space-telescope-as-detailed-desktop-model/" target="_blank">LEGO deploys Hubble Space Telescope as detailed desktop model</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-03 19:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes" target="_blank">Europe’s AI labeling and transparency rules are now in effect</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-03 17:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/_1a008d053e73e4a54d13a/openais-astra-solved-10-open-math-problems-and-the-price-tag-is-the-real-story-hn6" target="_blank">OpenAI&#x27;s Astra Solved 10 Open Math Problems — and the Price Tag Is the Real Story</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-04 00:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,15 +211,6 @@
                 <span class="title"><a href="https://www.amarthchen.com/nerdy-stuff/imaging-system-simulation" target="_blank">Imaging System Simulation</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2026-08-03 20:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://github.com/Amarthgul/ISS" target="_blank">ISS: A Framework for Imaging System Simulation</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-08-03 19:20</span>
             </div>
         </div>
 </div>
@@ -345,8 +350,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 107 | 📡 Total Sources: 39 | 📸 With Images: 244 |
-        🔄 Last Updated: 23:20 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 242 |
+        🔄 Last Updated: 00:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
