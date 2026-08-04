@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-08-04 20:27:53 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-04 22:02:13 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Tuesday, August 04, 2026 - 20:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, August 04, 2026 - 22:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,6 +104,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2170814475-500x500.jpg" alt="Senators demand crackdown on wildfire &quot;prediction markets&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/08/senators-demand-crackdown-on-wildfire-prediction-markets/" target="_blank">Senators demand crackdown on wildfire &quot;prediction markets&quot;</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-04 21:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/" target="_blank">SpaceX has bought $329M worth of Tesla Megapacks so far this year</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-04 21:07</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -137,24 +155,6 @@
                 <span class="title"><a href="https://arstechnica.com/cars/2026/08/china-is-teslas-cash-cow-but-for-how-much-longer/" target="_blank">China is Tesla&#x27;s cash cow, but for how much longer?</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-08-04 17:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/04/hackers-steal-over-130-million-by-exploiting-bug-in-offline-hardware-wallets/" target="_blank">Hackers steal over $130 million by exploiting bug in offline hardware wallets</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-04 16:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/HiLight-crop-500x500-1785858830.jpg" alt="The Pixel 11&#x27;s &quot;glow&quot; feature is actually called HiLight—here&#x27;s what it does" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/08/the-pixel-11s-glow-feature-is-actually-called-hilight-heres-what-it-does/" target="_blank">The Pixel 11&#x27;s &quot;glow&quot; feature is actually called HiLight—here&#x27;s what it does</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-04 16:11</span>
             </div>
         </div>
 </div>
@@ -225,6 +225,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/08/iran-cyberattacks-against-minnesota-water-systems.html" target="_blank">Iran Cyberattacks Against Minnesota Water Systems</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-08-04 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2026/08/some-claude-chats-are-searchable-on-google.html" target="_blank">Some Claude Chats Are Searchable on Google</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2026-08-04 10:13</span>
@@ -235,6 +244,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/FFXIV_FANFESTIVAL_2026_in_ANAHEIM_13-e1777638168141-1280x710.jpg" alt="PSA: Final Fantasy 14 Is Out Now On Nintendo Switch 2 But You Don’t Have To Buy It To Play" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/final-fantasy-14-free-trial-nintendo-switch-2-2000721658" target="_blank">PSA: Final Fantasy 14 Is Out Now On Nintendo Switch 2 But You Don’t Have To Buy It To Play</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-04 21:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/1280px-JohnDeRaleighDeed1362.jpg?fit=1280%2C879&amp;quality=60&amp;ssl=1" alt="The startup selling proof that a human wrote your manuscript" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/04/vellumproof-sealed-drafts.html" target="_blank">The startup selling proof that a human wrote your manuscript</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-04 21:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/EA-logo-generic-red-1280x720.jpg" alt="Electronic Arts Officially Belongs To Saudi Arabia, Private Equity, And Jared Kushner Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,24 +298,6 @@
                 <span class="time">2026-08-04 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/big-walk-41-1280x720.jpg" alt="Hey, What Do You Call This Item?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/big-walk-what-is-this-2000721567" target="_blank">Hey, What Do You Call This Item?</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-04 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KJG4KMFPST9JVNNY3ES2AMA7/hero-image.png" alt="The New Samsung Galaxy Buds 4 Pro Are Already 35% Off (With a Caveat)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-buds-4-deal-august-2026?utm_medium=RSS" target="_blank">The New Samsung Galaxy Buds 4 Pro Are Already 35% Off (With a Caveat)</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-04 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -317,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 113 | 📡 Total Sources: 40 | 📸 With Images: 240 |
-        🔄 Last Updated: 20:28 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 110 | 📡 Total Sources: 40 | 📸 With Images: 242 |
+        🔄 Last Updated: 22:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
