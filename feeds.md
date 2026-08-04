@@ -1,36 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-08-04 13:31:36 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-08-04 14:46:43 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Generated 11 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, August 04, 2026 - 13:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, August 04, 2026 - 14:47 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6100/live/a9a2a1c0-9005-11f1-9dfb-fd4408d16f2f.jpg" alt="Prison early release scheme comes &#x27;at expense of victims&#x27;, families complain" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss" target="_blank">Prison early release scheme comes &#x27;at expense of victims&#x27;, families complain</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-04 14:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/4/beirut-port-blast-anniversary-overshadowed-by-new-wave-of-destruction?traffic_source=rss" target="_blank">Beirut port blast anniversary overshadowed by new wave of destruction</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-04 14:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +105,38 @@
                 <span class="time">2026-08-04 11:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/8/4/the-gulf-can-no-longer-outsource-its-security?traffic_source=rss" target="_blank">Misread as passive, the Gulf is quietly ending fifty years of dependence</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-04 11:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5041/live/51773f50-8f93-11f1-a7ab-8b30adf0800a.jpg" alt="Prison capacity crisis limits ability to cut early releases, minister says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss" target="_blank">Prison capacity crisis limits ability to cut early releases, minister says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-04 10:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/2026-Chevrolet-Corvette-Grand-Sport-X-005-500x500.jpg" alt="2027 Chevrolet Corvette Grand Sport X proves code is as important as hardware" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/08/2027-chevrolet-corvette-grand-sport-x-proves-code-is-as-important-as-hardware/" target="_blank">2027 Chevrolet Corvette Grand Sport X proves code is as important as hardware</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-04 14:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/975020/apple-windows-pc-copy-paste-eu" target="_blank">Apple is working on iPhone-to-Windows copy-paste</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-04 14:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/" target="_blank">Apple says more ex-employees may have taken confidential data to OpenAI</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-04 14:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -132,38 +164,29 @@
                 <span class="time">2026-08-04 11:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages" target="_blank">OpenAI drags Apple’s lawsuit into the court of public opinion</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-04 11:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" alt="Loop Earplugs Discount Codes: 40% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/loop-earplugs-discount-code/" target="_blank">Loop Earplugs Discount Codes: 40% Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-04 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" alt="Lowe’s Promo Codes and Deals: Up to $300 Off Appliances" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/lowes-promo-code/" target="_blank">Lowe’s Promo Codes and Deals: Up to $300 Off Appliances</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-04 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17403226/self-hosted-rss-feed-readers" target="_blank">Escape the Algorithm: 10 RSS Feed Readers You Can Self Host in Your Homelab</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-08-04 14:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-openSIL-Phoenix-AM5-PR" target="_blank">AMD openSIL &amp; Coreboot Pull Requests For Phoenix AM5 Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-04 14:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,24 +223,6 @@
                 <span class="time">2026-08-04 10:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-Staging-Reject-LLMs" target="_blank">Linux&#x27;s Staging Area To Now Reject LLM-Generated Patches, Except For Real Security Fixes</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-04 10:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES" target="_blank">FFmpeg 9.0</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-04 09:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,6 +251,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/ballpit-1280x720.jpg" alt="A Bunch Of Terrific Games Are Coming To The Cheaper Version Of Game Pass In August 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/a-bunch-of-terrific-games-are-coming-to-the-cheaper-version-of-game-pass-in-august-2026-2000721521" target="_blank">A Bunch Of Terrific Games Are Coming To The Cheaper Version Of Game Pass In August 2026</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-04 14:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Autodesk-AutoCAD.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This $399 AutoCAD deal is suspiciously well drafted" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -291,15 +305,6 @@
                 <span class="time">2026-08-03 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KAXWWJFKER5JD91DVQ2WFGG4/hero-image.png" alt="My Favorite Sony Headphones Are $60 Off Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/sony-wh-1000xm6-headphones-sale?utm_medium=RSS" target="_blank">My Favorite Sony Headphones Are $60 Off Again</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-03 20:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -337,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 113 | 📡 Total Sources: 39 | 📸 With Images: 237 |
-        🔄 Last Updated: 13:31 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 114 | 📡 Total Sources: 40 | 📸 With Images: 238 |
+        🔄 Last Updated: 14:47 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
