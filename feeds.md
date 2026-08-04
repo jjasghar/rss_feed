@@ -1,35 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-08-04 01:30:58 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-08-04 02:58:44 UTC -->
 <!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, August 04, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, August 04, 2026 - 02:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +38,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/GMA/salinas-1-abc-gmh-260803_1785797924927_hpMain_4x3t_384.jpg" alt="Idaho In-N-Out shooting: Good Samaritan who confronted gunman speaks out" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/idaho-shooting-good-samaritan-confronted-gunman-speaks/story?id=135338660" target="_blank">Idaho In-N-Out shooting: Good Samaritan who confronted gunman speaks out</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-04 00:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5041/live/51773f50-8f93-11f1-a7ab-8b30adf0800a.jpg" alt="PC Harper&#x27;s mother &#x27;devastated&#x27; his killers set for early release under revised plans" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,15 +90,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss" target="_blank">Rapists and child sex offenders to be barred from early release scheme</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-08-03 21:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/3/aje-onl-nf_migrants-await-asylum-in-ceuta-amid-hunger-thirst-030826?traffic_source=rss" target="_blank">Migrants await asylum in Ceuta amid hunger and thirst</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-03 21:17</span>
             </div>
         </div>
 </div>
@@ -167,9 +160,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hannune/incremental-graph-updates-for-corporate-knowledge-graphs-three-problems-batch-pipelines-cant-solve-2phm" target="_blank">Incremental Graph Updates for Corporate Knowledge Graphs: Three Problems Batch Pipelines Can&#x27;t Solve</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-04 02:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/hirodeath/handling-notification-taps-in-expo-notifications-launch-vs-runtime-1egf" target="_blank">Handling Notification Taps in expo-notifications: Launch vs. Runtime</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-04 01:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/FFmpeg-9.0-Released" target="_blank">FFmpeg 9.0 Released With More Vulkan Acceleration, Animated WebP &amp; More AMD AMF</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-04 00:49</span>
             </div>
         </div>
 <div class="story">
@@ -197,24 +208,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/ubuntu-hwctl-deb-to-snap-transition" target="_blank">Ubuntu’s turning another system Deb package into a snap</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-08-03 21:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.seangoedecke.com/llms-reward-expertise/" target="_blank">LLMs reward expertise</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-03 21:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/soverflowed/6-ways-to-get-dramatically-better-results-from-claude-4331" target="_blank">6 Ways to Get Dramatically Better Results From Claude</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-03 20:18</span>
             </div>
         </div>
 </div>
@@ -354,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 241 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 241 |
+        🔄 Last Updated: 02:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
