@@ -1,41 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-08-04 17:30:32 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-08-04 18:28:57 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 32 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, August 04, 2026 - 17:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Tuesday, August 04, 2026 - 18:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/4/israel-election-pressure-fuels-settlement-push-as-west-bank-violence-surges?traffic_source=rss" target="_blank">Israel election pressure fuels settlement push as West Bank violence surges</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-04 18:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8528/live/11898c20-9026-11f1-b2ab-0dd01740f9f6.jpg" alt="Video shows Russian drone chasing Ukrainian street vendor in &#x27;human safari&#x27; attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -96,15 +101,6 @@
                 <span class="time">2026-08-04 15:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e55/live/0e092f10-9012-11f1-aabc-c3c7aa714117.jpg" alt="Oil prices fall on hopes Strait of Hormuz could reopen" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss" target="_blank">Oil prices fall on hopes Strait of Hormuz could reopen</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-04 15:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -147,21 +143,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/6a7105271c84f397782d5629/master/pass/Security_USArmyIsAddingHighEnergyLaser_v1.gif" alt="Landmark Deal Would Officially Add Laser Weapons to US Army Arsenal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/landmark-deal-would-officially-add-laser-weapons-to-us-army-arsenal/" target="_blank">Landmark Deal Would Officially Add Laser Weapons to US Army Arsenal</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-04 15:29</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/2026-Chevrolet-Corvette-Grand-Sport-X-005-500x500.jpg" alt="2027 Chevrolet Corvette Grand Sport X proves code is as important as hardware" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
                 <span class="title"><a href="https://arstechnica.com/cars/2026/08/2027-chevrolet-corvette-grand-sport-x-proves-code-is-as-important-as-hardware/" target="_blank">2027 Chevrolet Corvette Grand Sport X proves code is as important as hardware</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-08-04 14:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/975020/apple-windows-pc-copy-paste-eu" target="_blank">Apple is working on iPhone-to-Windows copy-paste</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-04 14:42</span>
             </div>
         </div>
 </div>
@@ -176,6 +172,15 @@
                 <span class="title"><a href="https://dev.to/christofkarisch/taming-a-third-party-react-app-inside-wordpress-without-touching-its-code-16g1" target="_blank">Taming a Third-Party React App Inside WordPress — Without Touching Its Code</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-04 17:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack/" target="_blank">Turn one giant AI-generated pull request to a reviewable stack</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-08-04 16:47</span>
             </div>
         </div>
 <div class="story">
@@ -214,15 +219,6 @@
                 <span class="time">2026-08-04 15:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/08/papirus-icon-update-2026.webp?resize=406%2C232&amp;ssl=1" alt="Paprius icon set gets first update in a over year with 80+ new icons" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/paprius-icon-pack-sees-first-update-in-a-year-with-80-new-icons" target="_blank">Paprius icon set gets first update in a over year with 80+ new icons</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-08-04 14:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KZ6N22YEHG8K7GCB0JRTQ5V2/hero-image.jpg" alt="Five Hacks Every Amazfit Cheetah 2 Ultra User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/hacks-every-amazfit-cheetah-2-ultra-user-should-know?utm_medium=RSS" target="_blank">Five Hacks Every Amazfit Cheetah 2 Ultra User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-04 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/big-walk-41-1280x720.jpg" alt="Hey, What Do You Call This Item?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +292,6 @@
                 <span class="time">2026-08-04 14:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KZ6FE9GXDHWA4REXY7DPJXNE/hero-image.jpg" alt="WhatsApp Just Added Five New Group Chat Features, Including &#x27;@All&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/whatsapps-five-new-group-chat-features?utm_medium=RSS" target="_blank">WhatsApp Just Added Five New Group Chat Features, Including &#x27;@All&#x27;</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-04 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -333,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 236 |
-        🔄 Last Updated: 17:30 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 118 | 📡 Total Sources: 40 | 📸 With Images: 238 |
+        🔄 Last Updated: 18:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
