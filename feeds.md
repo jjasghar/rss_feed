@@ -1,32 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-08-04 19:29:06 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-04 20:27:53 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, August 04, 2026 - 19:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Tuesday, August 04, 2026 - 20:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/4/evacuations-ordered-as-guatemala-volcano-erupts?traffic_source=rss" target="_blank">Evacuations ordered as Guatemala volcano erupts</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-04 19:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +98,29 @@
                 <span class="time">2026-08-04 17:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/04/nx-s1-5919214/europe-heatwave-danube-rhine-wildfires" target="_blank">Europe heat wave fuels drought, fires and energy fears</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-04 16:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/04/android-app-developers-may-be-unwittingly-sharing-their-users-location-data-with-advertisers/" target="_blank">Android app developers may be unwittingly sharing their users’ location data with advertisers</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-04 20:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/974736/ea-private-company-deal-closed" target="_blank">EA is now a private company</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-04 20:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -135,24 +155,6 @@
                 <span class="title"><a href="https://arstechnica.com/gadgets/2026/08/the-pixel-11s-glow-feature-is-actually-called-hilight-heres-what-it-does/" target="_blank">The Pixel 11&#x27;s &quot;glow&quot; feature is actually called HiLight—here&#x27;s what it does</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-08-04 16:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/975115/t-mobile-financing-eip-flex-36-plan" target="_blank">T-Mobile’s $0-down financing plan bundles taxes and fees</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-04 16:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/" target="_blank">Texas halts new data centers as governor calls for audits</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-04 15:42</span>
             </div>
         </div>
 </div>
@@ -234,12 +236,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/EA-logo-generic-red-1280x720.jpg" alt="Electronic Arts Officially Belongs To Saudi Arabia, Private Equity, And Jared Kushner Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/electronic-arts-officially-belongs-saudi-arabia-jared-kushner-now-2000721666" target="_blank">Electronic Arts Officially Belongs To Saudi Arabia, Private Equity, And Jared Kushner Now</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-04 20:19</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/minecraftslavb-1280x720.jpg" alt="Minecraft Adds Concrete Stairs After Making Fans Wait Nearly A Decade And People Are Excited" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/minecraft-adds-concrete-stairs-after-making-fans-wait-nearly-a-decade-and-people-are-excited-2000721630" target="_blank">Minecraft Adds Concrete Stairs After Making Fans Wait Nearly A Decade And People Are Excited</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-08-04 19:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/rocky-horror.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="Rocky Horror Show musical director sent threats to self to end production and avoid cast drama" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/04/rocky-horror-show-musical-director-sent-threats-to-self-to-end-production-and-avoid-cast-drama.html" target="_blank">Rocky Horror Show musical director sent threats to self to end production and avoid cast drama</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-04 18:24</span>
             </div>
         </div>
 <div class="story">
@@ -267,24 +287,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-buds-4-deal-august-2026?utm_medium=RSS" target="_blank">The New Samsung Galaxy Buds 4 Pro Are Already 35% Off (With a Caveat)</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-08-04 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2023/04/e8044addc0b35c9252f9353cd7606efb.jpg" alt="Spider-Man: Brand New Day And All 37 Other Marvel Cinematic Universe Movies, Ranked From Worst To Best" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/marvel-cinematic-universe-mcu-best-worst-movies-spider-man-2000721507" target="_blank">Spider-Man: Brand New Day And All 37 Other Marvel Cinematic Universe Movies, Ranked From Worst To Best</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-04 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/The-Award-Winning-Luminar-Neo-Lifetime-Bundle.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This AI photo editor turns your blurry vacation pics into gallery material" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/04/this-ai-photo-editor-turns-your-blurry-vacation-pics-into-gallery-material.html" target="_blank">This AI photo editor turns your blurry vacation pics into gallery material</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-04 15:00</span>
             </div>
         </div>
 </div>
@@ -315,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 239 |
-        🔄 Last Updated: 19:29 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 113 | 📡 Total Sources: 40 | 📸 With Images: 240 |
+        🔄 Last Updated: 20:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
