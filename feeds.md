@@ -1,29 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-08-04 09:51:29 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-04 10:50:53 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 20 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, August 04, 2026 - 09:51 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, August 04, 2026 - 10:51 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72e6/live/08945d60-8ff0-11f1-a10e-47119dd4425c.jpg" alt="More than 150 migrants rescued after boat catches fire in Channel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss" target="_blank">More than 150 migrants rescued after boat catches fire in Channel</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-04 10:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,15 +95,6 @@
                 <span class="title"><a href="https://news.sky.com/story/art-of-the-deal-or-insider-trading-trump-takes-truth-social-to-wall-street-13569579" target="_blank">Trump sells his social posts to the highest bidder - with huge stock market consequences</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-08-04 01:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/GMA/salinas-1-abc-gmh-260803_1785797924927_hpMain_4x3t_384.jpg" alt="Idaho In-N-Out shooting: Good Samaritan who confronted gunman speaks out" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/idaho-shooting-good-samaritan-confronted-gunman-speaks/story?id=135338660" target="_blank">Idaho In-N-Out shooting: Good Samaritan who confronted gunman speaks out</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-04 00:54</span>
             </div>
         </div>
 </div>
@@ -160,6 +164,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-Staging-Reject-LLMs" target="_blank">Linux&#x27;s Staging Area To Now Reject LLM-Generated Patches, Except For Real Security Fixes</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-04 10:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/alvin_james/from-zero-to-building-real-software-what-every-aspiring-developer-learns-beyond-coding-46lm" target="_blank">From Zero to Building Real Software: What Every Aspiring Developer Learns Beyond Coding</a></span>
                 <span class="feed">DEV Community</span>
@@ -202,15 +215,6 @@
                 <span class="time">2026-08-04 03:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hannune/incremental-graph-updates-for-corporate-knowledge-graphs-three-problems-batch-pipelines-cant-solve-2phm" target="_blank">Incremental Graph Updates for Corporate Knowledge Graphs: Three Problems Batch Pipelines Can&#x27;t Solve</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-04 02:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -220,18 +224,18 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html" target="_blank">More on the OpenAI Agent’s Attack on Hugging Face</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/08/some-claude-chats-are-searchable-on-google.html" target="_blank">Some Claude Chats Are Searchable on Google</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2026-08-03 17:02</span>
+                <span class="time">2026-08-04 10:13</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/08/the-openai-hack-shows-the-genie-is-out-of-the-bottle.html" target="_blank">The OpenAI Hack Shows the Genie Is Out of the Bottle</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html" target="_blank">More on the OpenAI Agent’s Attack on Hugging Face</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2026-08-03 10:47</span>
+                <span class="time">2026-08-03 17:02</span>
             </div>
         </div>
 </div>
@@ -239,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/kooandemma-1280x720.jpg" alt="Does The Dog Die In Beast Of Reincarnation?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/beast-of-reincarnation-koo-does-the-dog-die-wolf-spoiler-2000721239" target="_blank">Does The Dog Die In Beast Of Reincarnation?</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-04 00:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/mariolopezgross-1280x720.jpg" alt="What Is Wrong With You Mario Lopez?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +297,6 @@
                 <span class="time">2026-08-03 20:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2022/01/bc0bc9c990918a8c0678c7b56e907662-1280x720.jpg" alt="Former Dev Says Midnight Club 5 Was Canceled Because The Series Was Rockstar’s ‘Red-Headed Stepchild’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/former-dev-says-midnight-club-5-was-canceled-because-the-series-was-rockstars-red-headed-stepchild-2000721232" target="_blank">Former Dev Says Midnight Club 5 Was Canceled Because The Series Was Rockstar’s ‘Red-Headed Stepchild’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-03 19:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -330,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 243 |
-        🔄 Last Updated: 09:51 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 242 |
+        🔄 Last Updated: 10:51 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
