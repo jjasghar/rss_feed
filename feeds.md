@@ -1,31 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-08-04 00:21:06 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-08-04 01:30:58 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Linux.com -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 23 feeds processed -->
+<!-- Generated 2 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, August 04, 2026 - 00:21 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, August 04, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5041/live/51773f50-8f93-11f1-a7ab-8b30adf0800a.jpg" alt="PC Harper&#x27;s mother &#x27;devastated&#x27; his killers set for early release under revised plans" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss" target="_blank">PC Harper&#x27;s mother &#x27;devastated&#x27; his killers set for early release under revised plans</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-04 00:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/pirro-1-gty-gmh-260803_1785790335622_hpMain_4x3t_384.jpg" alt="Pirro meets with Trump at White House amid questions about her future" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,15 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/3/aje-onl-nf_migrants-await-asylum-in-ceuta-amid-hunger-thirst-030826?traffic_source=rss" target="_blank">Migrants await asylum in Ceuta amid hunger and thirst</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-03 21:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/3/el-sayed-stevens-face-off-in-michigan-democratic-senate-primary?traffic_source=rss" target="_blank">El-Sayed, Stevens face off in Michigan Democratic Senate primary</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-03 20:58</span>
             </div>
         </div>
 </div>
@@ -163,6 +167,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hirodeath/handling-notification-taps-in-expo-notifications-launch-vs-runtime-1egf" target="_blank">Handling Notification Taps in expo-notifications: Launch vs. Runtime</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-04 01:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/_1a008d053e73e4a54d13a/openais-astra-solved-10-open-math-problems-and-the-price-tag-is-the-real-story-hn6" target="_blank">OpenAI&#x27;s Astra Solved 10 Open Math Problems — and the Price Tag Is the Real Story</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-04 00:20</span>
@@ -202,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/soverflowed/6-ways-to-get-dramatically-better-results-from-claude-4331" target="_blank">6 Ways to Get Dramatically Better Results From Claude</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-03 20:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://www.amarthchen.com/nerdy-stuff/imaging-system-simulation" target="_blank">Imaging System Simulation</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-08-03 20:03</span>
             </div>
         </div>
 </div>
@@ -350,8 +354,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 242 |
-        🔄 Last Updated: 00:21 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 241 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
