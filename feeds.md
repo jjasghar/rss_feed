@@ -1,37 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-08-04 16:33:59 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-04 17:30:32 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Tuesday, August 04, 2026 - 16:34 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, August 04, 2026 - 17:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +51,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8528/live/11898c20-9026-11f1-b2ab-0dd01740f9f6.jpg" alt="Video shows Russian drone chasing Ukrainian street vendor in &#x27;human safari&#x27; attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss" target="_blank">Video shows Russian drone chasing Ukrainian street vendor in &#x27;human safari&#x27; attack</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-04 17:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/4/gaza-holds-mass-funeral-for-112-people-killed-in-israels-2023-sabra-attack?traffic_source=rss" target="_blank">Gaza holds mass funeral for 112 people killed in Israel’s 2023 Sabra attack</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-04 17:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/04/nx-s1-5919214/europe-heatwave-danube-rhine-wildfires" target="_blank">Europe heat wave fuels drought, fires and energy fears</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-04 16:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,33 +105,6 @@
                 <span class="time">2026-08-04 15:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1785856663886_now_current_wong_gutierrez_blanche_advance_260804_S3_1920x1080-kmlrmt.jpg" alt="Senate Judiciary Committee advances Todd Blanche&#x27;s attorney general nomination" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/senate-judiciary-committee-advances-todd-blanche-s-attorney-general-nomination-267742277912" target="_blank">Senate Judiciary Committee advances Todd Blanche&#x27;s attorney general nomination</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-04 15:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-hassayna-abu-sharia_7313451.jpg?20260804094025" alt="Funeral held for 112 victims buried under rubble of Gaza flats for nearly three years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/mass-funeral-held-for-112-victims-buried-under-rubble-of-gaza-flats-for-nearly-three-years-13569765" target="_blank">Funeral held for 112 victims buried under rubble of Gaza flats for nearly three years</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-08-04 14:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6100/live/a9a2a1c0-9005-11f1-9dfb-fd4408d16f2f.jpg" alt="Prison early release scheme comes &#x27;at expense of victims&#x27;, families complain" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss" target="_blank">Prison early release scheme comes &#x27;at expense of victims&#x27;, families complain</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-04 14:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -113,6 +117,15 @@
                 <span class="title"><a href="https://techcrunch.com/2026/08/04/hackers-steal-over-130-million-by-exploiting-bug-in-offline-hardware-wallets/" target="_blank">Hackers steal over $130 million by exploiting bug in offline hardware wallets</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-08-04 16:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/HiLight-crop-500x500-1785858830.jpg" alt="The Pixel 11&#x27;s &quot;glow&quot; feature is actually called HiLight—here&#x27;s what it does" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/08/the-pixel-11s-glow-feature-is-actually-called-hilight-heres-what-it-does/" target="_blank">The Pixel 11&#x27;s &quot;glow&quot; feature is actually called HiLight—here&#x27;s what it does</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-04 16:11</span>
             </div>
         </div>
 <div class="story">
@@ -151,20 +164,20 @@
                 <span class="time">2026-08-04 14:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/" target="_blank">Apple says more ex-employees may have taken confidential data to OpenAI</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-04 14:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/christofkarisch/taming-a-third-party-react-app-inside-wordpress-without-touching-its-code-16g1" target="_blank">Taming a Third-Party React App Inside WordPress — Without Touching Its Code</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-04 17:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -184,39 +197,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/presentations/ai-sdlc-maturity-framework-bottlenecks/en/mediumimage/LizzieMatusov-medium-1785314207748.jpeg" alt="Presentation: The Five Stages of AI Maturity in Engineering Organizations - Where and Why Teams Get Stuck" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/ai-sdlc-maturity-framework-bottlenecks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: The Five Stages of AI Maturity in Engineering Organizations - Where and Why Teams Get Stuck</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-04 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://toneyalexander.github.io/inclusive-color-space/" target="_blank">Show HN: Simple algorithm and color space to generate diverse skin tones</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-04 15:16</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/08/papirus-icon-update-2026.webp?resize=406%2C232&amp;ssl=1" alt="Paprius icon set gets first update in a over year with 80+ new icons" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/paprius-icon-pack-sees-first-update-in-a-year-with-80-new-icons" target="_blank">Paprius icon set gets first update in a over year with 80+ new icons</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-08-04 14:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17403226/self-hosted-rss-feed-readers" target="_blank">Escape the Algorithm: 10 RSS Feed Readers You Can Self Host in Your Homelab</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-08-04 14:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-openSIL-Phoenix-AM5-PR" target="_blank">AMD openSIL &amp; Coreboot Pull Requests For Phoenix AM5 Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-04 14:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/fromzerotoship/i-quoted-133-resolved-0-absent-340-unreachable-my-log-had-one-entry-and-it-wasnt-that-run-4567" target="_blank">I quoted 133 resolved, 0 absent, 340 unreachable. My log had one entry — and it wasn&#x27;t that run.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-04 12:30</span>
             </div>
         </div>
 </div>
@@ -233,20 +237,29 @@
                 <span class="time">2026-08-04 10:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html" target="_blank">More on the OpenAI Agent’s Attack on Hugging Face</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-08-03 17:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/big-walk-41-1280x720.jpg" alt="Hey, What Do You Call This Item?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/big-walk-what-is-this-2000721567" target="_blank">Hey, What Do You Call This Item?</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-04 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KJG4KMFPST9JVNNY3ES2AMA7/hero-image.png" alt="The New Samsung Galaxy Buds 4 Pro Are Already 35% Off (With a Caveat)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-buds-4-deal-august-2026?utm_medium=RSS" target="_blank">The New Samsung Galaxy Buds 4 Pro Are Already 35% Off (With a Caveat)</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-04 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2023/04/e8044addc0b35c9252f9353cd7606efb.jpg" alt="Spider-Man: Brand New Day And All 37 Other Marvel Cinematic Universe Movies, Ranked From Worst To Best" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,24 +294,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/whatsapps-five-new-group-chat-features?utm_medium=RSS" target="_blank">WhatsApp Just Added Five New Group Chat Features, Including &#x27;@All&#x27;</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-08-04 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/07/Autodesk-AutoCAD.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This $399 AutoCAD deal is suspiciously well drafted" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/04/this-399-autocad-deal-is-suspiciously-well-drafted.html" target="_blank">This $399 AutoCAD deal is suspiciously well drafted</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-04 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/kooandemma-1280x720.jpg" alt="Does The Dog Die In Beast Of Reincarnation?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/beast-of-reincarnation-koo-does-the-dog-die-wolf-spoiler-2000721239" target="_blank">Does The Dog Die In Beast Of Reincarnation?</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-04 00:40</span>
             </div>
         </div>
 </div>
@@ -338,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 237 |
-        🔄 Last Updated: 16:34 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 236 |
+        🔄 Last Updated: 17:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
