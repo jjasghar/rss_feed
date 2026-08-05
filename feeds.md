@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-08-05 15:05:49 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-08-05 17:16:48 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 13 new posts out of 27 feeds processed -->
+<!-- Generated 13 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, August 05, 2026 - 15:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Wednesday, August 05, 2026 - 17:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +49,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9aa/live/648faac0-90ea-11f1-b2ab-0dd01740f9f6.jpg" alt="Ex neo-Nazi activist withdraws as Tory election candidate" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cy4kx8n2vwxo?at_medium=RSS&at_campaign=rss" target="_blank">Ex neo-Nazi activist withdraws as Tory election candidate</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-05 17:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/5/5-8-sv-russia-attacks-kyiv-ua?traffic_source=rss" target="_blank">Russia kills 17 in ballistic missile attacks around Kyiv</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-05 16:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/El-Sayed-7-ap-gmh-260805_1785942592371_hpMain_4x3t_384.jpg" alt="El-Sayed projected to win high-stakes Michigan Senate Democratic primary" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/high-stakes-michigan-senate-race-primaries-5-states/story?id=135365946" target="_blank">El-Sayed projected to win high-stakes Michigan Senate Democratic primary</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-05 16:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1785942686936_now_brk_aes_michigan_win_260805_S3_1920x1080-oxkgoa.jpg" alt="&#x27;We took on a machine&#x27;: Abdul El-Sayed thanks supporters after primary victory" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/abdul-el-sayed-thanks-supporters-after-primary-victory-in-michigan-267819589706" target="_blank">&#x27;We took on a machine&#x27;: Abdul El-Sayed thanks supporters after primary victory</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-05 15:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffa0/live/6343d230-90dc-11f1-b8ee-9b3c26ad07bb.jpg" alt="Left-wing political outsider wins Democratic Senate primary in Michigan" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -64,47 +103,29 @@
                 <span class="time">2026-08-05 14:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/05/nx-s1-5920403/michigan-senate-el-sayed-stevens-democrats" target="_blank">Progressive Abdul El-Sayed wins Michigan&#x27;s Democratic primary for Senate</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-05 13:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/el-sayad-stevens-gty-gmh-260805_1785933331320_hpMain_4x3t_384.jpg" alt="High-stakes Michigan Senate race too close to call, as 5 states hold primaries" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/high-stakes-michigan-senate-race-primaries-5-states/story?id=135365946" target="_blank">High-stakes Michigan Senate race too close to call, as 5 states hold primaries</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-05 12:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cab/live/189914e0-90b2-11f1-b2ab-0dd01740f9f6.jpg" alt="Russia strike kills 21 as Ukraine says it needs more missile interceptors" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss" target="_blank">Russia strike kills 21 as Ukraine says it needs more missile interceptors</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-05 12:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/05/g-s1-137429/up-first-newsletter-us-missiles-iran-war-michigan-primaries-moderna-flu-shot-black-lung" target="_blank">U.S. missile stockpiles dwindle. And, FDA weighs approval of flu shots with mRNA tech</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-05 11:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/05/meet-the-eight-startups-pitching-at-startup-battlefield-australia/" target="_blank">Meet the eight startups pitching at Startup Battlefield Australia</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-05 17:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/975603/refurbished-apple-macbook-neo-google-wireless-charger-deal-sale" target="_blank">Apple’s selling refurbished MacBook Neos with a $100 discount</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-05 16:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,24 +162,6 @@
                 <span class="time">2026-08-05 12:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69f14714d98ff026bfabf2fd/master/pass/The-13-Best-Coolers-We%E2%80%99ve-Tested-for-Every-Kind-of-Adventure.jpg" alt="13 Best Coolers for Sunshine and Nighttime (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-best-cooler/" target="_blank">13 Best Coolers for Sunshine and Nighttime (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-05 12:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/IMG_1971-500x500.jpeg" alt="Pushing the limits: Infinite Machine&#x27;s Olto is barely a bicycle" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/08/pushing-the-limits-infinite-machines-olto-is-barely-a-bicycle/" target="_blank">Pushing the limits: Infinite Machine&#x27;s Olto is barely a bicycle</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-05 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,10 +170,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.discoveryloop.com/" target="_blank">Discovery Loop</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-05 16:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/saras_growth_space/lld-data-structures-in-design-context-why-some-problems-need-prefix-matching-instead-of-exact-16il" target="_blank">LLD Data Structures in Design Context: Why Some Problems Need Prefix Matching Instead of Exact Lookup</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-05 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/08/jiohotstar-ad-decisioning-flow/en/headerimage/generatedHeaderImage-1785711356085.jpg" alt="JioHotstar Explains the Distributed Engineering Behind Personalized Ad Requests at Streaming Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/08/jiohotstar-ad-decisioning-flow/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">JioHotstar Explains the Distributed Engineering Behind Personalized Ad Requests at Streaming Scale</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-05 14:09</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +219,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/08/ponytail-agent-skill-benchmark/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Ponytail Agent Skill Corrects Its Own Benchmark After Contributor Challenge</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-08-05 08:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/08/05/the-myth-of-the-100x-engineer/" target="_blank">Explorers, exploiters, and the myth of the 100x engineer​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌​‌‍‌​​﻿​﻿​﻿‌‍‌‍​‍​﻿‌﻿‌‍‌‍‌‍‌‌​‍﻿‌​﻿‍​‌‍‌‍​﻿‌﻿​﻿‌​​‍﻿‌​﻿‌​​﻿‌​‌‍​‍​﻿​﻿​‍﻿‌​﻿‍‌​﻿​‌‌‍‌​‌‍​‍​‍﻿‌‌‍​‌‌‍​‍‌‍​﻿​﻿‌‌‌‍‌​​﻿‌​‌‍‌‌‌‍​﻿​﻿‌‌‌‍‌​​﻿‍‌​﻿‍‌​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌​‌‍‌​​﻿​﻿​﻿‌‍‌‍​‍​﻿‌﻿‌‍‌‍‌‍‌‌​‍﻿‌​﻿‍​‌‍‌‍​﻿‌﻿​﻿‌​​‍﻿‌​﻿‌​​﻿‌​‌‍​‍​﻿​﻿​‍﻿‌​﻿‍‌​﻿​‌‌‍‌​‌‍​‍​‍﻿‌‌‍​‌‌‍​‍‌‍​﻿​﻿‌‌‌‍‌​​﻿‌​‌‍‌‌‌‍​﻿​﻿‌‌‌‍‌​​﻿‍‌​﻿‍‌​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-08-05 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/superfunicular/turn-an-old-android-phone-into-a-screen-off-security-camera-no-cloud-lan-only-5cll" target="_blank">Turn an old Android phone into a screen-off security camera (no cloud, LAN-only)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-05 04:39</span>
             </div>
         </div>
 </div>
@@ -246,6 +249,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/stevehaines-1280x720.jpg" alt="GTA 5 Actor Says He Auditioned For Over 60 Roles In GTA 6 But Rockstar Ignored Him" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/gta-5-actor-says-he-auditioned-for-over-60-roles-in-gta-6-but-rockstar-ignored-him-2000721936" target="_blank">GTA 5 Actor Says He Auditioned For Over 60 Roles In GTA 6 But Rockstar Ignored Him</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-05 16:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/beast-emma-1280x720.jpg" alt="Beast Of Reincarnation Will Get ‘A Series Of Continuous Updates’ Including Increased Text Size" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -291,20 +303,20 @@
                 <span class="time">2026-08-04 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/1280px-JohnDeRaleighDeed1362.jpg?fit=1280%2C879&amp;quality=60&amp;ssl=1" alt="The startup selling proof that a human wrote your manuscript" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/04/vellumproof-sealed-drafts.html" target="_blank">The startup selling proof that a human wrote your manuscript</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-04 21:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1785787498-20260805.png" alt="Saturday Morning Breakfast Cereal - Drunken" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/drunken" target="_blank">Saturday Morning Breakfast Cereal - Drunken</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-08-05 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -323,22 +335,13 @@
                 <span class="time">2026-08-05 03:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1785787461-20260804.png" alt="Saturday Morning Breakfast Cereal - Wants" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/wants-2" target="_blank">Saturday Morning Breakfast Cereal - Wants</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-08-04 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 89 | 📡 Total Sources: 40 | 📸 With Images: 243 |
-        🔄 Last Updated: 15:06 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 81 | 📡 Total Sources: 40 | 📸 With Images: 242 |
+        🔄 Last Updated: 17:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
