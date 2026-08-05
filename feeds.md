@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-08-05 17:16:48 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-05 19:10:59 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Generated 13 new posts out of 31 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Wednesday, August 05, 2026 - 17:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, August 05, 2026 - 19:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/5/malaysia-will-not-return-rohingya-refugees-to-myanmar-if-lives-are-at-risk?traffic_source=rss" target="_blank">Malaysia vows not to return Rohingya refugees to Myanmar if lives at risk</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-05 18:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/05/nx-s1-5919997/how-trump-made-an-estimated-2-2-billion-during-the-first-year-of-his-second-term" target="_blank">How Trump made an estimated $2.2 billion during the first year of his second term</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-05 17:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9aa/live/648faac0-90ea-11f1-b2ab-0dd01740f9f6.jpg" alt="Ex neo-Nazi activist withdraws as Tory election candidate" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,24 +99,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/now/video/abdul-el-sayed-thanks-supporters-after-primary-victory-in-michigan-267819589706" target="_blank">&#x27;We took on a machine&#x27;: Abdul El-Sayed thanks supporters after primary victory</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-08-05 15:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffa0/live/6343d230-90dc-11f1-b8ee-9b3c26ad07bb.jpg" alt="Left-wing political outsider wins Democratic Senate primary in Michigan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ckgdkpz07kvo?at_medium=RSS&at_campaign=rss" target="_blank">Left-wing political outsider wins Democratic Senate primary in Michigan</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-05 15:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f01/live/2c42f4f0-90d7-11f1-a7ab-8b30adf0800a.jpg" alt="Family &#x27;devastated&#x27; by death of girl, 9, as man charged with murder" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c235evj1r04o?at_medium=RSS&at_campaign=rss" target="_blank">Family &#x27;devastated&#x27; by death of girl, 9, as man charged with murder</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-05 14:50</span>
             </div>
         </div>
 </div>
@@ -168,12 +166,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2022/05/rhythmbox-icon.jpg?resize=406%2C232&amp;ssl=1" alt="Rhythmbox 3.5 lets you sync your podcast listening across apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/rhythmbox-3-5-podcast-sync" target="_blank">Rhythmbox 3.5 lets you sync your podcast listening across apps</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-08-05 16:22</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://www.discoveryloop.com/" target="_blank">Discovery Loop</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-08-05 16:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Denial-WM-Compositor" target="_blank">Denial WM: New Wayland Compositor With Flutter Directly Embedded</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-05 16:10</span>
             </div>
         </div>
 <div class="story">
@@ -203,24 +219,6 @@
                 <span class="time">2026-08-05 13:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-Retiring-Moxa-Driver" target="_blank">Additional Old Linux Drivers Face Removal Due To Noise From AI/LLM Coding Agents</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-05 10:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/08/ponytail-agent-skill-benchmark/en/headerimage/generatedHeaderImage-1785737626006.jpg" alt="Ponytail Agent Skill Corrects Its Own Benchmark After Contributor Challenge" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/08/ponytail-agent-skill-benchmark/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Ponytail Agent Skill Corrects Its Own Benchmark After Contributor Challenge</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-05 08:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,20 +233,20 @@
                 <span class="time">2026-08-05 09:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/08/iran-cyberattacks-against-minnesota-water-systems.html" target="_blank">Iran Cyberattacks Against Minnesota Water Systems</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-08-04 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/gogsale-kotaku-1280x720.jpg" alt="GOG’s Big Shooter Sale Includes A Ton Of Great Games That Cost $10 Or Less" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/gogs-big-shooter-sale-includes-a-ton-of-great-games-that-cost-10-or-less-2000721970" target="_blank">GOG’s Big Shooter Sale Includes A Ton Of Great Games That Cost $10 Or Less</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-05 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/stevehaines-1280x720.jpg" alt="GTA 5 Actor Says He Auditioned For Over 60 Roles In GTA 6 But Rockstar Ignored Him" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -294,15 +292,6 @@
                 <span class="time">2026-08-05 12:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/FFXIV_FANFESTIVAL_2026_in_ANAHEIM_13-e1777638168141-1280x710.jpg" alt="PSA: Final Fantasy 14 Is Out Now On Nintendo Switch 2 But You Don’t Have To Buy It To Play" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/final-fantasy-14-free-trial-nintendo-switch-2-2000721658" target="_blank">PSA: Final Fantasy 14 Is Out Now On Nintendo Switch 2 But You Don’t Have To Buy It To Play</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-04 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -340,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 81 | 📡 Total Sources: 40 | 📸 With Images: 242 |
-        🔄 Last Updated: 17:16 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 76 | 📡 Total Sources: 40 | 📸 With Images: 242 |
+        🔄 Last Updated: 19:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
