@@ -1,39 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-08-05 10:22:31 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-05 12:45:44 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, August 05, 2026 - 10:22 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, August 05, 2026 - 12:45 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/el-sayad-stevens-gty-gmh-260805_1785933331320_hpMain_4x3t_384.jpg" alt="High-stakes Michigan Senate race too close to call, as 5 states hold primaries" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/high-stakes-michigan-senate-race-primaries-5-states/story?id=135365946" target="_blank">High-stakes Michigan Senate race too close to call, as 5 states hold primaries</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-05 12:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cab/live/189914e0-90b2-11f1-b2ab-0dd01740f9f6.jpg" alt="Russia strike kills 21 as Ukraine says it needs more missile interceptors" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss" target="_blank">Russia strike kills 21 as Ukraine says it needs more missile interceptors</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-05 12:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/05/g-s1-137429/up-first-newsletter-us-missiles-iran-war-michigan-primaries-moderna-flu-shot-black-lung" target="_blank">U.S. missile stockpiles dwindle. And, FDA weighs approval of flu shots with mRNA tech</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-05 11:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,38 +98,29 @@
                 <span class="time">2026-08-05 09:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/environment/2026/aug/05/el-nino-could-push-50m-people-acute-hunger-next-year" target="_blank">El Niño could push 50m people into acute hunger before end of next year</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-08-05 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1785911373363_now_brk_abdul_sayed_michigan_primary_260804_S3_1920x1080-udh7cg.jpg" alt="Abdul El-Sayed wins Michigan’s Democratic Senate primary, NBC News projects" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/abdul-el-sayed-wins-michigan-s-democratic-senate-primary-nbc-news-projects-267795525687" target="_blank">Abdul El-Sayed wins Michigan’s Democratic Senate primary, NBC News projects</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-05 06:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/el-sayed-stevens-rt-gmh-260804_1785850000887_hpMain_4x3t_384.jpg" alt="High-stakes Michigan Senate race among primaries in 5 states" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/high-stakes-michigan-senate-race-primaries-5-states/story?id=135365946" target="_blank">High-stakes Michigan Senate race among primaries in 5 states</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-05 04:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/" target="_blank">MacPaw taps Liquid AI to offer on-device inference to devs building for its app store</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-05 12:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/IMG_1971-500x500.jpeg" alt="Pushing the limits: Infinite Machine&#x27;s Olto is barely a bicycle" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/08/pushing-the-limits-infinite-machines-olto-is-barely-a-bicycle/" target="_blank">Pushing the limits: Infinite Machine&#x27;s Olto is barely a bicycle</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-05 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,29 +157,20 @@
                 <span class="time">2026-08-04 23:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/04/elon-musk-repeatedly-one-upped-his-execs-on-spacexs-first-earnings-call/" target="_blank">Elon Musk repeatedly one-upped his execs on SpaceX’s first earnings call</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-04 22:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2170814475-500x500.jpg" alt="Senators demand crackdown on wildfire &quot;prediction markets&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/08/senators-demand-crackdown-on-wildfire-prediction-markets/" target="_blank">Senators demand crackdown on wildfire &quot;prediction markets&quot;</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-04 21:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-Retiring-Moxa-Driver" target="_blank">Additional Old Linux Drivers Face Removal Due To Noise From AI/LLM Coding Agents</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-05 10:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/08/ponytail-agent-skill-benchmark/en/headerimage/generatedHeaderImage-1785737626006.jpg" alt="Ponytail Agent Skill Corrects Its Own Benchmark After Contributor Challenge" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -212,20 +216,20 @@
                 <span class="time">2026-08-04 23:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows/" target="_blank">How the GitHub legal team used Copilot CLI to streamline their workflows</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-08-04 19:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/08/vulnerabilities-in-car-anti-theft-device.html" target="_blank">Vulnerabilities in Car Anti-Theft Device</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-08-05 09:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -240,6 +244,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KRAR4Z8BARCW8Y441C51WSKB/hero-image.png" alt="This Tiny Waterproof GoPro (With a Built-In Light) Is Almost $50 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/gopro-lit-hero-sale-august-2026?utm_medium=RSS" target="_blank">This Tiny Waterproof GoPro (With a Built-In Light) Is Almost $50 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-05 12:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/1280px-thumbnail.jpg?fit=1280%2C848&amp;quality=60&amp;ssl=1" alt="Fly over ancient Rome as it looked in the second century" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/05/virtual-ancient-rome.html" target="_blank">Fly over ancient Rome as it looked in the second century</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-05 12:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/FFXIV_FANFESTIVAL_2026_in_ANAHEIM_13-e1777638168141-1280x710.jpg" alt="PSA: Final Fantasy 14 Is Out Now On Nintendo Switch 2 But You Don’t Have To Buy It To Play" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,24 +296,6 @@
                 <span class="title"><a href="https://kotaku.com/electronic-arts-officially-belongs-saudi-arabia-jared-kushner-now-2000721666" target="_blank">Electronic Arts Officially Belongs To Saudi Arabia, Private Equity, And Jared Kushner Now</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-08-04 20:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/minecraftslavb-1280x720.jpg" alt="Minecraft Adds Concrete Stairs After Making Fans Wait Nearly A Decade And People Are Excited" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/minecraft-adds-concrete-stairs-after-making-fans-wait-nearly-a-decade-and-people-are-excited-2000721630" target="_blank">Minecraft Adds Concrete Stairs After Making Fans Wait Nearly A Decade And People Are Excited</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-04 19:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/rocky-horror.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="Rocky Horror Show musical director sent threats to self to end production and avoid cast drama" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/04/rocky-horror-show-musical-director-sent-threats-to-self-to-end-production-and-avoid-cast-drama.html" target="_blank">Rocky Horror Show musical director sent threats to self to end production and avoid cast drama</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-04 18:24</span>
             </div>
         </div>
 </div>
@@ -331,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 99 | 📡 Total Sources: 39 | 📸 With Images: 243 |
-        🔄 Last Updated: 10:22 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 93 | 📡 Total Sources: 40 | 📸 With Images: 242 |
+        🔄 Last Updated: 12:45 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
