@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-08-05 22:04:08 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-08-05 23:45:23 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 10 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, August 05, 2026 - 22:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Wednesday, August 05, 2026 - 23:45 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,6 +105,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-500x500.jpg" alt="Thousands of servers can be backdoored by exploiting buggy motherboard controllers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/" target="_blank">Thousands of servers can be backdoored by exploiting buggy motherboard controllers</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-05 22:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/975955/x-twitter-nikita-bier-leaving" target="_blank">X product chief Nikita Bier is leaving after one year</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-05 22:19</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -142,29 +158,20 @@
                 <span class="time">2026-08-05 17:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/975603/refurbished-apple-macbook-neo-google-wireless-charger-deal-sale" target="_blank">Apple’s selling refurbished MacBook Neos with a $100 discount</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-05 16:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/" target="_blank">TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-05 15:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/10/resources-flatpak-app.jpg?resize=406%2C232&amp;ssl=1" alt="Resources beta adds PowerPC CPU temps, AMD NPU stats" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/resources-51-beta-npu-powerpc-temps" target="_blank">Resources beta adds PowerPC CPU temps, AMD NPU stats</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-08-05 23:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,15 +217,6 @@
                 <span class="time">2026-08-05 16:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Denial-WM-Compositor" target="_blank">Denial WM: New Wayland Compositor With Flutter Directly Embedded</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-05 16:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +243,15 @@
                 <span class="title"><a href="https://kotaku.com/beast-of-reincarnation-creatures-animals-pokemon-rpg-2000722004" target="_blank">Beast Of Reincarnation Isn’t A Pokémon Game, But It Kind Of Is</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-08-05 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/1796TEASER1200-true-trump-reflecting-pool.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Tom the Dancing Bug: The Top-Secret Truth about Trump and the Reflecting Pool" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/05/tom-the-dancing-bug-the-top-secret-truth-about-trump-and-the-reflecting-pool.html" target="_blank">Tom the Dancing Bug: The Top-Secret Truth about Trump and the Reflecting Pool</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-05 21:46</span>
             </div>
         </div>
 <div class="story">
@@ -281,15 +288,6 @@
                 <span class="title"><a href="https://kotaku.com/gta-5-actor-says-he-auditioned-for-over-60-roles-in-gta-6-but-rockstar-ignored-him-2000721936" target="_blank">GTA 5 Actor Says He Auditioned For Over 60 Roles In GTA 6 But Rockstar Ignored Him</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-08-05 16:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/beast-emma-1280x720.jpg" alt="Beast Of Reincarnation Will Get ‘A Series Of Continuous Updates’ Including Increased Text Size" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/beast-of-reincarnation-updates-text-size-2000721877" target="_blank">Beast Of Reincarnation Will Get ‘A Series Of Continuous Updates’ Including Increased Text Size</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-05 15:00</span>
             </div>
         </div>
 </div>
@@ -347,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 78 | 📡 Total Sources: 40 | 📸 With Images: 242 |
-        🔄 Last Updated: 22:04 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 78 | 📡 Total Sources: 40 | 📸 With Images: 247 |
+        🔄 Last Updated: 23:45 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
