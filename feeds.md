@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-08-05 07:30:38 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-08-05 10:22:31 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, August 05, 2026 - 07:30 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, August 05, 2026 - 10:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,57 +50,57 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/05/nx-s1-5921194/russian-missile-drone-barrage" target="_blank">Russian missile and drone barrage in Ukrainian capital region kills 17</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-05 10:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/8/5/south-africas-le-clos-says-home-destroyed-during-commonwealth-record-run?traffic_source=rss" target="_blank">South Africa’s le Clos says home destroyed during Commonwealth record run</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-05 09:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efc9/live/6272a1d0-859f-11f1-bc30-6908d27da04d.jpg" alt="Police chief considers joining legal action over PC Harper killers&#x27; early release" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cx2v5kj9zzko?at_medium=RSS&at_campaign=rss" target="_blank">Police chief considers joining legal action over PC Harper killers&#x27; early release</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-05 09:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/environment/2026/aug/05/el-nino-could-push-50m-people-acute-hunger-next-year" target="_blank">El Niño could push 50m people into acute hunger before end of next year</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-08-05 08:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1785911373363_now_brk_abdul_sayed_michigan_primary_260804_S3_1920x1080-udh7cg.jpg" alt="Abdul El-Sayed wins Michigan’s Democratic Senate primary, NBC News projects" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/abdul-el-sayed-wins-michigan-s-democratic-senate-primary-nbc-news-projects-267795525687" target="_blank">Abdul El-Sayed wins Michigan’s Democratic Senate primary, NBC News projects</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-05 06:29</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/el-sayed-stevens-rt-gmh-260804_1785850000887_hpMain_4x3t_384.jpg" alt="High-stakes Michigan Senate race among primaries in 5 states" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/Politics/high-stakes-michigan-senate-race-primaries-5-states/story?id=135365946" target="_blank">High-stakes Michigan Senate race among primaries in 5 states</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-08-05 04:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/05/nx-s1-5919621/mls-commissioner-larry-berg-major-league-soccer" target="_blank">MLS named LAFC co-owner Larry Berg as its next commissioner. Here&#x27;s what to know</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-05 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-07/260728-Rep-Wesley-Bell-vsb-2014-23ea3f.jpg" alt="Rep. Wesley Bell defeats former Rep. Cori Bush in a Missouri Democratic primary rematch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/rep-wesley-bell-defeats-former-rep-cori-bush-missouri-democratic-prima-rcna589755" target="_blank">Rep. Wesley Bell defeats former Rep. Cori Bush in a Missouri Democratic primary rematch</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-05 01:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/5/ukrainian-man-chased-by-exploding-drone-recounts-his-terror?traffic_source=rss" target="_blank">Ukrainian man chased by exploding drone recounts his terror</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-05 00:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1785885734927_nn_sbr_michigan_primary_260804_S3_1920x1080-c7anel.jpg" alt="Divided Democrats face critical Michigan Senate primary" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/divided-democrats-face-critical-michigan-senate-primary-267771461647" target="_blank">Divided Democrats face critical Michigan Senate primary</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-04 23:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/8/4/elon-musks-spacex-reports-reports-losses-but-less-than-expected?traffic_source=rss" target="_blank">Elon Musk’s SpaceX reports losses but less than expected</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-04 22:02</span>
             </div>
         </div>
 </div>
@@ -164,6 +168,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/08/ponytail-agent-skill-benchmark/en/headerimage/generatedHeaderImage-1785737626006.jpg" alt="Ponytail Agent Skill Corrects Its Own Benchmark After Contributor Challenge" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/08/ponytail-agent-skill-benchmark/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Ponytail Agent Skill Corrects Its Own Benchmark After Contributor Challenge</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-05 08:05</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -208,15 +221,6 @@
                 <span class="time">2026-08-04 19:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/christofkarisch/taming-a-third-party-react-app-inside-wordpress-without-touching-its-code-16g1" target="_blank">Taming a Third-Party React App Inside WordPress — Without Touching Its Code</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-04 17:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -229,15 +233,6 @@
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2026/08/iran-cyberattacks-against-minnesota-water-systems.html" target="_blank">Iran Cyberattacks Against Minnesota Water Systems</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2026-08-04 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/08/some-claude-chats-are-searchable-on-google.html" target="_blank">Some Claude Chats Are Searchable on Google</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-08-04 10:13</span>
             </div>
         </div>
 </div>
@@ -305,6 +300,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/08/05/bespoke-speech" target="_blank">Bespoke Speech</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-08-05 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.questionablecontent.net/comics/5888.png" alt="Anh Doesn&#x27;t Get It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -327,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 100 | 📡 Total Sources: 40 | 📸 With Images: 243 |
-        🔄 Last Updated: 07:30 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 99 | 📡 Total Sources: 39 | 📸 With Images: 243 |
+        🔄 Last Updated: 10:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
