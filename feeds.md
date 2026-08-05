@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-08-05 20:54:49 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-05 22:04:08 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 10 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Wednesday, August 05, 2026 - 20:55 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Wednesday, August 05, 2026 - 22:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b45d/live/e272ff40-9104-11f1-a7ab-8b30adf0800a.jpg" alt="Iran says it has agreed Strait of Hormuz shipping route with Oman" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss" target="_blank">Iran says it has agreed Strait of Hormuz shipping route with Oman</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-05 21:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/05/g-s1-137523/ousted-bangladeshi-leader-vows-to-return-from-exile-despite-facing-a-death-sentence" target="_blank">Ousted Bangladeshi leader vows to return from exile despite facing a death sentence</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-05 20:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/pirro-1-gty-gmh-260803_1785790335622_hpMain_4x3t_384.jpg" alt="Inside Trump&#x27;s &#x27;contentious&#x27; Oval Office meeting with Jeanine Pirro: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,29 +101,29 @@
                 <span class="time">2026-08-05 18:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/05/nx-s1-5919997/how-trump-made-an-estimated-2-2-billion-during-the-first-year-of-his-second-term" target="_blank">How Trump made an estimated $2.2 billion during the first year of his second term</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-05 17:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9aa/live/648faac0-90ea-11f1-b2ab-0dd01740f9f6.jpg" alt="Ex neo-Nazi activist withdraws as Tory election candidate" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cy4kx8n2vwxo?at_medium=RSS&at_campaign=rss" target="_blank">Ex neo-Nazi activist withdraws as Tory election candidate</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-05 17:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/05/nikita-bier-steps-down-as-xs-head-of-product/" target="_blank">Nikita Bier steps down as X’s head of product</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-05 21:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a7389a42d86c5682fc4873b/master/pass/Politics-Newsletter-Department-of-Design-Run-Like-DOGE-Politics.jpg" alt="The National Design Studio Became a DOGE Landing Pad. Now ‘Big Balls’ Is Recruiting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/national-design-studio-doge-recruiting/" target="_blank">The National Design Studio Became a DOGE Landing Pad. Now ‘Big Balls’ Is Recruiting</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-05 21:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,29 +160,20 @@
                 <span class="time">2026-08-05 15:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/975563/imessage-android-sunbird" target="_blank">Sunbird relaunched its iMessage app for Android users after three years away</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-05 14:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/spacex-nasdaq-500x500.jpg" alt="SpaceX spooks investors with debut earnings report" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/" target="_blank">SpaceX spooks investors with debut earnings report</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-05 13:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dixitgurv/github-stacked-pr-l26" target="_blank">Github Stacked PR</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-05 21:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,15 +219,6 @@
                 <span class="time">2026-08-05 16:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/saras_growth_space/lld-data-structures-in-design-context-why-some-problems-need-prefix-matching-instead-of-exact-16il" target="_blank">LLD Data Structures in Design Context: Why Some Problems Need Prefix Matching Instead of Exact Lookup</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-05 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/kooandemma-1280x720.jpg" alt="Beast Of Reincarnation Isn’t A Pokémon Game, But It Kind Of Is" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/beast-of-reincarnation-creatures-animals-pokemon-rpg-2000722004" target="_blank">Beast Of Reincarnation Isn’t A Pokémon Game, But It Kind Of Is</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-05 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KBJJ2VKRQHCS8NTPXFEPW31G/hero-image.png" alt="The Apple Watch Series 11 Is $150 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/apple-watch-series-11-deal-august-2026?utm_medium=RSS" target="_blank">The Apple Watch Series 11 Is $150 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-05 21:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KZ9R7KC2QYXM1MW7GNMV9GHY/hero-image.jpg" alt="Here&#x27;s When ChatGPT Atlas Will Shut Down for Good" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,29 +292,20 @@
                 <span class="time">2026-08-05 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/Photo-Dunellen-Police.jpg?fit=1080%2C813&amp;quality=60&amp;ssl=1" alt="Cop dressed as shrub catches 74 texting drivers in 6 hours" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/05/cop-dressed-as-shrub-catches-74-texting-drivers-in-6-hours.html" target="_blank">Cop dressed as shrub catches 74 texting drivers in 6 hours</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-05 13:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KRAR4Z8BARCW8Y441C51WSKB/hero-image.png" alt="This Tiny Waterproof GoPro (With a Built-In Light) Is Almost $50 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/gopro-lit-hero-sale-august-2026?utm_medium=RSS" target="_blank">This Tiny Waterproof GoPro (With a Built-In Light) Is Almost $50 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-05 12:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/08/05/bespoke-speech" target="_blank">Bespoke Speech</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-08-05 20:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1785787498-20260805.png" alt="Saturday Morning Breakfast Cereal - Drunken" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -316,6 +325,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/antiques_roadshow.png" alt="Antiques Roadshow" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3281/" target="_blank">Antiques Roadshow</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-08-05 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.questionablecontent.net/comics/5888.png" alt="Anh Doesn&#x27;t Get It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -329,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 77 | 📡 Total Sources: 40 | 📸 With Images: 241 |
-        🔄 Last Updated: 20:55 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 78 | 📡 Total Sources: 40 | 📸 With Images: 242 |
+        🔄 Last Updated: 22:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
