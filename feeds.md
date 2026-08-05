@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-08-05 19:10:59 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-05 20:54:49 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, August 05, 2026 - 19:11 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, August 05, 2026 - 20:55 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/pirro-1-gty-gmh-260803_1785790335622_hpMain_4x3t_384.jpg" alt="Inside Trump&#x27;s &#x27;contentious&#x27; Oval Office meeting with Jeanine Pirro: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/inside-trumps-contentious-oval-office-meeting-jeanine-pirro/story?id=135393382" target="_blank">Inside Trump&#x27;s &#x27;contentious&#x27; Oval Office meeting with Jeanine Pirro: Sources</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-05 20:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/8/5/spacex-shares-slide-on-the-heels-of-first-quarterly-report?traffic_source=rss" target="_blank">SpaceX shares slide on the heels of first quarterly report</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-05 20:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures" target="_blank">US to shut five consulates as critics fear China could fill diplomatic vacuum</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-08-05 19:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,38 +101,20 @@
                 <span class="time">2026-08-05 17:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/5/5-8-sv-russia-attacks-kyiv-ua?traffic_source=rss" target="_blank">Russia kills 17 in ballistic missile attacks around Kyiv</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-05 16:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/El-Sayed-7-ap-gmh-260805_1785942592371_hpMain_4x3t_384.jpg" alt="El-Sayed projected to win high-stakes Michigan Senate Democratic primary" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/high-stakes-michigan-senate-race-primaries-5-states/story?id=135365946" target="_blank">El-Sayed projected to win high-stakes Michigan Senate Democratic primary</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-05 16:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1785942686936_now_brk_aes_michigan_win_260805_S3_1920x1080-oxkgoa.jpg" alt="&#x27;We took on a machine&#x27;: Abdul El-Sayed thanks supporters after primary victory" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/abdul-el-sayed-thanks-supporters-after-primary-victory-in-michigan-267819589706" target="_blank">&#x27;We took on a machine&#x27;: Abdul El-Sayed thanks supporters after primary victory</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-05 15:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/975723/ring-wired-doorbell-pro-battery-doorbell-plus-deal-sale" target="_blank">Two of Ring&amp;#8217;s latest video doorbells are a lot cheaper than usual</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-05 17:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +160,29 @@
                 <span class="time">2026-08-05 13:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/" target="_blank">MacPaw taps Liquid AI to offer on-device inference to devs building for its app store</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-05 12:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://zed.dev/deltadb" target="_blank">Zed DeltaDB</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-05 18:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://data4sci.com/blog/building-an-advanced-agentic-harness" target="_blank">Building an Advanced Agentic Harness</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-08-05 18:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2022/05/rhythmbox-icon.jpg?resize=406%2C232&amp;ssl=1" alt="Rhythmbox 3.5 lets you sync your podcast listening across apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -201,24 +219,6 @@
                 <span class="time">2026-08-05 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/08/jiohotstar-ad-decisioning-flow/en/headerimage/generatedHeaderImage-1785711356085.jpg" alt="JioHotstar Explains the Distributed Engineering Behind Personalized Ad Requests at Streaming Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/08/jiohotstar-ad-decisioning-flow/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">JioHotstar Explains the Distributed Engineering Behind Personalized Ad Requests at Streaming Scale</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-05 14:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17403855/genoffice-overview" target="_blank">This New Open Source Project Wants to Be the AI-First Alternative to Microsoft Office</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-08-05 13:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KZ9R7KC2QYXM1MW7GNMV9GHY/hero-image.jpg" alt="Here&#x27;s When ChatGPT Atlas Will Shut Down for Good" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/heres-when-chatgpt-atlas-will-shut-down?utm_medium=RSS" target="_blank">Here&#x27;s When ChatGPT Atlas Will Shut Down for Good</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-05 20:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/gogsale-kotaku-1280x720.jpg" alt="GOG’s Big Shooter Sale Includes A Ton Of Great Games That Cost $10 Or Less" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +292,6 @@
                 <span class="time">2026-08-05 12:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/1280px-thumbnail.jpg?fit=1280%2C848&amp;quality=60&amp;ssl=1" alt="Fly over ancient Rome as it looked in the second century" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/05/virtual-ancient-rome.html" target="_blank">Fly over ancient Rome as it looked in the second century</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-05 12:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -329,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 76 | 📡 Total Sources: 40 | 📸 With Images: 242 |
-        🔄 Last Updated: 19:11 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 77 | 📡 Total Sources: 40 | 📸 With Images: 241 |
+        🔄 Last Updated: 20:55 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
