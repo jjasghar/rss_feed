@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-08-05 01:25:04 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-08-05 04:52:54 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, August 05, 2026 - 01:25 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, August 05, 2026 - 04:53 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/el-sayed-stevens-rt-gmh-260804_1785850000887_hpMain_4x3t_384.jpg" alt="High-stakes Michigan Senate race among primaries in 5 states" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/high-stakes-michigan-senate-race-primaries-5-states/story?id=135365946" target="_blank">High-stakes Michigan Senate race among primaries in 5 states</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-05 04:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/05/nx-s1-5919621/mls-commissioner-larry-berg-major-league-soccer" target="_blank">MLS named LAFC co-owner Larry Berg as its next commissioner. Here&#x27;s what to know</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-05 04:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-07/260728-Rep-Wesley-Bell-vsb-2014-23ea3f.jpg" alt="Rep. Wesley Bell defeats former Rep. Cori Bush in a Missouri Democratic primary rematch" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,24 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/economy/2026/8/4/elon-musks-spacex-reports-reports-losses-but-less-than-expected?traffic_source=rss" target="_blank">Elon Musk’s SpaceX reports losses but less than expected</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-04 22:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/04/nx-s1-5918536/spacex-first-earnings-report-since-ipo" target="_blank">SpaceX&#x27;s revenue rises as its once-soaring stock price drifts back to Earth</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-04 22:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf57/live/7b6be310-901f-11f1-a7ab-8b30adf0800a.jpg" alt="Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo?at_medium=RSS&at_campaign=rss" target="_blank">Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-04 21:55</span>
             </div>
         </div>
 </div>
@@ -166,6 +164,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/superfunicular/turn-an-old-android-phone-into-a-screen-off-security-camera-no-cloud-lan-only-5cll" target="_blank">Turn an old Android phone into a screen-off security camera (no cloud, LAN-only)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-05 04:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/AMD-eSPI-Linux-Patches" target="_blank">AMD Posts Proposal &amp; Linux Patches For eSPI Subsystem</a></span>
                 <span class="feed">Phoronix</span>
@@ -184,6 +191,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/" target="_blank">libexpat now funded by the City of Munich for up to 6 months</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-04 23:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-github"></span>
                 <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows/" target="_blank">How the GitHub legal team used Copilot CLI to streamline their workflows</a></span>
                 <span class="feed">The GitHub Blog</span>
@@ -197,24 +213,6 @@
                 <span class="title"><a href="https://dev.to/christofkarisch/taming-a-third-party-react-app-inside-wordpress-without-touching-its-code-16g1" target="_blank">Taming a Third-Party React App Inside WordPress — Without Touching Its Code</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-04 17:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack/" target="_blank">Turn one giant AI-generated pull request to a reviewable stack</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-08-04 16:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/leobaniak/omdias-2026-supply-chain-survey-puts-the-annual-incident-rate-at-77-percent-11p4" target="_blank">Omdia&#x27;s 2026 supply-chain survey puts the annual-incident rate at 77 percent</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-04 16:27</span>
             </div>
         </div>
 </div>
@@ -305,6 +303,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.questionablecontent.net/comics/5888.png" alt="Anh Doesn&#x27;t Get It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5888" target="_blank">Anh Doesn&#x27;t Get It</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-08-05 03:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1785787461-20260804.png" alt="Saturday Morning Breakfast Cereal - Wants" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -313,22 +320,13 @@
                 <span class="time">2026-08-04 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5887.png" alt="Bubbles Catches On" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5887" target="_blank">Bubbles Catches On</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-08-04 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 100 | 📡 Total Sources: 40 | 📸 With Images: 242 |
-        🔄 Last Updated: 01:25 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 101 | 📡 Total Sources: 40 | 📸 With Images: 242 |
+        🔄 Last Updated: 04:53 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
