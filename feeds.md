@@ -1,29 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-08-06 01:22:17 UTC -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-08-06 04:53:16 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 21 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, August 06, 2026 - 01:22 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, August 06, 2026 - 04:53 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +53,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/8/6/metas-ai-model-follows-rivals-in-revealing-hacks-of-outside-systems?traffic_source=rss" target="_blank">Meta’s AI model follows rivals in revealing hacks of outside systems</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-06 00:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/blanche-rt-jt-260805_1785967667907_hpMain_4x3t_384.jpg" alt="Blanche meets with 2 key Republican senators ahead of confirmation vote" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/blanche-meets-2-key-republican-senators-ahead-confirmation/story?id=135406207" target="_blank">Blanche meets with 2 key Republican senators ahead of confirmation vote</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-06 00:28</span>
             </div>
         </div>
 <div class="story">
@@ -82,15 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/08/05/g-s1-137523/ousted-bangladeshi-leader-vows-to-return-from-exile-despite-facing-a-death-sentence" target="_blank">Ousted Bangladeshi leader vows to return from exile despite facing a death sentence</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-08-05 20:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/pirro-1-gty-gmh-260803_1785790335622_hpMain_4x3t_384.jpg" alt="Inside Trump&#x27;s &#x27;contentious&#x27; Oval Office meeting with Jeanine Pirro: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/inside-trumps-contentious-oval-office-meeting-jeanine-pirro/story?id=135393382" target="_blank">Inside Trump&#x27;s &#x27;contentious&#x27; Oval Office meeting with Jeanine Pirro: Sources</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-05 20:11</span>
             </div>
         </div>
 </div>
@@ -161,6 +168,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gerardo_leon/rotate-aws-iam-access-keys-by-script-4g8g" target="_blank">Rotate AWS IAM Access Keys by script</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-06 04:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/germey/how-to-implement-ace-data-cloud-login-with-oauth-20-and-pkce-51dc" target="_blank">How to Implement Ace Data Cloud Login with OAuth 2.0 and PKCE</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-06 01:07</span>
@@ -173,6 +189,15 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-Steam-Controller" target="_blank">Linux 7.3 To Fix Longstanding Gap In The Native Driver For Original Steam Controller</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-08-06 00:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/10/resources-flatpak-app.jpg?resize=406%2C232&amp;ssl=1" alt="Resources beta adds PowerPC temp, AMD NPU stats" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/resources-51-beta-npu-powerpc-temps" target="_blank">Resources beta adds PowerPC temp, AMD NPU stats</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-08-05 23:43</span>
             </div>
         </div>
 <div class="story">
@@ -191,24 +216,6 @@
                 <span class="title"><a href="https://dev.to/dixitgurv/github-stacked-pr-l26" target="_blank">Github Stacked PR</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-05 21:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://zed.dev/deltadb" target="_blank">Zed DeltaDB</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-05 18:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://data4sci.com/blog/building-an-advanced-agentic-harness" target="_blank">Building an Advanced Agentic Harness</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-08-05 18:14</span>
             </div>
         </div>
 </div>
@@ -316,31 +323,13 @@
                 <span class="time">2026-08-05 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/antiques_roadshow.png" alt="Antiques Roadshow" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3281/" target="_blank">Antiques Roadshow</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-08-05 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5888.png" alt="Anh Doesn&#x27;t Get It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5888" target="_blank">Anh Doesn&#x27;t Get It</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-08-05 03:45</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 81 | 📡 Total Sources: 40 | 📸 With Images: 248 |
-        🔄 Last Updated: 01:22 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 79 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 04:53 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
