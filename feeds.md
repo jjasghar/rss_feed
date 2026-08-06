@@ -1,39 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-08-06 10:24:45 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-08-06 12:48:46 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 31 feeds processed -->
+<!-- Generated 10 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, August 06, 2026 - 10:24 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Thursday, August 06, 2026 - 12:48 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -77,6 +72,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-elisabeth-jane-ross_7314427.jpg?20260806075308" alt="Boxer accused of killing UK aid worker and putting body in suitcase back in court" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/man-accused-of-killing-scottish-aid-worker-in-athens-back-in-court-13570253" target="_blank">Boxer accused of killing UK aid worker and putting body in suitcase back in court</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-08-06 06:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8759/live/683a1f90-9002-11f1-9dfb-fd4408d16f2f.jpg" alt="In Odesa, no-one is safe from Russia&#x27;s new Black Sea strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss" target="_blank">In Odesa, no-one is safe from Russia&#x27;s new Black Sea strikes</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-06 05:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e61a/live/67ca3e80-90f9-11f1-b2ab-0dd01740f9f6.jpg" alt="Young women tell BBC of rape, assault and harassment at Army training college for teenagers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -85,29 +98,20 @@
                 <span class="time">2026-08-06 05:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/6/metas-ai-model-follows-rivals-in-revealing-hacks-of-outside-systems?traffic_source=rss" target="_blank">Meta’s AI model follows rivals in revealing hacks of outside systems</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-06 00:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/blanche-rt-jt-260805_1785967667907_hpMain_4x3t_384.jpg" alt="Blanche meets with 2 key Republican senators ahead of confirmation vote" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/blanche-meets-2-key-republican-senators-ahead-confirmation/story?id=135406207" target="_blank">Blanche meets with 2 key Republican senators ahead of confirmation vote</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-06 00:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/" target="_blank">Google Maps adds agentic features, including food ordering and hotel bookings</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-06 12:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69be2db840d94f23d7df0aa5/master/pass/The-Best-Coffee-Subscriptions-to-Keep-You-Wired-in-2026.jpg" alt="12 Best Coffee Subscriptions (2026), Tested by Caffeine Hounds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -153,20 +157,38 @@
                 <span class="time">2026-08-05 22:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/975955/x-twitter-nikita-bier-leaving" target="_blank">X product chief Nikita Bier is leaving after one year</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-05 22:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/marxjenes/why-flaky-tests-are-rarely-about-the-test-3951" target="_blank">Why Flaky Tests Are Rarely About the Test</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-06 12:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-WiFi-Strict-AI-Slop-Patch" target="_blank">Linux Wireless Maintainer Takes Firm Stance Against AI/LLM Generated Slop Patches</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-06 12:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/08/platform-products-people-use/en/headerimage/generatedHeaderImage-1785611764573.jpg" alt="From Projects to Products: Turning Platforms into Products People Use" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/08/platform-products-people-use/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">From Projects to Products: Turning Platforms into Products People Use</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-06 11:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,38 +216,38 @@
                 <span class="time">2026-08-06 04:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://sebsite.pw/w/20260806-pystrings.html" target="_blank">python string literals are kinda funny</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-08-06 04:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/germey/how-to-implement-ace-data-cloud-login-with-oauth-20-and-pkce-51dc" target="_blank">How to Implement Ace Data Cloud Login with OAuth 2.0 and PKCE</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-06 01:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-Steam-Controller" target="_blank">Linux 7.3 To Fix Longstanding Gap In The Native Driver For Original Steam Controller</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-06 00:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/Battery-1.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="MagSafe battery packs can charge AirPods and other earbuds too" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/06/magsafe-battery-packs-can-charge-airpods-and-other-earbuds-t.html" target="_blank">MagSafe battery packs can charge AirPods and other earbuds too</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-06 12:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KPAMYQZAHJGQ42E74YNEGJJR/hero-image.png" alt="This Anker Portable Projector With Google TV Is Over $70 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/anker-nebula-p1i-projector-sale-august-2026?utm_medium=RSS" target="_blank">This Anker Portable Projector With Google TV Is Over $70 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-06 12:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/gta-6-1.jpg" alt="GTA 6 ‘Extended Look’ Will Premiere Exclusively On Netflix As Fans Beg For Trailer 3" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/gta-6-extended-look-will-premier-exclusively-on-netflix-as-fans-beg-for-trailer-3-2000722148" target="_blank">GTA 6 ‘Extended Look’ Will Premiere Exclusively On Netflix As Fans Beg For Trailer 3</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-06 12:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/kooandemma-1280x720.jpg" alt="Beast Of Reincarnation Isn’t A Pokémon Game, But It Kind Of Is" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -251,33 +273,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/apple-watch-series-11-deal-august-2026?utm_medium=RSS" target="_blank">The Apple Watch Series 11 Is $150 Off Right Now</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-08-05 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KZ9R7KC2QYXM1MW7GNMV9GHY/hero-image.jpg" alt="Here&#x27;s When ChatGPT Atlas Will Shut Down for Good" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/heres-when-chatgpt-atlas-will-shut-down?utm_medium=RSS" target="_blank">Here&#x27;s When ChatGPT Atlas Will Shut Down for Good</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-05 20:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/gogsale-kotaku-1280x720.jpg" alt="GOG’s Big Shooter Sale Includes A Ton Of Great Games That Cost $10 Or Less" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/gogs-big-shooter-sale-includes-a-ton-of-great-games-that-cost-10-or-less-2000721970" target="_blank">GOG’s Big Shooter Sale Includes A Ton Of Great Games That Cost $10 Or Less</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-05 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/stevehaines-1280x720.jpg" alt="GTA 5 Actor Says He Auditioned For Over 60 Roles In GTA 6 But Rockstar Ignored Him" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/gta-5-actor-says-he-auditioned-for-over-60-roles-in-gta-6-but-rockstar-ignored-him-2000721936" target="_blank">GTA 5 Actor Says He Auditioned For Over 60 Roles In GTA 6 But Rockstar Ignored Him</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-05 16:45</span>
             </div>
         </div>
 </div>
@@ -317,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 78 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 10:24 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 77 | 📡 Total Sources: 40 | 📸 With Images: 255 |
+        🔄 Last Updated: 12:48 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
