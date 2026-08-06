@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-08-06 12:48:46 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-06 15:04:27 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 25 feeds processed -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Thursday, August 06, 2026 - 12:48 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Thursday, August 06, 2026 - 15:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/845f/live/c0766280-9193-11f1-9e9c-c71e84be4584.jpg" alt="Trump denies US weapons shortage and says information &#x27;leakers&#x27; being &#x27;hunted down&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss" target="_blank">Trump denies US weapons shortage and says information &#x27;leakers&#x27; being &#x27;hunted down&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-06 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1786023434119_now_brk_fauci_contmept_vote_260806_S3_1920x1080-y2y2uc.jpg" alt="Republican senators vote to hold Dr. Fauci in contempt of Congress" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/republican-senators-vote-to-hold-dr-fauci-in-contempt-of-congress-267872837617" target="_blank">Republican senators vote to hold Dr. Fauci in contempt of Congress</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-06 13:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,24 +101,6 @@
                 <span class="time">2026-08-06 06:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8759/live/683a1f90-9002-11f1-9dfb-fd4408d16f2f.jpg" alt="In Odesa, no-one is safe from Russia&#x27;s new Black Sea strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss" target="_blank">In Odesa, no-one is safe from Russia&#x27;s new Black Sea strikes</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-06 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e61a/live/67ca3e80-90f9-11f1-b2ab-0dd01740f9f6.jpg" alt="Young women tell BBC of rape, assault and harassment at Army training college for teenagers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c3w07p7wqv1o?at_medium=RSS&at_campaign=rss" target="_blank">Young women tell BBC of rape, assault and harassment at Army training college for teenagers</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-06 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -106,10 +109,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio" target="_blank">SoftBank donated $50 million to Trump’s library months before federal data center deal</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-06 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/06/ebay-continues-to-bet-on-live-shopping-after-record-quarter/" target="_blank">eBay continues to bet on live shopping after record quarter</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-06 14:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/" target="_blank">Google Maps adds agentic features, including food ordering and hotel bookings</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-08-06 12:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6987b1c6829bf2e80f43c31b/master/pass/The%20Best%20AI%20Notetakers%20to%20Record%20Your%20Meetings,%20Interviews,%20or%20Classes.png" alt="5 Best AI Notetakers (2026), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-ai-notetakers/" target="_blank">5 Best AI Notetakers (2026), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-06 12:02</span>
             </div>
         </div>
 <div class="story">
@@ -130,33 +160,6 @@
                 <span class="time">2026-08-06 05:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead" target="_blank">Elon Musk&amp;#8217;s attempt at an AI Wikipedia hasn&amp;#8217;t been updated in months</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-06 00:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/05/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/" target="_blank">Get up to $400 off your TechCrunch Disrupt 2026 pass until Friday</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-05 22:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-500x500.jpg" alt="Thousands of servers can be backdoored by exploiting buggy motherboard controllers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/" target="_blank">Thousands of servers can be backdoored by exploiting buggy motherboard controllers</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-05 22:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +172,15 @@
                 <span class="title"><a href="https://dev.to/marxjenes/why-flaky-tests-are-rarely-about-the-test-3951" target="_blank">Why Flaky Tests Are Rarely About the Test</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-06 12:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17404403/foss-weekly-26-32" target="_blank">FOSS Weekly #26.32: Kittens, Feed Readers, Free Bash Course, No AI in Kernel Staging and More</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-08-06 12:30</span>
             </div>
         </div>
 <div class="story">
@@ -192,28 +204,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.mayerowitz.io/blog/mario-meets-pareto" target="_blank">Mario Meets Pareto</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-06 11:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/AMD-GFX1171-Mesa-26.3" target="_blank">AMD GFX1171 Support Merged For Mesa 26.3</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-08-06 10:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/claudia-ve/the-intermediate-representation-of-content-why-your-media-pipeline-needs-a-compiler-4k3n" target="_blank">The Intermediate Representation of Content: Why Your Media Pipeline Needs a Compiler</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-06 10:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gerardo_leon/rotate-aws-iam-access-keys-by-script-4g8g" target="_blank">Rotate AWS IAM Access Keys by script</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-06 04:50</span>
             </div>
         </div>
 </div>
@@ -312,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 77 | 📡 Total Sources: 40 | 📸 With Images: 255 |
-        🔄 Last Updated: 12:48 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 73 | 📡 Total Sources: 40 | 📸 With Images: 255 |
+        🔄 Last Updated: 15:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
