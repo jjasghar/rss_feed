@@ -1,36 +1,23 @@
-<!-- Processing 54 RSS feeds at 2026-08-06 04:53:16 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-06 07:30:49 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: WIRED -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 3 new posts out of 15 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, August 06, 2026 - 04:53 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, August 06, 2026 - 07:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +33,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e61a/live/67ca3e80-90f9-11f1-b2ab-0dd01740f9f6.jpg" alt="Young women tell BBC of rape, assault and harassment at Army training college for teenagers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c3w07p7wqv1o?at_medium=RSS&at_campaign=rss" target="_blank">Young women tell BBC of rape, assault and harassment at Army training college for teenagers</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-06 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,21 +79,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b45d/live/e272ff40-9104-11f1-a7ab-8b30adf0800a.jpg" alt="Iran says it has agreed Strait of Hormuz shipping route with Oman" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1785970099676_nn_sbr_michigan_primary_results_260805_S3_1920x1080-3mrkx7.jpg" alt="Progressive Democrat scores narrow victory in Michigan primary" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss" target="_blank">Iran says it has agreed Strait of Hormuz shipping route with Oman</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-05 21:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/05/g-s1-137523/ousted-bangladeshi-leader-vows-to-return-from-exile-despite-facing-a-death-sentence" target="_blank">Ousted Bangladeshi leader vows to return from exile despite facing a death sentence</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-05 20:43</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/progressive-democrat-scores-narrow-victory-in-michigan-primary-267842629832" target="_blank">Progressive Democrat scores narrow victory in Michigan primary</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-05 22:48</span>
             </div>
         </div>
 </div>
@@ -105,6 +92,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png" alt="Hungryroot Coupon Codes: 30% Off This August" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/hungryroot-promo-code/" target="_blank">Hungryroot Coupon Codes: 30% Off This August</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-06 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,15 +144,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/08/05/nikita-bier-steps-down-as-xs-head-of-product/" target="_blank">Nikita Bier steps down as X’s head of product</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-08-05 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a7389a42d86c5682fc4873b/master/pass/Politics-Newsletter-Department-of-Design-Run-Like-DOGE-Politics.jpg" alt="The National Design Studio Became a DOGE Landing Pad. Now ‘Big Balls’ Is Recruiting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/national-design-studio-doge-recruiting/" target="_blank">The National Design Studio Became a DOGE Landing Pad. Now ‘Big Balls’ Is Recruiting</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-05 21:00</span>
             </div>
         </div>
 </div>
@@ -314,22 +301,13 @@
                 <span class="time">2026-08-05 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/08/05/bespoke-speech" target="_blank">Bespoke Speech</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-08-05 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 79 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 04:53 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 77 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 07:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
