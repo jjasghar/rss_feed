@@ -1,37 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-08-06 15:04:27 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-08-06 23:47:19 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Generated 13 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, August 06, 2026 - 15:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Thursday, August 06, 2026 - 23:47 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +43,51 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/miller-1-gty-gmh-260806_1786048188509_hpMain_4x3t_384.jpg" alt="Trump signs executive orders that target birthright citizenship" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-signs-executive-orders-target-birthright-citizenship/story?id=135437344" target="_blank">Trump signs executive orders that target birthright citizenship</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-06 23:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/6/how-abdul-el-sayeds-extraordinary-win-stunned-pro-israel-establishment?traffic_source=rss" target="_blank">How Abdul El-Sayed’s ‘extraordinary’ win stunned pro-Israel establishment</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-06 22:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/06/g-s1-137686/trump-birthright-citizenship-immigration-curb" target="_blank">Trump signs 2 immigration actions to curb &#x27;birth tourism,&#x27; limit birthright citizenship</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-06 22:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-leipzig-airport-drone_7314553.jpg?20260805155142" alt="Explosive drone &#x27;serious attack&#x27; on Germany - as reports claim jet was carrying ammunition" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/leipzig-explosive-drone-serious-attack-on-germany-as-reports-claim-ukraine-jet-was-carrying-ammunition-13570500" target="_blank">Explosive drone &#x27;serious attack&#x27; on Germany - as reports claim jet was carrying ammunition</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-08-06 19:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/aug/06/ebola-virus-drc-mutating" target="_blank">Ebola virus behind massive outbreak in DRC could be mutating, officials say</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-08-06 16:18</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/845f/live/c0766280-9193-11f1-9e9c-c71e84be4584.jpg" alt="Trump denies US weapons shortage and says information &#x27;leakers&#x27; being &#x27;hunted down&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -56,56 +96,20 @@
                 <span class="time">2026-08-06 14:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1786023434119_now_brk_fauci_contmept_vote_260806_S3_1920x1080-y2y2uc.jpg" alt="Republican senators vote to hold Dr. Fauci in contempt of Congress" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/republican-senators-vote-to-hold-dr-fauci-in-contempt-of-congress-267872837617" target="_blank">Republican senators vote to hold Dr. Fauci in contempt of Congress</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-06 13:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/6/hormuz-deal-close-whats-the-latest-on-each-sides-positions?traffic_source=rss" target="_blank">Hormuz deal ‘close’: What’s the latest on each side’s positions?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-06 10:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/06/nx-s1-5845162/addiction-treatment-overdose-deaths" target="_blank">How deep-rooted medical bias creates deadly consequences for addiction patients</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-06 09:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/patriot-missile-2-ht-gmh-260303_1772569173683_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump insists US has &#x27;massive amounts&#x27; of munitions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trump-deal-imminent-iran-oman/?id=135317231" target="_blank">Iran live updates: Trump insists US has &#x27;massive amounts&#x27; of munitions</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-06 07:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-elisabeth-jane-ross_7314427.jpg?20260806075308" alt="Boxer accused of killing UK aid worker and putting body in suitcase back in court" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/man-accused-of-killing-scottish-aid-worker-in-athens-back-in-court-13570253" target="_blank">Boxer accused of killing UK aid worker and putting body in suitcase back in court</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-08-06 06:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/976454/made-by-google-2026-event-pixel-11-trevor-noah" target="_blank">Trevor Noah is hosting Google’s Pixel 11 launch event</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-06 21:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +155,38 @@
                 <span class="time">2026-08-06 10:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png" alt="Hungryroot Coupon Codes: 30% Off This August" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/hungryroot-promo-code/" target="_blank">Hungryroot Coupon Codes: 30% Off This August</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-06 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Btrfs-Restores-Fixup-Worker" target="_blank">Linux 7.2-rc7 Restoring Btrfs Fixup Worker Infrastructure To Address Silent Data Loss</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-06 21:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344" target="_blank">AMD acquires Taalas to boost inference performance by etching models in silicon</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-06 20:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app/" target="_blank">A guide to slash commands in the GitHub Copilot app</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-08-06 19:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -192,31 +214,18 @@
                 <span class="time">2026-08-06 12:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/08/platform-products-people-use/en/headerimage/generatedHeaderImage-1785611764573.jpg" alt="From Projects to Products: Turning Platforms into Products People Use" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/08/platform-products-people-use/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">From Projects to Products: Turning Platforms into Products People Use</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-06 11:59</span>
-            </div>
-        </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.mayerowitz.io/blog/mario-meets-pareto" target="_blank">Mario Meets Pareto</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-06 11:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-GFX1171-Mesa-26.3" target="_blank">AMD GFX1171 Support Merged For Mesa 26.3</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-06 10:19</span>
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/" target="_blank">Canadian Man Pleads Guilty in Snowflake Extortions</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2026-08-06 17:00</span>
             </div>
         </div>
 </div>
@@ -251,38 +260,20 @@
                 <span class="time">2026-08-06 12:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/kooandemma-1280x720.jpg" alt="Beast Of Reincarnation Isn’t A Pokémon Game, But It Kind Of Is" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/beast-of-reincarnation-creatures-animals-pokemon-rpg-2000722004" target="_blank">Beast Of Reincarnation Isn’t A Pokémon Game, But It Kind Of Is</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-05 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/1796TEASER1200-true-trump-reflecting-pool.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Tom the Dancing Bug: The Top-Secret Truth about Trump and the Reflecting Pool" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/05/tom-the-dancing-bug-the-top-secret-truth-about-trump-and-the-reflecting-pool.html" target="_blank">Tom the Dancing Bug: The Top-Secret Truth about Trump and the Reflecting Pool</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-05 21:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KBJJ2VKRQHCS8NTPXFEPW31G/hero-image.png" alt="The Apple Watch Series 11 Is $150 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/apple-watch-series-11-deal-august-2026?utm_medium=RSS" target="_blank">The Apple Watch Series 11 Is $150 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-05 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1785959087-20260806.png" alt="Saturday Morning Breakfast Cereal - Butling" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/butling" target="_blank">Saturday Morning Breakfast Cereal - Butling</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-08-06 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.questionablecontent.net/comics/5889.png" alt="Best Wishes, Anh" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -292,31 +283,13 @@
                 <span class="time">2026-08-06 04:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/08/05/bespoke-speech" target="_blank">Bespoke Speech</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-08-05 20:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1785787498-20260805.png" alt="Saturday Morning Breakfast Cereal - Drunken" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/drunken" target="_blank">Saturday Morning Breakfast Cereal - Drunken</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-08-05 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 73 | 📡 Total Sources: 40 | 📸 With Images: 255 |
-        🔄 Last Updated: 15:04 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 46 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 23:47 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
