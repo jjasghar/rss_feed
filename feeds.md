@@ -1,35 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-08-05 23:45:23 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-08-06 01:22:17 UTC -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Wednesday, August 05, 2026 - 23:45 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Thursday, August 06, 2026 - 01:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +39,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/6/metas-ai-model-follows-rivals-in-revealing-hacks-of-outside-systems?traffic_source=rss" target="_blank">Meta’s AI model follows rivals in revealing hacks of outside systems</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-06 00:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-fifa-world-cup-championship-rings_7299815.jpg?20260717115609" alt="&lt;a href=&quot;https://news.sky.com/story/world-cup-latest-european-nations-agree-to-boycott-fifa-competitions-over-controversial-sell-off-plan-13568011?postid=12184363#liveblog-body&quot;&gt;&#x27;Errors were made&#x27;: Read FIFA chief&#x27;s World Cup letter in full&lt;/a&gt;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/errors-were-made-fifa-chiefs-letter-addresses-world-cup-plan-13570234" target="_blank">&lt;a href=&quot;https://news.sky.com/story/world-cup-latest-european-nations-agree-to-boycott-fifa-competitions-over-controversial-sell-off-plan-13568011?postid=12184363#liveblog-body&quot;&gt;&#x27;Errors were made&#x27;: Read FIFA chief&#x27;s World Cup letter in full&lt;/a&gt;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-08-05 23:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6afe/live/2a95c280-ab4b-11f0-aa13-0b0479f6f42a.jpg" alt="Jailed funeral boss angers families with &#x27;apology&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c79gxqynwd3o?at_medium=RSS&at_campaign=rss" target="_blank">Jailed funeral boss angers families with &#x27;apology&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-05 23:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b45d/live/e272ff40-9104-11f1-a7ab-8b30adf0800a.jpg" alt="Iran says it has agreed Strait of Hormuz shipping route with Oman" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -72,38 +93,29 @@
                 <span class="time">2026-08-05 20:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/8/5/spacex-shares-slide-on-the-heels-of-first-quarterly-report?traffic_source=rss" target="_blank">SpaceX shares slide on the heels of first quarterly report</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-05 20:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures" target="_blank">US to shut five consulates as critics fear China could fill diplomatic vacuum</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-08-05 19:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/5/malaysia-will-not-return-rohingya-refugees-to-myanmar-if-lives-are-at-risk?traffic_source=rss" target="_blank">Malaysia vows not to return Rohingya refugees to Myanmar if lives at risk</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-05 18:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead" target="_blank">Elon Musk&amp;#8217;s attempt at an AI Wikipedia hasn&amp;#8217;t been updated in months</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-06 00:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/05/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/" target="_blank">Get up to $400 off your TechCrunch Disrupt 2026 pass until Friday</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-05 22:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-500x500.jpg" alt="Thousands of servers can be backdoored by exploiting buggy motherboard controllers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,29 +152,29 @@
                 <span class="time">2026-08-05 21:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/975723/ring-wired-doorbell-pro-battery-doorbell-plus-deal-sale" target="_blank">Two of Ring&amp;#8217;s latest video doorbells are a lot cheaper than usual</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-05 17:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/05/meet-the-eight-startups-pitching-at-startup-battlefield-australia/" target="_blank">Meet the eight startups pitching at Startup Battlefield Australia</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-05 17:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/germey/how-to-implement-ace-data-cloud-login-with-oauth-20-and-pkce-51dc" target="_blank">How to Implement Ace Data Cloud Login with OAuth 2.0 and PKCE</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-06 01:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-Steam-Controller" target="_blank">Linux 7.3 To Fix Longstanding Gap In The Native Driver For Original Steam Controller</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-06 00:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/10/resources-flatpak-app.jpg?resize=406%2C232&amp;ssl=1" alt="Resources beta adds PowerPC CPU temps, AMD NPU stats" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -197,24 +209,6 @@
                 <span class="title"><a href="https://data4sci.com/blog/building-an-advanced-agentic-harness" target="_blank">Building an Advanced Agentic Harness</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2026-08-05 18:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2022/05/rhythmbox-icon.jpg?resize=406%2C232&amp;ssl=1" alt="Rhythmbox 3.5 lets you sync your podcast listening across apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/rhythmbox-3-5-podcast-sync" target="_blank">Rhythmbox 3.5 lets you sync your podcast listening across apps</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-08-05 16:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.discoveryloop.com/" target="_blank">Discovery Loop</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-05 16:19</span>
             </div>
         </div>
 </div>
@@ -345,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 78 | 📡 Total Sources: 40 | 📸 With Images: 247 |
-        🔄 Last Updated: 23:45 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 81 | 📡 Total Sources: 40 | 📸 With Images: 248 |
+        🔄 Last Updated: 01:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
