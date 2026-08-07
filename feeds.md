@@ -1,30 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-08-07 19:42:14 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-08-07 20:27:07 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 7 new posts out of 22 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Friday, August 07, 2026 - 19:42 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, August 07, 2026 - 20:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve" target="_blank">Trump renews push to fire Fed Governor Lisa Cook</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-07 19:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,15 +102,6 @@
                 <span class="time">2026-08-07 17:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/7/italy-vows-to-maintain-border-checks-despite-spains-countermeasures-threat?traffic_source=rss" target="_blank">Italy vows to maintain border checks despite Spain’s countermeasures threat</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-07 16:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -106,6 +114,15 @@
                 <span class="title"><a href="https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel" target="_blank">Watching Roku’s AI channel is like eating from a trough</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-08-07 18:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a73a1931940912fe3731ad5/master/pass/Made-In-China-Christopher-Nolan-Interview-That-Broke-Chinese-Internet-Business.jpg" alt="The Chinese Philosopher Americans Can’t Stop Fighting About" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-chinese-philosopher-americans-cant-stop-fighting-about/" target="_blank">The Chinese Philosopher Americans Can’t Stop Fighting About</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-07 18:54</span>
             </div>
         </div>
 <div class="story">
@@ -144,15 +161,6 @@
                 <span class="time">2026-08-07 16:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a751477b127f3f26cdcc5c3/master/pass/Show-Guide-Lanterns-Culture-aaron-pierre-kyle-chandler.jpg" alt="The 7 Best TV Shows to Stream This Month" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-7-best-shows-to-stream-right-now/" target="_blank">The 7 Best TV Shows to Stream This Month</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-07 16:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -165,6 +173,15 @@
                 <span class="title"><a href="https://dev.to/cseeman/the-year-i-started-leaving-breadcrumbs-instead-of-notes-fe0" target="_blank">The Year I Started Leaving Breadcrumbs Instead of Notes</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-07 19:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-HIDPP-Reprogrammable" target="_blank">Linux 7.3 To Support Logitech HID++ 2.0 Reprogrammable Button Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-07 19:28</span>
             </div>
         </div>
 <div class="story">
@@ -203,15 +220,6 @@
                 <span class="time">2026-08-07 15:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.freeformatter.com/" target="_blank">Another Corner of the Internet Has Been Ruined</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-07 15:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,6 +239,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/haunted-chocolatier-1280x720.jpg" alt="Everything We Know About Haunted Chocolatier, The Stardew Valley Creator’s Next Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/haunted-chocolatier-everything-we-know-about-the-stardew-valley-creators-next-game-2000722445" target="_blank">Everything We Know About Haunted Chocolatier, The Stardew Valley Creator’s Next Game</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-07 20:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Chrome.jpg?fit=1080%2C612&amp;quality=60&amp;ssl=1" alt="Doing no &quot;evil,&quot; Google proposes paving over protected wetlands for a data center" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/07/google-data-center-indiana-wetlands.html" target="_blank">Doing no &quot;evil,&quot; Google proposes paving over protected wetlands for a data center</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-07 19:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/05/524bea00bf57b888c62fb04624c1f9ae-1280x720.jpg" alt="10 Things We Still Don’t Know About GTA 6 That Could Be Revealed In Netflix’s Extended Look" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,24 +291,6 @@
                 <span class="title"><a href="https://kotaku.com/pokemon-tcg-pocket-dena-players-trading-hourglass-pull-rates-2000722438" target="_blank">Pokémon TCG Pocket Loses Nearly Half Its Players, And It’s Pretty Obvious Why</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-08-07 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/Keysmart-SmartCard.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Never lose your wallet again with this $32 smart tracker" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/07/never-lose-your-wallet-again-with-this-32-smart-tracker.html" target="_blank">Never lose your wallet again with this $32 smart tracker</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-07 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/1280px-Facebook_Headquarters_1_Hacker_Way_Menlo_Park.jpg?fit=1280%2C853&amp;quality=60&amp;ssl=1" alt="Meta pays 16.2 million accounts, including neo-Nazi-linked pages" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/07/facebook-pays-ragebait-creators.html" target="_blank">Meta pays 16.2 million accounts, including neo-Nazi-linked pages</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-07 13:00</span>
             </div>
         </div>
 </div>
@@ -349,8 +357,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 97 | 📡 Total Sources: 39 | 📸 With Images: 255 |
-        🔄 Last Updated: 19:42 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 100 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 20:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
