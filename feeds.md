@@ -1,41 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-08-07 18:37:00 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-08-07 19:42:14 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 33 feeds processed -->
+<!-- Generated 7 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, August 07, 2026 - 18:37 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Friday, August 07, 2026 - 19:42 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/7/several-killed-in-attacks-on-ukraine-as-kyiv-hits-russian-e-commerce-giant?traffic_source=rss" target="_blank">Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-07 18:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/us-news/2026/aug/07/judge-trump-south-sudan-tps" target="_blank">Judge approves Trump effort to end South Sudan TPS protections</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-08-07 18:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,29 +94,20 @@
                 <span class="time">2026-08-07 16:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4823/live/c54bf9d0-926c-11f1-9f0c-8d4ddef91df6.jpg" alt="Seven killed after Thai student opens fire at home and school" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss" target="_blank">Seven killed after Thai student opens fire at home and school</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-07 15:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/07/nx-s1-5924775/colombias-new-president-vows-to-remake-the-country-and-challenge-its-fragile-peace" target="_blank">Colombia&#x27;s new president vows to remake the country — and challenge its fragile peace</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-07 15:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel" target="_blank">Watching Roku’s AI channel is like eating from a trough</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-07 18:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -155,20 +153,29 @@
                 <span class="time">2026-08-07 16:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/" target="_blank">Cloudflare launches Kitesurf, a browser built for AI agents</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-07 16:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/cseeman/the-year-i-started-leaving-breadcrumbs-instead-of-notes-fe0" target="_blank">The Year I Started Leaving Breadcrumbs Instead of Notes</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-07 19:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://arcprize.org/results/deepseek-v4-flash-0731" target="_blank">DeepSeek V4 Flash 0731</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-07 17:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,24 +210,6 @@
                 <span class="title"><a href="https://www.freeformatter.com/" target="_blank">Another Corner of the Internet Has Been Ruined</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-08-07 15:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/12/calibre-ebook-manager-app.jpg?resize=406%2C232&amp;ssl=1" alt="Calibre 9.13 fixes broken ebook search in the content server" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/calibre-9-13-bug-fix-update" target="_blank">Calibre 9.13 fixes broken ebook search in the content server</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-08-07 15:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/08/instacart-blueberry-sre-ai/en/headerimage/generatedHeaderImage-1785721280661.jpg" alt="Instacart Builds Blueberry, an AI-Powered Assistant to Help On-Call Engineers Investigate Incidents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/08/instacart-blueberry-sre-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Instacart Builds Blueberry, an AI-Powered Assistant to Help On-Call Engineers Investigate Incidents</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-07 14:34</span>
             </div>
         </div>
 </div>
@@ -302,6 +291,24 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/08/07/one-incarnation-is-plenty" target="_blank">One Incarnation Is Plenty</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-08-07 17:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-pencil"></span>
+                <span class="title"><a href="https://poorlydrawnlines.com/comic/the-dog/" target="_blank">The Dog</a></span>
+                <span class="feed">Poorly Drawn Lines</span>
+                <span class="time">2026-08-07 16:02</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1785959130-20260807.png" alt="Saturday Morning Breakfast Cereal - Paracosm" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -342,8 +349,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 91 | 📡 Total Sources: 39 | 📸 With Images: 258 |
-        🔄 Last Updated: 18:37 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 97 | 📡 Total Sources: 39 | 📸 With Images: 255 |
+        🔄 Last Updated: 19:42 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
