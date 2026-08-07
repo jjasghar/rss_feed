@@ -1,37 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-08-07 02:01:58 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-08-07 04:45:34 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 29 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, August 07, 2026 - 02:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, August 07, 2026 - 04:45 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -66,6 +59,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1786063377940_now_hallie_west_bank_village_260806_S3_1920x1080-3nr70e.jpg" alt="NBC News speaks with Palestinian in West Bank whose home is surrounded by Israeli settlers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/nbc-news-goes-inside-west-bank-town-attacked-by-israeli-settlers-267914821913" target="_blank">NBC News speaks with Palestinian in West Bank whose home is surrounded by Israeli settlers</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-07 00:43</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/miller-1-gty-gmh-260806_1786048188509_hpMain_4x3t_384.jpg" alt="Trump signs executive orders that target birthright citizenship" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -90,15 +92,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/cn5nlvdxpwpo?at_medium=RSS&at_campaign=rss" target="_blank">Thousands of rail passengers hit by power failure disruption</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-08-06 22:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/06/g-s1-137686/trump-birthright-citizenship-immigration-curb" target="_blank">Trump signs 2 immigration actions to curb &#x27;birth tourism,&#x27; limit birthright citizenship</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-06 22:06</span>
             </div>
         </div>
 </div>
@@ -177,6 +170,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-august-7-2026-red-hat" target="_blank">Friday Five — August 7, 2026</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2026-08-07 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Btrfs-Restores-Fixup-Worker" target="_blank">Linux 7.2-rc7 Restoring Btrfs Fixup Worker Infrastructure To Address Silent Data Loss</a></span>
                 <span class="feed">Phoronix</span>
@@ -208,15 +210,6 @@
                 <span class="title"><a href="https://dev.to/marxjenes/why-flaky-tests-are-rarely-about-the-test-3951" target="_blank">Why Flaky Tests Are Rarely About the Test</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-06 12:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17404403/foss-weekly-26-32" target="_blank">FOSS Weekly #26.32: Kittens, Feed Readers, Free Bash Course, No AI in Kernel Staging and More</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-08-06 12:30</span>
             </div>
         </div>
 </div>
@@ -253,6 +246,15 @@
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/final-fantasy-7-dirge-of-cerberus-mobile-game-restored-2000722267" target="_blank">Preservationist Spent $900 And Strung Together 90 GPUs To Save A Lost Final Fantasy 7 Spinoff</a></span>
                 <span class="feed">Kotaku</span>
+                <span class="time">2026-08-06 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/1min.AI-Advanced-Business-Plan-Lifetime-Subscription.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Cancel your AI subscriptions—get a lifetime of ChatGPT, Claude &amp; a ton of other tools for just $70" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/06/cancel-your-ai-subscriptions-get-a-lifetime-of-chatgpt-claude-a-ton-of-other-tools-for-just-70.html" target="_blank">Cancel your AI subscriptions—get a lifetime of ChatGPT, Claude &amp; a ton of other tools for just $70</a></span>
+                <span class="feed">Boing Boing</span>
                 <span class="time">2026-08-06 21:00</span>
             </div>
         </div>
@@ -297,22 +299,13 @@
                 <span class="time">2026-08-06 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5889.png" alt="Best Wishes, Anh" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5889" target="_blank">Best Wishes, Anh</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-08-06 04:08</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 46 | 📡 Total Sources: 40 | 📸 With Images: 255 |
-        🔄 Last Updated: 02:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 47 | 📡 Total Sources: 40 | 📸 With Images: 255 |
+        🔄 Last Updated: 04:45 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
