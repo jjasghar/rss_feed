@@ -1,45 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-08-07 14:03:30 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-07 15:42:00 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 36 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 13 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, August 07, 2026 - 14:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, August 07, 2026 - 15:42 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/bill-cassidy-gty-gmh-260807_1786112210749_hpMain_4x3t_384.jpg" alt="GOP Sen. Bill Cassidy announces he will vote for Todd Blanche to be attorney general" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/murkowski-oppose-blanche-nomination-putting-attorney-generals-bid/story?id=135450198" target="_blank">GOP Sen. Bill Cassidy announces he will vote for Todd Blanche to be attorney general</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-07 14:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88c5/live/13d4b140-926e-11f1-a7ab-8b30adf0800a.jpg" alt="Serial sex offender guilty of double murder and rape" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ceqe1nzqgg4o?at_medium=RSS&at_campaign=rss" target="_blank">Serial sex offender guilty of double murder and rape</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-07 14:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,29 +106,38 @@
                 <span class="time">2026-08-07 10:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/patriot-missile-ht-jt-260806_1786056938601_hpMain_4x3t_384.jpg" alt="Crucial US missile stockpiles &#x27;extremely low&#x27;, official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/crucial-us-missile-stockpiles-extremely-low-official/story?id=135428997" target="_blank">Crucial US missile stockpiles &#x27;extremely low&#x27;, official says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-07 10:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/7/hld-european-caution-slowing-us-push-for-hormuz-naval-coalition?traffic_source=rss" target="_blank">‘De-escalation’: Europe hesitates as US pushes for Hormuz naval mission</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-07 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/07/trump-administration-has-spent-nearly-4b-to-cancel-offshore-wind-farms/" target="_blank">Trump administration has spent nearly $4B to cancel offshore wind farms</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-07 15:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a74dbc9893d39e4b3cd5470/master/pass/OTIC9701.jpg" alt="Zohran Mamdani’s NYC Tech Team Is What DOGE Should Have Been" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/mamdani-assembles-his-nyc-tech-team/" target="_blank">Zohran Mamdani’s NYC Tech Team Is What DOGE Should Have Been</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-07 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/976551/samsung-galaxy-z-fold-8-ultra-review" target="_blank">Samsung’s Z Fold 8 Ultra is more of the same, but better than ever</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-07 14:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a7565b678bea608b59e660b/master/pass/Our-Favorite-Fans-Are-Discounted.jpg" alt="Our Favorite Fans Are on Sale to Help With Summer Heat Waves (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,33 +165,6 @@
                 <span class="time">2026-08-07 12:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/975850/teenage-sex-and-death-at-camp-miasma-production-design" target="_blank">The best classic slasher movie you&amp;#8217;ll never watch</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-07 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69fa63f82a43b29d6acd6834/master/pass/Update%20Best%20Webcams%20top%20art%20052026%20SOURCE%20Luke%20Larsen.jpg" alt="Best Webcams (2026): My Honest Take After Testing the Best" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-webcams/" target="_blank">Best Webcams (2026): My Honest Take After Testing the Best</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-07 11:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/976405/apple-telegram-ban-x-app-store-violations" target="_blank">Why does Apple keep banning Telegram, but never X?</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-07 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -176,55 +173,55 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/chamav/why-iperf3-says-bad-file-descriptor-and-what-to-check-first-2f2c" target="_blank">Why iperf3 Says “Bad File Descriptor” and What to Check First</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-07 13:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/PoCL-7.2-RC1" target="_blank">PoCL 7.2-RC1 Brings Official OpenCL 3.0 Conformance On RISC-V &amp; x86_64 CPUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-07 13:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/08/ai-incident-response/en/headerimage/generatedHeaderImage-1785503516175.jpg" alt="AI Is Transforming Incident Response - but the Hardest Problems May Still Belong to Humans" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/08/ai-incident-response/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AI Is Transforming Incident Response - but the Hardest Problems May Still Belong to Humans</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-07 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/spotify-ai-codebase-migration-agent/en/mediumimage/medium-1784809804876.jpg" alt="Presentation: Rewriting All of Spotify&#x27;s Code Base, All the Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/spotify-ai-codebase-migration-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Rewriting All of Spotify&#x27;s Code Base, All the Time</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-07 11:00</span>
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://lobste.rs/s/rn8uva/software_understanding_sciences_is" target="_blank">Software Understanding in the Sciences is Really Uneven</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-08-07 15:24</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1e1vg0gjl5o" target="_blank">US strikes $1.2B deal to pay German firm to halt offshore wind projects</a></span>
+                <span class="title"><a href="https://www.freeformatter.com/" target="_blank">Another Corner of the Internet Has Been Ruined</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2026-08-07 10:28</span>
+                <span class="time">2026-08-07 15:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/12/calibre-ebook-manager-app.jpg?resize=406%2C232&amp;ssl=1" alt="Calibre 9.13 fixes broken ebook search in the content server" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/calibre-9-13-bug-fix-update" target="_blank">Calibre 9.13 fixes broken ebook search in the content server</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-08-07 15:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/08/instacart-blueberry-sre-ai/en/headerimage/generatedHeaderImage-1785721280661.jpg" alt="Instacart Builds Blueberry, an AI-Powered Assistant to Help On-Call Engineers Investigate Incidents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/08/instacart-blueberry-sre-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Instacart Builds Blueberry, an AI-Powered Assistant to Help On-Call Engineers Investigate Incidents</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-07 14:34</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-rc7-UAF-PTDUMP" target="_blank">Linux 7.2-rc7 Addresses A &quot;Nasty&quot; Race Condition Leading To Use-After-Free After 8 Years</a></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-HDMI-2.1-FRL-Linux-2026" target="_blank">Intel Makes Progress On HDMI 2.1 FRL With Their Linux Driver For Meteor Lake &amp; Newer</a></span>
                 <span class="feed">Phoronix</span>
-                <span class="time">2026-08-07 10:25</span>
+                <span class="time">2026-08-07 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/chamav/why-iperf3-says-bad-file-descriptor-and-what-to-check-first-2f2c" target="_blank">Why iperf3 Says “Bad File Descriptor” and What to Check First</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-07 13:58</span>
             </div>
         </div>
 </div>
@@ -255,6 +252,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/pocket88.jpg" alt="Pokémon TCG Pocket Loses Nearly Half Its Players, And It’s Pretty Obvious Why" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-tcg-pocket-dena-players-trading-hourglass-pull-rates-2000722438" target="_blank">Pokémon TCG Pocket Loses Nearly Half Its Players, And It’s Pretty Obvious Why</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-07 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/1280px-Facebook_Headquarters_1_Hacker_Way_Menlo_Park.jpg?fit=1280%2C853&amp;quality=60&amp;ssl=1" alt="Meta pays 16.2 million accounts, including neo-Nazi-linked pages" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -297,6 +303,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.smbc-comics.com/comics/1785959130-20260807.png" alt="Saturday Morning Breakfast Cereal - Paracosm" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/paracosm" target="_blank">Saturday Morning Breakfast Cereal - Paracosm</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-08-07 15:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -314,22 +329,13 @@
                 <span class="time">2026-08-07 04:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1785959087-20260806.png" alt="Saturday Morning Breakfast Cereal - Butling" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/butling" target="_blank">Saturday Morning Breakfast Cereal - Butling</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-08-06 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 59 | 📡 Total Sources: 40 | 📸 With Images: 254 |
-        🔄 Last Updated: 14:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 68 | 📡 Total Sources: 40 | 📸 With Images: 255 |
+        🔄 Last Updated: 15:42 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
