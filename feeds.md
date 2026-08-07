@@ -1,32 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-08-07 21:26:26 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-08-07 22:23:04 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Generated 7 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, August 07, 2026 - 21:26 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, August 07, 2026 - 22:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +38,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy" target="_blank">Spain to introduce temporary border checks on visitors from Italy</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-08-07 21:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +92,20 @@
                 <span class="time">2026-08-07 17:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/wh-ballroom-1-ap-gmh-260807_1786114429522_hpMain_4x3t_384.jpg" alt="Appeals court blocks construction of White House ballroom" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/appeals-court-blocks-construction-white-house-ballroom/story?id=135459043" target="_blank">Appeals court blocks construction of White House ballroom</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-07 17:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/2026-08-03-00_00_2026-08-03-23_59_Sentinel-2_L2A_Wildfires-1-500x500.jpg" alt="Europe&#x27;s free satellite service just made it easier to track wildfires" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/" target="_blank">Europe&#x27;s free satellite service just made it easier to track wildfires</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-07 21:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,20 +151,29 @@
                 <span class="time">2026-08-07 17:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/976792/lord-of-the-rings-trilogy-4k-uhd-blu-ray-deal-sale" target="_blank">Grab the entire Lord of the Rings trilogy on 4K Blu-ray for $50</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-07 16:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/multigrid/air-gapped-and-offline-deployments-2mc3" target="_blank">Air-Gapped and Offline Deployments</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-07 22:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/08/cloudflare-computer-agents/en/headerimage/cloudflare-computer-agents-1786134762378.jpeg" alt="Cloudflare Launches Persistent, Stateful, Computer-like Environments for Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/08/cloudflare-computer-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Launches Persistent, Stateful, Computer-like Environments for Agents</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-07 21:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,24 +210,6 @@
                 <span class="time">2026-08-07 17:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/M3-Pro-Max-Ultra-Linux-7.3" target="_blank">Initial Apple M3 Pro / Max / Ultra Support Being Upstreamed For Linux 7.3</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-07 17:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://lobste.rs/s/rn8uva/software_understanding_sciences_is" target="_blank">Software Understanding in the Sciences is Really Uneven</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-08-07 15:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/Demons-Souls-prototype-video-from-Lance-McDonalds-video-1280x720.jpg" alt="Unearthed Demon’s Souls Prototype Footage Reveals FromSoftware’s Original First-Person Take On The Souls Formula" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/demons-souls-from-software-prototype-first-person-2000722570" target="_blank">Unearthed Demon’s Souls Prototype Footage Reveals FromSoftware’s Original First-Person Take On The Souls Formula</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-07 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/nathan-1-1.jpg" alt="The RAM Is All Gone, Folks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +290,6 @@
                 <span class="title"><a href="https://kotaku.com/google-ai-somehow-leaked-a-game-devs-content-plans-hidden-inside-their-own-google-docs-2000722497" target="_blank">Google AI Somehow Leaked A Game Dev’s Content Plans Hidden Inside Their ‘Own Google Docs’</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-08-07 17:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KZEDKYY09FMP1RYWF2E21C28/hero-image.jpg" alt="Free ChatGPT Users Will Get a Huge Upgrade Next Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/free-chatgpt-users-will-get-a-huge-upgrade-next-week?utm_medium=RSS" target="_blank">Free ChatGPT Users Will Get a Huge Upgrade Next Week</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-07 16:00</span>
             </div>
         </div>
 </div>
@@ -360,8 +356,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 99 | 📡 Total Sources: 40 | 📸 With Images: 255 |
-        🔄 Last Updated: 21:26 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 102 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 22:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
