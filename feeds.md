@@ -1,42 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-08-07 15:42:00 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing 54 RSS feeds at 2026-08-07 16:39:26 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 13 new posts out of 33 feeds processed -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, August 07, 2026 - 15:42 UTC</div>
+    <div class="newspaper-date">Friday, August 07, 2026 - 16:39 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,12 +48,48 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/7/italy-vows-to-maintain-border-checks-despite-spains-countermeasures-threat?traffic_source=rss" target="_blank">Italy vows to maintain border checks despite Spain’s countermeasures threat</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-07 16:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4823/live/c54bf9d0-926c-11f1-9f0c-8d4ddef91df6.jpg" alt="Seven killed after Thai student opens fire at home and school" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss" target="_blank">Seven killed after Thai student opens fire at home and school</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-07 15:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/07/nx-s1-5924775/colombias-new-president-vows-to-remake-the-country-and-challenge-its-fragile-peace" target="_blank">Colombia&#x27;s new president vows to remake the country — and challenge its fragile peace</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-07 15:41</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/Politics/bill-cassidy-gty-gmh-260807_1786112210749_hpMain_4x3t_384.jpg" alt="GOP Sen. Bill Cassidy announces he will vote for Todd Blanche to be attorney general" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/Politics/murkowski-oppose-blanche-nomination-putting-attorney-generals-bid/story?id=135450198" target="_blank">GOP Sen. Bill Cassidy announces he will vote for Todd Blanche to be attorney general</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-08-07 14:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1786114689539_now_brk_cassidy_blanche_yes_260807_S3_1920x1080-c0klm8.jpg" alt="Sen. Cassidy announces he will support Blanche&#x27;s nomination as attorney general" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/sen-cassidy-announces-he-will-support-blanche-s-nomination-as-attorney-general-267940933691" target="_blank">Sen. Cassidy announces he will support Blanche&#x27;s nomination as attorney general</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-07 14:58</span>
             </div>
         </div>
 <div class="story">
@@ -70,47 +101,20 @@
                 <span class="time">2026-08-07 14:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/8/7/diego-maradona-bloated-bedridden-and-resigned-before-death-says-masseur?traffic_source=rss" target="_blank">Diego Maradona bloated, bedridden and resigned before death, says masseur</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-07 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/07/nx-s1-5924786/employers-economy-labor-jobs-federal-reserve" target="_blank">Employers unexpectedly cut 23,000 jobs in a sign of a wilting labor market</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-07 13:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260112-lisa-murkowski-mn-1110-5ac1fb.jpg" alt="GOP Sen. Lisa Murkowski comes out against Todd Blanche for AG, putting nomination in jeopardy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/lisa-murkowski-vote-no-todd-blanche-attorney-general-rcna591326" target="_blank">GOP Sen. Lisa Murkowski comes out against Todd Blanche for AG, putting nomination in jeopardy</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-07 10:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/07/g-s1-137730/up-first-newsletter-trump-birthright-citizenship-iran-oman-strait-of-hormuz-anthony-fauci-mitch-mcconnell" target="_blank">Trump targets birthright citizenship. And, Iran aims to ban U.S. from Strait of Hormuz</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-07 10:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/976735/sony-wireless-headphones-anc-wh-1000xm4c-leak" target="_blank">Sony could release a cheaper version of its WH-1000XM4 headphones, according to leaks</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-07 16:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,30 +143,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2236379853-500x500.jpg" alt="Report: White House drafting executive order linking vaccines and autism" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/08/report-white-house-drafting-executive-order-linking-vaccines-and-autism/" target="_blank">Report: White House drafting executive order linking vaccines and autism</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-07 14:41</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6a7565b678bea608b59e660b/master/pass/Our-Favorite-Fans-Are-Discounted.jpg" alt="Our Favorite Fans Are on Sale to Help With Summer Heat Waves (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
                 <span class="title"><a href="https://www.wired.com/story/fan-deals-august-2026/" target="_blank">Our Favorite Fans Are on Sale to Help With Summer Heat Waves (2026)</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-08-07 13:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/mentalhealthaichat-500x500.jpg" alt="AI chatbots have failed people in crisis. Can that be fixed?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/" target="_blank">AI chatbots have failed people in crisis. Can that be fixed?</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-07 13:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/07/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/" target="_blank">The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-07 12:30</span>
             </div>
         </div>
 </div>
@@ -253,11 +248,29 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KZEDKYY09FMP1RYWF2E21C28/hero-image.jpg" alt="Free ChatGPT Users Will Get a Huge Upgrade Next Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/free-chatgpt-users-will-get-a-huge-upgrade-next-week?utm_medium=RSS" target="_blank">Free ChatGPT Users Will Get a Huge Upgrade Next Week</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-07 16:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/pocket88.jpg" alt="Pokémon TCG Pocket Loses Nearly Half Its Players, And It’s Pretty Obvious Why" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/pokemon-tcg-pocket-dena-players-trading-hourglass-pull-rates-2000722438" target="_blank">Pokémon TCG Pocket Loses Nearly Half Its Players, And It’s Pretty Obvious Why</a></span>
                 <span class="feed">Kotaku</span>
+                <span class="time">2026-08-07 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/Keysmart-SmartCard.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Never lose your wallet again with this $32 smart tracker" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/07/never-lose-your-wallet-again-with-this-32-smart-tracker.html" target="_blank">Never lose your wallet again with this $32 smart tracker</a></span>
+                <span class="feed">Boing Boing</span>
                 <span class="time">2026-08-07 15:00</span>
             </div>
         </div>
@@ -285,15 +298,6 @@
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/final-fantasy-7-dirge-of-cerberus-mobile-game-restored-2000722267" target="_blank">Preservationist Spent $900 And Strung Together 90 GPUs To Save A Lost Final Fantasy 7 Spinoff</a></span>
                 <span class="feed">Kotaku</span>
-                <span class="time">2026-08-06 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/1min.AI-Advanced-Business-Plan-Lifetime-Subscription.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Cancel your AI subscriptions—get a lifetime of ChatGPT, Claude &amp; a ton of other tools for just $70" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/06/cancel-your-ai-subscriptions-get-a-lifetime-of-chatgpt-claude-a-ton-of-other-tools-for-just-70.html" target="_blank">Cancel your AI subscriptions—get a lifetime of ChatGPT, Claude &amp; a ton of other tools for just $70</a></span>
-                <span class="feed">Boing Boing</span>
                 <span class="time">2026-08-06 21:00</span>
             </div>
         </div>
@@ -334,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 68 | 📡 Total Sources: 40 | 📸 With Images: 255 |
-        🔄 Last Updated: 15:42 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 76 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 16:39 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
