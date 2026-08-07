@@ -1,39 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-08-07 17:38:27 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-08-07 18:37:00 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 30 feeds processed -->
+<!-- Generated 7 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, August 07, 2026 - 17:38 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, August 07, 2026 - 18:37 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -68,6 +70,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/wh-ballroom-1-ap-gmh-260807_1786114429522_hpMain_4x3t_384.jpg" alt="Appeals court blocks construction of White House ballroom" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/appeals-court-blocks-construction-white-house-ballroom/story?id=135459043" target="_blank">Appeals court blocks construction of White House ballroom</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-07 17:10</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -94,20 +105,29 @@
                 <span class="time">2026-08-07 15:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/bill-cassidy-gty-gmh-260807_1786112210749_hpMain_4x3t_384.jpg" alt="GOP Sen. Bill Cassidy announces he will vote for Todd Blanche to be attorney general" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/murkowski-oppose-blanche-nomination-putting-attorney-generals-bid/story?id=135450198" target="_blank">GOP Sen. Bill Cassidy announces he will vote for Todd Blanche to be attorney general</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-07 14:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak" target="_blank">The only instant cameras worth your money</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-07 18:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/QUAKE_DLC_Xbox_TitledHero_1920x1080-02-JPG-9d514999ee7900fc9cfe-1600x900-1-500x500-1786124870.jpg" alt="New official 30th anniversary Quake mission pack adds new maps and mechanics" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2026/08/new-official-30th-anniversary-quake-mission-pack-adds-new-maps-and-mechanics/" target="_blank">New official 30th anniversary Quake mission pack adds new maps and mechanics</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-07 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/openai-logo-500x500-1784833195.jpg" alt="OpenAI’s expensive smart speaker will use moving parts to seem “more alive”" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -127,39 +147,21 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://media.wired.com/photos/6a751477b127f3f26cdcc5c3/master/pass/Show-Guide-Lanterns-Culture-aaron-pierre-kyle-chandler.jpg" alt="The 7 Best TV Shows to Stream This Month" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/976735/sony-wireless-headphones-anc-wh-1000xm4c-leak" target="_blank">Sony could release a cheaper version of its WH-1000XM4 headphones, according to leaks</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-07 16:15</span>
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-7-best-shows-to-stream-right-now/" target="_blank">The 7 Best TV Shows to Stream This Month</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-07 16:48</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/07/trump-administration-has-spent-nearly-4b-to-cancel-offshore-wind-farms/" target="_blank">Trump administration has spent nearly $4B to cancel offshore wind farms</a></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/" target="_blank">Cloudflare launches Kitesurf, a browser built for AI agents</a></span>
                 <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-07 15:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a74dbc9893d39e4b3cd5470/master/pass/OTIC9701.jpg" alt="Zohran Mamdani’s NYC Tech Team Is What DOGE Should Have Been" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/mamdani-assembles-his-nyc-tech-team/" target="_blank">Zohran Mamdani’s NYC Tech Team Is What DOGE Should Have Been</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-07 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/976551/samsung-galaxy-z-fold-8-ultra-review" target="_blank">Samsung’s Z Fold 8 Ultra is more of the same, but better than ever</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-07 14:48</span>
+                <span class="time">2026-08-07 16:16</span>
             </div>
         </div>
 </div>
@@ -241,6 +243,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/05/524bea00bf57b888c62fb04624c1f9ae-1280x720.jpg" alt="10 Things We Still Don’t Know About GTA 6 That Could Be Revealed In Netflix’s Extended Look" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/10-things-we-still-dont-know-about-gta-6-that-could-be-revealed-in-netflixs-extended-look-2000722519" target="_blank">10 Things We Still Don’t Know About GTA 6 That Could Be Revealed In Netflix’s Extended Look</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-07 18:34</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/Google-AI-overview-official-image-from-Google-Blog-1280x720.jpg" alt="Google AI Somehow Leaked A Game Dev’s Content Plans Hidden Inside Their ‘Own Google Docs’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -282,15 +293,6 @@
                 <span class="fa fa-fw fa-arrow-right"></span>
                 <span class="title"><a href="https://boingboing.net/2026/08/07/facebook-pays-ragebait-creators.html" target="_blank">Meta pays 16.2 million accounts, including neo-Nazi-linked pages</a></span>
                 <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-07 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KZDREJZDKWKRA0K9PTJ795BP/hero-image.png" alt="This Blink Wireless 2K Floodlight Camera Is 40% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/blink-wireless-2k-floodlight-camera-sale-august-2026?utm_medium=RSS" target="_blank">This Blink Wireless 2K Floodlight Camera Is 40% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
                 <span class="time">2026-08-07 13:00</span>
             </div>
         </div>
@@ -340,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 85 | 📡 Total Sources: 39 | 📸 With Images: 258 |
-        🔄 Last Updated: 17:38 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 91 | 📡 Total Sources: 39 | 📸 With Images: 258 |
+        🔄 Last Updated: 18:37 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
