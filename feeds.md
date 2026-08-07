@@ -1,9 +1,9 @@
-<!-- Processing 54 RSS feeds at 2026-08-07 06:03:05 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-08-07 08:04:26 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
@@ -11,30 +11,23 @@
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 31 feeds processed -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, August 07, 2026 - 06:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, August 07, 2026 - 08:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/8/7/africa-backs-infantino-as-caf-unanimously-votes-if-fifa-presidents-favour?traffic_source=rss" target="_blank">Africa backs Infantino as CAF unanimously votes in FIFA president’s favour</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-07 07:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/thailand-school-shooting_1786085199868_hpMain_4x3t_384.jpg" alt="At least 6 people killed, more than a dozen injured in Thailand school shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/6-people-killed-dozen-injured-thailand-school-shooting/story?id=135447961" target="_blank">At least 6 people killed, more than a dozen injured in Thailand school shooting</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-07 06:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,24 +95,6 @@
                 <span class="title"><a href="https://abcnews.com/US/judge-dismisses-reflecting-pool-vandalism-case-former-olympian/story?id=135439996" target="_blank">Judge dismisses Reflecting Pool vandalism case against former Olympian</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-08-07 01:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/635f/live/b98233a0-91fc-11f1-a7ab-8b30adf0800a.jpg" alt="Meta fined $567m in largest child safety ruling against social media giant" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss" target="_blank">Meta fined $567m in largest child safety ruling against social media giant</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-07 00:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1786063377940_now_hallie_west_bank_village_260806_S3_1920x1080-3nr70e.jpg" alt="NBC News speaks with Palestinian in West Bank whose home is surrounded by Israeli settlers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/nbc-news-goes-inside-west-bank-town-attacked-by-israeli-settlers-267914821913" target="_blank">NBC News speaks with Palestinian in West Bank whose home is surrounded by Israeli settlers</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-07 00:43</span>
             </div>
         </div>
 </div>
@@ -301,6 +294,24 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/08/07/one-incarnation-is-plenty" target="_blank">One Incarnation Is Plenty</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-08-07 07:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.questionablecontent.net/comics/5890.png" alt="Don&#x27;t Go Breakin&#x27; Her Heart" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5890" target="_blank">Don&#x27;t Go Breakin&#x27; Her Heart</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-08-07 04:07</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1785959087-20260806.png" alt="Saturday Morning Breakfast Cereal - Butling" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -314,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 48 | 📡 Total Sources: 39 | 📸 With Images: 257 |
-        🔄 Last Updated: 06:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 50 | 📡 Total Sources: 40 | 📸 With Images: 256 |
+        🔄 Last Updated: 08:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
