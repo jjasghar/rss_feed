@@ -1,28 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-08-07 22:23:04 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-08-07 23:23:17 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 20 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, August 07, 2026 - 22:23 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, August 07, 2026 - 23:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/7/democrats-gain-momentum-in-pivotal-us-senate-and-governors-races-in-texas?traffic_source=rss" target="_blank">Democrats gain momentum in pivotal US Senate and governor’s races in Texas</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-07 22:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,15 +94,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/08/07/nx-s1-5924914/senate-passes-russia-sanctions-bill-that-was-long-championed-by-lindsey-graham" target="_blank">Senate passes Russia sanctions bill that was long championed by Lindsey Graham</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-08-07 17:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/7/new-delhi-on-red-alert-as-heavy-rains-pound-the-city?traffic_source=rss" target="_blank">New Delhi on red alert as heavy rains pound the city</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-07 17:19</span>
             </div>
         </div>
 </div>
@@ -257,6 +261,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KZE90X6MZVNERYF7CXZASH0R/hero-image.jpg" alt="10 Screenshot Hacks Every Mac User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/10-screenshot-hacks-every-mac-user-should-know?utm_medium=RSS" target="_blank">10 Screenshot Hacks Every Mac User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-07 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/haunted-chocolatier-1280x720.jpg" alt="Everything We Know About Haunted Chocolatier, The Stardew Valley Creator’s Next Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -281,15 +294,6 @@
                 <span class="title"><a href="https://kotaku.com/10-things-we-still-dont-know-about-gta-6-that-could-be-revealed-in-netflixs-extended-look-2000722519" target="_blank">10 Things We Still Don’t Know About GTA 6 That Could Be Revealed In Netflix’s Extended Look</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-08-07 18:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/Google-AI-overview-official-image-from-Google-Blog-1280x720.jpg" alt="Google AI Somehow Leaked A Game Dev’s Content Plans Hidden Inside Their ‘Own Google Docs’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/google-ai-somehow-leaked-a-game-devs-content-plans-hidden-inside-their-own-google-docs-2000722497" target="_blank">Google AI Somehow Leaked A Game Dev’s Content Plans Hidden Inside Their ‘Own Google Docs’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-07 17:15</span>
             </div>
         </div>
 </div>
@@ -356,8 +360,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 102 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 22:23 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 102 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 23:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
