@@ -1,32 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-08-06 23:47:19 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-08-07 02:01:58 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 13 new posts out of 23 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, August 06, 2026 - 23:47 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Friday, August 07, 2026 - 02:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1786067447779_now_brk_blackburn_tenn_gov_260806_S3_1920x1080-d0fzm8.jpg" alt="Marsha Blackburn wins GOP primary for Tennessee governor, NBC News projects" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/marsha-blackburn-wins-gop-primary-for-tennessee-governor-nbc-news-projects-267918405516" target="_blank">Marsha Blackburn wins GOP primary for Tennessee governor, NBC News projects</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-07 01:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/David-Hearn-4-rt-gmh-260709_1783609937357_hpMain_4x3t_384.jpg" alt="Judge dismisses Reflecting Pool vandalism case against former Olympian" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/judge-dismisses-reflecting-pool-vandalism-case-former-olympian/story?id=135439996" target="_blank">Judge dismisses Reflecting Pool vandalism case against former Olympian</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-07 01:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/miller-1-gty-gmh-260806_1786048188509_hpMain_4x3t_384.jpg" alt="Trump signs executive orders that target birthright citizenship" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -61,6 +84,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dda8/live/d2df1990-91c4-11f1-8c3a-e79d623d823a.jpg" alt="Thousands of rail passengers hit by power failure disruption" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cn5nlvdxpwpo?at_medium=RSS&at_campaign=rss" target="_blank">Thousands of rail passengers hit by power failure disruption</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-06 22:35</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -69,38 +101,29 @@
                 <span class="time">2026-08-06 22:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-leipzig-airport-drone_7314553.jpg?20260805155142" alt="Explosive drone &#x27;serious attack&#x27; on Germany - as reports claim jet was carrying ammunition" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/leipzig-explosive-drone-serious-attack-on-germany-as-reports-claim-ukraine-jet-was-carrying-ammunition-13570500" target="_blank">Explosive drone &#x27;serious attack&#x27; on Germany - as reports claim jet was carrying ammunition</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-08-06 19:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/aug/06/ebola-virus-drc-mutating" target="_blank">Ebola virus behind massive outbreak in DRC could be mutating, officials say</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-08-06 16:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/845f/live/c0766280-9193-11f1-9e9c-c71e84be4584.jpg" alt="Trump denies US weapons shortage and says information &#x27;leakers&#x27; being &#x27;hunted down&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss" target="_blank">Trump denies US weapons shortage and says information &#x27;leakers&#x27; being &#x27;hunted down&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-06 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a749a84077eac6832213fdf/master/pass/BadKimi.jpg" alt="One of China’s Most Powerful AI Models Has Also Escaped Containment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/" target="_blank">One of China’s Most Powerful AI Models Has Also Escaped Containment</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-07 01:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-1328467063-500x500.jpg" alt="Organ donation group accused of trying to take living man&#x27;s organs faces shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/08/us-to-shutter-organ-donation-group-accused-of-trying-to-take-living-mans-organs/" target="_blank">Organ donation group accused of trying to take living man&#x27;s organs faces shutdown</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-06 22:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,29 +160,20 @@
                 <span class="time">2026-08-06 12:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6987b1c6829bf2e80f43c31b/master/pass/The%20Best%20AI%20Notetakers%20to%20Record%20Your%20Meetings,%20Interviews,%20or%20Classes.png" alt="5 Best AI Notetakers (2026), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-ai-notetakers/" target="_blank">5 Best AI Notetakers (2026), Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-06 12:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69be2db840d94f23d7df0aa5/master/pass/The-Best-Coffee-Subscriptions-to-Keep-You-Wired-in-2026.jpg" alt="12 Best Coffee Subscriptions (2026), Tested by Caffeine Hounds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-coffee-subscriptions/" target="_blank">12 Best Coffee Subscriptions (2026), Tested by Caffeine Hounds</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-06 10:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-Linux-7.3-Last-Round" target="_blank">AMD Squeezes In A Few More Graphics Driver Updates For Linux 7.3</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-07 00:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +219,6 @@
                 <span class="time">2026-08-06 12:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-WiFi-Strict-AI-Slop-Patch" target="_blank">Linux Wireless Maintainer Takes Firm Stance Against AI/LLM Generated Slop Patches</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-06 12:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -228,11 +233,29 @@
                 <span class="time">2026-08-06 17:00</span>
             </div>
         </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/08/adversarial-clothing-designed-to-fool-facial-recognition-systems.html" target="_blank">Adversarial Clothing Designed to Fool Facial Recognition Systems</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-08-06 11:04</span>
+            </div>
+        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/FFVII_Revelation_June_Screenshots_15-e1780874730693-1280x797.jpg" alt="Preservationist Spent $900 And Strung Together 90 GPUs To Save A Lost Final Fantasy 7 Spinoff" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/final-fantasy-7-dirge-of-cerberus-mobile-game-restored-2000722267" target="_blank">Preservationist Spent $900 And Strung Together 90 GPUs To Save A Lost Final Fantasy 7 Spinoff</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-06 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/Battery-1.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="MagSafe battery packs can charge AirPods and other earbuds too" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 46 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 23:47 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 46 | 📡 Total Sources: 40 | 📸 With Images: 255 |
+        🔄 Last Updated: 02:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
