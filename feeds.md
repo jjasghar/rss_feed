@@ -1,33 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-08-07 08:04:26 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-07 09:48:27 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Generated 2 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, August 07, 2026 - 08:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, August 07, 2026 - 09:48 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/7/several-killed-after-student-opens-fire-inside-thailand-school?traffic_source=rss" target="_blank">Several killed after student opens fire inside Thailand school</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-07 09:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,15 +93,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/now/video/marsha-blackburn-wins-gop-primary-for-tennessee-governor-nbc-news-projects-267918405516" target="_blank">Marsha Blackburn wins GOP primary for Tennessee governor, NBC News projects</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-08-07 01:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/David-Hearn-4-rt-gmh-260709_1783609937357_hpMain_4x3t_384.jpg" alt="Judge dismisses Reflecting Pool vandalism case against former Olympian" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/judge-dismisses-reflecting-pool-vandalism-case-former-olympian/story?id=135439996" target="_blank">Judge dismisses Reflecting Pool vandalism case against former Olympian</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-07 01:29</span>
             </div>
         </div>
 </div>
@@ -173,6 +171,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17404895/proxmox-virtual-environment-arm64-support" target="_blank">Proxmox Virtual Environment Officially Runs on ARM64, But Your Raspberry Pi Isn&#x27;t Supported Yet</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-08-07 06:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/liveavabot/liveavabot-developer-api-embed-telegram-video-avatar-conversion-in-your-app-36gh" target="_blank">LiveAvaBot Developer API: Embed Telegram Video Avatar Conversion in Your App</a></span>
                 <span class="feed">DEV Community</span>
@@ -204,15 +211,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Btrfs-Restores-Fixup-Worker" target="_blank">Linux 7.2-rc7 Restoring Btrfs Fixup Worker Infrastructure To Address Silent Data Loss</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-08-06 21:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344" target="_blank">AMD acquires Taalas to boost inference performance by etching models in silicon</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-06 20:23</span>
             </div>
         </div>
 </div>
@@ -325,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 50 | 📡 Total Sources: 40 | 📸 With Images: 256 |
-        🔄 Last Updated: 08:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 52 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 09:48 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
