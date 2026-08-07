@@ -1,31 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-08-07 10:40:18 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-08-07 11:35:57 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Error processing https://ubuntu.com/blog/feed: The read operation timed out -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 23 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, August 07, 2026 - 10:40 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, August 07, 2026 - 11:36 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/07/g-s1-137730/up-first-newsletter-trump-birthright-citizenship-iran-oman-strait-of-hormuz-anthony-fauci-mitch-mcconnell" target="_blank">Trump targets birthright citizenship. And, Iran aims to ban U.S. from Strait of Hormuz</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-07 10:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/patriot-missile-ht-jt-260806_1786056938601_hpMain_4x3t_384.jpg" alt="Crucial US missile stockpiles &#x27;extremely low&#x27;, official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,20 +105,20 @@
                 <span class="time">2026-08-07 07:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/thailand-school-shooting_1786085199868_hpMain_4x3t_384.jpg" alt="At least 6 people killed, more than a dozen injured in Thailand school shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/6-people-killed-dozen-injured-thailand-school-shooting/story?id=135447961" target="_blank">At least 6 people killed, more than a dozen injured in Thailand school shooting</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-07 06:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/976405/apple-telegram-ban-x-app-store-violations" target="_blank">Why does Apple keep banning Telegram, but never X?</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-07 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a74ce6cc44a52857403bf0a/master/pass/The-Best-Smart-Glasses-That-Aren%E2%80%99t-Just-a-Gimmick.jpg" alt="Ranking the Best Smart Glasses: Meta, Viture, &amp; More (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,20 +164,29 @@
                 <span class="time">2026-08-06 14:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/06/ebay-continues-to-bet-on-live-shopping-after-record-quarter/" target="_blank">eBay continues to bet on live shopping after record quarter</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-06 14:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/presentations/spotify-ai-codebase-migration-agent/en/mediumimage/medium-1784809804876.jpg" alt="Presentation: Rewriting All of Spotify&#x27;s Code Base, All the Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/spotify-ai-codebase-migration-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Rewriting All of Spotify&#x27;s Code Base, All the Time</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-07 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1e1vg0gjl5o" target="_blank">US strikes $1.2B deal to pay German firm to halt offshore wind projects</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-07 10:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,24 +223,6 @@
                 <span class="time">2026-08-07 06:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-Linux-7.3-Last-Round" target="_blank">AMD Squeezes In A Few More Graphics Driver Updates For Linux 7.3</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-07 00:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-august-7-2026-red-hat" target="_blank">Friday Five — August 7, 2026</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2026-08-07 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -221,19 +231,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/" target="_blank">Canadian Man Pleads Guilty in Snowflake Extortions</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2026-08-06 17:00</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/08/ice-is-buying-access-to-credit-card-records.html" target="_blank">ICE Is Buying Access to Credit Card Records</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-08-07 10:26</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/08/adversarial-clothing-designed-to-fool-facial-recognition-systems.html" target="_blank">Adversarial Clothing Designed to Fool Facial Recognition Systems</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-08-06 11:04</span>
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/" target="_blank">Canadian Man Pleads Guilty in Snowflake Extortions</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2026-08-06 17:00</span>
             </div>
         </div>
 </div>
@@ -323,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 52 | 📡 Total Sources: 40 | 📸 With Images: 254 |
-        🔄 Last Updated: 10:40 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 55 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 11:36 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
