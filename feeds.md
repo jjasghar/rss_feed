@@ -1,31 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-08-07 09:48:27 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-08-07 10:40:18 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, August 07, 2026 - 09:48 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, August 07, 2026 - 10:40 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +41,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/patriot-missile-ht-jt-260806_1786056938601_hpMain_4x3t_384.jpg" alt="Crucial US missile stockpiles &#x27;extremely low&#x27;, official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/crucial-us-missile-stockpiles-extremely-low-official/story?id=135428997" target="_blank">Crucial US missile stockpiles &#x27;extremely low&#x27;, official says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-07 10:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/7/hld-european-caution-slowing-us-push-for-hormuz-naval-coalition?traffic_source=rss" target="_blank">‘De-escalation’: Europe hesitates as US pushes for Hormuz naval mission</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-07 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/07/nx-s1-5922530/patients-betting-kalshi-polymarket-clinical-trials" target="_blank">Kalshi and Polymarket bets on clinical trials criticized as &#x27;ghastly&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-07 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,38 +95,20 @@
                 <span class="time">2026-08-07 06:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/7/mexico-deploys-troops-to-secure-avocado-region-after-us-halts-imports?traffic_source=rss" target="_blank">Mexico deploys troops to secure avocado region after US halts imports</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-07 05:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bb6/live/cb490b30-91c6-11f1-a7ab-8b30adf0800a.jpg" alt="Officer who led PC Harper investigation &#x27;appalled&#x27; killers could be released early" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c9q9erpz953o?at_medium=RSS&at_campaign=rss" target="_blank">Officer who led PC Harper investigation &#x27;appalled&#x27; killers could be released early</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-07 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1786067447779_now_brk_blackburn_tenn_gov_260806_S3_1920x1080-d0fzm8.jpg" alt="Marsha Blackburn wins GOP primary for Tennessee governor, NBC News projects" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/marsha-blackburn-wins-gop-primary-for-tennessee-governor-nbc-news-projects-267918405516" target="_blank">Marsha Blackburn wins GOP primary for Tennessee governor, NBC News projects</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-07 01:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a74ce6cc44a52857403bf0a/master/pass/The-Best-Smart-Glasses-That-Aren%E2%80%99t-Just-a-Gimmick.jpg" alt="Ranking the Best Smart Glasses: Meta, Viture, &amp; More (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-smart-glasses/" target="_blank">Ranking the Best Smart Glasses: Meta, Viture, &amp; More (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-07 10:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a749a84077eac6832213fdf/master/pass/BadKimi.jpg" alt="One of China’s Most Powerful AI Models Has Also Escaped Containment" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,20 +154,20 @@
                 <span class="time">2026-08-06 14:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/" target="_blank">Google Maps adds agentic features, including food ordering and hotel bookings</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-06 12:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-rc7-UAF-PTDUMP" target="_blank">Linux 7.2-rc7 Addresses A &quot;Nasty&quot; Race Condition Leading To Use-After-Free After 8 Years</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-07 10:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,15 +211,6 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-august-7-2026-red-hat" target="_blank">Friday Five — August 7, 2026</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-08-07 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Btrfs-Restores-Fixup-Worker" target="_blank">Linux 7.2-rc7 Restoring Btrfs Fixup Worker Infrastructure To Address Silent Data Loss</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-06 21:09</span>
             </div>
         </div>
 </div>
@@ -324,7 +324,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 28 | 📅 Last 24h: 52 | 📡 Total Sources: 40 | 📸 With Images: 254 |
-        🔄 Last Updated: 09:48 UTC
+        🔄 Last Updated: 10:40 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
