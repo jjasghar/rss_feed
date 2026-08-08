@@ -1,37 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-08-08 21:17:53 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-08 22:15:35 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Slashdot -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, August 08, 2026 - 21:18 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Saturday, August 08, 2026 - 22:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/08/nx-s1-5923592/tanker-sailors-still-face-danger-in-the-strait-of-hormuz" target="_blank">Tanker sailors still face danger in the Strait of Hormuz</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-08 21:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92dc/live/fa229770-934a-11f1-a35f-039358cea467.jpg" alt="Hormuz talks positive, Oman says, as Iran warns deal would not open strait" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,20 +103,20 @@
                 <span class="time">2026-08-08 17:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/8/opposition-mp-hurls-eggs-at-kosovo-prime-minister?traffic_source=rss" target="_blank">Opposition MP hurls eggs at Kosovo Prime Minister</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-08 16:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/" target="_blank">Planned Amazon data center could become the biggest climate polluter in the U.S.</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-08 21:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,15 +159,6 @@
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/report/976872/tom-vek-musician-entrepreneur-sleevenote-interview" target="_blank">Musician and entrepreneur Tom Vek is building a digital music player, but don’t call it retro</a></span>
                 <span class="feed">The Verge</span>
-                <span class="time">2026-08-08 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/" target="_blank">Google’s top hacker hunter explains why hacking groups get codenames</a></span>
-                <span class="feed">TechCrunch</span>
                 <span class="time">2026-08-08 15:00</span>
             </div>
         </div>
@@ -225,6 +227,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/reznorlynch.jpg" alt="Just About Everything Other Than The Music Sells Out In NIN’s 30th Anniversary Quake Collection" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/just-about-everything-other-than-the-music-sells-out-in-nins-30th-anniversary-quake-collection-2000722712" target="_blank">Just About Everything Other Than The Music Sells Out In NIN’s 30th Anniversary Quake Collection</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-08 21:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/Microsoft-Office-Professional-Plus-2019-for-Windows.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="From Word to Excel, score seven Microsoft Office apps for just $20 (MSRP $229)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/08/from-word-to-excel-score-seven-microsoft-office-apps-for-just-20-msrp-229.html" target="_blank">From Word to Excel, score seven Microsoft Office apps for just $20 (MSRP $229)</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-08 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/observer-1280x720.jpg" alt="Trump’s New E-Waste Policy Has Vintage Tech Collectors Anxious They’ll Be Caught In The Crossfire" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -260,24 +280,6 @@
                 <span class="time">2026-08-08 15:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/slop.jpg?fit=2222%2C1310&amp;quality=60&amp;ssl=1" alt="Roku launches 24 hour AI slop channel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/08/roku-launches-24-hour-ai-slop-channel.html" target="_blank">Roku launches 24 hour AI slop channel</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-08 15:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/Keihan_Kayashima_Station_280129_IMG_5431_20130707.jpg?fit=1200%2C1600&amp;quality=60&amp;ssl=1" alt="Why Osaka and Tokyo keep landing in the world&#x27;s top 10 cities" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/08/japan-liveable-cities-rules.html" target="_blank">Why Osaka and Tokyo keep landing in the world&#x27;s top 10 cities</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-08 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -297,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 87 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 21:18 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 22:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
