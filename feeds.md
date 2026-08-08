@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-08-08 17:18:56 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-08-08 18:20:10 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Error processing https://www.phoronix.com/rss.php: The read operation timed out -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Saturday, August 08, 2026 - 17:19 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, August 08, 2026 - 18:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/ballroom-national-security_1786179563881_hpMain_4x3t_384.jpg" alt="What makes Trump&#x27;s ballroom a matter of national security?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/makes-trumps-ballroom-matter-national-security/story?id=135478473" target="_blank">What makes Trump&#x27;s ballroom a matter of national security?</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-08 18:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +103,20 @@
                 <span class="time">2026-08-08 13:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-daniel-kinahan-ireland_7222935.jpg?20260418063645" alt="Irish government jet en route to Dubai to extradite alleged crime boss Daniel Kinahan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/irish-government-jet-en-route-to-dubai-to-fetch-alleged-crime-boss-daniel-kinahan-13570966" target="_blank">Irish government jet en route to Dubai to extradite alleged crime boss Daniel Kinahan</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-08-08 13:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant" target="_blank">An Amazon data center could have the worst polluting power plant in the country</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-08 17:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +162,20 @@
                 <span class="time">2026-08-08 14:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a763d9eaaeaaaadb9031470/master/pass/fotografia%20del%20sol.jpg" alt="The Sharpest Image Ever Taken of the Sun Reveals a Hidden Phenomenon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-sharpest-image-ever-taken-of-the-sun-reveals-a-beautiful-hidden-phenomenon/" target="_blank">The Sharpest Image Ever Taken of the Sun Reveals a Hidden Phenomenon</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-08 13:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vuthanhnguyen/banh-mi-a-journey-in-every-bite-vietnam-drawn-in-pure-css-m2p" target="_blank">Bánh Mì: A Journey in Every Bite — Vietnam Drawn in Pure CSS</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-08 18:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +219,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Wine-11.15-Released" target="_blank">Wine 11.15 Released With Wayland Fixes, Fix For A 20 Year Old MSXML3 Bug</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-08-08 13:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbl6r45l6r4eruscs77vj.png" alt="Microsoft 365 Agents SDK vs. Bot Framework: Rebuilding the Same Bot as an Agent" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/avinash247/microsoft-365-agents-sdk-vs-bot-framework-rebuilding-the-same-bot-as-an-agent-2f8" target="_blank">Microsoft 365 Agents SDK vs. Bot Framework: Rebuilding the Same Bot as an Agent</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-08 13:28</span>
             </div>
         </div>
 </div>
@@ -305,22 +308,13 @@
                 <span class="time">2026-08-08 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/08/07/one-incarnation-is-plenty" target="_blank">One Incarnation Is Plenty</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-08-07 17:31</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 98 | 📡 Total Sources: 40 | 📸 With Images: 254 |
-        🔄 Last Updated: 17:19 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 92 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 18:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
