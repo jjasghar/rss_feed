@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-08-08 00:44:56 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-08-08 02:48:14 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, August 08, 2026 - 00:45 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Saturday, August 08, 2026 - 02:48 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88c5/live/13d4b140-926e-11f1-a7ab-8b30adf0800a.jpg" alt="Police officers investigated over handling of sex offender who murdered two women" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c70g18vpwxvo?at_medium=RSS&at_campaign=rss" target="_blank">Police officers investigated over handling of sex offender who murdered two women</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-07 23:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be73/live/f8fae290-9024-11f1-a7ab-8b30adf0800a.jpg" alt="Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,15 +101,6 @@
                 <span class="time">2026-08-07 21:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve" target="_blank">Trump renews push to fire Fed Governor Lisa Cook</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-07 19:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -109,6 +113,15 @@
                 <span class="title"><a href="https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/" target="_blank">OpenAI says it slowed Astra model development over security concerns</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-08-07 22:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs" target="_blank">The gaming site sponsored by Walmart lays off its editorial staff</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-07 22:05</span>
             </div>
         </div>
 <div class="story">
@@ -147,20 +160,29 @@
                 <span class="time">2026-08-07 18:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/QUAKE_DLC_Xbox_TitledHero_1920x1080-02-JPG-9d514999ee7900fc9cfe-1600x900-1-500x500-1786124870.jpg" alt="New official 30th anniversary Quake mission pack adds new maps and mechanics" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2026/08/new-official-30th-anniversary-quake-mission-pack-adds-new-maps-and-mechanics/" target="_blank">New official 30th anniversary Quake mission pack adds new maps and mechanics</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-07 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nasrulhazim/dev-log-2026-08-07-scrubbing-secrets-reconciling-drift-and-extracting-a-book-engine-11g1" target="_blank">Dev Log: 2026-08-07 — scrubbing secrets, reconciling drift, and extracting a book engine</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-08 02:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/KDE-Plasma-6.8-Remote-Desktop" target="_blank">KDE Plasma 6.8 Improvements For UI, Built-In Remote Desktop Server</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-08 01:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,24 +217,6 @@
                 <span class="title"><a href="https://dev.to/cseeman/the-year-i-started-leaving-breadcrumbs-instead-of-notes-fe0" target="_blank">The Year I Started Leaving Breadcrumbs Instead of Notes</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-07 19:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-HIDPP-Reprogrammable" target="_blank">Linux 7.3 To Support Logitech HID++ 2.0 Reprogrammable Button Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-07 19:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://arcprize.org/results/deepseek-v4-flash-0731" target="_blank">DeepSeek V4 Flash 0731</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-07 17:56</span>
             </div>
         </div>
 </div>
@@ -361,8 +365,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 102 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 00:45 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 103 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 02:48 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
