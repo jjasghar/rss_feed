@@ -1,29 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-08-08 07:39:06 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-08 08:25:50 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 21 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, August 08, 2026 - 07:39 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Saturday, August 08, 2026 - 08:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/wirestory_a50b86875105a299498b846184a3736d_4x3_384.jpg" alt="Senate approves funding bill to avoid a shutdown before the election" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/wireStory/senate-approves-funding-bill-avoid-shutdown-election-135478157" target="_blank">Senate approves funding bill to avoid a shutdown before the election</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-08 08:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-08/260807-us-capitol-building-ew-1002a-8b515f.jpg" alt="Senate passes short-term bill to prevent a shutdown before the midterm elections" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/congress/senate-passes-short-term-bill-prevent-shutdown-midterm-elections-rcna591359" target="_blank">Senate passes short-term bill to prevent a shutdown before the midterm elections</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-08 08:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b197/live/482ab100-92fb-11f1-8be0-a30ab74e1157.jpg" alt="Widdecombe police reopen investigation into incident at Farage&#x27;s home, BBC understands" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss" target="_blank">Widdecombe police reopen investigation into incident at Farage&#x27;s home, BBC understands</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-08 06:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f243/live/91487a70-92dd-11f1-87f4-4f87722fb492.jpg" alt="Child among three killed in Russian missile attacks near Kyiv" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -66,38 +99,20 @@
                 <span class="time">2026-08-08 03:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88c5/live/13d4b140-926e-11f1-a7ab-8b30adf0800a.jpg" alt="Police officers investigated over handling of sex offender who murdered two women" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c70g18vpwxvo?at_medium=RSS&at_campaign=rss" target="_blank">Police officers investigated over handling of sex offender who murdered two women</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-07 23:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1786145608365_nn_gso_WaterCrisis_260807_S3_1920x1080-ea0zji.jpg" alt="Hundreds of thousands without water in Puerto Rico" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/hundreds-of-thousands-without-water-in-puerto-rico-267970117910" target="_blank">Hundreds of thousands without water in Puerto Rico</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-07 23:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be73/live/f8fae290-9024-11f1-a7ab-8b30adf0800a.jpg" alt="Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss" target="_blank">Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-07 22:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery" target="_blank">Nitecore’s latest power bank is the lightest and most compact yet</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-08 07:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,20 +158,29 @@
                 <span class="time">2026-08-07 18:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak" target="_blank">The only instant cameras worth your money</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-07 18:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/08/cloudflare-precursor-detection/en/headerimage/generatedHeaderImage-1784634999305.jpg" alt="Cloudflare&#x27;s Precursor Detects Bots and AI Agents Through Continuous Behavioral Analysis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/08/cloudflare-precursor-detection/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare&#x27;s Precursor Detects Bots and AI Agents Through Continuous Behavioral Analysis</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-08 07:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/xoreaxeaxeax/rosenbridge" target="_blank">Hardware backdoors in some x86 CPUs</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-08 07:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -191,24 +215,6 @@
                 <span class="title"><a href="https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year" target="_blank">NASA to keep its 48-year-old Voyager 2 probe running for yet another year</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-08-08 01:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413" target="_blank">The Nixpkgs core team has disbanded</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-08 01:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/KDE-Plasma-6.8-Remote-Desktop" target="_blank">KDE Plasma 6.8 Improvements For UI, Built-In Remote Desktop Server</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-08 01:01</span>
             </div>
         </div>
 </div>
@@ -330,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 104 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 07:39 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 259 |
+        🔄 Last Updated: 08:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
