@@ -1,37 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-08-08 02:48:14 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-08 04:02:11 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 3 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, August 08, 2026 - 02:48 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, August 08, 2026 - 04:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +38,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/8/saudi-intelligence-chief-meets-iraqi-pm-renews-riyadh-visit-invitation?traffic_source=rss" target="_blank">Saudi intelligence chief meets Iraqi PM, renews Riyadh visit invitation</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-08 03:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88c5/live/13d4b140-926e-11f1-a7ab-8b30adf0800a.jpg" alt="Police officers investigated over handling of sex offender who murdered two women" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,15 +90,6 @@
                 <span class="title"><a href="https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy" target="_blank">Spain to introduce temporary border checks on visitors from Italy</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2026-08-07 21:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4ab/live/a4507d00-9285-11f1-a7ab-8b30adf0800a.jpg" alt="Police failings revealed as sex offender left free to murder and attack women" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c8jnrk4xlvdo?at_medium=RSS&at_campaign=rss" target="_blank">Police failings revealed as sex offender left free to murder and attack women</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-07 21:10</span>
             </div>
         </div>
 </div>
@@ -177,6 +168,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413" target="_blank">The Nixpkgs core team has disbanded</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-08 01:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/KDE-Plasma-6.8-Remote-Desktop" target="_blank">KDE Plasma 6.8 Improvements For UI, Built-In Remote Desktop Server</a></span>
                 <span class="feed">Phoronix</span>
@@ -208,15 +208,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/08/cloudflare-computer-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Launches Persistent, Stateful, Computer-like Environments for Agents</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-08-07 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/cseeman/the-year-i-started-leaving-breadcrumbs-instead-of-notes-fe0" target="_blank">The Year I Started Leaving Breadcrumbs Instead of Notes</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-07 19:39</span>
             </div>
         </div>
 </div>
@@ -351,22 +342,13 @@
                 <span class="time">2026-08-07 04:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/trick_play.png" alt="Trick Play" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3282/" target="_blank">Trick Play</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-08-07 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 103 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 02:48 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 104 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 04:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
