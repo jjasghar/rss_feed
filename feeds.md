@@ -1,32 +1,47 @@
-<!-- Processing 54 RSS feeds at 2026-08-08 14:21:15 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-08 15:17:41 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 1 new posts out of 23 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 39 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Saturday, August 08, 2026 - 14:21 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, August 08, 2026 - 15:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,9 +61,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2?traffic_source=rss" target="_blank">UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-08 15:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/8/war-on-iran-phase-ii-day-28?traffic_source=rss" target="_blank">War on Iran: Phase II: Day 28</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-08 14:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-daniel-kinahan-ireland_7222935.jpg?20260418063645" alt="Irish government jet en route to Dubai to extradite alleged crime boss Daniel Kinahan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/irish-government-jet-en-route-to-dubai-to-fetch-alleged-crime-boss-daniel-kinahan-13570966" target="_blank">Irish government jet en route to Dubai to extradite alleged crime boss Daniel Kinahan</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-08-08 13:11</span>
             </div>
         </div>
 <div class="story">
@@ -78,29 +111,38 @@
                 <span class="time">2026-08-08 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/8/8/yemens-collapsing-healthcare-forces-the-sick-to-seek-alternative-medicines?traffic_source=rss" target="_blank">Yemen’s collapsing healthcare forces the sick to seek alternative medicines</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-08 10:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/08/nx-s1-5874719/federal-funds-cant-be-used-to-give-test-strips-to-drug-users-raising-overdose-fears" target="_blank">Federal funds can&#x27;t be used to give test strips to drug users, raising overdose fears</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-08 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/report/976872/tom-vek-musician-entrepreneur-sleevenote-interview" target="_blank">Musician and entrepreneur Tom Vek is building a digital music player, but don’t call it retro</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-08 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/" target="_blank">Google’s top hacker hunter explains why hacking groups get codenames</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-08 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a7630b55d2ebc1c5247b509/master/pass/GettyImages-157580450-edited.jpg" alt="Census Proposal Would Stop Counting Undocumented Immigrants—and Ignore Race and Sexual Orientation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/census-proposal-would-stop-counting-undocumented-immigrants-and-ignore-race-and-sexual-orientation/" target="_blank">Census Proposal Would Stop Counting Undocumented Immigrants—and Ignore Race and Sexual Orientation</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-08 14:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a763d9eaaeaaaadb9031470/master/pass/fotografia%20del%20sol.jpg" alt="The Sharpest Image Ever Taken of the Sun Reveals a Hidden Phenomenon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -128,38 +170,29 @@
                 <span class="time">2026-08-08 11:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/12/hurricane-500x500.jpg" alt="DeepMind’s hurricane model bought forecasters an extra day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/" target="_blank">DeepMind’s hurricane model bought forecasters an extra day</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-08 11:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a75b644a7eaec3ecd711279/master/pass/GoolgeNoAI.jpg" alt="How to Disable Gemini in Gmail and Google Docs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/" target="_blank">How to Disable Gemini in Gmail and Google Docs</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-08 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery" target="_blank">Nitecore’s latest power bank is the lightest and most compact yet</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-08 07:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vin-patel/what-is-actually-inside-the-does-genesis-open-models-initiative-1joi" target="_blank">What Is Actually Inside the DOE&#x27;s Genesis Open Models Initiative?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-08 15:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wine-11.15-Released" target="_blank">Wine 11.15 Released With Wayland Fixes, Fix For A 20 Year Old MSXML3 Bug</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-08 13:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbl6r45l6r4eruscs77vj.png" alt="Microsoft 365 Agents SDK vs. Bot Framework: Rebuilding the Same Bot as an Agent" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -194,24 +227,6 @@
                 <span class="title"><a href="https://dev.to/voxpupuli/vox-pupuli-container-statistics-ph3" target="_blank">Vox Pupuli Container Statistics</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-08 11:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-rc7-HWMON" target="_blank">HWMON Fixes For Linux 7.2-rc7: &quot;Most Of Them Fixing Critical Or High Severity Bugs&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-08 10:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sunverseai/launch-day-fire-how-i-fixed-a-silent-production-crash-on-my-legal-ai-infrastructure-3gi" target="_blank">Launch Day Fire: How I Fixed a &quot;Silent&quot; Production Crash on My Legal AI Infrastructure</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-08 09:19</span>
             </div>
         </div>
 </div>
@@ -324,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 103 | 📡 Total Sources: 40 | 📸 With Images: 255 |
-        🔄 Last Updated: 14:21 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 98 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 15:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
