@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-08-08 08:25:50 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-08 09:25:23 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Saturday, August 08, 2026 - 08:25 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, August 08, 2026 - 09:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/08/g-s1-137853/data-centers-primaries-midterms" target="_blank">Data centers are a political issue crossing party lines, driving voters to candidates</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-08 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/8/8/argentina-fa-chief-says-messi-is-the-only-one-to-decide-when-he-retires?traffic_source=rss" target="_blank">Messi will decide when he retires, says Argentina FA chief</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-08 08:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/wirestory_a50b86875105a299498b846184a3736d_4x3_384.jpg" alt="Senate approves funding bill to avoid a shutdown before the election" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,24 +96,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss" target="_blank">Child among three killed in Russian missile attacks near Kyiv</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-08-08 06:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/8/8/nba-star-brandon-clarke-died-from-heroin-cocaine-effects-examiner-rules?traffic_source=rss" target="_blank">NBA star Brandon Clarke died from heroin, cocaine effects, examiner rules</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-08 06:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/8/saudi-intelligence-chief-meets-iraqi-pm-renews-riyadh-visit-invitation?traffic_source=rss" target="_blank">Saudi intelligence chief meets Iraqi PM, renews Riyadh visit invitation</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-08 03:42</span>
             </div>
         </div>
 </div>
@@ -164,6 +163,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sunverseai/launch-day-fire-how-i-fixed-a-silent-production-crash-on-my-legal-ai-infrastructure-3gi" target="_blank">Launch Day Fire: How I Fixed a &quot;Silent&quot; Production Crash on My Legal AI Infrastructure</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-08 09:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/openai-performance-engineering-agentic-coding/en/mediumimage/MartinSpier-medium-1785314358072.jpeg" alt="Presentation: Keeping ChatGPT Fast as AI Development Accelerates" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/openai-performance-engineering-agentic-coding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Keeping ChatGPT Fast as AI Development Accelerates</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-08 09:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/08/cloudflare-precursor-detection/en/headerimage/generatedHeaderImage-1784634999305.jpg" alt="Cloudflare&#x27;s Precursor Detects Bots and AI Agents Through Continuous Behavioral Analysis" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -197,24 +214,6 @@
                 <span class="title"><a href="https://dev.to/nasrulhazim/dev-log-2026-08-07-scrubbing-secrets-reconciling-drift-and-extracting-a-book-engine-11g1" target="_blank">Dev Log: 2026-08-07 — scrubbing secrets, reconciling drift, and extracting a book engine</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-08 02:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/08/dyamic-music-pill-lyrics.webp?resize=406%2C232&amp;ssl=1" alt="Dynamic Music Pill adds word-by-word lyrics highlighting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/dynamic-music-pill-update-lyrics" target="_blank">Dynamic Music Pill adds word-by-word lyrics highlighting</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-08-08 02:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year" target="_blank">NASA to keep its 48-year-old Voyager 2 probe running for yet another year</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-08 01:49</span>
             </div>
         </div>
 </div>
@@ -336,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 259 |
-        🔄 Last Updated: 08:25 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 111 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 09:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
