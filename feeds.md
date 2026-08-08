@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-08-08 16:18:05 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-08 17:18:56 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 10 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Saturday, August 08, 2026 - 16:18 UTC</div>
+    <div class="newspaper-date">Saturday, August 08, 2026 - 17:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +108,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/" target="_blank">X replaces ‘misaligned’ revenue sharing program with Original Content Rewards</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-08 16:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/business/977112/buc-ees-john-oliver-lawsuit-beaver-mini-mart" target="_blank">Buc-ee’s dodges John Oliver to sue another small business</a></span>
                 <span class="feed">The Verge</span>
@@ -151,20 +159,29 @@
                 <span class="time">2026-08-08 13:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review" target="_blank">Is this $450 laptop from an unknown brand too good to be true?</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-08 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/darkssel/why-does-a-new-windows-process-appear-every-time-i-start-my-pc-19ml" target="_blank">Why Does a New Windows Process Appear Every Time I Start My PC?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-08 17:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Polychromatic-0.9.8-Released" target="_blank">Polychromatic 0.9.8 Released With Razer Blade 16 2023 Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-08 16:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,24 +218,6 @@
                 <span class="time">2026-08-08 13:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/maru0122/building-a-chrome-extension-to-auto-save-gemini-chat-logs-using-ai-part-1-4op3" target="_blank">Building a Chrome Extension to Auto-Save Gemini Chat Logs using AI (Part 1)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-08 12:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GNOME-Design-Fellowship" target="_blank">GNOME Receiving Additional Design Help Thanks To Sovereign Tech Agency Fellowship</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-08 11:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/Main-Inouye-Image-Horizontal-scaled.jpg?fit=2560%2C1756&amp;quality=60&amp;ssl=1" alt="The sharpest pictures ever taken of the Sun show it swirling" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/08/sun-kelvin-helmholtz-vortices.html" target="_blank">The sharpest pictures ever taken of the Sun show it swirling</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-08 16:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/Project-Zomboid-Main-Artwork-The-Indie-Stone-1280x720.jpg" alt="Project Zomboid Fans Create Petition After Devs Revoke Access To Community Map" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +291,6 @@
                 <span class="time">2026-08-07 21:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/LifeLock-Core-Identity-Theft-Protection.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="This $100 subscription helps protect against identity theft and financial fraud" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/07/this-100-subscription-helps-protect-against-identity-theft-and-financial-fraud.html" target="_blank">This $100 subscription helps protect against identity theft and financial fraud</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-07 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 98 | 📡 Total Sources: 40 | 📸 With Images: 255 |
-        🔄 Last Updated: 16:18 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 98 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 17:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
