@@ -1,28 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-08-08 04:02:11 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-08-08 05:34:11 UTC -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 20 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, August 08, 2026 - 04:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, August 08, 2026 - 05:34 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -159,10 +171,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17405401/open-search-bianca-lewis" target="_blank">OpenSearch Is Done Being Called &quot;the Elasticsearch Fork&quot;</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-08-08 04:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/nasrulhazim/dev-log-2026-08-07-scrubbing-secrets-reconciling-drift-and-extracting-a-book-engine-11g1" target="_blank">Dev Log: 2026-08-07 — scrubbing secrets, reconciling drift, and extracting a book engine</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-08 02:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/08/dyamic-music-pill-lyrics.webp?resize=406%2C232&amp;ssl=1" alt="Dynamic Music Pill adds word-by-word lyrics highlighting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/dynamic-music-pill-update-lyrics" target="_blank">Dynamic Music Pill adds word-by-word lyrics highlighting</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-08-08 02:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year" target="_blank">NASA to keep its 48-year-old Voyager 2 probe running for yet another year</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-08 01:49</span>
             </div>
         </div>
 <div class="story">
@@ -181,33 +220,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/KDE-Plasma-6.8-Remote-Desktop" target="_blank">KDE Plasma 6.8 Improvements For UI, Built-In Remote Desktop Server</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-08-08 01:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/multigrid/notebooks-for-llm-work-without-the-usual-mess-jia" target="_blank">Notebooks for LLM Work Without the Usual Mess</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-08 00:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/multigrid/air-gapped-and-offline-deployments-2mc3" target="_blank">Air-Gapped and Offline Deployments</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-07 22:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/08/cloudflare-computer-agents/en/headerimage/cloudflare-computer-agents-1786134762378.jpeg" alt="Cloudflare Launches Persistent, Stateful, Computer-like Environments for Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/08/cloudflare-computer-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Launches Persistent, Stateful, Computer-like Environments for Agents</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-07 21:00</span>
             </div>
         </div>
 </div>
@@ -333,22 +345,13 @@
                 <span class="time">2026-08-07 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5890.png" alt="Don&#x27;t Go Breakin&#x27; Her Heart" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5890" target="_blank">Don&#x27;t Go Breakin&#x27; Her Heart</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-08-07 04:07</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 104 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 04:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 05:34 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
