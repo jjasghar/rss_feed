@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-08-09 15:19:28 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-08-09 16:19:55 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, August 09, 2026 - 15:19 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Sunday, August 09, 2026 - 16:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +50,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/features/2026/8/9/gazas-children-still-struggling-with-hunger-as-another-famine-threatens?traffic_source=rss" target="_blank">Gaza’s children still struggling with hunger as another famine threatens</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-09 14:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/netanyahu-trump-cw-gty-20260809_1786282761276_hpMain_4x3t_384.jpg" alt="Netanyahu rejects Board of Peace 15-point peace plan until Hamas &#x27;truly disarmed&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/netanyahu-rejects-board-peace-15-point-peace-plan/story?id=135497376" target="_blank">Netanyahu rejects Board of Peace 15-point peace plan until Hamas &#x27;truly disarmed&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-09 14:36</span>
             </div>
         </div>
 <div class="story">
@@ -84,19 +91,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/9/nigeria-mass-weddings-ease-financial-burden-for-couples?traffic_source=rss" target="_blank">Nigeria mass weddings ease financial burden for couples</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-09 12:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/hormuz-strait-_1786273097738_hpMain_4x3t_384.jpg" alt="Iran live updates: US, Iran passing messages through intermediaries, Tehran says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trump-deal-imminent-iran-oman/?id=135317231" target="_blank">Iran live updates: US, Iran passing messages through intermediaries, Tehran says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-09 12:07</span>
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/09/nx-s1-5925960/trump-hoover-iran" target="_blank">Haunted by Hoover, Trump searches for an endgame in Iran</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-09 12:39</span>
             </div>
         </div>
 </div>
@@ -104,6 +102,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/" target="_blank">TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-09 16:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +156,20 @@
                 <span class="time">2026-08-09 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/" target="_blank">Planned Amazon data center could become the biggest climate polluter in the U.S.</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-08 21:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Qualcomm-Kuno-SoC-Linux" target="_blank">Qualcomm Posts Linux Patches For Kuno SoC Support: Cortex-A7 Platform In 2026</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-09 15:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,20 +215,20 @@
                 <span class="time">2026-08-09 09:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jackm-singularity/ai-agent-distress-signal-let-stuck-workflows-ask-for-help-46hi" target="_blank">AI Agent Distress Signal: Let Stuck Workflows Ask for Help</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-09 08:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/liamwitcher.jpg" alt="Netflix’s Final Season Of The Witcher Unexpectedly Pushed Back To 2027" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/netflixs-final-season-of-the-witcher-reportedly-pushed-back-to-2027-2000722796" target="_blank">Netflix’s Final Season Of The Witcher Unexpectedly Pushed Back To 2027</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-09 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/asmongold-youtube-1280x775.jpg" alt="Asmongold Says Twitch Banned Him For 14 Days After Latest Vile Comments: ‘I’m Not Sorry’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,27 +274,18 @@
                 <span class="time">2026-08-08 19:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/1280px-Admiralty_Chart_No_3472_Plans_in_Hiroshima_Wan2C_Published_1961.jpg?fit=1280%2C1881&amp;quality=60&amp;ssl=1" alt="A new alloy turned up in a grain of sand from Hiroshima Bay" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/08/hiroshima-blast-alloy.html" target="_blank">A new alloy turned up in a grain of sand from Hiroshima Bay</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-08 16:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
-            <img src="https://www.smbc-comics.com/comics/1785959172-20260808.png" alt="Saturday Morning Breakfast Cereal - Fur" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1786238482-20260809.png" alt="Saturday Morning Breakfast Cereal - Simulation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/fur" target="_blank">Saturday Morning Breakfast Cereal - Fur</a></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/simulation-6" target="_blank">Saturday Morning Breakfast Cereal - Simulation</a></span>
                 <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-08-08 15:20</span>
+                <span class="time">2026-08-09 15:20</span>
             </div>
         </div>
 </div>
@@ -296,7 +294,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 40 | 📸 With Images: 247 |
-        🔄 Last Updated: 15:19 UTC
+        🔄 Last Updated: 16:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
