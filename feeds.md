@@ -1,30 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-08-09 20:18:02 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-09 21:19:54 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Sunday, August 09, 2026 - 20:18 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, August 09, 2026 - 21:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -61,6 +70,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/09/nx-s1-5926459/netanyahu-rejects-trump-gaza-peace-plan-israel-hamas" target="_blank">Netanyahu rejects Trump&#x27;s Gaza Peace Plan, demands Hamas disarm first</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-09 18:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/8/9/jannik-sinner-withdraws-from-cincinnati-open-with-knee-injury?traffic_source=rss" target="_blank">Jannik Sinner withdraws from Cincinnati Open with knee injury</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
@@ -83,15 +101,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/features/2026/8/9/gazas-children-still-struggling-with-hunger-as-another-famine-threatens?traffic_source=rss" target="_blank">Gaza’s children still struggling with hunger as another famine threatens</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-09 14:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/netanyahu-trump-cw-gty-20260809_1786282761276_hpMain_4x3t_384.jpg" alt="Netanyahu rejects Board of Peace 15-point peace plan until Hamas &#x27;truly disarmed&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/netanyahu-rejects-board-peace-15-point-peace-plan/story?id=135497376" target="_blank">Netanyahu rejects Board of Peace 15-point peace plan until Hamas &#x27;truly disarmed&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-09 14:36</span>
             </div>
         </div>
 </div>
@@ -170,6 +179,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/" target="_blank">How I use LLMs to learn complex topics</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-09 19:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/CachyOS-August-2026" target="_blank">CachyOS August 2026 Release Preps For Upcoming Server Edition</a></span>
                 <span class="feed">Phoronix</span>
@@ -201,15 +219,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Qualcomm-Kuno-SoC-Linux" target="_blank">Qualcomm Posts Linux Patches For Kuno SoC Support: Cortex-A7 Platform In 2026</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-08-09 15:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981" target="_blank">Criminal Deception in Silicon Valley</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-09 15:26</span>
             </div>
         </div>
 </div>
@@ -290,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 39 | 📸 With Images: 251 |
-        🔄 Last Updated: 20:18 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 39 | 📸 With Images: 249 |
+        🔄 Last Updated: 21:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
