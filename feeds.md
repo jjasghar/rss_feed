@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-08-09 06:35:32 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-08-09 07:43:00 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, August 09, 2026 - 06:35 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Sunday, August 09, 2026 - 07:43 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -82,21 +86,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-gianni-infantino-fifa-president_7312054.jpg?20260801225044" alt="FIFA attacks critics trying to &#x27;undermine&#x27; Gianni Infantino" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/fifa-attacks-critics-trying-to-undermine-gianni-infantino-13571263" target="_blank">FIFA attacks critics trying to &#x27;undermine&#x27; Gianni Infantino</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-08-08 23:42</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1786231059875_wnn_ksi_iran_demands_260808_S3_1920x1080-t5sc7r.jpg" alt="Iran issues new demands over Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/iran-issues-new-demands-over-strait-of-hormuz-267997253547" target="_blank">Iran issues new demands over Strait of Hormuz</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-08-08 23:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0be/live/6ec0ba10-937f-11f1-a7ab-8b30adf0800a.jpg" alt="Andy Burnham to embark on cost of living tour through the UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c0l5j8y388lo?at_medium=RSS&at_campaign=rss" target="_blank">Andy Burnham to embark on cost of living tour through the UK</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-08 23:10</span>
             </div>
         </div>
 </div>
@@ -167,6 +171,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shashank1719/switchboard-building-a-tool-router-so-your-ai-agent-stops-drowning-in-mcp-tools-53hm" target="_blank">Switchboard: building a tool router so your AI agent stops drowning in MCP tools</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-09 07:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/08/database-remediation-graph/en/headerimage/generatedHeaderImage-1785167911858.jpg" alt="Stripe Uses Graph Search and State Machines to Automate Database Remediation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/08/database-remediation-graph/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Stripe Uses Graph Search and State Machines to Automate Database Remediation</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-09 06:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/sarantoon/amd-epidtaw-instella-moe-16b-a3b-omedl-ai-thiiethrndwy-gpu-khngtaweng-aimphueng-nvidia-4868" target="_blank">AMD เปิดตัว Instella-MoE-16B-A3B — โมเดล AI ที่เทรนด้วย GPU ของตัวเอง ไม่พึ่ง Nvidia</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-09 06:33</span>
@@ -197,24 +219,6 @@
                 <span class="title"><a href="https://dev.to/trismegistus/shopify-replaced-redis-with-mysql-for-inventory-reservations-and-it-scaled-better-4ak9" target="_blank">Shopify Replaced Redis With MySQL for Inventory Reservations — and It Scaled Better</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-09 04:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/03/orion-beta.jpg?resize=406%2C232&amp;ssl=1" alt="Orion for Linux beta update adds private browsing and link previews" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/orion-for-linux-0-4-1-beta" target="_blank">Orion for Linux beta update adds private browsing and link previews</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-08-09 02:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/joy_zhang_416a71128c140c9/how-to-convert-time-to-decimal-hours-the-simple-formula-behind-timesheet-calculations-47f1" target="_blank">How to Convert Time to Decimal Hours: The Simple Formula Behind Timesheet Calculations</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-09 02:46</span>
             </div>
         </div>
 </div>
@@ -295,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 40 | 📸 With Images: 247 |
-        🔄 Last Updated: 06:35 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 86 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 07:43 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
