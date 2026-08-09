@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-08-09 07:43:00 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-08-09 08:28:26 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, August 09, 2026 - 07:43 UTC</div>
+    <div class="newspaper-date">Sunday, August 09, 2026 - 08:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/9/saudi-arabia-says-fire-extinguished-at-aramco-facility-in-jizan?traffic_source=rss" target="_blank">Saudi Arabia says fire extinguished at Aramco facility in Jizan</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-09 07:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,15 +97,6 @@
                 <span class="title"><a href="https://news.sky.com/story/fifa-attacks-critics-trying-to-undermine-gianni-infantino-13571263" target="_blank">FIFA attacks critics trying to &#x27;undermine&#x27; Gianni Infantino</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-08-08 23:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1786231059875_wnn_ksi_iran_demands_260808_S3_1920x1080-t5sc7r.jpg" alt="Iran issues new demands over Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/iran-issues-new-demands-over-strait-of-hormuz-267997253547" target="_blank">Iran issues new demands over Strait of Hormuz</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-08 23:17</span>
             </div>
         </div>
 </div>
@@ -171,6 +167,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jackm-singularity/ai-agent-distress-signal-let-stuck-workflows-ask-for-help-46hi" target="_blank">AI Agent Distress Signal: Let Stuck Workflows Ask for Help</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-09 08:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/shashank1719/switchboard-building-a-tool-router-so-your-ai-agent-stops-drowning-in-mcp-tools-53hm" target="_blank">Switchboard: building a tool router so your AI agent stops drowning in MCP tools</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-09 07:26</span>
@@ -210,15 +215,6 @@
                 <span class="title"><a href="https://longbets.org/601/" target="_blank">&quot;The original URL for this prediction will no longer be available in 11 years.&quot; (2011)</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-08-09 04:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/trismegistus/shopify-replaced-redis-with-mysql-for-inventory-reservations-and-it-scaled-better-4ak9" target="_blank">Shopify Replaced Redis With MySQL for Inventory Reservations — and It Scaled Better</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-09 04:02</span>
             </div>
         </div>
 </div>
@@ -299,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 86 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 07:43 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 08:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
