@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-08-09 05:39:15 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-08-09 06:35:32 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: The Verge -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 26 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, August 09, 2026 - 05:39 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, August 09, 2026 - 06:35 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +49,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/9/wildfire-forces-thousands-of-evacuations-in-western-canada?traffic_source=rss" target="_blank">Wildfire forces thousands of evacuations in Western Canada</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-09 06:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/8/9/helicopter-crash-kills-pilot-and-crew-member-amid-utah-wildfire-battle?traffic_source=rss" target="_blank">Helicopter crash kills pilot and crew member amid Utah wildfire battle</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-09 03:09</span>
@@ -60,6 +70,15 @@
                 <span class="title"><a href="https://www.npr.org/2026/08/08/nx-s1-5925939/solar-eclipse-august-2026" target="_blank">Solar eclipse to occur next week. Here is what to know</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-08-09 00:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52b5/live/810aa740-917b-11f1-b8ee-9b3c26ad07bb.jpg" alt="Israel accused of weaponising archaeology at ancient West Bank sites" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss" target="_blank">Israel accused of weaponising archaeology at ancient West Bank sites</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-08 23:43</span>
             </div>
         </div>
 <div class="story">
@@ -78,24 +97,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/c0l5j8y388lo?at_medium=RSS&at_campaign=rss" target="_blank">Andy Burnham to embark on cost of living tour through the UK</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-08-08 23:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/8/car-bomb-attack-rattles-colombia-after-inauguration-of-hardline-president?traffic_source=rss" target="_blank">Car bomb attack rattles Colombia after inauguration of hardline president</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-08 22:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/08/nx-s1-5923592/tanker-sailors-still-face-danger-in-the-strait-of-hormuz" target="_blank">Tanker sailors still face danger in the Strait of Hormuz</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-08 21:19</span>
             </div>
         </div>
 </div>
@@ -165,6 +166,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sarantoon/amd-epidtaw-instella-moe-16b-a3b-omedl-ai-thiiethrndwy-gpu-khngtaweng-aimphueng-nvidia-4868" target="_blank">AMD เปิดตัว Instella-MoE-16B-A3B — โมเดล AI ที่เทรนด้วย GPU ของตัวเอง ไม่พึ่ง Nvidia</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-09 06:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="http://longbets.org/601/" target="_blank">The original URL for this prediction will no longer be available in 11 years (2011)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-09 04:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://longbets.org/601/" target="_blank">&quot;The original URL for this prediction will no longer be available in 11 years.&quot; (2011)</a></span>
                 <span class="feed">Hacker News</span>
@@ -196,24 +215,6 @@
                 <span class="title"><a href="https://dev.to/joy_zhang_416a71128c140c9/how-to-convert-time-to-decimal-hours-the-simple-formula-behind-timesheet-calculations-47f1" target="_blank">How to Convert Time to Decimal Hours: The Simple Formula Behind Timesheet Calculations</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-09 02:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/ASUS-ROG-Ryujin-3-Linux" target="_blank">New Linux Patches Enable ASUS ROG Ryujin III Monitoring Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-09 00:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ai_maya_063fc568e157562fd/local-llms-in-2026-what-actually-runs-well-on-a-laptop-now-hk1" target="_blank">Local LLMs in 2026: What Actually Runs Well on a Laptop Now</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-09 00:23</span>
             </div>
         </div>
 </div>
@@ -294,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 84 | 📡 Total Sources: 40 | 📸 With Images: 248 |
-        🔄 Last Updated: 05:39 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 40 | 📸 With Images: 247 |
+        🔄 Last Updated: 06:35 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
