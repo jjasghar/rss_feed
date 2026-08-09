@@ -1,37 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-08-09 00:48:34 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-09 02:55:33 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Generated 2 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Sunday, August 09, 2026 - 00:48 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, August 09, 2026 - 02:55 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/08/nx-s1-5925939/solar-eclipse-august-2026" target="_blank">Solar eclipse to occur next week. Here is what to know</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-09 00:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1786231059875_wnn_ksi_iran_demands_260808_S3_1920x1080-t5sc7r.jpg" alt="Iran issues new demands over Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,15 +94,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss" target="_blank">Hormuz talks positive, Oman says, as Iran warns deal would not open strait</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-08-08 19:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/8/at-least-200-people-evacuated-as-wildfire-rages-near-lake-garda?traffic_source=rss" target="_blank">At least 200 people evacuated as wildfire rages near Lake Garda</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-08 19:13</span>
             </div>
         </div>
 </div>
@@ -169,6 +164,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/joy_zhang_416a71128c140c9/how-to-convert-time-to-decimal-hours-the-simple-formula-behind-timesheet-calculations-47f1" target="_blank">How to Convert Time to Decimal Hours: The Simple Formula Behind Timesheet Calculations</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-09 02:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ai_maya_063fc568e157562fd/local-llms-in-2026-what-actually-runs-well-on-a-laptop-now-hk1" target="_blank">Local LLMs in 2026: What Actually Runs Well on a Laptop Now</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-09 00:23</span>
@@ -208,15 +212,6 @@
                 <span class="title"><a href="https://dev.to/vuthanhnguyen/banh-mi-a-journey-in-every-bite-vietnam-drawn-in-pure-css-m2p" target="_blank">Bánh Mì: A Journey in Every Bite — Vietnam Drawn in Pure CSS</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-08 18:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-Better-Intel-Hybrid" target="_blank">Linux 7.3 To Better Handle Cluster Load Balancing On Intel Hybrid CPUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-08 17:27</span>
             </div>
         </div>
 </div>
@@ -297,8 +292,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 00:48 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 02:55 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
