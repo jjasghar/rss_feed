@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-08-09 11:18:56 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-08-09 12:24:37 UTC -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Sunday, August 09, 2026 - 11:19 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, August 09, 2026 - 12:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/9/nigeria-mass-weddings-ease-financial-burden-for-couples?traffic_source=rss" target="_blank">Nigeria mass weddings ease financial burden for couples</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-09 12:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/09/g-s1-137636/paintings-religious-renaissance-old-masters-marc-padeu-african-cameroon-artist" target="_blank">This rising painter reimagines Renaissance art in a cocoa plantation in Cameroon</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-09 11:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-gaza-palestinians_7317452.jpg?20260809125253" alt="Netanyahu rejects Trump&#x27;s Board of Peace plan for Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/israeli-prime-minister-benjamin-netanyahu-rejects-trumps-board-of-peace-plan-for-gaza-13571334" target="_blank">Netanyahu rejects Trump&#x27;s Board of Peace plan for Gaza</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-08-09 11:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,38 +100,20 @@
                 <span class="time">2026-08-09 09:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/9/saudi-arabia-says-fire-extinguished-at-aramco-facility-in-jizan?traffic_source=rss" target="_blank">Saudi Arabia says fire extinguished at Aramco facility in Jizan</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-09 07:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/9/wildfire-forces-thousands-of-evacuations-in-western-canada?traffic_source=rss" target="_blank">Wildfire forces thousands of evacuations in Western Canada</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-09 06:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/9/helicopter-crash-kills-pilot-and-crew-member-amid-utah-wildfire-battle?traffic_source=rss" target="_blank">Helicopter crash kills pilot and crew member amid Utah wildfire battle</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-09 03:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a75b5aa629c4defb092877c/master/pass/DigitalEstate.gif" alt="The Complicated Case of Passing On Your Digital Estate" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/digital-estate-planning-tips/" target="_blank">The Complicated Case of Passing On Your Digital Estate</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-09 11:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a7774047a4971962ec860c9/master/pass/The-Best-Compression-Boots-Could-Be-the-Missing-Piece-in-Your-Fitness-Routine.jpg" alt="4 Best Compression Boots: Therabody, Hyperice, and More (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -108,6 +121,15 @@
                 <span class="title"><a href="https://www.wired.com/story/best-compression-boots/" target="_blank">4 Best Compression Boots: Therabody, Hyperice, and More (2026)</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-08-09 11:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/image-1-500x500.jpeg" alt="Mount Toba eruption doesn&#x27;t seem like it could nearly kill our species" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/" target="_blank">Mount Toba eruption doesn&#x27;t seem like it could nearly kill our species</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-09 11:00</span>
             </div>
         </div>
 <div class="story">
@@ -137,29 +159,20 @@
                 <span class="time">2026-08-08 21:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/" target="_blank">OpenAI acquires presentation startup NextSlide</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-08 19:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant" target="_blank">An Amazon data center could have the worst polluting power plant in the country</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-08 17:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/arbab-io/upgrading-react-native-076-086-without-losing-a-month-mpj" target="_blank">Upgrading React Native 0.76 0.86 Without Losing a Month</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-09 12:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/sarantoon/amd-epidtaw-instella-moe-16b-a3b-omedl-ai-thiiethrndwy-gpu-khngtaweng-aimphueng-nvidia-4868" target="_blank">AMD เปิดตัว Instella-MoE-16B-A3B — โมเดล AI ที่เทรนด้วย GPU ของตัวเอง ไม่พึ่ง Nvidia</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-09 06:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/jmarshall23/msword" target="_blank">Microsoft Word for Windows 1.1a, Native X64 Port</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-09 05:23</span>
             </div>
         </div>
 </div>
@@ -292,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 40 | 📸 With Images: 247 |
-        🔄 Last Updated: 11:19 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 39 | 📸 With Images: 247 |
+        🔄 Last Updated: 12:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
