@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-08-09 16:19:55 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-08-09 17:19:58 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Sunday, August 09, 2026 - 16:20 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Sunday, August 09, 2026 - 17:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/8/9/jannik-sinner-withdraws-from-cincinnati-open-with-knee-injury?traffic_source=rss" target="_blank">Jannik Sinner withdraws from Cincinnati Open with knee injury</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-09 16:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,15 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/9/netanyahu-rejects-trumps-board-of-peace-plan-for-gaza?traffic_source=rss" target="_blank">Netanyahu rejects Trump’s Board of Peace plan for Gaza</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-09 13:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/09/nx-s1-5925960/trump-hoover-iran" target="_blank">Haunted by Hoover, Trump searches for an endgame in Iran</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-09 12:39</span>
             </div>
         </div>
 </div>
@@ -162,6 +164,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2014/10/weather.jpg?resize=406%2C232&amp;ssl=1" alt="Windows 11’s Weather app uses 1GB RAM, but are Linux apps better?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/linux-vs-windows-weather-app-ram" target="_blank">Windows 11’s Weather app uses 1GB RAM, but are Linux apps better?</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-08-09 17:09</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -206,15 +217,6 @@
                 <span class="time">2026-08-09 12:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alifar/eu-birdwatch-uses-copernicus-data-and-ai-to-target-farmland-bird-conservation-4il4" target="_blank">EU BirdWatch Uses Copernicus Data and AI to Target Farmland Bird Conservation</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-09 09:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -227,6 +229,15 @@
                 <span class="title"><a href="https://kotaku.com/netflixs-final-season-of-the-witcher-reportedly-pushed-back-to-2027-2000722796" target="_blank">Netflix’s Final Season Of The Witcher Unexpectedly Pushed Back To 2027</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-08-09 15:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/PDNob-Pro-PDF-Editor.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This AI PDF editor can answer questions about your documents for $50" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/09/this-ai-pdf-editor-can-answer-questions-about-your-documents-for-50.html" target="_blank">This AI PDF editor can answer questions about your documents for $50</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-09 15:00</span>
             </div>
         </div>
 <div class="story">
@@ -265,15 +276,6 @@
                 <span class="time">2026-08-08 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/observer-1280x720.jpg" alt="Trump’s New E-Waste Policy Has Vintage Tech Collectors Anxious They’ll Be Caught In The Crossfire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/trumps-new-e-waste-policy-has-vintage-tech-collectors-anxious-theyll-be-caught-in-the-crossfire-2000722706" target="_blank">Trump’s New E-Waste Policy Has Vintage Tech Collectors Anxious They’ll Be Caught In The Crossfire</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-08 19:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -293,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 40 | 📸 With Images: 247 |
-        🔄 Last Updated: 16:20 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 40 | 📸 With Images: 248 |
+        🔄 Last Updated: 17:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
