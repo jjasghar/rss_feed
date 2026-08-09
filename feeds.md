@@ -1,39 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-08-09 04:08:59 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-08-09 05:39:15 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 1 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Sunday, August 09, 2026 - 04:09 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, August 09, 2026 - 05:39 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -170,6 +165,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://longbets.org/601/" target="_blank">&quot;The original URL for this prediction will no longer be available in 11 years.&quot; (2011)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-09 04:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/trismegistus/shopify-replaced-redis-with-mysql-for-inventory-reservations-and-it-scaled-better-4ak9" target="_blank">Shopify Replaced Redis With MySQL for Inventory Reservations — and It Scaled Better</a></span>
                 <span class="feed">DEV Community</span>
@@ -210,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/ai_maya_063fc568e157562fd/local-llms-in-2026-what-actually-runs-well-on-a-laptop-now-hk1" target="_blank">Local LLMs in 2026: What Actually Runs Well on a Laptop Now</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-09 00:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hassan_ighil_3c031e58433b/show-hn-i-built-onetoolbox-free-browser-based-tools-for-developers-47a1" target="_blank">I built OneToolBox — free browser-based tools for developers</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-08 21:10</span>
             </div>
         </div>
 </div>
@@ -299,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 40 | 📸 With Images: 248 |
-        🔄 Last Updated: 04:09 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 84 | 📡 Total Sources: 40 | 📸 With Images: 248 |
+        🔄 Last Updated: 05:39 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
