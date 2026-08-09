@@ -1,35 +1,44 @@
-<!-- Processing 54 RSS feeds at 2026-08-09 17:19:58 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-09 18:22:00 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Error processing https://www.phoronix.com/rss.php: The read operation timed out -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Sunday, August 09, 2026 - 17:20 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Sunday, August 09, 2026 - 18:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +61,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/8/9/jannik-sinner-withdraws-from-cincinnati-open-with-knee-injury?traffic_source=rss" target="_blank">Jannik Sinner withdraws from Cincinnati Open with knee injury</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-09 16:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/esper-trump-20260809-ap-jh_1786282497096_hpMain_4x3t_384.jpg" alt="Former Trump Defense Secretary Esper calls Iran&#x27;s demands &#x27;ridiculous&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/former-trump-defense-secretary-mark-esper-calls-irans/story?id=135496975" target="_blank">Former Trump Defense Secretary Esper calls Iran&#x27;s demands &#x27;ridiculous&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-09 16:30</span>
             </div>
         </div>
 <div class="story">
@@ -90,20 +108,20 @@
                 <span class="time">2026-08-09 13:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/9/netanyahu-rejects-trumps-board-of-peace-plan-for-gaza?traffic_source=rss" target="_blank">Netanyahu rejects Trump’s Board of Peace plan for Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-09 13:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat" target="_blank">Zuckerberg&amp;#8217;s yacht was closer, but someone else saved a stranded boat</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-09 17:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +167,20 @@
                 <span class="time">2026-08-09 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a7777951b168fc0244a387c/master/pass/Review--TCL-Note-A1-Nxtpaper.jpg" alt="TCL Note A1 Nxtpaper Review (2026): A Hybrid Tablet for Taking Notes and Watching Video" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/tcl-note-a1-nxtpaper-tablet/" target="_blank">TCL Note A1 Nxtpaper Review (2026): A Hybrid Tablet for Taking Notes and Watching Video</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-09 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2014/10/weather.jpg?resize=406%2C232&amp;ssl=1" alt="Windows 11’s Weather app uses ~1GB RAM, Linux apps a fraction" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/linux-vs-windows-weather-app-ram" target="_blank">Windows 11’s Weather app uses ~1GB RAM, Linux apps a fraction</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-08-09 17:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2014/10/weather.jpg?resize=406%2C232&amp;ssl=1" alt="Windows 11’s Weather app uses 1GB RAM, but are Linux apps better?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -184,6 +202,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981" target="_blank">Criminal Deception in Silicon Valley</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-09 15:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/petersoos/when-is-it-safe-to-open-the-microphone-building-a-realtime-voice-agent-on-twilio-3ddo" target="_blank">When is it safe to open the microphone? Building a realtime voice agent on Twilio</a></span>
                 <span class="feed">DEV Community</span>
@@ -199,29 +226,20 @@
                 <span class="time">2026-08-09 13:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Large-GRF-Mode-Mesa-26.3" target="_blank">Mesa 26.3 Intel Driver Code Enables Large GRF Mode For Newer GPUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-09 12:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/arbab-io/upgrading-react-native-076-086-without-losing-a-month-mpj" target="_blank">Upgrading React Native 0.76 0.86 Without Losing a Month</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-09 12:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/marveltokonfightingsouls_lob_mas_mob_03-1280x610.jpg" alt="No One Can Agree If This Desperate Workaround For Fixing Marvel Tōkon On PC Actually Helps" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/no-one-can-agree-if-this-desperate-workaround-for-fixing-marvel-tokon-on-pc-actually-helps-2000722806" target="_blank">No One Can Agree If This Desperate Workaround For Fixing Marvel Tōkon On PC Actually Helps</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-09 17:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/liamwitcher.jpg" alt="Netflix’s Final Season Of The Witcher Unexpectedly Pushed Back To 2027" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,15 +285,6 @@
                 <span class="time">2026-08-08 21:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/Microsoft-Office-Professional-Plus-2019-for-Windows.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="From Word to Excel, score seven Microsoft Office apps for just $20 (MSRP $229)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/08/from-word-to-excel-score-seven-microsoft-office-apps-for-just-20-msrp-229.html" target="_blank">From Word to Excel, score seven Microsoft Office apps for just $20 (MSRP $229)</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-08 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -295,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 40 | 📸 With Images: 248 |
-        🔄 Last Updated: 17:20 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 18:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
