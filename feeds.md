@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-08-09 08:28:26 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-09 09:27:16 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, August 09, 2026 - 08:28 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Sunday, August 09, 2026 - 09:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/8/9/it-wont-be-trump-who-kills-the-icc?traffic_source=rss" target="_blank">It won’t be Trump who kills the ICC</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-09 09:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +100,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss" target="_blank">Israel accused of weaponising archaeology at ancient West Bank sites</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-08-08 23:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-gianni-infantino-fifa-president_7312054.jpg?20260801225044" alt="FIFA attacks critics trying to &#x27;undermine&#x27; Gianni Infantino" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/fifa-attacks-critics-trying-to-undermine-gianni-infantino-13571263" target="_blank">FIFA attacks critics trying to &#x27;undermine&#x27; Gianni Infantino</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-08-08 23:42</span>
             </div>
         </div>
 </div>
@@ -167,6 +170,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alifar/eu-birdwatch-uses-copernicus-data-and-ai-to-target-farmland-bird-conservation-4il4" target="_blank">EU BirdWatch Uses Copernicus Data and AI to Target Farmland Bird Conservation</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-09 09:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/jackm-singularity/ai-agent-distress-signal-let-stuck-workflows-ask-for-help-46hi" target="_blank">AI Agent Distress Signal: Let Stuck Workflows Ask for Help</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-09 08:11</span>
@@ -203,18 +215,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="http://longbets.org/601/" target="_blank">The original URL for this prediction will no longer be available in 11 years (2011)</a></span>
+                <span class="title"><a href="https://github.com/jmarshall23/msword" target="_blank">Microsoft Word for Windows 1.1a, Native X64 Port</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2026-08-09 04:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://longbets.org/601/" target="_blank">&quot;The original URL for this prediction will no longer be available in 11 years.&quot; (2011)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-09 04:30</span>
+                <span class="time">2026-08-09 05:23</span>
             </div>
         </div>
 </div>
@@ -295,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 08:28 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 40 | 📸 With Images: 247 |
+        🔄 Last Updated: 09:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
