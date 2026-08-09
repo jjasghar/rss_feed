@@ -1,39 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-08-09 21:19:54 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-08-09 22:17:17 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, August 09, 2026 - 21:20 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Sunday, August 09, 2026 - 22:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -112,6 +107,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/" target="_blank">Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-09 20:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast" target="_blank">No Dogs in Space is a music history podcast for true obsessives</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-09 20:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/" target="_blank">Anthropic is turning Claude Code’s auto mode on by default</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-08-09 19:20</span>
@@ -144,29 +157,20 @@
                 <span class="time">2026-08-09 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a75b5aa629c4defb092877c/master/pass/DigitalEstate.gif" alt="The Complicated Case of Passing On Your Digital Estate" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/digital-estate-planning-tips/" target="_blank">The Complicated Case of Passing On Your Digital Estate</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-09 11:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a7774047a4971962ec860c9/master/pass/The-Best-Compression-Boots-Could-Be-the-Missing-Piece-in-Your-Fitness-Routine.jpg" alt="4 Best Compression Boots: Therabody, Hyperice, and More (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-compression-boots/" target="_blank">4 Best Compression Boots: Therabody, Hyperice, and More (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-09 11:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/praiztech/a-broken-heading-hierarchy-is-an-architecture-problem-not-a-markup-one-489n" target="_blank">A broken heading hierarchy is an architecture problem, not a markup one</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-09 21:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4elkbkue05e1bdihpt4e.png" alt="Swapping Across 25 Models With One Line" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -212,20 +216,20 @@
                 <span class="time">2026-08-09 17:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Qualcomm-Kuno-SoC-Linux" target="_blank">Qualcomm Posts Linux Patches For Kuno SoC Support: Cortex-A7 Platform In 2026</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-09 15:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/Microsoft-Visio-Professional-2024.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Turn complicated ideas into clear diagrams with Microsoft Visio 2024 for $45" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/09/turn-complicated-ideas-into-clear-diagrams-with-microsoft-visio-2024-for-45.html" target="_blank">Turn complicated ideas into clear diagrams with Microsoft Visio 2024 for $45</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-09 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/marveltokonfightingsouls_lob_mas_mob_03-1280x610.jpg" alt="No One Can Agree If This Desperate Workaround For Fixing Marvel Tōkon On PC Actually Helps" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,15 +275,6 @@
                 <span class="time">2026-08-08 22:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/reznorlynch.jpg" alt="Just About Everything Other Than The Music Sells Out In NIN’s 30th Anniversary Quake Collection" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/just-about-everything-other-than-the-music-sells-out-in-nins-30th-anniversary-quake-collection-2000722712" target="_blank">Just About Everything Other Than The Music Sells Out In NIN’s 30th Anniversary Quake Collection</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-08 21:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -299,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 39 | 📸 With Images: 249 |
-        🔄 Last Updated: 21:20 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 40 | 📸 With Images: 247 |
+        🔄 Last Updated: 22:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
