@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-08-09 12:24:37 UTC -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2026-08-09 13:39:42 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, August 09, 2026 - 12:24 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Sunday, August 09, 2026 - 13:39 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,8 +51,26 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/9/netanyahu-rejects-trumps-board-of-peace-plan-for-gaza?traffic_source=rss" target="_blank">Netanyahu rejects Trump’s Board of Peace plan for Gaza</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-09 13:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/9/nigeria-mass-weddings-ease-financial-burden-for-couples?traffic_source=rss" target="_blank">Nigeria mass weddings ease financial burden for couples</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-09 12:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/hormuz-strait-_1786273097738_hpMain_4x3t_384.jpg" alt="Iran live updates: US, Iran passing messages through intermediaries, Tehran says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trump-deal-imminent-iran-oman/?id=135317231" target="_blank">Iran live updates: US, Iran passing messages through intermediaries, Tehran says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-08-09 12:07</span>
             </div>
         </div>
@@ -65,6 +84,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-08/260809-netanyahu-nd-42565f.jpg" alt="Israel rejects Trump’s 15-point plan for Gaza, Netanyahu says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/israel/israel-rejects-trumps-15-point-plan-gaza-pm-benjamin-netanyahu-says-rcna591555" target="_blank">Israel rejects Trump’s 15-point plan for Gaza, Netanyahu says</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-09 11:26</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/26/08/1920x1080/skynews-gaza-palestinians_7317452.jpg?20260809125253" alt="Netanyahu rejects Trump&#x27;s Board of Peace plan for Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
@@ -73,38 +101,20 @@
                 <span class="time">2026-08-09 11:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/9/russian-forces-kill-several-in-ukraine-launch-brutal-attack-in-odesa?traffic_source=rss" target="_blank">Russian forces kill several in Ukraine, launch ‘brutal’ attack in Odesa</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-09 10:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news" target="_blank">Yemen&#x27;s Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-09 09:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/8/9/it-wont-be-trump-who-kills-the-icc?traffic_source=rss" target="_blank">It won’t be Trump who kills the ICC</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-09 09:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/" target="_blank">This former notorious red-light district is now one of the world’s top AI hubs</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-09 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a75b5aa629c4defb092877c/master/pass/DigitalEstate.gif" alt="The Complicated Case of Passing On Your Digital Estate" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,20 +160,29 @@
                 <span class="time">2026-08-08 21:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards" target="_blank">X replaces its revenue-sharing program with ‘Original Content Rewards’</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-08 21:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/annavi11arrea1/css-art-smoothie-food-truck-36gg" target="_blank">🛻CSS Art: Smoothie Food Truck</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-09 13:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Large-GRF-Mode-Mesa-26.3" target="_blank">Mesa 26.3 Intel Driver Code Enables Large GRF Mode For Newer GPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-09 12:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,29 +219,20 @@
                 <span class="time">2026-08-09 07:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/08/database-remediation-graph/en/headerimage/generatedHeaderImage-1785167911858.jpg" alt="Stripe Uses Graph Search and State Machines to Automate Database Remediation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/08/database-remediation-graph/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Stripe Uses Graph Search and State Machines to Automate Database Remediation</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-09 06:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sarantoon/amd-epidtaw-instella-moe-16b-a3b-omedl-ai-thiiethrndwy-gpu-khngtaweng-aimphueng-nvidia-4868" target="_blank">AMD เปิดตัว Instella-MoE-16B-A3B — โมเดล AI ที่เทรนด้วย GPU ของตัวเอง ไม่พึ่ง Nvidia</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-09 06:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/asmongold-youtube-1280x775.jpg" alt="Asmongold Says Twitch Banned Him For 14 Days After Latest Vile Comments: ‘I’m Not Sorry’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/asmongold-says-twitch-banned-him-for-14-days-after-latest-vile-comments-im-not-sorry-2000722790" target="_blank">Asmongold Says Twitch Banned Him For 14 Days After Latest Vile Comments: ‘I’m Not Sorry’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-09 13:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/samuraiandprisoner.jpg" alt="Kiyoshi Kurosawa’s First Samurai Epic Offers Alternative Philosophy To Odyssey‘s Doomed Voyage" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,15 +278,6 @@
                 <span class="time">2026-08-08 16:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/Main-Inouye-Image-Horizontal-scaled.jpg?fit=2560%2C1756&amp;quality=60&amp;ssl=1" alt="The sharpest pictures ever taken of the Sun show it swirling" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/08/sun-kelvin-helmholtz-vortices.html" target="_blank">The sharpest pictures ever taken of the Sun show it swirling</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-08 16:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -296,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 39 | 📸 With Images: 247 |
-        🔄 Last Updated: 12:24 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 40 | 📸 With Images: 246 |
+        🔄 Last Updated: 13:39 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
