@@ -1,39 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-08-10 18:39:59 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-10 19:46:04 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, August 10, 2026 - 18:40 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Monday, August 10, 2026 - 19:46 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,12 +42,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/International/columbia-1-ap-er-260710_1786376855348_hpMain_4x3t_384.jpg" alt="Colombia earthquake: Dozens dead, people trapped in collapsed buildings" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/colombia-earthquake-fatalities-buildings-collapsed/story?id=135518897" target="_blank">Colombia earthquake: Dozens dead, people trapped in collapsed buildings</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-10 19:27</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/8/10/oman-trying-to-contain-extensive-oil-spill-from-stricken-tanker?traffic_source=rss" target="_blank">Oman trying to contain extensive oil spill from stricken tanker</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-10 18:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/colombia_rubble_th-1cflm1.jpg" alt="Watch: Videos capture the moment a 7.4-magnitude earthquake strikes Colombia" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/videos-capture-the-moment-a-7-4-magnitude-earthquake-strikes-colombia-268050501807" target="_blank">Watch: Videos capture the moment a 7.4-magnitude earthquake strikes Colombia</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-10 18:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/10/nx-s1-5925350/the-nerd-reich-tracks-the-unmasking-of-silicon-valleys-true-politics" target="_blank">&#x27;The Nerd Reich&#x27; tracks the &#x27;unmasking of Silicon Valley&#x27;s true politics&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-10 17:38</span>
             </div>
         </div>
 <div class="story">
@@ -74,33 +93,6 @@
                 <span class="title"><a href="https://abcnews.com/International/colombia-earthquake-fatalities-buildings-collapsed/story?id=135518897" target="_blank">At least 50 dead after 7.4-magnitude earthquake impacts Colombia: Officials</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-08-10 16:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8458/live/6b1762d0-94cc-11f1-8dc4-8907761852f3.jpg" alt="More than two-thirds of England now in drought" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c70gk2dl5jyo?at_medium=RSS&at_campaign=rss" target="_blank">More than two-thirds of England now in drought</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-10 16:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/10/g-s1-137832/iraq-shia-pilgrimage-shia-war" target="_blank">Despite Mideast wars, 20 million gather in Iraq for Shia pilgrimage</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-10 16:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/10/sudans-army-chief-holds-unannounced-talks-on-national-dialogue?traffic_source=rss" target="_blank">Sudan’s army chief holds unannounced talks on national dialogue</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-10 16:03</span>
             </div>
         </div>
 </div>
@@ -204,21 +196,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/08/Linux-mint-kernel-management.webp?resize=406%2C232&amp;ssl=1" alt="Linux Mint will delete your old kernel versions automatically" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/linux-mint-deletes-old-kernels-automatically" target="_blank">Linux Mint will delete your old kernel versions automatically</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-08-10 15:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/08/Linux-mint-kernel-management.webp?resize=406%2C232&amp;ssl=1" alt="Linux Mint now deletes old kernel versions automatically" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/linux-mint-deletes-old-kernels-automatically" target="_blank">Linux Mint now deletes old kernel versions automatically</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-08-10 15:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/turboline_ai_/your-messaging-architecture-is-probably-being-driven-by-habit-not-requirements-953" target="_blank">Your Messaging Architecture Is Probably Being Driven by Habit, Not Requirements</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-10 15:46</span>
             </div>
         </div>
 </div>
@@ -240,6 +232,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KS0VT5E35EH1RAF27VSK3WAB/hero-image.png" alt="My Favorite Bose ANC Earbuds Are $50 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/my-favorite-bose-anc-earbuds-deal-august-2026?utm_medium=RSS" target="_blank">My Favorite Bose ANC Earbuds Are $50 Off</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-10 19:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JPR283AK9N6BR617ZCVZ6DYG/hero-image.png" alt="Garmin&#x27;s Basic GPS Running Watch Is $70 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +284,6 @@
                 <span class="title"><a href="https://kotaku.com/gamestop-ryan-cohen-ebay-memestock-bloomberg-gamestonk-2000723046" target="_blank">GameStop’s Ryan Cohen Considers Not Buying A Company That Isn’t For Sale With Money He Doesn’t Have And Cannot Raise</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-08-10 16:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/The-Division-Resurgence-official-image-from-Steam-store-page-Ubisoft-1280x720.jpg" alt="Ubisoft’s Division Spin-Off Gets Dragged On Steam For Microtransactions And Terrible UI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-division-resurgence-steam-pc-port-user-reviews-microtransactions-ui-mixed-negative-2000722990" target="_blank">Ubisoft’s Division Spin-Off Gets Dragged On Steam For Microtransactions And Terrible UI</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-10 15:45</span>
             </div>
         </div>
 </div>
@@ -340,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 89 | 📡 Total Sources: 39 | 📸 With Images: 248 |
-        🔄 Last Updated: 18:40 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 89 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 19:46 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
