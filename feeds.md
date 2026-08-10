@@ -1,29 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-08-10 20:29:22 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-10 21:30:06 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 21 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 9 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, August 10, 2026 - 20:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, August 10, 2026 - 21:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/10/wildfires-burn-across-indonesia-as-officials-cite-el-nino-as-a-cause?traffic_source=rss" target="_blank">Wildfires burn across Indonesia as officials cite El Nino as a cause</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-10 21:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/columbia-1-ap-er-260710_1786376855348_hpMain_4x3t_384.jpg" alt="Colombia earthquake: Dozens dead, people trapped in collapsed buildings" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,20 +105,29 @@
                 <span class="time">2026-08-10 17:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/columbia-1-ap-er-260710_1786376855348_hpMain_4x3t_384.jpg" alt="At least 50 dead after 7.4-magnitude earthquake impacts Colombia: Officials" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/colombia-earthquake-fatalities-buildings-collapsed/story?id=135518897" target="_blank">At least 50 dead after 7.4-magnitude earthquake impacts Colombia: Officials</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-10 16:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/ss_03896903e32739497c26e1724dcbab75772970fe.1920x1080-500x500.jpg" alt="Players lose access to Aliens: Fireteam Elite on Nintendo Switch without refunds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/08/players-lose-access-to-aliens-fireteam-elite-on-nintendo-switch-without-refunds/" target="_blank">Players lose access to Aliens: Fireteam Elite on Nintendo Switch without refunds</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-10 21:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/10/google-co-founder-sergey-brin-has-now-spent-100-million-to-fight-the-billionaire-tax/" target="_blank">Google co-founder Sergey Brin has now spent $100 million to fight the billionaire tax</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-10 21:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2190858040-500x500.jpg" alt="Zuckerberg’s superyacht ignored emergency channel, failed to aid stranded boat" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -134,29 +164,38 @@
                 <span class="time">2026-08-10 17:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/ford-logo-pcb-style-500x500.jpg" alt="Has Ford got cheap car fever? A $25K crossover is supposedly on the way." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/08/has-ford-got-cheap-car-fever-allegedly-a-25k-crossover-is-on-the-way/" target="_blank">Has Ford got cheap car fever? A $25K crossover is supposedly on the way.</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-10 17:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2252731557-500x500.jpg" alt="Taylor Farms recalls jalapeño products for Salmonella amid Cyclospora outbreak" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/08/taylor-farms-recalls-jalapeno-products-for-salmonella-amid-cyclospora-outbreak/" target="_blank">Taylor Farms recalls jalapeño products for Salmonella amid Cyclospora outbreak</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-10 16:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/im_citius/your-terragrunt-or-terraform-plan-is-4000-lines-only-two-of-them-matter-4p8" target="_blank">Your terragrunt (or terraform) plan is 4,000 lines. Only two of them matter.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-10 21:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/08/cloudflare-webmcp/en/headerimage/cloudflare-webmcp-1786389410161.jpeg" alt="CloudFlare Previews Automatic WebMCP Support for Web Pages" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/08/cloudflare-webmcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">CloudFlare Previews Automatic WebMCP Support for Web Pages</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-10 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Fedora-CoreOS-OOMD-zRAM-Swap" target="_blank">Fedora CoreOS To Enable systemd-oomd &amp; zRAM Swap By Default</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-10 19:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -184,33 +223,6 @@
                 <span class="time">2026-08-10 17:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-KCFI-Optimization" target="_blank">Linux 7.3 Bringing A KCFI Optimization To Benefit Older Intel CPUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-10 17:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://blog.trailofbits.com/2026/06/30/shipping-post-quantum-cryptography-to-python/" target="_blank">Shipping post-quantum cryptography to Python</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-08-10 16:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/08/Linux-mint-kernel-management.webp?resize=406%2C232&amp;ssl=1" alt="Linux Mint will delete your old kernel versions automatically" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/linux-mint-deletes-old-kernels-automatically" target="_blank">Linux Mint will delete your old kernel versions automatically</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-08-10 15:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -230,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/tokon-1280x720.jpg" alt="Marvel Tōkon PC Patch Improves Struggling Steam Version: ‘Maybe PS5 Players Will Play With Us Now’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/marvel-tokon-fighting-souls-pc-patch-performance-steam-2000723166" target="_blank">Marvel Tōkon PC Patch Improves Struggling Steam Version: ‘Maybe PS5 Players Will Play With Us Now’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-10 20:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KS0VT5E35EH1RAF27VSK3WAB/hero-image.png" alt="My Favorite Bose ANC Earbuds Are $50 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,15 +294,6 @@
                 <span class="title"><a href="https://kotaku.com/20-years-later-fan-finds-new-secret-in-one-of-the-best-star-wars-games-ever-made-2000723080" target="_blank">20 Years Later, Fan Finds New Secret In One Of The Best Star Wars Games Ever Made</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-08-10 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/51lJuXW4iVL._SY445_SX342_.jpeg?fit=293%2C445&amp;quality=60&amp;ssl=1" alt="The Tainted Cup gets the fantasy detective novel exactly right" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/10/the-tainted-cup-gets-the-fantasy-detective-novel-exactly-right.html" target="_blank">The Tainted Cup gets the fantasy detective novel exactly right</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-10 17:25</span>
             </div>
         </div>
 </div>
@@ -330,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 91 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 20:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 95 | 📡 Total Sources: 40 | 📸 With Images: 248 |
+        🔄 Last Updated: 21:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
