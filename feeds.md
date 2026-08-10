@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-08-10 11:40:36 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-10 12:40:41 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Monday, August 10, 2026 - 11:40 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Monday, August 10, 2026 - 12:40 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb3b/live/fc2895c0-94ac-11f1-afe9-fb1a837ec5d9.jpg" alt="Record 230 people cross Channel in one small boat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&at_campaign=rss" target="_blank">Record 230 people cross Channel in one small boat</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-10 11:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1786361024942_tdy_news_7a_simmons_iran_negotiations_260810_S3_1920x1080-2jo564.jpg" alt="Trump Says US is ‘Only Semi-Negotiating’ With Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/what-s-included-in-iran-s-demands-to-reopen-strait-of-hormuz-268024389758" target="_blank">Trump Says US is ‘Only Semi-Negotiating’ With Iran</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-10 11:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc11/live/b8002050-9495-11f1-9ade-bb7c8a2b6bc0.jpg" alt="At least 13 killed in Ukrainian strike on Russia&#x27;s Tatarstan region, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,29 +99,20 @@
                 <span class="time">2026-08-10 08:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/10/malaysian-pm-anwar-ibrahim-undergoes-medical-procedure?traffic_source=rss" target="_blank">Malaysian PM Anwar Ibrahim undergoes medical procedure</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-10 02:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-daniel-kinahan-alleged-crime-boss_7317569.jpg?20260809143207" alt="&#x27;I think we know I won&#x27;t be getting bail,&#x27; suspected cartel boss tells judge" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/daniel-kinahan-alleged-boss-of-irish-crime-gang-charged-and-taken-to-jail-13571522" target="_blank">&#x27;I think we know I won&#x27;t be getting bail,&#x27; suspected cartel boss tells judge</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-08-10 00:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a34253bd6d2c696ab0f7ca9/master/pass/Culture_VloggerMakingPsychedelics-v1.gif" alt="The Outlaw Chemist Teaching People How to Make Drugs From Scratch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-outlaw-chemist-teaching-people-how-to-make-drugs-from-scratch/" target="_blank">The Outlaw Chemist Teaching People How to Make Drugs From Scratch</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-10 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/peer-review-difficulties-500x500.jpg" alt="Peer review is overwhelmed—can it survive in the AI era?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,15 +158,6 @@
                 <span class="time">2026-08-09 20:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/" target="_blank">Anthropic is turning Claude Code’s auto mode on by default</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-09 19:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -166,9 +167,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/_2ab71a79dd36101e6be89/zen-mo-yong-tao-kai-yuan-xi-tong-ba-llm-bi-jin-shi-jie-mo-xing-shi-yan-ji-shu-pian--2856" target="_blank">怎麼用一套開源系統，把 LLM 逼近世界模型（實驗技術篇）</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-10 12:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/jay_elsheikh_59b14ad67922/how-i-listed-my-mcp-on-the-official-mcp-registery-and-how-you-can-do-yours-too--1lp" target="_blank">How I listed my MCP on the official MCP Registery and how you can do yours too ?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-10 11:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Meta-Muse-Glimmer" target="_blank">Meta Publishes Muse Glimmer As 30B Open Agentic Model</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-10 11:10</span>
             </div>
         </div>
 <div class="story">
@@ -183,37 +202,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17411230/rust-code-repo-ai-policy" target="_blank">AI Can No Longer Rampage Through Rust&#x27;s Code Repo</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-08-10 10:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model" target="_blank">Meta Muse Glimmer – open weights 30B local coding model</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-08-10 10:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.docker.com/products/docker-sandboxes/" target="_blank">Docker Sandboxes – Disposable, isolated sandboxes for AI agents</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-10 06:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://claude.com/blog/auto-mode-default-in-claude-code" target="_blank">Auto mode is now the default in Claude Code</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-10 03:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/developer_tech/i-benchmarked-csv-vs-json-on-200k-rows-so-you-dont-have-to-5712" target="_blank">Stop googling cron syntax. Read it in plain English instead</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-10 00:24</span>
             </div>
         </div>
 </div>
@@ -235,6 +236,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KR3A0MMR6EEJFWZ8NXPW73C5/hero-image.png" alt="The Feature-Packed Pixel Buds 2a Are $30 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/pixel-buds-2a-sale-august-2026?utm_medium=RSS" target="_blank">The Feature-Packed Pixel Buds 2a Are $30 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-10 12:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/1099-ad-thumb.jpg?fit=2231%2C1675&amp;quality=60&amp;ssl=1" alt="This 1967 short film got video chat and online banking right" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/10/philco-ford-1999-ad.html" target="_blank">This 1967 short film got video chat and online banking right</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-10 12:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/steam-machine-scalpers.jpg" alt="Steam Machine And Controller User Data Leaks After Valve’s European Supplier Gets Hit With Cyber Attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/steam-machine-and-controller-user-data-leaks-after-valves-european-supplier-gets-hit-with-cyber-attack-2000722955" target="_blank">Steam Machine And Controller User Data Leaks After Valve’s European Supplier Gets Hit With Cyber Attack</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-10 12:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/mariorepairs.jpg" alt="Nintendo Offers Free Repairs To Consoles Damaged In Kumamoto Earthquake" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -260,33 +288,6 @@
                 <span class="title"><a href="https://kotaku.com/no-one-can-agree-if-this-desperate-workaround-for-fixing-marvel-tokon-on-pc-actually-helps-2000722806" target="_blank">No One Can Agree If This Desperate Workaround For Fixing Marvel Tōkon On PC Actually Helps</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-08-09 17:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/liamwitcher.jpg" alt="Netflix’s Final Season Of The Witcher Unexpectedly Pushed Back To 2027" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/netflixs-final-season-of-the-witcher-reportedly-pushed-back-to-2027-2000722796" target="_blank">Netflix’s Final Season Of The Witcher Unexpectedly Pushed Back To 2027</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-09 15:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/PDNob-Pro-PDF-Editor.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This AI PDF editor can answer questions about your documents for $50" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/09/this-ai-pdf-editor-can-answer-questions-about-your-documents-for-50.html" target="_blank">This AI PDF editor can answer questions about your documents for $50</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-09 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/asmongold-youtube-1280x775.jpg" alt="Asmongold Says Twitch Banned Him For 14 Days After Latest Vile Comments: ‘I’m Not Sorry’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/asmongold-says-twitch-banned-him-for-14-days-after-latest-vile-comments-im-not-sorry-2000722790" target="_blank">Asmongold Says Twitch Banned Him For 14 Days After Latest Vile Comments: ‘I’m Not Sorry’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-09 13:18</span>
             </div>
         </div>
 </div>
@@ -326,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 68 | 📡 Total Sources: 40 | 📸 With Images: 247 |
-        🔄 Last Updated: 11:40 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 70 | 📡 Total Sources: 40 | 📸 With Images: 247 |
+        🔄 Last Updated: 12:40 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
