@@ -1,31 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-08-09 23:18:27 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-08-10 00:51:14 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Generated 7 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, August 09, 2026 - 23:18 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, August 10, 2026 - 00:51 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +50,24 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-daniel-kinahan-alleged-crime-boss_7317569.jpg?20260809143207" alt="Alleged boss of Irish crime gang charged and taken to jail" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/daniel-kinahan-alleged-boss-of-irish-crime-gang-charged-and-taken-to-jail-13571522" target="_blank">Alleged boss of Irish crime gang charged and taken to jail</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-08-10 00:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/10/houthis-renew-missile-and-drone-attacks-on-yemens-port-of-al-makha?traffic_source=rss" target="_blank">Houthis renew missile and drone attacks on Yemen’s port of al-Makha</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-10 00:19</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f17/live/97f8e9d0-9446-11f1-a1a8-4d53418920cd.jpg" alt="Burnham brings forward ban on &#x27;subscription traps&#x27; to ease cost of living" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -51,48 +77,30 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/09/nx-s1-5926463/western-us-wildfires-canada-utah" target="_blank">Crews battle wildfires in western U.S. and Canada</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-09 22:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c84/live/2e385c70-9431-11f1-b2ab-0dd01740f9f6.jpg" alt="Suspected crime boss Daniel Kinahan appears in court after extradition" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss" target="_blank">Suspected crime boss Daniel Kinahan appears in court after extradition</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-09 20:58</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/tehran-main_1786257511191_hpMain_4x3t_384.jpg" alt="Iran executes protesters in public as regime expands postwar repression: Reports" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/International/iran-executes-protesters-public-regime-expands-postwar-repression/story?id=135416756" target="_blank">Iran executes protesters in public as regime expands postwar repression: Reports</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-08-09 19:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/the-bottom-line/2026/8/9/israel-is-trying-to-make-palestine-disappear-the-elders?traffic_source=rss" target="_blank">Israel is ‘trying to make Palestine disappear’: The Elders</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-09 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/8/9/can-the-doha-framework-end-the-conflict-in-eastern-drc?traffic_source=rss" target="_blank">Can the Doha Framework end the conflict in eastern DRC?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-09 19:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/09/nx-s1-5926459/netanyahu-rejects-trump-gaza-peace-plan-israel-hamas" target="_blank">Netanyahu rejects Trump&#x27;s Gaza Peace Plan, demands Hamas disarm first</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-09 18:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/8/9/jannik-sinner-withdraws-from-cincinnati-open-with-knee-injury?traffic_source=rss" target="_blank">Jannik Sinner withdraws from Cincinnati Open with knee injury</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-09 16:53</span>
             </div>
         </div>
 </div>
@@ -162,6 +170,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/developer_tech/i-benchmarked-csv-vs-json-on-200k-rows-so-you-dont-have-to-5712" target="_blank">Stop googling cron syntax. Read it in plain English instead</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-10 00:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-rc7-Released" target="_blank">Linux 7.2-rc7 Released Following Another Exhausting AI-Driven Week</a></span>
                 <span class="feed">Phoronix</span>
@@ -204,20 +221,20 @@
                 <span class="time">2026-08-09 18:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2014/10/weather.jpg?resize=406%2C232&amp;ssl=1" alt="Windows 11’s Weather app uses ~1GB RAM, Linux apps a fraction" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/linux-vs-windows-weather-app-ram" target="_blank">Windows 11’s Weather app uses ~1GB RAM, Linux apps a fraction</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-08-09 17:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/mariorepairs.jpg" alt="Nintendo Offers Free Repairs To Consoles Damaged In Kumamoto Earthquake" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/nintendo-offers-free-repairs-to-consoles-damaged-in-kumamoto-earthquake-2000722827" target="_blank">Nintendo Offers Free Repairs To Consoles Damaged In Kumamoto Earthquake</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-09 21:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/Microsoft-Visio-Professional-2024.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Turn complicated ideas into clear diagrams with Microsoft Visio 2024 for $45" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 71 | 📡 Total Sources: 40 | 📸 With Images: 247 |
-        🔄 Last Updated: 23:18 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 40 | 📸 With Images: 248 |
+        🔄 Last Updated: 00:51 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
