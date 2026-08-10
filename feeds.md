@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-08-10 15:47:21 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-10 16:40:49 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 10 new posts out of 26 feeds processed -->
+<!-- Generated 9 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, August 10, 2026 - 15:47 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, August 10, 2026 - 16:41 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/columbia-1-ap-er-260710_1786376855348_hpMain_4x3t_384.jpg" alt="At least 50 dead after 7.4-magnitude earthquake impacts Colombia: Officials" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/colombia-earthquake-fatalities-buildings-collapsed/story?id=135518897" target="_blank">At least 50 dead after 7.4-magnitude earthquake impacts Colombia: Officials</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-10 16:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/10/sudans-army-chief-holds-unannounced-talks-on-national-dialogue?traffic_source=rss" target="_blank">Sudan’s army chief holds unannounced talks on national dialogue</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-10 16:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +102,29 @@
                 <span class="time">2026-08-10 11:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1786361024942_tdy_news_7a_simmons_iran_negotiations_260810_S3_1920x1080-2jo564.jpg" alt="Trump Says US is ‘Only Semi-Negotiating’ With Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/what-s-included-in-iran-s-demands-to-reopen-strait-of-hormuz-268024389758" target="_blank">Trump Says US is ‘Only Semi-Negotiating’ With Iran</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-10 11:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-ceuta-police_7311707.jpg?20260801100318" alt="Dozens of migrants who crossed into Ceuta reached mainland Spain, Sky News told" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/dozens-of-migrants-who-crossed-into-ceuta-reached-mainland-spain-sky-news-told-13571603" target="_blank">Dozens of migrants who crossed into Ceuta reached mainland Spain, Sky News told</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-08-10 10:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2252731557-500x500.jpg" alt="Taylor Farms recalls jalapeño products for Salmonella amid Cyclospora outbreak" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/08/taylor-farms-recalls-jalapeno-products-for-salmonella-amid-cyclospora-outbreak/" target="_blank">Taylor Farms recalls jalapeño products for Salmonella amid Cyclospora outbreak</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-10 16:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/" target="_blank">Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-10 16:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/11/googleplay-500x500-1759849988.jpeg" alt="Third-party app stores are rolling out in Google Play, but there&#x27;s only one right now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,24 +161,6 @@
                 <span class="time">2026-08-10 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a34253bd6d2c696ab0f7ca9/master/pass/Culture_VloggerMakingPsychedelics-v1.gif" alt="The Outlaw Chemist Teaching People How to Make Drugs From Scratch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-outlaw-chemist-teaching-people-how-to-make-drugs-from-scratch/" target="_blank">The Outlaw Chemist Teaching People How to Make Drugs From Scratch</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-10 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/peer-review-difficulties-500x500.jpg" alt="Peer review is overwhelmed—can it survive in the AI era?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/" target="_blank">Peer review is overwhelmed—can it survive in the AI era?</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-10 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -165,10 +169,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://blog.trailofbits.com/2026/06/30/shipping-post-quantum-cryptography-to-python/" target="_blank">Shipping post-quantum cryptography to Python</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-08-10 16:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/08/Linux-mint-kernel-management.webp?resize=406%2C232&amp;ssl=1" alt="Linux Mint now deletes old kernel versions automatically" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/linux-mint-deletes-old-kernels-automatically" target="_blank">Linux Mint now deletes old kernel versions automatically</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-08-10 15:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/turboline_ai_/your-messaging-architecture-is-probably-being-driven-by-habit-not-requirements-953" target="_blank">Your Messaging Architecture Is Probably Being Driven by Habit, Not Requirements</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-10 15:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Qt-Edge-AI-Module-Coming" target="_blank">Qt Toolkit To Introduce Edge AI Submodule, Initially For Vision AI With Qt</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-10 15:22</span>
             </div>
         </div>
 <div class="story">
@@ -187,33 +218,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/08/jep401-value-objects-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Project Valhalla&#x27;s First Preview: JEP 401 Redefines == for Java Objects</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-08-10 14:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17411448/openjiuwens-agent-swarm" target="_blank">openJiuwen’s Agent Swarm: When AI Agents Finally Work as a Team</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-08-10 12:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://www.djangoproject.com/weblog/2026/aug/10/annual-release-cycle/" target="_blank">Django is moving to an annual release cycle</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-08-10 12:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/08/java-news-roundup-aug03-2026/en/headerimage/java-news-roundup-image-1786365649835.jpg" alt="Java News Roundup: Shenandoah GC, TeamCity CVE, A2A Java SDK, Camel, Gradle, GlassFish, Groovy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/08/java-news-roundup-aug03-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: Shenandoah GC, TeamCity CVE, A2A Java SDK, Camel, Gradle, GlassFish, Groovy</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-10 12:45</span>
             </div>
         </div>
 </div>
@@ -235,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/sell-on-ebay.jpg" alt="GameStop’s Ryan Cohen Considers Not Buying A Company That Isn’t For Sale With Money He Doesn’t Have And Cannot Raise" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/gamestop-ryan-cohen-ebay-memestock-bloomberg-gamestonk-2000723046" target="_blank">GameStop’s Ryan Cohen Considers Not Buying A Company That Isn’t For Sale With Money He Doesn’t Have And Cannot Raise</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-10 16:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/The-Division-Resurgence-official-image-from-Steam-store-page-Ubisoft-1280x720.jpg" alt="Ubisoft’s Division Spin-Off Gets Dragged On Steam For Microtransactions And Terrible UI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,20 +293,20 @@
                 <span class="time">2026-08-10 12:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/steam-machine-scalpers.jpg" alt="Steam Machine And Controller User Data Leaks After Valve’s European Supplier Gets Hit With Cyber Attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/steam-machine-and-controller-user-data-leaks-after-valves-european-supplier-gets-hit-with-cyber-attack-2000722955" target="_blank">Steam Machine And Controller User Data Leaks After Valve’s European Supplier Gets Hit With Cyber Attack</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-10 12:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1786329312-20260810.png" alt="Saturday Morning Breakfast Cereal - Quantum" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/quantum-7" target="_blank">Saturday Morning Breakfast Cereal - Quantum</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-08-10 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -326,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 73 | 📡 Total Sources: 40 | 📸 With Images: 247 |
-        🔄 Last Updated: 15:47 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 80 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 16:41 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
