@@ -1,38 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-08-10 16:40:49 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-08-10 17:41:35 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NPR News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
-<!-- Generated 9 new posts out of 30 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, August 10, 2026 - 16:41 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, August 10, 2026 - 17:41 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,12 +43,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/10/irans-president-says-khamenei-is-in-perfect?traffic_source=rss" target="_blank">Iran’s president says Khamenei is in ‘perfect health’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-10 17:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/columbia-1-ap-er-260710_1786376855348_hpMain_4x3t_384.jpg" alt="At least 50 dead after 7.4-magnitude earthquake impacts Colombia: Officials" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/International/colombia-earthquake-fatalities-buildings-collapsed/story?id=135518897" target="_blank">At least 50 dead after 7.4-magnitude earthquake impacts Colombia: Officials</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-08-10 16:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8458/live/6b1762d0-94cc-11f1-8dc4-8907761852f3.jpg" alt="More than two-thirds of England now in drought" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c70gk2dl5jyo?at_medium=RSS&at_campaign=rss" target="_blank">More than two-thirds of England now in drought</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-10 16:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/10/g-s1-137832/iraq-shia-pilgrimage-shia-war" target="_blank">Despite Mideast wars, 20 million gather in Iraq for Shia pilgrimage</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-10 16:08</span>
             </div>
         </div>
 <div class="story">
@@ -75,38 +96,20 @@
                 <span class="time">2026-08-10 14:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Tehran-flag-DB-260810_1786341626421_hpMain_4x3t_384.jpg" alt="Iran live updates: US &#x27;low-keying&#x27; negotiations with Iran, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-negotiations-us-messages-exchanged-tehran/?id=135508900" target="_blank">Iran live updates: US &#x27;low-keying&#x27; negotiations with Iran, Trump says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-10 13:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc11/live/b8002050-9495-11f1-9ade-bb7c8a2b6bc0.jpg" alt="At least 13 killed in Ukrainian drone strike deep into Russia" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss" target="_blank">At least 13 killed in Ukrainian drone strike deep into Russia</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-10 12:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb3b/live/fc2895c0-94ac-11f1-afe9-fb1a837ec5d9.jpg" alt="Record 230 people cross Channel in one small boat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&at_campaign=rss" target="_blank">Record 230 people cross Channel in one small boat</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-10 11:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/ford-logo-pcb-style-500x500.jpg" alt="Has Ford got cheap car fever? A $25K crossover is supposedly on the way." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/08/has-ford-got-cheap-car-fever-allegedly-a-25k-crossover-is-on-the-way/" target="_blank">Has Ford got cheap car fever? A $25K crossover is supposedly on the way.</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-10 17:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2252731557-500x500.jpg" alt="Taylor Farms recalls jalapeño products for Salmonella amid Cyclospora outbreak" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,20 +155,20 @@
                 <span class="time">2026-08-10 15:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio" target="_blank">Bose CEO Lila Snyder on the fight for high-quality audio</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-10 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nikhil_ramank_152ca48266/langgraph-vs-crewai-vs-google-adk-choosing-the-right-agent-architecture-for-production-ai-2b3a" target="_blank">LangGraph vs CrewAI vs Google ADK: Choosing the Right Agent Architecture for Production AI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-10 17:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +214,6 @@
                 <span class="time">2026-08-10 15:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/08/jep401-value-objects-preview/en/headerimage/java-istock-image-01-1762720446658-1786336881671.jpg" alt="Project Valhalla&#x27;s First Preview: JEP 401 Redefines == for Java Objects" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/08/jep401-value-objects-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Project Valhalla&#x27;s First Preview: JEP 401 Redefines == for Java Objects</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-10 14:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +233,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/nfBAerFrmxVzWv9M7CZmid-1920-80-1280x720.jpg" alt="20 Years Later, Fan Finds New Secret In One Of The Best Star Wars Games Ever Made" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/20-years-later-fan-finds-new-secret-in-one-of-the-best-star-wars-games-ever-made-2000723080" target="_blank">20 Years Later, Fan Finds New Secret In One Of The Best Star Wars Games Ever Made</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-10 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/51lJuXW4iVL._SY445_SX342_.jpeg?fit=293%2C445&amp;quality=60&amp;ssl=1" alt="The Tainted Cup gets the fantasy detective novel exactly right" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/10/the-tainted-cup-gets-the-fantasy-detective-novel-exactly-right.html" target="_blank">The Tainted Cup gets the fantasy detective novel exactly right</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-10 17:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/sell-on-ebay.jpg" alt="GameStop’s Ryan Cohen Considers Not Buying A Company That Isn’t For Sale With Money He Doesn’t Have And Cannot Raise" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,24 +285,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-s26-plus-sale-august-2026?utm_medium=RSS" target="_blank">You Can Get the Samsung Galaxy S26+ for Over $250 Off Right Now</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-08-10 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KR3A0MMR6EEJFWZ8NXPW73C5/hero-image.png" alt="The Feature-Packed Pixel Buds 2a Are $30 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/pixel-buds-2a-sale-august-2026?utm_medium=RSS" target="_blank">The Feature-Packed Pixel Buds 2a Are $30 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-10 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/1099-ad-thumb.jpg?fit=2231%2C1675&amp;quality=60&amp;ssl=1" alt="This 1967 short film got video chat and online banking right" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/10/philco-ford-1999-ad.html" target="_blank">This 1967 short film got video chat and online banking right</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-10 12:15</span>
             </div>
         </div>
 </div>
@@ -339,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 80 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 16:41 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 83 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 17:41 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
