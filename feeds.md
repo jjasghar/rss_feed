@@ -1,32 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-08-10 17:41:35 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-10 18:39:59 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 24 feeds processed -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, August 10, 2026 - 17:41 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, August 10, 2026 - 18:40 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/10/oman-trying-to-contain-extensive-oil-spill-from-stricken-tanker?traffic_source=rss" target="_blank">Oman trying to contain extensive oil spill from stricken tanker</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-10 18:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +103,29 @@
                 <span class="time">2026-08-10 16:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/10/7-4-magnitude-earthquake-hits-colombia-killing-at-least-20?traffic_source=rss" target="_blank">Earthquake with 7.4 magnitude hits Colombia, killing at least 20</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-10 14:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/" target="_blank">Aptoide becomes the first rival app store to return to Google Play in the US</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-10 18:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/977448/made-by-google-2026-pixel-hardware-launch-event" target="_blank">What to expect from Google’s 2026 Pixel hardware launch event</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-10 17:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/ford-logo-pcb-style-500x500.jpg" alt="Has Ford got cheap car fever? A $25K crossover is supposedly on the way." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -137,24 +162,6 @@
                 <span class="time">2026-08-10 15:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/10/sila-lands-1-4b-pentagon-loan-as-militaries-demand-more-batteries/" target="_blank">Sila lands $1.4B Pentagon loan as militaries demand more batteries</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-10 15:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble" target="_blank">Four takeaways from Mark Zuckerberg&amp;#8217;s massive AI manifesto</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-10 15:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,6 +174,24 @@
                 <span class="title"><a href="https://dev.to/nikhil_ramank_152ca48266/langgraph-vs-crewai-vs-google-adk-choosing-the-right-agent-architecture-for-production-ai-2b3a" target="_blank">LangGraph vs CrewAI vs Google ADK: Choosing the Right Agent Architecture for Production AI</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-10 17:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://gist.github.com/aziis98/368b40d6cae01f8d40a6e3d2cccd4c31" target="_blank">Gtk+Adwaita Markdown Editor in ~600 lines</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-08-10 17:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-KCFI-Optimization" target="_blank">Linux 7.3 Bringing A KCFI Optimization To Benefit Older Intel CPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-10 17:26</span>
             </div>
         </div>
 <div class="story">
@@ -196,24 +221,6 @@
                 <span class="time">2026-08-10 15:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Qt-Edge-AI-Module-Coming" target="_blank">Qt Toolkit To Introduce Edge AI Submodule, Initially For Vision AI With Qt</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-10 15:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17411563/cachyos-august-2026-release" target="_blank">CachyOS is Laying Groundwork for The Server Edition</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-08-10 15:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +240,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JPR283AK9N6BR617ZCVZ6DYG/hero-image.png" alt="Garmin&#x27;s Basic GPS Running Watch Is $70 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/garmin-forerunner-55-deal-august-2026?utm_medium=RSS" target="_blank">Garmin&#x27;s Basic GPS Running Watch Is $70 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-10 18:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/resident-Evil-warped-week-1280x720.jpg" alt="Resident Evil Is Entertaining Zombie, Girl-Power Action That Has Nothing To Do With The Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/resident-evil-2002-movie-review-warp-week-2000723020" target="_blank">Resident Evil Is Entertaining Zombie, Girl-Power Action That Has Nothing To Do With The Game</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-10 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/nfBAerFrmxVzWv9M7CZmid-1920-80-1280x720.jpg" alt="20 Years Later, Fan Finds New Secret In One Of The Best Star Wars Games Ever Made" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,24 +292,6 @@
                 <span class="title"><a href="https://kotaku.com/the-division-resurgence-steam-pc-port-user-reviews-microtransactions-ui-mixed-negative-2000722990" target="_blank">Ubisoft’s Division Spin-Off Gets Dragged On Steam For Microtransactions And Terrible UI</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-08-10 15:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/SwifDoo-PDF-Pro.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="SwifDoo PDF Pro handles your PDF headaches for $30 for life" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/10/swifdoo-pdf-pro-handles-your-pdf-headaches-for-30-for-life.html" target="_blank">SwifDoo PDF Pro handles your PDF headaches for $30 for life</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-10 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KQ7CPBRZNRYJG20EWHKZ4E5E/hero-image.png" alt="You Can Get the Samsung Galaxy S26+ for Over $250 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-s26-plus-sale-august-2026?utm_medium=RSS" target="_blank">You Can Get the Samsung Galaxy S26+ for Over $250 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-10 13:00</span>
             </div>
         </div>
 </div>
@@ -333,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 83 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 17:41 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 89 | 📡 Total Sources: 39 | 📸 With Images: 248 |
+        🔄 Last Updated: 18:40 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
