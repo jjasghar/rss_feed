@@ -1,41 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-08-10 21:30:06 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-08-10 22:24:34 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 9 new posts out of 32 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, August 10, 2026 - 21:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, August 10, 2026 - 22:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -58,6 +53,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/8/10/wildfires-burn-across-indonesia-as-officials-cite-el-nino-as-a-cause?traffic_source=rss" target="_blank">Wildfires burn across Indonesia as officials cite El Nino as a cause</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-10 21:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/10/nx-s1-5925117/reflecting-pool-david-hearn-legal-fight" target="_blank">After his Reflecting Pool vandalism case is dismissed, David Hearn looks for closure</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-10 20:49</span>
             </div>
         </div>
 <div class="story">
@@ -94,15 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/08/10/nx-s1-5925350/the-nerd-reich-tracks-the-unmasking-of-silicon-valleys-true-politics" target="_blank">&#x27;The Nerd Reich&#x27; tracks the &#x27;unmasking of Silicon Valley&#x27;s true politics&#x27;</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-08-10 17:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/10/irans-president-says-khamenei-is-in-perfect?traffic_source=rss" target="_blank">Iran’s president says Khamenei is in ‘perfect health’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-10 17:05</span>
             </div>
         </div>
 </div>
@@ -173,6 +168,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aboalynx/what-happens-when-20000-people-click-the-same-seat-245n" target="_blank">What Happens When 20,000 People Click the Same Seat</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-10 22:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/im_citius/your-terragrunt-or-terraform-plan-is-4000-lines-only-two-of-them-matter-4p8" target="_blank">Your terragrunt (or terraform) plan is 4,000 lines. Only two of them matter.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-10 21:18</span>
@@ -214,15 +218,6 @@
                 <span class="time">2026-08-10 17:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://gist.github.com/aziis98/368b40d6cae01f8d40a6e3d2cccd4c31" target="_blank">Gtk+Adwaita Markdown Editor in ~600 lines</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-08-10 17:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/1280px-Can_Am_3-wheel_motorcycle_leading_Mario-style_karts_near_Yoyogi_Park.jpg?fit=1280%2C964&amp;quality=60&amp;ssl=1" alt="The best Mario Kart build is an economics problem from 1900" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/10/mario-kart-pareto-frontier.html" target="_blank">The best Mario Kart build is an economics problem from 1900</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-10 21:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/tokon-1280x720.jpg" alt="Marvel Tōkon PC Patch Improves Struggling Steam Version: ‘Maybe PS5 Players Will Play With Us Now’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,20 +291,20 @@
                 <span class="time">2026-08-10 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/nfBAerFrmxVzWv9M7CZmid-1920-80-1280x720.jpg" alt="20 Years Later, Fan Finds New Secret In One Of The Best Star Wars Games Ever Made" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/20-years-later-fan-finds-new-secret-in-one-of-the-best-star-wars-games-ever-made-2000723080" target="_blank">20 Years Later, Fan Finds New Secret In One Of The Best Star Wars Games Ever Made</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-10 17:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/08/10/passionate-intensity" target="_blank">Passionate Intensity</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-08-10 20:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1786329312-20260810.png" alt="Saturday Morning Breakfast Cereal - Quantum" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -342,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 95 | 📡 Total Sources: 40 | 📸 With Images: 248 |
-        🔄 Last Updated: 21:30 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 96 | 📡 Total Sources: 40 | 📸 With Images: 248 |
+        🔄 Last Updated: 22:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
