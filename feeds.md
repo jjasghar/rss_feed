@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-08-10 22:24:34 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-10 23:23:43 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, August 10, 2026 - 22:24 UTC</div>
+    <div class="newspaper-date">Monday, August 10, 2026 - 23:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -106,6 +107,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/skg-500x500-1778860940.jpg" alt="Ars Live: Ross Scott discusses the Stop Killing Games movement" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/" target="_blank">Ars Live: Ross Scott discusses the Stop Killing Games movement</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-10 22:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision" target="_blank">Mark Zuckerberg doesn’t understand how to live</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-10 22:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/ss_03896903e32739497c26e1724dcbab75772970fe.1920x1080-500x500.jpg" alt="Players lose access to Aliens: Fireteam Elite on Nintendo Switch without refunds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -139,24 +158,6 @@
                 <span class="title"><a href="https://www.theverge.com/tech/977581/bluesky-hide-reposts-user-post-count-threads" target="_blank">Bluesky now lets you hide reposts from that annoying person you follow</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-08-10 19:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/" target="_blank">Aptoide becomes the first rival app store to return to Google Play in the US</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-10 18:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/977448/made-by-google-2026-pixel-hardware-launch-event" target="_blank">What to expect from Google’s 2026 Pixel hardware launch event</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-10 17:30</span>
             </div>
         </div>
 </div>
@@ -238,6 +239,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/fields-of-mistria-trailer-1-1280x720.jpg" alt="13 Fields of Mistria Tips For First-Time Farmers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/13-fields-of-mistria-tips-for-first-time-farmers-2000723128" target="_blank">13 Fields of Mistria Tips For First-Time Farmers</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-10 22:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/1280px-Can_Am_3-wheel_motorcycle_leading_Mario-style_karts_near_Yoyogi_Park.jpg?fit=1280%2C964&amp;quality=60&amp;ssl=1" alt="The best Mario Kart build is an economics problem from 1900" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -280,15 +290,6 @@
                 <span class="title"><a href="https://lifehacker.com/health/garmin-forerunner-55-deal-august-2026?utm_medium=RSS" target="_blank">Garmin&#x27;s Basic GPS Running Watch Is $70 Off Right Now</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-08-10 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/resident-Evil-warped-week-1280x720.jpg" alt="Resident Evil Is Entertaining Zombie, Girl-Power Action That Has Nothing To Do With The Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/resident-evil-2002-movie-review-warp-week-2000723020" target="_blank">Resident Evil Is Entertaining Zombie, Girl-Power Action That Has Nothing To Do With The Game</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-10 18:00</span>
             </div>
         </div>
 </div>
@@ -346,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 96 | 📡 Total Sources: 40 | 📸 With Images: 248 |
-        🔄 Last Updated: 22:24 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 98 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 23:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
