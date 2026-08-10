@@ -1,32 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-08-10 09:05:04 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-08-10 10:55:33 UTC -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, August 10, 2026 - 09:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, August 10, 2026 - 10:55 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/10/nx-s1-5924901/michigan-students-jeffrey-epstein-sexual-abuse-interlochen-center-arts" target="_blank">An arts school where Epstein allegedly preyed on students reveals decades of abuse</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-10 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -70,6 +80,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-daniel-kinahan-alleged-crime-boss_7317569.jpg?20260809143207" alt="&#x27;I think we know I won&#x27;t be getting bail,&#x27; suspected cartel boss tells judge" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/daniel-kinahan-alleged-boss-of-irish-crime-gang-charged-and-taken-to-jail-13571522" target="_blank">&#x27;I think we know I won&#x27;t be getting bail,&#x27; suspected cartel boss tells judge</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-08-10 00:25</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/26/08/1920x1080/skynews-daniel-kinahan-alleged-crime-boss_7317569.jpg?20260809143207" alt="Alleged boss of Irish crime gang appears in court after high-security extradition" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
@@ -78,29 +97,20 @@
                 <span class="time">2026-08-10 00:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-daniel-kinahan-alleged-crime-boss_7317569.jpg?20260809143207" alt="Alleged boss of Irish crime gang charged and taken to jail" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/daniel-kinahan-alleged-boss-of-irish-crime-gang-charged-and-taken-to-jail-13571522" target="_blank">Alleged boss of Irish crime gang charged and taken to jail</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-08-10 00:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/10/houthis-renew-missile-and-drone-attacks-on-yemens-port-of-al-makha?traffic_source=rss" target="_blank">Houthis renew missile and drone attacks on Yemen’s port of al-Makha</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-10 00:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a7797d9407c0a41b1ffd3d7/master/pass/How-to-Choose-the-Right-Camera--A-Step-by-Step-Guide.jpg" alt="How to Choose a Camera (2026): Sensors, Megapixels, Terms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-to-choose-a-camera/" target="_blank">How to Choose a Camera (2026): Sensors, Megapixels, Terms</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-10 10:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a75e803f890ad2594b06f9d/master/pass/BlindAstronaut.jpg" alt="Space Agencies Are Trying to Keep Astronauts From Losing Their Sight" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,20 +156,29 @@
                 <span class="time">2026-08-09 17:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/" target="_blank">TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-09 16:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/wwolfson97/launching-on-product-hunt-today-khl" target="_blank">Launching on Product Hunt Today - Calisthenics Rep Tracker</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-10 10:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model" target="_blank">Meta Muse Glimmer – open weights 30B local coding model</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-10 10:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,24 +213,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-rc7-Released" target="_blank">Linux 7.2-rc7 Released Following Another Exhausting AI-Driven Week</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-08-09 22:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/praiztech/a-broken-heading-hierarchy-is-an-architecture-problem-not-a-markup-one-489n" target="_blank">A broken heading hierarchy is an architecture problem, not a markup one</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-09 21:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4elkbkue05e1bdihpt4e.png" alt="Swapping Across 25 Models With One Line" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/devopsdaily/swapping-across-25-models-with-one-line-3je8" target="_blank">Swapping Across 25 Models With One Line</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-09 20:13</span>
             </div>
         </div>
 </div>
@@ -288,6 +289,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://www.questionablecontent.net/comics/5891.png" alt="Dawning Horror" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5891" target="_blank">Dawning Horror</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-08-10 01:07</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1786238482-20260809.png" alt="Saturday Morning Breakfast Cereal - Simulation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -301,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 68 | 📡 Total Sources: 40 | 📸 With Images: 248 |
-        🔄 Last Updated: 09:05 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 70 | 📡 Total Sources: 40 | 📸 With Images: 247 |
+        🔄 Last Updated: 10:55 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
