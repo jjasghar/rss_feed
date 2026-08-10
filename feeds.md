@@ -1,31 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-08-10 19:46:04 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-08-10 20:29:22 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 23 feeds processed -->
+<!-- Generated 5 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Monday, August 10, 2026 - 19:46 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Monday, August 10, 2026 - 20:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -101,6 +99,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2190858040-500x500.jpg" alt="Zuckerberg’s superyacht ignored emergency channel, failed to aid stranded boat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/08/zuckerbergs-super-yacht-stood-by-while-stranded-boaters-looked-for-help/" target="_blank">Zuckerberg’s superyacht ignored emergency channel, failed to aid stranded boat</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-10 20:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/977581/bluesky-hide-reposts-user-post-count-threads" target="_blank">Bluesky now lets you hide reposts from that annoying person you follow</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-10 19:26</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -136,29 +152,20 @@
                 <span class="time">2026-08-10 16:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/" target="_blank">Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-10 16:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/11/googleplay-500x500-1759849988.jpeg" alt="Third-party app stores are rolling out in Google Play, but there&#x27;s only one right now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/08/third-party-app-stores-are-rolling-out-in-google-play-but-theres-only-one-right-now/" target="_blank">Third-party app stores are rolling out in Google Play, but there&#x27;s only one right now</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-10 15:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/engineering/using-the-github-copilot-sdk-for-java/" target="_blank">Using the GitHub Copilot SDK for Java</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-08-10 19:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,15 +211,6 @@
                 <span class="time">2026-08-10 15:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/08/Linux-mint-kernel-management.webp?resize=406%2C232&amp;ssl=1" alt="Linux Mint now deletes old kernel versions automatically" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/linux-mint-deletes-old-kernels-automatically" target="_blank">Linux Mint now deletes old kernel versions automatically</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-08-10 15:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +237,15 @@
                 <span class="title"><a href="https://lifehacker.com/tech/my-favorite-bose-anc-earbuds-deal-august-2026?utm_medium=RSS" target="_blank">My Favorite Bose ANC Earbuds Are $50 Off</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-08-10 19:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/IMG_2685-e1786042152548.jpeg?fit=768%2C700&amp;quality=60&amp;ssl=1" alt="Trump&#x27;s mass deportation machine is a $1.4 billion private-prison bonanza" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/10/private-prisons-trump-immigration-detention-profits.html" target="_blank">Trump&#x27;s mass deportation machine is a $1.4 billion private-prison bonanza</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-10 19:11</span>
             </div>
         </div>
 <div class="story">
@@ -275,15 +282,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/08/10/the-tainted-cup-gets-the-fantasy-detective-novel-exactly-right.html" target="_blank">The Tainted Cup gets the fantasy detective novel exactly right</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-08-10 17:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/sell-on-ebay.jpg" alt="GameStop’s Ryan Cohen Considers Not Buying A Company That Isn’t For Sale With Money He Doesn’t Have And Cannot Raise" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/gamestop-ryan-cohen-ebay-memestock-bloomberg-gamestonk-2000723046" target="_blank">GameStop’s Ryan Cohen Considers Not Buying A Company That Isn’t For Sale With Money He Doesn’t Have And Cannot Raise</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-10 16:17</span>
             </div>
         </div>
 </div>
@@ -332,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 89 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 19:46 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 91 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 20:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
