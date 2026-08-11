@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-08-11 16:44:03 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-11 17:46:24 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, August 11, 2026 - 16:44 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, August 11, 2026 - 17:46 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -169,6 +165,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/erikch/nuxt-45-ssr-streaming-is-kind-of-a-big-deal-2i37" target="_blank">Nuxt 4.5 SSR Streaming Is Kind Of A Big Deal</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-11 17:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here" target="_blank">Mojo 1.0 is here</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-08-11 16:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ujimobile/how-we-test-mobile-web-performance-on-real-android-and-iphone-devices-49o5" target="_blank">How We Test Mobile Web Performance on Real Android and iPhone Devices</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-11 16:38</span>
@@ -201,24 +215,6 @@
                 <span class="time">2026-08-11 13:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/nvidia-nemotron-3-5-lightning" target="_blank">Canonical integrates NVIDIA Nemotron 3.5 Lightning with Ubuntu for always-on AI agents</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-08-11 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c75gk620r22o" target="_blank">England set to be one of the first countries to eliminate hepatitis C</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-11 12:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -247,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KZRXPQR7JGN7EYBTHCSWR8BJ/hero-image.jpg" alt="This Entry-Level Acer Nitro V16 Gaming Laptop Is $200 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/acer-nitro-v16-gaming-laptop-deal-august-2026?utm_medium=RSS" target="_blank">This Entry-Level Acer Nitro V16 Gaming Laptop Is $200 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-11 17:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/1280px-New_York_Comic_Con_2016_-_Voltron_282993222178029.jpg?fit=1280%2C1370&amp;quality=60&amp;ssl=1" alt="The designer of Voltron and the Power Rangers robots has died" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -292,15 +297,6 @@
                 <span class="time">2026-08-11 12:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/fields-of-mistria-trailer-1-1280x720.jpg" alt="13 Fields of Mistria Tips For First-Time Farmers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/13-fields-of-mistria-tips-for-first-time-farmers-2000723128" target="_blank">13 Fields of Mistria Tips For First-Time Farmers</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-10 22:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -338,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 103 | 📡 Total Sources: 40 | 📸 With Images: 244 |
-        🔄 Last Updated: 16:44 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 97 | 📡 Total Sources: 40 | 📸 With Images: 243 |
+        🔄 Last Updated: 17:46 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
