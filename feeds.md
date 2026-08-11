@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-08-11 17:46:24 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-08-11 18:44:02 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, August 11, 2026 - 17:46 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Tuesday, August 11, 2026 - 18:44 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/gilman-rt-er-260811_1786464098219_hpMain_4x3t_384.jpg" alt="Former US Marine Robert Gilman released after years of detention in Russia" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/former-us-marine-robert-gilman-released-detention-russia/story?id=135549706" target="_blank">Former US Marine Robert Gilman released after years of detention in Russia</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-11 18:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/11/brazils-supreme-court-to-weigh-cases-that-could-weaken-amazon-protections?traffic_source=rss" target="_blank">Brazil’s Supreme Court to weigh cases that could weaken Amazon protections</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-11 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +97,20 @@
                 <span class="time">2026-08-11 12:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1786447152843_tdy_news_7a_nobles_primary_voting_260811_S3_1920x1080-i1hsfe.jpg" alt="All Eyes on Key Midterm Primaries in Wisconsin and Minnesota" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/progressive-democrats-face-more-major-tests-in-key-primaries-268096069632" target="_blank">All Eyes on Key Midterm Primaries in Wisconsin and Minnesota</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-11 11:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/11/g-s1-138174/up-first-newsletter-national-guard-primaries-wisconsin-colombia-earthquake-childhood-vaccines" target="_blank">1 year in, National Guard became a part of D.C. life. And, deadly quake hits Colombia</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-11 11:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/978152/google-tv-freeplay-on-demand" target="_blank">Google’s free streaming service now lets you pick shows and movies to watch</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-11 18:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1410976365-500x500.jpg" alt="Tracking extreme heat by the hour makes climate change seem even worse" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,20 +156,20 @@
                 <span class="time">2026-08-11 13:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/11/what-comes-after-the-smartphone-amazons-panos-panay-will-make-his-case-at-techcrunch-disrupt-2026/" target="_blank">What comes after the smartphone? Amazon’s Panos Panay will make his case at TechCrunch Disrupt 2026</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-11 12:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/developer-skills/career-growth/from-coder-to-orchestrator-how-agents-shift-the-role-of-a-developer/" target="_blank">From coder to orchestrator: How agents shift the role of a developer</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-08-11 18:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -189,30 +198,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!GFOE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8cebf337-7395-47d1-b080-c4145a269eed_1768x594.png" alt="Software engineering at a proprietary trading company: Optiver" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/optiver" target="_blank">Software engineering at a proprietary trading company: Optiver</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-08-11 16:17</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/review/fedora-pantherlake-thermald-tuned" target="_blank">Analyzing Fedora&#x27;s Slow Performance On The Framework Laptop 13 Pro With Intel Panther Lake</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-08-11 14:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/thecodearcher/build-multi-tenant-auth-in-go-with-limen-2cp6" target="_blank">Build multi-tenant auth in Go with Limen</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-11 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Flatpak-1.19-Released" target="_blank">Flatpak 1.19 Released With Nine Security Fixes</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-11 13:41</span>
             </div>
         </div>
 </div>
@@ -243,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KZNWC09CE9NZ5F274JRRS9VK/hero-image.jpg" alt="Seven Surprisingly Useful Mac Apps You&#x27;ve Never Heard Of" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/surprisingly-useful-mac-apps-youve-never-heard-of?utm_medium=RSS" target="_blank">Seven Surprisingly Useful Mac Apps You&#x27;ve Never Heard Of</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-11 18:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KZRXPQR7JGN7EYBTHCSWR8BJ/hero-image.jpg" alt="This Entry-Level Acer Nitro V16 Gaming Laptop Is $200 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,15 +297,6 @@
                 <span class="time">2026-08-11 13:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/kotordamn.jpg" alt="Star Wars: Knights Of The Old Republic Nearly Contained A Swear Word That Would Curl Your Toes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/star-wars-knights-of-the-old-republic-damn-lucasfilm-bioware-2000723372" target="_blank">Star Wars: Knights Of The Old Republic Nearly Contained A Swear Word That Would Curl Your Toes</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-11 12:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -334,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 97 | 📡 Total Sources: 40 | 📸 With Images: 243 |
-        🔄 Last Updated: 17:46 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 98 | 📡 Total Sources: 38 | 📸 With Images: 244 |
+        🔄 Last Updated: 18:44 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
