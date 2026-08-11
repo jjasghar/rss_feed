@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-08-11 15:47:34 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-08-11 16:44:03 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Tuesday, August 11, 2026 - 15:47 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, August 11, 2026 - 16:44 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -64,6 +66,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/tdy_airforceone3_260811-ed9csi.jpg" alt="Trump Secretly Switched Planes in Turkey Amid Reported Threat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/trump-boarded-decoy-air-force-one-in-turkey-after-nato-summit-268102213529" target="_blank">Trump Secretly Switched Planes in Turkey Amid Reported Threat</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-11 12:10</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -90,20 +101,29 @@
                 <span class="time">2026-08-11 11:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/planet-money/2026/08/11/g-s1-138059/the-secret-economics-inside-the-new-planet-money-board-game" target="_blank">The secret economics inside the new Planet Money board game</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-11 10:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1410976365-500x500.jpg" alt="Tracking extreme heat by the hour makes climate change seem even worse" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/08/tracking-extreme-heat-by-the-hour-makes-climate-change-seem-even-worse/" target="_blank">Tracking extreme heat by the hour makes climate change seem even worse</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-11 16:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata" target="_blank">Apple could help you prove your iPhone photos aren’t deepfakes</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-11 16:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a7a4d4378b35b1bb4189321/master/pass/Review--Razer-Naga-V3-Pro.jpg" alt="Razer Naga V3 Pro Review: Buttons Galore" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,29 +160,20 @@
                 <span class="time">2026-08-11 12:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images" target="_blank">Claude will apply invisible watermarks to AI text and images</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-11 12:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69e7bac18d228aa7f9797170/master/pass/How-the-Best-Red-Light-Therapy-Mask-Can-Save-You-Thousands-of-Dollars.jpg" alt="Ranking the Best Red-Light Therapy Masks and LED Devices of 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/led-face-masks-and-red-light-therapy/" target="_blank">Ranking the Best Red-Light Therapy Masks and LED Devices of 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-11 11:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ujimobile/how-we-test-mobile-web-performance-on-real-android-and-iphone-devices-49o5" target="_blank">How We Test Mobile Web Performance on Real Android and iPhone Devices</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-11 16:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,21 +211,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://res.infoq.com/news/2026/08/netflix-service-topology/en/headerimage/Netflix-Service-Topology-Header-1784725848359.jpeg" alt="How Netflix Scaled Its Real-Time Service Map" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/08/netflix-service-topology/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How Netflix Scaled Its Real-Time Service Map</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-11 12:20</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17414747/hermes-desktop-remote-gateway" target="_blank">Run Hermes on Raspberry Pi, Control It from Your Laptop</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-08-11 11:38</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c75gk620r22o" target="_blank">England set to be one of the first countries to eliminate hepatitis C</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-11 12:41</span>
             </div>
         </div>
 </div>
@@ -222,6 +224,15 @@
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/08/ai-genie-in-the-wild.html" target="_blank">AI Genie in the Wild</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-08-11 15:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -236,6 +247,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/1280px-New_York_Comic_Con_2016_-_Voltron_282993222178029.jpg?fit=1280%2C1370&amp;quality=60&amp;ssl=1" alt="The designer of Voltron and the Power Rangers robots has died" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/11/katsushi-murakami-voltron-designer.html" target="_blank">The designer of Voltron and the Power Rangers robots has died</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-11 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/Promova-Premium-Plan.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Learn up to 12 languages without the hassle and self-doubt for just $80" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +301,6 @@
                 <span class="time">2026-08-10 22:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/undertale-earthbound-demake.jpg?fit=1200%2C790&amp;quality=60&amp;ssl=1" alt="Fans are cramming Undertale into EarthBound&#x27;s Super Nintendo engine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/10/undertale-earthbound-demake.html" target="_blank">Fans are cramming Undertale into EarthBound&#x27;s Super Nintendo engine</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-10 22:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -327,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 242 |
-        🔄 Last Updated: 15:47 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 103 | 📡 Total Sources: 40 | 📸 With Images: 244 |
+        🔄 Last Updated: 16:44 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
