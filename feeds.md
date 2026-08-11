@@ -1,41 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-08-11 19:52:36 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-11 20:32:07 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 33 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Tuesday, August 11, 2026 - 19:52 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Tuesday, August 11, 2026 - 20:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -111,6 +107,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/facebook-instagram-500x500-1761326403.jpg" alt="Meta can&#x27;t stop states&#x27; $1.4 trillion lawsuit from going to trial" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/08/meta-cant-stop-states-1-4-trillion-lawsuit-from-going-to-trial/" target="_blank">Meta can&#x27;t stop states&#x27; $1.4 trillion lawsuit from going to trial</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-11 20:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a7b0862e8bb799c3501eef8/master/pass/Lettuce-.gif" alt="Is It Safe to Eat Lettuce Yet?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/is-it-safe-to-eat-lettuce-yet/" target="_blank">Is It Safe to Eat Lettuce Yet?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-11 20:26</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-2-500x500.jpg" alt="Google says Gemini has reached 1B users faster than any other Google product" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -146,24 +160,6 @@
                 <span class="time">2026-08-11 18:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1410976365-500x500.jpg" alt="Tracking extreme heat by the hour makes climate change seem even worse" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/08/tracking-extreme-heat-by-the-hour-makes-climate-change-seem-even-worse/" target="_blank">Tracking extreme heat by the hour makes climate change seem even worse</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-11 16:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata" target="_blank">Apple could help you prove your iPhone photos aren’t deepfakes</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-11 16:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -176,6 +172,15 @@
                 <span class="title"><a href="https://dev.to/musoyangrigor/i-built-gitx-to-turn-messy-ai-generated-changes-into-clean-git-history-1408" target="_blank">I built GitX to turn messy AI-generated changes into clean Git history</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-11 19:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/" target="_blank">Nvidia Nemotron 3.5 Lightning and NeMo Switchyard</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-11 19:35</span>
             </div>
         </div>
 <div class="story">
@@ -212,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/ujimobile/how-we-test-mobile-web-performance-on-real-android-and-iphone-devices-49o5" target="_blank">How We Test Mobile Web Performance on Real Android and iPhone Devices</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-11 16:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!GFOE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8cebf337-7395-47d1-b080-c4145a269eed_1768x594.png" alt="Software engineering at a proprietary trading company: Optiver" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/optiver" target="_blank">Software engineering at a proprietary trading company: Optiver</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-08-11 16:17</span>
             </div>
         </div>
 </div>
@@ -261,6 +257,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2GTD2GVD2SP033WMTR85N6/hero-image.png" alt="The Best Way to Get Past an Article&#x27;s Paywall" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/how-to-bypass-a-paywall-to-read-an-article-for-free?utm_medium=RSS" target="_blank">The Best Way to Get Past an Article&#x27;s Paywall</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-11 19:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/1280px-thumbnail-e1786476439929.jpg?fit=768%2C509&amp;quality=60&amp;ssl=1" alt="Man, those Romans sure lost a lot of cargo boats" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -294,15 +299,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/08/11/katsushi-murakami-voltron-designer.html" target="_blank">The designer of Voltron and the Power Rangers robots has died</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-08-11 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/Promova-Premium-Plan.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Learn up to 12 languages without the hassle and self-doubt for just $80" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/11/learn-up-to-12-languages-without-the-hassle-and-self-doubt-for-just-80.html" target="_blank">Learn up to 12 languages without the hassle and self-doubt for just $80</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-11 15:00</span>
             </div>
         </div>
 </div>
@@ -342,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 101 | 📡 Total Sources: 39 | 📸 With Images: 245 |
-        🔄 Last Updated: 19:52 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 103 | 📡 Total Sources: 40 | 📸 With Images: 246 |
+        🔄 Last Updated: 20:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
