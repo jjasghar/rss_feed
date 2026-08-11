@@ -1,42 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-08-11 14:10:10 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-11 15:47:34 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 11 new posts out of 33 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, August 11, 2026 - 14:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Tuesday, August 11, 2026 - 15:47 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/11/lebanons-parliament-votes-to-end-death-penalty-first-in-middle-east-to-so?traffic_source=rss" target="_blank">Lebanon parliament votes to end death penalty, 1st in Middle East to do so</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-11 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40a4/live/f357c920-958d-11f1-b8bb-1b597db1ad66.jpg" alt="Summer 2026 on course to be UK&#x27;s hottest on record, says Met Office" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -97,20 +99,29 @@
                 <span class="time">2026-08-11 10:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f69/live/2dd49110-956f-11f1-b2ab-0dd01740f9f6.jpg" alt="Trump hid in catering truck in secret plane swap over Iran threat, reports say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss" target="_blank">Trump hid in catering truck in secret plane swap over Iran threat, reports say</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-11 09:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a7a4d4378b35b1bb4189321/master/pass/Review--Razer-Naga-V3-Pro.jpg" alt="Razer Naga V3 Pro Review: Buttons Galore" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/razer-naga-v3-pro/" target="_blank">Razer Naga V3 Pro Review: Buttons Galore</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-11 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack" target="_blank">‘Zoomsday’ hack uncovered using fewer than 20 AI prompts</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-11 14:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a7a2036c58ed7121c9fbad3/master/pass/AIEmission.jpg" alt="AI Could Help Fossil Fuel Companies Create More Emissions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,29 +158,20 @@
                 <span class="time">2026-08-11 11:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/05/passkey-target-illustration-500x500.jpg" alt="New Pass-ta-key attack reveals all the things we didn&#x27;t know about passkeys" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/" target="_blank">New Pass-ta-key attack reveals all the things we didn&#x27;t know about passkeys</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-11 11:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a236c81923e8b4d30970aa7/master/pass/The-Best-Red-Light-Therapy-for-Hair-Growth.jpg" alt="Best Red-Light Therapy for Hair Growth and Restoration (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-red-light-therapy-for-hair-growth/" target="_blank">Best Red-Light Therapy for Hair Growth and Restoration (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-11 09:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/fedora-pantherlake-thermald-tuned" target="_blank">Analyzing Fedora&#x27;s Slow Performance On The Framework Laptop 13 Pro With Intel Panther Lake</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-11 14:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -215,15 +217,6 @@
                 <span class="time">2026-08-11 11:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/orix/deploying-to-cloudflare-pages-from-pure-python-no-node-no-wrangler-2ea1" target="_blank">Deploying to Cloudflare Pages from pure Python — no Node, no wrangler</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-11 11:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/Promova-Premium-Plan.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Learn up to 12 languages without the hassle and self-doubt for just $80" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/11/learn-up-to-12-languages-without-the-hassle-and-self-doubt-for-just-80.html" target="_blank">Learn up to 12 languages without the hassle and self-doubt for just $80</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-11 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KZQT1VJ3RAWB9PDEFHNWW78N/hero-image.png" alt="The Out-of-Touch Adults&#x27; Guide to Kid Culture: What Is the Matcha Filter?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,20 +290,20 @@
                 <span class="time">2026-08-10 22:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/1280px-Can_Am_3-wheel_motorcycle_leading_Mario-style_karts_near_Yoyogi_Park.jpg?fit=1280%2C964&amp;quality=60&amp;ssl=1" alt="The best Mario Kart build is an economics problem from 1900" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/10/mario-kart-pareto-frontier.html" target="_blank">The best Mario Kart build is an economics problem from 1900</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-10 21:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1786402084-20260811.png" alt="Saturday Morning Breakfast Cereal - Brave" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/brave" target="_blank">Saturday Morning Breakfast Cereal - Brave</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-08-11 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.questionablecontent.net/comics/5892.png" alt="A Good Day, In The End" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -320,22 +322,13 @@
                 <span class="time">2026-08-10 20:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1786329312-20260810.png" alt="Saturday Morning Breakfast Cereal - Quantum" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/quantum-7" target="_blank">Saturday Morning Breakfast Cereal - Quantum</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-08-10 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 112 | 📡 Total Sources: 40 | 📸 With Images: 243 |
-        🔄 Last Updated: 14:10 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 242 |
+        🔄 Last Updated: 15:47 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
