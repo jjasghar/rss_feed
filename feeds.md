@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-08-10 23:23:43 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing 54 RSS feeds at 2026-08-11 00:50:39 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, August 10, 2026 - 23:24 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, August 11, 2026 - 00:50 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -169,9 +165,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tonnydarel/tennis-players-can-now-improve-strokes-without-coaches-using-ai-powered-feedback-technology-482b" target="_blank">Tennis Players Can Now Improve Strokes Without Coaches Using AI-Powered Feedback Technology</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-11 00:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/aboalynx/what-happens-when-20000-people-click-the-same-seat-245n" target="_blank">What Happens When 20,000 People Click the Same Seat</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-10 22:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://www.b-list.org/weblog/2026/aug/10/newlines/" target="_blank">Breaking up (lines) is hard to do</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-08-10 21:32</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +213,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Fedora-CoreOS-OOMD-zRAM-Swap" target="_blank">Fedora CoreOS To Enable systemd-oomd &amp; zRAM Swap By Default</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-08-10 19:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/engineering/using-the-github-copilot-sdk-for-java/" target="_blank">Using the GitHub Copilot SDK for Java</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-08-10 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nikhil_ramank_152ca48266/langgraph-vs-crewai-vs-google-adk-choosing-the-right-agent-architecture-for-production-ai-2b3a" target="_blank">LangGraph vs CrewAI vs Google ADK: Choosing the Right Agent Architecture for Production AI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-10 17:38</span>
             </div>
         </div>
 </div>
@@ -248,12 +244,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/undertale-earthbound-demake.jpg?fit=1200%2C790&amp;quality=60&amp;ssl=1" alt="Fans are cramming Undertale into EarthBound&#x27;s Super Nintendo engine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/10/undertale-earthbound-demake.html" target="_blank">Fans are cramming Undertale into EarthBound&#x27;s Super Nintendo engine</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-10 22:38</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/1280px-Can_Am_3-wheel_motorcycle_leading_Mario-style_karts_near_Yoyogi_Park.jpg?fit=1280%2C964&amp;quality=60&amp;ssl=1" alt="The best Mario Kart build is an economics problem from 1900" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
                 <span class="title"><a href="https://boingboing.net/2026/08/10/mario-kart-pareto-frontier.html" target="_blank">The best Mario Kart build is an economics problem from 1900</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-08-10 21:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KZPC6ZE1Q6QX52HJ12X2QJRE/hero-image.jpg" alt="You Can (Maybe) Run Meta&#x27;s Latest AI Model Locally on Your Computer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/how-to-run-metas-latest-ai-model-locally-on-your-computer?utm_medium=RSS" target="_blank">You Can (Maybe) Run Meta&#x27;s Latest AI Model Locally on Your Computer</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-10 21:00</span>
             </div>
         </div>
 <div class="story">
@@ -272,24 +286,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/my-favorite-bose-anc-earbuds-deal-august-2026?utm_medium=RSS" target="_blank">My Favorite Bose ANC Earbuds Are $50 Off</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-08-10 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/IMG_2685-e1786042152548.jpeg?fit=768%2C700&amp;quality=60&amp;ssl=1" alt="Trump&#x27;s mass deportation machine is a $1.4 billion private-prison bonanza" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/10/private-prisons-trump-immigration-detention-profits.html" target="_blank">Trump&#x27;s mass deportation machine is a $1.4 billion private-prison bonanza</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-10 19:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JPR283AK9N6BR617ZCVZ6DYG/hero-image.png" alt="Garmin&#x27;s Basic GPS Running Watch Is $70 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/garmin-forerunner-55-deal-august-2026?utm_medium=RSS" target="_blank">Garmin&#x27;s Basic GPS Running Watch Is $70 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-10 18:30</span>
             </div>
         </div>
 </div>
@@ -347,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 98 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 23:24 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 96 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 00:50 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
