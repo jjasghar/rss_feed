@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-08-11 02:58:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-11 04:16:07 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 1 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, August 11, 2026 - 02:58 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Tuesday, August 11, 2026 - 04:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -194,6 +194,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.effort.news/uk-lobby" target="_blank">The UK&#x27;s War on Anonymity Has Come to America</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-10 23:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/aboalynx/what-happens-when-20000-people-click-the-same-seat-245n" target="_blank">What Happens When 20,000 People Click the Same Seat</a></span>
                 <span class="feed">DEV Community</span>
@@ -207,15 +216,6 @@
                 <span class="title"><a href="https://www.b-list.org/weblog/2026/aug/10/newlines/" target="_blank">Breaking up (lines) is hard to do</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2026-08-10 21:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/im_citius/your-terragrunt-or-terraform-plan-is-4000-lines-only-two-of-them-matter-4p8" target="_blank">Your terragrunt (or terraform) plan is 4,000 lines. Only two of them matter.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-10 21:18</span>
             </div>
         </div>
 </div>
@@ -332,22 +332,13 @@
                 <span class="time">2026-08-10 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/size_and_lifespan.png" alt="Size and Lifespan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3283/" target="_blank">Size and Lifespan</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-08-10 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 102 | 📡 Total Sources: 40 | 📸 With Images: 248 |
-        🔄 Last Updated: 02:58 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 101 | 📡 Total Sources: 40 | 📸 With Images: 248 |
+        🔄 Last Updated: 04:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
