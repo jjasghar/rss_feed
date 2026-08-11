@@ -1,37 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-08-11 20:32:07 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-11 21:33:53 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Tuesday, August 11, 2026 - 20:32 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Tuesday, August 11, 2026 - 21:34 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/nicky-af1-abc-jt-260811_1786460313609_hpMain_4x3t_384.jpg" alt="Trump&#x27;s reported covert flight spotlights deceptive acts to protect POTUS: ANALYSIS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trumps-reported-covert-flight-puts-spotlight-deceptive-actions/story?id=135548108" target="_blank">Trump&#x27;s reported covert flight spotlights deceptive acts to protect POTUS: ANALYSIS</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-11 21:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-1-ap-gmh-260807_1786107748117_hpMain_4x3t_384.jpg" alt="Court asked to block Trump&#x27;s 2nd executive order targeting birthright citizenship" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,15 +104,6 @@
                 <span class="time">2026-08-11 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40a4/live/f357c920-958d-11f1-b8bb-1b597db1ad66.jpg" alt="Summer 2026 on course to be UK&#x27;s hottest on record, says Met Office" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/weather/articles/cn8n9pg54m1o?at_medium=RSS&at_campaign=rss" target="_blank">Summer 2026 on course to be UK&#x27;s hottest on record, says Met Office</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-11 14:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -125,6 +128,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/" target="_blank">Uber surprised robotics company Serve by selling its entire stake</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-11 20:02</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-2-500x500.jpg" alt="Google says Gemini has reached 1B users faster than any other Google product" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -136,28 +148,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/11/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-steal-their-intimate-pictures/" target="_blank">FBI says cybercriminals are hacking into victims’ online accounts to steal their intimate pictures</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-11 19:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a7b439b4b64dd9eb2b325a6/master/pass/GettyImages-1021078572.jpg" alt="How and When to View the Perseid Meteor Shower (August 2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/how-and-when-to-view-the-perseid-meteor-shower-august-2026/" target="_blank">How and When to View the Perseid Meteor Shower (August 2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-11 19:15</span>
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users" target="_blank">ChatGPT and Gemini both just passed 1 billion users</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-11 19:41</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/978152/google-tv-freeplay-on-demand" target="_blank">Google’s free streaming service now lets you pick shows and movies to watch</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-11 18:35</span>
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/11/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-steal-their-intimate-pictures/" target="_blank">FBI says cybercriminals are hacking into victims’ online accounts to steal their intimate pictures</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-11 19:38</span>
             </div>
         </div>
 </div>
@@ -184,6 +187,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/08/openai-chatgpt-linux.webp?resize=406%2C232&amp;ssl=1" alt="ChatGPT desktop app is now available for Linux (in preview)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/chatgpt-desktop-app-linux-preview" target="_blank">ChatGPT desktop app is now available for Linux (in preview)</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-08-11 19:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-CPU-Microcode-20260811" target="_blank">Intel CPU Microcode 20260811 Release Fixes Eight Security Issues</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-11 19:26</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-github"></span>
@@ -199,24 +220,6 @@
                 <span class="title"><a href="https://dev.to/erikch/nuxt-45-ssr-streaming-is-kind-of-a-big-deal-2i37" target="_blank">Nuxt 4.5 SSR Streaming Is Kind Of A Big Deal</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-11 17:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here" target="_blank">Mojo 1.0 is here</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-08-11 16:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ujimobile/how-we-test-mobile-web-performance-on-real-android-and-iphone-devices-49o5" target="_blank">How We Test Mobile Web Performance on Real Android and iPhone Devices</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-11 16:38</span>
             </div>
         </div>
 </div>
@@ -247,6 +250,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/xbox-asha-elder-1280x720.jpg" alt="Xbox Boss Asha Sharma Says Elder Scrolls VI Looks Great, So Stop Talking About That Giant Rat Outside Bethesda’s Office" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/xbox-boss-asha-sharma-says-elder-scrolls-vi-looks-great-so-stop-talking-about-that-giant-rat-outside-bethesdas-office-2000723542" target="_blank">Xbox Boss Asha Sharma Says Elder Scrolls VI Looks Great, So Stop Talking About That Giant Rat Outside Bethesda’s Office</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-11 20:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/kingsfield42-1-1280x720.jpg" alt="I Played This Brutal PS2 Action RPG For Ten Hours And Only Died To Poison Like 50 Times" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -292,15 +304,6 @@
                 <span class="time">2026-08-11 17:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/1280px-New_York_Comic_Con_2016_-_Voltron_282993222178029.jpg?fit=1280%2C1370&amp;quality=60&amp;ssl=1" alt="The designer of Voltron and the Power Rangers robots has died" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/11/katsushi-murakami-voltron-designer.html" target="_blank">The designer of Voltron and the Power Rangers robots has died</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-11 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,22 +327,13 @@
                 <span class="time">2026-08-11 00:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/08/10/passionate-intensity" target="_blank">Passionate Intensity</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-08-10 20:44</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 103 | 📡 Total Sources: 40 | 📸 With Images: 246 |
-        🔄 Last Updated: 20:32 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 99 | 📡 Total Sources: 39 | 📸 With Images: 246 |
+        🔄 Last Updated: 21:34 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
