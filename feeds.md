@@ -1,36 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-08-11 12:37:18 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-11 14:10:10 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Generated 11 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, August 11, 2026 - 12:37 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, August 11, 2026 - 14:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +52,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40a4/live/f357c920-958d-11f1-b8bb-1b597db1ad66.jpg" alt="Summer 2026 on course to be UK&#x27;s hottest on record, says Met Office" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/weather/articles/cn8n9pg54m1o?at_medium=RSS&at_campaign=rss" target="_blank">Summer 2026 on course to be UK&#x27;s hottest on record, says Met Office</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-11 14:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,21 +98,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3665/live/4c349e50-955d-11f1-b2ab-0dd01740f9f6.jpg" alt="Call with No 10 gives us hope, PC Harper&#x27;s mother says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f69/live/2dd49110-956f-11f1-b2ab-0dd01740f9f6.jpg" alt="Trump hid in catering truck in secret plane swap over Iran threat, reports say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cy8m1pjg4k3o?at_medium=RSS&at_campaign=rss" target="_blank">Call with No 10 gives us hope, PC Harper&#x27;s mother says</a></span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss" target="_blank">Trump hid in catering truck in secret plane swap over Iran threat, reports say</a></span>
                 <span class="feed">BBC News</span>
-                <span class="time">2026-08-11 09:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/11/nx-s1-5927490/alabama-primary-election-2026-midterms-redistricting" target="_blank">Alabama holds second primary Tuesday, leading to confusion, concerns about low turnout</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-11 09:00</span>
+                <span class="time">2026-08-11 09:58</span>
             </div>
         </div>
 </div>
@@ -106,12 +112,30 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/6a7a2036c58ed7121c9fbad3/master/pass/AIEmission.jpg" alt="AI Could Help Fossil Fuel Companies Create More Emissions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/ai-could-help-fossil-fuel-companies-create-more-emissions/" target="_blank">AI Could Help Fossil Fuel Companies Create More Emissions</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-11 13:45</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/08/11/what-comes-after-the-smartphone-amazons-panos-panay-will-make-his-case-at-techcrunch-disrupt-2026/" target="_blank">What comes after the smartphone? Amazon’s Panos Panay will make his case at TechCrunch Disrupt 2026</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-08-11 12:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images" target="_blank">Claude will apply invisible watermarks to AI text and images</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-11 12:22</span>
             </div>
         </div>
 <div class="story">
@@ -141,29 +165,38 @@
                 <span class="time">2026-08-11 09:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" alt="Chewy Promo Codes: $20 Off August 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/chewy-promo-code/" target="_blank">Chewy Promo Codes: $20 Off August 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-11 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/" target="_blank">OpenAI reportedly completed a $7 billion employee tender offer</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-11 00:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/thecodearcher/build-multi-tenant-auth-in-go-with-limen-2cp6" target="_blank">Build multi-tenant auth in Go with Limen</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-11 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Flatpak-1.19-Released" target="_blank">Flatpak 1.19 Released With Nine Security Fixes</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-11 13:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/nvidia-nemotron-3-5-lightning" target="_blank">Canonical integrates NVIDIA Nemotron 3.5 Lightning with Ubuntu for always-on AI agents</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-08-11 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/08/netflix-service-topology/en/headerimage/Netflix-Service-Topology-Header-1784725848359.jpeg" alt="How Netflix Scaled Its Real-Time Service Map" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -191,33 +224,6 @@
                 <span class="time">2026-08-11 11:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alexcybersmith/top-enterprise-sca-tools-in-2026-a-developers-comparison-3gnb" target="_blank">Top Enterprise SCA Tools in 2026: A Developer&#x27;s Comparison</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-11 10:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/FastFlowLM-1.0" target="_blank">FastFlowLM 1.0 Released Now As Part Of The AMD ROCm Umbrella</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-11 10:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/ai-token-price/en/mediumimage/meryem-arik-medium-1785844873071.jpg" alt="Presentation: Producing the World&#x27;s Cheapest Tokens: A How-to Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/ai-token-price/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Producing the World&#x27;s Cheapest Tokens: A How-to Guide</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-11 10:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +243,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KZQT1VJ3RAWB9PDEFHNWW78N/hero-image.png" alt="The Out-of-Touch Adults&#x27; Guide to Kid Culture: What Is the Matcha Filter?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-what-is-matcha-filter?utm_medium=RSS" target="_blank">The Out-of-Touch Adults&#x27; Guide to Kid Culture: What Is the Matcha Filter?</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-11 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/02/fb0dc7e15f3f97b7b7b2f7960c45faaa-1280x720.jpg" alt="Overwatch Is Finally Cutting Out Some Of The FOMO Nonsense That’s Plagued It For Years: ‘My Suffering Has Ended’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/overwatch-battle-pass-revamp-unvaulted-old-skins-unlock-2000723394" target="_blank">Overwatch Is Finally Cutting Out Some Of The FOMO Nonsense That’s Plagued It For Years: ‘My Suffering Has Ended’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-11 13:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/kotordamn.jpg" alt="Star Wars: Knights Of The Old Republic Nearly Contained A Swear Word That Would Curl Your Toes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,24 +295,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/08/10/mario-kart-pareto-frontier.html" target="_blank">The best Mario Kart build is an economics problem from 1900</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-08-10 21:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KZPC6ZE1Q6QX52HJ12X2QJRE/hero-image.jpg" alt="You Can (Maybe) Run Meta&#x27;s Latest AI Model Locally on Your Computer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/how-to-run-metas-latest-ai-model-locally-on-your-computer?utm_medium=RSS" target="_blank">You Can (Maybe) Run Meta&#x27;s Latest AI Model Locally on Your Computer</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-10 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/tokon-1280x720.jpg" alt="Marvel Tōkon PC Patch Improves Struggling Steam Version: ‘Maybe PS5 Players Will Play With Us Now’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/marvel-tokon-fighting-souls-pc-patch-performance-steam-2000723166" target="_blank">Marvel Tōkon PC Patch Improves Struggling Steam Version: ‘Maybe PS5 Players Will Play With Us Now’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-10 20:59</span>
             </div>
         </div>
 </div>
@@ -328,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 109 | 📡 Total Sources: 40 | 📸 With Images: 243 |
-        🔄 Last Updated: 12:37 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 112 | 📡 Total Sources: 40 | 📸 With Images: 243 |
+        🔄 Last Updated: 14:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
