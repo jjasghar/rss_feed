@@ -1,33 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-08-11 18:44:02 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-11 19:52:36 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Generated 10 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Tuesday, August 11, 2026 - 18:44 UTC</div>
+    <div class="newspaper-date">Tuesday, August 11, 2026 - 19:52 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-1-ap-gmh-260807_1786107748117_hpMain_4x3t_384.jpg" alt="Court asked to block Trump&#x27;s 2nd executive order targeting birthright citizenship" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/federal-court-asked-block-trumps-2nd-executive-order/story?id=135553699" target="_blank">Court asked to block Trump&#x27;s 2nd executive order targeting birthright citizenship</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-11 19:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69cb/live/7fca1ff0-95b8-11f1-b16a-9d1bd99de52e.jpg" alt="Rescuers scramble for survivors with 180 dead in Colombia earthquake" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss" target="_blank">Rescuers scramble for survivors with 180 dead in Colombia earthquake</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-11 19:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/gilman-rt-er-260811_1786464098219_hpMain_4x3t_384.jpg" alt="Former US Marine Robert Gilman released after years of detention in Russia" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,29 +105,38 @@
                 <span class="time">2026-08-11 14:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/tdy_airforceone3_260811-ed9csi.jpg" alt="Trump Secretly Switched Planes in Turkey Amid Reported Threat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/trump-boarded-decoy-air-force-one-in-turkey-after-nato-summit-268102213529" target="_blank">Trump Secretly Switched Planes in Turkey Amid Reported Threat</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-11 12:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/11/final-phase-of-voting-in-pakistan-administered-kashmir-despite-security-fe?traffic_source=rss" target="_blank">Final phase of voting in Pakistan-administered Kashmir, despite security fe</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-11 12:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-2-500x500.jpg" alt="Google says Gemini has reached 1B users faster than any other Google product" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/" target="_blank">Google says Gemini has reached 1B users faster than any other Google product</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-11 19:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/11/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-steal-their-intimate-pictures/" target="_blank">FBI says cybercriminals are hacking into victims’ online accounts to steal their intimate pictures</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-11 19:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a7b439b4b64dd9eb2b325a6/master/pass/GettyImages-1021078572.jpg" alt="How and When to View the Perseid Meteor Shower (August 2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-and-when-to-view-the-perseid-meteor-shower-august-2026/" target="_blank">How and When to View the Perseid Meteor Shower (August 2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-11 19:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -129,38 +164,20 @@
                 <span class="time">2026-08-11 16:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a7a4d4378b35b1bb4189321/master/pass/Review--Razer-Naga-V3-Pro.jpg" alt="Razer Naga V3 Pro Review: Buttons Galore" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/razer-naga-v3-pro/" target="_blank">Razer Naga V3 Pro Review: Buttons Galore</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-11 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack" target="_blank">‘Zoomsday’ hack uncovered using fewer than 20 AI prompts</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-11 14:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a7a2036c58ed7121c9fbad3/master/pass/AIEmission.jpg" alt="AI Could Help Fossil Fuel Companies Create More Emissions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/ai-could-help-fossil-fuel-companies-create-more-emissions/" target="_blank">AI Could Help Fossil Fuel Companies Create More Emissions</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-11 13:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/musoyangrigor/i-built-gitx-to-turn-messy-ai-generated-changes-into-clean-git-history-1408" target="_blank">I built GitX to turn messy AI-generated changes into clean Git history</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-11 19:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +223,6 @@
                 <span class="time">2026-08-11 16:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/fedora-pantherlake-thermald-tuned" target="_blank">Analyzing Fedora&#x27;s Slow Performance On The Framework Laptop 13 Pro With Intel Panther Lake</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-11 14:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +251,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/kingsfield42-1-1280x720.jpg" alt="I Played This Brutal PS2 Action RPG For Ten Hours And Only Died To Poison Like 50 Times" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/kings-field-4-kill-you-like-it-2000722569" target="_blank">I Played This Brutal PS2 Action RPG For Ten Hours And Only Died To Poison Like 50 Times</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-11 19:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/1280px-thumbnail-e1786476439929.jpg?fit=768%2C509&amp;quality=60&amp;ssl=1" alt="Man, those Romans sure lost a lot of cargo boats" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/11/roman-cargo-shipwreck-sicily-amphorae.html" target="_blank">Man, those Romans sure lost a lot of cargo boats</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-11 19:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KZNWC09CE9NZ5F274JRRS9VK/hero-image.jpg" alt="Seven Surprisingly Useful Mac Apps You&#x27;ve Never Heard Of" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,24 +303,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/08/11/learn-up-to-12-languages-without-the-hassle-and-self-doubt-for-just-80.html" target="_blank">Learn up to 12 languages without the hassle and self-doubt for just $80</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-08-11 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KZQT1VJ3RAWB9PDEFHNWW78N/hero-image.png" alt="The Out-of-Touch Adults&#x27; Guide to Kid Culture: What Is the Matcha Filter?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-what-is-matcha-filter?utm_medium=RSS" target="_blank">The Out-of-Touch Adults&#x27; Guide to Kid Culture: What Is the Matcha Filter?</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-11 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/02/fb0dc7e15f3f97b7b7b2f7960c45faaa-1280x720.jpg" alt="Overwatch Is Finally Cutting Out Some Of The FOMO Nonsense That’s Plagued It For Years: ‘My Suffering Has Ended’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/overwatch-battle-pass-revamp-unvaulted-old-skins-unlock-2000723394" target="_blank">Overwatch Is Finally Cutting Out Some Of The FOMO Nonsense That’s Plagued It For Years: ‘My Suffering Has Ended’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-11 13:46</span>
             </div>
         </div>
 </div>
@@ -334,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 98 | 📡 Total Sources: 38 | 📸 With Images: 244 |
-        🔄 Last Updated: 18:44 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 101 | 📡 Total Sources: 39 | 📸 With Images: 245 |
+        🔄 Last Updated: 19:52 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
