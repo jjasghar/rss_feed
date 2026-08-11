@@ -1,40 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-08-11 21:33:53 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-11 22:29:49 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 31 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Tuesday, August 11, 2026 - 21:34 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, August 11, 2026 - 22:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -57,6 +49,15 @@
                 <span class="title"><a href="https://abcnews.com/Politics/trumps-reported-covert-flight-puts-spotlight-deceptive-actions/story?id=135548108" target="_blank">Trump&#x27;s reported covert flight spotlights deceptive acts to protect POTUS: ANALYSIS</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-08-11 21:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/11/father-and-sons-forced-to-manually-clear-rubble-in-gaza?traffic_source=rss" target="_blank">Father and sons forced to manually clear rubble in Gaza</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-11 21:24</span>
             </div>
         </div>
 <div class="story">
@@ -95,20 +96,29 @@
                 <span class="time">2026-08-11 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/11/lebanons-parliament-votes-to-end-death-penalty-first-in-middle-east-to-so?traffic_source=rss" target="_blank">Lebanon parliament votes to end death penalty, 1st in Middle East to do so</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-11 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/" target="_blank">Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-11 21:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/Screenshot-2026-08-11-at-4.40.55-PM-500x500.png" alt="Russian drones found near vital European offshore gas site, get blown up" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/08/romania-destroys-russian-drones-drifting-near-vital-european-offshore-gas-site/" target="_blank">Russian drones found near vital European offshore gas site, get blown up</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-11 21:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/facebook-instagram-500x500-1761326403.jpg" alt="Meta can&#x27;t stop states&#x27; $1.4 trillion lawsuit from going to trial" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,24 +153,6 @@
                 <span class="title"><a href="https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/" target="_blank">Google says Gemini has reached 1B users faster than any other Google product</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-08-11 19:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users" target="_blank">ChatGPT and Gemini both just passed 1 billion users</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-11 19:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/11/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-steal-their-intimate-pictures/" target="_blank">FBI says cybercriminals are hacking into victims’ online accounts to steal their intimate pictures</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-11 19:38</span>
             </div>
         </div>
 </div>
@@ -332,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 99 | 📡 Total Sources: 39 | 📸 With Images: 246 |
-        🔄 Last Updated: 21:34 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 100 | 📡 Total Sources: 39 | 📸 With Images: 246 |
+        🔄 Last Updated: 22:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
