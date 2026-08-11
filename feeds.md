@@ -1,32 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-08-11 22:29:49 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-11 23:27:43 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 11 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, August 11, 2026 - 22:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, August 11, 2026 - 23:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/voting-sign-rt-jt-260811_1786486468562_hpMain_4x3t_384.jpg" alt="Voters in 6 states are choosing candidates for November" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/voters-6-states-choosing-candidates-november/story?id=135555937" target="_blank">Voters in 6 states are choosing candidates for November</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-11 22:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/11/nx-s1-5928375/2026-south-carolina-special-primary-election-lindsey-graham-vacancy" target="_blank">In South Carolina, GOP Voters decide who they want to replace the late Sen. Lindsey Graham</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-11 22:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-putin-russia_7319318.jpg?20260811223333" alt="Putin sends Trump a gift - and will hope for something in return" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/putin-sends-trump-a-gift-and-will-hope-for-something-in-return-13572093" target="_blank">Putin sends Trump a gift - and will hope for something in return</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-08-11 21:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/nicky-af1-abc-jt-260811_1786460313609_hpMain_4x3t_384.jpg" alt="Trump&#x27;s reported covert flight spotlights deceptive acts to protect POTUS: ANALYSIS" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -69,38 +98,20 @@
                 <span class="time">2026-08-11 19:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69cb/live/7fca1ff0-95b8-11f1-b16a-9d1bd99de52e.jpg" alt="Rescuers scramble for survivors with 180 dead in Colombia earthquake" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss" target="_blank">Rescuers scramble for survivors with 180 dead in Colombia earthquake</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-11 19:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/gilman-rt-er-260811_1786464098219_hpMain_4x3t_384.jpg" alt="Former US Marine Robert Gilman released after years of detention in Russia" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/former-us-marine-robert-gilman-released-detention-russia/story?id=135549706" target="_blank">Former US Marine Robert Gilman released after years of detention in Russia</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-11 18:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/11/brazils-supreme-court-to-weigh-cases-that-could-weaken-amazon-protections?traffic_source=rss" target="_blank">Brazil’s Supreme Court to weigh cases that could weaken Amazon protections</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-11 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2236338199-500x500.jpg" alt="Trump wants Big Pharma to split MMR vaccine; Big Pharma thinks it&#x27;s idiotic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/08/trump-wants-big-pharma-to-split-mmr-vaccine-big-pharma-thinks-its-idiotic/" target="_blank">Trump wants Big Pharma to split MMR vaccine; Big Pharma thinks it&#x27;s idiotic</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-11 22:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,20 +157,29 @@
                 <span class="time">2026-08-11 20:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-2-500x500.jpg" alt="Google says Gemini has reached 1B users faster than any other Google product" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/" target="_blank">Google says Gemini has reached 1B users faster than any other Google product</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-11 19:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/timevolt/refactoring-legacy-code-a-new-hope-5761" target="_blank">Refactoring Legacy Code: A New Hope</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-11 23:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/" target="_blank">WorldClaw Agentic 3D open-world generation at scale</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-11 21:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,29 +216,20 @@
                 <span class="time">2026-08-11 19:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/developer-skills/career-growth/from-coder-to-orchestrator-how-agents-shift-the-role-of-a-developer/" target="_blank">From coder to orchestrator: How agents shift the role of a developer</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-08-11 18:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/erikch/nuxt-45-ssr-streaming-is-kind-of-a-big-deal-2i37" target="_blank">Nuxt 4.5 SSR Streaming Is Kind Of A Big Deal</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-11 17:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/" target="_blank">Microsoft Plugs Nearly 400 Security Holes</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2026-08-11 21:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -242,6 +253,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-11 21:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/xbox-asha-elder-1280x720.jpg" alt="Xbox Boss Asha Sharma Says Elder Scrolls VI Looks Great, So Stop Talking About That Giant Rat Outside Bethesda’s Office" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +307,6 @@
                 <span class="time">2026-08-11 18:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KZRXPQR7JGN7EYBTHCSWR8BJ/hero-image.jpg" alt="This Entry-Level Acer Nitro V16 Gaming Laptop Is $200 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/acer-nitro-v16-gaming-laptop-deal-august-2026?utm_medium=RSS" target="_blank">This Entry-Level Acer Nitro V16 Gaming Laptop Is $200 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-11 17:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 100 | 📡 Total Sources: 39 | 📸 With Images: 246 |
-        🔄 Last Updated: 22:30 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 103 | 📡 Total Sources: 40 | 📸 With Images: 248 |
+        🔄 Last Updated: 23:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
