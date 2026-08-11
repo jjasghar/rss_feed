@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-08-11 00:50:39 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-11 02:58:09 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, August 11, 2026 - 00:50 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, August 11, 2026 - 02:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +50,42 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/11/trump-demands-compensation-from-iran-as-talks-on-strait-of-hormuz-continue?traffic_source=rss" target="_blank">Trump demands compensation from Iran as talks on Strait of Hormuz continue</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-11 02:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8941/live/e87738d0-94cd-11f1-8189-057951e10a11.jpg" alt="Amber heat health alerts for almost all of England as next heatwave begins" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o?at_medium=RSS&at_campaign=rss" target="_blank">Amber heat health alerts for almost all of England as next heatwave begins</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-11 01:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1786402057872_nn_haake_trump_vaccines_260810_S3_1920x1080-rhl4d2.jpg" alt="Trump signs order to change child vaccine recommendations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-signs-order-to-change-child-vaccine-recommendations-268070469795" target="_blank">Trump signs order to change child vaccine recommendations</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-10 22:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/10/nx-s1-5914823/alabama-heads-into-a-special-election-after-redistricting" target="_blank">Alabama heads into a second primary election after redistricting</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-10 22:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/8/10/wildfires-burn-across-indonesia-as-officials-cite-el-nino-as-a-cause?traffic_source=rss" target="_blank">Wildfires burn across Indonesia as officials cite El Nino as a cause</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-10 21:15</span>
@@ -61,47 +100,20 @@
                 <span class="time">2026-08-10 20:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/columbia-1-ap-er-260710_1786376855348_hpMain_4x3t_384.jpg" alt="Colombia earthquake: Dozens dead, people trapped in collapsed buildings" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/colombia-earthquake-fatalities-buildings-collapsed/story?id=135518897" target="_blank">Colombia earthquake: Dozens dead, people trapped in collapsed buildings</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-10 19:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/10/oman-trying-to-contain-extensive-oil-spill-from-stricken-tanker?traffic_source=rss" target="_blank">Oman trying to contain extensive oil spill from stricken tanker</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-10 18:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/colombia_rubble_th-1cflm1.jpg" alt="Watch: Videos capture the moment a 7.4-magnitude earthquake strikes Colombia" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/videos-capture-the-moment-a-7-4-magnitude-earthquake-strikes-colombia-268050501807" target="_blank">Watch: Videos capture the moment a 7.4-magnitude earthquake strikes Colombia</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-10 18:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/10/nx-s1-5925350/the-nerd-reich-tracks-the-unmasking-of-silicon-valleys-true-politics" target="_blank">&#x27;The Nerd Reich&#x27; tracks the &#x27;unmasking of Silicon Valley&#x27;s true politics&#x27;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-10 17:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/" target="_blank">OpenAI reportedly completed a $7 billion employee tender offer</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-11 00:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/skg-500x500-1778860940.jpg" alt="Ars Live: Ross Scott discusses the Stop Killing Games movement" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,20 +159,29 @@
                 <span class="time">2026-08-10 20:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/977581/bluesky-hide-reposts-user-post-count-threads" target="_blank">Bluesky now lets you hide reposts from that annoying person you follow</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-10 19:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/blueticks/two-sites-asked-my-automation-to-prove-it-was-human-i-stopped-both-times-and-i-want-to-argue-that-3b6l" target="_blank">Two sites asked my automation to prove it was human. I stopped both times, and I want to argue that was correct</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-11 02:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-Nova-Rust-Linux-7.3" target="_blank">Open-Source NVIDIA &quot;Nova&quot; Driver Sees More Functionality For Linux 7.3</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-11 01:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,24 +216,6 @@
                 <span class="title"><a href="https://dev.to/im_citius/your-terragrunt-or-terraform-plan-is-4000-lines-only-two-of-them-matter-4p8" target="_blank">Your terragrunt (or terraform) plan is 4,000 lines. Only two of them matter.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-10 21:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/08/cloudflare-webmcp/en/headerimage/cloudflare-webmcp-1786389410161.jpeg" alt="CloudFlare Previews Automatic WebMCP Support for Web Pages" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/08/cloudflare-webmcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">CloudFlare Previews Automatic WebMCP Support for Web Pages</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-10 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Fedora-CoreOS-OOMD-zRAM-Swap" target="_blank">Fedora CoreOS To Enable systemd-oomd &amp; zRAM Swap By Default</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-10 19:35</span>
             </div>
         </div>
 </div>
@@ -294,6 +297,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.questionablecontent.net/comics/5892.png" alt="A Good Day, In The End" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5892" target="_blank">A Good Day, In The End</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-08-11 00:29</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -329,22 +341,13 @@
                 <span class="time">2026-08-10 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5891.png" alt="Dawning Horror" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5891" target="_blank">Dawning Horror</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-08-10 01:07</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 96 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 00:50 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 102 | 📡 Total Sources: 40 | 📸 With Images: 248 |
+        🔄 Last Updated: 02:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
