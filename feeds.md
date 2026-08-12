@@ -1,33 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-08-12 11:00:05 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-12 11:46:41 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, August 12, 2026 - 11:00 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Wednesday, August 12, 2026 - 11:46 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/12/g-s1-138337/up-first-newsletter-primaries-wisconsin-minnesota-south-carolina-trump-air-force-one-iraq-iran-militias" target="_blank">Takeaways from Tuesday primaries. And, Iran threat prompted Trump&#x27;s secret plane swap</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-12 11:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/12/putin-warns-of-tit-for-tat-seizures-of-european-vessels?traffic_source=rss" target="_blank">Putin warns of tit-for-tat seizures of European vessels</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-12 11:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,24 +94,6 @@
                 <span class="title"><a href="https://abcnews.com/Politics/voters-6-states-choosing-candidates-november/story?id=135555937" target="_blank">Tuesday primaries: Crowley projected to defeat democratic socialist Hong in Wisconsin</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-08-12 08:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/12/nx-s1-5927060/morning-news-brief" target="_blank">Morning news brief</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-12 08:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/12/ukraines-strikes-on-russias-wildberries-arent-about-the-front-line?traffic_source=rss" target="_blank">Wildberries under fire: Why is Ukraine targeting a Russian retail giant?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-12 08:19</span>
             </div>
         </div>
 </div>
@@ -164,6 +163,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-Reverting-DRM-Fair" target="_blank">Linux 7.2 To Revert Back To The FIFO DRM Scheduler Policy Due To &quot;Fair&quot; Regressions</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-12 10:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/" target="_blank">Tim Gowers: What sort of maths are LLMs good at?</a></span>
                 <span class="feed">Hacker News</span>
@@ -206,15 +214,6 @@
                 <span class="time">2026-08-11 23:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/timevolt/refactoring-legacy-code-a-new-hope-5761" target="_blank">Refactoring Legacy Code: A New Hope</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-11 23:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,15 +235,6 @@
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2026/08/ai-genie-in-the-wild.html" target="_blank">AI Genie in the Wild</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2026-08-11 15:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/08/ai-for-military-support.html" target="_blank">AI for Military Support</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-08-11 11:18</span>
             </div>
         </div>
 </div>
@@ -343,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 101 | 📡 Total Sources: 40 | 📸 With Images: 248 |
-        🔄 Last Updated: 11:00 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 97 | 📡 Total Sources: 40 | 📸 With Images: 245 |
+        🔄 Last Updated: 11:46 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
