@@ -1,32 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-08-12 11:46:41 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-08-12 12:40:34 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, August 12, 2026 - 11:46 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, August 12, 2026 - 12:40 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +56,15 @@
                 <span class="title"><a href="https://www.npr.org/2026/08/12/g-s1-138337/up-first-newsletter-primaries-wisconsin-minnesota-south-carolina-trump-air-force-one-iraq-iran-militias" target="_blank">Takeaways from Tuesday primaries. And, Iran threat prompted Trump&#x27;s secret plane swap</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-08-12 11:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1786533659546_tdy_news_7a_nobles_primary_results_260812_S3_1920x1080-uxqbay.jpg" alt="David Crowley Defeats Democratic Socialist in Wisconsin Primary" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/progressive-democrats-ride-wave-of-victory-across-key-primaries-268171333824" target="_blank">David Crowley Defeats Democratic Socialist in Wisconsin Primary</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-12 11:21</span>
             </div>
         </div>
 <div class="story">
@@ -87,20 +103,20 @@
                 <span class="time">2026-08-12 08:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/voting-sign-rt-jt-260811_1786486468562_hpMain_4x3t_384.jpg" alt="Tuesday primaries: Crowley projected to defeat democratic socialist Hong in Wisconsin" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/voters-6-states-choosing-candidates-november/story?id=135555937" target="_blank">Tuesday primaries: Crowley projected to defeat democratic socialist Hong in Wisconsin</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-12 08:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/figureH-1-500x500.jpg" alt="Feces fueled a flurry of evolution during the Cambrian, study suggests" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/08/feces-fueled-a-flurry-of-evolution-during-the-cambrian-study-suggests/" target="_blank">Feces fueled a flurry of evolution during the Cambrian, study suggests</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-12 12:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a6be4d1e28e6ee5fb2f6879/master/pass/Interview-With-Startup-Founder-Who-Offered-Interviews-for-Tattoos-Business.gif" alt="The Job Interview Tattoo Guy Everyone Got Mad at Finally Explains Himself" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,20 +162,29 @@
                 <span class="time">2026-08-12 04:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive" target="_blank">Saber denies replacing Rideshare Stimulator&amp;#8217;s writers with ChatGPT</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-12 00:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://jonty.github.io/2026_eclipse_webcams/" target="_blank">2026 Eclipse Webcams</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-12 11:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/articles/cloud-devops-trends-2026/en/headerimage/cloud-devops-trends-report-2026-graph-header-1786093402163.jpg" alt="Article: InfoQ Cloud and DevOps Trends Report - 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/cloud-devops-trends-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: InfoQ Cloud and DevOps Trends Report - 2026</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-12 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,29 +221,20 @@
                 <span class="time">2026-08-12 06:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/QEMU-11.1-Released" target="_blank">QEMU 11.1 Released With Numerous Improvements</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-12 01:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/08/search-gnome-51.webp?resize=406%2C232&amp;ssl=1" alt="GNOME Shell search redesign use a floating overlay" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/gnome-51-search-redesign" target="_blank">GNOME Shell search redesign use a floating overlay</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-08-11 23:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/08/prompt-injections-for-defense.html" target="_blank">Prompt Injections for Defense</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-08-12 09:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -333,8 +349,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 97 | 📡 Total Sources: 40 | 📸 With Images: 245 |
-        🔄 Last Updated: 11:46 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 96 | 📡 Total Sources: 40 | 📸 With Images: 246 |
+        🔄 Last Updated: 12:40 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
