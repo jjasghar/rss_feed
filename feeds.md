@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-08-12 19:54:28 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-12 20:30:52 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, August 12, 2026 - 19:54 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, August 12, 2026 - 20:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/gallery/2026/8/12/photos-solar-eclipse-plunges-parts-of-europe-into-darkness?traffic_source=rss" target="_blank">Photos: Solar eclipse plunges parts of Europe into darkness</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-12 20:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/eclipse-11-rt-gmh-260812_1786561843967_hpMain_4x3t_384.jpg" alt="2026 total solar eclipse: See photos from the Aug 12 event and where it is visible" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/GMA/Living/august-2026-total-solar-eclipse-us/story?id=134723486" target="_blank">2026 total solar eclipse: See photos from the Aug 12 event and where it is visible</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-12 20:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1786560139185_now_brk_raf_eclipse_moment_260812_S3_1920x1080-7leegn.jpg" alt="Watch: Spain witnesses first total solar eclipse in 27 years" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,29 +103,20 @@
                 <span class="time">2026-08-12 15:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69ce/live/3ac23d60-9659-11f1-b2ab-0dd01740f9f6.jpg" alt="Members of Trump&#x27;s cabinet remained on decoy plane, after president&#x27;s quiet exit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss" target="_blank">Members of Trump&#x27;s cabinet remained on decoy plane, after president&#x27;s quiet exit</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-12 15:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/948c/live/3de99fa0-965a-11f1-a7ab-8b30adf0800a.jpg" alt="Double killer and rapist given whole life sentence" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c4g30dw9xw6o?at_medium=RSS&at_campaign=rss" target="_blank">Double killer and rapist given whole life sentence</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-12 14:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/trump-pointing-500x500.jpg" alt="Trump sued over &quot;brazen&quot; scheme to sell Truth Social API access for $100K a month" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/08/trump-sued-over-brazen-scheme-to-sell-truth-social-api-access-for-100k-a-month/" target="_blank">Trump sued over &quot;brazen&quot; scheme to sell Truth Social API access for $100K a month</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-12 20:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/CBP-drone-for-screwworm-surveillance-500x500.jpeg" alt="US boosts drone surveillance as flesh-eating screwworms spread in Texas" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -110,6 +124,15 @@
                 <span class="title"><a href="https://arstechnica.com/gadgets/2026/08/us-boosts-drone-surveillance-as-flesh-eating-screwworms-spread-in-texas/" target="_blank">US boosts drone surveillance as flesh-eating screwworms spread in Texas</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-08-12 19:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/977985/kinetic-publishing-showcase-sam-barlow-precognition" target="_blank">The next big indie game publisher is taking some exciting swings</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-12 19:30</span>
             </div>
         </div>
 <div class="story">
@@ -139,29 +162,20 @@
                 <span class="time">2026-08-12 17:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/06_08_26_JCB_HM_D4_JA_093-500x500.jpg" alt="Two hydrogen-burning engines powered this car to a new land speed record" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/08/jcb-sets-a-new-406-mph-speed-record-for-hydrogen-powered-cars/" target="_blank">Two hydrogen-burning engines powered this car to a new land speed record</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-12 17:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/12/tesla-wants-to-build-a-10b-solar-factory-in-texas/" target="_blank">Tesla wants to build a $10B solar factory in Texas</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-12 16:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app/" target="_blank">Write your first prompt with the GitHub Copilot app</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-08-12 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +221,6 @@
                 <span class="time">2026-08-12 16:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://openrouter.ai/deepseek/deepseek-v4-pro-0813" target="_blank">DeepSeek V4 Pro 0813</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-12 16:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +249,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KZV0VYT7ZCQQVV25771EVDVR/hero-image.jpg" alt="Five Hacks Every Garmin Cirqa User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/hacks-every-garmin-cirqa-user-should-know?utm_medium=RSS" target="_blank">Five Hacks Every Garmin Cirqa User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-12 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/twitch-top-1280x720.jpg" alt="Twitch Is Now Using Your Content To Train Amazon AI Models And Has Hidden The Option To Opt Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -289,15 +303,6 @@
                 <span class="time">2026-08-12 15:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KZSB49BVE8NHVQ3DJZ0Y1N83/hero-image.jpg" alt="Why Microsoft Patch Tuesday Updates Suddenly Have So Many More Fixes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/why-microsoft-patch-tuesday-updates-have-so-many-fixes-now?utm_medium=RSS" target="_blank">Why Microsoft Patch Tuesday Updates Suddenly Have So Many More Fixes</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-12 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -335,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 100 | 📡 Total Sources: 40 | 📸 With Images: 246 |
-        🔄 Last Updated: 19:54 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 102 | 📡 Total Sources: 40 | 📸 With Images: 246 |
+        🔄 Last Updated: 20:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
