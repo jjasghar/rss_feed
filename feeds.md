@@ -1,38 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-08-12 00:57:18 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-12 03:19:19 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Generated 3 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, August 12, 2026 - 00:57 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, August 12, 2026 - 03:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,12 +53,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/12/aje-onl-nf_overloaded-ferry-capsizes-in-zimbabwe-110826?traffic_source=rss" target="_blank">Dozens dead and missing after ferry capsizes in Zimbabwe</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-12 02:47</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/Politics/voting-sign-rt-jt-260811_1786486468562_hpMain_4x3t_384.jpg" alt="Voters in 6 states are choosing candidates for November" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/Politics/voters-6-states-choosing-candidates-november/story?id=135555937" target="_blank">Voters in 6 states are choosing candidates for November</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-08-11 22:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/11/nx-s1-5928375/2026-south-carolina-special-primary-election-lindsey-graham-vacancy" target="_blank">In South Carolina, Sen. Darline Graham advances to a GOP special primary runoff for U.S. Senate</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-11 22:39</span>
             </div>
         </div>
 <div class="story">
@@ -82,24 +104,6 @@
                 <span class="title"><a href="https://abcnews.com/Politics/trumps-reported-covert-flight-puts-spotlight-deceptive-actions/story?id=135548108" target="_blank">Trump&#x27;s reported covert flight spotlights deceptive acts to protect POTUS: ANALYSIS</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-08-11 21:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/11/father-and-sons-forced-to-manually-clear-rubble-in-gaza?traffic_source=rss" target="_blank">Father and sons forced to manually clear rubble in Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-11 21:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-1-ap-gmh-260807_1786107748117_hpMain_4x3t_384.jpg" alt="Court asked to block Trump&#x27;s 2nd executive order targeting birthright citizenship" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/federal-court-asked-block-trumps-2nd-executive-order/story?id=135553699" target="_blank">Court asked to block Trump&#x27;s 2nd executive order targeting birthright citizenship</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-11 19:31</span>
             </div>
         </div>
 </div>
@@ -169,6 +173,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/QEMU-11.1-Released" target="_blank">QEMU 11.1 Released With Numerous Improvements</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-12 01:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/timevolt/refactoring-legacy-code-a-new-hope-5761" target="_blank">Refactoring Legacy Code: A New Hope</a></span>
                 <span class="feed">DEV Community</span>
@@ -209,15 +222,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/chatgpt-desktop-app-linux-preview" target="_blank">ChatGPT desktop app is now available for Linux (in preview)</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-08-11 19:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-CPU-Microcode-20260811" target="_blank">Intel CPU Microcode 20260811 Release Fixes Eight Security Issues</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-11 19:26</span>
             </div>
         </div>
 </div>
@@ -330,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 102 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 00:57 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 100 | 📡 Total Sources: 40 | 📸 With Images: 248 |
+        🔄 Last Updated: 03:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
