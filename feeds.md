@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-08-12 07:04:35 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-12 08:58:37 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, August 12, 2026 - 07:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, August 12, 2026 - 08:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/voting-sign-rt-jt-260811_1786486468562_hpMain_4x3t_384.jpg" alt="Tuesday primaries: Crowley projected to defeat democratic socialist Hong in Wisconsin" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/voters-6-states-choosing-candidates-november/story?id=135555937" target="_blank">Tuesday primaries: Crowley projected to defeat democratic socialist Hong in Wisconsin</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-12 08:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/12/nx-s1-5927060/morning-news-brief" target="_blank">Morning news brief</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-12 08:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/12/ukraines-strikes-on-russias-wildberries-arent-about-the-front-line?traffic_source=rss" target="_blank">Wildberries under fire: Why is Ukraine targeting a Russian retail giant?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-12 08:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/John-Larson-1-ap-gmh-260811_1786503742982_hpMain_4x3t_384.jpg" alt="Dems may be divided on the future, but send clearer signal for new leaders: ANALYSIS" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -71,33 +99,6 @@
                 <span class="title"><a href="https://abcnews.com/Politics/voters-6-states-choosing-candidates-november/story?id=135555937" target="_blank">Tuesday primaries: Nail-biter in Wisconsin; another House Democrat goes down</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-08-12 05:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/12/g-s1-138315/colombia-earthquake-updates" target="_blank">Earthquake response strains Colombia&#x27;s new government and rescuers</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-12 05:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/12/aje-onl-nf_overloaded-ferry-capsizes-in-zimbabwe-110826?traffic_source=rss" target="_blank">Dozens dead and missing after ferry capsizes in Zimbabwe</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-12 02:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/voting-sign-rt-jt-260811_1786486468562_hpMain_4x3t_384.jpg" alt="Voters in 6 states are choosing candidates for November" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/voters-6-states-choosing-candidates-november/story?id=135555937" target="_blank">Voters in 6 states are choosing candidates for November</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-11 22:47</span>
             </div>
         </div>
 </div>
@@ -167,6 +168,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.cringebot3000.com/" target="_blank">LinkedIn CringeBot 3000</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-12 06:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/QEMU-11.1-Released" target="_blank">QEMU 11.1 Released With Numerous Improvements</a></span>
                 <span class="feed">Phoronix</span>
@@ -207,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/musoyangrigor/i-built-gitx-to-turn-messy-ai-generated-changes-into-clean-git-history-1408" target="_blank">I built GitX to turn messy AI-generated changes into clean Git history</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-11 19:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/" target="_blank">Nvidia Nemotron 3.5 Lightning and NeMo Switchyard</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-11 19:35</span>
             </div>
         </div>
 </div>
@@ -315,6 +316,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/08/12/brokon" target="_blank">Brokon</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-08-12 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1786402084-20260811.png" alt="Saturday Morning Breakfast Cereal - Brave" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -328,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 102 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 07:04 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 101 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 08:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
