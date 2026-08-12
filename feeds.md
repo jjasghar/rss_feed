@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-08-12 10:00:02 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-12 11:00:05 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, August 12, 2026 - 10:00 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, August 12, 2026 - 11:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/12/nx-s1-5902974/andrew-tate-tristan-extradition-maga-trump-political-ties" target="_blank">Andrew Tate&#x27;s extradition fight tests his influence with Trump&#x27;s America</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-12 10:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +97,20 @@
                 <span class="time">2026-08-12 08:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/John-Larson-1-ap-gmh-260811_1786503742982_hpMain_4x3t_384.jpg" alt="Dems may be divided on the future, but send clearer signal for new leaders: ANALYSIS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/democrats-divided-partys-future-send-clearer-signal-new/story?id=135556297" target="_blank">Dems may be divided on the future, but send clearer signal for new leaders: ANALYSIS</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-12 05:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a6be4d1e28e6ee5fb2f6879/master/pass/Interview-With-Startup-Founder-Who-Offered-Interviews-for-Tattoos-Business.gif" alt="The Job Interview Tattoo Guy Everyone Got Mad at Finally Explains Himself" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/linkedin-grindset-tattoo-guy-explains-himself/" target="_blank">The Job Interview Tattoo Guy Everyone Got Mad at Finally Explains Himself</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-12 10:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +156,20 @@
                 <span class="time">2026-08-12 00:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2021/07/GettyImages-1233218421-500x500.jpg" alt="DEF CON crowd suspected in fake-hotspot attack on Delta flight" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/" target="_blank">DEF CON crowd suspected in fake-hotspot attack on Delta flight</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-12 00:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/" target="_blank">Tim Gowers: What sort of maths are LLMs good at?</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-12 10:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/timevolt/refactoring-legacy-code-a-new-hope-5761" target="_blank">Refactoring Legacy Code: A New Hope</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-11 23:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/" target="_blank">WorldClaw Agentic 3D open-world generation at scale</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-11 21:56</span>
             </div>
         </div>
 </div>
@@ -345,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 102 | 📡 Total Sources: 40 | 📸 With Images: 248 |
-        🔄 Last Updated: 10:00 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 101 | 📡 Total Sources: 40 | 📸 With Images: 248 |
+        🔄 Last Updated: 11:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
