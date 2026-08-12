@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-08-12 22:28:15 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-08-12 23:28:29 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Error processing https://rss.slashdot.org/Slashdot/slashdotMain: The read operation timed out -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, August 12, 2026 - 22:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, August 12, 2026 - 23:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/12/trump-administration-plans-to-give-ice-officers-electric-shock-gloves?traffic_source=rss" target="_blank">Trump administration plans to give ICE officers electric-shock gloves</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-12 22:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/12/nx-s1-5929545/ice-buys-electric-shock-gloves" target="_blank">ICE plans to outfit officers with electric shock gloves</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-12 22:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +103,20 @@
                 <span class="time">2026-08-12 20:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1786560139185_now_brk_raf_eclipse_moment_260812_S3_1920x1080-7leegn.jpg" alt="Watch: Spain witnesses first total solar eclipse in 27 years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/watch-spain-witnesses-first-total-solar-eclipse-in-27-years-268193861728" target="_blank">Watch: Spain witnesses first total solar eclipse in 27 years</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-12 18:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3190/live/fb878e50-966e-11f1-870d-5d08c49babb2.jpg" alt="Major Russian grain export terminals hit in Ukraine Black Sea port attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss" target="_blank">Major Russian grain export terminals hit in Ukraine Black Sea port attack</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-12 17:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a7cea9a2028a1e0af655f0c/master/pass/1%20eclipse%20Espa%C3%B1a%202289700549.jpg" alt="The Best Photos of the Big August Solar Eclipse" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-photos-august-solar-eclipse-spain/" target="_blank">The Best Photos of the Big August Solar Eclipse</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-12 22:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -121,6 +133,15 @@
                 <span class="title"><a href="https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/" target="_blank">The web’s newest weapon against AI scrapers is a font</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-08-12 22:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/979241/made-by-google-2026-live-blog-pixel-11-trevor-noah" target="_blank">Pixel 11 event live blog: Let&amp;#8217;s watch Trevor Noah introduce Google&amp;#8217;s new phones</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-12 21:30</span>
             </div>
         </div>
 <div class="story">
@@ -141,29 +162,20 @@
                 <span class="time">2026-08-12 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/trump-pointing-500x500.jpg" alt="Trump sued over &quot;brazen&quot; scheme to sell Truth Social API access for $100K a month" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/08/trump-sued-over-brazen-scheme-to-sell-truth-social-api-access-for-100k-a-month/" target="_blank">Trump sued over &quot;brazen&quot; scheme to sell Truth Social API access for $100K a month</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-12 20:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/CBP-drone-for-screwworm-surveillance-500x500.jpeg" alt="US boosts drone surveillance as flesh-eating screwworms spread in Texas" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/08/us-boosts-drone-surveillance-as-flesh-eating-screwworms-spread-in-texas/" target="_blank">US boosts drone surveillance as flesh-eating screwworms spread in Texas</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-12 19:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/multigrid/detecting-cycles-and-loops-in-a-dependency-graph-2eca" target="_blank">Detecting Cycles and Loops in a Dependency Graph</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-12 23:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +219,6 @@
                 <span class="title"><a href="https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project/" target="_blank">Your contributors are AI-first now. Is your project?</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2026-08-12 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bobleer/your-coding-agent-shouldnt-grade-its-own-patch-1gi0" target="_blank">Your Coding Agent Shouldn&#x27;t Grade Its Own Patch</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-12 17:35</span>
             </div>
         </div>
 </div>
@@ -328,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 102 | 📡 Total Sources: 40 | 📸 With Images: 246 |
-        🔄 Last Updated: 22:28 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 101 | 📡 Total Sources: 40 | 📸 With Images: 244 |
+        🔄 Last Updated: 23:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
