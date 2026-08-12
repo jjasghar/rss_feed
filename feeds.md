@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-08-12 08:58:37 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-08-12 10:00:02 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, August 12, 2026 - 08:58 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, August 12, 2026 - 10:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/12/more-than-100-passengers-rescued-after-indonesia-ferry-fire?traffic_source=rss" target="_blank">More than 100 passengers rescued after Indonesia ferry fire</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-12 09:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2c1/live/1d42c130-9620-11f1-a7ab-8b30adf0800a.jpg" alt="Early release scheme risks more serious crimes, probation chief warns" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c39e3y1y2zjo?at_medium=RSS&at_campaign=rss" target="_blank">Early release scheme risks more serious crimes, probation chief warns</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-12 08:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/voting-sign-rt-jt-260811_1786486468562_hpMain_4x3t_384.jpg" alt="Tuesday primaries: Crowley projected to defeat democratic socialist Hong in Wisconsin" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,29 +99,20 @@
                 <span class="time">2026-08-12 05:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1786512037106_now_brk_sko_wi_gov_260811_S3_1920x1080-kikkm2.jpg" alt="Wisconsin Democratic governor primary too close to call between Crowley, Hong" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/wisconsin-democratic-governor-primary-too-close-to-call-between-crowley-hong-268167237839" target="_blank">Wisconsin Democratic governor primary too close to call between Crowley, Hong</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-12 05:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/voting-sign-rt-jt-260811_1786486468562_hpMain_4x3t_384.jpg" alt="Tuesday primaries: Nail-biter in Wisconsin; another House Democrat goes down" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/voters-6-states-choosing-candidates-november/story?id=135555937" target="_blank">Tuesday primaries: Nail-biter in Wisconsin; another House Democrat goes down</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-12 05:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/12/reservoir-raises-8m-to-make-water-heaters-that-people-and-the-grid-will-actually-want/" target="_blank">Reservoir raises $8M to make water heaters that people — and the grid — will actually want</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-12 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" alt="OnePlus Promo Codes: 30% Off August 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +158,20 @@
                 <span class="time">2026-08-12 00:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2236338199-500x500.jpg" alt="Trump wants Big Pharma to split MMR vaccine; Big Pharma thinks it&#x27;s idiotic" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/08/trump-wants-big-pharma-to-split-mmr-vaccine-big-pharma-thinks-its-idiotic/" target="_blank">Trump wants Big Pharma to split MMR vaccine; Big Pharma thinks it&#x27;s idiotic</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-11 22:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/qiang_liu_61bcd5dc8419b5f/i-built-a-local-first-image-checker-for-marketplace-sellers-31i1" target="_blank">I built a local-first image checker for marketplace sellers</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-12 09:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +215,6 @@
                 <span class="title"><a href="https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/" target="_blank">WorldClaw Agentic 3D open-world generation at scale</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-08-11 21:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/musoyangrigor/i-built-gitx-to-turn-messy-ai-generated-changes-into-clean-git-history-1408" target="_blank">I built GitX to turn messy AI-generated changes into clean Git history</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-11 19:46</span>
             </div>
         </div>
 </div>
@@ -325,6 +323,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://www.questionablecontent.net/comics/5893.png" alt="Invitation Refused" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5893" target="_blank">Invitation Refused</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-08-12 00:49</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1786402084-20260811.png" alt="Saturday Morning Breakfast Cereal - Brave" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -338,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 101 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 08:58 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 102 | 📡 Total Sources: 40 | 📸 With Images: 248 |
+        🔄 Last Updated: 10:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
