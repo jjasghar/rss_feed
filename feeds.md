@@ -1,39 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-08-12 20:30:52 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-08-12 21:32:52 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, August 12, 2026 - 20:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Wednesday, August 12, 2026 - 21:33 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-attacks-on-energy-infrastructure-deepen-libyas-energy-crisis?traffic_source=rss" target="_blank">Drone attacks on energy infrastructure deepen Libya’s energy crisis</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-12 20:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +97,29 @@
                 <span class="time">2026-08-12 17:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/counting-the-cost/2026/8/12/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss" target="_blank">Is Russia’s economy cracking despite the Iran war windfall?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-12 15:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/glueball1-500x500.jpg" alt="Have physicists finally discovered glueballs? New evidence points to yes." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/08/have-physicists-finally-discovered-glueballs-new-evidence-points-to-yes/" target="_blank">Have physicists finally discovered glueballs? New evidence points to yes.</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-12 21:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a7bbf68f5d2df0bb3e19f91/master/pass/politics_white_house_ai_policy.jpg" alt="The White House Is Going to Expand Its AI Policy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/" target="_blank">The White House Is Going to Expand Its AI Policy</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-12 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/trump-pointing-500x500.jpg" alt="Trump sued over &quot;brazen&quot; scheme to sell Truth Social API access for $100K a month" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,29 +156,20 @@
                 <span class="time">2026-08-12 18:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/975970/google-pixel-11-series-where-to-buy-preorder-release-date" target="_blank">Google’s Pixel 11 phone preorders come with up to $350 in gift cards</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-12 17:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/" target="_blank">OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-12 17:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Tenstorrent-Ascalon-XG-GCC" target="_blank">Tenstrorrent Posts GCC Compiler Patches For Ascalon XG Core</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-12 20:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -212,15 +215,6 @@
                 <span class="time">2026-08-12 16:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2017/03/lightdm-session-e1490881816622.png?resize=406%2C232&amp;ssl=1" alt="LightDM returns from the dark with first release in 4 years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/lightdm-new-release-new-maintainers" target="_blank">LightDM returns from the dark with first release in 4 years</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-08-12 16:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,20 +229,20 @@
                 <span class="time">2026-08-12 09:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/" target="_blank">Microsoft Plugs Nearly 400 Security Holes</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2026-08-11 21:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/kingsfield43-1280x720.jpg" alt="Things I Said Out Loud, To No One, While Suffering Through FromSoft’s Grueling Dark Souls Predecessor For Kotaku’s Warp Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/things-said-kings-field-4-ancient-city-dark-souls-warp-week-2002-2000723445" target="_blank">Things I Said Out Loud, To No One, While Suffering Through FromSoft’s Grueling Dark Souls Predecessor For Kotaku’s Warp Week</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-12 20:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KZV0VYT7ZCQQVV25771EVDVR/hero-image.jpg" alt="Five Hacks Every Garmin Cirqa User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -294,15 +288,6 @@
                 <span class="time">2026-08-12 17:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/Yotei-header-1280x713.jpg" alt="Ghost Of Yotei Expansion Coming This Fall, Will Add New Story Missions And Roguelike Mode" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ghost-of-yotei-expansion-coming-this-fall-will-add-new-story-missions-and-roguelike-mode-2000723819" target="_blank">Ghost Of Yotei Expansion Coming This Fall, Will Add New Story Missions And Roguelike Mode</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-12 15:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -340,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 102 | 📡 Total Sources: 40 | 📸 With Images: 246 |
-        🔄 Last Updated: 20:31 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 101 | 📡 Total Sources: 40 | 📸 With Images: 245 |
+        🔄 Last Updated: 21:33 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
