@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-08-12 18:44:26 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-12 19:54:28 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, August 12, 2026 - 18:44 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, August 12, 2026 - 19:54 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1786560139185_now_brk_raf_eclipse_moment_260812_S3_1920x1080-7leegn.jpg" alt="Watch: Spain witnesses first total solar eclipse in 27 years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/watch-spain-witnesses-first-total-solar-eclipse-in-27-years-268193861728" target="_blank">Watch: Spain witnesses first total solar eclipse in 27 years</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-12 18:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3190/live/fb878e50-966e-11f1-870d-5d08c49babb2.jpg" alt="Major Russian grain export terminals hit in Ukraine Black Sea port attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss" target="_blank">Major Russian grain export terminals hit in Ukraine Black Sea port attack</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-12 17:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +98,20 @@
                 <span class="time">2026-08-12 14:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1786544406951_now_brk_crowley_primary_thanks_260812_S3_1920x1080-x8uvp2.jpg" alt="Crowley thanks supporters after winning Democratic primary for Wisconsin governor" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/crowley-thanks-supporters-after-winning-democratic-primary-for-wisconsin-governor-268177477996" target="_blank">Crowley thanks supporters after winning Democratic primary for Wisconsin governor</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-12 14:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/12/nx-s1-5929122/inflation-cpi-economy-gas-grocery" target="_blank">Inflation eases in July as gasoline and grocery prices fall</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-12 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/CBP-drone-for-screwworm-surveillance-500x500.jpeg" alt="US boosts drone surveillance as flesh-eating screwworms spread in Texas" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/08/us-boosts-drone-surveillance-as-flesh-eating-screwworms-spread-in-texas/" target="_blank">US boosts drone surveillance as flesh-eating screwworms spread in Texas</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-12 19:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,15 +155,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/08/12/tesla-wants-to-build-a-10b-solar-factory-in-texas/" target="_blank">Tesla wants to build a $10B solar factory in Texas</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-08-12 16:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno" target="_blank">Guitar company D’Addario admits that AI music was used in a promotional video</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-12 15:52</span>
             </div>
         </div>
 </div>
@@ -244,6 +245,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/twitch-top-1280x720.jpg" alt="Twitch Is Now Using Your Content To Train Amazon AI Models And Has Hidden The Option To Opt Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/twitch-is-now-using-your-content-to-train-amazon-ai-models-and-has-hidden-the-option-to-opt-out-2000723891" target="_blank">Twitch Is Now Using Your Content To Train Amazon AI Models And Has Hidden The Option To Opt Out</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-12 19:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KZVGQQGCSVX57V60TAXXCWKY/hero-image.jpg" alt="Everything Already Announced Ahead of Made by Google 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/everything-announced-ahead-of-made-by-google-2026?utm_medium=RSS" target="_blank">Everything Already Announced Ahead of Made by Google 2026</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-12 19:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/10-bulletinamerica35amer_0871-edit.jpg?fit=1200%2C713&amp;quality=60&amp;ssl=1" alt="A museum curator wrote the first T. rex novel on his daily commute" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -277,24 +296,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/why-microsoft-patch-tuesday-updates-have-so-many-fixes-now?utm_medium=RSS" target="_blank">Why Microsoft Patch Tuesday Updates Suddenly Have So Many More Fixes</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-08-12 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/DotBot-1.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="DoorDash sprints towards replacing its drivers with robots" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/11/doordash-sprints-towards-replacing-its-drivers-with-robots.html" target="_blank">DoorDash sprints towards replacing its drivers with robots</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-11 23:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/Metroid-Prime-Origins-1280x720.jpg" alt="Fans Created A 2D Demake Of Metroid Prime In Celebration of Metroid Turning 40" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/metroid-prime-origins-2d-demake-remake-fans-2000723548" target="_blank">Fans Created A 2D Demake Of Metroid Prime In Celebration of Metroid Turning 40</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-11 21:43</span>
             </div>
         </div>
 </div>
@@ -334,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 241 |
-        🔄 Last Updated: 18:44 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 100 | 📡 Total Sources: 40 | 📸 With Images: 246 |
+        🔄 Last Updated: 19:54 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
