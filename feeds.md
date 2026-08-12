@@ -1,39 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-08-12 12:40:34 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-12 14:11:18 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Generated 9 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, August 12, 2026 - 12:40 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, August 12, 2026 - 14:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +39,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/12/nx-s1-5929122/inflation-cpi-economy-gas-grocery" target="_blank">Inflation eases in July as gasoline and grocery prices fall</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-12 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/8/12/argentina-star-messi-not-certain-to-play-much-longer-after-fathers-death?traffic_source=rss" target="_blank">Argentina star Messi not certain to play “much longer” after father’s death</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-12 13:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf17/live/d73f4760-964e-11f1-870d-5d08c49babb2.jpg" alt="Burnham warned of Iran war impact on UK growth next year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss" target="_blank">Burnham warned of Iran war impact on UK growth next year</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-12 13:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,38 +93,29 @@
                 <span class="time">2026-08-12 11:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/12/nx-s1-5902974/andrew-tate-tristan-extradition-maga-trump-political-ties" target="_blank">Andrew Tate&#x27;s extradition fight tests his influence with Trump&#x27;s America</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-12 10:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/12/more-than-100-passengers-rescued-after-indonesia-ferry-fire?traffic_source=rss" target="_blank">More than 100 passengers rescued after Indonesia ferry fire</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-12 09:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2c1/live/1d42c130-9620-11f1-a7ab-8b30adf0800a.jpg" alt="Early release scheme risks more serious crimes, probation chief warns" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c39e3y1y2zjo?at_medium=RSS&at_campaign=rss" target="_blank">Early release scheme risks more serious crimes, probation chief warns</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-12 08:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/Google-2026-lineup-500x500.jpg" alt="Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/" target="_blank">Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-12 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/" target="_blank">Google’s Pixel 11 lineup offer fewer hardware changes, but much more Gemini</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-12 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/figureH-1-500x500.jpg" alt="Feces fueled a flurry of evolution during the Cambrian, study suggests" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,29 +152,29 @@
                 <span class="time">2026-08-12 05:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg" alt="Nike Promo Codes and Discounts: 30% for August 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/nike-promo-code/" target="_blank">Nike Promo Codes and Discounts: 30% for August 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-12 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/" target="_blank">India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-12 04:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/zira125/your-agent-queue-is-full-what-happens-to-the-work-that-was-already-running-1blp" target="_blank">Your Agent Queue Is Full. What Happens to the Work That Was Already Running?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-12 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-DG2-Vulkan-Video-AV1" target="_blank">Intel ANV Driver Enables Vulkan Video AV1 Encoding For DG2/Alchemist GPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-12 13:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,24 +209,6 @@
                 <span class="title"><a href="https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/" target="_blank">Tim Gowers: What sort of maths are LLMs good at?</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-08-12 10:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/qiang_liu_61bcd5dc8419b5f/i-built-a-local-first-image-checker-for-marketplace-sellers-31i1" target="_blank">I built a local-first image checker for marketplace sellers</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-12 09:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.cringebot3000.com/" target="_blank">LinkedIn CringeBot 3000</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-12 06:30</span>
             </div>
         </div>
 </div>
@@ -349,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 96 | 📡 Total Sources: 40 | 📸 With Images: 246 |
-        🔄 Last Updated: 12:40 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 96 | 📡 Total Sources: 40 | 📸 With Images: 244 |
+        🔄 Last Updated: 14:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
