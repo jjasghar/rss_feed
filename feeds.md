@@ -1,29 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-08-12 14:11:18 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-12 15:47:43 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 21 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 12 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, August 12, 2026 - 14:11 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, August 12, 2026 - 15:47 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/counting-the-cost/2026/8/12/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss" target="_blank">Is Russia’s economy cracking despite the Iran war windfall?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-12 15:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69ce/live/3ac23d60-9659-11f1-b2ab-0dd01740f9f6.jpg" alt="Members of Trump&#x27;s cabinet remained on decoy plane, after president&#x27;s quiet exit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss" target="_blank">Members of Trump&#x27;s cabinet remained on decoy plane, after president&#x27;s quiet exit</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-12 15:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/948c/live/3de99fa0-965a-11f1-a7ab-8b30adf0800a.jpg" alt="Double killer and rapist given whole life sentence" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c4g30dw9xw6o?at_medium=RSS&at_campaign=rss" target="_blank">Double killer and rapist given whole life sentence</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-12 14:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -66,38 +99,29 @@
                 <span class="time">2026-08-12 13:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/12/g-s1-138337/up-first-newsletter-primaries-wisconsin-minnesota-south-carolina-trump-air-force-one-iraq-iran-militias" target="_blank">Takeaways from Tuesday primaries. And, Iran threat prompted Trump&#x27;s secret plane swap</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-12 11:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1786533659546_tdy_news_7a_nobles_primary_results_260812_S3_1920x1080-uxqbay.jpg" alt="David Crowley Defeats Democratic Socialist in Wisconsin Primary" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/progressive-democrats-ride-wave-of-victory-across-key-primaries-268171333824" target="_blank">David Crowley Defeats Democratic Socialist in Wisconsin Primary</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-12 11:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/12/putin-warns-of-tit-for-tat-seizures-of-european-vessels?traffic_source=rss" target="_blank">Putin warns of tit-for-tat seizures of European vessels</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-12 11:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-162426304-500x500-1786543365.jpg" alt="Booksellers suspect AI firms are buying and then destroying rare books" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/" target="_blank">Booksellers suspect AI firms are buying and then destroying rare books</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-12 15:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/977888/pixel-creator-suite-influencer-camera-features" target="_blank">Google aims for influencers with the Pixel 11 Creator Suite</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-12 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/Google-2026-lineup-500x500.jpg" alt="Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -134,29 +158,29 @@
                 <span class="time">2026-08-12 10:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/12/reservoir-raises-8m-to-make-water-heaters-that-people-and-the-grid-will-actually-want/" target="_blank">Reservoir raises $8M to make water heaters that people — and the grid — will actually want</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-12 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" alt="OnePlus Promo Codes: 30% Off August 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/oneplus-promo-code/" target="_blank">OnePlus Promo Codes: 30% Off August 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-12 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/" target="_blank">License Plate Reader Searches Should Require a Warrant</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-12 14:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/08/netflix-kueue-kubernetes-batch/en/headerimage/generatedHeaderImage-1786536066027.jpg" alt="Netflix Adopts Cloud-Native Job Queueing System Kueue to Replace an In-House Solution" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/08/netflix-kueue-kubernetes-batch/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Netflix Adopts Cloud-Native Job Queueing System Kueue to Replace an In-House Solution</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-12 14:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -191,24 +215,6 @@
                 <span class="title"><a href="https://www.infoq.com/articles/cloud-devops-trends-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: InfoQ Cloud and DevOps Trends Report - 2026</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-08-12 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-Reverting-DRM-Fair" target="_blank">Linux 7.2 To Revert Back To The FIFO DRM Scheduler Policy Due To &quot;Fair&quot; Regressions</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-12 10:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/" target="_blank">Tim Gowers: What sort of maths are LLMs good at?</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-12 10:04</span>
             </div>
         </div>
 </div>
@@ -248,6 +254,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KZSB49BVE8NHVQ3DJZ0Y1N83/hero-image.jpg" alt="Why Microsoft Patch Tuesday Updates Suddenly Have So Many More Fixes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/why-microsoft-patch-tuesday-updates-have-so-many-fixes-now?utm_medium=RSS" target="_blank">Why Microsoft Patch Tuesday Updates Suddenly Have So Many More Fixes</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-12 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/DotBot-1.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="DoorDash sprints towards replacing its drivers with robots" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -293,20 +308,20 @@
                 <span class="time">2026-08-11 19:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2GTD2GVD2SP033WMTR85N6/hero-image.png" alt="The Best Way to Get Past an Article&#x27;s Paywall" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/how-to-bypass-a-paywall-to-read-an-article-for-free?utm_medium=RSS" target="_blank">The Best Way to Get Past an Article&#x27;s Paywall</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-11 19:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1786485004-20260812.png" alt="Saturday Morning Breakfast Cereal - Priority" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/priority-2" target="_blank">Saturday Morning Breakfast Cereal - Priority</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-08-12 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -325,22 +340,13 @@
                 <span class="time">2026-08-12 00:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1786402084-20260811.png" alt="Saturday Morning Breakfast Cereal - Brave" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/brave" target="_blank">Saturday Morning Breakfast Cereal - Brave</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-08-11 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 96 | 📡 Total Sources: 40 | 📸 With Images: 244 |
-        🔄 Last Updated: 14:11 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 101 | 📡 Total Sources: 39 | 📸 With Images: 248 |
+        🔄 Last Updated: 15:47 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
