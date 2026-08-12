@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-08-12 17:48:28 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-08-12 18:44:26 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, August 12, 2026 - 17:48 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Wednesday, August 12, 2026 - 18:44 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +105,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/12/grubhubs-24m-ftc-settlement-is-finally-reaching-diners-and-drivers/" target="_blank">Grubhub’s $24M FTC settlement is finally reaching diners and drivers</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-12 18:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/gadgets/975970/google-pixel-11-series-where-to-buy-preorder-release-date" target="_blank">Google’s Pixel 11 phone preorders come with up to $350 in gift cards</a></span>
                 <span class="feed">The Verge</span>
@@ -151,20 +156,29 @@
                 <span class="time">2026-08-12 15:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-162426304-500x500-1786543365.jpg" alt="Booksellers suspect AI firms are buying and then destroying rare books" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/" target="_blank">Booksellers suspect AI firms are buying and then destroying rare books</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-12 15:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alifar/pandora-adds-gemini-voice-control-for-music-playback-across-supported-devices-23np" target="_blank">Pandora Adds Gemini Voice Control for Music Playback Across Supported Devices</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-12 18:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project/" target="_blank">Your contributors are AI-first now. Is your project?</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-08-12 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,27 +210,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/" target="_blank">License Plate Reader Searches Should Require a Warrant</a></span>
+                <span class="title"><a href="https://openrouter.ai/deepseek/deepseek-v4-pro-0813" target="_blank">DeepSeek V4 Pro 0813</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2026-08-12 14:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/08/netflix-kueue-kubernetes-batch/en/headerimage/generatedHeaderImage-1786536066027.jpg" alt="Netflix Adopts Cloud-Native Job Queueing System Kueue to Replace an In-House Solution" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/08/netflix-kueue-kubernetes-batch/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Netflix Adopts Cloud-Native Job Queueing System Kueue to Replace an In-House Solution</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-12 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://tailscale.com/blog/sqlite-wal-reset-bug" target="_blank">Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-12 14:22</span>
+                <span class="time">2026-08-12 16:04</span>
             </div>
         </div>
 </div>
@@ -247,6 +243,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/10-bulletinamerica35amer_0871-edit.jpg?fit=1200%2C713&amp;quality=60&amp;ssl=1" alt="A museum curator wrote the first T. rex novel on his daily commute" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/12/gratacap-new-northland.html" target="_blank">A museum curator wrote the first T. rex novel on his daily commute</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-12 18:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KZVESXM7Z0T8H3BNY8K2337C/hero-image.jpg" alt="This Lightweight Google Pixelsnap Wireless Charger Is 50% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/google-pixelsnap-qi2-wireless-charger-deal-august-2026?utm_medium=RSS" target="_blank">This Lightweight Google Pixelsnap Wireless Charger Is 50% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-12 17:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/Yotei-header-1280x713.jpg" alt="Ghost Of Yotei Expansion Coming This Fall, Will Add New Story Missions And Roguelike Mode" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,24 +295,6 @@
                 <span class="title"><a href="https://kotaku.com/metroid-prime-origins-2d-demake-remake-fans-2000723548" target="_blank">Fans Created A 2D Demake Of Metroid Prime In Celebration of Metroid Turning 40</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-08-11 21:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-11 21:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/xbox-asha-elder-1280x720.jpg" alt="Xbox Boss Asha Sharma Says Elder Scrolls VI Looks Great, So Stop Talking About That Giant Rat Outside Bethesda’s Office" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/xbox-boss-asha-sharma-says-elder-scrolls-vi-looks-great-so-stop-talking-about-that-giant-rat-outside-bethesdas-office-2000723542" target="_blank">Xbox Boss Asha Sharma Says Elder Scrolls VI Looks Great, So Stop Talking About That Giant Rat Outside Bethesda’s Office</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-11 20:21</span>
             </div>
         </div>
 </div>
@@ -338,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 242 |
-        🔄 Last Updated: 17:48 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 241 |
+        🔄 Last Updated: 18:44 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
