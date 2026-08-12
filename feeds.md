@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-08-12 15:47:43 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-12 16:43:54 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 27 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 12 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, August 12, 2026 - 15:47 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, August 12, 2026 - 16:44 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -73,6 +77,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1786544406951_now_brk_crowley_primary_thanks_260812_S3_1920x1080-x8uvp2.jpg" alt="Crowley thanks supporters after winning Democratic primary for Wisconsin governor" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/crowley-thanks-supporters-after-winning-democratic-primary-for-wisconsin-governor-268177477996" target="_blank">Crowley thanks supporters after winning Democratic primary for Wisconsin governor</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-12 14:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -90,20 +103,29 @@
                 <span class="time">2026-08-12 13:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf17/live/d73f4760-964e-11f1-870d-5d08c49babb2.jpg" alt="Burnham warned of Iran war impact on UK growth next year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss" target="_blank">Burnham warned of Iran war impact on UK growth next year</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-12 13:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/12/tesla-wants-to-build-a-10b-solar-factory-in-texas/" target="_blank">Tesla wants to build a $10B solar factory in Texas</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-12 16:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno" target="_blank">Guitar company D’Addario admits that AI music was used in a promotional video</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-12 15:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-162426304-500x500-1786543365.jpg" alt="Booksellers suspect AI firms are buying and then destroying rare books" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,29 +162,20 @@
                 <span class="time">2026-08-12 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/figureH-1-500x500.jpg" alt="Feces fueled a flurry of evolution during the Cambrian, study suggests" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/08/feces-fueled-a-flurry-of-evolution-during-the-cambrian-study-suggests/" target="_blank">Feces fueled a flurry of evolution during the Cambrian, study suggests</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-12 12:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a6be4d1e28e6ee5fb2f6879/master/pass/Interview-With-Startup-Founder-Who-Offered-Interviews-for-Tattoos-Business.gif" alt="The Job Interview Tattoo Guy Everyone Got Mad at Finally Explains Himself" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/linkedin-grindset-tattoo-guy-explains-himself/" target="_blank">The Job Interview Tattoo Guy Everyone Got Mad at Finally Explains Himself</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-12 10:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2017/03/lightdm-session-e1490881816622.png?resize=406%2C232&amp;ssl=1" alt="LightDM returns from the dark with first release in 4 years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/lightdm-new-release-new-maintainers" target="_blank">LightDM returns from the dark with first release in 4 years</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-08-12 16:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -184,37 +197,28 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/zira125/your-agent-queue-is-full-what-happens-to-the-work-that-was-already-running-1blp" target="_blank">Your Agent Queue Is Full. What Happens to the Work That Was Already Running?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-12 14:00</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://tailscale.com/blog/sqlite-wal-reset-bug" target="_blank">Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-12 14:22</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-DG2-Vulkan-Video-AV1" target="_blank">Intel ANV Driver Enables Vulkan Video AV1 Encoding For DG2/Alchemist GPUs</a></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-2026-Patches-For-2018-MBP" target="_blank">Linux Finally Seeing Patches For Better Hybrid Graphics On 2018~2019 Era MacBook Pros</a></span>
                 <span class="feed">Phoronix</span>
-                <span class="time">2026-08-12 13:57</span>
+                <span class="time">2026-08-12 14:15</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://jonty.github.io/2026_eclipse_webcams/" target="_blank">2026 Eclipse Webcams</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-12 11:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/cloud-devops-trends-2026/en/headerimage/cloud-devops-trends-report-2026-graph-header-1786093402163.jpg" alt="Article: InfoQ Cloud and DevOps Trends Report - 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/cloud-devops-trends-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: InfoQ Cloud and DevOps Trends Report - 2026</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-12 11:00</span>
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/zira125/your-agent-queue-is-full-what-happens-to-the-work-that-was-already-running-1blp" target="_blank">Your Agent Queue Is Full. What Happens to the Work That Was Already Running?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-12 14:00</span>
             </div>
         </div>
 </div>
@@ -240,20 +244,20 @@
                 <span class="time">2026-08-11 21:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/08/ai-genie-in-the-wild.html" target="_blank">AI Genie in the Wild</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-08-11 15:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/Yotei-header-1280x713.jpg" alt="Ghost Of Yotei Expansion Coming This Fall, Will Add New Story Missions And Roguelike Mode" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ghost-of-yotei-expansion-coming-this-fall-will-add-new-story-missions-and-roguelike-mode-2000723819" target="_blank">Ghost Of Yotei Expansion Coming This Fall, Will Add New Story Missions And Roguelike Mode</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-12 15:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KZSB49BVE8NHVQ3DJZ0Y1N83/hero-image.jpg" alt="Why Microsoft Patch Tuesday Updates Suddenly Have So Many More Fixes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -299,15 +303,6 @@
                 <span class="time">2026-08-11 20:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/kingsfield42-1-1280x720.jpg" alt="I Played This Brutal PS2 Action RPG For Ten Hours And Only Died To Poison Like 50 Times" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/kings-field-4-kill-you-like-it-2000722569" target="_blank">I Played This Brutal PS2 Action RPG For Ten Hours And Only Died To Poison Like 50 Times</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-11 19:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -345,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 101 | 📡 Total Sources: 39 | 📸 With Images: 248 |
-        🔄 Last Updated: 15:47 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 246 |
+        🔄 Last Updated: 16:44 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
