@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-08-11 23:27:43 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-08-12 00:57:18 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, August 11, 2026 - 23:27 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Wednesday, August 12, 2026 - 00:57 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,6 +108,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive" target="_blank">Saber denies replacing Rideshare Stimulator&amp;#8217;s writers with ChatGPT</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-12 00:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2021/07/GettyImages-1233218421-500x500.jpg" alt="DEF CON crowd suspected in fake-hotspot attack on Delta flight" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/" target="_blank">DEF CON crowd suspected in fake-hotspot attack on Delta flight</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-12 00:08</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2236338199-500x500.jpg" alt="Trump wants Big Pharma to split MMR vaccine; Big Pharma thinks it&#x27;s idiotic" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -137,24 +159,6 @@
                 <span class="title"><a href="https://arstechnica.com/tech-policy/2026/08/meta-cant-stop-states-1-4-trillion-lawsuit-from-going-to-trial/" target="_blank">Meta can&#x27;t stop states&#x27; $1.4 trillion lawsuit from going to trial</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-08-11 20:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a7b0862e8bb799c3501eef8/master/pass/Lettuce-.gif" alt="Is It Safe to Eat Lettuce Yet?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/is-it-safe-to-eat-lettuce-yet/" target="_blank">Is It Safe to Eat Lettuce Yet?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-11 20:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/" target="_blank">Uber surprised robotics company Serve by selling its entire stake</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-11 20:02</span>
             </div>
         </div>
 </div>
@@ -254,6 +258,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/DotBot-1.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="DoorDash sprints towards replacing its drivers with robots" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/11/doordash-sprints-towards-replacing-its-drivers-with-robots.html" target="_blank">DoorDash sprints towards replacing its drivers with robots</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-11 23:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/Metroid-Prime-Origins-1280x720.jpg" alt="Fans Created A 2D Demake Of Metroid Prime In Celebration of Metroid Turning 40" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/metroid-prime-origins-2d-demake-remake-fans-2000723548" target="_blank">Fans Created A 2D Demake Of Metroid Prime In Celebration of Metroid Turning 40</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-11 21:43</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -289,24 +311,6 @@
                 <span class="time">2026-08-11 19:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/1280px-thumbnail-e1786476439929.jpg?fit=768%2C509&amp;quality=60&amp;ssl=1" alt="Man, those Romans sure lost a lot of cargo boats" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/11/roman-cargo-shipwreck-sicily-amphorae.html" target="_blank">Man, those Romans sure lost a lot of cargo boats</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-11 19:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KZNWC09CE9NZ5F274JRRS9VK/hero-image.jpg" alt="Seven Surprisingly Useful Mac Apps You&#x27;ve Never Heard Of" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/surprisingly-useful-mac-apps-youve-never-heard-of?utm_medium=RSS" target="_blank">Seven Surprisingly Useful Mac Apps You&#x27;ve Never Heard Of</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-11 18:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,22 +325,13 @@
                 <span class="time">2026-08-11 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5892.png" alt="A Good Day, In The End" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5892" target="_blank">A Good Day, In The End</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-08-11 00:29</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 103 | 📡 Total Sources: 40 | 📸 With Images: 248 |
-        🔄 Last Updated: 23:27 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 102 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 00:57 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
