@@ -1,28 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-08-13 05:25:48 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-13 07:08:34 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 19 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, August 13, 2026 - 05:26 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Thursday, August 13, 2026 - 07:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -168,6 +174,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17416952/vlc-microsoft-defenders-drama" target="_blank">VLC is Wrongly Blamed for Microsoft Defender&#x27;s Clumsiness</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-08-13 04:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Rsync-3.5" target="_blank">Rsync 3.5 Released As &quot;Extraordinary&quot; Update To Fix 33 Security Issues</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-13 01:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/multigrid/detecting-cycles-and-loops-in-a-dependency-graph-2eca" target="_blank">Detecting Cycles and Loops in a Dependency Graph</a></span>
                 <span class="feed">DEV Community</span>
@@ -192,24 +216,6 @@
                 <span class="time">2026-08-12 20:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app/" target="_blank">Write your first prompt with the GitHub Copilot app</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-08-12 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alifar/pandora-adds-gemini-voice-control-for-music-playback-across-supported-devices-23np" target="_blank">Pandora Adds Gemini Voice Control for Music Playback Across Supported Devices</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-12 18:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -229,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/rideshare-1-1280x714.jpg" alt="Saber CEO Denies Replacing Rideshare Writer With ChatGPT But Says ‘I Would Frankly In Retrospect Have Been Happy To Replace Her With AI’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/saber-ceo-denies-replacing-rideshare-writer-with-chatgpt-but-says-i-would-frankly-in-retrospect-have-been-happy-to-replace-her-with-ai-2000723953" target="_blank">Saber CEO Denies Replacing Rideshare Writer With ChatGPT But Says ‘I Would Frankly In Retrospect Have Been Happy To Replace Her With AI’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-13 04:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/AskAnyModel-AI-Pro-Plan.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Get 50+ AI models for life, including GPT, Claude, and Gemini, for just $40" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,15 +289,6 @@
                 <span class="time">2026-08-12 19:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/10-bulletinamerica35amer_0871-edit.jpg?fit=1200%2C713&amp;quality=60&amp;ssl=1" alt="A museum curator wrote the first T. rex novel on his daily commute" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/12/gratacap-new-northland.html" target="_blank">A museum curator wrote the first T. rex novel on his daily commute</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-12 18:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -306,22 +312,13 @@
                 <span class="time">2026-08-12 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/08/12/brokon" target="_blank">Brokon</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-08-12 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 96 | 📡 Total Sources: 40 | 📸 With Images: 245 |
-        🔄 Last Updated: 05:26 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 96 | 📡 Total Sources: 40 | 📸 With Images: 244 |
+        🔄 Last Updated: 07:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
