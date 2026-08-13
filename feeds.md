@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-08-13 09:00:03 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-13 10:07:24 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, August 13, 2026 - 09:00 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, August 13, 2026 - 10:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/13/g-s1-138574/us-west-bank-settlers" target="_blank">U.S. ambassador calls settler siege of Palestinian homes a &#x27;horrific act of terror&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-13 09:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Hormuz-DB-260813_1786603745830_hpMain_4x3t_384.jpg" alt="Iran live updates: US &#x27;miscalculated&#x27; in war due to intel &#x27;failures,&#x27; Araghchi says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-negotiations-us-messages-exchanged-tehran/?id=135508900" target="_blank">Iran live updates: US &#x27;miscalculated&#x27; in war due to intel &#x27;failures,&#x27; Araghchi says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-13 09:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,24 +102,6 @@
                 <span class="time">2026-08-13 04:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/13/solar-eclipse-carves-eiffel-towers-silhouette-in-paris-sky?traffic_source=rss" target="_blank">Solar eclipse carves Eiffel Tower’s silhouette in Paris sky</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-13 02:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/13/aje-onl-nf_erling-haaland-branded-cocaine-seized-in-ecuador-120826?traffic_source=rss" target="_blank">Half a tonne of Erling Haaland branded cocaine seized in Ecuador</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-13 00:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -122,6 +123,15 @@
                 <span class="title"><a href="https://www.wired.com/story/best-photos-august-solar-eclipse-spain/" target="_blank">The Best Photos of the Big August Solar Eclipse</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-08-12 22:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2163387581-500x500.jpg" alt="Toddler&#x27;s tragic death from brain-destroying amoeba offers lessons for doctors" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/08/an-ultra-rare-amoeba-was-destroying-a-toddlers-brain-doctors-missed-it/" target="_blank">Toddler&#x27;s tragic death from brain-destroying amoeba offers lessons for doctors</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-12 22:31</span>
             </div>
         </div>
 <div class="story">
@@ -151,20 +161,20 @@
                 <span class="time">2026-08-12 22:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/979241/made-by-google-2026-live-blog-pixel-11-trevor-noah" target="_blank">Pixel 11 event live blog: Let&amp;#8217;s watch Trevor Noah introduce Google&amp;#8217;s new phones</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-12 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nolanpiercework/one-prompt-can-make-a-game-demo-that-is-not-the-same-as-making-a-game-19en" target="_blank">One Prompt Can Make a Game Demo. That Is Not the Same as Making a Game.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-13 09:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/08/astro-7-release-speed/en/headerimage/generatedHeaderImage-1786526407228.jpg" alt="Astro 7: Rust Compiler, Rust Markdown Pipeline and Vite 8 for Builds Up to 61% Faster" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -195,42 +205,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://openai.com/codex/" target="_blank">ChatGPT Desktop (Codex Desktop) for Linux</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-13 04:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17416952/vlc-microsoft-defenders-drama" target="_blank">VLC is Wrongly Blamed for Microsoft Defender&#x27;s Clumsiness</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2026-08-13 04:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Rsync-3.5" target="_blank">Rsync 3.5 Released As &quot;Extraordinary&quot; Update To Fix 33 Security Issues</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-13 01:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/multigrid/detecting-cycles-and-loops-in-a-dependency-graph-2eca" target="_blank">Detecting Cycles and Loops in a Dependency Graph</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-12 23:12</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/08/prompt-injections-for-defense.html" target="_blank">Prompt Injections for Defense</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-08-12 09:56</span>
             </div>
         </div>
 </div>
@@ -329,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 101 | 📡 Total Sources: 40 | 📸 With Images: 248 |
-        🔄 Last Updated: 09:00 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 102 | 📡 Total Sources: 40 | 📸 With Images: 248 |
+        🔄 Last Updated: 10:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
