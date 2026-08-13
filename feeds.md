@@ -1,25 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-08-13 14:13:00 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-08-13 15:46:45 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 17 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 12 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, August 13, 2026 - 14:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, August 13, 2026 - 15:46 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -35,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/13/will-all-out-war-in-yemen-reignite-as-houthis-escalate-attacks?traffic_source=rss" target="_blank">Will all-out war in Yemen reignite as the Houthis escalate attacks?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-13 15:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/13/nx-s1-5904418/ukraine-crimea-russia-drone-strikes" target="_blank">By sky and sea, Ukraine&#x27;s drone strikes challenge Russia&#x27;s grip on Crimea</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-13 15:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province" target="_blank">DRC’s fast-growing Ebola outbreak spreads to sixth province</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-08-13 15:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-08/260812-flock-camera-ch-1557-41e353.jpg" alt="Surveillance company Flock moves to increase oversight after police misuse" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -54,39 +93,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07ef/live/29f88a10-9709-11f1-b72c-211ea4e0afc4.png" alt="Heatwaves drive A&amp;E attendances up to record high" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1786623447935_tdy_news_8a_sailor_mental_health_260813_S3_1920x1080-v0ux02.jpg" alt="Reports Emerge on Mental Health Crisis on USS Abraham Lincoln" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/crrvp45gxzpo?at_medium=RSS&at_campaign=rss" target="_blank">Heatwaves drive A&amp;E attendances up to record high</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-13 11:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/13/g-s1-138578/up-first-newsletter-inflation-colombia-earthquake-ice-gloves-migrant-children-karolina-leavitt" target="_blank">Inflation eased slightly in July. And, ICE plans to give officers electric shock gloves</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-13 11:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/13/g-s1-138574/us-west-bank-settlers" target="_blank">U.S. ambassador calls settler siege of Palestinian homes a &#x27;horrific act of terror&#x27;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-13 09:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Hormuz-DB-260813_1786603745830_hpMain_4x3t_384.jpg" alt="Iran live updates: US &#x27;miscalculated&#x27; in war due to intel &#x27;failures,&#x27; Araghchi says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-negotiations-us-messages-exchanged-tehran/?id=135508900" target="_blank">Iran live updates: US &#x27;miscalculated&#x27; in war due to intel &#x27;failures,&#x27; Araghchi says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-13 09:07</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/reports-emerge-on-mental-health-crisis-on-uss-abraham-lincoln-268239941768" target="_blank">Reports Emerge on Mental Health Crisis on USS Abraham Lincoln</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-13 12:17</span>
             </div>
         </div>
 </div>
@@ -101,6 +113,15 @@
                 <span class="title"><a href="https://arstechnica.com/cars/2026/08/rivian-tweaks-its-r1-range-for-model-year-2027/" target="_blank">Rivian&#x27;s 2027 changes include its No. 1 most-requested feature</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-08-13 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a7ce4062c7a75832e9289d0/master/pass/Novig-Good-Prediction-Market-Business.jpg" alt="Why This Prediction Market Banned Teens" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/novig-says-its-not-like-those-other-prediction-markets/" target="_blank">Why This Prediction Market Banned Teens</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-13 13:30</span>
             </div>
         </div>
 <div class="story">
@@ -139,20 +160,20 @@
                 <span class="time">2026-08-12 22:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2163387581-500x500.jpg" alt="Toddler&#x27;s tragic death from brain-destroying amoeba offers lessons for doctors" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/08/an-ultra-rare-amoeba-was-destroying-a-toddlers-brain-doctors-missed-it/" target="_blank">Toddler&#x27;s tragic death from brain-destroying amoeba offers lessons for doctors</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-12 22:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/10/nvidia-logo-on-green.jpg?resize=406%2C232&amp;ssl=1" alt="GeForce NOW’s Linux app drops its beta tag, gets Flatpak repo" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/nvidia-geforce-now-linux-stable" target="_blank">GeForce NOW’s Linux app drops its beta tag, gets Flatpak repo</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-08-13 15:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -160,6 +181,24 @@
                 <span class="title"><a href="https://www.phoronix.com/review/framework-13-pro-linux-71-72" target="_blank">The Beneficial Performance Gains Running The Framework Laptop Pro 13 / Core Ultra X9 388H With Linux 7.1+</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-08-13 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17417251/foss-weekly-26-33" target="_blank">FOSS Weekly #26.33: Mint Kernel, PDF Editing, VLC Drama, Omarchy Quattro and More Linux Stuff</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-08-13 13:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/deepseek-ai/deepseek-harness" target="_blank">DeepSeek Harness</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-13 12:58</span>
             </div>
         </div>
 <div class="story">
@@ -178,33 +217,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/08/AI-disrupts-engineering-progress/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How Artificial Intelligence Disrupts Engineering Progression</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-08-13 11:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pezzullo/cyber-resilience-act-what-changes-for-firmware-and-iot-1jl8" target="_blank">Cyber Resilience Act: What Changes for Firmware and IoT</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-13 11:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/advantech-aom-2721-ubuntu-certified" target="_blank">Advantech AOM-2721 is now Ubuntu Certified</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-08-13 10:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nolanpiercework/one-prompt-can-make-a-game-demo-that-is-not-the-same-as-making-a-game-19en" target="_blank">One Prompt Can Make a Game Demo. That Is Not the Same as Making a Game.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-13 09:58</span>
             </div>
         </div>
 </div>
@@ -226,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/clefairy-tales-pokemon-anime-1-1280x720.jpg" alt="How To Get All The Pokémon You Forgot About Out Of Pokémon Bank Before The Service Shuts Down" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-bank-shut-down-pokemon-home-transfer-2000724123" target="_blank">How To Get All The Pokémon You Forgot About Out Of Pokémon Bank Before The Service Shuts Down</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-13 15:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/1280px-22The_Tetons_-_Snake_River2C22_Grand_Teton_National_Park2C_Wyoming.2C_1933_-_1942_-_NARA_-_519904.jpg?fit=1280%2C1037&amp;quality=60&amp;ssl=1" alt="Ansel Adams shot 226 park photos for a mural that never got made" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/13/ansel-adams-national-parks.html" target="_blank">Ansel Adams shot 226 park photos for a mural that never got made</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-13 12:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/hammerfell.jpg" alt="Fans Are Convinced They’ve Guessed The Name Of The Next Elder Scrolls Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,24 +292,6 @@
                 <span class="time">2026-08-12 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/kingsfield43-1280x720.jpg" alt="Things I Said Out Loud, To No One, While Suffering Through FromSoft’s Grueling Dark Souls Predecessor For Kotaku’s Warp Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/things-said-kings-field-4-ancient-city-dark-souls-warp-week-2002-2000723445" target="_blank">Things I Said Out Loud, To No One, While Suffering Through FromSoft’s Grueling Dark Souls Predecessor For Kotaku’s Warp Week</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-12 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KZV0VYT7ZCQQVV25771EVDVR/hero-image.jpg" alt="Five Hacks Every Garmin Cirqa User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/hacks-every-garmin-cirqa-user-should-know?utm_medium=RSS" target="_blank">Five Hacks Every Garmin Cirqa User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-12 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -303,22 +315,13 @@
                 <span class="time">2026-08-12 22:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1786485004-20260812.png" alt="Saturday Morning Breakfast Cereal - Priority" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/priority-2" target="_blank">Saturday Morning Breakfast Cereal - Priority</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-08-12 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 95 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 14:13 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 96 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 15:46 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
