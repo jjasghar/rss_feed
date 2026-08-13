@@ -1,28 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-08-13 00:58:59 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2026-08-13 03:25:21 UTC -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Generated 4 new posts out of 20 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, August 13, 2026 - 00:59 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Thursday, August 13, 2026 - 03:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +38,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/13/solar-eclipse-carves-eiffel-towers-silhouette-in-paris-sky?traffic_source=rss" target="_blank">Solar eclipse carves Eiffel Tower’s silhouette in Paris sky</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-13 02:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -66,11 +75,11 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/548e/live/e3a91030-9694-11f1-870d-5d08c49babb2.jpg" alt="Once-in-a-generation solar eclipse wows millions in UK and Europe" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/12/us-strikes-in-yemen-killed-153-civilians-in-2025-says-pentagon-review?traffic_source=rss" target="_blank">US strikes in Yemen killed 153 civilians in 2025, says Pentagon review</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss" target="_blank">Once-in-a-generation solar eclipse wows millions in UK and Europe</a></span>
+                <span class="feed">BBC News</span>
                 <span class="time">2026-08-12 21:53</span>
             </div>
         </div>
@@ -78,18 +87,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-attacks-on-energy-infrastructure-deepen-libyas-energy-crisis?traffic_source=rss" target="_blank">Drone attacks on energy infrastructure deepen Libya’s energy crisis</a></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/12/us-strikes-in-yemen-killed-153-civilians-in-2025-says-pentagon-review?traffic_source=rss" target="_blank">US strikes in Yemen killed 153 civilians in 2025, says Pentagon review</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-12 20:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/leavitt-2-rt-gmh-260723_1784821056113_hpMain_4x3t_384.jpg" alt="Trump announces White House press secretary Karoline Leavitt stepping down" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-announces-white-house-press-secretary-karoline-leavitt/story?id=135590424" target="_blank">Trump announces White House press secretary Karoline Leavitt stepping down</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-12 20:50</span>
+                <span class="time">2026-08-12 21:53</span>
             </div>
         </div>
 </div>
@@ -320,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 99 | 📡 Total Sources: 40 | 📸 With Images: 243 |
-        🔄 Last Updated: 00:59 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 100 | 📡 Total Sources: 40 | 📸 With Images: 244 |
+        🔄 Last Updated: 03:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
