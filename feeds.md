@@ -1,19 +1,23 @@
-<!-- Processing 54 RSS feeds at 2026-08-13 19:49:46 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-08-13 20:28:26 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
@@ -23,16 +27,18 @@
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 30 feeds processed -->
+<!-- Generated 6 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, August 13, 2026 - 19:49 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, August 13, 2026 - 20:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -76,6 +82,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1786642644385_now_current_dde_lincoln_260813_S3_1920x1080-op4ayz.jpg" alt="Families concerned about reports of mental health crisis on USS Lincoln" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/families-concerned-about-reports-of-mental-health-crisis-on-uss-lincoln-268262469844" target="_blank">Families concerned about reports of mental health crisis on USS Lincoln</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-13 17:37</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -93,20 +108,20 @@
                 <span class="time">2026-08-13 16:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c4e/live/7b1f7060-9728-11f1-808c-532494fd22c7.jpg" alt="Palestinians told to leave homes in village where Israeli settlers besieged houses" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss" target="_blank">Palestinians told to leave homes in village where Israeli settlers besieged houses</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-13 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/security-illustration-skull-500x500-1783710086.jpg" alt="Private security firms will soon be allowed to hack overseas cybercriminals" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/" target="_blank">Private security firms will soon be allowed to hack overseas cybercriminals</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-13 19:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +167,29 @@
                 <span class="time">2026-08-13 16:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a7daa43c12158645e80e0c4/master/pass/ICEGloves.jpg" alt="The Painful Truth of Exactly How ICE’s New Shock Gloves Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-painful-truth-of-exactly-how-ice-new-shock-gloves-actually-work/" target="_blank">The Painful Truth of Exactly How ICE’s New Shock Gloves Work</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-13 15:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sammy_cloud/beyond-the-switchover-using-rds-snapshots-to-safely-test-mysql-84-compatibility-before-your-2991" target="_blank">Beyond the Switchover: Using RDS Snapshots to Safely Test MySQL 8.4 Compatibility Before Your Blue/Green Cutover</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-13 20:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/KDE-Bullet-Proof-Software" target="_blank">KDE, Techpaladin &amp; Kubuntu Focus Announce The Bullet-Proof KDE Software Initiative</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-13 20:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,24 +226,6 @@
                 <span class="time">2026-08-13 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/08/vercel-v0-api/en/headerimage/generatedHeaderImage-1786628629656.jpg" alt="Vercel Launches v0 API for Headless App Building" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/08/vercel-v0-api/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Vercel Launches v0 API for Headless App Building</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-13 15:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/08/geforce-now-linux-tux.webp?resize=406%2C232&amp;ssl=1" alt="GeForce NOW’s Linux app exits beta, gets official Flatpak repo" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/nvidia-geforce-now-linux-stable" target="_blank">GeForce NOW’s Linux app exits beta, gets official Flatpak repo</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-08-13 15:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +245,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KZY9FE6HKRDB56DV8FKDKXG5/hero-image.jpg" alt="Here&#x27;s How Google&#x27;s New &#x27;Tap to Share&#x27; Android Feature Works" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/how-googles-new-tap-to-share-feature-works-made-by-google-2026?utm_medium=RSS" target="_blank">Here&#x27;s How Google&#x27;s New &#x27;Tap to Share&#x27; Android Feature Works</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-13 19:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/the-devils-1280x720.jpg" alt="WB Is Releasing Its First NC-17 Movie In Over 20 Years This October" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +299,6 @@
                 <span class="time">2026-08-13 15:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/1280px-22The_Tetons_-_Snake_River2C22_Grand_Teton_National_Park2C_Wyoming.2C_1933_-_1942_-_NARA_-_519904.jpg?fit=1280%2C1037&amp;quality=60&amp;ssl=1" alt="Ansel Adams shot 226 park photos for a mural that never got made" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/13/ansel-adams-national-parks.html" target="_blank">Ansel Adams shot 226 park photos for a mural that never got made</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-13 12:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -330,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 95 | 📡 Total Sources: 40 | 📸 With Images: 255 |
-        🔄 Last Updated: 19:49 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 94 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 20:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
