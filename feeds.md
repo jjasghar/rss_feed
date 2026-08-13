@@ -1,39 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-08-12 23:28:29 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-13 00:58:59 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Generated 4 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, August 12, 2026 - 23:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, August 13, 2026 - 00:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +38,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/13/aje-onl-nf_erling-haaland-branded-cocaine-seized-in-ecuador-120826?traffic_source=rss" target="_blank">Half a tonne of Erling Haaland branded cocaine seized in Ecuador</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-13 00:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,21 +84,12 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2026/8/12/photos-solar-eclipse-plunges-parts-of-europe-into-darkness?traffic_source=rss" target="_blank">Photos: Solar eclipse plunges parts of Europe into darkness</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-12 20:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/eclipse-11-rt-gmh-260812_1786561843967_hpMain_4x3t_384.jpg" alt="2026 total solar eclipse: See photos from the Aug 12 event and where it is visible" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://s.abcnews.com/images/US/leavitt-2-rt-gmh-260723_1784821056113_hpMain_4x3t_384.jpg" alt="Trump announces White House press secretary Karoline Leavitt stepping down" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/GMA/Living/august-2026-total-solar-eclipse-us/story?id=134723486" target="_blank">2026 total solar eclipse: See photos from the Aug 12 event and where it is visible</a></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-announces-white-house-press-secretary-karoline-leavitt/story?id=135590424" target="_blank">Trump announces White House press secretary Karoline Leavitt stepping down</a></span>
                 <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-12 20:01</span>
+                <span class="time">2026-08-12 20:50</span>
             </div>
         </div>
 </div>
@@ -115,6 +104,15 @@
                 <span class="title"><a href="https://www.wired.com/story/best-photos-august-solar-eclipse-spain/" target="_blank">The Best Photos of the Big August Solar Eclipse</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-08-12 22:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/" target="_blank">Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-12 22:26</span>
             </div>
         </div>
 <div class="story">
@@ -151,15 +149,6 @@
                 <span class="title"><a href="https://arstechnica.com/science/2026/08/have-physicists-finally-discovered-glueballs-new-evidence-points-to-yes/" target="_blank">Have physicists finally discovered glueballs? New evidence points to yes.</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-08-12 21:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a7bbf68f5d2df0bb3e19f91/master/pass/politics_white_house_ai_policy.jpg" alt="The White House Is Going to Expand Its AI Policy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/" target="_blank">The White House Is Going to Expand Its AI Policy</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-12 21:00</span>
             </div>
         </div>
 </div>
@@ -300,6 +289,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/08/12/brokon" target="_blank">Brokon</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-08-12 22:18</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1786485004-20260812.png" alt="Saturday Morning Breakfast Cereal - Priority" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -317,22 +315,13 @@
                 <span class="time">2026-08-12 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5893.png" alt="Invitation Refused" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5893" target="_blank">Invitation Refused</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-08-12 00:49</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 101 | 📡 Total Sources: 40 | 📸 With Images: 244 |
-        🔄 Last Updated: 23:28 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 99 | 📡 Total Sources: 40 | 📸 With Images: 243 |
+        🔄 Last Updated: 00:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
