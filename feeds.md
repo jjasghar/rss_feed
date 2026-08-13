@@ -1,36 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-08-13 16:42:55 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-08-13 17:47:14 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Thursday, August 13, 2026 - 16:43 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, August 13, 2026 - 17:47 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/GMA/clancy-ap-er-260813_1786638690758_hpMain_4x3t_384.jpg" alt="Lindsay Clancy searched &#x27;can you treat a sociopath&#x27; prior to killing children" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/GMA/News/lindsay-clancy-searched-treat-sociopath-prior-killing-children/story?id=135617187" target="_blank">Lindsay Clancy searched &#x27;can you treat a sociopath&#x27; prior to killing children</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-13 16:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c4e/live/7b1f7060-9728-11f1-808c-532494fd22c7.jpg" alt="Palestinians told to leave homes in village where Israeli settlers besieged houses" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,20 +94,20 @@
                 <span class="time">2026-08-13 15:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province" target="_blank">DRC’s fast-growing Ebola outbreak spreads to sixth province</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-08-13 15:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/instagram-2026-wordmark-500x500.png" alt="The new Instagram logo is the perfect embodiment of AI slop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/" target="_blank">The new Instagram logo is the perfect embodiment of AI slop</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-13 17:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,15 +153,6 @@
                 <span class="time">2026-08-13 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" alt="Priceline Promo Codes &amp; Coupons: 10% Off August 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/priceline-promo-code/" target="_blank">Priceline Promo Codes &amp; Coupons: 10% Off August 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-13 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -180,6 +174,15 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/08/vercel-v0-api/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Vercel Launches v0 API for Headless App Building</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-08-13 15:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/08/geforce-now-linux-tux.webp?resize=406%2C232&amp;ssl=1" alt="GeForce NOW’s Linux app exits beta, gets official Flatpak repo" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/nvidia-geforce-now-linux-stable" target="_blank">GeForce NOW’s Linux app exits beta, gets official Flatpak repo</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-08-13 15:22</span>
             </div>
         </div>
 <div class="story">
@@ -209,15 +212,6 @@
                 <span class="time">2026-08-13 13:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/deepseek-ai/deepseek-harness" target="_blank">DeepSeek Harness</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-13 12:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +231,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/wolverinepreviews.jpg" alt="7 Things We Learned About Insomniac’s Wolverine From The Latest Previews" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/marvels-wolverine-insomniac-previews-ps5-story-characters-2000724190" target="_blank">7 Things We Learned About Insomniac’s Wolverine From The Latest Previews</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-13 17:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/Boot_Red_Star_OS_18_11_2019_13_48_47.png?fit=800%2C600&amp;quality=55&amp;ssl=1" alt="North Korea&#x27;s operating system watermarks every file you touch" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +285,6 @@
                 <span class="time">2026-08-13 04:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KZW6Q47XV53EVSBT8NNQJYTE/hero-image.jpg" alt="Six New Features Coming to the Pixel Watch 5" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/new-features-coming-to-the-pixel-watch-5-made-by-google-2026?utm_medium=RSS" target="_blank">Six New Features Coming to the Pixel Watch 5</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-13 00:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 96 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 16:43 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 93 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 17:47 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
