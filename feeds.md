@@ -1,30 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-08-13 17:47:14 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-13 18:44:41 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Generated 4 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, August 13, 2026 - 17:47 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, August 13, 2026 - 18:44 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/13/nx-s1-5930397/mangione-federal-court-hearing-guilty-plea" target="_blank">Mangione could plead guilty in federal case ahead of NY murder trial</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-13 17:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/GMA/clancy-ap-er-260813_1786638690758_hpMain_4x3t_384.jpg" alt="Lindsay Clancy searched &#x27;can you treat a sociopath&#x27; prior to killing children" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,20 +93,29 @@
                 <span class="time">2026-08-13 15:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/13/nx-s1-5904418/ukraine-crimea-russia-drone-strikes" target="_blank">By sky and sea, Ukraine&#x27;s drone strikes challenge Russia&#x27;s grip on Crimea</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-13 15:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/US-Army-Tank-in-Exercise-Combined-Resolve-500x500.jpg" alt="Ukrainian drones wipe out entire US tank brigade in live war game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/08/ukrainian-drones-wipe-out-entire-us-tank-brigade-in-live-war-game/" target="_blank">Ukrainian drones wipe out entire US tank brigade in live war game</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-13 18:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame" target="_blank">I finally found a robot lawnmower I’d trust with my yard</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-13 18:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/instagram-2026-wordmark-500x500.png" alt="The new Instagram logo is the perfect embodiment of AI slop" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -133,24 +150,6 @@
                 <span class="title"><a href="https://www.wired.com/story/novig-says-its-not-like-those-other-prediction-markets/" target="_blank">Why This Prediction Market Banned Teens</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-08-13 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69ced175c7a8ccda83fafc07/master/pass/The-Best-Samsung-Galaxy-S26-Cases-and-Accessories.jpg" alt="The Best Samsung Galaxy S26 Cases (2026): S26, S26+, and S26 Ultra" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-samsung-s26-cases-and-accessories/" target="_blank">The Best Samsung Galaxy S26 Cases (2026): S26, S26+, and S26 Ultra</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-13 12:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a7ca66f4db5ff20195852b7/master/pass/Google-Pixelsnap-Charger-with-Stand-Deal-post.jpg" alt="The Google Pixelsnap Charger With Stand Is 50 Percent Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/google-pixelsnap-charger-and-stand-50-percent-off/" target="_blank">The Google Pixelsnap Charger With Stand Is 50 Percent Off Right Now</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-13 11:00</span>
             </div>
         </div>
 </div>
@@ -232,6 +231,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/bfvsmoh-1280x720.jpg" alt="Battlefield 1942 Vs. Medal Of Honor: Allied Assault: Which Is The Better WW2 Shooter?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/battlefield-1942-vs-medal-of-honor-allied-assault-which-is-the-better-ww2-shooter-2000724128" target="_blank">Battlefield 1942 Vs. Medal Of Honor: Allied Assault: Which Is The Better WW2 Shooter?</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-13 18:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/wolverinepreviews.jpg" alt="7 Things We Learned About Insomniac’s Wolverine From The Latest Previews" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -276,15 +284,6 @@
                 <span class="time">2026-08-13 12:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/rideshare-1-1280x714.jpg" alt="Saber CEO Denies Replacing Rideshare Writer With ChatGPT But Says ‘I Would Frankly In Retrospect Have Been Happy To Replace Her With AI’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/saber-ceo-denies-replacing-rideshare-writer-with-chatgpt-but-says-i-would-frankly-in-retrospect-have-been-happy-to-replace-her-with-ai-2000723953" target="_blank">Saber CEO Denies Replacing Rideshare Writer With ChatGPT But Says ‘I Would Frankly In Retrospect Have Been Happy To Replace Her With AI’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-13 04:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 93 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 17:47 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 91 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 18:44 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
