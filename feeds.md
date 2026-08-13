@@ -1,44 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-08-13 20:28:26 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-08-13 21:32:54 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 6 new posts out of 35 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, August 13, 2026 - 20:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Thursday, August 13, 2026 - 21:33 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -114,6 +104,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/6a7cd92daf899556c1dfa8f2/master/pass/Uncanny-Valley-Zuckerberg-AI-manifesto-Business.jpg" alt="Mark Zuckerberg’s AI Manifesto Is 6,500-Words—and Barely Says Anything" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/" target="_blank">Mark Zuckerberg’s AI Manifesto Is 6,500-Words—and Barely Says Anything</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-13 21:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/979855/netflix-shut-down-night-school-studio-moonloot-games" target="_blank">Netflix is closing two game studios</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-13 20:52</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/security-illustration-skull-500x500-1783710086.jpg" alt="Private security firms will soon be allowed to hack overseas cybercriminals" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -149,29 +157,20 @@
                 <span class="time">2026-08-13 18:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/instagram-2026-wordmark-500x500.png" alt="The new Instagram logo is the perfect embodiment of AI slop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/" target="_blank">The new Instagram logo is the perfect embodiment of AI slop</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-13 17:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/979689/2k-sports-franchise-small-axe-studios-soccer" target="_blank">2K launches new studio to build its &amp;#8216;next blockbuster sports franchise&amp;#8217;</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-13 16:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alifar/chatgpt-work-brings-desktop-automation-memory-and-governance-into-the-ai-workflow-mp8" target="_blank">ChatGPT Work Brings Desktop Automation, Memory and Governance Into the AI Workflow</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-13 21:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -217,15 +216,6 @@
                 <span class="time">2026-08-13 17:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/" target="_blank">What 50 open source projects taught us about security in the AI era</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-08-13 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -264,6 +254,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/trumpcowersincart.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Seems Karoline Leavitt doesn&#x27;t want to be left to die" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/13/seems-karoline-leavitt-doesnt-want-to-be-left-to-die.html" target="_blank">Seems Karoline Leavitt doesn&#x27;t want to be left to die</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-13 19:42</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/bfvsmoh-1280x720.jpg" alt="Battlefield 1942 Vs. Medal Of Honor: Allied Assault: Which Is The Better WW2 Shooter?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -288,15 +287,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/08/13/red-star-os-north-korea.html" target="_blank">North Korea&#x27;s operating system watermarks every file you touch</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-08-13 16:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/clefairy-tales-pokemon-anime-1-1280x720.jpg" alt="How To Get All The Pokémon You Forgot About Out Of Pokémon Bank Before The Service Shuts Down" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-bank-shut-down-pokemon-home-transfer-2000724123" target="_blank">How To Get All The Pokémon You Forgot About Out Of Pokémon Bank Before The Service Shuts Down</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-13 15:42</span>
             </div>
         </div>
 </div>
@@ -336,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 94 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 20:28 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 91 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 21:33 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
