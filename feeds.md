@@ -1,29 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-08-13 18:44:41 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-13 19:49:46 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 20 feeds processed -->
+<!-- Generated 10 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, August 13, 2026 - 18:44 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, August 13, 2026 - 19:49 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/13/nx-s1-5930349/kennedy-center-shut-down-board-vote-trump" target="_blank">Kennedy Center Board votes again to shut main building down — and add Trump&#x27;s name back</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-13 18:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/442c/live/f5d3b4c0-9731-11f1-b2ab-0dd01740f9f6.jpg" alt="UK sees hottest day of the year as 38.1C recorded in Kew Gardens" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c8xnwz7kl2vo?at_medium=RSS&at_campaign=rss" target="_blank">UK sees hottest day of the year as 38.1C recorded in Kew Gardens</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-13 18:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/mangione-1-gty-jef-260811_1786457785681_hpMain_4x3t_384.jpg" alt="Mangione guilty plea expected to be announced in federal case Friday, sources say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/luigi-mangione-guilty-plea-expected-announced-friday-federal/story?id=135607454" target="_blank">Mangione guilty plea expected to be announced in federal case Friday, sources say</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-13 18:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -66,38 +102,20 @@
                 <span class="time">2026-08-13 16:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-08/260812-mangione-vsb-1605-a67e12.jpg" alt="Luigi Mangione expected to plead guilty in New York federal case" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/luigi-mangione-expected-plead-guilty-new-york-federal-case-rcna592221" target="_blank">Luigi Mangione expected to plead guilty in New York federal case</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-13 16:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/13/zambian-president-hichilema-votes-as-he-seeks-second-term?traffic_source=rss" target="_blank">Zambian president Hichilema votes as he seeks second term</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-13 15:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/13/will-all-out-war-in-yemen-reignite-as-houthis-escalate-attacks?traffic_source=rss" target="_blank">Will all-out war in Yemen reignite as the Houthis escalate attacks?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-13 15:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/" target="_blank">OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT 5.6 Sol work at 14x the speed</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-13 19:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/US-Army-Tank-in-Exercise-Combined-Resolve-500x500.jpg" alt="Ukrainian drones wipe out entire US tank brigade in live war game" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -135,21 +153,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/260701_BRANDON-DELA-CRUZ_MY27-ESKER-R1_1441_final-500x500-1786625640.jpg" alt="Rivian&#x27;s 2027 changes include its No. 1 most-requested feature" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/08/rivian-tweaks-its-r1-range-for-model-year-2027/" target="_blank">Rivian&#x27;s 2027 changes include its No. 1 most-requested feature</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-13 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a7ce4062c7a75832e9289d0/master/pass/Novig-Good-Prediction-Market-Business.jpg" alt="Why This Prediction Market Banned Teens" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media.wired.com/photos/6a7daa43c12158645e80e0c4/master/pass/ICEGloves.jpg" alt="The Painful Truth of Exactly How ICE’s New Shock Gloves Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/novig-says-its-not-like-those-other-prediction-markets/" target="_blank">Why This Prediction Market Banned Teens</a></span>
+                <span class="title"><a href="https://www.wired.com/story/the-painful-truth-of-exactly-how-ice-new-shock-gloves-actually-work/" target="_blank">The Painful Truth of Exactly How ICE’s New Shock Gloves Work</a></span>
                 <span class="feed">WIRED</span>
-                <span class="time">2026-08-13 13:30</span>
+                <span class="time">2026-08-13 15:57</span>
             </div>
         </div>
 </div>
@@ -157,6 +166,33 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/asada_shinsaku_c2847b5/the-store-passed-qa-then-its-best-seller-vanished-from-search-4f5n" target="_blank">The Store Passed QA. Then Its Best Seller Vanished from Search</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-13 19:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/New-Dasharo-2026-MSI-Intel-Z" target="_blank">Updated Coreboot/Dasharo For MSI PRO Z690-A / Z790-P Motherboards, Adds Overclocking</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-13 19:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/" target="_blank">Gemini 3.7 Flash</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-13 17:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -184,33 +220,6 @@
                 <span class="time">2026-08-13 15:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/10/nvidia-logo-on-green.jpg?resize=406%2C232&amp;ssl=1" alt="GeForce NOW’s Linux app drops its beta tag, gets Flatpak repo" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/nvidia-geforce-now-linux-stable" target="_blank">GeForce NOW’s Linux app drops its beta tag, gets Flatpak repo</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-08-13 15:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/framework-13-pro-linux-71-72" target="_blank">The Beneficial Performance Gains Running The Framework Laptop Pro 13 / Core Ultra X9 388H With Linux 7.1+</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-13 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17417251/foss-weekly-26-33" target="_blank">FOSS Weekly #26.33: Mint Kernel, PDF Editing, VLC Drama, Omarchy Quattro and More Linux Stuff</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-08-13 13:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -230,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/the-devils-1280x720.jpg" alt="WB Is Releasing Its First NC-17 Movie In Over 20 Years This October" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/wb-is-releasing-its-first-nc-17-movie-in-over-20-years-this-october-2000724202" target="_blank">WB Is Releasing Its First NC-17 Movie In Over 20 Years This October</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-13 19:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/bfvsmoh-1280x720.jpg" alt="Battlefield 1942 Vs. Medal Of Honor: Allied Assault: Which Is The Better WW2 Shooter?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,15 +293,6 @@
                 <span class="time">2026-08-13 12:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/hammerfell.jpg" alt="Fans Are Convinced They’ve Guessed The Name Of The Next Elder Scrolls Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-elder-scrolls-vi-hammerfell-sentinel-dominion-bethesda-asha-2000724106" target="_blank">Fans Are Convinced They’ve Guessed The Name Of The Next Elder Scrolls Game</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-13 12:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 91 | 📡 Total Sources: 40 | 📸 With Images: 254 |
-        🔄 Last Updated: 18:44 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 95 | 📡 Total Sources: 40 | 📸 With Images: 255 |
+        🔄 Last Updated: 19:49 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
