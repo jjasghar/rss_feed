@@ -1,28 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-08-13 03:25:21 UTC -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing 54 RSS feeds at 2026-08-13 05:25:48 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 19 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Thursday, August 13, 2026 - 03:25 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, August 13, 2026 - 05:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +38,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/13/aje-onl-nf_tariffs-not-the-right-tool-to-bolster-us-production-130826?traffic_source=rss" target="_blank">Why tariffs are not the right tool to bolster US production</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-13 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/aug/13/zambia-elections-hakainde-hichilema-haunted-ghost-incumbent-president-arch-rival-edgar-lungu" target="_blank">Zambia elections haunted by ghost of incumbent president’s arch-rival</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-08-13 04:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,24 +90,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/08/12/nx-s1-5929545/ice-buys-electric-shock-gloves" target="_blank">ICE plans to outfit officers with electric shock gloves</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-08-12 22:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/548e/live/e3a91030-9694-11f1-870d-5d08c49babb2.jpg" alt="Once-in-a-generation solar eclipse wows millions in UK and Europe" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss" target="_blank">Once-in-a-generation solar eclipse wows millions in UK and Europe</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-12 21:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/12/us-strikes-in-yemen-killed-153-civilians-in-2025-says-pentagon-review?traffic_source=rss" target="_blank">US strikes in Yemen killed 153 civilians in 2025, says Pentagon review</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-12 21:53</span>
             </div>
         </div>
 </div>
@@ -160,6 +160,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/_artclick/how-one-line-of-css-can-make-your-multi-page-website-feel-premium-4a06" target="_blank">How One Line of CSS Can Make Your Multi-Page Website Feel Premium</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-13 05:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/multigrid/detecting-cycles-and-loops-in-a-dependency-graph-2eca" target="_blank">Detecting Cycles and Loops in a Dependency Graph</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-12 23:12</span>
@@ -199,15 +208,6 @@
                 <span class="title"><a href="https://dev.to/alifar/pandora-adds-gemini-voice-control-for-music-playback-across-supported-devices-23np" target="_blank">Pandora Adds Gemini Voice Control for Music Playback Across Supported Devices</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-12 18:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project/" target="_blank">Your contributors are AI-first now. Is your project?</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-08-12 18:00</span>
             </div>
         </div>
 </div>
@@ -320,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 100 | 📡 Total Sources: 40 | 📸 With Images: 244 |
-        🔄 Last Updated: 03:25 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 96 | 📡 Total Sources: 40 | 📸 With Images: 245 |
+        🔄 Last Updated: 05:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
