@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-08-13 11:37:26 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-08-13 12:41:36 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Hacker News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Thursday, August 13, 2026 - 11:37 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, August 13, 2026 - 12:41 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/13/falling-danube-flow-forces-shutdown-of-romanias-sole-nuclear-plant?traffic_source=rss" target="_blank">Falling Danube flow forces shutdown of Romania’s sole nuclear plant</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-13 12:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07ef/live/29f88a10-9709-11f1-b72c-211ea4e0afc4.png" alt="Heatwaves drive A&amp;E attendances up to record high" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/crrvp45gxzpo?at_medium=RSS&at_campaign=rss" target="_blank">Heatwaves drive A&amp;E attendances up to record high</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-13 11:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,29 +96,20 @@
                 <span class="time">2026-08-13 08:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/13/aje-onl-nf_tariffs-not-the-right-tool-to-bolster-us-production-130826?traffic_source=rss" target="_blank">Why tariffs are not the right tool to bolster US production</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-13 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d25/live/1d504a60-964f-11f1-b2ab-0dd01740f9f6.jpg" alt="Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss" target="_blank">Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-13 04:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69ced175c7a8ccda83fafc07/master/pass/The-Best-Samsung-Galaxy-S26-Cases-and-Accessories.jpg" alt="The Best Samsung Galaxy S26 Cases (2026): S26, S26+, and S26 Ultra" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-samsung-s26-cases-and-accessories/" target="_blank">The Best Samsung Galaxy S26 Cases (2026): S26, S26+, and S26 Ultra</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-13 12:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a7ca66f4db5ff20195852b7/master/pass/Google-Pixelsnap-Charger-with-Stand-Deal-post.jpg" alt="The Google Pixelsnap Charger With Stand Is 50 Percent Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,20 +155,29 @@
                 <span class="time">2026-08-12 22:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/" target="_blank">Some Claude users are mad that Anthropic’s new watermarks will catch them cheating at their jobs, classes</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-12 22:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/" target="_blank">Deutsche Bank becomes first foreign yuan clearing bank in Europe</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-13 12:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/08/AI-disrupts-engineering-progress/en/headerimage/header-1786359459457.jpg" alt="How Artificial Intelligence Disrupts Engineering Progression" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/08/AI-disrupts-engineering-progress/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How Artificial Intelligence Disrupts Engineering Progression</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-13 11:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,24 +214,6 @@
                 <span class="time">2026-08-13 05:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/_artclick/how-one-line-of-css-can-make-your-multi-page-website-feel-premium-4a06" target="_blank">How One Line of CSS Can Make Your Multi-Page Website Feel Premium</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-13 05:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://openai.com/codex/" target="_blank">ChatGPT Desktop (Codex Desktop) for Linux</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-13 04:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/hammerfell.jpg" alt="Fans Are Convinced They’ve Guessed The Name Of The Next Elder Scrolls Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-elder-scrolls-vi-hammerfell-sentinel-dominion-bethesda-asha-2000724106" target="_blank">Fans Are Convinced They’ve Guessed The Name Of The Next Elder Scrolls Game</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-13 12:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/rideshare-1-1280x714.jpg" alt="Saber CEO Denies Replacing Rideshare Writer With ChatGPT But Says ‘I Would Frankly In Retrospect Have Been Happy To Replace Her With AI’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +287,6 @@
                 <span class="time">2026-08-12 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/twitch-top-1280x720.jpg" alt="Twitch Is Now Using Your Content To Train Amazon AI Models And Has Hidden The Option To Opt Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/twitch-is-now-using-your-content-to-train-amazon-ai-models-and-has-hidden-the-option-to-opt-out-2000723891" target="_blank">Twitch Is Now Using Your Content To Train Amazon AI Models And Has Hidden The Option To Opt Out</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-12 19:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 98 | 📡 Total Sources: 40 | 📸 With Images: 247 |
-        🔄 Last Updated: 11:37 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 101 | 📡 Total Sources: 40 | 📸 With Images: 248 |
+        🔄 Last Updated: 12:41 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
