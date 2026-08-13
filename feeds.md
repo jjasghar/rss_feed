@@ -1,34 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-08-13 21:32:54 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-08-13 22:28:49 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Thursday, August 13, 2026 - 21:33 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, August 13, 2026 - 22:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/13/tate-supporters-rally-for-brothers-ahead-of-bail-hearing-in-miami?traffic_source=rss" target="_blank">Tate supporters rally for brothers ahead of bail hearing in Miami</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-13 21:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +104,29 @@
                 <span class="time">2026-08-13 17:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/GMA/clancy-ap-er-260813_1786638690758_hpMain_4x3t_384.jpg" alt="Lindsay Clancy searched &#x27;can you treat a sociopath&#x27; prior to killing children" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/GMA/News/lindsay-clancy-searched-treat-sociopath-prior-killing-children/story?id=135617187" target="_blank">Lindsay Clancy searched &#x27;can you treat a sociopath&#x27; prior to killing children</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-13 16:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/" target="_blank">Investors sue Selena Gomez alleging fraud tied to her mental health startup</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-13 22:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier" target="_blank">‘That is not acceptable’: Judge orders Google to make rival app store installs easier</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-13 21:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a7cd92daf899556c1dfa8f2/master/pass/Uncanny-Valley-Zuckerberg-AI-manifesto-Business.jpg" alt="Mark Zuckerberg’s AI Manifesto Is 6,500-Words—and Barely Says Anything" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,29 +163,20 @@
                 <span class="time">2026-08-13 19:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/US-Army-Tank-in-Exercise-Combined-Resolve-500x500.jpg" alt="Ukrainian drones wipe out entire US tank brigade in live war game" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/08/ukrainian-drones-wipe-out-entire-us-tank-brigade-in-live-war-game/" target="_blank">Ukrainian drones wipe out entire US tank brigade in live war game</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-13 18:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame" target="_blank">I finally found a robot lawnmower I’d trust with my yard</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-13 18:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/zira125/your-mcp-server-needs-a-capability-budget-not-just-auth-32p6" target="_blank">Your MCP Server Needs a Capability Budget, Not Just Auth</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-13 22:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +222,6 @@
                 <span class="time">2026-08-13 19:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/" target="_blank">Gemini 3.7 Flash</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-13 17:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/Microsoft-Windows-11-Pro.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="BitLocker, Copilot, and more are yours for $9.97 with this Windows 11 Pro deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/13/bitlocker-copilot-and-more-are-yours-for-9-97-with-this-windows-11-pro-deal.html" target="_blank">BitLocker, Copilot, and more are yours for $9.97 with this Windows 11 Pro deal</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-13 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KZY9FE6HKRDB56DV8FKDKXG5/hero-image.jpg" alt="Here&#x27;s How Google&#x27;s New &#x27;Tap to Share&#x27; Android Feature Works" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +295,6 @@
                 <span class="time">2026-08-13 17:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/Boot_Red_Star_OS_18_11_2019_13_48_47.png?fit=800%2C600&amp;quality=55&amp;ssl=1" alt="North Korea&#x27;s operating system watermarks every file you touch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/13/red-star-os-north-korea.html" target="_blank">North Korea&#x27;s operating system watermarks every file you touch</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-13 16:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -312,22 +318,13 @@
                 <span class="time">2026-08-13 00:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/08/12/brokon" target="_blank">Brokon</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-08-12 22:18</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 91 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 21:33 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 87 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 22:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
