@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-08-13 15:46:45 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-13 16:42:55 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 12 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, August 13, 2026 - 15:46 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Thursday, August 13, 2026 - 16:43 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c4e/live/7b1f7060-9728-11f1-808c-532494fd22c7.jpg" alt="Palestinians told to leave homes in village where Israeli settlers besieged houses" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss" target="_blank">Palestinians told to leave homes in village where Israeli settlers besieged houses</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-13 16:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-08/260812-mangione-vsb-1605-a67e12.jpg" alt="Luigi Mangione expected to plead guilty in New York federal case" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/luigi-mangione-expected-plead-guilty-new-york-federal-case-rcna592221" target="_blank">Luigi Mangione expected to plead guilty in New York federal case</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-13 16:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/13/zambian-president-hichilema-votes-as-he-seeks-second-term?traffic_source=rss" target="_blank">Zambian president Hichilema votes as he seeks second term</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-13 15:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,38 +100,20 @@
                 <span class="time">2026-08-13 15:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-08/260812-flock-camera-ch-1557-41e353.jpg" alt="Surveillance company Flock moves to increase oversight after police misuse" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/tech/security/flock-safety-police-abuse-oversight-data-retention-rcna592217" target="_blank">Surveillance company Flock moves to increase oversight after police misuse</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-13 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/13/falling-danube-flow-forces-shutdown-of-romanias-sole-nuclear-plant?traffic_source=rss" target="_blank">Falling Danube flow forces shutdown of Romania’s sole nuclear plant</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-13 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1786623447935_tdy_news_8a_sailor_mental_health_260813_S3_1920x1080-v0ux02.jpg" alt="Reports Emerge on Mental Health Crisis on USS Abraham Lincoln" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/reports-emerge-on-mental-health-crisis-on-uss-abraham-lincoln-268239941768" target="_blank">Reports Emerge on Mental Health Crisis on USS Abraham Lincoln</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-13 12:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/979689/2k-sports-franchise-small-axe-studios-soccer" target="_blank">2K launches new studio to build its &amp;#8216;next blockbuster sports franchise&amp;#8217;</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-13 16:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/260701_BRANDON-DELA-CRUZ_MY27-ESKER-R1_1441_final-500x500-1786625640.jpg" alt="Rivian&#x27;s 2027 changes include its No. 1 most-requested feature" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +159,29 @@
                 <span class="time">2026-08-13 05:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a7cea9a2028a1e0af655f0c/master/pass/1%20eclipse%20Espa%C3%B1a%202289700549.jpg" alt="The Best Photos of the Big August Solar Eclipse" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-photos-august-solar-eclipse-spain/" target="_blank">The Best Photos of the Big August Solar Eclipse</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-12 22:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/" target="_blank">What 50 open source projects taught us about security in the AI era</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-08-13 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/08/vercel-v0-api/en/headerimage/generatedHeaderImage-1786628629656.jpg" alt="Vercel Launches v0 API for Headless App Building" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/08/vercel-v0-api/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Vercel Launches v0 API for Headless App Building</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-13 15:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/10/nvidia-logo-on-green.jpg?resize=406%2C232&amp;ssl=1" alt="GeForce NOW’s Linux app drops its beta tag, gets Flatpak repo" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -201,24 +218,6 @@
                 <span class="time">2026-08-13 12:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/" target="_blank">Deutsche Bank becomes first foreign yuan clearing bank in Europe</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-13 12:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/08/AI-disrupts-engineering-progress/en/headerimage/header-1786359459457.jpg" alt="How Artificial Intelligence Disrupts Engineering Progression" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/08/AI-disrupts-engineering-progress/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How Artificial Intelligence Disrupts Engineering Progression</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-13 11:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/Boot_Red_Star_OS_18_11_2019_13_48_47.png?fit=800%2C600&amp;quality=55&amp;ssl=1" alt="North Korea&#x27;s operating system watermarks every file you touch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/13/red-star-os-north-korea.html" target="_blank">North Korea&#x27;s operating system watermarks every file you touch</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-13 16:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/clefairy-tales-pokemon-anime-1-1280x720.jpg" alt="How To Get All The Pokémon You Forgot About Out Of Pokémon Bank Before The Service Shuts Down" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,20 +291,20 @@
                 <span class="time">2026-08-13 00:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/AskAnyModel-AI-Pro-Plan.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Get 50+ AI models for life, including GPT, Claude, and Gemini, for just $40" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/12/get-50-ai-models-for-life-including-gpt-claude-and-gemini-for-just-40.html" target="_blank">Get 50+ AI models for life, including GPT, Claude, and Gemini, for just $40</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-12 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1786562758-20260813.png" alt="Saturday Morning Breakfast Cereal - Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/scale" target="_blank">Saturday Morning Breakfast Cereal - Scale</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-08-13 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.questionablecontent.net/comics/5894.png" alt="First Impression, Second Try" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -320,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 96 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 15:46 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 96 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 16:43 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
