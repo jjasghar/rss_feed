@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-08-14 15:39:45 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-14 16:38:28 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 27 feeds processed -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, August 14, 2026 - 15:39 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, August 14, 2026 - 16:38 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,12 +44,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/mangione-1-gty-jef-260811_1786457785681_hpMain_4x3t_384.jpg" alt="Mangione pleads guilty in federal case, says he shot UnitedHealthcare CEO in the back" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/luigi-mangione-guilty-plea-expected-announced-friday-federal/story?id=135607454" target="_blank">Mangione pleads guilty in federal case, says he shot UnitedHealthcare CEO in the back</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-14 16:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/8/14/philippines-drug-war-victims-seek-justice-through-truth-commission?traffic_source=rss" target="_blank">Philippines drug war victims seek justice through truth commission</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-14 16:08</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/al-jazeera-world/2026/8/14/ahmed-al-sharaa-a-new-vision-for-syria?traffic_source=rss" target="_blank">Ahmed al-Sharaa: A New Vision for Syria</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-14 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/690f/live/bd947190-97d0-11f1-a927-0dfab640b8c9.jpg" alt="Chris Mason: Where does this unorthodox by-election victory leave Nigel Farage?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cvgvjnyz8k7o?at_medium=RSS&at_campaign=rss" target="_blank">Chris Mason: Where does this unorthodox by-election victory leave Nigel Farage?</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-14 14:50</span>
             </div>
         </div>
 <div class="story">
@@ -65,39 +89,12 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/14/israeli-soldiers-prevent-aid-delivery-to-besieged-palestinians?traffic_source=rss" target="_blank">Israeli soldiers prevent aid delivery to besieged Palestinians</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-14 12:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/14/nx-s1-5931225/kidnapped-us-missionary-released" target="_blank">U.S. missionary who was kidnapped in Niger is released</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-14 12:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6687/live/c392f100-97c3-11f1-a7ab-8b30adf0800a.jpg" alt="&#x27;Unprecedented&#x27; rain in Japan kills eight people" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10f1/live/0bf3a4d0-97ce-11f1-a927-0dfab640b8c9.jpg" alt="Instagram accounts fuelling Ceuta crisis with paid advice for help to cross" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Unprecedented&#x27; rain in Japan kills eight people</a></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss" target="_blank">Instagram accounts fuelling Ceuta crisis with paid advice for help to cross</a></span>
                 <span class="feed">BBC News</span>
-                <span class="time">2026-08-14 10:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/14/g-s1-138727/europe-asia-floods-heatwaves-world-weather" target="_blank">From Europe to Asia, floods to heatwaves, world experiences weather shocks</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-14 10:30</span>
+                <span class="time">2026-08-14 12:19</span>
             </div>
         </div>
 </div>
@@ -168,6 +165,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alifar/google-gemini-expands-ai-content-verification-with-synthid-video-checks-lb2" target="_blank">Google Gemini Expands AI Content Verification With SynthID Video Checks</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-14 16:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/" target="_blank">How to bring your software delivery workflow into GitHub with agent apps</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-08-14 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/avikeid2007/voice-in-words-out-the-free-100-offline-voice-typing-app-for-windows-gpp" target="_blank">Voice In. Words Out: The Free, 100% Offline Voice Typing App for Windows</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-14 15:21</span>
@@ -185,37 +200,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://lxe.github.io/everywebsite/" target="_blank">Every Fucking Website (2020)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-14 14:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/virorum/notes-to-self-the-interview-between-an-issue-and-a-spec-4phc" target="_blank">Notes to Self: The Interview Between an Issue and a Spec</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-14 12:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/08/incidents-reliability-metrics/en/headerimage/generatedHeaderImage-1785853951990.jpg" alt="More Incidents Don&#x27;t Necessarily Mean Less Reliability" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/08/incidents-reliability-metrics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">More Incidents Don&#x27;t Necessarily Mean Less Reliability</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-14 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/heinrichneb/our-checker-did-not-catch-the-wrong-number-it-enforced-it-3op7" target="_blank">Our checker did not catch the wrong number. It enforced it.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-14 11:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-Features-Preview" target="_blank">Features Coming For Linux 7.3 From Optimizing Intel Hybrid CPUs To Old AMD Athlon XPs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-14 11:00</span>
             </div>
         </div>
 </div>
@@ -237,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/toystory3-1280x720.jpg" alt="Toy Story 3 On Xbox Is Being Delisted To Make Way For The Remaster" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/toy-story-3-on-xbox-is-being-delisted-to-make-way-for-the-remaster-2000724483" target="_blank">Toy Story 3 On Xbox Is Being Delisted To Make Way For The Remaster</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-14 16:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/mariosgottagun-1280x720.jpg" alt="It’s Time To Give Mario A Gun" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +288,6 @@
                 <span class="time">2026-08-13 23:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KZV9WM7237QG2ZEEB9NT1ZAX/hero-image.jpg" alt="I Tried the Android App That&#x27;s Helping People Around the World Bypass Censorship Laws" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/snowflake-volunteer-android-app-bypass-censorship?utm_medium=RSS" target="_blank">I Tried the Android App That&#x27;s Helping People Around the World Bypass Censorship Laws</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-13 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 109 | 📡 Total Sources: 40 | 📸 With Images: 256 |
-        🔄 Last Updated: 15:39 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 109 | 📡 Total Sources: 40 | 📸 With Images: 255 |
+        🔄 Last Updated: 16:38 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
