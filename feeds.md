@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-08-14 19:40:17 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-14 20:19:48 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, August 14, 2026 - 19:40 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, August 14, 2026 - 20:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1f2/live/c7b603c0-91a2-11f1-964d-6f76397ea067.jpg" alt="Ex-Cambridge professor at centre of plagiarism row found dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss" target="_blank">Ex-Cambridge professor at centre of plagiarism row found dead</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-14 20:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/mangione-1-gty-jef-260811_1786457785681_hpMain_4x3t_384.jpg" alt="Mangione pleads guilty in federal case, says he shot UnitedHealthcare CEO" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/luigi-mangione-guilty-plea-expected-announced-friday-federal/story?id=135607454" target="_blank">Mangione pleads guilty in federal case, says he shot UnitedHealthcare CEO</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-14 19:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/14/son-of-mexicos-former-president-amlo-alleges-us-revoked-his-visa?traffic_source=rss" target="_blank">Son of Mexico’s former president AMLO alleges US revoked his visa</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-14 19:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b53b/live/4aaee280-97eb-11f1-a76b-f1c27c51f3da.jpg" alt="Temporary ban on sale of disposable BBQs over wildfire risk" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -69,33 +96,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/08/14/nx-s1-5928227/how-americans-deceive-ourselves-about-slavery" target="_blank">How Americans deceive ourselves about slavery</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-08-14 18:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/14/luigi-mangione-pleads-guilty-in-unitedhealthcare-ceos-killing?traffic_source=rss" target="_blank">Luigi Mangione pleads guilty in UnitedHealthcare CEO’s killing</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-14 18:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/14/nx-s1-5927506/speed-cameras-ticket-backlash" target="_blank">As speed cameras spread to more states, so does the backlash from drivers</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-14 16:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/mangione-1-gty-jef-260811_1786457785681_hpMain_4x3t_384.jpg" alt="Mangione pleads guilty in federal case, says he shot UnitedHealthcare CEO in the back" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/luigi-mangione-guilty-plea-expected-announced-friday-federal/story?id=135607454" target="_blank">Mangione pleads guilty in federal case, says he shot UnitedHealthcare CEO in the back</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-14 16:37</span>
             </div>
         </div>
 </div>
@@ -166,6 +166,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hydra_db_blogs/hydradb-vs-zep-3033" target="_blank">HydraDB vs Zep: Managed Context Platform vs Programmable Graph Database</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-14 20:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/alifar/gemini-live-on-google-pixel-brings-real-time-ai-conversations-to-mobile-workflows-p6m" target="_blank">Gemini Live on Google Pixel Brings Real-Time AI Conversations to Mobile Workflows</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-14 19:30</span>
@@ -205,15 +214,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/desktop-picture-frame-widget-ubuntu" target="_blank">Add multiple picture widgets to your Ubuntu desktop</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-08-14 16:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/" target="_blank">How to bring your software delivery workflow into GitHub with agent apps</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-08-14 16:00</span>
             </div>
         </div>
 </div>
@@ -335,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 113 | 📡 Total Sources: 40 | 📸 With Images: 255 |
-        🔄 Last Updated: 19:40 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 111 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 20:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
