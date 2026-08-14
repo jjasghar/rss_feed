@@ -1,32 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-08-14 08:55:52 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-14 09:51:02 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: WIRED -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Dev.to -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 23 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, August 14, 2026 - 08:56 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, August 14, 2026 - 09:51 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/8/14/new-zealand-break-ranks-with-oceania-as-fifas-infantino-divide-grows?traffic_source=rss" target="_blank">New Zealand break ranks with Oceania as FIFA’s Infantino divide grows</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-14 09:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,21 +89,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec55/live/23a26490-97a1-11f1-a696-5b8e9a3a668f.jpg" alt="Farage&#x27;s by-election victory won&#x27;t stop questions about finances" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-japan-floods-chiba_7321213.jpg?20260814073528" alt="Four dead in Japan after record-breaking rainfall causes severe flooding" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cvgwz9delwwo?at_medium=RSS&at_campaign=rss" target="_blank">Farage&#x27;s by-election victory won&#x27;t stop questions about finances</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-14 05:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/USA-TRUMP-AIRFORCEONE_1786676479553_hpMain_4x3t_384.jpg" alt="Officials said no credible threat to Trump ahead of Air Force One switch: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/us-intel-officials-assessed-threat-trump-credible-ahead/story?id=135631452" target="_blank">Officials said no credible threat to Trump ahead of Air Force One switch: Sources</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-14 03:50</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/four-dead-near-tokyo-after-heavy-rains-and-floods-with-thousands-stranded-at-railway-station-13572823" target="_blank">Four dead in Japan after record-breaking rainfall causes severe flooding</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-08-14 06:01</span>
             </div>
         </div>
 </div>
@@ -101,6 +102,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba" target="_blank">Apple trained its own AI model for China with help from Alibaba</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-14 09:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/CZV-1-Dynamic-Front-3-4-500x500.jpg" alt="Organic-looking brake assemblies debut on new Czinger 21C Spyder" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/08/czinger-debuts-topology-optimized-brakes-with-21c-spyder/" target="_blank">Organic-looking brake assemblies debut on new Czinger 21C Spyder</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-14 07:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png" alt="Layla Sleep Coupon: Save Up to $600 in August 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -137,29 +156,20 @@
                 <span class="time">2026-08-13 23:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2018/03/GettyImages-869535440-500x500.jpg" alt="US wait times for cancer surgeries are getting longer and longer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/08/us-wait-times-for-cancer-surgeries-are-getting-longer-and-longer/" target="_blank">US wait times for cancer surgeries are getting longer and longer</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-13 22:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/" target="_blank">Investors sue Selena Gomez alleging fraud tied to her mental health startup</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-13 22:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/brucej_b5ec3f2f25b5c/im-building-a-real-time-translation-tool-for-online-meetings-heres-what-i-learned-580a" target="_blank">I‘m building a Real-Time Translation Tool for Online Meetings. Here&#x27;s What I Learned.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-14 09:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/jaisurya/hoisting-1o35" target="_blank">Hoisting</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-14 03:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/wenyu_zhang/i-filled-my-agents-wiki-with-contradictions-it-never-gave-a-wrong-answer-2ple" target="_blank">I filled my agent&#x27;s wiki with contradictions. It never gave a wrong answer.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-14 00:46</span>
             </div>
         </div>
 </div>
@@ -324,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 98 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 08:56 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 102 | 📡 Total Sources: 40 | 📸 With Images: 256 |
+        🔄 Last Updated: 09:51 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
