@@ -1,31 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-08-14 03:22:06 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-14 05:22:49 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, August 14, 2026 - 03:22 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Friday, August 14, 2026 - 05:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/USA-TRUMP-AIRFORCEONE_1786676479553_hpMain_4x3t_384.jpg" alt="Officials said no credible threat to Trump ahead of Air Force One switch: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/us-intel-officials-assessed-threat-trump-credible-ahead/story?id=135631452" target="_blank">Officials said no credible threat to Trump ahead of Air Force One switch: Sources</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-14 03:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/uss-gw-4-ht-gmh-260813_1786635867462_hpMain_2_4x3t_384.jpg" alt="Trump imposes new drone tariffs, orders Navy to allow shipbuilding abroad" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -78,21 +96,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57be/live/7c733b90-975f-11f1-a764-31772918f872.png" alt="Multiple fires destroy homes and cause devastation in West Midlands" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/13/tate-supporters-rally-for-brothers-ahead-of-bail-hearing-in-miami?traffic_source=rss" target="_blank">Tate supporters rally for brothers ahead of bail hearing in Miami</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-13 21:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/13/nx-s1-5930349/kennedy-center-shut-down-board-vote-trump" target="_blank">Kennedy Center Board votes again to shut main building down — and add Trump&#x27;s name back</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-13 18:55</span>
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c04k20w7lr6o?at_medium=RSS&at_campaign=rss" target="_blank">Multiple fires destroy homes and cause devastation in West Midlands</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-13 22:29</span>
             </div>
         </div>
 </div>
@@ -100,6 +109,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" alt="Columbia Promo Codes: 15% Off | August 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/columbia-promo-code/" target="_blank">Columbia Promo Codes: 15% Off | August 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-14 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,20 +163,29 @@
                 <span class="time">2026-08-13 21:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a7cd92daf899556c1dfa8f2/master/pass/Uncanny-Valley-Zuckerberg-AI-manifesto-Business.jpg" alt="Mark Zuckerberg’s AI Manifesto Is 6,500-Words—and Barely Says Anything" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/" target="_blank">Mark Zuckerberg’s AI Manifesto Is 6,500-Words—and Barely Says Anything</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-13 21:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/08/14/solving-integration-woes-with-a-hackathon/" target="_blank">Solving integration woes with a hackathon</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-08-14 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17417740/lightdm-is-back" target="_blank">LightDM is Back From The Dead, But Canonical isn&#x27;t in Charge Anymore</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-08-14 04:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -189,28 +216,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/robert_saylor_c9db74549e2/what-it-really-takes-to-get-youtube-live-and-tiktok-publishing-approved-en" target="_blank">What It Really Takes to Get YouTube Live and TikTok Publishing Approved</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-13 23:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/zira125/your-mcp-server-needs-a-capability-budget-not-just-auth-32p6" target="_blank">Your MCP Server Needs a Capability Budget, Not Just Auth</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-13 22:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alifar/chatgpt-work-brings-desktop-automation-memory-and-governance-into-the-ai-workflow-mp8" target="_blank">ChatGPT Work Brings Desktop Automation, Memory and Governance Into the AI Workflow</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-13 21:30</span>
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-august-14-2026-red-hat" target="_blank">Friday Five — August 14, 2026</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2026-08-14 00:00</span>
             </div>
         </div>
 </div>
@@ -232,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KZV9WM7237QG2ZEEB9NT1ZAX/hero-image.jpg" alt="I Tried the Android App That&#x27;s Helping People Around the World Bypass Censorship Laws" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/snowflake-volunteer-android-app-bypass-censorship?utm_medium=RSS" target="_blank">I Tried the Android App That&#x27;s Helping People Around the World Bypass Censorship Laws</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-13 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2023/12/6148c6a04be14bf3f0811b1506446a1b-1280x720.jpg" alt="Streamers Are Telling Twitch How Much They Hate That Generative AI Training Is Opt-Out By Default" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,15 +295,6 @@
                 <span class="time">2026-08-13 19:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/bfvsmoh-1280x720.jpg" alt="Battlefield 1942 Vs. Medal Of Honor: Allied Assault: Which Is The Better WW2 Shooter?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/battlefield-1942-vs-medal-of-honor-allied-assault-which-is-the-better-ww2-shooter-2000724128" target="_blank">Battlefield 1942 Vs. Medal Of Honor: Allied Assault: Which Is The Better WW2 Shooter?</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-13 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -314,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 91 | 📡 Total Sources: 39 | 📸 With Images: 254 |
-        🔄 Last Updated: 03:22 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 90 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 05:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
