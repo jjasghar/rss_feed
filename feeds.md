@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-08-14 22:10:36 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-08-14 23:10:30 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, August 14, 2026 - 22:10 UTC</div>
+    <div class="newspaper-date">Friday, August 14, 2026 - 23:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +104,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/6a7e4a6728f891277df706a0/master/pass/MSG-Surveillance-Protests-2196667317.jpg" alt="New York City Lawmakers Push to ‘Ban the Scan’ at MSG" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/new-york-city-lawmakers-push-to-ban-the-scan-at-msg/" target="_blank">New York City Lawmakers Push to ‘Ban the Scan’ at MSG</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-14 21:43</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6a7e3d7b0f200c034ba14a12/master/pass/Made-In-China-Made-in-China-Unitree-Robots-Americans-Love-Business.jpg" alt="The Next Big Influencer Is This 4-Foot-Tall Robot From China" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -147,15 +155,6 @@
                 <span class="title"><a href="https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/" target="_blank">Vulnerability giving attackers full control of Macs is under active exploitation</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-08-14 18:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/" target="_blank">Unforgetful is a new reminders app for people who can’t stop hitting snooze</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-14 16:21</span>
             </div>
         </div>
 </div>
@@ -264,6 +263,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/codmw4K_0001_MW4_MP_004_BRANDED-1280x720.jpg" alt="Activision Really Wants You To Know Call Of Duty: Modern Warfare 4′s Campaign Isn’t A Horrible Mess Like BLOPS7" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/activision-really-wants-you-to-know-call-of-duty-modern-warfare-4s-campaign-isnt-a-horrible-mess-like-blops7-2000724549" target="_blank">Activision Really Wants You To Know Call Of Duty: Modern Warfare 4′s Campaign Isn’t A Horrible Mess Like BLOPS7</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-14 20:39</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/shutterstock_109024046-e1759854251489.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Russia to test AI models for traditional spiritual and moral values" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -299,20 +307,20 @@
                 <span class="time">2026-08-14 15:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/1280px-Downtown_marion_kansas_2009.jpg?fit=1280%2C853&amp;quality=60&amp;ssl=1" alt="A Kansas reporter raided by police settles for $850,000" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/14/marion-county-record-zorn-settlement.html" target="_blank">A Kansas reporter raided by police settles for $850,000</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-14 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/08/14/children-of-the-corn" target="_blank">Children Of The Corn</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-08-14 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1786562796-20260814.png" alt="Saturday Morning Breakfast Cereal - Case" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -345,8 +353,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 110 | 📡 Total Sources: 40 | 📸 With Images: 254 |
-        🔄 Last Updated: 22:10 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 255 |
+        🔄 Last Updated: 23:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
