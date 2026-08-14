@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-08-14 14:06:55 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-14 15:39:45 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 10 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, August 14, 2026 - 14:07 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, August 14, 2026 - 15:39 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/al-jazeera-world/2026/8/14/ahmed-al-sharaa-a-new-vision-for-syria?traffic_source=rss" target="_blank">Ahmed al-Sharaa: A New Vision for Syria</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-14 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/14/nx-s1-5929422/inflation-spending-economy-groceries-gas" target="_blank">We learned 5 important things about the economy this week</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-14 14:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +100,47 @@
                 <span class="time">2026-08-14 10:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/mangione-1-gty-jef-260812_1786543026085_hpMain_4x3t_384.jpg" alt="Mangione federal guilty plea expected to be announced, sources say: What to know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/luigi-mangione-federal-guilty-plea-expected-announced-friday/story?id=135608406" target="_blank">Mangione federal guilty plea expected to be announced, sources say: What to know</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-14 10:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-08/260814-gas-rs-381dce.jpg" alt="In an apparent shift, Vance says lowering oil prices is ‘goal No. 1’ of Iran war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/iran/low-oil-prices-trump-goal-iran-war-vance-blockade-economic-pressure-rcna592504" target="_blank">In an apparent shift, Vance says lowering oil prices is ‘goal No. 1’ of Iran war</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-14 10:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/xfilesTOP-ALT-500x500.jpg" alt="R-rated director&#x27;s cut of X-Files film restores Chris Carter&#x27;s original horror vision" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2026/08/r-rated-directors-cut-of-x-files-film-restores-chris-carters-original-horror-vision/" target="_blank">R-rated director&#x27;s cut of X-Files film restores Chris Carter&#x27;s original horror vision</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-14 15:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a7e0548f5b7635ce53f5f77/master/pass/Backchannel-Tim-Orielly-Business.jpg" alt="Tech Visionary Says the Big AI Labs Don’t Get What People Want" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/" target="_blank">Tech Visionary Says the Big AI Labs Don’t Get What People Want</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-14 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/" target="_blank">Apple proposes to take a 15% cut of purchases made outside the App Store</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-14 14:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/980261/clair-obscur-pixel-11-gaming-laptop-4k-bluray-deal-sale" target="_blank">2025 GOTY Clair Obscur: Expedition 33 is down to $33</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-14 14:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -124,47 +159,29 @@
                 <span class="time">2026-08-14 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/News_LaunchComplex-36B-500x500.webp" alt="Rocket Report: Rocket Lab shows off its flexibility; Blue Origin&#x27;s two-pad plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/08/rocket-report-rocket-lab-shows-off-its-flexibility-blue-origins-two-pad-plan/" target="_blank">Rocket Report: Rocket Lab shows off its flexibility; Blue Origin&#x27;s two-pad plan</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-14 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/" target="_blank">Uber and Pony.ai plan to bring 2,000 robotaxis to Europe</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-14 10:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68bbcf49f02d871ebe651fbb/master/pass/Top%20Art%20Pixel%2010%20Cases%20SOURCE%20Julian%20Chokkattu.jpg" alt="Best Pixel 10 Cases and Accessories (2026): Mous, dbrand, Bellroy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-pixel-10-cases-and-accessories/" target="_blank">Best Pixel 10 Cases and Accessories (2026): Mous, dbrand, Bellroy</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-14 10:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba" target="_blank">Apple trained its own AI model for China with help from Alibaba</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-14 09:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/avikeid2007/voice-in-words-out-the-free-100-offline-voice-typing-app-for-windows-gpp" target="_blank">Voice In. Words Out: The Free, 100% Offline Voice Typing App for Windows</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-14 15:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/intel-xeon-6-linux-72" target="_blank">Linux 7.1, Linux 7.2 Performance On The Intel Xeon 600 Series</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-14 15:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,24 +218,6 @@
                 <span class="time">2026-08-14 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-Patches-Fix-DRM-Fair" target="_blank">Patches Posted For Fixing The Linux DRM Scheduler&#x27;s Fair Policy</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-14 10:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/08/graphql-llm-mocking-spec/en/headerimage/generatedHeaderImage-1786102945106.jpg" alt="LLM-Generated GraphQL Mocks Arrive at Airbnb and Expedia, While the Spec Lags Behind" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/08/graphql-llm-mocking-spec/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">LLM-Generated GraphQL Mocks Arrive at Airbnb and Expedia, While the Spec Lags Behind</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-14 10:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/mariosgottagun-1280x720.jpg" alt="It’s Time To Give Mario A Gun" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/its-time-to-give-mario-a-gun-2000724461" target="_blank">It’s Time To Give Mario A Gun</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-14 15:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/1280px-Downtown_marion_kansas_2009.jpg?fit=1280%2C853&amp;quality=60&amp;ssl=1" alt="A Kansas reporter raided by police settles for $850,000" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,20 +291,20 @@
                 <span class="time">2026-08-13 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2023/12/6148c6a04be14bf3f0811b1506446a1b-1280x720.jpg" alt="Streamers Are Telling Twitch How Much They Hate That Generative AI Training Is Opt-Out By Default" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/twitch-gen-ai-opt-out-streamer-backlash-2000724227" target="_blank">Streamers Are Telling Twitch How Much They Hate That Generative AI Training Is Opt-Out By Default</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-13 21:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1786562796-20260814.png" alt="Saturday Morning Breakfast Cereal - Case" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/case" target="_blank">Saturday Morning Breakfast Cereal - Case</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-08-14 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -315,22 +323,13 @@
                 <span class="time">2026-08-14 01:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1786562758-20260813.png" alt="Saturday Morning Breakfast Cereal - Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/scale" target="_blank">Saturday Morning Breakfast Cereal - Scale</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-08-13 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 14:07 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 109 | 📡 Total Sources: 40 | 📸 With Images: 256 |
+        🔄 Last Updated: 15:39 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
