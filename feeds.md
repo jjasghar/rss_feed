@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-08-14 12:37:18 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-08-14 14:06:55 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, August 14, 2026 - 12:37 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, August 14, 2026 - 14:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -84,21 +84,21 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://s.abcnews.com/images/US/mangione-1-gty-jef-260812_1786543026085_hpMain_4x3t_384.jpg" alt="Mangione federal guilty plea expected to be announced, sources say: What to know" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping" target="_blank">American missionary kidnapped in Niger freed after nine months</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-08-14 09:48</span>
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/luigi-mangione-federal-guilty-plea-expected-announced-friday/story?id=135608406" target="_blank">Mangione federal guilty plea expected to be announced, sources say: What to know</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-14 10:19</span>
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-08/260814-gas-rs-381dce.jpg" alt="In an apparent shift, Vance says lowering oil prices is ‘goal No. 1’ of Iran war" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/8/14/new-zealand-break-ranks-with-oceania-as-fifas-infantino-divide-grows?traffic_source=rss" target="_blank">New Zealand break ranks with Oceania as FIFA’s Infantino divide grows</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-14 09:35</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/iran/low-oil-prices-trump-goal-iran-war-vance-blockade-economic-pressure-rcna592504" target="_blank">In an apparent shift, Vance says lowering oil prices is ‘goal No. 1’ of Iran war</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-14 10:11</span>
             </div>
         </div>
 </div>
@@ -106,6 +106,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/" target="_blank">Hyperscalers might regret embracing natural gas if new forecast proves correct</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-14 14:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a0f6f4c9c4f912eb7592888/master/pass/Best%20Wireless%20Chargers%20top%20art%20052026%20SOURCE%20Amazon-Nomad%20Goods.jpg" alt="Best Wireless Chargers (2026): My Picks After Testing 100+" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,15 +158,6 @@
                 <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba" target="_blank">Apple trained its own AI model for China with help from Alibaba</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-08-14 09:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/CZV-1-Dynamic-Front-3-4-500x500.jpg" alt="Organic-looking brake assemblies debut on new Czinger 21C Spyder" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/08/czinger-debuts-topology-optimized-brakes-with-21c-spyder/" target="_blank">Organic-looking brake assemblies debut on new Czinger 21C Spyder</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-14 07:01</span>
             </div>
         </div>
 </div>
@@ -239,6 +239,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/1280px-Downtown_marion_kansas_2009.jpg?fit=1280%2C853&amp;quality=60&amp;ssl=1" alt="A Kansas reporter raided by police settles for $850,000" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/14/marion-county-record-zorn-settlement.html" target="_blank">A Kansas reporter raided by police settles for $850,000</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-14 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KZZPCC834R27S8KQSJK9XB4T/hero-image.jpg" alt="This Blink Outdoor 2K Camera Bundle Is 45% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/blink-outdoor-2k-camera-bundle-sale-august-2026?utm_medium=RSS" target="_blank">This Blink Outdoor 2K Camera Bundle Is 45% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-14 13:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/spiderverse23-1280x720.jpg" alt="Four Minutes Of Spider-Man: Beyond The Spider-Verse Leak Online, And They Look Amazing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -272,24 +290,6 @@
                 <span class="title"><a href="https://kotaku.com/twitch-gen-ai-opt-out-streamer-backlash-2000724227" target="_blank">Streamers Are Telling Twitch How Much They Hate That Generative AI Training Is Opt-Out By Default</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-08-13 21:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/Microsoft-Windows-11-Pro.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="BitLocker, Copilot, and more are yours for $9.97 with this Windows 11 Pro deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/13/bitlocker-copilot-and-more-are-yours-for-9-97-with-this-windows-11-pro-deal.html" target="_blank">BitLocker, Copilot, and more are yours for $9.97 with this Windows 11 Pro deal</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-13 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KZY9FE6HKRDB56DV8FKDKXG5/hero-image.jpg" alt="Here&#x27;s How Google&#x27;s New &#x27;Tap to Share&#x27; Android Feature Works" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/how-googles-new-tap-to-share-feature-works-made-by-google-2026?utm_medium=RSS" target="_blank">Here&#x27;s How Google&#x27;s New &#x27;Tap to Share&#x27; Android Feature Works</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-13 19:50</span>
             </div>
         </div>
 </div>
@@ -329,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 12:37 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 14:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
