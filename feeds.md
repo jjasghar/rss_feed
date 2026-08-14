@@ -1,40 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-08-14 05:22:49 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-14 07:05:02 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 31 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Friday, August 14, 2026 - 05:23 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, August 14, 2026 - 07:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +43,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fc8/live/6099c440-9794-11f1-8c8f-61df390540c2.jpg" alt="&#x27;Unprecedented&#x27; rains in Japan kill six people" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Unprecedented&#x27; rains in Japan kill six people</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-14 07:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/14/flock-adds-safeguards-to-licence-plate-readers-after-wave-of-stalking-cases?traffic_source=rss" target="_blank">Flock adds safeguards to licence-plate readers after wave of stalking cases</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-14 06:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec55/live/23a26490-97a1-11f1-a696-5b8e9a3a668f.jpg" alt="Farage&#x27;s by-election victory won&#x27;t stop questions about finances" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cvgwz9delwwo?at_medium=RSS&at_campaign=rss" target="_blank">Farage&#x27;s by-election victory won&#x27;t stop questions about finances</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-14 05:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/USA-TRUMP-AIRFORCEONE_1786676479553_hpMain_4x3t_384.jpg" alt="Officials said no credible threat to Trump ahead of Air Force One switch: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -75,33 +95,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/08/13/nx-s1-5930689/cftc-probe-mention-markets-prediction-markets-kalshi" target="_blank">Feds probe &#x27;mention markets&#x27; amid White House Kalshi controversy</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-08-14 02:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/13/gaza-city-police-chief-killed-as-israel-pushes-on-with-deadly-strikes?traffic_source=rss" target="_blank">Gaza City police chief killed as Israel pushes on with deadly strikes</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-13 23:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/kennedy-ctr-epa-gmh-260813_1786635247650_hpMain_4x3t_384.jpg" alt="Kennedy Center board votes to add Trump&#x27;s name, close for renovations: Lawmaker" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/kennedy-center-board-votes-close-renovations-add-trumps/story?id=135621885" target="_blank">Kennedy Center board votes to add Trump&#x27;s name, close for renovations: Lawmaker</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-13 22:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57be/live/7c733b90-975f-11f1-a764-31772918f872.png" alt="Multiple fires destroy homes and cause devastation in West Midlands" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c04k20w7lr6o?at_medium=RSS&at_campaign=rss" target="_blank">Multiple fires destroy homes and cause devastation in West Midlands</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-13 22:29</span>
             </div>
         </div>
 </div>
@@ -178,6 +171,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/08/npm-12-released/en/headerimage/generatedHeaderImage-1786639332006.jpg" alt="npm 12 Released: Install Scripts Off by Default as Registry Moves to Explicit Trust" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/08/npm-12-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">npm 12 Released: Install Scripts Off by Default as Registry Moves to Explicit Trust</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-14 06:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://z.ai/blog/glm-5.3" target="_blank">GLM-5.3: Frontier Coding with Emergent Cyber Capabilities</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-14 05:19</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -204,24 +215,6 @@
                 <span class="time">2026-08-14 00:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-GAIA-0.23" target="_blank">AMD GAIA 0.23 Delivers Ability To Install/Run AI Agents From The Terminal</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-14 00:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-august-14-2026-red-hat" target="_blank">Friday Five — August 14, 2026</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2026-08-14 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/Cover-1.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="When Jewish mysticism answers the Call of Cthulhu" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/13/when-jewish-mysticism-answers-the-call-of-cthulhu.html" target="_blank">When Jewish mysticism answers the Call of Cthulhu</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-13 23:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KZV9WM7237QG2ZEEB9NT1ZAX/hero-image.jpg" alt="I Tried the Android App That&#x27;s Helping People Around the World Bypass Censorship Laws" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +288,6 @@
                 <span class="time">2026-08-13 19:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/trumpcowersincart.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Seems Karoline Leavitt doesn&#x27;t want to be left to die" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/13/seems-karoline-leavitt-doesnt-want-to-be-left-to-die.html" target="_blank">Seems Karoline Leavitt doesn&#x27;t want to be left to die</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-13 19:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 90 | 📡 Total Sources: 40 | 📸 With Images: 254 |
-        🔄 Last Updated: 05:23 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 94 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 07:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
