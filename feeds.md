@@ -1,32 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-08-14 18:38:18 UTC -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-08-14 19:40:17 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, August 14, 2026 - 18:38 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, August 14, 2026 - 19:40 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b53b/live/4aaee280-97eb-11f1-a76b-f1c27c51f3da.jpg" alt="Temporary ban on sale of disposable BBQs over wildfire risk" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss" target="_blank">Temporary ban on sale of disposable BBQs over wildfire risk</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-14 19:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f272/live/7fe520d0-980f-11f1-a7ea-19f04b81e9a0.jpg" alt="Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss" target="_blank">Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-14 18:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,29 +98,29 @@
                 <span class="time">2026-08-14 16:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/8/14/philippines-drug-war-victims-seek-justice-through-truth-commission?traffic_source=rss" target="_blank">Philippines drug war victims seek justice through truth commission</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-14 16:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1786722933962_now_spec_mangione_statement_260814_S3_1920x1080-mxkufu.jpg" alt="Luigi Mangione tells judge of ‘intent to shoot Brian Thompson’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/luigi-mangione-tells-judge-of-intent-to-shoot-brian-thompson-268318277657" target="_blank">Luigi Mangione tells judge of ‘intent to shoot Brian Thompson’</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-14 15:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/" target="_blank">Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-14 19:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones" target="_blank">Samsung has new Galaxy headphones in the works</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-14 19:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,29 +157,20 @@
                 <span class="time">2026-08-14 15:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a7e0548f5b7635ce53f5f77/master/pass/Backchannel-Tim-Orielly-Business.jpg" alt="Tech Visionary Says the Big AI Labs Don’t Get What People Want" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/" target="_blank">Tech Visionary Says the Big AI Labs Don’t Get What People Want</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-14 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/" target="_blank">Apple proposes to take a 15% cut of purchases made outside the App Store</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-14 14:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alifar/gemini-live-on-google-pixel-brings-real-time-ai-conversations-to-mobile-workflows-p6m" target="_blank">Gemini Live on Google Pixel Brings Real-Time AI Conversations to Mobile Workflows</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-14 19:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +216,6 @@
                 <span class="time">2026-08-14 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/avikeid2007/voice-in-words-out-the-free-100-offline-voice-typing-app-for-windows-gpp" target="_blank">Voice In. Words Out: The Free, 100% Offline Voice Typing App for Windows</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-14 15:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/shutterstock_109024046-e1759854251489.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Russia to test AI models for traditional spiritual and moral values" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/14/russia-to-test-ai-models-for-traditional-spiritual-and-moral-values.html" target="_blank">Russia to test AI models for traditional spiritual and moral values</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-14 18:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2014/11/KINDLES-e1740234598891.jpg?fit=1360%2C745&amp;quality=60&amp;ssl=1" alt="OK, custom Kindle fonts are really nice" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +298,6 @@
                 <span class="time">2026-08-14 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/spiderverse23-1280x720.jpg" alt="Four Minutes Of Spider-Man: Beyond The Spider-Verse Leak Online, And They Look Amazing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/spider-man-beyond-the-spider-verse-leak-sony-cinemacon-2000724441" target="_blank">Four Minutes Of Spider-Man: Beyond The Spider-Verse Leak Online, And They Look Amazing</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-14 11:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -333,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 114 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 18:38 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 113 | 📡 Total Sources: 40 | 📸 With Images: 255 |
+        🔄 Last Updated: 19:40 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
