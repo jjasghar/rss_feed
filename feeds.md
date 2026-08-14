@@ -1,38 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-08-13 23:29:25 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-08-14 00:58:23 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Thursday, August 13, 2026 - 23:29 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, August 14, 2026 - 00:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +52,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/8/13/gaza-city-police-chief-killed-as-israel-pushes-on-with-deadly-strikes?traffic_source=rss" target="_blank">Gaza City police chief killed as Israel pushes on with deadly strikes</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-13 23:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/kennedy-ctr-epa-gmh-260813_1786635247650_hpMain_4x3t_384.jpg" alt="Kennedy Center board votes to add Trump&#x27;s name, close for renovations: Lawmaker" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/kennedy-center-board-votes-close-renovations-add-trumps/story?id=135621885" target="_blank">Kennedy Center board votes to add Trump&#x27;s name, close for renovations: Lawmaker</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-13 22:45</span>
             </div>
         </div>
 <div class="story">
@@ -91,15 +97,6 @@
                 <span class="title"><a href="https://abcnews.com/US/luigi-mangione-guilty-plea-expected-announced-friday-federal/story?id=135607454" target="_blank">Mangione guilty plea expected to be announced in federal case Friday, sources say</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-08-13 18:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1786642644385_now_current_dde_lincoln_260813_S3_1920x1080-op4ayz.jpg" alt="Families concerned about reports of mental health crisis on USS Lincoln" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/families-concerned-about-reports-of-mental-health-crisis-on-uss-lincoln-268262469844" target="_blank">Families concerned about reports of mental health crisis on USS Lincoln</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-13 17:37</span>
             </div>
         </div>
 </div>
@@ -170,6 +167,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/wenyu_zhang/i-filled-my-agents-wiki-with-contradictions-it-never-gave-a-wrong-answer-2ple" target="_blank">I filled my agent&#x27;s wiki with contradictions. It never gave a wrong answer.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-14 00:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-GAIA-0.23" target="_blank">AMD GAIA 0.23 Delivers Ability To Install/Run AI Agents From The Terminal</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-14 00:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/robert_saylor_c9db74549e2/what-it-really-takes-to-get-youtube-live-and-tiktok-publishing-approved-en" target="_blank">What It Really Takes to Get YouTube Live and TikTok Publishing Approved</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-13 23:16</span>
@@ -200,24 +215,6 @@
                 <span class="title"><a href="https://dev.to/sammy_cloud/beyond-the-switchover-using-rds-snapshots-to-safely-test-mysql-84-compatibility-before-your-2991" target="_blank">Beyond the Switchover: Using RDS Snapshots to Safely Test MySQL 8.4 Compatibility Before Your Blue/Green Cutover</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-13 20:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/KDE-Bullet-Proof-Software" target="_blank">KDE, Techpaladin &amp; Kubuntu Focus Announce The Bullet-Proof KDE Software Initiative</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-13 20:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/asada_shinsaku_c2847b5/the-store-passed-qa-then-its-best-seller-vanished-from-search-4f5n" target="_blank">The Store Passed QA. Then Its Best Seller Vanished from Search</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-13 19:40</span>
             </div>
         </div>
 </div>
@@ -307,22 +304,13 @@
                 <span class="time">2026-08-13 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5894.png" alt="First Impression, Second Try" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5894" target="_blank">First Impression, Second Try</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-08-13 00:55</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 89 | 📡 Total Sources: 40 | 📸 With Images: 254 |
-        🔄 Last Updated: 23:29 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 88 | 📡 Total Sources: 39 | 📸 With Images: 254 |
+        🔄 Last Updated: 00:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
