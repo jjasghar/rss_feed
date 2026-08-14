@@ -1,35 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-08-14 17:42:21 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing 54 RSS feeds at 2026-08-14 18:38:18 UTC -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, August 14, 2026 - 17:42 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, August 14, 2026 - 18:38 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/14/nx-s1-5928227/how-americans-deceive-ourselves-about-slavery" target="_blank">How Americans deceive ourselves about slavery</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-14 18:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/14/luigi-mangione-pleads-guilty-in-unitedhealthcare-ceos-killing?traffic_source=rss" target="_blank">Luigi Mangione pleads guilty in UnitedHealthcare CEO’s killing</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-14 18:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,30 +88,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1786722933962_now_spec_mangione_statement_260814_S3_1920x1080-mxkufu.jpg" alt="Luigi Mangione tells judge of ‘intent to shoot Brian Thompson’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/al-jazeera-world/2026/8/14/ahmed-al-sharaa-a-new-vision-for-syria?traffic_source=rss" target="_blank">Ahmed al-Sharaa: A New Vision for Syria</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-14 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/690f/live/bd947190-97d0-11f1-a927-0dfab640b8c9.jpg" alt="Chris Mason: Where does this unorthodox by-election victory leave Nigel Farage?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cvgvjnyz8k7o?at_medium=RSS&at_campaign=rss" target="_blank">Chris Mason: Where does this unorthodox by-election victory leave Nigel Farage?</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-14 14:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/14/nx-s1-5929422/inflation-spending-economy-groceries-gas" target="_blank">We learned 5 important things about the economy this week</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-14 14:47</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/luigi-mangione-tells-judge-of-intent-to-shoot-brian-thompson-268318277657" target="_blank">Luigi Mangione tells judge of ‘intent to shoot Brian Thompson’</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-14 15:55</span>
             </div>
         </div>
 </div>
@@ -104,6 +101,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school" target="_blank">A RAMageddon guide to back-to-school laptop shopping</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-14 18:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/macbook-pro-500x500.jpg" alt="Vulnerability giving attackers full control of Macs is under active exploitation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/" target="_blank">Vulnerability giving attackers full control of Macs is under active exploitation</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-14 18:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,24 +155,6 @@
                 <span class="time">2026-08-14 14:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/980261/clair-obscur-pixel-11-gaming-laptop-4k-bluray-deal-sale" target="_blank">2025 GOTY Clair Obscur: Expedition 33 is down to $33</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-14 14:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/" target="_blank">Hyperscalers might regret embracing natural gas if new forecast proves correct</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-14 14:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -191,6 +188,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/08/gnome-picture-widget.webp?resize=406%2C232&amp;ssl=1" alt="Add multiple picture widgets to your Ubuntu desktop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/desktop-picture-frame-widget-ubuntu" target="_blank">Add multiple picture widgets to your Ubuntu desktop</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-08-14 16:02</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-github"></span>
@@ -206,15 +212,6 @@
                 <span class="title"><a href="https://dev.to/avikeid2007/voice-in-words-out-the-free-100-offline-voice-typing-app-for-windows-gpp" target="_blank">Voice In. Words Out: The Free, 100% Offline Voice Typing App for Windows</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-14 15:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/intel-xeon-6-linux-72" target="_blank">Linux 7.1, Linux 7.2 Performance On The Intel Xeon 600 Series</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-14 15:18</span>
             </div>
         </div>
 </div>
@@ -336,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 111 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 17:42 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 114 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 18:38 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
