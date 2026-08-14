@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-08-14 16:38:28 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-08-14 17:42:21 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, August 14, 2026 - 16:38 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, August 14, 2026 - 17:42 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/14/nx-s1-5927506/speed-cameras-ticket-backlash" target="_blank">As speed cameras spread to more states, so does the backlash from drivers</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-14 16:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/mangione-1-gty-jef-260811_1786457785681_hpMain_4x3t_384.jpg" alt="Mangione pleads guilty in federal case, says he shot UnitedHealthcare CEO in the back" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,20 +99,20 @@
                 <span class="time">2026-08-14 14:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10f1/live/0bf3a4d0-97ce-11f1-a927-0dfab640b8c9.jpg" alt="Instagram accounts fuelling Ceuta crisis with paid advice for help to cross" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss" target="_blank">Instagram accounts fuelling Ceuta crisis with paid advice for help to cross</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-14 12:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/" target="_blank">Unforgetful is a new reminders app for people who can’t stop hitting snooze</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-14 16:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/xfilesTOP-ALT-500x500.jpg" alt="R-rated director&#x27;s cut of X-Files film restores Chris Carter&#x27;s original horror vision" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,20 +158,29 @@
                 <span class="time">2026-08-14 14:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a0f6f4c9c4f912eb7592888/master/pass/Best%20Wireless%20Chargers%20top%20art%20052026%20SOURCE%20Amazon-Nomad%20Goods.jpg" alt="Best Wireless Chargers (2026): My Picks After Testing 100+" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-wireless-chargers/" target="_blank">Best Wireless Chargers (2026): My Picks After Testing 100+</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-14 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/08/14/ndq-ai-context-architecture-build-buy/" target="_blank">No Dumb Questions: What is AI context architecture? Why not just build your own?</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-08-14 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!O7v7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1b8a274a-9a5f-42cb-9e73-e272ce48ef5f_1456x983.png" alt="The Pulse: Meta’s self-inflicted resignation-wave" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-metas-self-inflicted-resignation" target="_blank">The Pulse: Meta’s self-inflicted resignation-wave</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-08-14 16:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,29 +217,20 @@
                 <span class="time">2026-08-14 15:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://lxe.github.io/everywebsite/" target="_blank">Every Fucking Website (2020)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-14 14:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/virorum/notes-to-self-the-interview-between-an-issue-and-a-spec-4phc" target="_blank">Notes to Self: The Interview Between an Issue and a Spec</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-14 12:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/08/upcoming-speaking-engagements-59.html" target="_blank">Upcoming Speaking Engagements</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-08-14 16:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -234,6 +245,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2014/11/KINDLES-e1740234598891.jpg?fit=1360%2C745&amp;quality=60&amp;ssl=1" alt="OK, custom Kindle fonts are really nice" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/14/kindle-custom-fonts.html" target="_blank">OK, custom Kindle fonts are really nice</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-14 17:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/toystory3-1280x720.jpg" alt="Toy Story 3 On Xbox Is Being Delisted To Make Way For The Remaster" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +299,6 @@
                 <span class="time">2026-08-14 11:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/Cover-1.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="When Jewish mysticism answers the Call of Cthulhu" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/13/when-jewish-mysticism-answers-the-call-of-cthulhu.html" target="_blank">When Jewish mysticism answers the Call of Cthulhu</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-13 23:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 109 | 📡 Total Sources: 40 | 📸 With Images: 255 |
-        🔄 Last Updated: 16:38 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 111 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 17:42 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
