@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-08-14 09:51:02 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-08-14 10:46:30 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, August 14, 2026 - 09:51 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Friday, August 14, 2026 - 10:46 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6687/live/c392f100-97c3-11f1-a7ab-8b30adf0800a.jpg" alt="&#x27;Unprecedented&#x27; rain in Japan kills eight people" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Unprecedented&#x27; rain in Japan kills eight people</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-14 10:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/14/g-s1-138727/europe-asia-floods-heatwaves-world-weather" target="_blank">From Europe to Asia, floods to heatwaves, world experiences weather shocks</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-14 10:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +99,29 @@
                 <span class="time">2026-08-14 07:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/14/flock-adds-safeguards-to-licence-plate-readers-after-wave-of-stalking-cases?traffic_source=rss" target="_blank">Flock adds safeguards to licence-plate readers after wave of stalking cases</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-14 06:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-japan-floods-chiba_7321213.jpg?20260814073528" alt="Four dead in Japan after record-breaking rainfall causes severe flooding" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/four-dead-near-tokyo-after-heavy-rains-and-floods-with-thousands-stranded-at-railway-station-13572823" target="_blank">Four dead in Japan after record-breaking rainfall causes severe flooding</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-08-14 06:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/" target="_blank">Uber and Pony.ai plan to bring 2,000 robotaxis to Europe</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-14 10:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68bbcf49f02d871ebe651fbb/master/pass/Top%20Art%20Pixel%2010%20Cases%20SOURCE%20Julian%20Chokkattu.jpg" alt="Best Pixel 10 Cases and Accessories (2026): Mous, dbrand, Bellroy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-pixel-10-cases-and-accessories/" target="_blank">Best Pixel 10 Cases and Accessories (2026): Mous, dbrand, Bellroy</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-14 10:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,29 +158,29 @@
                 <span class="time">2026-08-14 05:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts" target="_blank">Trump declares 100 percent tariffs on many drones and all aircraft parts</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-14 01:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing" target="_blank">Apple and Epic argue over how much Apple should get from purchases made outside the App Store</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-13 23:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-Patches-Fix-DRM-Fair" target="_blank">Patches Posted For Fixing The Linux DRM Scheduler&#x27;s Fair Policy</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-14 10:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/08/graphql-llm-mocking-spec/en/headerimage/generatedHeaderImage-1786102945106.jpg" alt="LLM-Generated GraphQL Mocks Arrive at Airbnb and Expedia, While the Spec Lags Behind" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/08/graphql-llm-mocking-spec/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">LLM-Generated GraphQL Mocks Arrive at Airbnb and Expedia, While the Spec Lags Behind</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-14 10:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -192,27 +212,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://z.ai/blog/glm-5.3" target="_blank">GLM-5.3: Frontier Coding with Emergent Cyber Capabilities</a></span>
+                <span class="title"><a href="https://z.ai/blog/glm-5.3" target="_blank">GLM-5.3: Frontier coding with emergent cyber capabilities</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-08-14 05:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17417740/lightdm-is-back" target="_blank">LightDM is Back From The Dead, But Canonical isn&#x27;t in Charge Anymore</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-08-14 04:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jaisurya/hoisting-1o35" target="_blank">Hoisting</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-14 03:10</span>
             </div>
         </div>
 </div>
@@ -325,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 102 | 📡 Total Sources: 40 | 📸 With Images: 256 |
-        🔄 Last Updated: 09:51 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 10:46 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
