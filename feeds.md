@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-08-14 21:13:55 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-08-14 22:10:36 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, August 14, 2026 - 21:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, August 14, 2026 - 22:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1f2/live/c7b603c0-91a2-11f1-964d-6f76397ea067.jpg" alt="Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss" target="_blank">Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-14 22:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory?traffic_source=rss" target="_blank">Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-14 21:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/uss-lincoln-ht-gmh-260813_1786639895249_hpMain_4x3t_384.jpg" alt="Trump says record USS Lincoln deployment &#x27;not nearly long enough&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,24 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/8/14/son-of-mexicos-former-president-amlo-alleges-us-revoked-his-visa?traffic_source=rss" target="_blank">Son of Mexico’s former president AMLO alleges US revoked his visa</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-14 19:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b53b/live/4aaee280-97eb-11f1-a76b-f1c27c51f3da.jpg" alt="Temporary ban on sale of disposable BBQs over wildfire risk" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss" target="_blank">Temporary ban on sale of disposable BBQs over wildfire risk</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-14 19:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f272/live/7fe520d0-980f-11f1-a7ea-19f04b81e9a0.jpg" alt="Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss" target="_blank">Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-14 18:25</span>
             </div>
         </div>
 </div>
@@ -167,6 +166,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/D7VK-2.1" target="_blank">D7VK 2.1 Brings Faster Load Times, More Performance Tweaks</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-14 20:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/hydra_db_blogs/hydradb-vs-zep-3033" target="_blank">HydraDB vs Zep: Managed Context Platform vs Programmable Graph Database</a></span>
                 <span class="feed">DEV Community</span>
@@ -209,20 +217,20 @@
                 <span class="time">2026-08-14 16:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/08/gnome-picture-widget.webp?resize=406%2C232&amp;ssl=1" alt="Add multiple picture widgets to your Ubuntu desktop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/desktop-picture-frame-widget-ubuntu" target="_blank">Add multiple picture widgets to your Ubuntu desktop</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-08-14 16:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-searching-for-the-colossal-squid-2.html" target="_blank">Friday Squid Blogging: Searching for the Colossal Squid</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-08-14 21:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -246,6 +254,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M00WS46QMG7QA5EKP7H2HQFF/hero-image.jpg" alt="Microsoft Is Combining Its Two &#x27;Copilot&#x27; Apps (and Ditching These Three Features)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/microsoft-combining-copilot-ai-apps?utm_medium=RSS" target="_blank">Microsoft Is Combining Its Two &#x27;Copilot&#x27; Apps (and Ditching These Three Features)</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-14 21:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/shutterstock_109024046-e1759854251489.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Russia to test AI models for traditional spiritual and moral values" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -291,15 +308,6 @@
                 <span class="time">2026-08-14 13:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KZZPCC834R27S8KQSJK9XB4T/hero-image.jpg" alt="This Blink Outdoor 2K Camera Bundle Is 45% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/blink-outdoor-2k-camera-bundle-sale-august-2026?utm_medium=RSS" target="_blank">This Blink Outdoor 2K Camera Bundle Is 45% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-14 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -337,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 111 | 📡 Total Sources: 40 | 📸 With Images: 255 |
-        🔄 Last Updated: 21:14 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 110 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 22:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
