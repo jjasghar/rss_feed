@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-08-15 00:34:07 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-15 02:06:44 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, August 15, 2026 - 00:34 UTC</div>
+    <div class="newspaper-date">Saturday, August 15, 2026 - 02:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-breaking-breakingnews_7210863.png?20260516142605" alt="Powerful 7.7-magnitude earthquake strikes Indonesia" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/indonesia-powerful-77-magnitude-earthquake-damage-13573197" target="_blank">Powerful 7.7-magnitude earthquake strikes Indonesia</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-08-15 01:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,15 +99,6 @@
                 <span class="title"><a href="https://abcnews.com/Politics/trump-record-uss-lincoln-deployment-long/story?id=135652552" target="_blank">Trump says record USS Lincoln deployment &#x27;not nearly long enough&#x27;</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-08-14 20:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1f2/live/c7b603c0-91a2-11f1-964d-6f76397ea067.jpg" alt="Ex-Cambridge professor at centre of plagiarism row found dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss" target="_blank">Ex-Cambridge professor at centre of plagiarism row found dead</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-14 20:02</span>
             </div>
         </div>
 </div>
@@ -169,6 +168,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive" target="_blank">Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-15 01:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/gde/dogfooding-blocsignal-on-the-web-building-a-100k-opssec-reactive-app-with-jaspr-and-dart-313-4am7" target="_blank">Dogfooding BlocSignal on the Web: Building a 100K Ops/sec Reactive App with Jaspr and Dart 3.13</a></span>
                 <span class="feed">DEV Community</span>
@@ -209,15 +217,6 @@
                 <span class="title"><a href="https://stackoverflow.blog/2026/08/14/ndq-ai-context-architecture-build-buy/" target="_blank">No Dumb Questions: What is AI context architecture? Why not just build your own?</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2026-08-14 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!O7v7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1b8a274a-9a5f-42cb-9e73-e272ce48ef5f_1456x983.png" alt="The Pulse: Meta’s self-inflicted resignation-wave" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-metas-self-inflicted-resignation" target="_blank">The Pulse: Meta’s self-inflicted resignation-wave</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-08-14 16:55</span>
             </div>
         </div>
 </div>
@@ -343,22 +342,13 @@
                 <span class="time">2026-08-14 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5895.png" alt="Surprise Unmasking" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5895" target="_blank">Surprise Unmasking</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-08-14 01:07</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 255 |
-        🔄 Last Updated: 00:34 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 255 |
+        🔄 Last Updated: 02:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
