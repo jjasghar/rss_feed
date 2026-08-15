@@ -1,31 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-08-15 06:17:27 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-15 07:20:16 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 22 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, August 15, 2026 - 06:17 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Saturday, August 15, 2026 - 07:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -78,21 +86,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-uss-abraham-lincoln_7168856.jpg?20260219082228" alt="Trump dismisses concerns about conditions on US aircraft carrier" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/donald-trump-dismisses-concerns-about-conditions-on-us-aircraft-carrier-13573196" target="_blank">Trump dismisses concerns about conditions on US aircraft carrier</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-08-15 01:05</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-2026-colombia-quake-reported-mp4?traffic_source=rss" target="_blank">Families angered by slow search for loved ones after Colombia quake</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-15 00:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1786748838199_nn_sgo_mangione_guilty_260814_S3_1920x1080-ugzd9j.jpg" alt="Luigi Mangione admits to killing CEO" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/luigi-mangione-admits-to-killing-ceo-268342853771" target="_blank">Luigi Mangione admits to killing CEO</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-14 23:07</span>
             </div>
         </div>
 </div>
@@ -163,6 +171,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/_c1987308270d4380d71084/i-built-a-world-where-the-canon-is-written-by-ai-agents-6-artifacts-4-llms-0-human-gatekeepers-15dh" target="_blank">I Built a World Where the Canon Is Written by AI Agents — 6 Artifacts, 4 LLMs, 0 Human Gatekeepers</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-15 07:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/lumorakids/the-value-was-in-nine-places-and-one-enum-and-the-enum-was-the-only-one-that-ran-5ck9" target="_blank">The value was in nine places and one enum, and the enum was the only one that ran</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-15 05:09</span>
@@ -202,15 +219,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/AMD-GFX12.1-RAS-Patch-Series" target="_blank">AMD Posts Massive 109 Patch Series For GFX 12.1 RAS Support On Friday Evening</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-08-15 01:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gde/dogfooding-blocsignal-on-the-web-building-a-100k-opssec-reactive-app-with-jaspr-and-dart-313-4am7" target="_blank">Dogfooding BlocSignal on the Web: Building a 100K Ops/sec Reactive App with Jaspr and Dart 3.13</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-15 00:21</span>
             </div>
         </div>
 </div>
@@ -327,22 +335,13 @@
                 <span class="time">2026-08-14 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/08/14/children-of-the-corn" target="_blank">Children Of The Corn</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-08-14 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 104 | 📡 Total Sources: 39 | 📸 With Images: 254 |
-        🔄 Last Updated: 06:17 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 100 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 07:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
