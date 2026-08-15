@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-08-15 19:12:50 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-08-15 20:09:03 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, August 15, 2026 - 19:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Saturday, August 15, 2026 - 20:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident" target="_blank">Twenty-two more bodies recovered after Zimbabwe boat accident</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-08-15 19:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/15/death-toll-from-zimbabwe-ferry-disaster-rises-to-69?traffic_source=rss" target="_blank">Death toll from Zimbabwe ferry disaster rises to 69</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-15 19:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -67,39 +83,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-ceuta-migrants-morocco_7322789.jpg?20260815191020" alt="More than 100 arrested in Morocco after call for another migrant mass crossing to Ceuta" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/more-than-100-arrested-in-morocco-after-social-media-call-for-another-migrant-mass-crossing-to-ceuta-13573534" target="_blank">More than 100 arrested in Morocco after call for another migrant mass crossing to Ceuta</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-08-15 18:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/IndonesiaEarthquake_1786763907887_hpMain_4x3t_384.jpg" alt="2nd earthquake hits Indonesia following powerful magnitude 7.7 quake" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/International/2-dead-after-powerful-77-earthquake-strikes-off/story?id=135664681" target="_blank">2nd earthquake hits Indonesia following powerful magnitude 7.7 quake</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-08-15 14:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbf0/live/97cf9550-9877-11f1-a7ab-8b30adf0800a.jpg" alt="Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss" target="_blank">Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-15 13:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/101-east/2026/8/15/is-china-seeking-to-copy-irans-strait-of-hormuz-blockade-around-taiwan?traffic_source=rss" target="_blank">Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-15 11:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea6e/live/9024e850-988b-11f1-83ef-33838a09c7c1.jpg" alt="Jason Arday death &#x27;tragedy on so many levels&#x27; says PM" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss" target="_blank">Jason Arday death &#x27;tragedy on so many levels&#x27; says PM</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-15 11:06</span>
             </div>
         </div>
 </div>
@@ -114,6 +112,15 @@
                 <span class="title"><a href="https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/" target="_blank">Anthropic shares more details about how Claude’s new watermarks will work</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-08-15 18:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review" target="_blank">Don&amp;#8217;t overlook Elektron&amp;#8217;s budget electronic music instruments</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-15 17:00</span>
             </div>
         </div>
 <div class="story">
@@ -150,15 +157,6 @@
                 <span class="title"><a href="https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/" target="_blank">So much solar: Digging into the list of every US power plant that went online this year</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-08-15 11:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a7fd146fe52d9e2e42b1a35/master/pass/Review--Retrospec-Joe-Rev-2.jpg" alt="Retrospec Joe Rev 2 Review (2026): Putting the ‘Joy’ in Joyride" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/retrospec-joe-rev-2/" target="_blank">Retrospec Joe Rev 2 Review (2026): Putting the ‘Joy’ in Joyride</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-15 11:00</span>
             </div>
         </div>
 </div>
@@ -240,6 +238,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/Teenage-Sex-and-Death-at-Camp-Miasma-courtesy-of-MUBI-1280x720.jpg" alt="Teenage Sex and Death at Camp Miasma Wants To Have Its Cake And Splatter It Too" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/teenage-sex-and-death-at-camp-miasma-wants-to-have-its-cake-and-splatter-it-too-2000724725" target="_blank">Teenage Sex and Death at Camp Miasma Wants To Have Its Cake And Splatter It Too</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-15 19:31</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/computerspace-1280x857.jpg" alt="Rare Two-Player Version Of First Arcade Game Up For Auction From Shiny Entertainment Founder" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -284,15 +291,6 @@
                 <span class="time">2026-08-15 14:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/doom-1280x720.jpg" alt="New Avengers: Doomsday Trailer Is Best Look At RDJ’s Doom Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/avengers-doomsday-trailer-d23-doctor-doom-downey-jr-2000724579" target="_blank">New Avengers: Doomsday Trailer Is Best Look At RDJ’s Doom Yet</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-15 05:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 81 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 19:13 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 78 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 20:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
