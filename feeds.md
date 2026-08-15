@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-08-14 23:10:30 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-08-15 00:34:07 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
 <!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, August 14, 2026 - 23:10 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, August 15, 2026 - 00:34 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-2026-colombia-quake-reported-mp4?traffic_source=rss" target="_blank">Families angered by slow search for loved ones after Colombia quake</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-15 00:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1786748838199_nn_sgo_mangione_guilty_260814_S3_1920x1080-ugzd9j.jpg" alt="Luigi Mangione admits to killing CEO" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/luigi-mangione-admits-to-killing-ceo-268342853771" target="_blank">Luigi Mangione admits to killing CEO</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-14 23:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1f2/live/c7b603c0-91a2-11f1-964d-6f76397ea067.jpg" alt="Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,29 +102,20 @@
                 <span class="time">2026-08-14 20:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/mangione-1-gty-jef-260811_1786457785681_hpMain_4x3t_384.jpg" alt="Mangione pleads guilty in federal case, says he shot UnitedHealthcare CEO" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/luigi-mangione-guilty-plea-expected-announced-friday-federal/story?id=135607454" target="_blank">Mangione pleads guilty in federal case, says he shot UnitedHealthcare CEO</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-14 19:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/14/son-of-mexicos-former-president-amlo-alleges-us-revoked-his-visa?traffic_source=rss" target="_blank">Son of Mexico’s former president AMLO alleges US revoked his visa</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-14 19:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/" target="_blank">Talks to sell PayPal to Stripe and Advent are heating up</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-14 22:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a7e4a6728f891277df706a0/master/pass/MSG-Surveillance-Protests-2196667317.jpg" alt="New York City Lawmakers Push to ‘Ban the Scan’ at MSG" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,20 +161,20 @@
                 <span class="time">2026-08-14 18:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/macbook-pro-500x500.jpg" alt="Vulnerability giving attackers full control of Macs is under active exploitation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/" target="_blank">Vulnerability giving attackers full control of Macs is under active exploitation</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-14 18:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gde/dogfooding-blocsignal-on-the-web-building-a-100k-opssec-reactive-app-with-jaspr-and-dart-313-4am7" target="_blank">Dogfooding BlocSignal on the Web: Building a 100K Ops/sec Reactive App with Jaspr and Dart 3.13</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-15 00:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +220,6 @@
                 <span class="time">2026-08-14 16:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alifar/google-gemini-expands-ai-content-verification-with-synthid-video-checks-lb2" target="_blank">Google Gemini Expands AI Content Verification With SynthID Video Checks</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-14 16:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -253,6 +257,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/11/Screen-Shot-2022-11-10-at-1.07.54-AM-e1786743877431.png?fit=768%2C386&amp;quality=55&amp;ssl=1" alt="In 1983 I couldn&#x27;t afford to beat Dragon&#x27;s Lair" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/14/dragons-lair-cost-beat-1983.html" target="_blank">In 1983 I couldn&#x27;t afford to beat Dragon&#x27;s Lair</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-14 21:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01M00WS46QMG7QA5EKP7H2HQFF/hero-image.jpg" alt="Microsoft Is Combining Its Two &#x27;Copilot&#x27; Apps (and Ditching These Three Features)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -296,15 +309,6 @@
                 <span class="title"><a href="https://kotaku.com/toy-story-3-on-xbox-is-being-delisted-to-make-way-for-the-remaster-2000724483" target="_blank">Toy Story 3 On Xbox Is Being Delisted To Make Way For The Remaster</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-08-14 16:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/mariosgottagun-1280x720.jpg" alt="It’s Time To Give Mario A Gun" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/its-time-to-give-mario-a-gun-2000724461" target="_blank">It’s Time To Give Mario A Gun</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-14 15:03</span>
             </div>
         </div>
 </div>
@@ -353,8 +357,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 255 |
-        🔄 Last Updated: 23:10 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 255 |
+        🔄 Last Updated: 00:34 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
