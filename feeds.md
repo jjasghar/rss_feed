@@ -1,34 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-08-15 16:10:30 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-08-15 17:10:39 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 2 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, August 15, 2026 - 16:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Saturday, August 15, 2026 - 17:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -140,21 +135,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/6a7fd146fe52d9e2e42b1a35/master/pass/Review--Retrospec-Joe-Rev-2.jpg" alt="Retrospec Joe Rev 2 Review (2026): Putting the ‘Joy’ in Joyride" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/retrospec-joe-rev-2/" target="_blank">Retrospec Joe Rev 2 Review (2026): Putting the ‘Joy’ in Joyride</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-15 11:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6a7c1ff5b6f093068a6a7f95/master/pass/PUFF_CHAINS.jpg" alt="This Beautifully Weird Necklace Is Secretly a USB Drive" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
                 <span class="title"><a href="https://www.wired.com/story/this-beautifully-weird-necklace-is-secretly-a-usb-drive/" target="_blank">This Beautifully Weird Necklace Is Secretly a USB Drive</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-08-15 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a7f62de9dba743672684be2/master/pass/GettyImages-1305224058-edited.jpg" alt="Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/" target="_blank">Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-15 09:00</span>
             </div>
         </div>
 </div>
@@ -236,6 +231,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/trustcaitsith.jpg" alt="Former Square Enix Exec Believes Disc-Free PlayStation Will Drive Game Prices Down" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/former-square-enix-exec-believes-disc-free-playstation-will-drive-game-prices-down-2000724716" target="_blank">Former Square Enix Exec Believes Disc-Free PlayStation Will Drive Game Prices Down</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-15 17:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/kingdomheartsseries.jpg" alt="Tetsuya Nomura Says ‘Let Your Imaginations Run Wild’ On Kingdom Hearts Animated Series, So I Will" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -280,15 +284,6 @@
                 <span class="time">2026-08-15 03:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/11/Screen-Shot-2022-11-10-at-1.07.54-AM-e1786743877431.png?fit=768%2C386&amp;quality=55&amp;ssl=1" alt="In 1983 I couldn&#x27;t afford to beat Dragon&#x27;s Lair" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/14/dragons-lair-cost-beat-1983.html" target="_blank">In 1983 I couldn&#x27;t afford to beat Dragon&#x27;s Lair</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-14 21:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -308,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 85 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 16:10 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 80 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 17:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
