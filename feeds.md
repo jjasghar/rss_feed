@@ -1,36 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-08-15 12:14:44 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-15 13:21:19 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 1 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, August 15, 2026 - 12:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, August 15, 2026 - 13:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -168,6 +161,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/5c4989ca297ed/a-python-model-is-just-a-function-4gk8" target="_blank">A Python Model Is Just a Function</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-15 13:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/sstart/you-added-an-mcp-server-to-your-ai-assistant-did-you-check-what-it-can-touch-2399" target="_blank">You added an MCP server to your AI assistant. Did you check what it can touch?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-15 12:10</span>
@@ -207,15 +209,6 @@
                 <span class="title"><a href="https://www.infoq.com/presentations/ai-agentic-recommendations-semantic-ids/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: From Models to Agents: Building Context-Aware Consumer AI at Scale at DoorDash</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-08-15 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/superfunicular/flock-cut-default-camera-data-retention-from-30-days-to-7-and-its-own-numbers-say-the-other-23-4efm" target="_blank">Flock cut default camera-data retention from 30 days to 7 — and its own numbers say the other 23 days were never doing any work</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-15 08:05</span>
             </div>
         </div>
 </div>
@@ -328,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 98 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 12:14 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 96 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 13:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
