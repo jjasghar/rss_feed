@@ -1,33 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-08-15 18:11:54 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-08-15 19:12:50 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, August 15, 2026 - 18:12 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, August 15, 2026 - 19:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/8/15/la-liga-real-madrid-key-talking-points-heading-into-new-2026-27-season?traffic_source=rss" target="_blank">La Liga: Real Madrid key talking points heading into new 2026-27 season</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-15 18:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta" target="_blank">Moroccan police arrest more than 100 people as they attempt to enter Ceuta</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-08-15 18:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/IndonesiaEarthquake_1786763907887_hpMain_4x3t_384.jpg" alt="2nd earthquake hits Indonesia following powerful magnitude 7.7 quake" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,29 +102,20 @@
                 <span class="time">2026-08-15 11:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/8/15/world-cup-winner-ferran-torres-joins-paris-saint-germain-from-barcelona?traffic_source=rss" target="_blank">World Cup winner Ferran Torres joins Paris Saint-Germain from Barcelona</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-15 10:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/15/nx-s1-5928322/ice-detained-a-venezuelan-soccer-pro-his-case-shows-the-immigration-backlog-crisis" target="_blank">ICE detained a Venezuelan soccer pro. His case shows the immigration backlog crisis</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-15 10:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/" target="_blank">Anthropic shares more details about how Claude’s new watermarks will work</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-15 18:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/soyuzprogms33-500x500.jpg" alt="Ukraine strikes major Russian rocket factory with cruise missiles" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,15 +161,6 @@
                 <span class="time">2026-08-15 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a7c1ff5b6f093068a6a7f95/master/pass/PUFF_CHAINS.jpg" alt="This Beautifully Weird Necklace Is Secretly a USB Drive" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/this-beautifully-weird-necklace-is-secretly-a-usb-drive/" target="_blank">This Beautifully Weird Necklace Is Secretly a USB Drive</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-15 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -168,6 +173,15 @@
                 <span class="title"><a href="https://dev.to/khushalsarode/annapurnas-kitchen-every-tiffin-has-homes-flavour-perfect-landing-48b6" target="_blank">🍲 Annapurna&#x27;s Kitchen — Every tiffin has Home&#x27;s Flavour (Perfect Landing)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-15 18:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GNOME-51-Beta" target="_blank">GNOME 51 Beta Released With Many Minor Improvements</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-15 17:12</span>
             </div>
         </div>
 <div class="story">
@@ -206,15 +220,6 @@
                 <span class="time">2026-08-15 13:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sstart/you-added-an-mcp-server-to-your-ai-assistant-did-you-check-what-it-can-touch-2399" target="_blank">You added an MCP server to your AI assistant. Did you check what it can touch?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-15 12:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/computerspace-1280x857.jpg" alt="Rare Two-Player Version Of First Arcade Game Up For Auction From Shiny Entertainment Founder" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/rare-two-player-version-of-first-arcade-game-up-for-auction-from-shiny-entertainment-founder-2000724719" target="_blank">Rare Two-Player Version Of First Arcade Game Up For Auction From Shiny Entertainment Founder</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-15 18:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/trustcaitsith.jpg" alt="Former Square Enix Exec Believes Disc-Free PlayStation Will Drive Game Prices Down" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +293,6 @@
                 <span class="time">2026-08-15 05:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/kh4-coco-1280x720.jpg" alt="Kingdom Hearts IV Gets 2027 Release Window And That’s Not All" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/kingdom-hearts-the-series-disney-d23-announcement-plus-2000724564" target="_blank">Kingdom Hearts IV Gets 2027 Release Window And That’s Not All</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-15 03:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 81 | 📡 Total Sources: 40 | 📸 With Images: 255 |
-        🔄 Last Updated: 18:12 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 81 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 19:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
