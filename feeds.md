@@ -1,32 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-08-15 15:08:54 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-08-15 16:10:30 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Saturday, August 15, 2026 - 15:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, August 15, 2026 - 16:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -102,6 +104,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/soyuzprogms33-500x500.jpg" alt="Ukraine strikes major Russian rocket factory with cruise missiles" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/" target="_blank">Ukraine strikes major Russian rocket factory with cruise missiles</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-15 15:46</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -146,15 +157,6 @@
                 <span class="time">2026-08-15 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png" alt="Google Workspace Promo Codes: 14% Off for August 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/google-workspace-promo-code/" target="_blank">Google Workspace Promo Codes: 14% Off for August 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-15 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,6 +169,15 @@
                 <span class="title"><a href="https://dev.to/bonzai2carn/how-to-ship-a-vs-code-extension-that-wraps-an-existing-web-tool-3jda" target="_blank">How to Ship a VS Code Extension That Wraps an Existing Web Tool</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-15 15:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Jay-Compiler-Xe2-Xe3-CTS" target="_blank">Intel&#x27;s Jay Graphics Shader Compiler Now Passing Vulkan CTS With Xe2/Xe3 Hardware</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-15 14:23</span>
             </div>
         </div>
 <div class="story">
@@ -205,15 +216,6 @@
                 <span class="time">2026-08-15 11:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://sankalp.bearblog.dev/autoresearch/" target="_blank">Auto-research with codex: How I achieved a 232x Faster Kernel</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-15 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -228,20 +230,29 @@
                 <span class="time">2026-08-14 21:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/08/upcoming-speaking-engagements-59.html" target="_blank">Upcoming Speaking Engagements</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-08-14 16:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/kingdomheartsseries.jpg" alt="Tetsuya Nomura Says ‘Let Your Imaginations Run Wild’ On Kingdom Hearts Animated Series, So I Will" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/tetsuya-nomura-says-let-your-imaginations-run-wild-on-kingdom-hearts-animated-series-so-i-will-2000724711" target="_blank">Tetsuya Nomura Says ‘Let Your Imaginations Run Wild’ On Kingdom Hearts Animated Series, So I Will</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-15 16:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/Prompting-Systems.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Elevate your prompt game with Prompting Systems for $29.99" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/15/elevate-your-prompt-game-with-prompting-systems-for-29-99.html" target="_blank">Elevate your prompt game with Prompting Systems for $29.99</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-15 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/simposn-.jpg" alt="Simpsons Creator Says GTA-Like Hit &amp; Run Game Is Coming Back, Maybe" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,24 +289,6 @@
                 <span class="time">2026-08-14 21:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M00WS46QMG7QA5EKP7H2HQFF/hero-image.jpg" alt="Microsoft Is Combining Its Two &#x27;Copilot&#x27; Apps (and Ditching These Three Features)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/microsoft-combining-copilot-ai-apps?utm_medium=RSS" target="_blank">Microsoft Is Combining Its Two &#x27;Copilot&#x27; Apps (and Ditching These Three Features)</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-14 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/codmw4K_0001_MW4_MP_004_BRANDED-1280x720.jpg" alt="Activision Really Wants You To Know Call Of Duty: Modern Warfare 4′s Campaign Isn’t A Horrible Mess Like BLOPS7" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/activision-really-wants-you-to-know-call-of-duty-modern-warfare-4s-campaign-isnt-a-horrible-mess-like-blops7-2000724549" target="_blank">Activision Really Wants You To Know Call Of Duty: Modern Warfare 4′s Campaign Isn’t A Horrible Mess Like BLOPS7</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-14 20:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -310,22 +303,13 @@
                 <span class="time">2026-08-14 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1786562796-20260814.png" alt="Saturday Morning Breakfast Cereal - Case" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/case" target="_blank">Saturday Morning Breakfast Cereal - Case</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-08-14 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 90 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 15:09 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 85 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 16:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
