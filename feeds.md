@@ -1,39 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-08-15 07:20:16 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-08-15 08:13:39 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 31 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Saturday, August 15, 2026 - 07:20 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Saturday, August 15, 2026 - 08:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67ab/live/0ac2ebc0-9878-11f1-b2ab-0dd01740f9f6.jpg" alt="Tributes paid to Jason Arday after ex-Cambridge professor found dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss" target="_blank">Tributes paid to Jason Arday after ex-Cambridge professor found dead</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-15 07:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/8/15/arteta-assures-arsenal-fans-over-contract-ahead-of-man-city-clash?traffic_source=rss" target="_blank">Arteta assures Arsenal fans over contract before Man City clash</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-15 07:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbf0/live/97cf9550-9877-11f1-a7ab-8b30adf0800a.jpg" alt="At least 14 dead after 7.7-magnitude earthquake strikes Indonesia" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss" target="_blank">At least 14 dead after 7.7-magnitude earthquake strikes Indonesia</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-15 07:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,33 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/8/15/hrw-says-us-civil-rights-enforcement-reduced-under-trump-what-to-know?traffic_source=rss" target="_blank">HRW says US civil rights enforcement reduced under Trump: What to know</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-15 03:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-breaking-breakingnews_7210863.png?20260516142605" alt="Powerful 7.7-magnitude earthquake strikes Indonesia" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/indonesia-powerful-77-magnitude-earthquake-damage-13573197" target="_blank">Powerful 7.7-magnitude earthquake strikes Indonesia</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-08-15 01:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-uss-abraham-lincoln_7168856.jpg?20260219082228" alt="Trump dismisses concerns about conditions on US aircraft carrier" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/donald-trump-dismisses-concerns-about-conditions-on-us-aircraft-carrier-13573196" target="_blank">Trump dismisses concerns about conditions on US aircraft carrier</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-08-15 01:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-2026-colombia-quake-reported-mp4?traffic_source=rss" target="_blank">Families angered by slow search for loved ones after Colombia quake</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-15 00:14</span>
             </div>
         </div>
 </div>
@@ -171,9 +166,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/superfunicular/flock-cut-default-camera-data-retention-from-30-days-to-7-and-its-own-numbers-say-the-other-23-4efm" target="_blank">Flock cut default camera-data retention from 30 days to 7 — and its own numbers say the other 23 days were never doing any work</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-15 08:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/_c1987308270d4380d71084/i-built-a-world-where-the-canon-is-written-by-ai-agents-6-artifacts-4-llms-0-human-gatekeepers-15dh" target="_blank">I Built a World Where the Canon Is Written by AI Agents — 6 Artifacts, 4 LLMs, 0 Human Gatekeepers</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-15 07:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17418931/proton-ai-paper-trail" target="_blank">Overshared to an AI? Proton&#x27;s Tool Will Give You a Reality Check</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-08-15 06:25</span>
             </div>
         </div>
 <div class="story">
@@ -201,24 +214,6 @@
                 <span class="title"><a href="https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive" target="_blank">Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-08-15 01:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17418654/nitrux-workspace-environment" target="_blank">Nitrux Shows Off a New Desktop Approach Other Distros Might Want to Take Note of</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-08-15 01:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-GFX12.1-RAS-Patch-Series" target="_blank">AMD Posts Massive 109 Patch Series For GFX 12.1 RAS Support On Friday Evening</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-15 01:01</span>
             </div>
         </div>
 </div>
@@ -340,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 100 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 07:20 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 104 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 08:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
