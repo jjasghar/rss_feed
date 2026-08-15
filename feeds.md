@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-08-15 02:06:44 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-15 03:28:43 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 29 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, August 15, 2026 - 02:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, August 15, 2026 - 03:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/15/hrw-says-us-civil-rights-enforcement-reduced-under-trump-what-to-know?traffic_source=rss" target="_blank">HRW says US civil rights enforcement reduced under Trump: What to know</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-15 03:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/26/04/1920x1080/skynews-breaking-breakingnews_7210863.png?20260516142605" alt="Powerful 7.7-magnitude earthquake strikes Indonesia" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,15 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory?traffic_source=rss" target="_blank">Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-14 21:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/uss-lincoln-ht-gmh-260813_1786639895249_hpMain_4x3t_384.jpg" alt="Trump says record USS Lincoln deployment &#x27;not nearly long enough&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-record-uss-lincoln-deployment-long/story?id=135652552" target="_blank">Trump says record USS Lincoln deployment &#x27;not nearly long enough&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-14 20:32</span>
             </div>
         </div>
 </div>
@@ -168,10 +166,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/saptak_roy_950fd751ad80bc/building-roshni-a-real-time-multi-agent-financial-voice-ai-for-bharat-3ao6" target="_blank">Building Roshni: A Real-Time, Multi-Agent Financial Voice AI for Bharat 🇮🇳</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-15 03:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive" target="_blank">Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-08-15 01:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17418654/nitrux-workspace-environment" target="_blank">Nitrux Shows Off a New Desktop Approach Other Distros Might Want to Take Note of</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-08-15 01:02</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +215,6 @@
                 <span class="title"><a href="https://dev.to/hydra_db_blogs/hydradb-vs-zep-3033" target="_blank">HydraDB vs Zep: Managed Context Platform vs Programmable Graph Database</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-14 20:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alifar/gemini-live-on-google-pixel-brings-real-time-ai-conversations-to-mobile-workflows-p6m" target="_blank">Gemini Live on Google Pixel Brings Real-Time AI Conversations to Mobile Workflows</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-14 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/08/14/ndq-ai-context-architecture-build-buy/" target="_blank">No Dumb Questions: What is AI context architecture? Why not just build your own?</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-08-14 18:00</span>
             </div>
         </div>
 </div>
@@ -256,6 +254,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/kh4-coco-1280x720.jpg" alt="Kingdom Hearts IV Gets 2027 Release Window And That’s Not All" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/kingdom-hearts-the-series-disney-d23-announcement-plus-2000724564" target="_blank">Kingdom Hearts IV Gets 2027 Release Window And That’s Not All</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-15 03:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/11/Screen-Shot-2022-11-10-at-1.07.54-AM-e1786743877431.png?fit=768%2C386&amp;quality=55&amp;ssl=1" alt="In 1983 I couldn&#x27;t afford to beat Dragon&#x27;s Lair" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -301,15 +308,6 @@
                 <span class="time">2026-08-14 17:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/toystory3-1280x720.jpg" alt="Toy Story 3 On Xbox Is Being Delisted To Make Way For The Remaster" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/toy-story-3-on-xbox-is-being-delisted-to-make-way-for-the-remaster-2000724483" target="_blank">Toy Story 3 On Xbox Is Being Delisted To Make Way For The Remaster</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-14 16:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -342,13 +340,22 @@
                 <span class="time">2026-08-14 07:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/accretionary_arc.png" alt="Accretionary Arc" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3285/" target="_blank">Accretionary Arc</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-08-14 04:00</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 255 |
-        🔄 Last Updated: 02:06 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 256 |
+        🔄 Last Updated: 03:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
