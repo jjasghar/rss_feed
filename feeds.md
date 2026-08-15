@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-08-15 11:08:50 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-15 12:14:44 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, August 15, 2026 - 11:09 UTC</div>
+    <div class="newspaper-date">Saturday, August 15, 2026 - 12:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/101-east/2026/8/15/is-china-seeking-to-copy-irans-strait-of-hormuz-blockade-around-taiwan?traffic_source=rss" target="_blank">Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-15 11:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea6e/live/9024e850-988b-11f1-83ef-33838a09c7c1.jpg" alt="Jason Arday death &#x27;tragedy on so many levels&#x27; says PM" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss" target="_blank">Jason Arday death &#x27;tragedy on so many levels&#x27; says PM</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-15 11:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,29 +100,20 @@
                 <span class="time">2026-08-15 08:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/8/15/bangladesh-rock-australia-as-historic-test-win-in-sight?traffic_source=rss" target="_blank">Bangladesh rock Australia as historic Test win in sight</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-15 08:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67ab/live/0ac2ebc0-9878-11f1-b2ab-0dd01740f9f6.jpg" alt="Tributes paid to Jason Arday after ex-Cambridge professor found dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss" target="_blank">Tributes paid to Jason Arday after ex-Cambridge professor found dead</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-15 07:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/980064/sony-a7r-vi-6-hands-on-impressions-review" target="_blank">We’re reaching peak camera with the Sony A7R VI</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-15 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a7c1ff5b6f093068a6a7f95/master/pass/PUFF_CHAINS.jpg" alt="This Beautifully Weird Necklace Is Secretly a USB Drive" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,20 +159,29 @@
                 <span class="time">2026-08-14 21:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a7e3d7b0f200c034ba14a12/master/pass/Made-In-China-Made-in-China-Unitree-Robots-Americans-Love-Business.jpg" alt="The Next Big Influencer Is This 4-Foot-Tall Robot From China" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/" target="_blank">The Next Big Influencer Is This 4-Foot-Tall Robot From China</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-14 20:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sstart/you-added-an-mcp-server-to-your-ai-assistant-did-you-check-what-it-can-touch-2399" target="_blank">You added an MCP server to your AI assistant. Did you check what it can touch?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-15 12:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/RustConn-0.20-Released" target="_blank">RustConn 0.20 Continues Further Polishing This GTK4/libadwaita-Based Connection Manager</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-15 11:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -172,46 +194,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://sankalp.bearblog.dev/autoresearch/" target="_blank">Auto-research with codex: How I achieved a 232x Faster Kernel</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-15 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Presentation: From Models to Agents: Building Context-Aware Consumer AI at Scale at DoorDash" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/ai-agentic-recommendations-semantic-ids/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: From Models to Agents: Building Context-Aware Consumer AI at Scale at DoorDash</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-15 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/superfunicular/flock-cut-default-camera-data-retention-from-30-days-to-7-and-its-own-numbers-say-the-other-23-4efm" target="_blank">Flock cut default camera-data retention from 30 days to 7 — and its own numbers say the other 23 days were never doing any work</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-15 08:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/_c1987308270d4380d71084/i-built-a-world-where-the-canon-is-written-by-ai-agents-6-artifacts-4-llms-0-human-gatekeepers-15dh" target="_blank">I Built a World Where the Canon Is Written by AI Agents — 6 Artifacts, 4 LLMs, 0 Human Gatekeepers</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-15 07:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/08/cloudflare-cache-rules/en/headerimage/generatedHeaderImage-1785652462281.jpg" alt="Cloudflare Introduces Cache Response Rules for Post-Origin Cache Control" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/08/cloudflare-cache-rules/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Introduces Cache Response Rules for Post-Origin Cache Control</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-15 06:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17418931/proton-ai-paper-trail" target="_blank">Overshared to an AI? Proton&#x27;s Tool Will Give You a Reality Check</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-08-15 06:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lumorakids/the-value-was-in-nine-places-and-one-enum-and-the-enum-was-the-only-one-that-ran-5ck9" target="_blank">The value was in nine places and one enum, and the enum was the only one that ran</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-15 05:09</span>
             </div>
         </div>
 </div>
@@ -235,15 +239,6 @@
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2026/08/upcoming-speaking-engagements-59.html" target="_blank">Upcoming Speaking Engagements</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2026-08-14 16:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/" target="_blank">Who’s Tracking You? Use This New Service to Find Out</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2026-08-14 11:24</span>
             </div>
         </div>
 </div>
@@ -333,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 98 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 11:09 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 98 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 12:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
