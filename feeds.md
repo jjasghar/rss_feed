@@ -1,30 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-08-15 14:10:54 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-15 15:08:54 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 2 new posts out of 22 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Saturday, August 15, 2026 - 14:11 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, August 15, 2026 - 15:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +49,15 @@
                 <span class="title"><a href="https://abcnews.com/International/2-dead-after-powerful-77-earthquake-strikes-off/story?id=135664681" target="_blank">2nd earthquake hits Indonesia following powerful magnitude 7.7 quake</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-08-15 14:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbf0/live/97cf9550-9877-11f1-a7ab-8b30adf0800a.jpg" alt="Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss" target="_blank">Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-15 13:35</span>
             </div>
         </div>
 <div class="story">
@@ -85,20 +96,20 @@
                 <span class="time">2026-08-15 10:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/15/nx-s1-5930423/strength-exercises-to-relieve-prevent-pregnancy-pain" target="_blank">5 exercises that can prevent (and relieve!) pregnancy pain</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-15 09:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/" target="_blank">Every fusion startup that has raised over $100M</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-15 13:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,20 +155,20 @@
                 <span class="time">2026-08-15 05:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/" target="_blank">Talks to sell PayPal to Stripe and Advent are heating up</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-14 22:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/bonzai2carn/how-to-ship-a-vs-code-extension-that-wraps-an-existing-web-tool-3jda" target="_blank">How to Ship a VS Code Extension That Wraps an Existing Web Tool</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-15 15:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,15 +214,6 @@
                 <span class="time">2026-08-15 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Presentation: From Models to Agents: Building Context-Aware Consumer AI at Scale at DoorDash" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/ai-agentic-recommendations-semantic-ids/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: From Models to Agents: Building Context-Aware Consumer AI at Scale at DoorDash</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-15 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/simposn-.jpg" alt="Simpsons Creator Says GTA-Like Hit &amp; Run Game Is Coming Back, Maybe" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/simpsons-creator-says-gta-like-hit-run-game-is-coming-back-maybe-2000724708" target="_blank">Simpsons Creator Says GTA-Like Hit &amp; Run Game Is Coming Back, Maybe</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-15 14:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/doom-1280x720.jpg" alt="New Avengers: Doomsday Trailer Is Best Look At RDJ’s Doom Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +296,6 @@
                 <span class="time">2026-08-14 20:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/shutterstock_109024046-e1759854251489.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Russia to test AI models for traditional spiritual and moral values" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/14/russia-to-test-ai-models-for-traditional-spiritual-and-moral-values.html" target="_blank">Russia to test AI models for traditional spiritual and moral values</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-14 18:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 96 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 14:11 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 90 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 15:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
