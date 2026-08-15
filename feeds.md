@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-08-15 10:10:44 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-15 11:08:50 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 27 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, August 15, 2026 - 10:10 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, August 15, 2026 - 11:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/8/15/world-cup-winner-ferran-torres-joins-paris-saint-germain-from-barcelona?traffic_source=rss" target="_blank">World Cup winner Ferran Torres joins Paris Saint-Germain from Barcelona</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-15 10:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/15/nx-s1-5928322/ice-detained-a-venezuelan-soccer-pro-his-case-shows-the-immigration-backlog-crisis" target="_blank">ICE detained a Venezuelan soccer pro. His case shows the immigration backlog crisis</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-15 10:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +96,20 @@
                 <span class="time">2026-08-15 07:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/8/15/arteta-assures-arsenal-fans-over-contract-ahead-of-man-city-clash?traffic_source=rss" target="_blank">Arteta assures Arsenal fans over contract before Man City clash</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-15 07:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbf0/live/97cf9550-9877-11f1-a7ab-8b30adf0800a.jpg" alt="At least 14 dead after 7.7-magnitude earthquake strikes Indonesia" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss" target="_blank">At least 14 dead after 7.7-magnitude earthquake strikes Indonesia</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-15 07:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a7c1ff5b6f093068a6a7f95/master/pass/PUFF_CHAINS.jpg" alt="This Beautifully Weird Necklace Is Secretly a USB Drive" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/this-beautifully-weird-necklace-is-secretly-a-usb-drive/" target="_blank">This Beautifully Weird Necklace Is Secretly a USB Drive</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-15 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a7f62de9dba743672684be2/master/pass/GettyImages-1305224058-edited.jpg" alt="Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,20 +155,20 @@
                 <span class="time">2026-08-14 20:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/" target="_blank">Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-14 19:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/viral1998/building-kisanvani-kisaan-vaannii-an-ultra-low-latency-multilingual-voice-agent-for-indian-aoi" target="_blank">Building KisanVani (किसान वाणी): An Ultra-Low-Latency Multilingual Voice Agent for Indian Agriculture with Murf Falcon &amp; LiveKit</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-15 11:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +212,6 @@
                 <span class="title"><a href="https://dev.to/lumorakids/the-value-was-in-nine-places-and-one-enum-and-the-enum-was-the-only-one-that-ran-5ck9" target="_blank">The value was in nine places and one enum, and the enum was the only one that ran</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-15 05:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://conic.al/writing/the-other-sean-byrne-doesnt-exist/" target="_blank">The other Sean Byrne doesn&#x27;t exist</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-15 04:18</span>
             </div>
         </div>
 </div>
@@ -337,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 102 | 📡 Total Sources: 40 | 📸 With Images: 254 |
-        🔄 Last Updated: 10:10 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 98 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 11:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
