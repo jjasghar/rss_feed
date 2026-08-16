@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-08-16 19:12:03 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-08-16 20:08:36 UTC -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Sunday, August 16, 2026 - 19:12 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Sunday, August 16, 2026 - 20:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b3a/live/65ee2c30-99a4-11f1-a10a-71ff76b28954.jpg" alt="Trump envoy Kushner meets Hamas leader to push Gaza peace plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss" target="_blank">Trump envoy Kushner meets Hamas leader to push Gaza peace plan</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-16 19:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +100,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss" target="_blank">Russia says at least seven killed in largest Ukrainian attack of 2026</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-08-16 15:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/16/g-s1-138926/lala-tropical-storm-hawaii-hurricane" target="_blank">Lala is again a tropical storm, sending drenching rain and winds across Hawaii</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-16 15:47</span>
             </div>
         </div>
 </div>
@@ -166,6 +167,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/suyash_dhakal/same-request-sent-twice-how-idempotency-prevents-duplicate-payments-3g8i" target="_blank">Same Request Sent Twice: How Idempotency Prevents Duplicate Payments</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-16 19:51</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu1ugzlvlghk6ej6q6c5n.png" alt="PawArt | Letting a Dog Help Create Its Own Portrait" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -210,15 +220,6 @@
                 <span class="time">2026-08-16 15:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Debian-33-Birthday" target="_blank">Debian Marks 33rd Birthday As One Of The Oldest Maintained Linux Distros</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-16 14:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -260,15 +261,6 @@
                 <span class="time">2026-08-15 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/Teenage-Sex-and-Death-at-Camp-Miasma-courtesy-of-MUBI-1280x720.jpg" alt="Teenage Sex and Death at Camp Miasma Wants To Have Its Cake And Splatter It Too" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/teenage-sex-and-death-at-camp-miasma-wants-to-have-its-cake-and-splatter-it-too-2000724725" target="_blank">Teenage Sex and Death at Camp Miasma Wants To Have Its Cake And Splatter It Too</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-15 19:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -288,8 +280,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 70 | 📡 Total Sources: 39 | 📸 With Images: 247 |
-        🔄 Last Updated: 19:12 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 68 | 📡 Total Sources: 39 | 📸 With Images: 245 |
+        🔄 Last Updated: 20:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
