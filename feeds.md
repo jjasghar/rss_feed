@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-08-16 07:21:30 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-08-16 08:15:01 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 25 feeds processed -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, August 16, 2026 - 07:21 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, August 16, 2026 - 08:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -166,6 +170,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dc_c2ad9d5e16/why-your-csv-diff-tool-is-lying-to-you-and-how-to-fix-it-24jm" target="_blank">Why your CSV diff tool is lying to you (and how to fix it)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-16 08:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/08/aws-dogwood-agent-policy/en/headerimage/generatedHeaderImage-1786602838111.jpg" alt="AWS Open-Sources Dogwood, Extending Cedar to Govern Sequences of Agent Tool Calls" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/08/aws-dogwood-agent-policy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Open-Sources Dogwood, Extending Cedar to Govern Sequences of Agent Tool Calls</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-16 07:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ninomaedev/why-your-app-tracking-transparency-prompt-doesnt-show-up-and-how-it-got-my-app-rejected-oob" target="_blank">Why your App Tracking Transparency prompt doesn&#x27;t show up (and how it got my app rejected)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-16 06:12</span>
@@ -196,24 +218,6 @@
                 <span class="title"><a href="https://dev.to/jenlooper/kitchen-sune-a-community-cookbook-5fea" target="_blank">Kitchen-Sune: A Community Cookbook</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-16 03:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/RADV-ACO-19-More-Patches-Valve" target="_blank">Marek Olšák&#x27;s 19 Latest Patches Further Optimizing RADV &amp; ACO</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-16 00:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/k501is/qh256-and-the-k501-information-space-evolutionary-reference-definition-v20-11il" target="_blank">QH256 and the K501 Information Space - Evolutionary Reference Definition v2.0</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-15 22:02</span>
             </div>
         </div>
 </div>
@@ -294,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 07:21 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 08:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
