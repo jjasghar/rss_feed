@@ -1,40 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-08-16 18:12:08 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-16 19:12:03 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 31 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Sunday, August 16, 2026 - 18:12 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Sunday, August 16, 2026 - 19:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/16/g-s1-138941/tommy-john-elbow-surgery-baseball-pitcher-yankees-dodgers" target="_blank">Tommy John, namesake for a pioneering elbow surgery that saved his career, dies at 83</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-16 18:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,15 +99,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/08/16/g-s1-138926/lala-tropical-storm-hawaii-hurricane" target="_blank">Lala is again a tropical storm, sending drenching rain and winds across Hawaii</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-08-16 15:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1786888042514_mtp_clip_blancheelex_260816_S3_1920x1080-tbhqsa.jpg" alt="Attorney General Todd Blanche says the DOJ may take states’ voter-roll fight to Supreme Court" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/attorney-general-todd-blanche-says-the-doj-may-take-states-voter-roll-fight-to-supreme-court-268371525962" target="_blank">Attorney General Todd Blanche says the DOJ may take states’ voter-roll fight to Supreme Court</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-16 13:47</span>
             </div>
         </div>
 </div>
@@ -180,6 +177,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://rvembedded.com/blog_post/12/" target="_blank">A 3rd World Embedded Engineer Responds to &quot;RISC-V They Should Have Known Better&quot;</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-16 17:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-x86-urgent-tlbi" target="_blank">tlbi=  Boot Option Submitted Ahead Of Linux 7.2 Kernel Release</a></span>
                 <span class="feed">Phoronix</span>
@@ -213,15 +219,6 @@
                 <span class="time">2026-08-16 14:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://platform.claude.com/docs/en/release-notes/system-prompts" target="_blank">Claude: System Prompts</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-16 12:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -234,6 +231,15 @@
                 <span class="title"><a href="https://kotaku.com/now-it-will-be-sonic-who-gets-to-have-a-gun-in-latest-fortnite-update-2000724774" target="_blank">Now It Will Be Sonic Who Gets To Have A Gun In Latest Fortnite Update</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-08-16 17:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/PDF-Reader-Pro-Premium-License-For-Mac.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Control your PDFs, don&#x27;t let them control you — even on Mac" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/16/control-your-pdfs-dont-let-them-control-you-even-on-mac.html" target="_blank">Control your PDFs, don&#x27;t let them control you — even on Mac</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-16 15:00</span>
             </div>
         </div>
 <div class="story">
@@ -263,15 +269,6 @@
                 <span class="time">2026-08-15 19:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/computerspace-1280x857.jpg" alt="Rare Two-Player Version Of First Arcade Game Up For Auction From Shiny Entertainment Founder" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/rare-two-player-version-of-first-arcade-game-up-for-auction-from-shiny-entertainment-founder-2000724719" target="_blank">Rare Two-Player Version Of First Arcade Game Up For Auction From Shiny Entertainment Founder</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-15 18:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -291,8 +288,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 72 | 📡 Total Sources: 39 | 📸 With Images: 248 |
-        🔄 Last Updated: 18:12 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 70 | 📡 Total Sources: 39 | 📸 With Images: 247 |
+        🔄 Last Updated: 19:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
