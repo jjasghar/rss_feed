@@ -1,43 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-08-16 17:09:56 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-16 18:12:08 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 35 feeds processed -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Sunday, August 16, 2026 - 17:10 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Sunday, August 16, 2026 - 18:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/16/former-israeli-captive-asks-ben-gvir-to-let-him-execute-palestinian-prisone?traffic_source=rss" target="_blank">Former Israeli captive asks Ben-Gvir to let him execute Palestinian prisone</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-16 17:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -98,20 +104,20 @@
                 <span class="time">2026-08-16 13:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/uss-lincoln-launch-20260816-rt-jh_1786884601736_hpMain_4x3t_384.jpg" alt="Gallego blames Trump administration for Lincoln conditions: &#x27;True lack of leadership&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/gallego-blames-trump-administration-uss-lincoln-conditions-true/story?id=135685345" target="_blank">Gallego blames Trump administration for Lincoln conditions: &#x27;True lack of leadership&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-16 13:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions" target="_blank">Amazon is trying to crush class-action suits before they get started</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-16 17:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -157,20 +163,20 @@
                 <span class="time">2026-08-16 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285809260-1-500x500.jpg" alt="Wildfire smoke now bigger prenatal threat than human sources of air pollution" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/" target="_blank">Wildfire smoke now bigger prenatal threat than human sources of air pollution</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-16 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu1ugzlvlghk6ej6q6c5n.png" alt="PawArt | Letting a Dog Help Create Its Own Portrait" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mirshah12/pawart-letting-a-dog-help-create-its-own-portrait-18j3" target="_blank">PawArt | Letting a Dog Help Create Its Own Portrait</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-16 18:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -216,20 +222,20 @@
                 <span class="time">2026-08-16 12:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AVX-512-xor-gen-v4" target="_blank">AVX-512 xor_gen Continues To Look Exciting For Helping Linux RAID With Modern CPUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-16 10:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/sonicfortnite-1280x718.jpg" alt="Now It Will Be Sonic Who Gets To Have A Gun In Latest Fortnite Update" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/now-it-will-be-sonic-who-gets-to-have-a-gun-in-latest-fortnite-update-2000724774" target="_blank">Now It Will Be Sonic Who Gets To Have A Gun In Latest Fortnite Update</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-16 17:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/rideshare-2-1280x809.jpg" alt="Saber CEO Apologizes To Lead Writer Replaced With ChatGPT After Weeklong Crashout" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,8 +291,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 72 | 📡 Total Sources: 39 | 📸 With Images: 248 |
-        🔄 Last Updated: 17:10 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 72 | 📡 Total Sources: 39 | 📸 With Images: 248 |
+        🔄 Last Updated: 18:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
