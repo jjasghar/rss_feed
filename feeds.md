@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-08-16 15:09:37 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-08-16 16:10:32 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, August 16, 2026 - 15:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, August 16, 2026 - 16:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +43,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f78/live/bd896330-997f-11f1-a7ab-8b30adf0800a.jpg" alt="Russia says at least seven killed in largest Ukrainian attack of 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss" target="_blank">Russia says at least seven killed in largest Ukrainian attack of 2026</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-16 15:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/16/g-s1-138926/lala-tropical-storm-hawaii-hurricane" target="_blank">Lala is again a tropical storm, sending drenching rain and winds across Hawaii</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-16 15:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1786888042514_mtp_clip_blancheelex_260816_S3_1920x1080-tbhqsa.jpg" alt="Attorney General Todd Blanche says the DOJ may take states’ voter-roll fight to Supreme Court" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/attorney-general-todd-blanche-says-the-doj-may-take-states-voter-roll-fight-to-supreme-court-268371525962" target="_blank">Attorney General Todd Blanche says the DOJ may take states’ voter-roll fight to Supreme Court</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-16 13:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/uss-lincoln-launch-20260816-rt-jh_1786884601736_hpMain_4x3t_384.jpg" alt="Gallego blames Trump administration for Lincoln conditions: &#x27;True lack of leadership&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/gallego-blames-trump-administration-uss-lincoln-conditions-true/story?id=135685345" target="_blank">Gallego blames Trump administration for Lincoln conditions: &#x27;True lack of leadership&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-16 13:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -66,47 +97,20 @@
                 <span class="time">2026-08-16 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c54/live/e957d010-9947-11f1-b2ab-0dd01740f9f6.jpg" alt="Five killed as Russia launches fresh aerial attacks across Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss" target="_blank">Five killed as Russia launches fresh aerial attacks across Ukraine</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-16 10:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia" target="_blank">Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-16 10:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/embed-big-island_1786873336192_hpMain_2_4x3t_384.jpg" alt="Hurricane Lala closes in on Hawaii bringing heavy rain, wind" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/tropical-storm-lala-forecast-impact-hawaiian-islands-weekend/story?id=135610026" target="_blank">Hurricane Lala closes in on Hawaii bringing heavy rain, wind</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-16 09:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5de8/live/5f9d3050-994b-11f1-8f52-c9b39dabc99d.jpg" alt="People who fled Stourbridge fires start to return home" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss" target="_blank">People who fled Stourbridge fires start to return home</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-16 09:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/" target="_blank">TechCrunch Mobility: The shifting flight path of electric air taxis</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-16 16:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,15 +154,6 @@
                 <span class="title"><a href="https://www.wired.com/story/inside-experimental-traps-scientists-set-for-neutrinos/" target="_blank">Inside the Experimental Traps Scientists Set for Ghostly Neutrinos</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-08-16 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/980448/polaroid-go-second-generation-film-pack-bundle-deal-sale" target="_blank">Polaroid’s tiny instant camera is $72 and includes a free pack of film</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-16 03:00</span>
             </div>
         </div>
 </div>
@@ -270,36 +265,13 @@
                 <span class="time">2026-08-15 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/kingdomheartsseries.jpg" alt="Tetsuya Nomura Says ‘Let Your Imaginations Run Wild’ On Kingdom Hearts Animated Series, So I Will" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/tetsuya-nomura-says-let-your-imaginations-run-wild-on-kingdom-hearts-animated-series-so-i-will-2000724711" target="_blank">Tetsuya Nomura Says ‘Let Your Imaginations Run Wild’ On Kingdom Hearts Animated Series, So I Will</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-15 16:05</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section webcomics-section" id="webcomics">
-<h2 class="section-header">🎨 Daily Comics</h2>
-<div class="stories-container">
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1786761424-20260815.png" alt="Saturday Morning Breakfast Cereal - R" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/r" target="_blank">Saturday Morning Breakfast Cereal - R</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-08-15 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 68 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 15:09 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 68 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 16:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
