@@ -1,33 +1,22 @@
-<!-- Processing 54 RSS feeds at 2026-08-16 02:13:40 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-16 03:37:51 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Generated 2 new posts out of 14 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Sunday, August 16, 2026 - 02:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, August 16, 2026 - 03:37 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -162,6 +151,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdhbk0ha2788ov0jgddlu.png" alt="Kitchen-Sune: A Community Cookbook" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jenlooper/kitchen-sune-a-community-cookbook-5fea" target="_blank">Kitchen-Sune: A Community Cookbook</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-16 03:35</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -206,20 +204,20 @@
                 <span class="time">2026-08-15 15:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432" target="_blank">Semaglutide linked to 26% lower 5-year predicted dementia risk</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-15 15:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/rideshare-2-1280x809.jpg" alt="Saber CEO Apologizes To Lead Writer Replaced With ChatGPT After Weeklong Crashout" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/saber-ceo-apologizes-to-lead-writer-replaced-with-chatgpt-after-weeklong-crashout-2000724730" target="_blank">Saber CEO Apologizes To Lead Writer Replaced With ChatGPT After Weeklong Crashout</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-15 23:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/Lenovo-11.6-Chromebook-100E-Gen-2.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Lock in this back-to-school season with a Grade A refurbished Chromebook for only $55" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,15 +263,6 @@
                 <span class="time">2026-08-15 16:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/Prompting-Systems.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Elevate your prompt game with Prompting Systems for $29.99" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/15/elevate-your-prompt-game-with-prompting-systems-for-29-99.html" target="_blank">Elevate your prompt game with Prompting Systems for $29.99</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-15 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -293,8 +282,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 02:13 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 03:37 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
