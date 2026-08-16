@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-08-16 12:15:10 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-16 13:22:23 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 27 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, August 16, 2026 - 12:15 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Sunday, August 16, 2026 - 13:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/16/nx-s1-5932491/transgender-health-care-medicaid-trump-oz" target="_blank">As Trump blocks Medicaid funds, one trans teen&#x27;s mom asks: What&#x27;s next?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-16 11:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +95,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss" target="_blank">People who fled Stourbridge fires start to return home</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-08-16 09:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/16/nx-s1-5929441/npr-senior-podcast-challenge-official-rules" target="_blank">NPR Senior Podcast Challenge: Official Rules</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-16 09:00</span>
             </div>
         </div>
 </div>
@@ -166,6 +164,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AVX-512-xor-gen-v4" target="_blank">AVX-512 xor_gen Continues To Look Exciting For Helping Linux RAID With Modern CPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-16 10:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/maneesh_thakur_d16c2852fa/slow-turn-nine-birds-one-fire-and-twenty-minutes-of-waiting-1k17" target="_blank">Slow Turn — nine birds, one fire, and twenty minutes of waiting</a></span>
                 <span class="feed">DEV Community</span>
@@ -206,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/ninomaedev/why-your-app-tracking-transparency-prompt-doesnt-show-up-and-how-it-got-my-app-rejected-oob" target="_blank">Why your App Tracking Transparency prompt doesn&#x27;t show up (and how it got my app rejected)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-16 06:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="How PGSimCity Turns PostgreSQL Complexity Into a Virtual City 3D Simulation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/08/pgsimcity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How PGSimCity Turns PostgreSQL Complexity Into a Virtual City 3D Simulation</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-16 05:05</span>
             </div>
         </div>
 </div>
@@ -295,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 40 | 📸 With Images: 254 |
-        🔄 Last Updated: 12:15 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 13:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
