@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-08-16 08:15:01 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-08-16 09:15:52 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Sunday, August 16, 2026 - 08:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Sunday, August 16, 2026 - 09:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5de8/live/5f9d3050-994b-11f1-8f52-c9b39dabc99d.jpg" alt="People who fled Stourbridge fires start to return home" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss" target="_blank">People who fled Stourbridge fires start to return home</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-16 09:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/16/nx-s1-5928398/endangered-sea-stars-release-pacific-ocean" target="_blank">Billions of sea stars have died. A Northwest tribe is trying to save the species</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-16 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +100,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/8/16/iran-war-live-talks-on-hormuz-strait-continue-israel-kills-11-in-lebanon?traffic_source=rss" target="_blank">Iran war live: Talks on Hormuz Strait continue; Israel kills 11 in Lebanon</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-16 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1786835762123_wnn_mch_lala_threatens_hawaii_260815_S3_1920x1080-ybr8vc.jpg" alt="Hawaii braces for impact from Lala" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/hawaii-braces-for-impact-from-lala-268363333565" target="_blank">Hawaii braces for impact from Lala</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-15 23:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1786835555667_qnn_mch_lala_threatens_hawaii_260815_S3_1920x1080-h4lnsd.jpg" alt="Hawaii braces for impact from Lala" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/hawaii-braces-for-impact-from-lala-268362309511" target="_blank">Hawaii braces for impact from Lala</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-15 23:06</span>
             </div>
         </div>
 </div>
@@ -170,6 +170,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/amitfeldman/i-re-scanned-the-launches-i-flagged-last-week-heres-who-actually-shipped-the-fixes-514k" target="_blank">I re-scanned the launches I flagged last week — here&#x27;s who actually shipped the fixes</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-16 09:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/dc_c2ad9d5e16/why-your-csv-diff-tool-is-lying-to-you-and-how-to-fix-it-24jm" target="_blank">Why your CSV diff tool is lying to you (and how to fix it)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-16 08:01</span>
@@ -209,15 +218,6 @@
                 <span class="title"><a href="https://snarky.ca/whats-missing-to-have-reproducible-builds-on-pypi/" target="_blank">What&#x27;s missing to have reproducible builds on PyPI</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2026-08-16 03:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdhbk0ha2788ov0jgddlu.png" alt="Kitchen-Sune: A Community Cookbook" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jenlooper/kitchen-sune-a-community-cookbook-5fea" target="_blank">Kitchen-Sune: A Community Cookbook</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-16 03:35</span>
             </div>
         </div>
 </div>
@@ -298,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 08:15 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 09:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
