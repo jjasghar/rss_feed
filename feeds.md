@@ -1,40 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-08-16 10:11:29 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-08-16 11:09:39 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 31 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Sunday, August 16, 2026 - 10:11 UTC</div>
+    <div class="newspaper-date">Sunday, August 16, 2026 - 11:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2026/8/16/arsenal-vs-manchester-city-live-fa-community-shield?traffic_source=rss" target="_blank">Arsenal vs Manchester City LIVE: FA Community Shield</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-16 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia" target="_blank">Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-16 10:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/embed-big-island_1786873336192_hpMain_2_4x3t_384.jpg" alt="Hurricane Lala closes in on Hawaii bringing heavy rain, wind" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,29 +97,20 @@
                 <span class="time">2026-08-16 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss" target="_blank">Russian strikes kill Ukrainian woman as NATO jet downs drone over Romania</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-16 04:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/16/who-killed-tupac-what-to-know-about-the-trial-of-duane-keffe-d-davis?traffic_source=rss" target="_blank">Who killed Tupac? What to know about the trial of Duane ‘Keffe D’ Davis</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-16 03:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a7fe9a3cf7e32811238974b/master/pass/Samsung-Galaxy-Z-Fold8-Ultra-(left)-and-Z-Fold8-(right)-SOURCE-Julian-Chokkattu.jpg" alt="Samsung Galaxy Z Fold8 and Galaxy Z Fold8 Ultra Review: The Right Shape" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/samsung-galaxy-z-fold8-and-z-fold8-ultra/" target="_blank">Samsung Galaxy Z Fold8 and Galaxy Z Fold8 Ultra Review: The Right Shape</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-16 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285809260-1-500x500.jpg" alt="Wildfire smoke now bigger prenatal threat than human sources of air pollution" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,15 +154,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/" target="_blank">Woman claims her stepfather used Grok to transform childhood photo into explicit imagery</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-08-15 21:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/visionquest2-500x500-1786802484.jpg" alt="VisionQuest trailer kicks off Disney&#x27;s D23 fan event" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/" target="_blank">VisionQuest trailer kicks off Disney&#x27;s D23 fan event</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-15 21:21</span>
             </div>
         </div>
 </div>
@@ -300,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 40 | 📸 With Images: 255 |
-        🔄 Last Updated: 10:11 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 40 | 📸 With Images: 255 |
+        🔄 Last Updated: 11:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
