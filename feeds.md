@@ -1,32 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-08-16 00:35:19 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-08-16 02:13:40 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Sunday, August 16, 2026 - 00:35 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Sunday, August 16, 2026 - 02:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -88,12 +89,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/US/ts-lala-ht-gmh-260814_1786731118248_hpMain_4x3t_384.jpg" alt="Lala becomes hurricane as it approaches Hawaii" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/tropical-storm-lala-forecast-impact-hawaiian-islands-weekend/story?id=135610026" target="_blank">Lala becomes hurricane as it approaches Hawaii</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-15 21:07</span>
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/15/nx-s1-5918065/are-robotaxis-finally-here" target="_blank">Are robotaxis finally here?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-15 21:30</span>
             </div>
         </div>
 </div>
@@ -163,6 +164,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/RADV-ACO-19-More-Patches-Valve" target="_blank">Marek Olšák&#x27;s 19 Latest Patches Further Optimizing RADV &amp; ACO</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-16 00:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/k501is/qh256-and-the-k501-information-space-evolutionary-reference-definition-v20-11il" target="_blank">QH256 and the K501 Information Space - Evolutionary Reference Definition v2.0</a></span>
                 <span class="feed">DEV Community</span>
@@ -203,15 +213,6 @@
                 <span class="title"><a href="https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432" target="_blank">Semaglutide linked to 26% lower 5-year predicted dementia risk</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-08-15 15:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bonzai2carn/how-to-ship-a-vs-code-extension-that-wraps-an-existing-web-tool-3jda" target="_blank">How to Ship a VS Code Extension That Wraps an Existing Web Tool</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-15 15:03</span>
             </div>
         </div>
 </div>
@@ -292,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 00:35 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 02:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
