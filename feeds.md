@@ -1,33 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-08-16 16:10:32 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-16 17:09:56 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, August 16, 2026 - 16:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Sunday, August 16, 2026 - 17:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +53,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/16/nx-s1-5933052/sicily-art-heist-museum-parma" target="_blank">A good – and bad – week for Italy&#x27;s art police and museum security</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-16 16:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/8/16/arsenal-cruise-to-3-0-win-over-manchester-city-in-community-shield?traffic_source=rss" target="_blank">Arsenal cruise to 3-0 win over Manchester City in Community Shield</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-16 16:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f78/live/bd896330-997f-11f1-a7ab-8b30adf0800a.jpg" alt="Russia says at least seven killed in largest Ukrainian attack of 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,29 +107,20 @@
                 <span class="time">2026-08-16 13:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/16/nx-s1-5932491/transgender-health-care-medicaid-trump-oz" target="_blank">As Trump blocks Medicaid funds, one trans teen&#x27;s mom asks: What&#x27;s next?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-16 11:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2026/8/16/arsenal-vs-manchester-city-live-fa-community-shield?traffic_source=rss" target="_blank">Arsenal vs Manchester City LIVE: FA Community Shield</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-16 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/" target="_blank">Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-16 16:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +166,29 @@
                 <span class="time">2026-08-16 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a7f5742e58619d89d48cc8a/master/pass/Super-Kaminokande-cr-Kamioka-Observatory,-ICRR-(Institute-for-Cosmic-Ray-Research),-The-University-of-Tokyo.jpg" alt="Inside the Experimental Traps Scientists Set for Ghostly Neutrinos" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/inside-experimental-traps-scientists-set-for-neutrinos/" target="_blank">Inside the Experimental Traps Scientists Set for Ghostly Neutrinos</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-16 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-x86-urgent-tlbi" target="_blank">tlbi=  Boot Option Submitted Ahead Of Linux 7.2 Kernel Release</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-16 17:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/asepsayyad007/5-things-i-check-first-when-a-linux-server-goes-down-3e0i" target="_blank">5 Things I Check First When a Linux Server Goes Down</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-16 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftook67rvnmh4dxp69zrh.jpeg" alt="Building Resilient Background Jobs in NestJS with BullMQ" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -195,24 +223,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/AVX-512-xor-gen-v4" target="_blank">AVX-512 xor_gen Continues To Look Exciting For Helping Linux RAID With Modern CPUs</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-08-16 10:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/maneesh_thakur_d16c2852fa/slow-turn-nine-birds-one-fire-and-twenty-minutes-of-waiting-1k17" target="_blank">Slow Turn — nine birds, one fire, and twenty minutes of waiting</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-16 10:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/amitfeldman/i-re-scanned-the-launches-i-flagged-last-week-heres-who-actually-shipped-the-fixes-514k" target="_blank">I re-scanned the launches I flagged last week — here&#x27;s who actually shipped the fixes</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-16 09:05</span>
             </div>
         </div>
 </div>
@@ -256,13 +266,18 @@
                 <span class="time">2026-08-15 18:13</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section webcomics-section" id="webcomics">
+<h2 class="section-header">🎨 Daily Comics</h2>
+<div class="stories-container">
 <div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/trustcaitsith.jpg" alt="Former Square Enix Exec Believes Disc-Free PlayStation Will Drive Game Prices Down" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1786761474-20260816.png" alt="Saturday Morning Breakfast Cereal - Gathered" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/former-square-enix-exec-believes-disc-free-playstation-will-drive-game-prices-down-2000724716" target="_blank">Former Square Enix Exec Believes Disc-Free PlayStation Will Drive Game Prices Down</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-15 17:00</span>
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/gathered" target="_blank">Saturday Morning Breakfast Cereal - Gathered</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-08-16 15:20</span>
             </div>
         </div>
 </div>
@@ -270,8 +285,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 68 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 16:10 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 72 | 📡 Total Sources: 39 | 📸 With Images: 248 |
+        🔄 Last Updated: 17:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
