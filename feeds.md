@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-08-17 12:18:48 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-08-17 13:30:50 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Monday, August 17, 2026 - 12:18 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Monday, August 17, 2026 - 13:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -76,6 +74,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history" target="_blank">Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-08-17 08:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/8/17/scottie-scheffler-wins-st-jude-championship-by-eight-shots?traffic_source=rss" target="_blank">Scottie Scheffler wins St Jude Championship by eight shots</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
@@ -91,20 +98,20 @@
                 <span class="time">2026-08-17 08:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/8/17/rodri-headed-to-barcelona-after-man-city-accepts-transfer-bid?traffic_source=rss" target="_blank">Rodri headed to Barcelona after Man City accepts transfer bid</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-17 06:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/17/uber-adds-zipline-drones-to-its-eats-delivery-network/" target="_blank">Uber adds Zipline drones to its Eats delivery network</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-17 13:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69d56addb288ac3ffa89fae2/master/pass/The-Best-Budget-Laptops-to-Get-Your-Money%E2%80%99s-Worth.jpg" alt="7 Best Cheap Laptops to Buy in 2026 (and Some to Avoid)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -121,6 +128,15 @@
                 <span class="title"><a href="https://www.wired.com/review/cookunity-prepared-meal-delivery-2026/" target="_blank">CookUnity Prepared Meal Delivery Review (2026): Chef-Centric Meals</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-08-17 11:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2015/05/1st-Dragon-Flight-12-10-500x500.jpg" alt="Satellite operators are in panic mode due to a worsening launch crisis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/08/theres-a-huge-launch-crunch-right-now-and-it-will-probably-get-worse/" target="_blank">Satellite operators are in panic mode due to a worsening launch crisis</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-17 11:00</span>
             </div>
         </div>
 <div class="story">
@@ -141,24 +157,6 @@
                 <span class="time">2026-08-17 07:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team" target="_blank">OpenAI reportedly disbanded its preparedness team</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-16 21:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/" target="_blank">Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-16 20:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,6 +169,24 @@
                 <span class="title"><a href="https://dev.to/mbilalkhan192003/two-ways-to-write-an-article-in-2026-and-why-the-best-ones-use-both-5mb" target="_blank">Two Ways to Write an Article in 2026 (And Why the Best Ones Use Both)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-17 12:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.roboflow.com/openai-gpt-5-6/" target="_blank">GPT 5.6 Sol is the best &quot;vision&quot; model OpenAI ever released</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-17 12:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17421495/terminal-multiplexers" target="_blank">Looking Beyond Tmux and Screen: 8 Terminal Multiplexers Worth Trying</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-08-17 11:10</span>
             </div>
         </div>
 <div class="story">
@@ -200,24 +216,6 @@
                 <span class="time">2026-08-17 09:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aiq_labs/i-spent-11-days-optimizing-a-search-ranking-that-only-i-could-see-4g28" target="_blank">I spent 11 days optimizing a search ranking that only I could see</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-17 06:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/unmannedops/your-agents-not-done-lies-as-often-as-its-done-1ea2" target="_blank">Your agent&#x27;s &quot;not done&quot; lies as often as its &quot;done&quot;</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-17 05:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/kairi-1280x710.jpg" alt="Kingdom Hearts Fans Watched History This Weekend, And Now It’s Taken On A More Tragic Poignance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/kingdom-hearts-d23-sora-riku-hayden-panettiere-kairi-death-2000724967" target="_blank">Kingdom Hearts Fans Watched History This Weekend, And Now It’s Taken On A More Tragic Poignance</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-17 13:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M07BF4HPE379KC4WTGG5H5E3/hero-image.jpg" alt="This Solid Midrange Samsung Galaxy Is $100 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-a57-5g-sale-august-2026?utm_medium=RSS" target="_blank">This Solid Midrange Samsung Galaxy Is $100 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-17 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/hayden-1280x720.jpg" alt="Until Dawn And Kingdom Hearts Star Hayden Panettiere Has Died At 36" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,15 +287,6 @@
                 <span class="title"><a href="https://kotaku.com/now-it-will-be-sonic-who-gets-to-have-a-gun-in-latest-fortnite-update-2000724774" target="_blank">Now It Will Be Sonic Who Gets To Have A Gun In Latest Fortnite Update</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-08-16 17:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/PDF-Reader-Pro-Premium-License-For-Mac.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Control your PDFs, don&#x27;t let them control you — even on Mac" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/16/control-your-pdfs-dont-let-them-control-you-even-on-mac.html" target="_blank">Control your PDFs, don&#x27;t let them control you — even on Mac</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-16 15:00</span>
             </div>
         </div>
 </div>
@@ -319,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 75 | 📡 Total Sources: 40 | 📸 With Images: 243 |
-        🔄 Last Updated: 12:18 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 82 | 📡 Total Sources: 40 | 📸 With Images: 244 |
+        🔄 Last Updated: 13:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
