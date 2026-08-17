@@ -1,33 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-08-17 04:29:49 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-08-17 05:24:56 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: The Verge -->
-<!-- Processing: Hacker News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Generated 2 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, August 17, 2026 - 04:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, August 17, 2026 - 05:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c31f/live/48688550-99f6-11f1-b2ab-0dd01740f9f6.jpg" alt="Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss" target="_blank">Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-17 04:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,15 +94,6 @@
                 <span class="title"><a href="https://abcnews.com/Politics/trump-accuses-democrats-trickery-candidate-same-alaska-sen/story?id=135693218" target="_blank">Trump accuses Dems of &#x27;trickery&#x27; in Dan Sullivan vs. Dan Sullivan Alaska primary</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-08-16 23:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-08/210810-south-korea-military-mc-916-1aacff.jpg" alt="Trump orders military to ‘substantially reduce’ joint exercises with South Korea" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/trump-orders-military-substantially-reduce-joint-exercises-south-korea-rcna592832" target="_blank">Trump orders military to ‘substantially reduce’ joint exercises with South Korea</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-16 23:16</span>
             </div>
         </div>
 </div>
@@ -165,6 +164,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/unmannedops/your-agents-not-done-lies-as-often-as-its-done-1ea2" target="_blank">Your agent&#x27;s &quot;not done&quot; lies as often as its &quot;done&quot;</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-17 05:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ajaymourya/pawcss-your-dog-rebuilt-with-real-css-elements-4f1g" target="_blank">PawCSS - Your Dog, Rebuilt with Real CSS Elements</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-17 04:23</span>
@@ -204,15 +212,6 @@
                 <span class="title"><a href="https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf" target="_blank">The Life and Death of Direct File [pdf]</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-08-17 00:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://simonwillison.net/2026/Aug/16/qwen-38-27b/" target="_blank">Qwen 3.8 27B is excellent, but it defaults to overthinking things</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-16 23:45</span>
             </div>
         </div>
 </div>
@@ -284,8 +283,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 72 | 📡 Total Sources: 40 | 📸 With Images: 243 |
-        🔄 Last Updated: 04:30 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 72 | 📡 Total Sources: 40 | 📸 With Images: 244 |
+        🔄 Last Updated: 05:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
