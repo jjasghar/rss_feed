@@ -1,34 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-08-17 14:15:55 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-08-17 16:13:05 UTC -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, August 17, 2026 - 14:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, August 17, 2026 - 16:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +39,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/jean-carroll-rt-gmh-260817_1786977374435_hpMain_4x3t_384.jpg" alt="Supreme Court rejects final Trump appeal of $5 million E. Jean Carroll verdict" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/supreme-court-rejects-final-trump-appeal-5-million/story?id=135707525" target="_blank">Supreme Court rejects final Trump appeal of $5 million E. Jean Carroll verdict</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-17 15:44</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -60,6 +63,15 @@
                 <span class="title"><a href="https://www.npr.org/2026/08/17/g-s1-138973/up-first-newsletter-uss-lincoln-meta-israel-hamas-ukraine-russia" target="_blank">USS Washington to relieve USS Lincoln. And, Jared Kushner to meet with Netanyahu</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-08-17 11:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1786965043427_tdy_news_7a_patterson_panettiere_260817_S3_1920x1080-dv9y1w.jpg" alt="Hayden Panettiere, &#x27;Heroes&#x27; and &#x27;Nashville&#x27; Actor, Dies at 36" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/hayden-panettiere-heroes-and-nashville-actor-dies-at-36-268393029918" target="_blank">Hayden Panettiere, &#x27;Heroes&#x27; and &#x27;Nashville&#x27; Actor, Dies at 36</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-17 11:10</span>
             </div>
         </div>
 <div class="story">
@@ -80,29 +92,29 @@
                 <span class="time">2026-08-17 09:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history" target="_blank">Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-08-17 08:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/8/17/scottie-scheffler-wins-st-jude-championship-by-eight-shots?traffic_source=rss" target="_blank">Scottie Scheffler wins St Jude Championship by eight shots</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-17 08:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/" target="_blank">Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-17 15:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/980977/apple-app-tracking-transparency-settlement-germany" target="_blank">Apple ordered to stop scaring iPhone and iPad users away from third-party apps</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-17 15:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/war-wolf-bob-marshall-1-768x431-1-500x431.jpg" alt="Meet the only known trebuchet casualty in history" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,29 +151,20 @@
                 <span class="time">2026-08-17 11:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2015/05/1st-Dragon-Flight-12-10-500x500.jpg" alt="Satellite operators are in panic mode due to a worsening launch crisis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/08/theres-a-huge-launch-crunch-right-now-and-it-will-probably-get-worse/" target="_blank">Satellite operators are in panic mode due to a worsening launch crisis</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-17 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/970021/how-to-take-better-pet-photos" target="_blank">How to take better photos of your pets</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-17 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/" target="_blank">How canvases make agentic workflows visible, steerable, and cost-efficient</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-08-17 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +210,6 @@
                 <span class="time">2026-08-17 11:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-PowerPC-Rust" target="_blank">Linux 7.3 On PowerPC Now Supports In-Kernel Rust, Initial Power12 Enablement Begins</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-17 10:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +229,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KZC6M7EHFM95DZEJ7ND85N43/hero-image.jpg" alt="Hackers Are Screen Sharing on Macs Without Permission, but You Can Stop Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/apple-patched-screen-sharing-vulnerability-on-mac?utm_medium=RSS" target="_blank">Hackers Are Screen Sharing on Macs Without Permission, but You Can Stop Them</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-17 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/kairi-1280x710.jpg" alt="Kingdom Hearts Fans Watched History This Weekend, And Now It’s Taken On A More Tragic Poignance" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +283,6 @@
                 <span class="time">2026-08-16 20:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/sonicfortnite-1280x718.jpg" alt="Now It Will Be Sonic Who Gets To Have A Gun In Latest Fortnite Update" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/now-it-will-be-sonic-who-gets-to-have-a-gun-in-latest-fortnite-update-2000724774" target="_blank">Now It Will Be Sonic Who Gets To Have A Gun In Latest Fortnite Update</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-16 17:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -312,22 +306,13 @@
                 <span class="time">2026-08-17 01:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1786761474-20260816.png" alt="Saturday Morning Breakfast Cereal - Gathered" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/gathered" target="_blank">Saturday Morning Breakfast Cereal - Gathered</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-08-16 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 83 | 📡 Total Sources: 40 | 📸 With Images: 243 |
-        🔄 Last Updated: 14:16 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 83 | 📡 Total Sources: 40 | 📸 With Images: 244 |
+        🔄 Last Updated: 16:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
