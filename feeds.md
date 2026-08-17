@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-08-17 18:20:05 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-08-17 19:18:56 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Generated 10 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, August 17, 2026 - 18:20 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, August 17, 2026 - 19:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-breakingnews-uk_7322499.jpg?20260815151146" alt="FIFA sacks senior executive who criticised Infantino, Sky News understands" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/fifa-sacks-senior-executive-who-criticised-infantino-sky-news-understands-13574166" target="_blank">FIFA sacks senior executive who criticised Infantino, Sky News understands</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-08-17 19:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-08/260817-donald-trump-ew-234p-138cb5.jpg" alt="Trump threatens to bomb Oman if it ‘gets in the way’ of Strait of Hormuz talks with Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/trump-bomb-oman-iran-strait-hormuz-rcna592971" target="_blank">Trump threatens to bomb Oman if it ‘gets in the way’ of Strait of Hormuz talks with Iran</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-17 18:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0845/live/0d9a0730-9a52-11f1-aed2-8d6da8d75094.jpg" alt="Trump threatens to bomb US ally Oman if it &#x27;gets in the way&#x27; over Iran deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss" target="_blank">Trump threatens to bomb US ally Oman if it &#x27;gets in the way&#x27; over Iran deal</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-17 16:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/jean-carroll-rt-gmh-260817_1786977374435_hpMain_4x3t_384.jpg" alt="Supreme Court rejects final Trump appeal of $5 million E. Jean Carroll verdict" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -72,38 +102,38 @@
                 <span class="time">2026-08-17 13:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/17/g-s1-138973/up-first-newsletter-uss-lincoln-meta-israel-hamas-ukraine-russia" target="_blank">USS Washington to relieve USS Lincoln. And, Jared Kushner to meet with Netanyahu</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-17 11:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1786965043427_tdy_news_7a_patterson_panettiere_260817_S3_1920x1080-dv9y1w.jpg" alt="Hayden Panettiere, &#x27;Heroes&#x27; and &#x27;Nashville&#x27; Actor, Dies at 36" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/hayden-panettiere-heroes-and-nashville-actor-dies-at-36-268393029918" target="_blank">Hayden Panettiere, &#x27;Heroes&#x27; and &#x27;Nashville&#x27; Actor, Dies at 36</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-17 11:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/17/iraqi-kurdish-pm-barzanis-office-targeted-in-drone-attack?traffic_source=rss" target="_blank">Iraqi Kurdish PM Barzani’s office targeted in drone attack</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-17 10:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/17/higgsfield-raises-400m-series-b-quadrupling-its-valuation-in-8-months-to-5-4b/" target="_blank">Higgsfield raises $400M Series B, quadrupling its valuation in 8 months to $5.4B</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-17 19:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/981014/dartwords-clippy-word-game" target="_blank">Wordle meets Clippy in this new word game</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-17 19:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/Granary_2-PC-LP-04-3-500x500.webp" alt="Petlibro accused of “gaslighting” users over smart pet feeder outage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/08/petlibro-accused-of-gaslighting-users-over-smart-pet-feeder-outage/" target="_blank">Petlibro accused of “gaslighting” users over smart pet feeder outage</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-17 18:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-149405480-500x500.jpg" alt="Hidden Airtag reveals Amazon is trashing rare books to train AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -131,38 +161,20 @@
                 <span class="time">2026-08-17 17:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/" target="_blank">Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-17 15:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/980977/apple-app-tracking-transparency-settlement-germany" target="_blank">Apple ordered to stop scaring iPhone and iPad users away from third-party apps</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-17 15:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/0.png-500x500-1786977755.jpeg" alt="This sub-$7,000 sportscar might be just what the future needs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/08/the-opposite-of-a-hypercar-is-fun-meet-the-gasolini-ar1/" target="_blank">This sub-$7,000 sportscar might be just what the future needs</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-17 15:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flfhsvebef913x2a3ie8q.png" alt="Adding Edges Is Not a Paradigm Shift" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jeelvankhede/adding-edges-is-not-a-paradigm-shift-5135" target="_blank">Adding Edges Is Not a Paradigm Shift</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-17 19:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +220,6 @@
                 <span class="time">2026-08-17 14:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-SMP" target="_blank">Linux 7.3 SMP Improvement To Help Reduce Latency, Improve Real-Time Performance</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-17 14:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +239,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/gta6army-bonus-1280x720.jpg" alt="One Army Battalion Reportedly Offering Time Off To Play GTA 6 As Re-Enlistment Bonus" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/one-army-battalion-reportedly-offering-time-off-to-play-gta-6-as-re-enlistment-bonus-2000725062" target="_blank">One Army Battalion Reportedly Offering Time Off To Play GTA 6 As Re-Enlistment Bonus</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-17 19:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KT9MGY3HHG79FT6TBEF3Q77G/hero-image.png" alt="This Samsung Odyssey Gaming Monitor Is $150 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-odyssey-g5-gaming-monitor-sale-august-2026?utm_medium=RSS" target="_blank">This Samsung Odyssey Gaming Monitor Is $150 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-17 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/1-Antonio-s-Fiesta-de-Encanto-at-Disney-s-Animal-Kingdom-E28093-Casita-Stairway-Concept-Art-1-2.jpg?fit=1200%2C545&amp;quality=60&amp;ssl=1" alt="Disney patent for a fake-elevation ride trick matches new Encanto ride" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,24 +291,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/apple-patched-screen-sharing-vulnerability-on-mac?utm_medium=RSS" target="_blank">Hackers Are Screen Sharing on Macs Without Permission, but You Can Stop Them</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-08-17 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/kairi-1280x710.jpg" alt="Kingdom Hearts Fans Watched History This Weekend, And Now It’s Taken On A More Tragic Poignance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/kingdom-hearts-d23-sora-riku-hayden-panettiere-kairi-death-2000724967" target="_blank">Kingdom Hearts Fans Watched History This Weekend, And Now It’s Taken On A More Tragic Poignance</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-17 13:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M07BF4HPE379KC4WTGG5H5E3/hero-image.jpg" alt="This Solid Midrange Samsung Galaxy Is $100 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-a57-5g-sale-august-2026?utm_medium=RSS" target="_blank">This Solid Midrange Samsung Galaxy Is $100 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-17 13:00</span>
             </div>
         </div>
 </div>
@@ -327,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 88 | 📡 Total Sources: 40 | 📸 With Images: 246 |
-        🔄 Last Updated: 18:20 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 96 | 📡 Total Sources: 40 | 📸 With Images: 248 |
+        🔄 Last Updated: 19:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
