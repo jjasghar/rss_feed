@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-08-17 11:14:45 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-08-17 12:18:48 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, August 17, 2026 - 11:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Monday, August 17, 2026 - 12:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/17/g-s1-138973/up-first-newsletter-uss-lincoln-meta-israel-hamas-ukraine-russia" target="_blank">USS Washington to relieve USS Lincoln. And, Jared Kushner to meet with Netanyahu</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-17 11:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +100,20 @@
                 <span class="time">2026-08-17 06:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/17/g-s1-138969/trump-exercises-south-korea" target="_blank">Trump orders Pentagon to scale back joint exercises with South Korea</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-17 05:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69d56addb288ac3ffa89fae2/master/pass/The-Best-Budget-Laptops-to-Get-Your-Money%E2%80%99s-Worth.jpg" alt="7 Best Cheap Laptops to Buy in 2026 (and Some to Avoid)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-cheap-laptops/" target="_blank">7 Best Cheap Laptops to Buy in 2026 (and Some to Avoid)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-17 11:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a823658a0ec4702efa7eaf3/master/pass/Review-(2026)--CookUnity-Prepared-Delivery-Meals.jpg" alt="CookUnity Prepared Meal Delivery Review (2026): Chef-Centric Meals" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,20 +159,20 @@
                 <span class="time">2026-08-16 20:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions" target="_blank">Amazon is trying to crush class-action suits before they get started</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-16 17:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mbilalkhan192003/two-ways-to-write-an-article-in-2026-and-why-the-best-ones-use-both-5mb" target="_blank">Two Ways to Write an Article in 2026 (And Why the Best Ones Use Both)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-17 12:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/08/shadcn-conversational-primitives/en/headerimage/generatedHeaderImage-1786954054004.jpg" alt="shadcn Brings Conversational Primitives to shadcn/ui with New Chat Components" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -208,13 +218,18 @@
                 <span class="time">2026-08-17 05:16</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17420586/linux-kernel-7-2-release" target="_blank">Linux 7.2 Arrives With Cache Aware Scheduling After More Than a Year of Work</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-08-17 05:08</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/08/hacking-public-wi-fi-dns-to-steal-credentials.html" target="_blank">Hacking Public Wi-Fi DNS to Steal Credentials</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-08-17 11:18</span>
             </div>
         </div>
 </div>
@@ -304,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 73 | 📡 Total Sources: 40 | 📸 With Images: 245 |
-        🔄 Last Updated: 11:14 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 75 | 📡 Total Sources: 40 | 📸 With Images: 243 |
+        🔄 Last Updated: 12:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
