@@ -1,32 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-08-17 05:24:56 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-17 06:30:03 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, August 17, 2026 - 05:25 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, August 17, 2026 - 06:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/17/g-s1-138969/trump-exercises-south-korea" target="_blank">Trump orders Pentagon to scale back joint exercises with South Korea</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-17 05:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7df/live/52368eb0-9267-11f1-af4d-5164294a85c7.jpg" alt="Parents pushed to breaking point by Child Maintenance Service, BBC told" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&at_campaign=rss" target="_blank">Parents pushed to breaking point by Child Maintenance Service, BBC told</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-17 05:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c31f/live/48688550-99f6-11f1-b2ab-0dd01740f9f6.jpg" alt="Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,24 +103,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/8/17/ebola-outbreak-in-dr-congo-becomes-deadliest-in-countrys-history?traffic_source=rss" target="_blank">Ebola outbreak in DR Congo becomes deadliest in country’s history</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-17 01:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history" target="_blank">Ebola outbreak in Democratic Republic of Congo now deadliest in country’s history</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-08-17 00:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/dan-j-sullivan-20260816.ap.jh_1786913445169_hpMain_4x3t_384.jpg" alt="Trump accuses Dems of &#x27;trickery&#x27; in Dan Sullivan vs. Dan Sullivan Alaska primary" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-accuses-democrats-trickery-candidate-same-alaska-sen/story?id=135693218" target="_blank">Trump accuses Dems of &#x27;trickery&#x27; in Dan Sullivan vs. Dan Sullivan Alaska primary</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-16 23:52</span>
             </div>
         </div>
 </div>
@@ -164,6 +173,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aiq_labs/i-spent-11-days-optimizing-a-search-ranking-that-only-i-could-see-4g28" target="_blank">I spent 11 days optimizing a search ranking that only I could see</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-17 06:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/unmannedops/your-agents-not-done-lies-as-often-as-its-done-1ea2" target="_blank">Your agent&#x27;s &quot;not done&quot; lies as often as its &quot;done&quot;</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-17 05:16</span>
@@ -205,15 +223,6 @@
                 <span class="time">2026-08-17 00:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf" target="_blank">The Life and Death of Direct File [pdf]</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-17 00:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -226,6 +235,15 @@
                 <span class="title"><a href="https://kotaku.com/hayden-panettiere-death-until-dawn-kingdom-hearts-2000724820" target="_blank">Until Dawn And Kingdom Hearts Star Hayden Panettiere Has Died At 36</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-08-17 04:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/SwiftScan-VIP.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Scanners are basically vintage now. SwiftScan VIP is just $50." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/16/scanners-are-basically-vintage-now-swiftscan-vip-is-just-50.html" target="_blank">Scanners are basically vintage now. SwiftScan VIP is just $50.</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-16 21:00</span>
             </div>
         </div>
 <div class="story">
@@ -283,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 72 | 📡 Total Sources: 40 | 📸 With Images: 244 |
-        🔄 Last Updated: 05:25 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 40 | 📸 With Images: 246 |
+        🔄 Last Updated: 06:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
