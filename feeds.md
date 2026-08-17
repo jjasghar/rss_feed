@@ -1,40 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-08-17 17:15:30 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-17 18:20:05 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 31 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, August 17, 2026 - 17:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, August 17, 2026 - 18:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,6 +105,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-149405480-500x500.jpg" alt="Hidden Airtag reveals Amazon is trashing rare books to train AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/" target="_blank">Hidden Airtag reveals Amazon is trashing rare books to train AI</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-17 18:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/17/youtube-will-now-count-a-view-as-soon-as-a-video-starts-playing/" target="_blank">YouTube will now count a view as soon as a video starts playing</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-17 18:09</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -145,24 +158,6 @@
                 <span class="time">2026-08-17 15:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/war-wolf-bob-marshall-1-768x431-1-500x431.jpg" alt="Meet the only known trebuchet casualty in history" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/" target="_blank">Meet the only known trebuchet casualty in history</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-17 13:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/17/uber-adds-zipline-drones-to-its-eats-delivery-network/" target="_blank">Uber adds Zipline drones to its Eats delivery network</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-17 13:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,10 +166,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ssukhpinder/aspnet-core-10-authentication-metrics-distinguish-no-result-from-failure-4iga" target="_blank">ASP.NET Core 10 Authentication Metrics: Distinguish No Result from Failure</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-17 18:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/review/arctic-fan-controller" target="_blank">ARCTIC Fan Controller: The Best Fan Controller For Linux Desktops, Less Than $10 USD</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-08-17 16:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17421675/canonical-wsl-growth" target="_blank">Ubuntu is Growing Faster on Windows Than on Linux</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-08-17 16:23</span>
             </div>
         </div>
 <div class="story">
@@ -204,24 +217,6 @@
                 <span class="time">2026-08-17 14:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://duckdb.org/2026/08/17/duckdb-20-highlights" target="_blank">A Preview of DuckDB v2.0</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-17 13:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mbilalkhan192003/two-ways-to-write-an-article-in-2026-and-why-the-best-ones-use-both-5mb" target="_blank">Two Ways to Write an Article in 2026 (And Why the Best Ones Use Both)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-17 12:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/1-Antonio-s-Fiesta-de-Encanto-at-Disney-s-Animal-Kingdom-E28093-Casita-Stairway-Concept-Art-1-2.jpg?fit=1200%2C545&amp;quality=60&amp;ssl=1" alt="Disney patent for a fake-elevation ride trick matches new Encanto ride" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/17/disney-patent-for-a-fake-elevation-ride-trick-matches-new-en.html" target="_blank">Disney patent for a fake-elevation ride trick matches new Encanto ride</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-17 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01M07ZVDPH71A8HHJHDKS3AV8R/hero-image.jpg" alt="GitHub Is Down, but There&#x27;s a Fix" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +290,6 @@
                 <span class="time">2026-08-17 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/hayden-1280x720.jpg" alt="Until Dawn And Kingdom Hearts Star Hayden Panettiere Has Died At 36" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/hayden-panettiere-death-until-dawn-kingdom-hearts-2000724820" target="_blank">Until Dawn And Kingdom Hearts Star Hayden Panettiere Has Died At 36</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-17 04:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -332,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 86 | 📡 Total Sources: 40 | 📸 With Images: 248 |
-        🔄 Last Updated: 17:15 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 88 | 📡 Total Sources: 40 | 📸 With Images: 246 |
+        🔄 Last Updated: 18:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
