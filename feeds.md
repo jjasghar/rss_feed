@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-08-17 20:13:22 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-17 21:14:25 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, August 17, 2026 - 20:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, August 17, 2026 - 21:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/17/g-s1-138997/former-federal-prosecutor-sue-doj-retaliatory-firing" target="_blank">Former federal prosecutor is suing DOJ for &#x27;unlawful and retaliatory&#x27; firing</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-17 21:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +100,20 @@
                 <span class="time">2026-08-17 15:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/17/global-condemnation-of-israeli-settler-violence-against-palestinians?traffic_source=rss" target="_blank">Global condemnation of Israeli settler violence against Palestinians</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-17 14:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/IMG_1550-1-500x500.jpg" alt="The Moon&#x27;s shadow raced across the heart of Spain, and I was there to see it" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/08/the-moons-shadow-raced-across-the-heart-of-spain-and-i-was-there-to-see-it/" target="_blank">The Moon&#x27;s shadow raced across the heart of Spain, and I was there to see it</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-17 20:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/verizon-stock-ticker-500x500-1786994955.jpg" alt="Supreme Court rejects Verizon bid for $47 million refund of FCC fine" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -122,6 +135,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/981134/glorious-gmmk-3-mechanical-keyboard-deal-sale" target="_blank">This compact Glorious mechanical keyboard is just $35</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-17 19:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/08/17/higgsfield-raises-400m-series-b-quadrupling-its-valuation-in-8-months-to-5-4b/" target="_blank">Higgsfield raises $400M Series B, quadrupling its valuation in 8 months to $5.4B</a></span>
                 <span class="feed">TechCrunch</span>
@@ -137,29 +159,29 @@
                 <span class="time">2026-08-17 19:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/Granary_2-PC-LP-04-3-500x500.webp" alt="Petlibro accused of “gaslighting” users over smart pet feeder outage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/08/petlibro-accused-of-gaslighting-users-over-smart-pet-feeder-outage/" target="_blank">Petlibro accused of “gaslighting” users over smart pet feeder outage</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-17 18:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-149405480-500x500.jpg" alt="Hidden Airtag reveals Amazon is trashing rare books to train AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/" target="_blank">Hidden Airtag reveals Amazon is trashing rare books to train AI</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-17 18:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/prpatel05/the-agent-left-the-ide-39fo" target="_blank">The Agent Left the IDE</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-17 21:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/FFmpeg-Faster-HEVC-Encode" target="_blank">FFmpeg Lands H.265 Vulkan Encode Performance Optimizations</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-17 20:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,24 +218,6 @@
                 <span class="time">2026-08-17 18:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/arctic-fan-controller" target="_blank">ARCTIC Fan Controller: The Best Fan Controller For Linux Desktops, Less Than $10 USD</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-17 16:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17421675/canonical-wsl-growth" target="_blank">Ubuntu is Growing Faster on Windows Than on Linux</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-08-17 16:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,12 +238,39 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/starcizitzen-1280x719.jpg" alt="Star Citizen Dev Hosts Disastrous Livestream To Show How A Mission Works And Is Told To Pull The Plug: ‘It’s Your Show, Wrap It Up’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/star-citizen-live-stream-fail-siege-of-orison-mission-2000725084" target="_blank">Star Citizen Dev Hosts Disastrous Livestream To Show How A Mission Works And Is Told To Pull The Plug: ‘It’s Your Show, Wrap It Up’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-17 20:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M08PDVXFV4T67WE2DBBVT9AT/hero-image.jpg" alt="The Best Tech Deals From Best Buy&#x27;s 60th Anniversary Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-from-the-best-buy-60th-anniversary-sale?utm_medium=RSS" target="_blank">The Best Tech Deals From Best Buy&#x27;s 60th Anniversary Sale</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-17 20:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/Mortal-Shell-II-In-Game-Screenshot-9-1280x720.jpg" alt="Mortal Shell 2: The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/mortal-shell-2-the-kotaku-review-2000725071" target="_blank">Mortal Shell 2: The Kotaku Review</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-08-17 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/how-i-use-ai-notebook-1.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="The Pilot Kakuno Fountain costs under $20 and writes beautifully" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/17/fountain-pen-kakuno.html" target="_blank">The Pilot Kakuno Fountain costs under $20 and writes beautifully</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-17 19:08</span>
             </div>
         </div>
 <div class="story">
@@ -260,38 +291,20 @@
                 <span class="time">2026-08-17 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/shutterstock_2376310005-e1786993075512.jpg?fit=768%2C510&amp;quality=60&amp;ssl=1" alt="A lost Spanish flagship could be under the ocean, under a river, or even a beach" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/17/south-carolina-lost-spanish-flagship.html" target="_blank">A lost Spanish flagship could be under the ocean, under a river, or even a beach</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-17 18:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KT9MGY3HHG79FT6TBEF3Q77G/hero-image.png" alt="This Samsung Odyssey Gaming Monitor Is $150 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-odyssey-g5-gaming-monitor-sale-august-2026?utm_medium=RSS" target="_blank">This Samsung Odyssey Gaming Monitor Is $150 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-17 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/1-Antonio-s-Fiesta-de-Encanto-at-Disney-s-Animal-Kingdom-E28093-Casita-Stairway-Concept-Art-1-2.jpg?fit=1200%2C545&amp;quality=60&amp;ssl=1" alt="Disney patent for a fake-elevation ride trick matches new Encanto ride" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/17/disney-patent-for-a-fake-elevation-ride-trick-matches-new-en.html" target="_blank">Disney patent for a fake-elevation ride trick matches new Encanto ride</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-17 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/08/17/squid-lids" target="_blank">Squid Lids</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-08-17 20:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1786936686-20260817.png" alt="Saturday Morning Breakfast Cereal - Eulogy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -324,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 102 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 20:13 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 21:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
