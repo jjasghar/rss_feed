@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-08-17 22:11:53 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-08-17 23:11:22 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, August 17, 2026 - 22:12 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Monday, August 17, 2026 - 23:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-7-ap-gmh-260814_1786737784824_hpMain_4x3t_384.jpg" alt="Trump contradicts Vance, says nukes, not oil prices, No. 1 priority in Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-contradicts-vance-nukes-oil-prices-1-priority/story?id=135711978" target="_blank">Trump contradicts Vance, says nukes, not oil prices, No. 1 priority in Iran</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-17 22:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/17/as-rubble-clears-colombia-begins-focusing-on-recovery-after-the-earthquake?traffic_source=rss" target="_blank">As rubble clears, Colombia begins focusing on recovery after the earthquake</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-17 22:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +98,6 @@
                 <span class="time">2026-08-17 18:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0845/live/0d9a0730-9a52-11f1-aed2-8d6da8d75094.jpg" alt="Trump threatens to bomb US ally Oman if it &#x27;gets in the way&#x27; over Iran deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss" target="_blank">Trump threatens to bomb US ally Oman if it &#x27;gets in the way&#x27; over Iran deal</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-17 16:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/jean-carroll-rt-gmh-260817_1786977374435_hpMain_4x3t_384.jpg" alt="Supreme Court rejects final Trump appeal of $5 million E. Jean Carroll verdict" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/supreme-court-rejects-final-trump-appeal-5-million/story?id=135707525" target="_blank">Supreme Court rejects final Trump appeal of $5 million E. Jean Carroll verdict</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-17 15:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -112,6 +110,15 @@
                 <span class="title"><a href="https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/" target="_blank">US vaccination rates fall again as exemptions continue to rise, CDC data shows</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-08-17 22:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a8369c1fdc8609aaaf2e983/master/pass/623682055" alt="What Is El Niño? Here’s What It Means for Weather, Water, and Global Economy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/what-el-nino-means-weather-water-global-economy/" target="_blank">What Is El Niño? Here’s What It Means for Weather, Water, and Global Economy</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-17 21:28</span>
             </div>
         </div>
 <div class="story">
@@ -150,20 +157,20 @@
                 <span class="time">2026-08-17 19:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/17/higgsfield-raises-400m-series-b-quadrupling-its-valuation-in-8-months-to-5-4b/" target="_blank">Higgsfield raises $400M Series B, quadrupling its valuation in 8 months to $5.4B</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-17 19:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/naimulkarim/how-to-debug-android-chrome-browser-logs-from-a-windows-laptop-1bib" target="_blank">How to Debug Android Chrome Browser Logs from a Windows Laptop</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-17 23:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/jeelvankhede/adding-edges-is-not-a-paradigm-shift-5135" target="_blank">Adding Edges Is Not a Paradigm Shift</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-17 19:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ssukhpinder/aspnet-core-10-authentication-metrics-distinguish-no-result-from-failure-4iga" target="_blank">ASP.NET Core 10 Authentication Metrics: Distinguish No Result from Failure</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-17 18:11</span>
             </div>
         </div>
 </div>
@@ -337,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 104 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 22:12 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 23:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
