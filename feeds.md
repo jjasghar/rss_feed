@@ -1,40 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-08-16 23:08:55 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-17 00:34:00 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Error processing https://feeds.boingboing.net/boingboing/iBag: The read operation timed out -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, August 16, 2026 - 23:09 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Monday, August 17, 2026 - 00:34 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,12 +44,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history" target="_blank">Ebola outbreak in Democratic Republic of Congo now deadliest in country’s history</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-08-17 00:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/dan-j-sullivan-20260816.ap.jh_1786913445169_hpMain_4x3t_384.jpg" alt="Trump accuses Dems of &#x27;trickery&#x27; in Dan Sullivan vs. Dan Sullivan Alaska primary" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-accuses-democrats-trickery-candidate-same-alaska-sen/story?id=135693218" target="_blank">Trump accuses Dems of &#x27;trickery&#x27; in Dan Sullivan vs. Dan Sullivan Alaska primary</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-16 23:52</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8304/live/fde5dbb0-99c6-11f1-b604-2bfb19ba7385.jpg" alt="Trump says US to scale back military drills with South Korea after it stayed out of Iran war" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss" target="_blank">Trump says US to scale back military drills with South Korea after it stayed out of Iran war</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-08-16 22:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-ebola-congo_7323686.jpg?20260816231920" alt="Ebola outbreak in DR Congo now deadliest in country&#x27;s history" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/ebola-outbreak-in-dr-congo-now-deadliest-in-countrys-history-13573874" target="_blank">Ebola outbreak in DR Congo now deadliest in country&#x27;s history</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-08-16 22:05</span>
             </div>
         </div>
 <div class="story">
@@ -75,33 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-gaza-tr?traffic_source=rss" target="_blank">Erdogan says Hamas acted sincerely, criticises Israeli attacks</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-16 20:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/16/nx-s1-5934670/indiana-flooding-deaths" target="_blank">Multiple people dead as flooding continues in Indiana</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-16 20:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b3a/live/65ee2c30-99a4-11f1-a10a-71ff76b28954.jpg" alt="Trump envoy Kushner meets Hamas leader to push Gaza peace plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss" target="_blank">Trump envoy Kushner meets Hamas leader to push Gaza peace plan</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-16 19:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/16/g-s1-138941/tommy-john-elbow-surgery-baseball-pitcher-yankees-dodgers" target="_blank">Tommy John, namesake for a pioneering elbow surgery that saved his career, dies at 83</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-16 18:58</span>
             </div>
         </div>
 </div>
@@ -172,6 +165,33 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/zhan1234/when-everyone-has-ai-agents-who-knows-what-theyre-doing-33mj" target="_blank">When Everyone Has AI Agents, Who Knows What They’re Doing?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-17 00:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-Released" target="_blank">Linux 7.2 Released With Faster I/O, New AMD &amp; Intel Driver Improvements</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-16 23:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/08/linux-kernel-7-2-tux.webp?resize=406%2C232&amp;ssl=1" alt="Linux 7.2 brings cache-aware scheduling, faster ext4 and Btrfs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/linux-7-2-cache-aware-scheduling-ext4-btrfs" target="_blank">Linux 7.2 brings cache-aware scheduling, faster ext4 and Btrfs</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-08-16 23:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ai_openfree_b23025ef075cf/how-vidraft-hit-51058-tps-on-gemma-4-a-deep-dive-into-the-first-gemma-challenge-win-15j6" target="_blank">How VIDRAFT Hit 510.58 TPS on Gemma-4: A Deep Dive into &quot;The First Gemma Challenge&quot; Win</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-16 23:01</span>
@@ -195,38 +215,20 @@
                 <span class="time">2026-08-16 19:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu1ugzlvlghk6ej6q6c5n.png" alt="PawArt | Letting a Dog Help Create Its Own Portrait" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mirshah12/pawart-letting-a-dog-help-create-its-own-portrait-18j3" target="_blank">PawArt | Letting a Dog Help Create Its Own Portrait</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-16 18:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://rvembedded.com/blog_post/12/" target="_blank">A 3rd World Embedded Engineer Responds to &quot;RISC-V They Should Have Known Better&quot;</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-16 17:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-x86-urgent-tlbi" target="_blank">tlbi=  Boot Option Submitted Ahead Of Linux 7.2 Kernel Release</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-16 17:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/knyttclassic.jpg" alt="Foundational Freeware Indie Metroidvania Knytt Remade For Its 20th Anniversary" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/foundational-freeware-indie-metroidvania-knytt-remade-for-its-20th-anniversary-2000724793" target="_blank">Foundational Freeware Indie Metroidvania Knytt Remade For Its 20th Anniversary</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-16 20:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/sonicfortnite-1280x718.jpg" alt="Now It Will Be Sonic Who Gets To Have A Gun In Latest Fortnite Update" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -243,15 +245,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/08/16/control-your-pdfs-dont-let-them-control-you-even-on-mac.html" target="_blank">Control your PDFs, don&#x27;t let them control you — even on Mac</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-08-16 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/rideshare-2-1280x809.jpg" alt="Saber CEO Apologizes To Lead Writer Replaced With ChatGPT After Weeklong Crashout" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/saber-ceo-apologizes-to-lead-writer-replaced-with-chatgpt-after-weeklong-crashout-2000724730" target="_blank">Saber CEO Apologizes To Lead Writer Replaced With ChatGPT After Weeklong Crashout</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-15 23:54</span>
             </div>
         </div>
 </div>
@@ -273,8 +266,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 62 | 📡 Total Sources: 40 | 📸 With Images: 244 |
-        🔄 Last Updated: 23:09 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 65 | 📡 Total Sources: 40 | 📸 With Images: 244 |
+        🔄 Last Updated: 00:34 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
