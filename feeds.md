@@ -1,28 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-08-17 16:13:05 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-17 17:15:30 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 20 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, August 17, 2026 - 16:13 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Monday, August 17, 2026 - 17:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -60,6 +72,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/17/nx-s1-5934692/dhs-free-speech-investigations" target="_blank">DHS defends investigating agency critics and giving them warning notices</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-17 13:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/08/17/g-s1-138973/up-first-newsletter-uss-lincoln-meta-israel-hamas-ukraine-russia" target="_blank">USS Washington to relieve USS Lincoln. And, Jared Kushner to meet with Netanyahu</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-08-17 11:48</span>
@@ -83,20 +104,20 @@
                 <span class="time">2026-08-17 10:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/17/who-can-live-on-340-a-month-inside-the-uks-cost-of-living-crisis?traffic_source=rss" target="_blank">Inside the UK’s ‘stressful’ cost of living crisis Burnham hopes to tackle</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-17 09:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/streaming/981105/youtube-video-view-counting-update" target="_blank">YouTube is changing how it counts views to give the numbers a boost</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-17 17:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -113,6 +134,15 @@
                 <span class="title"><a href="https://www.theverge.com/tech/980977/apple-app-tracking-transparency-settlement-germany" target="_blank">Apple ordered to stop scaring iPhone and iPad users away from third-party apps</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-08-17 15:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/0.png-500x500-1786977755.jpeg" alt="This sub-$7,000 sportscar might be just what the future needs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/08/the-opposite-of-a-hypercar-is-fun-meet-the-gasolini-ar1/" target="_blank">This sub-$7,000 sportscar might be just what the future needs</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-17 15:01</span>
             </div>
         </div>
 <div class="story">
@@ -133,24 +163,6 @@
                 <span class="time">2026-08-17 13:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69d56addb288ac3ffa89fae2/master/pass/The-Best-Budget-Laptops-to-Get-Your-Money%E2%80%99s-Worth.jpg" alt="7 Best Cheap Laptops to Buy in 2026 (and Some to Avoid)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-cheap-laptops/" target="_blank">7 Best Cheap Laptops to Buy in 2026 (and Some to Avoid)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-17 11:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a823658a0ec4702efa7eaf3/master/pass/Review-(2026)--CookUnity-Prepared-Delivery-Meals.jpg" alt="CookUnity Prepared Meal Delivery Review (2026): Chef-Centric Meals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/cookunity-prepared-meal-delivery-2026/" target="_blank">CookUnity Prepared Meal Delivery Review (2026): Chef-Centric Meals</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-17 11:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -159,10 +171,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/arctic-fan-controller" target="_blank">ARCTIC Fan Controller: The Best Fan Controller For Linux Desktops, Less Than $10 USD</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-17 16:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-github"></span>
                 <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/" target="_blank">How canvases make agentic workflows visible, steerable, and cost-efficient</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2026-08-17 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/08/java-native-json-api/en/headerimage/generatedHeaderImage-1786934139615.jpg" alt="JEP 540 Proposed to Target JDK 28 with a Simple JSON API" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/08/java-native-json-api/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">JEP 540 Proposed to Target JDK 28 with a Simple JSON API</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-17 14:18</span>
             </div>
         </div>
 <div class="story">
@@ -177,37 +207,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://duckdb.org/2026/08/17/duckdb-20-highlights" target="_blank">A Preview of DuckDB v2.0</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-17 13:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/mbilalkhan192003/two-ways-to-write-an-article-in-2026-and-why-the-best-ones-use-both-5mb" target="_blank">Two Ways to Write an Article in 2026 (And Why the Best Ones Use Both)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-17 12:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.roboflow.com/openai-gpt-5-6/" target="_blank">GPT 5.6 Sol is the best &quot;vision&quot; model OpenAI ever released</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-17 12:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17421495/terminal-multiplexers" target="_blank">Looking Beyond Tmux and Screen: 8 Terminal Multiplexers Worth Trying</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-08-17 11:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/08/shadcn-conversational-primitives/en/headerimage/generatedHeaderImage-1786954054004.jpg" alt="shadcn Brings Conversational Primitives to shadcn/ui with New Chat Components" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/08/shadcn-conversational-primitives/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">shadcn Brings Conversational Primitives to shadcn/ui with New Chat Components</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-17 11:01</span>
             </div>
         </div>
 </div>
@@ -229,6 +241,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M07ZVDPH71A8HHJHDKS3AV8R/hero-image.jpg" alt="GitHub Is Down, but There&#x27;s a Fix" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/github-is-down?utm_medium=RSS" target="_blank">GitHub Is Down, but There&#x27;s a Fix</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-17 16:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/doomsday2-1280x720.jpg" alt="Avengers: Doomsday Moviegoers Are Being Told To Watch Over 41 Hours Of MCU Movies And TV Shows" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/avengers-doomsday-disney-plus-marvel-what-to-watch-homework-2000725003" target="_blank">Avengers: Doomsday Moviegoers Are Being Told To Watch Over 41 Hours Of MCU Movies And TV Shows</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-17 16:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KZC6M7EHFM95DZEJ7ND85N43/hero-image.jpg" alt="Hackers Are Screen Sharing on Macs Without Permission, but You Can Stop Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,29 +295,20 @@
                 <span class="time">2026-08-17 04:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/SwiftScan-VIP.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Scanners are basically vintage now. SwiftScan VIP is just $50." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/16/scanners-are-basically-vintage-now-swiftscan-vip-is-just-50.html" target="_blank">Scanners are basically vintage now. SwiftScan VIP is just $50.</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-16 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/knyttclassic.jpg" alt="Foundational Freeware Indie Metroidvania Knytt Remade For Its 20th Anniversary" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/foundational-freeware-indie-metroidvania-knytt-remade-for-its-20th-anniversary-2000724793" target="_blank">Foundational Freeware Indie Metroidvania Knytt Remade For Its 20th Anniversary</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-16 20:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1786936686-20260817.png" alt="Saturday Morning Breakfast Cereal - Eulogy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/eulogy-2" target="_blank">Saturday Morning Breakfast Cereal - Eulogy</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-08-17 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -311,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 83 | 📡 Total Sources: 40 | 📸 With Images: 244 |
-        🔄 Last Updated: 16:13 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 86 | 📡 Total Sources: 40 | 📸 With Images: 248 |
+        🔄 Last Updated: 17:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
