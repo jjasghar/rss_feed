@@ -1,27 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-08-17 03:38:45 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-08-17 04:29:49 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: The Verge -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 19 feeds processed -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, August 17, 2026 - 03:38 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, August 17, 2026 - 04:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/17/thieves-steal-renaissance-artworks-in-museum-heist-during-italian-holiday?traffic_source=rss" target="_blank">Thieves steal Renaissance artworks in museum heist during Italian holiday</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-17 03:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8304/live/fde5dbb0-99c6-11f1-b604-2bfb19ba7385.jpg" alt="Trump says US to scale back South Korea military drills after it stayed out of Iran war" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss" target="_blank">Trump says US to scale back South Korea military drills after it stayed out of Iran war</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-17 02:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,24 +95,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/trump-orders-military-substantially-reduce-joint-exercises-south-korea-rcna592832" target="_blank">Trump orders military to ‘substantially reduce’ joint exercises with South Korea</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-08-16 23:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8304/live/fde5dbb0-99c6-11f1-b604-2bfb19ba7385.jpg" alt="Trump says US to scale back military drills with South Korea after it stayed out of Iran war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss" target="_blank">Trump says US to scale back military drills with South Korea after it stayed out of Iran war</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-16 22:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-ebola-congo_7323686.jpg?20260816231920" alt="&#x27;A wake-up call&#x27;: Ebola outbreak is now DR Congo&#x27;s deadliest" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/ebola-outbreak-in-dr-congo-now-deadliest-in-countrys-history-13573874" target="_blank">&#x27;A wake-up call&#x27;: Ebola outbreak is now DR Congo&#x27;s deadliest</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-08-16 22:05</span>
             </div>
         </div>
 </div>
@@ -159,6 +165,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ajaymourya/pawcss-your-dog-rebuilt-with-real-css-elements-4f1g" target="_blank">PawCSS - Your Dog, Rebuilt with Real CSS Elements</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-17 04:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/08/java-news-roundup-aug10-2026/en/headerimage/java-news-roundup-image-1786901137571.jpg" alt="Java News Roundup: Simple JSON API, GlassFish, Jakarta EE, JNoSQL, Open Liberty, LangChain4j" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/08/java-news-roundup-aug10-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: Simple JSON API, GlassFish, Jakarta EE, JNoSQL, Open Liberty, LangChain4j</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-17 02:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/truongandev/cursor-vs-github-copilot-vs-windsurf-which-ai-code-editor-wins-in-2026-46g0" target="_blank">Cursor vs GitHub Copilot vs Windsurf: Which AI Code Editor Wins in 2026?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-17 02:00</span>
@@ -185,28 +209,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-Released" target="_blank">Linux 7.2 Released With Faster I/O, New AMD &amp; Intel Driver Improvements</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-16 23:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/08/linux-kernel-7-2-tux.webp?resize=406%2C232&amp;ssl=1" alt="Linux 7.2 brings cache-aware scheduling, faster ext4 and Btrfs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/linux-7-2-cache-aware-scheduling-ext4-btrfs" target="_blank">Linux 7.2 brings cache-aware scheduling, faster ext4 and Btrfs</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-08-16 23:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ai_openfree_b23025ef075cf/how-vidraft-hit-51058-tps-on-gemma-4-a-deep-dive-into-the-first-gemma-challenge-win-15j6" target="_blank">How VIDRAFT Hit 510.58 TPS on Gemma-4: A Deep Dive into &quot;The First Gemma Challenge&quot; Win</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-16 23:01</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://simonwillison.net/2026/Aug/16/qwen-38-27b/" target="_blank">Qwen 3.8 27B is excellent, but it defaults to overthinking things</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-16 23:45</span>
             </div>
         </div>
 </div>
@@ -214,6 +220,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/hayden-1280x720.jpg" alt="Until Dawn And Kingdom Hearts Star Hayden Panettiere Has Died At 36" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/hayden-panettiere-death-until-dawn-kingdom-hearts-2000724820" target="_blank">Until Dawn And Kingdom Hearts Star Hayden Panettiere Has Died At 36</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-17 04:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/knyttclassic.jpg" alt="Foundational Freeware Indie Metroidvania Knytt Remade For Its 20th Anniversary" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,8 +284,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 69 | 📡 Total Sources: 40 | 📸 With Images: 244 |
-        🔄 Last Updated: 03:38 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 72 | 📡 Total Sources: 40 | 📸 With Images: 243 |
+        🔄 Last Updated: 04:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
