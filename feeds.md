@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-08-17 21:14:25 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-17 22:11:53 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, August 17, 2026 - 21:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Monday, August 17, 2026 - 22:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -106,6 +106,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2289391344-500x500.jpg" alt="US vaccination rates fall again as exemptions continue to rise, CDC data shows" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/" target="_blank">US vaccination rates fall again as exemptions continue to rise, CDC data shows</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-17 22:08</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/IMG_1550-1-500x500.jpg" alt="The Moon&#x27;s shadow raced across the heart of Spain, and I was there to see it" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -150,20 +159,20 @@
                 <span class="time">2026-08-17 19:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/981014/dartwords-clippy-word-game" target="_blank">Wordle meets Clippy in this new word game</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-17 19:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/loopandretry/retry-patterns-when-you-should-give-up-and-why-most-code-doesnt-3haa" target="_blank">Retry patterns: when you should give up (and why most code doesn&#x27;t)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-17 22:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +218,6 @@
                 <span class="time">2026-08-17 18:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/08/grok-bot-agent/en/headerimage/generatedHeaderImage-1786979342385.jpg" alt="SpaceXAI Launches Grok Bot for Autonomous AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/08/grok-bot-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">SpaceXAI Launches Grok Bot for Autonomous AI Agents</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-17 18:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/eliteforce2-1280x720.jpg" alt="Fan-Favorite Star Trek FPS Had To Change Its Plot After 9/11: ‘We Actually Had A Shuttle Fly Into a Building’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/fan-favorite-star-trek-fps-had-to-change-its-plot-after-9-11-we-actually-had-a-shuttle-fly-into-a-building-2000725110" target="_blank">Fan-Favorite Star Trek FPS Had To Change Its Plot After 9/11: ‘We Actually Had A Shuttle Fly Into a Building’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-17 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/starcizitzen-1280x719.jpg" alt="Star Citizen Dev Hosts Disastrous Livestream To Show How A Mission Works And Is Told To Pull The Plug: ‘It’s Your Show, Wrap It Up’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +289,6 @@
                 <span class="title"><a href="https://kotaku.com/one-army-battalion-reportedly-offering-time-off-to-play-gta-6-as-re-enlistment-bonus-2000725062" target="_blank">One Army Battalion Reportedly Offering Time Off To Play GTA 6 As Re-Enlistment Bonus</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-08-17 19:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M08FYDVH0S8KW4SMJ91BZPJB/hero-image.png" alt="I Like This $30 Charging Case Better Than the One Oura Sells for $99" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/tensea-charging-case-oura-ring-upgrade-of-the-week?utm_medium=RSS" target="_blank">I Like This $30 Charging Case Better Than the One Oura Sells for $99</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-17 19:00</span>
             </div>
         </div>
 </div>
@@ -337,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 21:14 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 104 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 22:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
