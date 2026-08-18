@@ -1,41 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-08-18 11:13:57 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-08-18 12:20:32 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 32 feeds processed -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Tuesday, August 18, 2026 - 11:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, August 18, 2026 - 12:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e2c/live/689027f0-9afc-11f1-a27d-25dca26018ed.jpg" alt="UK &#x27;supports Ukraine 100%&#x27;, Burnham says, after Russia&#x27;s drone warning" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss" target="_blank">UK &#x27;supports Ukraine 100%&#x27;, Burnham says, after Russia&#x27;s drone warning</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-18 11:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Iran-flag-DB-260818_1787035064639_hpMain_4x3t_384.jpg" alt="Iran live updates: Ship attacked in Strait of Hormuz, casualty reported, UKMTO says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -94,15 +95,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss" target="_blank">Russia warns UK over supplying drones to Ukraine</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-08-18 01:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/8/18/iran-war-live-trump-rejects-mou-extension-as-us-claims-control-of-hormuz?traffic_source=rss" target="_blank">Iran war live: Trump rejects MoU extension as US claims control of Hormuz</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-18 00:00</span>
             </div>
         </div>
 </div>
@@ -217,10 +209,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/08/18/what-does-an-agentic-sdlc-actually-look-like/" target="_blank">What does an agentic SDLC actually look like?</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-08-18 07:40</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://pixelcluster.dev/VRAM-Overcommit/" target="_blank">Linux 7.3 improves performance when running out of vRAM</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-18 07:51</span>
             </div>
         </div>
 </div>
@@ -235,15 +227,6 @@
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2026/08/llms-and-contextual-integrity.html" target="_blank">LLMs and Contextual Integrity</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2026-08-18 10:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/08/hacking-public-wi-fi-dns-to-steal-credentials.html" target="_blank">Hacking Public Wi-Fi DNS to Steal Credentials</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-08-17 11:18</span>
             </div>
         </div>
 </div>
@@ -342,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 11:14 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 102 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 12:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
