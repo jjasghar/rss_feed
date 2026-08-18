@@ -1,33 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-08-18 12:20:32 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-08-18 13:33:35 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, August 18, 2026 - 12:20 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, August 18, 2026 - 13:33 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,12 +50,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/18/japanese-activist-keeps-protesting-against-israels-genocide-in-gaza?traffic_source=rss" target="_blank">Japanese activist keeps protesting against Israel’s genocide in Gaza</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-18 12:47</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e2c/live/689027f0-9afc-11f1-a27d-25dca26018ed.jpg" alt="UK &#x27;supports Ukraine 100%&#x27;, Burnham says, after Russia&#x27;s drone warning" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss" target="_blank">UK &#x27;supports Ukraine 100%&#x27;, Burnham says, after Russia&#x27;s drone warning</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-08-18 11:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/18/g-s1-139072/up-first-newsletter-iran-south-korea-jared-kushner-florida-wyoming-alaska-primaries-luigi-mangione" target="_blank">U.S. and Iran miss peace talks deadline. And, Alaska, Florida and Wyoming primaries</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-18 11:40</span>
             </div>
         </div>
 <div class="story">
@@ -79,29 +103,38 @@
                 <span class="time">2026-08-18 09:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/603b/live/6eb43020-9180-11f1-b8ee-9b3c26ad07bb.jpg" alt="IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss" target="_blank">IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-18 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c2f/live/4a051380-9a94-11f1-b9fd-b3eaf80a00d7.jpg" alt="Russia warns UK over supplying drones to Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss" target="_blank">Russia warns UK over supplying drones to Ukraine</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-18 01:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/981381/comcast-xfinity-shield-wifi-motion-sensing" target="_blank">Comcast is turning millions of its routers into motion detectors</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-18 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/18/apples-new-macos-update-reportedly-contains-a-video-of-airpods-with-a-camera/" target="_blank">Apple’s new macOS update reportedly contains a video of AirPods with a camera</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-18 13:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a834b7b336b4da04ecfb65b/master/pass/The-Expanse-Gear15.jpg" alt="Can the Upcoming ‘Expanse’ Game Avoid ‘Mass Effect’s’ Biggest Mistake?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-upcoming-expanse-game-has-to-make-some-hard-choices/" target="_blank">Can the Upcoming ‘Expanse’ Game Avoid ‘Mass Effect’s’ Biggest Mistake?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-18 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a8348c658ce21db647f8ae9/master/pass/The-Best-Digital-Notebooks-and-Smart-Pens-for-Obsessive-Note-Takers.jpg" alt="I Put the Best Digital Notebooks to the Test. Here Are My Favorites (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -127,33 +160,6 @@
                 <span class="title"><a href="https://www.wired.com/story/the-cop-who-took-on-flock/" target="_blank">The Cop Who Took On Flock</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-08-18 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak" target="_blank">Apple&amp;#8217;s camera-equipped AirPods appear in leaked video</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-18 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg" alt="SteelSeries Coupon Codes: 15% Off in August 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/steelseries-coupon-code/" target="_blank">SteelSeries Coupon Codes: 15% Off in August 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-18 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/egypt1-500x500.jpg" alt="Theban tomb reveals how Egyptian burial trends evolved in time" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/08/theban-tomb-reveals-how-egyptian-burial-trends-evolved-in-time/" target="_blank">Theban tomb reveals how Egyptian burial trends evolved in time</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-18 04:00</span>
             </div>
         </div>
 </div>
@@ -325,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 102 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 12:20 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 103 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 13:33 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
