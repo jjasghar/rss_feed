@@ -1,40 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-08-18 00:33:37 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-18 02:08:06 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 31 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, August 18, 2026 - 00:33 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, August 18, 2026 - 02:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,12 +49,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c2f/live/4a051380-9a94-11f1-b9fd-b3eaf80a00d7.jpg" alt="Russia warns UK over supplying drones to Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss" target="_blank">Russia warns UK over supplying drones to Ukraine</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-18 01:16</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/8/18/iran-war-live-trump-rejects-mou-extension-as-us-claims-control-of-hormuz?traffic_source=rss" target="_blank">Iran war live: Trump rejects MoU extension as US claims control of Hormuz</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-18 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1787007971293_nn_spa_actress_hayden_panettiere_dies_at_thirty_six_260817_S3_1920x1080-uh7d1z.jpg" alt="Actress Hayden Panettiere dies at 36 as investigation continues" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/actress-hayden-panettiere-dies-at-36-as-investigation-continues-268431941821" target="_blank">Actress Hayden Panettiere dies at 36 as investigation continues</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-17 23:06</span>
             </div>
         </div>
 <div class="story">
@@ -86,29 +102,29 @@
                 <span class="time">2026-08-17 22:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1787003858804_now_hallie_yal_trump_oman_260817_S3_1920x1080-s5089p.jpg" alt="Trump threatens to bomb Oman if it interferes with Strait of Hormuz deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/trump-threatens-to-bomb-oman-if-it-interferes-with-strait-of-hormuz-deal-268428869615" target="_blank">Trump threatens to bomb Oman if it interferes with Strait of Hormuz deal</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-17 21:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/17/g-s1-138997/former-federal-prosecutor-sue-doj-retaliatory-firing" target="_blank">Former federal prosecutor is suing DOJ for &#x27;unlawful and retaliatory&#x27; firing</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-17 21:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/" target="_blank">Anthropic’s annualized revenue surges to $65B</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-17 23:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/981289/reddit-ai-text-video-posts" target="_blank">Reddit’s AI is turning posts into podcasts and short videos</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-17 23:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2289391344-500x500.jpg" alt="US vaccination rates fall again as exemptions continue to rise, CDC data shows" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,24 +161,6 @@
                 <span class="time">2026-08-17 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/17/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/" target="_blank">Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-17 19:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/981134/glorious-gmmk-3-mechanical-keyboard-deal-sale" target="_blank">This compact Glorious mechanical keyboard is just $35</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-17 19:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -175,6 +173,15 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/ubuntu-app-center-something-went-wrong" target="_blank">Ubuntu’s App Center doesn’t know what went wrong</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-08-18 00:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-File-System-Changes-7.3" target="_blank">EFS &amp; FreeVxFS File-Systems Get Booted While FailFS Merged For Linux 7.3</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-18 00:29</span>
             </div>
         </div>
 <div class="story">
@@ -213,15 +220,6 @@
                 <span class="time">2026-08-17 21:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/FFmpeg-Faster-HEVC-Encode" target="_blank">FFmpeg Lands H.265 Vulkan Encode Performance Optimizations</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-17 20:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/81iqEAJZysL._SY425_.jpg?fit=283%2C425&amp;quality=60&amp;ssl=1" alt="Unfortunately, there are only three Ana and Din mysteries" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/17/ana-and-din-mystery-series.html" target="_blank">Unfortunately, there are only three Ana and Din mysteries</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-17 23:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/calspeed-label.jpg?fit=1400%2C771&amp;quality=60&amp;ssl=1" alt="Lost VHS promos from the twilight of the arcade era" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,20 +293,20 @@
                 <span class="time">2026-08-17 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/how-i-use-ai-notebook-1.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="The Pilot Kakuno Fountain costs under $20 and writes beautifully" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/17/fountain-pen-kakuno.html" target="_blank">The Pilot Kakuno Fountain costs under $20 and writes beautifully</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-17 19:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.questionablecontent.net/comics/5897.png" alt="Dragging It Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5897" target="_blank">Dragging It Out</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-08-18 00:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -327,22 +334,13 @@
                 <span class="time">2026-08-17 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5896.png" alt="That&#x27;s How You Get Raccoons" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5896" target="_blank">That&#x27;s How You Get Raccoons</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-08-17 01:26</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 103 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 00:33 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 02:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
