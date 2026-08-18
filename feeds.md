@@ -1,38 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-08-18 09:20:08 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-08-18 10:15:58 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, August 18, 2026 - 09:20 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, August 18, 2026 - 10:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c2f/live/4a051380-9a94-11f1-b9fd-b3eaf80a00d7.jpg" alt="Russia warns UK will pay for supplying drones to Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss" target="_blank">Russia warns UK will pay for supplying drones to Ukraine</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-18 09:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/18/meta-lawsuits-is-social-media-facing-a-global-legal-reckoning?traffic_source=rss" target="_blank">Meta lawsuits: Is social media facing a global legal reckoning?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-18 09:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/603b/live/6eb43020-9180-11f1-b8ee-9b3c26ad07bb.jpg" alt="IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,29 +104,20 @@
                 <span class="time">2026-08-17 23:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-7-ap-gmh-260814_1786737784824_hpMain_4x3t_384.jpg" alt="Trump contradicts Vance, says nukes, not oil prices, No. 1 priority in Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-contradicts-vance-nukes-oil-prices-1-priority/story?id=135711978" target="_blank">Trump contradicts Vance, says nukes, not oil prices, No. 1 priority in Iran</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-17 22:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/17/nx-s1-5935562/firearms-law-lapsed-federal-court-ruling" target="_blank">Part of a key firearms law lapsed following a federal court decision. What happens now?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-17 22:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a82f21cb090060b28185a08/master/pass/20260809-wired-pichardo-0211.jpg" alt="The Cop Who Took On Flock" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-cop-who-took-on-flock/" target="_blank">The Cop Who Took On Flock</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-18 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +163,20 @@
                 <span class="time">2026-08-17 23:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2289391344-500x500.jpg" alt="US vaccination rates fall again as exemptions continue to rise, CDC data shows" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/" target="_blank">US vaccination rates fall again as exemptions continue to rise, CDC data shows</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-17 22:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Buffer-Compression-DXVK" target="_blank">Intel Enables Buffer Compression For Better Gaming Performance With DXVK</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-18 09:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,28 +207,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ascentinnovate/how-to-build-a-cost-aware-ai-model-router-for-saas-workflows-3h06" target="_blank">How to Build a Cost-Aware AI Model Router for SaaS Workflows</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-18 07:22</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17422068/rewaita" target="_blank">I Found an Easy Way to Make GNOME More Colorful</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-08-18 07:29</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/david_sert/multi-armed-bandit-testing-how-it-works-and-when-to-use-1ldd" target="_blank">Multi-Armed Bandit Testing: How It Works and When to Use</a></span>
+                <span class="title"><a href="https://dev.to/ascentinnovate/how-to-build-a-cost-aware-ai-model-router-for-saas-workflows-3h06" target="_blank">How to Build a Cost-Aware AI Model Router for SaaS Workflows</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2026-08-18 05:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Major Frontier Model Providers Adopt Watermarking Tech to Comply with EU Regulation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/08/eu-ai-content-watermark/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Major Frontier Model Providers Adopt Watermarking Tech to Comply with EU Regulation</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-18 05:05</span>
+                <span class="time">2026-08-18 07:22</span>
             </div>
         </div>
 </div>
@@ -239,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/spector-1280x717.jpg" alt="Legendary Creator Behind Deus Ex And System Shock, Warren Spector, Announces His Retirement" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/warren-spector-retirement-deus-ex-system-shock-thief-looking-glass-2000725307" target="_blank">Legendary Creator Behind Deus Ex And System Shock, Warren Spector, Announces His Retirement</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-18 09:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/81iqEAJZysL._SY425_.jpg?fit=283%2C425&amp;quality=60&amp;ssl=1" alt="Unfortunately, there are only three Ana and Din mysteries" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +295,6 @@
                 <span class="time">2026-08-17 20:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M08PDVXFV4T67WE2DBBVT9AT/hero-image.jpg" alt="The Best Tech Deals From Best Buy&#x27;s 60th Anniversary Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-from-the-best-buy-60th-anniversary-sale?utm_medium=RSS" target="_blank">The Best Tech Deals From Best Buy&#x27;s 60th Anniversary Sale</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-17 20:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -330,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 103 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 09:20 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 106 | 📡 Total Sources: 39 | 📸 With Images: 253 |
+        🔄 Last Updated: 10:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
