@@ -1,32 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-08-18 06:22:02 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-18 07:27:25 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 0 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Tuesday, August 18, 2026 - 06:22 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, August 18, 2026 - 07:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -163,6 +165,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/08/18/what-does-an-agentic-sdlc-actually-look-like/" target="_blank">What does an agentic SDLC actually look like?</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-08-18 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ascentinnovate/how-to-build-a-cost-aware-ai-model-router-for-saas-workflows-3h06" target="_blank">How to Build a Cost-Aware AI Model Router for SaaS Workflows</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-18 07:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/david_sert/multi-armed-bandit-testing-how-it-works-and-when-to-use-1ldd" target="_blank">Multi-Armed Bandit Testing: How It Works and When to Use</a></span>
                 <span class="feed">DEV Community</span>
@@ -194,24 +214,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/ubuntu-app-center-something-went-wrong" target="_blank">Ubuntu’s App Center doesn’t know what went wrong</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-08-18 00:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-File-System-Changes-7.3" target="_blank">EFS &amp; FreeVxFS File-Systems Get Booted While FailFS Merged For Linux 7.3</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-18 00:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/naimulkarim/how-to-debug-android-chrome-browser-logs-from-a-windows-laptop-1bib" target="_blank">How to Debug Android Chrome Browser Logs from a Windows Laptop</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-17 23:02</span>
             </div>
         </div>
 </div>
@@ -319,22 +321,13 @@
                 <span class="time">2026-08-17 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/08/17/squid-lids" target="_blank">Squid Lids</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-08-17 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 254 |
-        🔄 Last Updated: 06:22 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 103 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 07:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
