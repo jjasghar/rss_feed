@@ -1,34 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-08-17 23:11:22 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-08-18 00:33:37 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Monday, August 17, 2026 - 23:11 UTC</div>
+    <div class="newspaper-date">Tuesday, August 18, 2026 - 00:33 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,12 +51,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/8/18/iran-war-live-trump-rejects-mou-extension-as-us-claims-control-of-hormuz?traffic_source=rss" target="_blank">Iran war live: Trump rejects MoU extension as US claims control of Hormuz</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-18 00:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-7-ap-gmh-260814_1786737784824_hpMain_4x3t_384.jpg" alt="Trump contradicts Vance, says nukes, not oil prices, No. 1 priority in Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/Politics/trump-contradicts-vance-nukes-oil-prices-1-priority/story?id=135711978" target="_blank">Trump contradicts Vance, says nukes, not oil prices, No. 1 priority in Iran</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-08-17 22:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/17/nx-s1-5935562/firearms-law-lapsed-federal-court-ruling" target="_blank">Part of a key firearms law lapsed following a federal court decision. What happens now?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-17 22:37</span>
             </div>
         </div>
 <div class="story">
@@ -63,39 +87,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1787003858804_now_hallie_yal_trump_oman_260817_S3_1920x1080-s5089p.jpg" alt="Trump threatens to bomb Oman if it interferes with Strait of Hormuz deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/trump-threatens-to-bomb-oman-if-it-interferes-with-strait-of-hormuz-deal-268428869615" target="_blank">Trump threatens to bomb Oman if it interferes with Strait of Hormuz deal</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-17 21:57</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/08/17/g-s1-138997/former-federal-prosecutor-sue-doj-retaliatory-firing" target="_blank">Former federal prosecutor is suing DOJ for &#x27;unlawful and retaliatory&#x27; firing</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-08-17 21:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/8/17/why-did-trump-scale-back-war-games-with-south-korea?traffic_source=rss" target="_blank">Why did Trump scale back war games with South Korea?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-17 19:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-breakingnews-uk_7322499.jpg?20260815151146" alt="FIFA sacks senior executive who criticised Infantino, Sky News understands" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/fifa-sacks-senior-executive-who-criticised-infantino-sky-news-understands-13574166" target="_blank">FIFA sacks senior executive who criticised Infantino, Sky News understands</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-08-17 19:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-08/260817-donald-trump-ew-234p-138cb5.jpg" alt="Trump threatens to bomb Oman if it ‘gets in the way’ of Strait of Hormuz talks with Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/trump-bomb-oman-iran-strait-hormuz-rcna592971" target="_blank">Trump threatens to bomb Oman if it ‘gets in the way’ of Strait of Hormuz talks with Iran</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-17 18:17</span>
             </div>
         </div>
 </div>
@@ -163,12 +169,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/08/something-went-wrong-error.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu’s App Center doesn’t know what went wrong" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/ubuntu-app-center-something-went-wrong" target="_blank">Ubuntu’s App Center doesn’t know what went wrong</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-08-18 00:32</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/naimulkarim/how-to-debug-android-chrome-browser-logs-from-a-windows-laptop-1bib" target="_blank">How to Debug Android Chrome Browser Logs from a Windows Laptop</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-17 23:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://timmarinin.net/2026/bluesky-screenshots/" target="_blank">How Bluesky draws its logo on screenshots</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-17 22:20</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +222,6 @@
                 <span class="time">2026-08-17 20:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.rickmanelius.com/p/aidr-ai-didnt-read" target="_blank">AI;DR (AI; Didn&#x27;t Read)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-17 19:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flfhsvebef913x2a3ie8q.png" alt="Adding Edges Is Not a Paradigm Shift" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jeelvankhede/adding-edges-is-not-a-paradigm-shift-5135" target="_blank">Adding Edges Is Not a Paradigm Shift</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-17 19:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/calspeed-label.jpg?fit=1400%2C771&amp;quality=60&amp;ssl=1" alt="Lost VHS promos from the twilight of the arcade era" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/17/lost-vhs-promos-from-the-twilight-of-the-arcade-era.html" target="_blank">Lost VHS promos from the twilight of the arcade era</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-17 22:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/eliteforce2-1280x720.jpg" alt="Fan-Favorite Star Trek FPS Had To Change Its Plot After 9/11: ‘We Actually Had A Shuttle Fly Into a Building’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +293,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/08/17/fountain-pen-kakuno.html" target="_blank">The Pilot Kakuno Fountain costs under $20 and writes beautifully</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-08-17 19:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/gta6army-bonus-1280x720.jpg" alt="One Army Battalion Reportedly Offering Time Off To Play GTA 6 As Re-Enlistment Bonus" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/one-army-battalion-reportedly-offering-time-off-to-play-gta-6-as-re-enlistment-bonus-2000725062" target="_blank">One Army Battalion Reportedly Offering Time Off To Play GTA 6 As Re-Enlistment Bonus</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-17 19:06</span>
             </div>
         </div>
 </div>
@@ -335,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 23:11 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 103 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 00:33 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
