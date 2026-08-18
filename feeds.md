@@ -1,39 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-08-18 13:33:35 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-08-18 14:20:32 UTC -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, August 18, 2026 - 13:33 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, August 18, 2026 - 14:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -77,6 +76,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1787052335057_tdy_news_7a_nobles_primary_day_260818_S3_1920x1080-y9r9ho.jpg" alt="Primary Candidates With the Same Name Sparks Confusion" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/primary-candidates-with-the-same-name-sparks-confusion-268458053546" target="_blank">Primary Candidates With the Same Name Sparks Confusion</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-18 11:25</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/Iran-flag-DB-260818_1787035064639_hpMain_4x3t_384.jpg" alt="Iran live updates: Ship attacked in Strait of Hormuz, casualty reported, UKMTO says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -92,15 +100,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss" target="_blank">Russia warns UK will pay for supplying drones to Ukraine</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-08-18 09:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/18/meta-lawsuits-is-social-media-facing-a-global-legal-reckoning?traffic_source=rss" target="_blank">Meta lawsuits: Is social media facing a global legal reckoning?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-18 09:49</span>
             </div>
         </div>
 </div>
@@ -124,6 +123,15 @@
                 <span class="title"><a href="https://techcrunch.com/2026/08/18/apples-new-macos-update-reportedly-contains-a-video-of-airpods-with-a-camera/" target="_blank">Apple’s new macOS update reportedly contains a video of AirPods with a camera</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-08-18 13:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-500x500.jpg" alt="Microsoft Copilot reveals secret input that allowed it to be hacked" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/" target="_blank">Microsoft Copilot reveals secret input that allowed it to be hacked</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-18 13:00</span>
             </div>
         </div>
 <div class="story">
@@ -153,20 +161,47 @@
                 <span class="time">2026-08-18 11:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a82f21cb090060b28185a08/master/pass/20260809-wired-pichardo-0211.jpg" alt="The Cop Who Took On Flock" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-cop-who-took-on-flock/" target="_blank">The Cop Who Took On Flock</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-18 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/08/firefox-154.webp?resize=406%2C232&amp;ssl=1" alt="Firefox 154 released with translation, AI feature and UI tweaks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/firefox-154-released" target="_blank">Firefox 154 released with translation, AI feature and UI tweaks</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-08-18 13:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Rust-For-Linux-7.3" target="_blank">Rust For Linux 7.3 Begins Seeing Fixes To Prepare For Rust&#x27;s GCC Backend</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-18 13:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/08/netflix-oci-agent/en/headerimage/generatedHeaderImage-1786886403321.jpg" alt="Netflix Open-Sources Agentic Workflow for Causal Inference" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/08/netflix-oci-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Netflix Open-Sources Agentic Workflow for Causal Inference</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-18 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://philo.gay/linecam/" target="_blank">Using the railway network as a flatbed scanner</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-18 12:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -183,42 +218,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Fedora-x86-64-v3-Delayed-F46" target="_blank">Fedora x86-64-v3 Optimized Packages Pushed Back To At Least Fedora 46</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-08-18 10:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Buffer-Compression-DXVK" target="_blank">Intel Enables Buffer Compression For Better Gaming Performance With DXVK</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-18 09:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tanu_priya/cdn-how-websites-serve-content-faster-globally-5ahk" target="_blank">CDN: How Websites Serve Content Faster Globally</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-18 09:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/08/dotnet-11-preview7-maui/en/headerimage/header-1670341892423-1786909411379.jpg" alt=".NET 11 Preview 7 Adds Passkeys, Incremental XAML Hot Reload, and Shell Route Templates to MAUI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/08/dotnet-11-preview7-maui/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">.NET 11 Preview 7 Adds Passkeys, Incremental XAML Hot Reload, and Shell Route Templates to MAUI</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-18 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://pixelcluster.dev/VRAM-Overcommit/" target="_blank">Linux 7.3 improves performance when running out of vRAM</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-18 07:51</span>
             </div>
         </div>
 </div>
@@ -240,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/08/shutterstock_1071698618-scaled.jpg?fit=2560%2C1858&amp;quality=60&amp;ssl=1" alt="Kevin Kelly: AI will be a microscope we point at our own minds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/18/fountain-pen-kk-theory-of-intelligence.html" target="_blank">Kevin Kelly: AI will be a microscope we point at our own minds</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-18 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/spector-1280x717.jpg" alt="Legendary Creator Behind Deus Ex And System Shock, Warren Spector, Announces His Retirement" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +293,6 @@
                 <span class="time">2026-08-17 21:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/starcizitzen-1280x719.jpg" alt="Star Citizen Dev Hosts Disastrous Livestream To Show How A Mission Works And Is Told To Pull The Plug: ‘It’s Your Show, Wrap It Up’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/star-citizen-live-stream-fail-siege-of-orison-mission-2000725084" target="_blank">Star Citizen Dev Hosts Disastrous Livestream To Show How A Mission Works And Is Told To Pull The Plug: ‘It’s Your Show, Wrap It Up’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-17 20:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -331,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 103 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 13:33 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 14:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
