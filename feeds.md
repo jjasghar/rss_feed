@@ -1,44 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-08-18 21:12:02 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-18 22:10:17 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NPR News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 35 feeds processed -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, August 18, 2026 - 21:12 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, August 18, 2026 - 22:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -58,9 +50,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/18/bolivia-arrests-political-adviser-to-latin-american-right-wingers?traffic_source=rss" target="_blank">Bolivia arrests political adviser to Latin American right-wingers</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-18 21:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12c7/live/b5979a20-9b4b-11f1-a4d5-27953a73ef84.jpg" alt="Three dead after family get into difficulty in sea" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cm2gmjd36pvo?at_medium=RSS&at_campaign=rss" target="_blank">Three dead after family get into difficulty in sea</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-18 21:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/8/18/russia-reports-ukrainian-drone-strike-near-zaporizhzhia-nuclear-plant?traffic_source=rss" target="_blank">Russia reports Ukrainian drone strike near Zaporizhzhia nuclear plant</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-18 20:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary" target="_blank">Embattled Florida Republican Rep. Cory Mills fights to keep his House seat</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-18 20:04</span>
             </div>
         </div>
 <div class="story">
@@ -79,33 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/economy/2026/8/18/landmark-trial-on-metas-impact-on-childrens-mental-health-begins-in-us?traffic_source=rss" target="_blank">Landmark trial on Meta’s impact on children’s mental health begins in US</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-18 18:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1787073586664_now_daily_a_hayden_mother_speaks_260818_S3_1920x1080-p1zv3l.jpg" alt="Hayden Panettiere&#x27;s mother says she &#x27;sadly lost her way&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/hayden-panettiere-s-mother-says-she-sadly-lost-her-way-268481093702" target="_blank">Hayden Panettiere&#x27;s mother says she &#x27;sadly lost her way&#x27;</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-18 17:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/18/iran-prepares-to-keep-economy-alive-as-us-threatens-further-sanctions?traffic_source=rss" target="_blank">Iran prepares to keep economy alive as US threatens further sanctions</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-18 16:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/18/spain-builds-tent-cities-for-the-thousands-stuck-in-ceuta?traffic_source=rss" target="_blank">Spain builds tent cities for the thousands stuck in Ceuta</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-18 15:53</span>
             </div>
         </div>
 </div>
@@ -203,6 +195,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/" target="_blank">Beware Management Consultants</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-18 19:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://github.com/RyanCodrai/turbovec" target="_blank">Turbovec – Google&#x27;s TurboQuant for vector search in Rust</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-08-18 18:07</span>
@@ -215,15 +216,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/IOmap-Linux-7.3-Faster" target="_blank">IOmap Improvement For Linux 7.3 Takes EXT4 &amp; XFS Performance Further</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-08-18 17:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://opensource.posit.co/resources/cheatsheets/polars/" target="_blank">Python Polars: The Definitive Cheatsheet</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-08-18 17:03</span>
             </div>
         </div>
 </div>
@@ -245,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/Neverness-To-Everness-new-1.3-update-artwork-Hotta-Games-1280x720.jpg" alt="Neverness To Everness Devs Forget To Remove Watermark For Free Trial Of AI Software" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/neverness-to-everness-devs-forget-to-remove-watermark-for-free-trial-of-ai-software-2000725370" target="_blank">Neverness To Everness Devs Forget To Remove Watermark For Free Trial Of AI Software</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-18 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M01E81A6F4T79X72A6WREN5C/hero-image.jpg" alt="Social Media Platforms Are Training Their AI Models on Your Content, but You Can Stop Them (Sometimes)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/social-media-platforms-are-training-their-ai-models-on-your-content?utm_medium=RSS" target="_blank">Social Media Platforms Are Training Their AI Models on Your Content, but You Can Stop Them (Sometimes)</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-18 21:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/bigwalkinterview8-1280x720.jpg" alt="The Creators Of Big Walk Break Down The GOTY Contender’s Development, Puzzles, And Stunning Ending" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,24 +289,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/08/18/android-ported-to-remarkables-color-tablet.html" target="_blank">Android ported to reMarkable&#x27;s color tablet</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-08-18 18:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KYT89MWG13K1QC3EC02NNZD5/hero-image.png" alt="One of the Best QLED TVs of 2026 Is $1,100 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/65-inch-tcl-qm8l-qled-tv-deal-august-2026?utm_medium=RSS" target="_blank">One of the Best QLED TVs of 2026 Is $1,100 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-18 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KZY3X2EBTRDJGZR4ETEYWCBP/hero-image.png" alt="The Final Round of Lifehacker&#x27;s Big Guessing Game Has Begun" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/big-guessing-game-apple-edition-round-3?utm_medium=RSS" target="_blank">The Final Round of Lifehacker&#x27;s Big Guessing Game Has Begun</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-18 16:01</span>
             </div>
         </div>
 </div>
@@ -336,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 105 | 📡 Total Sources: 39 | 📸 With Images: 253 |
-        🔄 Last Updated: 21:12 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 104 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 22:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
