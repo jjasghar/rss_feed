@@ -1,37 +1,44 @@
-<!-- Processing 54 RSS feeds at 2026-08-18 20:10:10 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-18 21:12:02 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Tuesday, August 18, 2026 - 20:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, August 18, 2026 - 21:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +54,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/18/russia-reports-ukrainian-drone-strike-near-zaporizhzhia-nuclear-plant?traffic_source=rss" target="_blank">Russia reports Ukrainian drone strike near Zaporizhzhia nuclear plant</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-18 20:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/GMA/Haydn-Panettiere-3-rt-gmh-260817_1786979543085_hpMain_4x3t_384.jpg" alt="Hayden Panettiere&#x27;s ex-boyfriend was present at scene when she died: Police" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,20 +108,29 @@
                 <span class="time">2026-08-18 15:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Iran-flag-DB-260818_1787035064639_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump posts map labeling Strait of Hormuz &#x27;new&#x27; US territory" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-tehran-adopt-offensive-aspect-irgc/?id=135700072" target="_blank">Iran live updates: Trump posts map labeling Strait of Hormuz &#x27;new&#x27; US territory</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-18 15:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/" target="_blank">DOJ’s probe into Andreessen Horowitz over board seats baffles VCs</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-18 20:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a8372555b7045e98c48385f/master/pass/Science_Squeeze%20More%20Juice%20out%20of%20a%20Dead%20Battery!_v1.jpg" alt="Squeeze More Juice Out of a Dead Battery!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/squeeze-more-juice-out-of-a-dead-battery/" target="_blank">Squeeze More Juice Out of a Dead Battery!</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-18 20:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,24 +167,6 @@
                 <span class="time">2026-08-18 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/981525/galaxy-buds-3-pro-dji-pocket-deal-sale" target="_blank">Samsung’s Galaxy Buds 3 Pro are almost half off today</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-18 17:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/" target="_blank">Apple overhauls its EU App Store fees, loosens rules for alternative app stores</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-18 17:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,9 +176,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/codepy_1473/the-generated-helper-passed-locally-then-died-in-a-clean-container-because-it-read-a-global-i-1l4l" target="_blank">The Generated Helper Passed Locally, Then Died in a Clean Container Because It Read a Global I Never Passed</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-18 20:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/zanesterling7589/a-guide-to-urgent-compliance-notifications-with-delivery-polling-and-fallback-logic-llo" target="_blank">A Guide to Urgent Compliance Notifications with Delivery Polling and Fallback Logic</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-18 20:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-bpf_sock_read_xattr" target="_blank">Linux 7.3 Adds New &quot;bpf_sock_read_xattr&quot; Feature For systemd, BPF Programs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-18 19:38</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +224,6 @@
                 <span class="title"><a href="https://opensource.posit.co/resources/cheatsheets/polars/" target="_blank">Python Polars: The Definitive Cheatsheet</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2026-08-18 17:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!RQ9b!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F00ac4457-86ac-4e66-86a6-c75c8e05bb2c_1456x882.png" alt="Headed for the Exit: the Great Engineering Leader Career Break" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-great-engineering-leader-career-break" target="_blank">Headed for the Exit: the Great Engineering Leader Career Break</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-08-18 16:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tomsun28/why-does-every-ai-agent-still-look-like-while-true--258a" target="_blank">Why Does Every AI Agent Still Look Like `while (true) { ... }`?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-18 16:08</span>
             </div>
         </div>
 </div>
@@ -324,22 +331,13 @@
                 <span class="time">2026-08-18 00:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/08/17/squid-lids" target="_blank">Squid Lids</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-08-17 20:28</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 109 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 20:10 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 105 | 📡 Total Sources: 39 | 📸 With Images: 253 |
+        🔄 Last Updated: 21:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
