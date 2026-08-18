@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-08-18 02:08:06 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-18 03:34:37 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 2 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, August 18, 2026 - 02:08 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, August 18, 2026 - 03:34 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -135,6 +135,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/6a8369c1fdc8609aaaf2e983/master/pass/623682055" alt="What Is El Niño, and What Does It Mean for Weather, Water, and the Global Economy?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/what-el-nino-means-weather-water-global-economy/" target="_blank">What Is El Niño, and What Does It Mean for Weather, Water, and the Global Economy?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-17 21:28</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6a8369c1fdc8609aaaf2e983/master/pass/623682055" alt="What Is El Niño? Here’s What It Means for Weather, Water, and Global Economy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -152,20 +161,20 @@
                 <span class="time">2026-08-17 20:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/verizon-stock-ticker-500x500-1786994955.jpg" alt="Supreme Court rejects Verizon bid for $47 million refund of FCC fine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/" target="_blank">Supreme Court rejects Verizon bid for $47 million refund of FCC fine</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-17 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nomurasan/i-edited-the-task-mid-flight-the-agent-stopped-instead-of-guessing-387" target="_blank">I Edited the Task Mid-Flight. The Agent Stopped Instead of Guessing.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-18 03:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/08/something-went-wrong-error.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu’s App Center doesn’t know what went wrong" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -209,15 +218,6 @@
                 <span class="title"><a href="https://dev.to/loopandretry/retry-patterns-when-you-should-give-up-and-why-most-code-doesnt-3haa" target="_blank">Retry patterns: when you should give up (and why most code doesn&#x27;t)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-17 22:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/prpatel05/the-agent-left-the-ide-39fo" target="_blank">The Agent Left the IDE</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-17 21:05</span>
             </div>
         </div>
 </div>
@@ -339,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 02:08 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 03:34 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
