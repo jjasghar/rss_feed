@@ -1,33 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-08-18 04:23:17 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-18 05:18:18 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, August 18, 2026 - 04:23 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Tuesday, August 18, 2026 - 05:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/603b/live/6eb43020-9180-11f1-b8ee-9b3c26ad07bb.jpg" alt="IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss" target="_blank">IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-18 05:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c2f/live/4a051380-9a94-11f1-b9fd-b3eaf80a00d7.jpg" alt="Russia warns UK over supplying drones to Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,20 +104,20 @@
                 <span class="time">2026-08-17 22:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/17/as-rubble-clears-colombia-begins-focusing-on-recovery-after-the-earthquake?traffic_source=rss" target="_blank">As rubble clears, Colombia begins focusing on recovery after the earthquake</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-17 22:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg" alt="SteelSeries Coupon Codes: 15% Off in August 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/steelseries-coupon-code/" target="_blank">SteelSeries Coupon Codes: 15% Off in August 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-18 05:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/egypt1-500x500.jpg" alt="Theban tomb reveals how Egyptian burial trends evolved in time" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,20 +163,29 @@
                 <span class="time">2026-08-17 21:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a8369c1fdc8609aaaf2e983/master/pass/623682055" alt="What Is El Niño? Here’s What It Means for Weather, Water, and Global Economy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/what-el-nino-means-weather-water-global-economy/" target="_blank">What Is El Niño? Here’s What It Means for Weather, Water, and Global Economy</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-17 21:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/david_sert/multi-armed-bandit-testing-how-it-works-and-when-to-use-1ldd" target="_blank">Multi-Armed Bandit Testing: How It Works and When to Use</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-18 05:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Major Frontier Model Providers Adopt Watermarking Tech to Comply with EU Regulation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/08/eu-ai-content-watermark/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Major Frontier Model Providers Adopt Watermarking Tech to Comply with EU Regulation</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-18 05:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,24 +220,6 @@
                 <span class="title"><a href="https://dev.to/naimulkarim/how-to-debug-android-chrome-browser-logs-from-a-windows-laptop-1bib" target="_blank">How to Debug Android Chrome Browser Logs from a Windows Laptop</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-17 23:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://timmarinin.net/2026/bluesky-screenshots/" target="_blank">How Bluesky draws its logo on screenshots</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-17 22:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/loopandretry/retry-patterns-when-you-should-give-up-and-why-most-code-doesnt-3haa" target="_blank">Retry patterns: when you should give up (and why most code doesn&#x27;t)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-17 22:02</span>
             </div>
         </div>
 </div>
@@ -262,6 +269,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M08STSGGW7768WM3QRSZZF7F/hero-image.jpg" alt="This 65-Inch LG OLED TV Is $900 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/lg-65-inch-oled-ai-4k-smart-tv-sale-august-2026?utm_medium=RSS" target="_blank">This 65-Inch LG OLED TV Is $900 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-17 21:55</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/starcizitzen-1280x719.jpg" alt="Star Citizen Dev Hosts Disastrous Livestream To Show How A Mission Works And Is Told To Pull The Plug: ‘It’s Your Show, Wrap It Up’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -277,15 +293,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-from-the-best-buy-60th-anniversary-sale?utm_medium=RSS" target="_blank">The Best Tech Deals From Best Buy&#x27;s 60th Anniversary Sale</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-08-17 20:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/Mortal-Shell-II-In-Game-Screenshot-9-1280x720.jpg" alt="Mortal Shell 2: The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/mortal-shell-2-the-kotaku-review-2000725071" target="_blank">Mortal Shell 2: The Kotaku Review</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-17 20:00</span>
             </div>
         </div>
 </div>
@@ -334,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 04:23 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 05:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
