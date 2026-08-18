@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-08-18 16:17:28 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-18 17:16:53 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
 <!-- Generated 10 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, August 18, 2026 - 16:17 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, August 18, 2026 - 17:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,9 +52,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/18/iran-prepares-to-keep-economy-alive-as-us-threatens-further-sanctions?traffic_source=rss" target="_blank">Iran prepares to keep economy alive as US threatens further sanctions</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-18 16:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/18/spain-builds-tent-cities-for-the-thousands-stuck-in-ceuta?traffic_source=rss" target="_blank">Spain builds tent cities for the thousands stuck in Ceuta</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-18 15:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Iran-flag-DB-260818_1787035064639_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump posts map labeling Strait of Hormuz &#x27;new&#x27; US territory" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-tehran-adopt-offensive-aspect-irgc/?id=135700072" target="_blank">Iran live updates: Trump posts map labeling Strait of Hormuz &#x27;new&#x27; US territory</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-18 15:12</span>
             </div>
         </div>
 <div class="story">
@@ -84,29 +102,38 @@
                 <span class="time">2026-08-18 11:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/18/g-s1-139072/up-first-newsletter-iran-south-korea-jared-kushner-florida-wyoming-alaska-primaries-luigi-mangione" target="_blank">U.S. and Iran miss peace talks deadline. And, Alaska, Florida and Wyoming primaries</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-18 11:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1787052335057_tdy_news_7a_nobles_primary_day_260818_S3_1920x1080-y9r9ho.jpg" alt="Primary Candidates With the Same Name Sparks Confusion" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/primary-candidates-with-the-same-name-sparks-confusion-268458053546" target="_blank">Primary Candidates With the Same Name Sparks Confusion</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-18 11:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/" target="_blank">Apple overhauls its EU App Store fees, loosens rules for alternative app stores</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-18 17:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/981504/apple-app-store-eu-rules-core-technology-commission" target="_blank">Apple squashes EU beef with new App Store rules</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-18 16:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1238249061-500x500.jpg" alt="Peacock raises prices by 18 percent after becoming profitable" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/08/peacock-raises-prices-by-18-percent-after-becoming-profitable/" target="_blank">Peacock raises prices by 18 percent after becoming profitable</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-18 16:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a837d321c5a245a00779a77/master/pass/Disney-Adult-Peter-Pan-CultureIMG_2764.jpg" alt="Viral Disneyland Content Creator Defends Her ‘Special Friendship’ With Peter Pan" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -134,38 +161,20 @@
                 <span class="time">2026-08-18 13:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/18/apples-new-macos-update-reportedly-contains-a-video-of-airpods-with-a-camera/" target="_blank">Apple’s new macOS update reportedly contains a video of AirPods with a camera</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-18 13:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-500x500.jpg" alt="Microsoft Copilot reveals secret input that allowed it to be hacked" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/" target="_blank">Microsoft Copilot reveals secret input that allowed it to be hacked</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-18 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a834b7b336b4da04ecfb65b/master/pass/The-Expanse-Gear15.jpg" alt="Can the Upcoming ‘Expanse’ Game Avoid ‘Mass Effect’s’ Biggest Mistake?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-upcoming-expanse-game-has-to-make-some-hard-choices/" target="_blank">Can the Upcoming ‘Expanse’ Game Avoid ‘Mass Effect’s’ Biggest Mistake?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-18 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://opensource.posit.co/resources/cheatsheets/polars/" target="_blank">Python Polars: The Definitive Cheatsheet</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-08-18 17:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +220,6 @@
                 <span class="time">2026-08-18 13:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/08/netflix-oci-agent/en/headerimage/generatedHeaderImage-1786886403321.jpg" alt="Netflix Open-Sources Agentic Workflow for Causal Inference" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/08/netflix-oci-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Netflix Open-Sources Agentic Workflow for Causal Inference</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-18 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KZY3X2EBTRDJGZR4ETEYWCBP/hero-image.png" alt="The Final Round of Lifehacker&#x27;s Big Guessing Game Has Begun" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/big-guessing-game-apple-edition-round-3?utm_medium=RSS" target="_blank">The Final Round of Lifehacker&#x27;s Big Guessing Game Has Begun</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-18 16:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01M0APKQ86W0SRN4CYRGV36E6H/hero-image.jpg" alt="How to Run a Local LLM on Your Phone (and Why You’d Want To)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +293,6 @@
                 <span class="time">2026-08-18 09:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/81iqEAJZysL._SY425_.jpg?fit=283%2C425&amp;quality=60&amp;ssl=1" alt="Unfortunately, there are only three Ana and Din mysteries" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/17/ana-and-din-mystery-series.html" target="_blank">Unfortunately, there are only three Ana and Din mysteries</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-17 23:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -330,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 110 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 16:17 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 113 | 📡 Total Sources: 39 | 📸 With Images: 252 |
+        🔄 Last Updated: 17:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
