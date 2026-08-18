@@ -1,40 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-08-18 10:15:58 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-18 11:13:57 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 32 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, August 18, 2026 - 10:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Tuesday, August 18, 2026 - 11:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Iran-flag-DB-260818_1787035064639_hpMain_4x3t_384.jpg" alt="Iran live updates: Ship attacked in Strait of Hormuz, casualty reported, UKMTO says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-tehran-adopt-offensive-aspect-irgc/?id=135700072" target="_blank">Iran live updates: Ship attacked in Strait of Hormuz, casualty reported, UKMTO says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-18 10:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c2f/live/4a051380-9a94-11f1-b9fd-b3eaf80a00d7.jpg" alt="Russia warns UK will pay for supplying drones to Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -95,20 +105,29 @@
                 <span class="time">2026-08-18 00:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1787007971293_nn_spa_actress_hayden_panettiere_dies_at_thirty_six_260817_S3_1920x1080-uh7d1z.jpg" alt="Actress Hayden Panettiere dies at 36 as investigation continues" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/actress-hayden-panettiere-dies-at-36-as-investigation-continues-268431941821" target="_blank">Actress Hayden Panettiere dies at 36 as investigation continues</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-17 23:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a8348c658ce21db647f8ae9/master/pass/The-Best-Digital-Notebooks-and-Smart-Pens-for-Obsessive-Note-Takers.jpg" alt="I Put the Best Digital Notebooks to the Test. Here Are My Favorites (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/" target="_blank">I Put the Best Digital Notebooks to the Test. Here Are My Favorites (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-18 11:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2219172919-500x500.jpg" alt="As temperatures get hotter, pesticides are more dangerous to farmworkers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/08/as-temperatures-get-hotter-pesticides-are-more-dangerous-to-farmworkers/" target="_blank">As temperatures get hotter, pesticides are more dangerous to farmworkers</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-18 11:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a82f21cb090060b28185a08/master/pass/20260809-wired-pichardo-0211.jpg" alt="The Cop Who Took On Flock" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,29 +164,29 @@
                 <span class="time">2026-08-18 04:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/" target="_blank">Anthropic’s annualized revenue surges to $65B</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-17 23:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/981289/reddit-ai-text-video-posts" target="_blank">Reddit’s AI is turning posts into podcasts and short videos</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-17 23:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17422118/xen-project-safety-committee" target="_blank">The Xen Project is Serious About Safety, So It Formed a Committee</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-08-18 10:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Fedora-x86-64-v3-Delayed-F46" target="_blank">Fedora x86-64-v3 Optimized Packages Pushed Back To At Least Fedora 46</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-18 10:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,29 +223,20 @@
                 <span class="time">2026-08-18 07:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17422068/rewaita" target="_blank">I Found an Easy Way to Make GNOME More Colorful</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-08-18 07:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ascentinnovate/how-to-build-a-cost-aware-ai-model-router-for-saas-workflows-3h06" target="_blank">How to Build a Cost-Aware AI Model Router for SaaS Workflows</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-18 07:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/08/llms-and-contextual-integrity.html" target="_blank">LLMs and Contextual Integrity</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-08-18 10:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -332,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 106 | 📡 Total Sources: 39 | 📸 With Images: 253 |
-        🔄 Last Updated: 10:16 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 11:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
