@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-08-18 22:10:17 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-18 23:11:05 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, August 18, 2026 - 22:10 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Tuesday, August 18, 2026 - 23:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -65,6 +67,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-13-rt-gmh-260817_1786990751275_hpMain_4x3t_384.jpg" alt="Trump casts mail ballot again in Florida despite efforts to restrict mail voting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-casts-mail-ballot-florida-despite-efforts-restrict/story?id=135748506" target="_blank">Trump casts mail ballot again in Florida despite efforts to restrict mail voting</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-18 21:15</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -91,15 +102,6 @@
                 <span class="time">2026-08-18 19:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/8/18/landmark-trial-on-metas-impact-on-childrens-mental-health-begins-in-us?traffic_source=rss" target="_blank">Landmark trial on Meta’s impact on children’s mental health begins in US</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-18 18:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -112,6 +114,15 @@
                 <span class="title"><a href="https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/" target="_blank">DOJ’s probe into Andreessen Horowitz over board seats baffles VCs</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-08-18 20:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a8372555b7045e98c48385f/master/pass/Science_Squeeze%20More%20Juice%20out%20of%20a%20Dead%20Battery!_v1.jpg" alt="Squeeze More Juice Out of Your Dead Batteries—Using Physics" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/squeeze-more-juice-out-of-a-dead-battery/" target="_blank">Squeeze More Juice Out of Your Dead Batteries—Using Physics</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-18 20:11</span>
             </div>
         </div>
 <div class="story">
@@ -150,20 +161,29 @@
                 <span class="time">2026-08-18 18:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/" target="_blank">OpenAI institutes new safeguards after Hugging Face breach</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-18 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/souleyman_thiao_5e9e61267/taba-est-devenue-une-ligne-sql-et-ca-explique-mieux-la-poo-que-nimporte-quel-cours-5gg3" target="_blank">Taba est devenue une ligne SQL, et ça explique mieux la POO que n&#x27;importe quel cours</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-18 22:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/DenisSergeevitch/desktop-fly" target="_blank">A 3D fruit fly on macOS desktop powered by the real FlyWire connectome</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-18 21:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,24 +218,6 @@
                 <span class="title"><a href="https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/" target="_blank">Beware Management Consultants</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-08-18 19:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/RyanCodrai/turbovec" target="_blank">Turbovec – Google&#x27;s TurboQuant for vector search in Rust</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-18 18:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/IOmap-Linux-7.3-Faster" target="_blank">IOmap Improvement For Linux 7.3 Takes EXT4 &amp; XFS Performance Further</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-18 17:25</span>
             </div>
         </div>
 </div>
@@ -328,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 104 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 22:10 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 101 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 23:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
