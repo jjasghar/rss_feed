@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-08-19 05:19:01 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-19 06:22:41 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, August 19, 2026 - 05:19 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, August 19, 2026 - 06:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,10 +51,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/19/ukraines-ousted-defence-minister-calls-for-elections-during-war?traffic_source=rss" target="_blank">Ukraine’s ousted defence minister calls for elections during war</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-19 05:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs" target="_blank">Trump says U.S. and Canada reached deal to delay 50% U.S. tariffs on Canadian imports</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-08-19 04:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70bd/live/9fb7ae20-9b50-11f1-83d8-cfa02e83b41a.jpg" alt="&#x27;Everyone in for Christmas&#x27; - Burnham unveils rough sleeping plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Everyone in for Christmas&#x27; - Burnham unveils rough sleeping plan</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-19 03:42</span>
             </div>
         </div>
 <div class="story">
@@ -81,24 +100,6 @@
                 <span class="title"><a href="https://news.sky.com/story/trump-pauses-tariffs-on-canada-after-last-minute-deal-13574545" target="_blank">US and Canada reach last-minute tariffs deal after &#x27;intense&#x27; talks</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-08-19 02:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-trump-carney_7302900.jpg?20260721003217" alt="Trump pauses tariffs on Canada after last-minute deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trump-pauses-tariffs-on-canada-after-last-minute-deal-13574545" target="_blank">Trump pauses tariffs on Canada after last-minute deal</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-08-19 02:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/cory-mills_1754531696296_hpMain_4x3t_384.jpg" alt="Tuesday primaries: Embattled Rep. Cory Mills projected to lose reelection bid" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/primaries-3-states-tuesday-narrow-field-key-senate/story?id=135721707" target="_blank">Tuesday primaries: Embattled Rep. Cory Mills projected to lose reelection bid</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-19 02:23</span>
             </div>
         </div>
 </div>
@@ -186,6 +187,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco" target="_blank">Meta&#x27;s blockbuster trial draws parallels to big tobacco</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-19 02:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-staff-snake"></span>
                 <span class="title"><a href="https://folkwolf.net/claude-and-i-built-an-app/" target="_blank">Claude and I built an app</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
@@ -208,15 +218,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Modular-Mojo-Open-Source" target="_blank">Modular&#x27;s Mojo Language Now Open-Source Following Qualcomm Acquisition</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-08-19 00:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/josef_doornink_930b2caf1c/choosing-the-right-gpu-for-your-model-a-sizing-method-not-a-guess-4fe5" target="_blank">Choosing the Right GPU for Your Model — A Sizing Method, Not a Guess</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-19 00:24</span>
             </div>
         </div>
 </div>
@@ -329,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 112 | 📡 Total Sources: 39 | 📸 With Images: 252 |
-        🔄 Last Updated: 05:19 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 39 | 📸 With Images: 252 |
+        🔄 Last Updated: 06:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
