@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-08-19 21:14:45 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-08-19 22:12:33 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, August 19, 2026 - 21:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, August 19, 2026 - 22:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/8/19/what-the-social-media-addiction-lawsuit-could-cost-meta?traffic_source=rss" target="_blank">What the social media addiction lawsuit could cost Meta</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-19 22:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +99,20 @@
                 <span class="time">2026-08-19 18:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/19/nx-s1-5937912/kennedy-center-president-trump-name" target="_blank">In new filings, Kennedy Center says it won&#x27;t try to put Trump&#x27;s name on facade until Sept. 8</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-19 18:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/Amazon-Prime-Air-drone-500x500.jpeg" alt="Amazon aims for delivery drones to reach 500 US neighborhoods by end of 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/08/amazon-aims-for-delivery-drones-to-reach-500-us-neighborhoods-by-end-of-2026/" target="_blank">Amazon aims for delivery drones to reach 500 US neighborhoods by end of 2026</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-19 22:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/05/IMG_1032-500x500.jpeg" alt="Framework responds to complaints that BIOS update bricks Ryzen 7040 laptops" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,20 +158,20 @@
                 <span class="time">2026-08-19 19:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/982359/optimizer-wearable-future-google-ai" target="_blank">The wearable future is stuck in weird, experimental, existential limbo</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-19 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lizely/picking-the-right-way-to-turn-jpg-files-into-png-an-engineers-decision-guide-3pj8" target="_blank">Picking the Right Way to Turn JPG Files Into PNG: An Engineer&#x27;s Decision Guide</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-19 22:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffdgtw7j59unf9qwra91h.png" alt="Imagine Having a Heroku Mobile App" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -207,15 +217,6 @@
                 <span class="time">2026-08-19 17:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/" target="_blank">OpenRouter is joining Stripe</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-19 17:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/AI-Invoice-Maker-Lifetime-Subscription.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This $19.99 app turns a pile of receipts into a professional invoice in seconds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/19/this-19-99-app-turns-a-pile-of-receipts-into-a-professional-invoice-in-seconds.html" target="_blank">This $19.99 app turns a pile of receipts into a professional invoice in seconds</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-19 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01M0881RXD9FBE5G0D3187FCDA/hero-image.jpg" alt="Seven of the Most Common WhatsApp Scams (and How to Avoid Them)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +288,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/08/19/tom-the-dancing-bug-the-magas-go-back-to-when-america-was-great.html" target="_blank">Tom the Dancing Bug: The MAGAs go back to when America was Great</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-08-19 16:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/04/23bbd906b9c6e26a9b56b4155c2cff2b-1280x720.jpg" alt="Apple’s Sci-Fi Show About A Killer Robot Who Just Wants To Watch Soap Operas Has A Stacked Cast In Season 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/murderbot-season-2-cast-tramell-tillman-wanda-sykes-art-casting-2000725869" target="_blank">Apple’s Sci-Fi Show About A Killer Robot Who Just Wants To Watch Soap Operas Has A Stacked Cast In Season 2</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-19 16:16</span>
             </div>
         </div>
 </div>
@@ -344,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 123 | 📡 Total Sources: 39 | 📸 With Images: 253 |
-        🔄 Last Updated: 21:14 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 121 | 📡 Total Sources: 39 | 📸 With Images: 255 |
+        🔄 Last Updated: 22:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
