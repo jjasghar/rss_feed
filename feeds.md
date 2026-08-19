@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-08-19 16:17:24 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-19 17:16:10 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 10 new posts out of 26 feeds processed -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, August 19, 2026 - 16:17 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, August 19, 2026 - 17:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/19/hamas-condemns-new-war-crime-as-israel-kills-10-in-crowded-gaza-hubs?traffic_source=rss" target="_blank">Hamas condemns ‘new war crime’ as Israel kills 10 in crowded Gaza hubs</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-19 17:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/19/nx-s1-5937925/aitana-superestrella-song-of-the-summer" target="_blank">Why Aitana&#x27;s &#x27;Superestrella&#x27; is the surprise Latin hit song of the summer</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-19 17:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/Heidi-Overton-1-epa-gmh-260819_1787156647802_hpMain_4x3t_384.jpg" alt="Trump picks Dr. Heidi Overton for top FDA job" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-picks-dr-heidi-overton-top-fda-job/story?id=135777387" target="_blank">Trump picks Dr. Heidi Overton for top FDA job</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-19 16:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a318/live/339ec150-9bc9-11f1-98c6-93bfcdb08681.jpg" alt="Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -71,38 +101,29 @@
                 <span class="time">2026-08-19 14:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5e2/live/2f124880-9b12-11f1-9341-0383083a41e3.jpg" alt="Track defect found near derailment site - report" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss" target="_blank">Track defect found near derailment site - report</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-19 14:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a318/live/339ec150-9bc9-11f1-98c6-93bfcdb08681.jpg" alt="Israel confirms it opened fire on vehicle carrying five-year-old Hind Rajab in Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss" target="_blank">Israel confirms it opened fire on vehicle carrying five-year-old Hind Rajab in Gaza</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-19 13:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/8/19/mourinho-fires-real-madrid-shot-at-barcelona-saying-he-didnt-need-rodri?traffic_source=rss" target="_blank">Mourinho fires Real Madrid shot at Barcelona saying he ‘didn’t need’ Rodri</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-19 13:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai" target="_blank">OpenAI hit the brakes. Now what?</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-19 17:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/wildwood1-500x500.jpg" alt="A fantastical journey unfolds in gorgeous Wildwood trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2026/08/a-fantastical-journey-unfolds-in-gorgeous-wildwood-trailer/" target="_blank">A fantastical journey unfolds in gorgeous Wildwood trailer</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-19 17:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,24 +160,6 @@
                 <span class="time">2026-08-19 14:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/" target="_blank">Calendly throws its hat into meeting note-taker circus</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-19 14:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2289906305-500x500.jpg" alt="Trump expected to pick conservative policy wonk Heidi Overton to lead FDA" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/08/trump-expected-to-pick-conservative-policy-wonk-heidi-overton-to-lead-fda/" target="_blank">Trump expected to pick conservative policy wonk Heidi Overton to lead FDA</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-19 13:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +172,15 @@
                 <span class="title"><a href="https://dev.to/techwithsam/ai-engineering-for-flutter-developers-building-reliable-ai-features-in-flutter-54d8" target="_blank">AI Engineering for Flutter Developers — Building Reliable AI Features in Flutter</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-19 16:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/03/pinetab2-1.jpg?resize=406%2C232&amp;ssl=1" alt="PINE64 pulls the plug on Linux devices because of AI boom" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/pine64-stops-linux-device-production-chip-shortage" target="_blank">PINE64 pulls the plug on Linux devices because of AI boom</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-08-19 15:49</span>
             </div>
         </div>
 <div class="story">
@@ -205,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/zop_8abedcc7e12/cloud-cost-api-pulling-reconciled-aws-azure-and-gcp-spend-into-your-own-warehouse-csv-json-4lk" target="_blank">Cloud Cost API: Pulling Reconciled AWS, Azure and GCP Spend into Your Own Warehouse (CSV, JSON, Parquet)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-19 12:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17422921/murena-fairphone-6-plus" target="_blank">Murena Just Made The Fairphone (Gen. 6) Better!</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-08-19 11:53</span>
             </div>
         </div>
 </div>
@@ -321,22 +324,13 @@
                 <span class="time">2026-08-19 01:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-pencil"></span>
-                <span class="title"><a href="https://poorlydrawnlines.com/comic/check-this-out/" target="_blank">Check This Out</a></span>
-                <span class="feed">Poorly Drawn Lines</span>
-                <span class="time">2026-08-18 16:17</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 119 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 16:17 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 119 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 17:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
