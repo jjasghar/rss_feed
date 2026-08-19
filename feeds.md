@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-08-19 04:25:04 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-19 05:19:01 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, August 19, 2026 - 04:25 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Wednesday, August 19, 2026 - 05:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs" target="_blank">Trump says U.S. and Canada reached deal to delay 50% U.S. tariffs on Canadian imports</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-19 04:55</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/angie-nixon-2-gty-gmh-260818_1787105080128_hpMain_4x3t_384.jpg" alt="Divergent Dem results in Florida give the party another 2028 proving ground: ANALYSIS" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -60,6 +72,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/19/trial-begins-that-could-force-meta-to-change-facebook-and-instagram?traffic_source=rss" target="_blank">Trial begins that could force Meta to change Facebook and Instagram</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-19 03:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-trump-carney_7302900.jpg?20260721003217" alt="US and Canada reach last-minute tariffs deal after &#x27;intense&#x27; talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/trump-pauses-tariffs-on-canada-after-last-minute-deal-13574545" target="_blank">US and Canada reach last-minute tariffs deal after &#x27;intense&#x27; talks</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-08-19 02:27</span>
             </div>
         </div>
 <div class="story">
@@ -80,29 +101,20 @@
                 <span class="time">2026-08-19 02:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26e2/live/88af3c20-9b5f-11f1-aed2-8d6da8d75094.jpg" alt="Sacked Ukrainian defence minister calls for presidential election" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss" target="_blank">Sacked Ukrainian defence minister calls for presidential election</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-19 01:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/19/how-ebola-became-the-deadliest-outbreak-in-dr-congos-history?traffic_source=rss" target="_blank">How Ebola became the deadliest outbreak in DR Congo’s history</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-19 00:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" alt="Uber Eats Promo Codes: $15 Off│August 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/uber-eats-promo-code/" target="_blank">Uber Eats Promo Codes: $15 Off│August 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-19 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +160,20 @@
                 <span class="time">2026-08-18 20:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/ship40_2-500x500.jpg" alt="Against all odds, SpaceX finally tugs Starship into port after 24 days at sea" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/08/its-christmastime-at-spacex-as-company-salvages-starship-from-indian-ocean/" target="_blank">Against all odds, SpaceX finally tugs Starship into port after 24 days at sea</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-18 19:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sanyaduan/building-your-second-me-a-practical-framework-for-encoding-yourself-into-an-ai-agent-59kl" target="_blank">Building Your Second Me: A Practical Framework for Encoding Yourself into an AI Agent</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-19 05:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/josef_doornink_930b2caf1c/choosing-the-right-gpu-for-your-model-a-sizing-method-not-a-guess-4fe5" target="_blank">Choosing the Right GPU for Your Model — A Sizing Method, Not a Guess</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-19 00:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/COSMIC-Epoch-1.6" target="_blank">COSMIC Epoch 1.6 Released With Per-App Volume Control, Remote Desktop Preparations</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-19 00:20</span>
             </div>
         </div>
 </div>
@@ -327,7 +330,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 28 | 📅 Last 24h: 112 | 📡 Total Sources: 39 | 📸 With Images: 252 |
-        🔄 Last Updated: 04:25 UTC
+        🔄 Last Updated: 05:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
