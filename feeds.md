@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-08-19 19:16:25 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-19 20:13:14 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 11 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Wednesday, August 19, 2026 - 19:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Wednesday, August 19, 2026 - 20:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,12 +47,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/Politics/donald-trump-13-epa-gmh-260819_1787163690908_hpMain_4x3t_384.jpg" alt="Trump calls ballroom a &#x27;military complex&#x27; in bid to complete White House construction" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-calls-white-house-ballroom-military-complex-supreme/story?id=135782053" target="_blank">Trump calls ballroom a &#x27;military complex&#x27; in bid to complete White House construction</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-19 19:58</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/19/violence-in-the-new-syria?traffic_source=rss" target="_blank">Violence in the New Syria?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-19 18:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca41/live/295c31c0-9be5-11f1-ba30-ddd78081057f.jpg" alt="Family named after three die in sea off Shoreham" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cvgvr336z2po?at_medium=RSS&at_campaign=rss" target="_blank">Family named after three die in sea off Shoreham</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-19 18:45</span>
             </div>
         </div>
 <div class="story">
@@ -79,29 +100,29 @@
                 <span class="time">2026-08-19 17:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/19/nx-s1-5937925/aitana-superestrella-song-of-the-summer" target="_blank">Why Aitana&#x27;s &#x27;Superestrella&#x27; is the surprise Latin hit song of the summer</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-19 17:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Heidi-Overton-1-epa-gmh-260819_1787156647802_hpMain_4x3t_384.jpg" alt="Trump picks Dr. Heidi Overton for top FDA job" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-picks-dr-heidi-overton-top-fda-job/story?id=135777387" target="_blank">Trump picks Dr. Heidi Overton for top FDA job</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-19 16:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2273586740-500x500.jpg" alt="Flight attendants freaked out that Google to buy tons of Spirit employee data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/" target="_blank">Flight attendants freaked out that Google to buy tons of Spirit employee data</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-19 20:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a85e8ea4518d27679a9b132/master/pass/AI-Lab-Very-Clever-Robot-Creeped-Me-Out-Business.jpg" alt="I Saw the Future of AI in a Robot That Can Learn on the Spot" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/" target="_blank">I Saw the Future of AI in a Robot That Can Learn on the Spot</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-19 19:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -136,24 +157,6 @@
                 <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai" target="_blank">OpenAI hit the brakes. Now what?</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-08-19 17:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/wildwood1-500x500.jpg" alt="A fantastical journey unfolds in gorgeous Wildwood trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2026/08/a-fantastical-journey-unfolds-in-gorgeous-wildwood-trailer/" target="_blank">A fantastical journey unfolds in gorgeous Wildwood trailer</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-19 17:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a85ca54d0110f6d404e46bf/master/pass/081926_AI-Watermark-Removal.jpg" alt="Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/" target="_blank">Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-19 16:44</span>
             </div>
         </div>
 </div>
@@ -334,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 39 | 📸 With Images: 249 |
-        🔄 Last Updated: 19:16 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 39 | 📸 With Images: 252 |
+        🔄 Last Updated: 20:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
