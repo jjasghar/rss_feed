@@ -1,32 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-08-19 07:28:36 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-19 08:22:02 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, August 19, 2026 - 07:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, August 19, 2026 - 08:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +53,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/19/nx-s1-5937400/israel-strikes-syria" target="_blank">Israel strikes an air base in Syria to prevent Turkish troops from deploying</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-19 07:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/08/19/nx-s1-5937389/liberia-to-take-deportees-from-us" target="_blank">Liberia agrees to take 1,200 third-country deportees from the U.S.</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-08-19 06:57</span>
@@ -61,6 +77,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/Politics/cory-mills-20260819-ap-jh_1787114129407_hpMain_4x3t_384.jpg" alt="Takeaways from Tuesday primaries: Trump endorsement only goes so far" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/takeaways-tuesday-primaries-trump-endorsement/story?id=135754500" target="_blank">Takeaways from Tuesday primaries: Trump endorsement only goes so far</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-19 04:58</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -70,30 +95,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70bd/live/9fb7ae20-9b50-11f1-83d8-cfa02e83b41a.jpg" alt="&#x27;Everyone in for Christmas&#x27; - Burnham unveils rough sleeping plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70bd/live/9fb7ae20-9b50-11f1-83d8-cfa02e83b41a.jpg" alt="Burnham unveils plan to get rough sleepers off streets for Christmas" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Everyone in for Christmas&#x27; - Burnham unveils rough sleeping plan</a></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss" target="_blank">Burnham unveils plan to get rough sleepers off streets for Christmas</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-08-19 03:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/angie-nixon-2-gty-gmh-260818_1787105080128_hpMain_4x3t_384.jpg" alt="Divergent Dem results in Florida give the party another 2028 proving ground: ANALYSIS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/divergent-democratic-results-florida-give-party-2028-proving/story?id=135758872" target="_blank">Divergent Dem results in Florida give the party another 2028 proving ground: ANALYSIS</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-19 03:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/19/trial-begins-that-could-force-meta-to-change-facebook-and-instagram?traffic_source=rss" target="_blank">Trial begins that could force Meta to change Facebook and Instagram</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-19 03:20</span>
             </div>
         </div>
 </div>
@@ -164,6 +171,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hainanzhao/how-to-help-intern-projects-succeed-in-the-real-world-beyond-a-great-demo-28c5" target="_blank">How to Help Intern Projects Succeed in the Real World (Beyond a Great Demo)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-19 08:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/08/aws-bedrock-agentcore-runtime/en/headerimage/generatedHeaderImage-1787061024394.jpg" alt="Multi Agent Collaboration Gets Persistent Compute in Bedrock AgentCore" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/08/aws-bedrock-agentcore-runtime/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Multi Agent Collaboration Gets Persistent Compute in Bedrock AgentCore</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-19 08:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/sanyaduan/building-your-second-me-a-practical-framework-for-encoding-yourself-into-an-ai-agent-59kl" target="_blank">Building Your Second Me: A Practical Framework for Encoding Yourself into an AI Agent</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-19 05:09</span>
@@ -194,24 +219,6 @@
                 <span class="title"><a href="https://folkwolf.net/claude-and-i-built-an-app/" target="_blank">Claude and I built an app</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2026-08-19 02:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf" target="_blank">New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-19 00:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Modular-Mojo-Open-Source" target="_blank">Modular&#x27;s Mojo Language Now Open-Source Following Qualcomm Acquisition</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-19 00:33</span>
             </div>
         </div>
 </div>
@@ -334,7 +341,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 29 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 07:28 UTC
+        🔄 Last Updated: 08:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
