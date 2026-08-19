@@ -1,30 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-08-19 14:21:11 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-19 15:19:24 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 21 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, August 19, 2026 - 14:21 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Wednesday, August 19, 2026 - 15:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/19/g-s1-139174/trouville-sur-mer-france-normandy-monet-beach" target="_blank">Greetings from Trouville-sur-Mer, a beach town little changed since Monet painted it</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-19 14:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5e2/live/2f124880-9b12-11f1-9341-0383083a41e3.jpg" alt="Track defect found near derailment site - report" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss" target="_blank">Track defect found near derailment site - report</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-19 14:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a318/live/339ec150-9bc9-11f1-98c6-93bfcdb08681.jpg" alt="Israel confirms it opened fire on vehicle carrying five-year-old Hind Rajab in Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss" target="_blank">Israel confirms it opened fire on vehicle carrying five-year-old Hind Rajab in Gaza</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-19 13:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -67,38 +102,29 @@
                 <span class="time">2026-08-19 11:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-kenya-ololokwe-helicopter_7325561.jpg?20260819121508" alt="Several tourists feared dead after northern Kenya helicopter crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/several-tourists-feared-dead-after-northern-kenya-helicopter-crash-reports-13574663" target="_blank">Several tourists feared dead after northern Kenya helicopter crash</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-08-19 10:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/19/g-s1-138787/how-indias-blocking-of-a-film-exposing-real-life-police-abuses-backfired" target="_blank">How India&#x27;s blocking of a film exposing real-life police abuses backfired</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-19 10:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/19/at-least-five-killed-in-russian-air-attacks-on-ukraine?traffic_source=rss" target="_blank">At least five killed in Russian air attacks on Ukraine</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-19 09:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/982166/amazon-alexa-plus-fire-tv-free" target="_blank">Amazon Fire TV devices are getting a free Alexa Plus upgrade</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-19 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a84cf4b5fff3cefc910e1b0/master/pass/Summer-of-Movie-Ticket-Concertification-Culture.jpg" alt="Why Is It Absolute Hell to Buy a Movie Ticket Now?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/why-is-it-absolute-hell-to-buy-a-movie-ticket-now/" target="_blank">Why Is It Absolute Hell to Buy a Movie Ticket Now?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-19 14:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -135,29 +161,20 @@
                 <span class="time">2026-08-19 11:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/981894/framework-laptop-12-update-intel-core-linux-availability" target="_blank">Framework gave its 12-inch laptop some hardware upgrades</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-19 10:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/" target="_blank">Relativity Networks raises $22 million to bring a faster kind of fiber to data centers</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-19 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/dell-epyc-9005-memory-scaling" target="_blank">AMD EPYC 9005 Series Memory Scaling Performance From 4 To 24 DDR5 RDIMMs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-19 14:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/08/whatsapp-scam-alert-beta/en/headerimage/generatedHeaderImage-1786843415541.jpg" alt="Whatsapp Tests on Device ML for Scam Detection with Privacy Preserving Analytics" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -165,6 +182,15 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/08/whatsapp-scam-alert-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Whatsapp Tests on Device ML for Scam Detection with Privacy Preserving Analytics</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-08-19 14:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17423027/ultimate-ai-guide-for-linux-engineers-review" target="_blank">Book Review: The Ultimate AI Guide for Linux Engineers</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-08-19 13:44</span>
             </div>
         </div>
 <div class="story">
@@ -194,22 +220,18 @@
                 <span class="time">2026-08-19 11:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/progressive-collapse-system-resilience/en/mediumimage/sam-newman-medium-1785845419904.jpg" alt="Presentation: Understanding Progressive Collapse: How To Avoid A Cascading Failure" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/progressive-collapse-system-resilience/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Understanding Progressive Collapse: How To Avoid A Cascading Failure</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-19 11:00</span>
-            </div>
-        </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/PHP-8.6-Early-Benchmarks" target="_blank">PHP 7.4 To PHP 8.6 Benchmarks, PHP 8.6 JIT Performance</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-19 10:35</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/08/ice-collecting-dna-samples.html" target="_blank">ICE Collecting DNA Samples</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-08-19 10:46</span>
             </div>
         </div>
 </div>
@@ -317,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 112 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 14:21 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 15:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
