@@ -1,30 +1,19 @@
-<!-- Processing 54 RSS feeds at 2026-08-19 00:33:43 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-19 02:10:28 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
@@ -32,15 +21,11 @@
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 38 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, August 19, 2026 - 00:34 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Wednesday, August 19, 2026 - 02:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -56,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/19/how-ebola-became-the-deadliest-outbreak-in-dr-congos-history?traffic_source=rss" target="_blank">How Ebola became the deadliest outbreak in DR Congo’s history</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-19 00:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -99,15 +93,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/cm2gmjd36pvo?at_medium=RSS&at_campaign=rss" target="_blank">Three dead after family get into difficulty in sea</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-08-18 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-13-rt-gmh-260817_1786990751275_hpMain_4x3t_384.jpg" alt="Trump casts mail ballot again in Florida despite efforts to restrict mail voting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-casts-mail-ballot-florida-despite-efforts-restrict/story?id=135748506" target="_blank">Trump casts mail ballot again in Florida despite efforts to restrict mail voting</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-18 21:15</span>
             </div>
         </div>
 </div>
@@ -177,6 +162,33 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://folkwolf.net/claude-and-i-built-an-app/" target="_blank">Claude and I built an app</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-08-19 02:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf" target="_blank">New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-19 00:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Modular-Mojo-Open-Source" target="_blank">Modular&#x27;s Mojo Language Now Open-Source Following Qualcomm Acquisition</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-19 00:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/josef_doornink_930b2caf1c/choosing-the-right-gpu-for-your-model-a-sizing-method-not-a-guess-4fe5" target="_blank">Choosing the Right GPU for Your Model — A Sizing Method, Not a Guess</a></span>
                 <span class="feed">DEV Community</span>
@@ -199,33 +211,6 @@
                 <span class="title"><a href="https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability" target="_blank">When str.lower() is a security vulnerability in Python</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2026-08-18 22:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/souleyman_thiao_5e9e61267/taba-est-devenue-une-ligne-sql-et-ca-explique-mieux-la-poo-que-nimporte-quel-cours-5gg3" target="_blank">Taba est devenue une ligne SQL, et ça explique mieux la POO que n&#x27;importe quel cours</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-18 22:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/DenisSergeevitch/desktop-fly" target="_blank">A 3D fruit fly on macOS desktop powered by the real FlyWire connectome</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-18 21:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/codepy_1473/the-generated-helper-passed-locally-then-died-in-a-clean-container-because-it-read-a-global-i-1l4l" target="_blank">The Generated Helper Passed Locally, Then Died in a Clean Container Because It Read a Global I Never Passed</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-18 20:53</span>
             </div>
         </div>
 </div>
@@ -307,6 +292,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.questionablecontent.net/comics/5898.png" alt="Voicing Fears" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5898" target="_blank">Voicing Fears</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-08-19 01:05</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-pencil"></span>
@@ -324,22 +318,13 @@
                 <span class="time">2026-08-18 15:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5897.png" alt="Dragging It Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5897" target="_blank">Dragging It Out</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-08-18 00:53</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 103 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 00:34 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 02:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
