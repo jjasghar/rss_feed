@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-08-19 03:36:27 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-08-19 04:25:04 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 2 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, August 19, 2026 - 03:36 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, August 19, 2026 - 04:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/angie-nixon-2-gty-gmh-260818_1787105080128_hpMain_4x3t_384.jpg" alt="Divergent Dem results in Florida give the party another 2028 proving ground: ANALYSIS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/divergent-democratic-results-florida-give-party-2028-proving/story?id=135758872" target="_blank">Divergent Dem results in Florida give the party another 2028 proving ground: ANALYSIS</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-19 03:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,15 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/8/19/how-ebola-became-the-deadliest-outbreak-in-dr-congos-history?traffic_source=rss" target="_blank">How Ebola became the deadliest outbreak in DR Congo’s history</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-19 00:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1787098698000_now_staytuned_florida_nixon_kornacki_260818_S3_1920x1080-z0cacx.jpg" alt="Angie Nixon projected winner in Florida Democratic Senate primary" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/angie-nixon-projected-winner-in-florida-democratic-senate-primary-268502085911" target="_blank">Angie Nixon projected winner in Florida Democratic Senate primary</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-19 00:18</span>
             </div>
         </div>
 </div>
@@ -165,6 +165,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/susiewang/make-the-ai-wait-build-explicit-floor-control-for-a-tencent-rtc-voice-companion-467d" target="_blank">Make the AI Wait: Build Explicit Floor Control for a Tencent RTC Voice Companion</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-19 04:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-staff-snake"></span>
                 <span class="title"><a href="https://folkwolf.net/claude-and-i-built-an-app/" target="_blank">Claude and I built an app</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
@@ -205,15 +214,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/COSMIC-Epoch-1.6" target="_blank">COSMIC Epoch 1.6 Released With Per-App Volume Control, Remote Desktop Preparations</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-08-19 00:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability" target="_blank">When str.lower() is a security vulnerability in Python</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-08-18 22:57</span>
             </div>
         </div>
 </div>
@@ -326,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 111 | 📡 Total Sources: 39 | 📸 With Images: 253 |
-        🔄 Last Updated: 03:36 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 112 | 📡 Total Sources: 39 | 📸 With Images: 252 |
+        🔄 Last Updated: 04:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
