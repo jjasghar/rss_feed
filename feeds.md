@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-08-19 22:12:33 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-19 23:12:16 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Wednesday, August 19, 2026 - 22:12 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, August 19, 2026 - 23:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +50,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/economy/2026/8/19/what-the-social-media-addiction-lawsuit-could-cost-meta?traffic_source=rss" target="_blank">What the social media addiction lawsuit could cost Meta</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-19 22:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1787175602496_now_hallie_dha_harry_meghan_uk_260819_S3_1920x1080-jy8p3c.jpg" alt="Prince Harry and Meghan to make U.K. their &#x27;primary residence,&#x27; reports say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/prince-harry-and-meghan-to-make-u-k-their-primary-residence-reports-say-268554309695" target="_blank">Prince Harry and Meghan to make U.K. their &#x27;primary residence,&#x27; reports say</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-19 21:40</span>
             </div>
         </div>
 <div class="story">
@@ -90,20 +97,29 @@
                 <span class="time">2026-08-19 18:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca41/live/295c31c0-9be5-11f1-ba30-ddd78081057f.jpg" alt="Family named after three die in sea off Shoreham" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cvgvr336z2po?at_medium=RSS&at_campaign=rss" target="_blank">Family named after three die in sea off Shoreham</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-19 18:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a84d184f7b84b3670c55c0f/master/pass/politics_elon_texas_election.jpg" alt="Elon Musk Is Expected to Point His Money Machine at Texas" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/elon-musk-is-expected-to-point-his-money-machine-at-texas/" target="_blank">Elon Musk Is Expected to Point His Money Machine at Texas</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-19 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo" target="_blank">Does giving a camera wings dodge the FCC’s drone ban?</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-19 22:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/Amazon-Prime-Air-drone-500x500.jpeg" alt="Amazon aims for delivery drones to reach 500 US neighborhoods by end of 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,24 +154,6 @@
                 <span class="title"><a href="https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/" target="_blank">Flight attendants freaked out that Google to buy tons of Spirit employee data</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-08-19 20:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a85e8ea4518d27679a9b132/master/pass/AI-Lab-Very-Clever-Robot-Creeped-Me-Out-Business.jpg" alt="I Saw the Future of AI in a Robot That Can Learn on the Spot" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/" target="_blank">I Saw the Future of AI in a Robot That Can Learn on the Spot</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-19 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/" target="_blank">AI was supposed to win people over by now — it hasn’t</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-19 19:11</span>
             </div>
         </div>
 </div>
@@ -237,6 +235,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/mews-1280x730.jpg" alt="Pokémon’s 30th Anniversary Set Might Be Making A Mysterious New Mew Card The Rarest Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemons-30th-anniversary-set-might-be-making-a-mysterious-new-mew-card-the-rarest-ever-2000725936" target="_blank">Pokémon’s 30th Anniversary Set Might Be Making A Mysterious New Mew Card The Rarest Ever</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-19 21:37</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/AI-Invoice-Maker-Lifetime-Subscription.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This $19.99 app turns a pile of receipts into a professional invoice in seconds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -279,15 +286,6 @@
                 <span class="title"><a href="https://kotaku.com/no-more-playstation-discs-means-no-more-disc-butts-2000725871" target="_blank">No More PlayStation Discs Means No More Disc Butts</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-08-19 16:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/1798TEASER1200-magas-4-fabulous-fifites.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Tom the Dancing Bug: The MAGAs go back to when America was Great" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/19/tom-the-dancing-bug-the-magas-go-back-to-when-america-was-great.html" target="_blank">Tom the Dancing Bug: The MAGAs go back to when America was Great</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-19 16:25</span>
             </div>
         </div>
 </div>
@@ -345,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 121 | 📡 Total Sources: 39 | 📸 With Images: 255 |
-        🔄 Last Updated: 22:12 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 120 | 📡 Total Sources: 39 | 📸 With Images: 256 |
+        🔄 Last Updated: 23:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
