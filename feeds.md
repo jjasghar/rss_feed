@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-08-19 15:19:24 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-08-19 16:17:24 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 30 feeds processed -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 10 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, August 19, 2026 - 15:19 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, August 19, 2026 - 16:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a318/live/339ec150-9bc9-11f1-98c6-93bfcdb08681.jpg" alt="Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss" target="_blank">Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-19 15:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/aug/19/spain-allows-500-migrant-minors-in-ceuta-to-relocate-to-the-mainland-in-u-turn" target="_blank">Spain to allow 500 children in Ceuta to go to mainland in immigration U-turn</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-08-19 14:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +98,29 @@
                 <span class="time">2026-08-19 13:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a318/live/339ec150-9bc9-11f1-98c6-93bfcdb08681.jpg" alt="Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss" target="_blank">Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-19 12:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/19/in-ukraine-forcible-military-recruitment-efforts-escalate-into-violence?traffic_source=rss" target="_blank">In Ukraine, forcible military recruitment efforts escalate into violence</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-19 11:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/19/times-running-out-save-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/" target="_blank">Time’s running out! Save $300 on your TechCrunch Disrupt 2026 pass until August 21</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-19 16:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/981713/google-pixel-11-pro-review" target="_blank">The Pixel 11 Pro is a great phone, no thanks to its flashiest new features</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-19 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,29 +157,20 @@
                 <span class="time">2026-08-19 13:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset" target="_blank">Nvidia’s new financial strategy does not compute</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-19 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a8544f2eab23e58b199ded0/master/pass/Window-Cleaning-Robots-Are-Not-for-Me.jpg" alt="I Tried a Window-Cleaning Robot: Do Not Recommend" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/window-cleaning-robots-are-kinda-terrible/" target="_blank">I Tried a Window-Cleaning Robot: Do Not Recommend</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-19 11:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="AI Engineering for Flutter Developers — Building Reliable AI Features in Flutter" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/techwithsam/ai-engineering-for-flutter-developers-building-reliable-ai-features-in-flutter-54d8" target="_blank">AI Engineering for Flutter Developers — Building Reliable AI Features in Flutter</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-19 16:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +216,6 @@
                 <span class="time">2026-08-19 11:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://grapheneos.social/@GrapheneOS/117078064184215730" target="_blank">GrapheneOS in 2027 available on high-end Motorola phones</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-19 11:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/04/23bbd906b9c6e26a9b56b4155c2cff2b-1280x720.jpg" alt="Apple’s Sci-Fi Show About A Killer Robot Who Just Wants To Watch Soap Operas Has A Stacked Cast In Season 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/murderbot-season-2-cast-tramell-tillman-wanda-sykes-art-casting-2000725869" target="_blank">Apple’s Sci-Fi Show About A Killer Robot Who Just Wants To Watch Soap Operas Has A Stacked Cast In Season 2</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-19 16:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M0B7RFGMQR0S506YZMEPQCV5/hero-image.jpg" alt="Six Emergency Features You Should Enable on Your iPhone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/emergency-features-enable-on-iphone?utm_medium=RSS" target="_blank">Six Emergency Features You Should Enable on Your iPhone</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-19 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/liquid-pee2-1280x717.jpg" alt="Everyone Hates AI So Much, Jason Kelce Is Telling Beer Drinkers To Send Jars Of Their Piss To Data Centers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,29 +289,20 @@
                 <span class="time">2026-08-18 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M01E81A6F4T79X72A6WREN5C/hero-image.jpg" alt="Social Media Platforms Are Training Their AI Models on Your Content, but You Can Stop Them (Sometimes)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/social-media-platforms-are-training-their-ai-models-on-your-content?utm_medium=RSS" target="_blank">Social Media Platforms Are Training Their AI Models on Your Content, but You Can Stop Them (Sometimes)</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-18 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/VibeFarm.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Tired of recreating the same AI prompt from scratch? This $39.99 app saves it" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/18/tired-of-recreating-the-same-ai-prompt-from-scratch-this-39-99-app-saves-it.html" target="_blank">Tired of recreating the same AI prompt from scratch? This $39.99 app saves it</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-18 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1787015995-20260819.png" alt="Saturday Morning Breakfast Cereal - Me" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/me" target="_blank">Saturday Morning Breakfast Cereal - Me</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-08-19 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -325,22 +330,13 @@
                 <span class="time">2026-08-18 16:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1787015498-20260818.png" alt="Saturday Morning Breakfast Cereal - Genie" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/genie-4" target="_blank">Saturday Morning Breakfast Cereal - Genie</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-08-18 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 15:19 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 119 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 16:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
