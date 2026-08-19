@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-08-19 18:16:28 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-08-19 19:16:25 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 28 feeds processed -->
+<!-- Generated 11 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, August 19, 2026 - 18:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, August 19, 2026 - 19:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/19/violence-in-the-new-syria?traffic_source=rss" target="_blank">Violence in the New Syria?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-19 18:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/19/nx-s1-5937912/kennedy-center-president-trump-name" target="_blank">In new filings, Kennedy Center says it won&#x27;t try to put Trump&#x27;s name on facade until Sept. 8</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-19 18:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +97,20 @@
                 <span class="time">2026-08-19 16:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a318/live/339ec150-9bc9-11f1-98c6-93bfcdb08681.jpg" alt="Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss" target="_blank">Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-19 15:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/aug/19/spain-allows-500-migrant-minors-in-ceuta-to-relocate-to-the-mainland-in-u-turn" target="_blank">Spain to allow 500 children in Ceuta to go to mainland in immigration U-turn</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-08-19 14:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/" target="_blank">AI was supposed to win people over by now — it hasn’t</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-19 19:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +156,20 @@
                 <span class="time">2026-08-19 16:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/19/times-running-out-save-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/" target="_blank">Time’s running out! Save $300 on your TechCrunch Disrupt 2026 pass until August 21</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-19 16:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Go-1.27" target="_blank">Go Language 1.27 Adds Generic Methods, Struct Improvement &amp; More SIMD</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-19 18:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -187,36 +192,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/" target="_blank">OpenRouter is joining Stripe</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-19 17:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/" target="_blank">OpenRouter Is Joining Stripe</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-08-19 17:32</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="AI Engineering for Flutter Developers — Building Reliable AI Features in Flutter" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/techwithsam/ai-engineering-for-flutter-developers-building-reliable-ai-features-in-flutter-54d8" target="_blank">AI Engineering for Flutter Developers — Building Reliable AI Features in Flutter</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-19 16:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/03/pinetab2-1.jpg?resize=406%2C232&amp;ssl=1" alt="PINE64 pulls the plug on Linux devices because of AI boom" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/pine64-stops-linux-device-production-chip-shortage" target="_blank">PINE64 pulls the plug on Linux devices because of AI boom</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-08-19 15:49</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/dell-epyc-9005-memory-scaling" target="_blank">AMD EPYC 9005 Series Memory Scaling Performance From 4 To 24 DDR5 RDIMMs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-19 14:20</span>
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/from-chrome-devtools-to-ai-engineering" target="_blank">From Chrome DevTools to AI Engineering, with Addy Osmani</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-08-19 16:53</span>
             </div>
         </div>
 </div>
@@ -238,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M0BDF00YYWFY35V1CQ4QMNZD/hero-image.png" alt="The Out-of-Touch Adults&#x27; Guide to Kid Culture: Why Did Starbucks Bring Back the Unicorn Frappuccino" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/what-is-a-unicorn-frappuccino?utm_medium=RSS" target="_blank">The Out-of-Touch Adults&#x27; Guide to Kid Culture: Why Did Starbucks Bring Back the Unicorn Frappuccino</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-19 18:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01M0DG8VNE5TBC43BJF5D4J44F/hero-image.jpg" alt="If You Loved &#x27;The Hawk,&#x27; There&#x27;s One Movie You Need to Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +288,6 @@
                 <span class="time">2026-08-19 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/liquid-pee2-1280x717.jpg" alt="Everyone Hates AI So Much, Jason Kelce Is Telling Beer Drinkers To Send Jars Of Their Piss To Data Centers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/liquid-death-garage-beer-ad-send-us-your-pee-ai-data-centers-jason-kelce-2000725805" target="_blank">Everyone Hates AI So Much, Jason Kelce Is Telling Beer Drinkers To Send Jars Of Their Piss To Data Centers</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-19 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,6 +312,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/perseids.png" alt="Perseids" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3287/" target="_blank">Perseids</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-08-19 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.questionablecontent.net/comics/5898.png" alt="Voicing Fears" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -329,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 18:16 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 39 | 📸 With Images: 249 |
+        🔄 Last Updated: 19:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
