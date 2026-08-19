@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-08-19 10:16:37 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-19 11:14:08 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, August 19, 2026 - 10:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Wednesday, August 19, 2026 - 11:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +104,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/6a8544f2eab23e58b199ded0/master/pass/Window-Cleaning-Robots-Are-Not-for-Me.jpg" alt="I Tried a Window-Cleaning Robot: Do Not Recommend" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/window-cleaning-robots-are-kinda-terrible/" target="_blank">I Tried a Window-Cleaning Robot: Do Not Recommend</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-19 11:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/981894/framework-laptop-12-update-intel-core-linux-availability" target="_blank">Framework gave its 12-inch laptop some hardware upgrades</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-19 10:14</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -143,29 +157,29 @@
                 <span class="time">2026-08-18 22:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/" target="_blank">Cursor capitalizes on GitHub frustration, launches rival hosting platform</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-18 22:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/" target="_blank">DOJ’s probe into Andreessen Horowitz over board seats baffles VCs</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-18 20:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/presentations/progressive-collapse-system-resilience/en/mediumimage/sam-newman-medium-1785845419904.jpg" alt="Presentation: Understanding Progressive Collapse: How To Avoid A Cascading Failure" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/progressive-collapse-system-resilience/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Understanding Progressive Collapse: How To Avoid A Cascading Failure</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-19 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/PHP-8.6-Early-Benchmarks" target="_blank">PHP 7.4 To PHP 8.6 Benchmarks, PHP 8.6 JIT Performance</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-19 10:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,38 +214,6 @@
                 <span class="title"><a href="https://dev.to/sanyaduan/building-your-second-me-a-practical-framework-for-encoding-yourself-into-an-ai-agent-59kl" target="_blank">Building Your Second Me: A Practical Framework for Encoding Yourself into an AI Agent</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-19 05:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/susiewang/make-the-ai-wait-build-explicit-floor-control-for-a-tencent-rtc-voice-companion-467d" target="_blank">Make the AI Wait: Build Explicit Floor Control for a Tencent RTC Voice Companion</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-19 04:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco" target="_blank">Meta&#x27;s blockbuster trial draws parallels to big tobacco</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-19 02:24</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/08/llms-and-contextual-integrity.html" target="_blank">LLMs and Contextual Integrity</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-08-18 10:40</span>
             </div>
         </div>
 </div>
@@ -339,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 10:16 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 11:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
