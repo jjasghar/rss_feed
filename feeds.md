@@ -1,45 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-08-19 12:20:23 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-19 13:35:02 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 36 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, August 19, 2026 - 12:20 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Wednesday, August 19, 2026 - 13:35 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -56,12 +49,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a318/live/339ec150-9bc9-11f1-98c6-93bfcdb08681.jpg" alt="Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss" target="_blank">Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-19 12:41</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/8/19/in-ukraine-forcible-military-recruitment-efforts-escalate-into-violence?traffic_source=rss" target="_blank">In Ukraine, forcible military recruitment efforts escalate into violence</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-19 11:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-kenya-ololokwe-helicopter_7325561.jpg?20260819121508" alt="Several tourists feared dead after northern Kenya helicopter crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/several-tourists-feared-dead-after-northern-kenya-helicopter-crash-reports-13574663" target="_blank">Several tourists feared dead after northern Kenya helicopter crash</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-08-19 10:24</span>
             </div>
         </div>
 <div class="story">
@@ -89,24 +100,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss" target="_blank">Jump in energy bills drives UK inflation to highest rate for four months</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-08-19 09:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/19/nx-s1-5936241/feeling-restless-level-up-your-life-start-side-quest" target="_blank">Feeling restless? Level up your life by starting a side quest</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-19 09:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/19/nx-s1-5937400/israel-strikes-syria" target="_blank">Israel strikes an air base in Syria to prevent Turkish troops from deploying</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-19 07:51</span>
             </div>
         </div>
 </div>
@@ -183,6 +176,24 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17422921/murena-fairphone-6-plus" target="_blank">Murena Just Made The Fairphone (Gen. 6) Better!</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-08-19 11:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://grapheneos.social/@GrapheneOS/117078064184215730" target="_blank">GrapheneOS in 2027 available on high-end Motorola phones</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-19 11:46</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/presentations/progressive-collapse-system-resilience/en/mediumimage/sam-newman-medium-1785845419904.jpg" alt="Presentation: Understanding Progressive Collapse: How To Avoid A Cascading Failure" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -209,29 +220,29 @@
                 <span class="time">2026-08-19 10:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hainanzhao/how-to-help-intern-projects-succeed-in-the-real-world-beyond-a-great-demo-28c5" target="_blank">How to Help Intern Projects Succeed in the Real World (Beyond a Great Demo)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-19 08:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/08/aws-bedrock-agentcore-runtime/en/headerimage/generatedHeaderImage-1787061024394.jpg" alt="Multi Agent Collaboration Gets Persistent Compute in Bedrock AgentCore" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/08/aws-bedrock-agentcore-runtime/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Multi Agent Collaboration Gets Persistent Compute in Bedrock AgentCore</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-19 08:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/liquid-pee2-1280x717.jpg" alt="Everyone Hates AI So Much, Jason Kelce Is Telling Beer Drinkers To Send Jars Of Their Piss To Data Centers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/liquid-death-garage-beer-ad-send-us-your-pee-ai-data-centers-jason-kelce-2000725805" target="_blank">Everyone Hates AI So Much, Jason Kelce Is Telling Beer Drinkers To Send Jars Of Their Piss To Data Centers</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-19 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/crash1.jpg?fit=1440%2C900&amp;quality=60&amp;ssl=1" alt="NASA image shows crater on moon created by SpaceX rocket crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/19/nasa-image-shows-crater-on-moon-created-by-spacex-rocket-crash.html" target="_blank">NASA image shows crater on moon created by SpaceX rocket crash</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-19 11:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/Steam-Library-1280x720.jpg" alt="Is Steam Down? Is It Tuesday? Great News, It’s Probably Just Maintenance Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,24 +277,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/08/18/tired-of-recreating-the-same-ai-prompt-from-scratch-this-39-99-app-saves-it.html" target="_blank">Tired of recreating the same AI prompt from scratch? This $39.99 app saves it</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-08-18 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/bigwalkinterview8-1280x720.jpg" alt="The Creators Of Big Walk Break Down The GOTY Contender’s Development, Puzzles, And Stunning Ending" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-creators-of-big-walk-break-down-the-goty-contenders-development-puzzles-and-stunning-ending-2000725133" target="_blank">The Creators Of Big Walk Break Down The GOTY Contender’s Development, Puzzles, And Stunning Ending</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-18 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M0B2GEQCRNH81X7R8Q91RTFC/hero-image.jpg" alt="‘Outlier’ Is a New Word-Search Game That Makes Me Feel Smart" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/how-to-play-outlier?utm_medium=RSS" target="_blank">‘Outlier’ Is a New Word-Search Game That Makes Me Feel Smart</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-18 19:17</span>
             </div>
         </div>
 </div>
@@ -332,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 12:20 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 112 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 13:35 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
