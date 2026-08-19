@@ -1,42 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-08-19 09:20:53 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-19 10:16:37 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 33 feeds processed -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Wednesday, August 19, 2026 - 09:21 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Wednesday, August 19, 2026 - 10:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/19/g-s1-138787/how-indias-blocking-of-a-film-exposing-real-life-police-abuses-backfired" target="_blank">How India&#x27;s blocking of a film exposing real-life police abuses backfired</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-19 10:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/19/at-least-five-killed-in-russian-air-attacks-on-ukraine?traffic_source=rss" target="_blank">At least five killed in Russian air attacks on Ukraine</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-19 09:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91bf/live/ef617640-9baf-11f1-a291-b542ee92de7c.jpg" alt="Jump in energy bills drives UK inflation to highest rate for four months" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss" target="_blank">Jump in energy bills drives UK inflation to highest rate for four months</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-19 09:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,38 +102,20 @@
                 <span class="time">2026-08-19 06:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/19/ukraines-ousted-defence-minister-calls-for-elections-during-war?traffic_source=rss" target="_blank">Ukraine’s ousted defence minister calls for elections during war</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-19 05:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/cory-mills-20260819-ap-jh_1787114129407_hpMain_4x3t_384.jpg" alt="Takeaways from Tuesday primaries: Trump endorsement only goes so far" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/takeaways-tuesday-primaries-trump-endorsement/story?id=135754500" target="_blank">Takeaways from Tuesday primaries: Trump endorsement only goes so far</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-19 04:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs" target="_blank">Trump says U.S. and Canada reached deal to delay 50% U.S. tariffs on Canadian imports</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-19 04:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/" target="_blank">Relativity Networks raises $22 million to bring a faster kind of fiber to data centers</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-19 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a834e2ceca883ccd19e58fc/master/pass/Security_InsideNightshifttheAIAgentFlock_v1.gif" alt="Flock Has a Powerful New AI Tool for Police. We Got Its Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -156,20 +161,20 @@
                 <span class="time">2026-08-18 20:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a8372555b7045e98c48385f/master/pass/Science_Squeeze%20More%20Juice%20out%20of%20a%20Dead%20Battery!_v1.jpg" alt="Squeeze More Juice Out of Your Dead Batteries—Using Physics" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/squeeze-more-juice-out-of-a-dead-battery/" target="_blank">Squeeze More Juice Out of Your Dead Batteries—Using Physics</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-18 20:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/x86-Core-Types-Linux-7.3" target="_blank">New AMD Low-Power Core &amp; Unified Intel/AMD CPU Core Type Handling In Linux 7.3</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-19 10:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -213,15 +218,6 @@
                 <span class="title"><a href="https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco" target="_blank">Meta&#x27;s blockbuster trial draws parallels to big tobacco</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-08-19 02:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://folkwolf.net/claude-and-i-built-an-app/" target="_blank">Claude and I built an app</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-08-19 02:05</span>
             </div>
         </div>
 </div>
@@ -344,7 +340,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 09:21 UTC
+        🔄 Last Updated: 10:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
