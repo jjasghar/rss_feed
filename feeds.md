@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-08-19 17:16:10 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-08-19 18:16:28 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 10 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, August 19, 2026 - 17:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, August 19, 2026 - 18:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/19/north-korea-leaders-sister-denies-talks-with-hostile-us?traffic_source=rss" target="_blank">North Korea leader’s sister denies talks with ‘hostile’ US</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-19 17:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +101,29 @@
                 <span class="time">2026-08-19 14:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/19/g-s1-139174/trouville-sur-mer-france-normandy-monet-beach" target="_blank">Greetings from Trouville-sur-Mer, a beach town little changed since Monet painted it</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-19 14:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/column/982359/optimizer-wearable-future-google-ai" target="_blank">The wearable future is stuck in weird, experimental, existential limbo</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-19 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/" target="_blank">Meet the startup helping Wall Street put a price on AI compute</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-19 17:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -125,6 +143,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/6a85ca54d0110f6d404e46bf/master/pass/081926_AI-Watermark-Removal.jpg" alt="Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/" target="_blank">Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-19 16:44</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -133,38 +160,38 @@
                 <span class="time">2026-08-19 16:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/981713/google-pixel-11-pro-review" target="_blank">The Pixel 11 Pro is a great phone, no thanks to its flashiest new features</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-19 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/982166/amazon-alexa-plus-fire-tv-free" target="_blank">Amazon Fire TV devices are getting a free Alexa Plus upgrade</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-19 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a84cf4b5fff3cefc910e1b0/master/pass/Summer-of-Movie-Ticket-Concertification-Culture.jpg" alt="Why Is It Absolute Hell to Buy a Movie Ticket Now?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/why-is-it-absolute-hell-to-buy-a-movie-ticket-now/" target="_blank">Why Is It Absolute Hell to Buy a Movie Ticket Now?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-19 14:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vahidusefzadeh/incremental-backup-using-pgbasebackup-in-postgresql-18-24ag" target="_blank">Incremental Backup Using pg_basebackup in PostgreSQL 18</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-19 18:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/" target="_blank">GitHub Copilot app for Beginners: Managing your work</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-08-19 17:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/" target="_blank">OpenRouter Is Joining Stripe</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-19 17:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="AI Engineering for Flutter Developers — Building Reliable AI Features in Flutter" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -192,33 +219,6 @@
                 <span class="time">2026-08-19 14:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/08/whatsapp-scam-alert-beta/en/headerimage/generatedHeaderImage-1786843415541.jpg" alt="Whatsapp Tests on Device ML for Scam Detection with Privacy Preserving Analytics" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/08/whatsapp-scam-alert-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Whatsapp Tests on Device ML for Scam Detection with Privacy Preserving Analytics</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-19 14:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17423027/ultimate-ai-guide-for-linux-engineers-review" target="_blank">Book Review: The Ultimate AI Guide for Linux Engineers</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-08-19 13:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/zop_8abedcc7e12/cloud-cost-api-pulling-reconciled-aws-azure-and-gcp-spend-into-your-own-warehouse-csv-json-4lk" target="_blank">Cloud Cost API: Pulling Reconciled AWS, Azure and GCP Spend into Your Own Warehouse (CSV, JSON, Parquet)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-19 12:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +238,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M0DG8VNE5TBC43BJF5D4J44F/hero-image.jpg" alt="If You Loved &#x27;The Hawk,&#x27; There&#x27;s One Movie You Need to Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/what-movie-to-watch-after-the-hawk?utm_medium=RSS" target="_blank">If You Loved &#x27;The Hawk,&#x27; There&#x27;s One Movie You Need to Watch Next</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-19 17:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/2055-1280x720.jpg" alt="No More PlayStation Discs Means No More Disc Butts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/no-more-playstation-discs-means-no-more-disc-butts-2000725871" target="_blank">No More PlayStation Discs Means No More Disc Butts</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-19 16:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/1798TEASER1200-magas-4-fabulous-fifites.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Tom the Dancing Bug: The MAGAs go back to when America was Great" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/19/tom-the-dancing-bug-the-magas-go-back-to-when-america-was-great.html" target="_blank">Tom the Dancing Bug: The MAGAs go back to when America was Great</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-19 16:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/04/23bbd906b9c6e26a9b56b4155c2cff2b-1280x720.jpg" alt="Apple’s Sci-Fi Show About A Killer Robot Who Just Wants To Watch Soap Operas Has A Stacked Cast In Season 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -263,33 +290,6 @@
                 <span class="title"><a href="https://kotaku.com/liquid-death-garage-beer-ad-send-us-your-pee-ai-data-centers-jason-kelce-2000725805" target="_blank">Everyone Hates AI So Much, Jason Kelce Is Telling Beer Drinkers To Send Jars Of Their Piss To Data Centers</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-08-19 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/crash1.jpg?fit=1440%2C900&amp;quality=60&amp;ssl=1" alt="NASA image shows crater on moon created by SpaceX rocket crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/19/nasa-image-shows-crater-on-moon-created-by-spacex-rocket-crash.html" target="_blank">NASA image shows crater on moon created by SpaceX rocket crash</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-19 11:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/Steam-Library-1280x720.jpg" alt="Is Steam Down? Is It Tuesday? Great News, It’s Probably Just Maintenance Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/steam-down-tuesday-maintenance-2000725528" target="_blank">Is Steam Down? Is It Tuesday? Great News, It’s Probably Just Maintenance Day</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-18 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/Neverness-To-Everness-new-1.3-update-artwork-Hotta-Games-1280x720.jpg" alt="Neverness To Everness Devs Forget To Remove Watermark For Free Trial Of AI Software" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/neverness-to-everness-devs-forget-to-remove-watermark-for-free-trial-of-ai-software-2000725370" target="_blank">Neverness To Everness Devs Forget To Remove Watermark For Free Trial Of AI Software</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-18 22:00</span>
             </div>
         </div>
 </div>
@@ -329,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 119 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 17:16 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 18:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
