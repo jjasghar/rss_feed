@@ -1,39 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-08-19 08:22:02 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-19 09:20:53 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Generated 4 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, August 19, 2026 - 08:22 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, August 19, 2026 - 09:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +52,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/19/nx-s1-5936241/feeling-restless-level-up-your-life-start-side-quest" target="_blank">Feeling restless? Level up your life by starting a side quest</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-19 09:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +106,20 @@
                 <span class="time">2026-08-19 04:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70bd/live/9fb7ae20-9b50-11f1-83d8-cfa02e83b41a.jpg" alt="Burnham unveils plan to get rough sleepers off streets for Christmas" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss" target="_blank">Burnham unveils plan to get rough sleepers off streets for Christmas</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-19 03:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a834e2ceca883ccd19e58fc/master/pass/Security_InsideNightshifttheAIAgentFlock_v1.gif" alt="Flock Has a Powerful New AI Tool for Police. We Got Its Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/flock-safety-os-investigate/" target="_blank">Flock Has a Powerful New AI Tool for Police. We Got Its Code</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-19 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" alt="Uber Eats Promo Codes: $15 Off│August 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -115,6 +127,15 @@
                 <span class="title"><a href="https://www.wired.com/story/uber-eats-promo-code/" target="_blank">Uber Eats Promo Codes: $15 Off│August 2026</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-08-19 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2237968141-500x500.jpg" alt="&quot;Sabotage&quot;: Experts, lawmakers blast RFK Jr. for destroying healthcare research" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/" target="_blank">&quot;Sabotage&quot;: Experts, lawmakers blast RFK Jr. for destroying healthcare research</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-18 22:32</span>
             </div>
         </div>
 <div class="story">
@@ -142,24 +163,6 @@
                 <span class="title"><a href="https://www.wired.com/story/squeeze-more-juice-out-of-a-dead-battery/" target="_blank">Squeeze More Juice Out of Your Dead Batteries—Using Physics</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-08-18 20:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a8372555b7045e98c48385f/master/pass/Science_Squeeze%20More%20Juice%20out%20of%20a%20Dead%20Battery!_v1.jpg" alt="Squeeze More Juice Out of a Dead Battery!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/squeeze-more-juice-out-of-a-dead-battery/" target="_blank">Squeeze More Juice Out of a Dead Battery!</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-18 20:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/981611/steelseries-arctis-nova-3p-deal-sale" target="_blank">SteelSeries’ comfy wireless gaming headset is nearly half off</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-18 20:01</span>
             </div>
         </div>
 </div>
@@ -340,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 08:22 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 09:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
