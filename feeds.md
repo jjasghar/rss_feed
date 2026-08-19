@@ -1,38 +1,46 @@
-<!-- Processing 54 RSS feeds at 2026-08-18 23:11:05 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-19 00:33:43 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 38 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Tuesday, August 18, 2026 - 23:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, August 19, 2026 - 00:34 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +56,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/19/quebec-separatist-says-no-independence-referendum-while-trump-in-office?traffic_source=rss" target="_blank">Quebec separatist says no independence referendum while Trump in office</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-19 00:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/vote-gty-gmh-260818_1787087850783_hpMain_4x3t_384.jpg" alt="Primaries in 3 states will narrow the field in key Senate, House and governors’ races" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/primaries-3-states-tuesday-narrow-field-key-senate/story?id=135721707" target="_blank">Primaries in 3 states will narrow the field in key Senate, House and governors’ races</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-18 23:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4029/live/737ae0f0-9b39-11f1-adfc-97cecc6f1ad1.jpg" alt="Meta hooked children on Facebook and Instagram, court hears" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss" target="_blank">Meta hooked children on Facebook and Instagram, court hears</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-18 22:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,38 +110,20 @@
                 <span class="time">2026-08-18 21:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/18/russia-reports-ukrainian-drone-strike-near-zaporizhzhia-nuclear-plant?traffic_source=rss" target="_blank">Russia reports Ukrainian drone strike near Zaporizhzhia nuclear plant</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-18 20:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary" target="_blank">Embattled Florida Republican Rep. Cory Mills fights to keep his House seat</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-18 20:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/GMA/Haydn-Panettiere-3-rt-gmh-260817_1786979543085_hpMain_4x3t_384.jpg" alt="Hayden Panettiere&#x27;s ex-boyfriend was present at scene when she died: Police" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/GMA/Culture/police-report-details-scene-hayden-panettiere-died/story?id=135745247" target="_blank">Hayden Panettiere&#x27;s ex-boyfriend was present at scene when she died: Police</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-18 19:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/" target="_blank">Cursor capitalizes on GitHub frustration, launches rival hosting platform</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-18 22:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +169,38 @@
                 <span class="time">2026-08-18 19:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a84a2c1a6695ec2cd8e3a52/master/pass/The-Best-Garmin-Watch-I%E2%80%99ve-Tested-Is-25-Percent-Off-Right-Now.jpg" alt="Garmin Watches Are Up to $250 Off Right Now On Amazon (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/garmin-deals-august-2026/" target="_blank">Garmin Watches Are Up to $250 Off Right Now On Amazon (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-18 18:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/josef_doornink_930b2caf1c/choosing-the-right-gpu-for-your-model-a-sizing-method-not-a-guess-4fe5" target="_blank">Choosing the Right GPU for Your Model — A Sizing Method, Not a Guess</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-19 00:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/COSMIC-Epoch-1.6" target="_blank">COSMIC Epoch 1.6 Released With Per-App Volume Control, Remote Desktop Preparations</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-19 00:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability" target="_blank">When str.lower() is a security vulnerability in Python</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-08-18 22:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -193,33 +228,6 @@
                 <span class="time">2026-08-18 20:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/zanesterling7589/a-guide-to-urgent-compliance-notifications-with-delivery-polling-and-fallback-logic-llo" target="_blank">A Guide to Urgent Compliance Notifications with Delivery Polling and Fallback Logic</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-18 20:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-bpf_sock_read_xattr" target="_blank">Linux 7.3 Adds New &quot;bpf_sock_read_xattr&quot; Feature For systemd, BPF Programs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-18 19:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/" target="_blank">Beware Management Consultants</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-18 19:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +248,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/Steam-Library-1280x720.jpg" alt="Is Steam Down? Is It Tuesday? Great News, It’s Probably Just Maintenance Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/steam-down-tuesday-maintenance-2000725528" target="_blank">Is Steam Down? Is It Tuesday? Great News, It’s Probably Just Maintenance Day</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-18 23:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/Neverness-To-Everness-new-1.3-update-artwork-Hotta-Games-1280x720.jpg" alt="Neverness To Everness Devs Forget To Remove Watermark For Free Trial Of AI Software" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -258,6 +275,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/VibeFarm.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Tired of recreating the same AI prompt from scratch? This $39.99 app saves it" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/18/tired-of-recreating-the-same-ai-prompt-from-scratch-this-39-99-app-saves-it.html" target="_blank">Tired of recreating the same AI prompt from scratch? This $39.99 app saves it</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-18 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/bigwalkinterview8-1280x720.jpg" alt="The Creators Of Big Walk Break Down The GOTY Contender’s Development, Puzzles, And Stunning Ending" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -273,24 +299,6 @@
                 <span class="title"><a href="https://lifehacker.com/entertainment/how-to-play-outlier?utm_medium=RSS" target="_blank">‘Outlier’ Is a New Word-Search Game That Makes Me Feel Smart</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-08-18 19:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M0AY5FM8M3191TX9XV5HJTZG/hero-image.png" alt="Firefox Can Now Block Ads on iOS (but You Have to Enable It)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/how-to-block-ads-on-firefox-on-ios?utm_medium=RSS" target="_blank">Firefox Can Now Block Ads on iOS (but You Have to Enable It)</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-18 18:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/reMarkable-Paper-Pro-Android-13-apps.jpg?fit=1076%2C680&amp;quality=60&amp;ssl=1" alt="Android ported to reMarkable&#x27;s color tablet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/18/android-ported-to-remarkables-color-tablet.html" target="_blank">Android ported to reMarkable&#x27;s color tablet</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-18 18:14</span>
             </div>
         </div>
 </div>
@@ -330,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 101 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 23:11 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 103 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 00:34 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
