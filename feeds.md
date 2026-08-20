@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-08-20 19:21:53 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-08-20 20:15:37 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Thursday, August 20, 2026 - 19:22 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Thursday, August 20, 2026 - 20:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/20/nx-s1-5930462/trump-health-foodborne-illness-outbreak-cyclospora" target="_blank">Record cyclosporiasis outbreak tests the response of a &#x27;weakened&#x27; health system</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-20 19:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f685/live/690551d0-9cc6-11f1-a5cd-a14170183a2c.png" alt="US says sanctions will &#x27;squash&#x27; Iran&#x27;s economy and &#x27;collapse&#x27; its regime" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss" target="_blank">US says sanctions will &#x27;squash&#x27; Iran&#x27;s economy and &#x27;collapse&#x27; its regime</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-20 19:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/8/20/could-us-sanctions-destroy-the-international-criminal-court?traffic_source=rss" target="_blank">Could US sanctions destroy the International Criminal Court?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-20 19:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/534c/live/9495e5d0-9ca3-11f1-a291-b542ee92de7c.jpg" alt="Harry and Meghan&#x27;s return to UK reignites questions over security" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -74,38 +98,20 @@
                 <span class="time">2026-08-20 17:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/20/nx-s1-5939473/40-trillion-federal-debt" target="_blank">Three things to know about the $40 trillion federal debt</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-20 16:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement" target="_blank">US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-08-20 15:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/GMA/gma-harry-getty-260820_1787231788330_hpMain_4x3t_384.jpg" alt="Prince Harry, Meghan Markle to move to UK: Everything to know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/GMA/Culture/prince-harry-meghan-markle-move-united-kingdom/story?id=135804176" target="_blank">Prince Harry, Meghan Markle to move to UK: Everything to know</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-20 15:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a861888d3fed06f8e21101b/master/pass/Uncanny-Valley-Podcast-Typhoon-Hack-Security-1130970903.jpg" alt="China Is Strapping ‘Digital Bombs’ to Civilian Infrastructure—Is the US Ready?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/china-is-strapping-digital-bombs-to-civilian-infrastructure-is-the-us-ready/" target="_blank">China Is Strapping ‘Digital Bombs’ to Civilian Infrastructure—Is the US Ready?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-20 20:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +157,38 @@
                 <span class="time">2026-08-20 17:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2273992483-500x500.jpg" alt="Roblox must make changes after failing to block adults creeping on kids" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/08/weak-roblox-safeguards-failed-to-stop-adults-contacting-kids-regulator-says/" target="_blank">Roblox must make changes after failing to block adults creeping on kids</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-20 17:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/08/20/ai-won-t-replace-project-managers-but-it-is-reshaping-how-work-gets-done/" target="_blank">AI Won&#x27;t Replace Project Managers, But It is Reshaping How Work Gets Done</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-08-20 19:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/" target="_blank">Scientific study reveals TikTok videos deactivate key cognitive brain regions</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-20 18:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/" target="_blank">The August 17 outage, and the work ahead</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-08-20 18:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -190,33 +214,6 @@
                 <span class="title"><a href="https://dev.to/timevolt/finding-the-one-moving-averages-and-rsi-indicators-a-neos-guide-2aop" target="_blank">Finding the One: Moving Averages and RSI Indicators – A Neo’s Guide</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-20 17:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nessflow_8283f7335b896207/millions-of-log-lines-in-php-at-constant-memory-i7n" target="_blank">Millions of log lines in PHP, at constant memory</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-20 16:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/08/dynamic-icons-gnome-extension.webp?resize=406%2C232&amp;ssl=1" alt="Dynamic icons GNOME extension adds 2 new styles, Yaru fixes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/dynamic-icons-gnome-extension-updated" target="_blank">Dynamic icons GNOME extension adds 2 new styles, Yaru fixes</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-08-20 14:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mostafatech/7-security-checks-before-installing-a-new-developer-tool-5e44" target="_blank">7 Security Checks Before Installing a New Developer Tool</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-20 14:12</span>
             </div>
         </div>
 </div>
@@ -247,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/indieoftheweekFPStower-1280x720.jpg" alt="Great New Horror FPS Is Like BioShock, But With More Action And Creepy Clowns" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/great-new-horror-fps-is-like-bioshock-but-with-more-action-and-creepy-clowns-2000726250" target="_blank">Great New Horror FPS Is Like BioShock, But With More Action And Creepy Clowns</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-20 19:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/2XKO.jpg" alt="Riot Will End Active Development On 2XKO At The End Of The Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -290,15 +296,6 @@
                 <span class="title"><a href="https://kotaku.com/fromsoftware-says-nintendo-has-been-a-big-help-in-making-sure-switch-2-exclusive-the-duskbloods-doesnt-just-drop-players-in-and-hope-they-figure-it-out-2000726202" target="_blank">FromSoftware Says Nintendo Has Been A Big Help In Making Sure Switch 2 Exclusive The Duskbloods Doesn’t Just Drop Players In And Hope ‘They Figure It Out’</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-08-20 15:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/image-2.webp?fit=2048%2C1241&amp;quality=55&amp;ssl=1" alt="Gulag for Russian mercenary who beat soldier to death with dildo" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/20/gulag-for-russian-mercenary-who-beat-soldier-to-death-with-dildo.html" target="_blank">Gulag for Russian mercenary who beat soldier to death with dildo</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-20 13:56</span>
             </div>
         </div>
 </div>
@@ -347,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 124 | 📡 Total Sources: 39 | 📸 With Images: 255 |
-        🔄 Last Updated: 19:22 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 127 | 📡 Total Sources: 39 | 📸 With Images: 254 |
+        🔄 Last Updated: 20:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
