@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-08-20 06:23:49 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-20 07:30:54 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, August 20, 2026 - 06:24 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Thursday, August 20, 2026 - 07:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d90/live/3ec0fe10-9c53-11f1-aed2-8d6da8d75094.jpg" alt="At least 12 killed in Kyiv as Ukraine grapples with air defence shortages" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss" target="_blank">At least 12 killed in Kyiv as Ukraine grapples with air defence shortages</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-20 07:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/20/bangladesh-holds-presidential-election-in-first-contested-vote-in-35-years?traffic_source=rss" target="_blank">Bangladesh holds presidential election in first contested vote in 35 years</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-20 06:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,24 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss" target="_blank">Russian strike kills 3 in Ukraine as Zelenskyy faces pressure at home</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-20 02:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-6-gty-gmh-260819_1787157601531_hpMain_4x3t_384.jpg" alt="Trump shows off multimillion-dollar White House helipad and adds his signature" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-shows-off-multimillion-dollar-white-house-helipad/story?id=135782264" target="_blank">Trump shows off multimillion-dollar White House helipad and adds his signature</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-20 02:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/20/bodycam-captures-police-team-falling-when-deck-collapses-in-missouri?traffic_source=rss" target="_blank">Bodycam captures police team falling when deck collapses in Missouri</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-20 01:37</span>
             </div>
         </div>
 </div>
@@ -164,6 +166,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/08/harper-vercel-benchmark/en/headerimage/generatedHeaderImage-1786778815218.jpg" alt="Harper Argues Against the Multi-System Stack and Releases 5.2" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/08/harper-vercel-benchmark/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Harper Argues Against the Multi-System Stack and Releases 5.2</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-20 06:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803" target="_blank">Windows brings out the Rorschach test in everyone</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-20 06:16</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -197,24 +217,6 @@
                 <span class="title"><a href="https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621" target="_blank">Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-08-20 04:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/saurav_tb_pandey/the-press-it-twice-problem-why-idempotency-is-your-apis-best-friend-3j3g" target="_blank">The &quot;Press-It-Twice&quot; Problem: Why Idempotency is Your API&#x27;s Best Friend</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-20 04:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/susumun/the-excluded-plugin-setting-that-playwright-ignored-fixing-browser-mode-updates-and-false-3ceo" target="_blank">The excluded-plugin setting that Playwright ignored — fixing browser-mode updates and false residual warnings</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-20 03:08</span>
             </div>
         </div>
 </div>
@@ -322,22 +324,13 @@
                 <span class="time">2026-08-19 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/08/19/old-school-2" target="_blank">Old School</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-08-19 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 255 |
-        🔄 Last Updated: 06:24 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 07:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
