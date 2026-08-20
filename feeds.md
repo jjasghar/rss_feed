@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-08-20 13:36:49 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-20 14:23:26 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Generated 10 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, August 20, 2026 - 13:37 UTC</div>
+    <div class="newspaper-date">Thursday, August 20, 2026 - 14:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42ad/live/498598d0-9c8d-11f1-a291-b542ee92de7c.jpg" alt="Harry and Meghan&#x27;s security arrangements a private matter, PM says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss" target="_blank">Harry and Meghan&#x27;s security arrangements a private matter, PM says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-20 13:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -63,6 +71,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/20/g-s1-139388/up-first-newsletter-us-debt-venezuela-oil-deals-census-bureau-trump-voting-claims" target="_blank">U.S. debt tops $40 trillion. And, new census report Trump is touting raises concerns</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-20 11:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04db/live/0a124600-9c81-11f1-a291-b542ee92de7c.jpg" alt="At least 15 killed in Kyiv as Ukraine grapples with air defence shortages" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -72,30 +89,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://s.abcnews.com/images/US/donald-trump-12-epa-gmh-260819_1787165592825_hpMain_4x3t_384.jpg" alt="Iran live updates: Araghchi dismisses Trump&#x27;s &#x27;economic D-Day&#x27; threat" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile" target="_blank">North Korea fires a suspected missile toward the sea, Japan says</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-20 09:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/20/are-hormuz-ships-more-willing-to-defy-iran-or-the-us-what-data-shows?traffic_source=rss" target="_blank">Are Hormuz ships more willing to defy Iran or the US? What the data shows</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-20 08:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/630f/live/b3d19af0-9c6e-11f1-8efc-bf1ca073197a.png" alt="At least 13 killed in Kyiv as Ukraine grapples with air defence shortages" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss" target="_blank">At least 13 killed in Kyiv as Ukraine grapples with air defence shortages</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-20 07:59</span>
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-tehran-adopt-offensive-aspect-irgc/?id=135700072" target="_blank">Iran live updates: Araghchi dismisses Trump&#x27;s &#x27;economic D-Day&#x27; threat</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-20 11:06</span>
             </div>
         </div>
 </div>
@@ -103,6 +102,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/20/apollo-atomics-wants-to-make-nuclear-power-cheaper-by-shrinking-an-overlooked-part/" target="_blank">Apollo Atomics wants to make nuclear power cheaper by shrinking an overlooked part</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-20 13:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1047996096-500x500.jpg" alt="Reverse-lookup service exposed millions of photos of people’s faces" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,20 +156,29 @@
                 <span class="time">2026-08-20 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a84ac8b03b7ff172932c405/master/pass/MYPLOTS-GAJ31-web.jpg" alt="How Teen ‘After-Prom’ Kings in LA Monetized the High School Rager" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/myplots-jack-schwartz-zane-harwin-teen-parties-after-prom/" target="_blank">How Teen ‘After-Prom’ Kings in LA Monetized the High School Rager</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-20 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mostafatech/7-security-checks-before-installing-a-new-developer-tool-5e44" target="_blank">7 Security Checks Before Installing a New Developer Tool</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-20 14:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/" target="_blank">Malicious Rust Crate Arrayref Runs a Build-Time Payload</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-20 13:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/presentations/local-first-sync-engine/en/mediumimage/James-Arthur-medium-1786620651340.jpeg" alt="Presentation: Why Fetch When You Can Sync? Building Local-First Apps on a Sync Engine Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -183,37 +200,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17423937/foss-weekly-26-34" target="_blank">FOSS Weekly #26.34: StillOS Review, Kernel 7.2 Released, PINE Trouble, Beautifying GNOME, Terminal Multiplexers and More</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-08-20 12:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/amitesh0512/webmcp-agentic-web-debugging-2-second-latency-spikes-j3a" target="_blank">WebMCP Agentic Web: Debugging 2‑Second Latency Spikes</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-20 12:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/08/vercel-next-js-16-3/en/headerimage/generatedHeaderImage-1787213210838.jpg" alt="Next.js 16.3: Instant Navigations, Up to 90% Less Dev Memory and Faster Builds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/08/vercel-next-js-16-3/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Next.js 16.3: Instant Navigations, Up to 90% Less Dev Memory and Faster Builds</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-20 12:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/RPM-6.1-Released" target="_blank">RPM 6.1 Released With Clang Build Fixes, New Release Model</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-20 11:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mesa-26.2.1-Released" target="_blank">Mesa 26.2.1 Released With Dozens Of Fixes</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-20 10:35</span>
             </div>
         </div>
 </div>
@@ -326,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 13:37 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 14:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
