@@ -1,33 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-08-20 04:24:23 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-20 05:20:04 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, August 20, 2026 - 04:24 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, August 20, 2026 - 05:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e39/live/8b4a6c40-9c16-11f1-a291-b542ee92de7c.jpg" alt="Australia &#x27;outraged&#x27; after Israeli decision not to prosecute over killing of aid worker in Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss" target="_blank">Australia &#x27;outraged&#x27; after Israeli decision not to prosecute over killing of aid worker in Gaza</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-20 05:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,6 +85,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1aa9/live/d0abf130-9c1d-11f1-aed2-8d6da8d75094.jpg" alt="Prince Harry and Meghan moving back to UK later this month" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss" target="_blank">Prince Harry and Meghan moving back to UK later this month</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-20 01:14</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/GMA/Haydn-Panettiere-4-rt-gmh-260817._1786979543501_hpMain_4x3t_384.jpg" alt="DEA joins probe into Hayden Panettiere&#x27;s death: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -79,29 +102,20 @@
                 <span class="time">2026-08-20 00:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic" target="_blank">More than 100 dead after goldmine collapses in Central African Republic</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-08-20 00:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/20/harry-kane-scores-goal-by-winning-golden-shoe-for-the-second-time?traffic_source=rss" target="_blank">Harry Kane scores goal by winning Golden Shoe for the second time</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-20 00:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" alt="Peacock Promo Codes: 40% Off August 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/peacock-promo-code/" target="_blank">Peacock Promo Codes: 40% Off August 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-20 05:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/1783980227655-500x500.jpg" alt="NASA calls off mission to rescue Swift gamma-ray observatory" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,20 +161,29 @@
                 <span class="time">2026-08-19 22:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/Amazon-Prime-Air-drone-500x500.jpeg" alt="Amazon aims for delivery drones to reach 500 US neighborhoods by end of 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/08/amazon-aims-for-delivery-drones-to-reach-500-us-neighborhoods-by-end-of-2026/" target="_blank">Amazon aims for delivery drones to reach 500 US neighborhoods by end of 2026</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-19 22:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="The Open-Sourcing of DeepSeek Harness Opens the Door to Modular, Unbundled AI Agent Infrastructure" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/08/deep-seek-harness/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">The Open-Sourcing of DeepSeek Harness Opens the Door to Modular, Unbundled AI Agent Infrastructure</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-20 05:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/david_sert/running-multiple-ab-tests-at-once-when-overlap-is-safe-1dbf" target="_blank">Running Multiple A/B Tests at Once: When Overlap Is Safe</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-20 05:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,24 +218,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/tuba-mastodon-quote-support-collections" target="_blank">Tuba 0.11.0 released with full Mastodon quote support</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-08-20 02:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gde/why-i-tell-my-ai-coding-agent-prefer-dart-over-python-1dbg" target="_blank">Why I Tell My AI Coding Agent: &quot;Prefer Dart Over Python&quot;</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-20 01:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yagna_akkisetty_3edd2b7f5/introduction-1l27" target="_blank">Introduction</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-20 00:21</span>
             </div>
         </div>
 </div>
@@ -334,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 04:24 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 05:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
