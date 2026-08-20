@@ -1,31 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-08-20 17:17:48 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-08-20 18:20:39 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Generated 13 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, August 20, 2026 - 17:17 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, August 20, 2026 - 18:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +50,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/534c/live/9495e5d0-9ca3-11f1-a291-b542ee92de7c.jpg" alt="Harry and Meghan&#x27;s return to UK reignites questions over security" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss" target="_blank">Harry and Meghan&#x27;s return to UK reignites questions over security</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-20 18:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/20/bangladesh-elects-ruling-party-veteran-alamgir-as-president?traffic_source=rss" target="_blank">Bangladesh elects ruling party veteran Alamgir as president</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-20 17:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04db/live/0a124600-9c81-11f1-a291-b542ee92de7c.jpg" alt="Russia &#x27;purposefully&#x27; hit critical infrastructure in latest strikes, Kyiv mayor says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss" target="_blank">Russia &#x27;purposefully&#x27; hit critical infrastructure in latest strikes, Kyiv mayor says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-20 17:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/20/nx-s1-5939473/40-trillion-federal-debt" target="_blank">Three things to know about the $40 trillion federal debt</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-20 16:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -59,42 +104,6 @@
                 <span class="time">2026-08-20 15:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42ad/live/498598d0-9c8d-11f1-a291-b542ee92de7c.jpg" alt="Harry and Meghan&#x27;s security arrangements a private matter, PM says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss" target="_blank">Harry and Meghan&#x27;s security arrangements a private matter, PM says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-20 13:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/20/why-a-trump-envoys-kashmir-visit-has-led-to-us-pakistan-spat?traffic_source=rss" target="_blank">Why a Trump envoy’s Kashmir visit has led to US-Pakistan spat</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-20 13:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/20/20-08-reported-tanvir-chowdhury-bangladesh-bn?traffic_source=rss" target="_blank">Bangladesh’s government under pressure as youth demand jobs</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-20 11:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/20/g-s1-139388/up-first-newsletter-us-debt-venezuela-oil-deals-census-bureau-trump-voting-claims" target="_blank">U.S. debt tops $40 trillion. And, new census report Trump is touting raises concerns</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-20 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -103,10 +112,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/" target="_blank">Linkdaze’s smart calendar is built to run a household, not just track a schedule</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-20 18:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/gadgets/982800/framework-laptop-13-amd-7040-bios-320-bricking-warranty" target="_blank">Framework says it&amp;#8217;s addressing a BIOS update that bricked some of its older laptops</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-08-20 17:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2273992483-500x500.jpg" alt="Roblox must make changes after failing to block adults creeping on kids" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/08/weak-roblox-safeguards-failed-to-stop-adults-contacting-kids-regulator-says/" target="_blank">Roblox must make changes after failing to block adults creeping on kids</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-20 17:14</span>
             </div>
         </div>
 <div class="story">
@@ -136,29 +163,29 @@
                 <span class="time">2026-08-20 14:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/20/apollo-atomics-wants-to-make-nuclear-power-cheaper-by-shrinking-an-overlooked-part/" target="_blank">Apollo Atomics wants to make nuclear power cheaper by shrinking an overlooked part</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-20 13:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1047996096-500x500.jpg" alt="Reverse-lookup service exposed millions of photos of people’s faces" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/08/reverse-lookup-service-exposed-millions-of-photos-of-peoples-faces/" target="_blank">Reverse-lookup service exposed millions of photos of people’s faces</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-20 13:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/isazajuancarlos/que-es-la-criptografia-post-cuantica-y-por-que-deberias-migrar-ya-1l45" target="_blank">¿Qué es la criptografía post-cuántica y por qué deberías migrar ya?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-20 18:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Rust-1.98-Released" target="_blank">Rust 1.98 Adds Algebraic Floating-Point Methods Akin To &quot;-ffast-math&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-20 17:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,29 +222,20 @@
                 <span class="time">2026-08-20 14:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/" target="_blank">Malicious Rust Crate Arrayref Runs a Build-Time Payload</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-20 13:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/local-first-sync-engine/en/mediumimage/James-Arthur-medium-1786620651340.jpeg" alt="Presentation: Why Fetch When You Can Sync? Building Local-First Apps on a Sync Engine Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/local-first-sync-engine/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Why Fetch When You Can Sync? Building Local-First Apps on a Sync Engine Architecture</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-20 13:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/08/detailed-timeline-of-openais-cyberattack-on-hugging-face.html" target="_blank">Detailed Timeline of OpenAI’s Cyberattack on Hugging Face</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-08-20 17:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -232,6 +250,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/Thumbnail-from-Reckless-Bens-video-I-got-arrested-because-of-legos.jpg" alt="Bricks &amp; Minifigs’ $200,000 Star Wars Lego Dispute That Spawned Reckless Ben Drama Reaches Partial Settlement" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/reckless-ben-star-wars-lego-bricks-minifigs-mansell-family-mormon-mafia-2000726238" target="_blank">Bricks &amp; Minifigs’ $200,000 Star Wars Lego Dispute That Spawned Reckless Ben Drama Reaches Partial Settlement</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-20 18:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/c8b22880-996d-11f1-b2ab-0dd01740f9f6.jpg.webp?fit=1536%2C1399&amp;quality=55&amp;ssl=1" alt="Museum heist bags four Renaissance paintings, with two more dumped in the street" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/20/museum-heist-bags-four-renaissance-paintings-with-two-more-dumped-in-the-street.html" target="_blank">Museum heist bags four Renaissance paintings, with two more dumped in the street</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-20 17:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/duskbloods-pajama-man-1280x720.jpg" alt="Man This Game Is Gonna Rip, Look At This Cast Of Doofuses" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,24 +304,6 @@
                 <span class="time">2026-08-20 13:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2020/09/ftcpqiwbqbetpfr0wiay-1280x720.jpg" alt="We Just Had The Worst July For Console Sales In The U.S. Since The Pandemic As The RAM Crisis Ruins Everything" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/worst-july-console-sales-2020-pandemic-2026-2000726139" target="_blank">We Just Had The Worst July For Console Sales In The U.S. Since The Pandemic As The RAM Crisis Ruins Everything</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-20 13:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KPNE61BN28J9SM0MMCXW5YQ1/hero-image.jpg" alt="This Joy-Con Replacement for the Nintendo Switch Is 45% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/crkd-nitro-deck-for-nintendo-switch-sale-august-2026?utm_medium=RSS" target="_blank">This Joy-Con Replacement for the Nintendo Switch Is 45% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-20 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -314,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 121 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 17:17 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 39 | 📸 With Images: 254 |
+        🔄 Last Updated: 18:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
