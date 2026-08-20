@@ -1,31 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-08-20 00:33:52 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing 54 RSS feeds at 2026-08-20 02:09:14 UTC -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 22 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, August 20, 2026 - 00:34 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, August 20, 2026 - 02:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/20/bodycam-captures-police-team-falling-when-deck-collapses-in-missouri?traffic_source=rss" target="_blank">Bodycam captures police team falling when deck collapses in Missouri</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-20 01:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic" target="_blank">More than 100 dead after goldmine collapses in Central African Republic</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-08-20 00:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -62,37 +88,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/8/19/what-the-social-media-addiction-lawsuit-could-cost-meta?traffic_source=rss" target="_blank">What the social media addiction lawsuit could cost Meta</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-19 22:01</span>
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/19/nx-s1-5937926/california-wildfire-rules-zone-zero-vegetation" target="_blank">California passes toughest wildfire rules in the U.S. for home landscaping</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-19 23:19</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1787175602496_now_hallie_dha_harry_meghan_uk_260819_S3_1920x1080-jy8p3c.jpg" alt="Prince Harry and Meghan to make U.K. their &#x27;primary residence,&#x27; reports say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1787181041954_nn_dha_harrymeghanmoveuk_260819_S3_1920x1080-9nnev3.jpg" alt="Harry and Meghan set to return to UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/prince-harry-and-meghan-to-make-u-k-their-primary-residence-reports-say-268554309695" target="_blank">Prince Harry and Meghan to make U.K. their &#x27;primary residence,&#x27; reports say</a></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/harry-and-meghan-set-to-return-to-uk-268559941528" target="_blank">Harry and Meghan set to return to UK</a></span>
                 <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-19 21:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/19/uss-lincoln-woes-highlight-us-navy-limits-in-prolonged-iran-war-experts?traffic_source=rss" target="_blank">USS Lincoln woes highlight US Navy limits in prolonged Iran war: Experts</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-19 21:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash" target="_blank">Five Americans among seven killed in safari helicopter crash in Kenya</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-08-19 20:17</span>
+                <span class="time">2026-08-19 23:10</span>
             </div>
         </div>
 </div>
@@ -100,6 +108,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/1783980227655-500x500.jpg" alt="NASA calls off mission to rescue Swift gamma-ray observatory" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/08/nasa-calls-off-mission-to-rescue-swift-gamma-ray-observatory/" target="_blank">NASA calls off mission to rescue Swift gamma-ray observatory</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-20 00:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a84d184f7b84b3670c55c0f/master/pass/politics_elon_texas_election.jpg" alt="Elon Musk Is Expected to Point His Money Machine at Texas Politics" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,20 +162,29 @@
                 <span class="time">2026-08-19 20:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/" target="_blank">Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-19 20:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/12/modest-tuba.jpg.webp?resize=406%2C232&amp;ssl=1" alt="Tuba 0.11.0 released with full Mastodon quote support" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/tuba-mastodon-quote-support-collections" target="_blank">Tuba 0.11.0 released with full Mastodon quote support</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-08-20 02:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gde/why-i-tell-my-ai-coding-agent-prefer-dart-over-python-1dbg" target="_blank">Why I Tell My AI Coding Agent: &quot;Prefer Dart Over Python&quot;</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-20 01:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -193,24 +219,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/08/docker-vmm-layer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Docker Launches Fully Rebuilt Virtualization Layer to Boost Performance and Improve Dev Experience</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-08-19 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Go-1.27" target="_blank">Go Language 1.27 Adds Generic Methods, Struct Improvement &amp; More SIMD</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-19 18:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vahidusefzadeh/incremental-backup-using-pgbasebackup-in-postgresql-18-24ag" target="_blank">Incremental Backup Using pg_basebackup in PostgreSQL 18</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-19 18:02</span>
             </div>
         </div>
 </div>
@@ -327,22 +335,13 @@
                 <span class="time">2026-08-19 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5898.png" alt="Voicing Fears" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5898" target="_blank">Voicing Fears</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-08-19 01:05</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 254 |
-        🔄 Last Updated: 00:34 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 118 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 02:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
