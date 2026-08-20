@@ -1,34 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-08-20 15:22:19 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-08-20 16:19:53 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, August 20, 2026 - 15:22 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, August 20, 2026 - 16:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement" target="_blank">US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-08-20 15:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/GMA/gma-harry-getty-260820_1787231788330_hpMain_4x3t_384.jpg" alt="Prince Harry, Meghan Markle to move to UK: Everything to know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/GMA/Culture/prince-harry-meghan-markle-move-united-kingdom/story?id=135804176" target="_blank">Prince Harry, Meghan Markle to move to UK: Everything to know</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-20 15:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42ad/live/498598d0-9c8d-11f1-a291-b542ee92de7c.jpg" alt="Harry and Meghan&#x27;s security arrangements a private matter, PM says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,29 +96,29 @@
                 <span class="time">2026-08-20 11:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04db/live/0a124600-9c81-11f1-a291-b542ee92de7c.jpg" alt="At least 15 killed in Kyiv as Ukraine grapples with air defence shortages" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss" target="_blank">At least 15 killed in Kyiv as Ukraine grapples with air defence shortages</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-20 11:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-12-epa-gmh-260819_1787165592825_hpMain_4x3t_384.jpg" alt="Iran live updates: Araghchi dismisses Trump&#x27;s &#x27;economic D-Day&#x27; threat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-tehran-adopt-offensive-aspect-irgc/?id=135700072" target="_blank">Iran live updates: Araghchi dismisses Trump&#x27;s &#x27;economic D-Day&#x27; threat</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-20 11:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/" target="_blank">Meta brings Pocket, an app that lets you vibe-code and share games, to US users</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-20 16:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/Original-6723-photo-3-gv90-exterior-500x500.jpg" alt="Genesis joins the giant electric SUV club with new GV90" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/08/genesis-joins-the-giant-electric-suv-club-with-new-gv90/" target="_blank">Genesis joins the giant electric SUV club with new GV90</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-20 14:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,29 +155,29 @@
                 <span class="time">2026-08-20 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a86289d942118095017e61e/master/pass/Review--Poolease-X1-Pool-Robot-.jpg" alt="Poolease X1 Pool Robot Review: How Bad Can It Be?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/poolease-x1-pool-robot/" target="_blank">Poolease X1 Pool Robot Review: How Bad Can It Be?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-20 11:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/980552/pet-piano-cat-autofeeder" target="_blank">The piano that taught my cat to play for her supper</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-20 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nessflow_8283f7335b896207/millions-of-log-lines-in-php-at-constant-memory-i7n" target="_blank">Millions of log lines in PHP, at constant memory</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-20 16:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/08/dynamic-icons-gnome-extension.webp?resize=406%2C232&amp;ssl=1" alt="Dynamic icons GNOME extension adds 2 new styles, Yaru fixes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/dynamic-icons-gnome-extension-updated" target="_blank">Dynamic icons GNOME extension adds 2 new styles, Yaru fixes</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-08-20 14:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,24 +214,6 @@
                 <span class="time">2026-08-20 13:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17423937/foss-weekly-26-34" target="_blank">FOSS Weekly #26.34: StillOS Review, Kernel 7.2 Released, PINE Trouble, Beautifying GNOME, Terminal Multiplexers and More</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-08-20 12:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/amitesh0512/webmcp-agentic-web-debugging-2-second-latency-spikes-j3a" target="_blank">WebMCP Agentic Web: Debugging 2‑Second Latency Spikes</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-20 12:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/duskbloods.jpg" alt="FromSoftware Says Nintendo Has Been A Big Help In Making Sure Switch 2 Exclusive The Duskbloods Doesn’t Just Drop Players In And Hope ‘They Figure It Out’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/fromsoftware-says-nintendo-has-been-a-big-help-in-making-sure-switch-2-exclusive-the-duskbloods-doesnt-just-drop-players-in-and-hope-they-figure-it-out-2000726202" target="_blank">FromSoftware Says Nintendo Has Been A Big Help In Making Sure Switch 2 Exclusive The Duskbloods Doesn’t Just Drop Players In And Hope ‘They Figure It Out’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-20 15:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/image-2.webp?fit=2048%2C1241&amp;quality=55&amp;ssl=1" alt="Gulag for Russian mercenary who beat soldier to death with dildo" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +287,6 @@
                 <span class="time">2026-08-20 11:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M0ANKAC589C21G7C5Z8J8JZT/hero-image.jpg" alt="10 Finder Hacks Every Mac User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/10-finder-hacks-every-mac-user-should-know?utm_medium=RSS" target="_blank">10 Finder Hacks Every Mac User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-19 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -317,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 15:22 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 16:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
