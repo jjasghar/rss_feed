@@ -1,39 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-08-20 03:36:23 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-20 04:24:23 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, August 20, 2026 - 03:36 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Thursday, August 20, 2026 - 04:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +47,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss" target="_blank">Russian forces kill 3 in Ukraine as Zelenskyy faces pressure over elections</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-20 02:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss" target="_blank">Russian strike kills 3 in Ukraine as Zelenskyy faces pressure at home</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-20 02:50</span>
@@ -65,6 +68,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/20/bodycam-captures-police-team-falling-when-deck-collapses-in-missouri?traffic_source=rss" target="_blank">Bodycam captures police team falling when deck collapses in Missouri</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-20 01:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/GMA/Haydn-Panettiere-4-rt-gmh-260817._1786979543501_hpMain_4x3t_384.jpg" alt="DEA joins probe into Hayden Panettiere&#x27;s death: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/drug-enforcement-administration-joins-probe-hayden-panettieres-death/story?id=135790227" target="_blank">DEA joins probe into Hayden Panettiere&#x27;s death: Sources</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-20 00:14</span>
             </div>
         </div>
 <div class="story">
@@ -83,24 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/20/harry-kane-scores-goal-by-winning-golden-shoe-for-the-second-time?traffic_source=rss" target="_blank">Harry Kane scores goal by winning Golden Shoe for the second time</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-20 00:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1aa9/live/d0abf130-9c1d-11f1-aed2-8d6da8d75094.jpg" alt="Prince Harry and Meghan moving back to UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss" target="_blank">Prince Harry and Meghan moving back to UK</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-19 23:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/19/nx-s1-5937926/california-wildfire-rules-zone-zero-vegetation" target="_blank">California passes toughest wildfire rules in the U.S. for home landscaping</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-19 23:19</span>
             </div>
         </div>
 </div>
@@ -171,6 +165,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/saurav_tb_pandey/the-press-it-twice-problem-why-idempotency-is-your-apis-best-friend-3j3g" target="_blank">The &quot;Press-It-Twice&quot; Problem: Why Idempotency is Your API&#x27;s Best Friend</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-20 04:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/susumun/the-excluded-plugin-setting-that-playwright-ignored-fixing-browser-mode-updates-and-false-3ceo" target="_blank">The excluded-plugin setting that Playwright ignored — fixing browser-mode updates and false residual warnings</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-20 03:08</span>
@@ -210,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/yagna_akkisetty_3edd2b7f5/introduction-1l27" target="_blank">Introduction</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-20 00:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lizely/picking-the-right-way-to-turn-jpg-files-into-png-an-engineers-decision-guide-3pj8" target="_blank">Picking the Right Way to Turn JPG Files Into PNG: An Engineer&#x27;s Decision Guide</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-19 22:07</span>
             </div>
         </div>
 </div>
@@ -335,22 +329,13 @@
                 <span class="time">2026-08-19 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/perseids.png" alt="Perseids" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3287/" target="_blank">Perseids</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-08-19 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 03:36 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 04:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
