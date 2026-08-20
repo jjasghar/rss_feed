@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-08-20 22:14:17 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-20 23:14:36 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Thursday, August 20, 2026 - 22:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, August 20, 2026 - 23:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,12 +47,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/GMA/panettiere-2-gty-er-260820_1787254784123_hpMain_4x3t_384.jpg" alt="Brian Hickerson&#x27;s attorney issues statement after Hayden Panettiere&#x27;s death" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/GMA/Culture/brian-hickersons-attorney-issues-statement-after-hayden-panettieres/story?id=135817617" target="_blank">Brian Hickerson&#x27;s attorney issues statement after Hayden Panettiere&#x27;s death</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-20 22:54</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/8/20/pakistans-ex-pm-imran-khan-transferred-from-jail-to-hospital?traffic_source=rss" target="_blank">Pakistan’s ex-PM Imran Khan reportedly moved to hospital from jail</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-20 21:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1787257652429_now_mtp_clip_ablk_260820_S3_1920x1080-ab3kkz.jpg" alt="&#x27;Nothing has gotten better&#x27;: Focus group shares affordability concerns as US debt tops $40 trillion" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/-nothing-has-gotten-better-focus-group-shares-affordability-concerns-as-us-debt-tops-40-trillion-268608069671" target="_blank">&#x27;Nothing has gotten better&#x27;: Focus group shares affordability concerns as US debt tops $40 trillion</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-20 20:28</span>
             </div>
         </div>
 <div class="story">
@@ -79,29 +100,20 @@
                 <span class="time">2026-08-20 19:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/534c/live/9495e5d0-9ca3-11f1-a291-b542ee92de7c.jpg" alt="Harry and Meghan&#x27;s return to UK reignites questions over security" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss" target="_blank">Harry and Meghan&#x27;s return to UK reignites questions over security</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-20 18:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/20/bangladesh-elects-ruling-party-veteran-alamgir-as-president?traffic_source=rss" target="_blank">Bangladesh elects ruling party veteran Alamgir as president</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-20 17:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/" target="_blank">OpenAI is gaining on Anthropic with business users, new data indicates</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-20 22:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,15 +157,6 @@
                 <span class="title"><a href="https://www.wired.com/story/the-galaxys-fastest-star-could-reveal-the-secrets-of-a-supermassive-black-hole/" target="_blank">The Galaxy’s Fastest Star Could Reveal the Secrets of a Supermassive Black Hole</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-08-20 20:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a861888d3fed06f8e21101b/master/pass/Uncanny-Valley-Podcast-Typhoon-Hack-Security-1130970903.jpg" alt="China Is Strapping ‘Digital Bombs’ to Civilian Infrastructure—Is the US Ready?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/china-is-strapping-digital-bombs-to-civilian-infrastructure-is-the-us-ready/" target="_blank">China Is Strapping ‘Digital Bombs’ to Civilian Infrastructure—Is the US Ready?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-20 20:03</span>
             </div>
         </div>
 </div>
@@ -244,6 +247,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/darth-vader-1280x720.jpg" alt="Darth Vader Wants Flock Surveillance Cameras In Cities To ‘Find The Rebel Scum’ And ‘Stalk My Ex-Girlfriend’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/darth-vader-wants-flock-surveillance-cameras-2000726326" target="_blank">Darth Vader Wants Flock Surveillance Cameras In Cities To ‘Find The Rebel Scum’ And ‘Stalk My Ex-Girlfriend’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-20 22:20</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/gta666666-1280x720.jpg" alt="Jason Flying A Plane In The New GTA 6 Leak Has Me More Excited Than Any Previous Trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -262,6 +274,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/PDF-Expert-Premium-Plan-1-1.jpg?fit=1200%2C901&amp;quality=60&amp;ssl=1" alt="Decrease your cortisol by increasing your control of your PDFs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/20/decrease-your-cortisol-by-increasing-your-control-of-your-pdfs.html" target="_blank">Decrease your cortisol by increasing your control of your PDFs</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-20 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/xbox-games-store.jpg" alt="Xbox And EA Aren’t Sharing U.S. Digital Sales Data Anymore, And That’s Worrisome" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -277,24 +298,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/08/20/year-in-jail-for-tourist-who-wouldnt-shut-up-on-balis-day-of-silence.html" target="_blank">Year in jail for tourist who wouldn&#x27;t shut up on Bali&#x27;s Day of Silence</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-08-20 19:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/indieoftheweekFPStower-1280x720.jpg" alt="Great New Horror FPS Is Like BioShock, But With More Action And Creepy Clowns" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/great-new-horror-fps-is-like-bioshock-but-with-more-action-and-creepy-clowns-2000726250" target="_blank">Great New Horror FPS Is Like BioShock, But With More Action And Creepy Clowns</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-20 19:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/2XKO.jpg" alt="Riot Will End Active Development On 2XKO At The End Of The Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/riot-will-end-active-development-on-2xko-at-the-end-of-the-year-2000726270" target="_blank">Riot Will End Active Development On 2XKO At The End Of The Year</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-20 19:18</span>
             </div>
         </div>
 </div>
@@ -334,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 39 | 📸 With Images: 254 |
-        🔄 Last Updated: 22:14 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 40 | 📸 With Images: 256 |
+        🔄 Last Updated: 23:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
