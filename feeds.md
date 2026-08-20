@@ -1,28 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-08-20 11:15:42 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing 54 RSS feeds at 2026-08-20 12:22:32 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 20 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, August 20, 2026 - 11:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Thursday, August 20, 2026 - 12:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/20/20-08-reported-tanvir-chowdhury-bangladesh-bn?traffic_source=rss" target="_blank">Bangladesh’s government under pressure as youth demand jobs</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-20 11:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04db/live/0a124600-9c81-11f1-a291-b542ee92de7c.jpg" alt="At least 15 killed in Kyiv as Ukraine grapples with air defence shortages" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss" target="_blank">At least 15 killed in Kyiv as Ukraine grapples with air defence shortages</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-20 11:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,29 +102,38 @@
                 <span class="time">2026-08-20 07:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d90/live/3ec0fe10-9c53-11f1-aed2-8d6da8d75094.jpg" alt="At least 12 killed in Kyiv as Ukraine grapples with air defence shortages" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss" target="_blank">At least 12 killed in Kyiv as Ukraine grapples with air defence shortages</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-20 07:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/20/bangladesh-holds-presidential-election-in-first-contested-vote-in-35-years?traffic_source=rss" target="_blank">Bangladesh holds presidential election in first contested vote in 35 years</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-20 06:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/" target="_blank">Meta AI’s new Mac app wants you to talk to your apps</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-20 12:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/report/982414/meta-glasses-work-surveillance-labor-security" target="_blank">Meta glasses are a workplace menace</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-20 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a86289d942118095017e61e/master/pass/Review--Poolease-X1-Pool-Robot-.jpg" alt="Poolease X1 Pool Robot Review: How Bad Can It Be?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/poolease-x1-pool-robot/" target="_blank">Poolease X1 Pool Robot Review: How Bad Can It Be?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-20 11:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -124,38 +161,38 @@
                 <span class="time">2026-08-20 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/" target="_blank">Binance now lets AI agents trade, but keeping them in check is largely up to users</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-20 09:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a84e417f7b84b3670c55d44/master/pass/Science_WhySalmonellaIsEverywhere_v1.gif" alt="Salmonella Is Everywhere" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/salmonella-is-everywhere/" target="_blank">Salmonella Is Everywhere</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-20 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" alt="Peacock Promo Codes: 40% Off August 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/peacock-promo-code/" target="_blank">Peacock Promo Codes: 40% Off August 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-20 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/amitesh0512/webmcp-agentic-web-debugging-2-second-latency-spikes-j3a" target="_blank">WebMCP Agentic Web: Debugging 2‑Second Latency Spikes</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-20 12:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/08/vercel-next-js-16-3/en/headerimage/generatedHeaderImage-1787213210838.jpg" alt="Next.js 16.3: Instant Navigations, Up to 90% Less Dev Memory and Faster Builds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/08/vercel-next-js-16-3/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Next.js 16.3: Instant Navigations, Up to 90% Less Dev Memory and Faster Builds</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-20 12:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/RPM-6.1-Released" target="_blank">RPM 6.1 Released With Clang Build Fixes, New Release Model</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-20 11:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -183,33 +220,6 @@
                 <span class="time">2026-08-20 08:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://dontpastetheai.com/" target="_blank">Don&#x27;t Paste the AI, please</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-20 08:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bettertoken_ai/claude-code-context-usage-diagnose-unnecessary-tokens-476e" target="_blank">Claude Code Context Usage: Diagnose Unnecessary Tokens</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-20 08:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Microsoft Releases Aspire 13.5 With a Refreshed Dashboard and Workflow Improvements" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/08/dotnet-aspire-13-5-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Microsoft Releases Aspire 13.5 With a Refreshed Dashboard and Workflow Improvements</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-20 08:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -229,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/gta6-flying-1280x720.jpg" alt="Even More Unofficial GTA 6 Footage Suggests Leaker Has A Playable Build" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/gta-6-footage-playable-build-cyberleek-radio-stations-flying-2000726124" target="_blank">Even More Unofficial GTA 6 Footage Suggests Leaker Has A Playable Build</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-20 11:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01M0ANKAC589C21G7C5Z8J8JZT/hero-image.jpg" alt="10 Finder Hacks Every Mac User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,15 +293,6 @@
                 <span class="time">2026-08-19 18:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M0DG8VNE5TBC43BJF5D4J44F/hero-image.jpg" alt="If You Loved &#x27;The Hawk,&#x27; There&#x27;s One Movie You Need to Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/what-movie-to-watch-after-the-hawk?utm_medium=RSS" target="_blank">If You Loved &#x27;The Hawk,&#x27; There&#x27;s One Movie You Need to Watch Next</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-19 17:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 11:15 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 12:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
