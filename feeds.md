@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-08-20 14:23:26 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-20 15:22:19 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 25 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, August 20, 2026 - 14:23 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, August 20, 2026 - 15:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -235,6 +236,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/image-2.webp?fit=2048%2C1241&amp;quality=55&amp;ssl=1" alt="Gulag for Russian mercenary who beat soldier to death with dildo" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/20/gulag-for-russian-mercenary-who-beat-soldier-to-death-with-dildo.html" target="_blank">Gulag for Russian mercenary who beat soldier to death with dildo</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-20 13:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M0FN4WJETFRKKYA4WMSPRZYM/hero-image.jpg" alt="I Let Claude Answer My Emails for Me, and Here&#x27;s How It Went" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/how-to-have-claude-answer-your-emails-for-you?utm_medium=RSS" target="_blank">I Let Claude Answer My Emails for Me, and Here&#x27;s How It Went</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-20 13:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2020/09/ftcpqiwbqbetpfr0wiay-1280x720.jpg" alt="We Just Had The Worst July For Console Sales In The U.S. Since The Pandemic As The RAM Crisis Ruins Everything" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -270,24 +289,6 @@
                 <span class="time">2026-08-19 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/mews-1280x730.jpg" alt="Pokémon’s 30th Anniversary Set Might Be Making A Mysterious New Mew Card The Rarest Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemons-30th-anniversary-set-might-be-making-a-mysterious-new-mew-card-the-rarest-ever-2000725936" target="_blank">Pokémon’s 30th Anniversary Set Might Be Making A Mysterious New Mew Card The Rarest Ever</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-19 21:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/AI-Invoice-Maker-Lifetime-Subscription.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This $19.99 app turns a pile of receipts into a professional invoice in seconds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/19/this-19-99-app-turns-a-pile-of-receipts-into-a-professional-invoice-in-seconds.html" target="_blank">This $19.99 app turns a pile of receipts into a professional invoice in seconds</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-19 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -311,22 +312,13 @@
                 <span class="time">2026-08-19 20:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1787015995-20260819.png" alt="Saturday Morning Breakfast Cereal - Me" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/me" target="_blank">Saturday Morning Breakfast Cereal - Me</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-08-19 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 14:23 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 15:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
