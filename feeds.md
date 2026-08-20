@@ -1,40 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-08-20 09:21:48 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-20 10:17:57 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 31 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Thursday, August 20, 2026 - 09:22 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, August 20, 2026 - 10:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile" target="_blank">North Korea fires a suspected missile toward the sea, Japan says</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-20 09:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,20 +101,29 @@
                 <span class="time">2026-08-20 06:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-slovenian-steam-boat_7326163.jpg?20260820080733" alt="European drought reveals 100-year-old steam boat and ancient Roman bridge" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/drought-reveals-100-year-old-boat-in-serbia-and-ancient-roman-bridge-in-italy-13574893" target="_blank">European drought reveals 100-year-old steam boat and ancient Roman bridge</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-08-20 06:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a84ac8b03b7ff172932c405/master/pass/MYPLOTS-GAJ31-web.jpg" alt="How Teen ‘After-Prom’ Kings in LA Monetized the High School Rager" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/myplots-jack-schwartz-zane-harwin-teen-parties-after-prom/" target="_blank">How Teen ‘After-Prom’ Kings in LA Monetized the High School Rager</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-20 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/982216/sennheiser-momentum-true-wireless-5-earbuds-replaceable-batteries" target="_blank">Sennheiser’s new Momentum 5 earbuds feature easily replaceable batteries</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-20 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a84e417f7b84b3670c55d44/master/pass/Science_WhySalmonellaIsEverywhere_v1.gif" alt="Salmonella Is Everywhere" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,29 +160,29 @@
                 <span class="time">2026-08-19 23:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a84d184f7b84b3670c55c0f/master/pass/politics_elon_texas_election.jpg" alt="Elon Musk Is Expected to Point His Money Machine at Texas Politics" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/elon-musk-is-expected-to-point-his-money-machine-at-texas/" target="_blank">Elon Musk Is Expected to Point His Money Machine at Texas Politics</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-19 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a84d184f7b84b3670c55c0f/master/pass/politics_elon_texas_election.jpg" alt="Elon Musk Is Expected to Point His Money Machine at Texas" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/elon-musk-is-expected-to-point-his-money-machine-at-texas/" target="_blank">Elon Musk Is Expected to Point His Money Machine at Texas</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-19 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pablodevrel/how-to-set-up-email-on-vercel-with-amelu-free-tier-34oe" target="_blank">So... Vercel doesn&#x27;t have built-in email?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-20 10:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17423719/warp-factories-launched" target="_blank">Warp Launches Factories to Let Engineering Teams Build Their Own Cloud Software Factories</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-08-20 08:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -187,6 +202,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Microsoft Releases Aspire 13.5 With a Refreshed Dashboard and Workflow Improvements" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/08/dotnet-aspire-13-5-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Microsoft Releases Aspire 13.5 With a Refreshed Dashboard and Workflow Improvements</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-20 08:07</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/08/harper-vercel-benchmark/en/headerimage/generatedHeaderImage-1786778815218.jpg" alt="Harper Argues Against the Multi-System Stack and Releases 5.2" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -195,38 +219,20 @@
                 <span class="time">2026-08-20 06:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803" target="_blank">Windows brings out the Rorschach test in everyone</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-20 06:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ayshriv/run-local-llms-with-ollama-and-spring-ai-36l3" target="_blank">Run Local LLMs with Ollama and Spring AI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-20 06:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="The Open-Sourcing of DeepSeek Harness Opens the Door to Modular, Unbundled AI Agent Infrastructure" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/08/deep-seek-harness/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">The Open-Sourcing of DeepSeek Harness Opens the Door to Modular, Unbundled AI Agent Infrastructure</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-20 05:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/08/police-are-hiding-their-use-of-flock-surveillance-cameras.html" target="_blank">Police Are Hiding Their Use of Flock Surveillance Cameras</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-08-20 09:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -332,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 40 | 📸 With Images: 254 |
-        🔄 Last Updated: 09:22 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 10:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
