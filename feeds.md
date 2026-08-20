@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-08-20 12:22:32 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-20 13:36:49 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Thursday, August 20, 2026 - 12:22 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, August 20, 2026 - 13:37 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/20/why-a-trump-envoys-kashmir-visit-has-led-to-us-pakistan-spat?traffic_source=rss" target="_blank">Why a Trump envoy’s Kashmir visit has led to US-Pakistan spat</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-20 13:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +98,20 @@
                 <span class="time">2026-08-20 07:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/20/20-08-clip-netanyahu-turkey-sot-il?traffic_source=rss" target="_blank">Netanyahu warns Israel will not tolerate Turkish military presence in Syria</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-20 07:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1047996096-500x500.jpg" alt="Reverse-lookup service exposed millions of photos of people’s faces" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/08/reverse-lookup-service-exposed-millions-of-photos-of-peoples-faces/" target="_blank">Reverse-lookup service exposed millions of photos of people’s faces</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-20 13:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +157,29 @@
                 <span class="time">2026-08-20 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/982216/sennheiser-momentum-true-wireless-5-earbuds-replaceable-batteries" target="_blank">Sennheiser’s new Momentum 5 earbuds feature easily replaceable batteries</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-20 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/presentations/local-first-sync-engine/en/mediumimage/James-Arthur-medium-1786620651340.jpeg" alt="Presentation: Why Fetch When You Can Sync? Building Local-First Apps on a Sync Engine Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/local-first-sync-engine/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Why Fetch When You Can Sync? Building Local-First Apps on a Sync Engine Architecture</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-20 13:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-FSCRYPT" target="_blank">FSCRYPT Sees Cleanup With Linux 7.3 To Open Door For More Features Like Btrfs Encryption</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-20 13:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,24 +216,6 @@
                 <span class="time">2026-08-20 10:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pablodevrel/how-to-set-up-email-on-vercel-with-amelu-free-tier-34oe" target="_blank">So... Vercel doesn&#x27;t have built-in email?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-20 10:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17423719/warp-factories-launched" target="_blank">Warp Launches Factories to Let Engineering Teams Build Their Own Cloud Software Factories</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-08-20 08:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2020/09/ftcpqiwbqbetpfr0wiay-1280x720.jpg" alt="We Just Had The Worst July For Console Sales In The U.S. Since The Pandemic As The RAM Crisis Ruins Everything" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/worst-july-console-sales-2020-pandemic-2026-2000726139" target="_blank">We Just Had The Worst July For Console Sales In The U.S. Since The Pandemic As The RAM Crisis Ruins Everything</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-20 13:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KPNE61BN28J9SM0MMCXW5YQ1/hero-image.jpg" alt="This Joy-Con Replacement for the Nintendo Switch Is 45% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/crkd-nitro-deck-for-nintendo-switch-sale-august-2026?utm_medium=RSS" target="_blank">This Joy-Con Replacement for the Nintendo Switch Is 45% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-20 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/gta6-flying-1280x720.jpg" alt="Even More Unofficial GTA 6 Footage Suggests Leaker Has A Playable Build" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,24 +287,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/08/19/this-19-99-app-turns-a-pile-of-receipts-into-a-professional-invoice-in-seconds.html" target="_blank">This $19.99 app turns a pile of receipts into a professional invoice in seconds</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-08-19 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M0881RXD9FBE5G0D3187FCDA/hero-image.jpg" alt="Seven of the Most Common WhatsApp Scams (and How to Avoid Them)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/how-to-protect-yourself-from-these-common-whatsapp-scams?utm_medium=RSS" target="_blank">Seven of the Most Common WhatsApp Scams (and How to Avoid Them)</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-19 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M0BDF00YYWFY35V1CQ4QMNZD/hero-image.png" alt="The Out-of-Touch Adults&#x27; Guide to Kid Culture: Why Did Starbucks Bring Back the Unicorn Frappuccino" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/what-is-a-unicorn-frappuccino?utm_medium=RSS" target="_blank">The Out-of-Touch Adults&#x27; Guide to Kid Culture: Why Did Starbucks Bring Back the Unicorn Frappuccino</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-19 18:02</span>
             </div>
         </div>
 </div>
@@ -330,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 12:22 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 13:37 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
