@@ -1,34 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-08-20 20:15:37 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-08-20 21:16:46 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Thursday, August 20, 2026 - 20:15 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Thursday, August 20, 2026 - 21:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,6 +101,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/20/the-enhanced-games-techs-steroid-extravaganza-didnt-pay-off-as-company-posts-60-million-loss/" target="_blank">The Enhanced Games — tech’s steroid extravaganza — didn’t pay off, as company posts $60 million loss</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-20 21:08</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6a861888d3fed06f8e21101b/master/pass/Uncanny-Valley-Podcast-Typhoon-Hack-Security-1130970903.jpg" alt="China Is Strapping ‘Digital Bombs’ to Civilian Infrastructure—Is the US Ready?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -148,20 +154,20 @@
                 <span class="time">2026-08-20 18:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/982800/framework-laptop-13-amd-7040-bios-320-bricking-warranty" target="_blank">Framework says it&amp;#8217;s addressing a BIOS update that bricked some of its older laptops</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-20 17:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ivanindiv/buying-a-phone-number-is-a-distributed-transaction-2i0h" target="_blank">Buying a phone number is a distributed transaction</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-20 20:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,21 +205,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://substackcdn.com/image/fetch/$s_!qxa1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F798d1525-1097-40a9-b68e-8ae5dbb6598f_970x666.png" alt="The Pulse: We need to talk about migrations with AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Rust-1.98-Released" target="_blank">Rust 1.98 Adds Algebraic Floating-Point Methods Akin To &quot;-ffast-math&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-20 17:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/timevolt/finding-the-one-moving-averages-and-rsi-indicators-a-neos-guide-2aop" target="_blank">Finding the One: Moving Averages and RSI Indicators – A Neo’s Guide</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-20 17:13</span>
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-we-need-to-talk-about-migrations" target="_blank">The Pulse: We need to talk about migrations with AI</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-08-20 17:53</span>
             </div>
         </div>
 </div>
@@ -244,6 +241,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/xbox-games-store.jpg" alt="Xbox And EA Aren’t Sharing U.S. Digital Sales Data Anymore, And That’s Worrisome" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/xbox-isnt-sharing-us-digital-sales-data-anymore-2000726257" target="_blank">Xbox And EA Aren’t Sharing U.S. Digital Sales Data Anymore, And That’s Worrisome</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-20 20:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/shutterstock_380130313.jpg?fit=1666%2C1126&amp;quality=60&amp;ssl=1" alt="Year in jail for tourist who wouldn&#x27;t shut up on Bali&#x27;s Day of Silence" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/20/year-in-jail-for-tourist-who-wouldnt-shut-up-on-balis-day-of-silence.html" target="_blank">Year in jail for tourist who wouldn&#x27;t shut up on Bali&#x27;s Day of Silence</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-20 19:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/indieoftheweekFPStower-1280x720.jpg" alt="Great New Horror FPS Is Like BioShock, But With More Action And Creepy Clowns" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,24 +295,6 @@
                 <span class="time">2026-08-20 17:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/duskbloods-pajama-man-1280x720.jpg" alt="Man This Game Is Gonna Rip, Look At This Cast Of Doofuses" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-duskbloods-characters-doofuses-2000726223" target="_blank">Man This Game Is Gonna Rip, Look At This Cast Of Doofuses</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-20 17:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/duskbloods.jpg" alt="FromSoftware Says Nintendo Has Been A Big Help In Making Sure Switch 2 Exclusive The Duskbloods Doesn’t Just Drop Players In And Hope ‘They Figure It Out’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/fromsoftware-says-nintendo-has-been-a-big-help-in-making-sure-switch-2-exclusive-the-duskbloods-doesnt-just-drop-players-in-and-hope-they-figure-it-out-2000726202" target="_blank">FromSoftware Says Nintendo Has Been A Big Help In Making Sure Switch 2 Exclusive The Duskbloods Doesn’t Just Drop Players In And Hope ‘They Figure It Out’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-20 15:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -330,22 +327,13 @@
                 <span class="time">2026-08-20 00:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/08/19/old-school-2" target="_blank">Old School</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-08-19 20:17</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 127 | 📡 Total Sources: 39 | 📸 With Images: 254 |
-        🔄 Last Updated: 20:15 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 39 | 📸 With Images: 255 |
+        🔄 Last Updated: 21:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
