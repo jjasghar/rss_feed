@@ -1,37 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-08-20 10:17:57 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-20 11:15:42 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Garfield -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, August 20, 2026 - 10:18 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Thursday, August 20, 2026 - 11:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,6 +98,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/980552/pet-piano-cat-autofeeder" target="_blank">The piano that taught my cat to play for her supper</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-20 11:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6a84ac8b03b7ff172932c405/master/pass/MYPLOTS-GAJ31-web.jpg" alt="How Teen ‘After-Prom’ Kings in LA Monetized the High School Rager" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -122,6 +122,15 @@
                 <span class="title"><a href="https://www.theverge.com/tech/982216/sennheiser-momentum-true-wireless-5-earbuds-replaceable-batteries" target="_blank">Sennheiser’s new Momentum 5 earbuds feature easily replaceable batteries</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-08-20 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/" target="_blank">Binance now lets AI agents trade, but keeping them in check is largely up to users</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-20 09:30</span>
             </div>
         </div>
 <div class="story">
@@ -142,29 +151,20 @@
                 <span class="time">2026-08-20 05:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/1783980227655-500x500.jpg" alt="NASA calls off mission to rescue Swift gamma-ray observatory" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/08/nasa-calls-off-mission-to-rescue-swift-gamma-ray-observatory/" target="_blank">NASA calls off mission to rescue Swift gamma-ray observatory</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-20 00:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/" target="_blank">Stripe didn’t really buy OpenRouter because of the ‘singularity’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-19 23:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Mesa-26.2.1-Released" target="_blank">Mesa 26.2.1 Released With Dozens Of Fixes</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-20 10:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,15 +210,6 @@
                 <span class="time">2026-08-20 08:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/08/harper-vercel-benchmark/en/headerimage/generatedHeaderImage-1786778815218.jpg" alt="Harper Argues Against the Multi-System Stack and Releases 5.2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/08/harper-vercel-benchmark/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Harper Argues Against the Multi-System Stack and Releases 5.2</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-20 06:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,15 +222,6 @@
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2026/08/police-are-hiding-their-use-of-flock-surveillance-cameras.html" target="_blank">Police Are Hiding Their Use of Flock Surveillance Cameras</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2026-08-20 09:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/08/ice-collecting-dna-samples.html" target="_blank">ICE Collecting DNA Samples</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-08-19 10:46</span>
             </div>
         </div>
 </div>
@@ -338,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 10:18 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 11:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
