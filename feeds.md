@@ -1,40 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-08-20 18:20:39 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-20 19:21:53 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 13 new posts out of 32 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, August 20, 2026 - 18:20 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, August 20, 2026 - 19:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -113,6 +110,33 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/" target="_blank">Google gives publishers a new way to fight AI-driven traffic losses</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-20 19:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/982955/meta-mark-zuckerberg-strancally-castle-ireland" target="_blank">Mark Zuckerberg bought an Irish castle</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-20 18:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a8606ab1997359abc4212b4/master/pass/Model-Behavior-Silicon-Valley-Doesnt-Understand-AI-Backlash-Business.jpg" alt="Silicon Valley Doesn&#x27;t Get Why You Hate AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/" target="_blank">Silicon Valley Doesn&#x27;t Get Why You Hate AI</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-20 18:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/" target="_blank">Linkdaze’s smart calendar is built to run a household, not just track a schedule</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-08-20 18:20</span>
@@ -134,33 +158,6 @@
                 <span class="title"><a href="https://arstechnica.com/tech-policy/2026/08/weak-roblox-safeguards-failed-to-stop-adults-contacting-kids-regulator-says/" target="_blank">Roblox must make changes after failing to block adults creeping on kids</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-08-20 17:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/20/early-cerebras-investor-adit-singh-joins-mayfield-as-infrastructure-partner/" target="_blank">Early Cerebras investor Adit Singh joins Mayfield as infrastructure partner</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-20 17:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/" target="_blank">Meta brings Pocket, an app that lets you vibe-code and share games, to US users</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-20 16:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/Original-6723-photo-3-gv90-exterior-500x500.jpg" alt="Genesis joins the giant electric SUV club with new GV90" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/08/genesis-joins-the-giant-electric-suv-club-with-new-gv90/" target="_blank">Genesis joins the giant electric SUV club with new GV90</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-20 14:35</span>
             </div>
         </div>
 </div>
@@ -251,6 +248,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/2XKO.jpg" alt="Riot Will End Active Development On 2XKO At The End Of The Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/riot-will-end-active-development-on-2xko-at-the-end-of-the-year-2000726270" target="_blank">Riot Will End Active Development On 2XKO At The End Of The Year</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-20 19:18</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/Thumbnail-from-Reckless-Bens-video-I-got-arrested-because-of-legos.jpg" alt="Bricks &amp; Minifigs’ $200,000 Star Wars Lego Dispute That Spawned Reckless Ben Drama Reaches Partial Settlement" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -295,20 +301,29 @@
                 <span class="time">2026-08-20 13:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M0FN4WJETFRKKYA4WMSPRZYM/hero-image.jpg" alt="I Let Claude Answer My Emails for Me, and Here&#x27;s How It Went" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/how-to-have-claude-answer-your-emails-for-you?utm_medium=RSS" target="_blank">I Let Claude Answer My Emails for Me, and Here&#x27;s How It Went</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-20 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-pencil"></span>
+                <span class="title"><a href="https://poorlydrawnlines.com/comic/the-forest/" target="_blank">The Forest</a></span>
+                <span class="feed">Poorly Drawn Lines</span>
+                <span class="time">2026-08-20 18:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1787016894-20260820.png" alt="Saturday Morning Breakfast Cereal - Service" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/service-2" target="_blank">Saturday Morning Breakfast Cereal - Service</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-08-20 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.questionablecontent.net/comics/5899.png" alt="Fur Affinity" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -332,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 39 | 📸 With Images: 254 |
-        🔄 Last Updated: 18:20 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 124 | 📡 Total Sources: 39 | 📸 With Images: 255 |
+        🔄 Last Updated: 19:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
