@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-08-21 15:21:14 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-08-21 16:18:05 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, August 21, 2026 - 15:21 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Friday, August 21, 2026 - 16:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9d1/live/0b65a550-9d63-11f1-a291-b542ee92de7c.jpg" alt="Prince Harry and six others face privacy case legal bill of up to £34.5m" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss" target="_blank">Prince Harry and six others face privacy case legal bill of up to £34.5m</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-21 15:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/sprout-1-ht-gmh-260821_1787318910388_hpMain_4x3t_384.jpg" alt="Tornado, waterspout rip through Long Island, Queens" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -93,20 +102,20 @@
                 <span class="time">2026-08-21 10:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/21/nx-s1-5939443/dc-indycar-race-overview-watch-politics" target="_blank">What to know about this weekend&#x27;s IndyCar race on the National Mall</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-21 09:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a87451ce60bdcf9fa335d65/master/pass/Backchannel-Meta-Child-Safety-Trial-Biggest-Challenge-Yet-Business-2261841235.jpg" alt="Meta’s Big Reckoning Is Here" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/metas-big-reckoning-is-here/" target="_blank">Meta’s Big Reckoning Is Here</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-21 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,15 +161,6 @@
                 <span class="time">2026-08-21 11:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/zuckoff-glasshole-500x500.jpg" alt="Meta AI glasses may get creepier—and apps that detect them aren’t perfect" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/" target="_blank">Meta AI glasses may get creepier—and apps that detect them aren’t perfect</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-21 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -196,6 +196,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://kagi.com/changelog#11296" target="_blank">Kagi added a setting for removing paywalled links from search results</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-21 13:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-Media" target="_blank">Intel Computer Vision Sensing Driver Now Ready For Nova Lake</a></span>
                 <span class="feed">Phoronix</span>
@@ -209,15 +218,6 @@
                 <span class="title"><a href="https://dev.to/deepaksatyam/openapi-contract-testing-in-2026-oasdiff-vs-spectral-vs-pactflow-and-what-i-built-21an" target="_blank">OpenAPI contract testing in 2026: oasdiff vs Spectral vs PactFlow (and what I built)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-21 12:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/08/cloudflare-ai-enforcement/en/headerimage/generatedHeaderImage-1786356220839.jpg" alt="Cloudflare Turns Engineering Standards Into an AI-Enforced Control System" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/08/cloudflare-ai-enforcement/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Turns Engineering Standards Into an AI-Enforced Control System</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-21 12:00</span>
             </div>
         </div>
 </div>
@@ -239,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M0JEWBTZTMS9XTHJNWE6SZFF/hero-image.jpg" alt="Here&#x27;s When Walmart Will Finally Start Allowing Tap to Pay" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/walmart-will-finally-start-supporting-tap-to-pay?utm_medium=RSS" target="_blank">Here&#x27;s When Walmart Will Finally Start Allowing Tap to Pay</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-21 16:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/roblox2.jpg" alt="Roblox Claims A Dead Kid ‘Waived All Rights’ Because She Clicked ‘Agree’ At 8 Years Old" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +291,6 @@
                 <span class="title"><a href="https://kotaku.com/metal-gear-solid-4-guns-of-the-patriots-the-kotaku-review-2000726365" target="_blank">Metal Gear Solid 4: Guns Of The Patriots: The Kotaku Review</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-08-21 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/image-12.png?fit=606%2C514&amp;quality=55&amp;ssl=1" alt="Darth Vader tells San Diego that the Emperor is a fan of Flock" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/20/darth-vader-flock-san-diego.html" target="_blank">Darth Vader tells San Diego that the Emperor is a fan of Flock</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-20 23:59</span>
             </div>
         </div>
 </div>
@@ -339,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 15:21 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 16:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
