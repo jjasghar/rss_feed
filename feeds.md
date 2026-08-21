@@ -1,31 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-08-21 12:21:27 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-08-21 13:36:00 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, August 21, 2026 - 12:21 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, August 21, 2026 - 13:36 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9d1/live/0b65a550-9d63-11f1-a291-b542ee92de7c.jpg" alt="Prince Harry and six others ordered to pay initial £9.5m to Daily Mail publisher" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss" target="_blank">Prince Harry and six others ordered to pay initial £9.5m to Daily Mail publisher</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-21 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/21/el-nino-set-to-be-most-intense-for-over-a-century-uk-forecasters?traffic_source=rss" target="_blank">El Nino set to be most intense ‘for over a century’: UK forecasters</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-21 13:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,29 +101,47 @@
                 <span class="time">2026-08-21 07:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/21/nx-s1-5940552/charter-plane-crash-kills-8-alaska-military" target="_blank">Charter plane crash kills 8 near remote radar site in western Alaska, military says</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-21 06:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/21/nx-s1-5940542/federal-agents-seize-eric-swalwell-sexual-misconduct-probe" target="_blank">Federal agents seize devices from ex-Rep. Eric Swalwell in sexual misconduct probe, AP source says</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-21 05:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/21/private-equity-firm-apollo-confirms-data-breach-amid-hacking-wave-targeting-financial-giants/" target="_blank">Private equity firm Apollo confirms data breach amid hacking wave targeting financial giants</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-21 13:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/streaming/983203/blue-eye-samurai-season-2-release-date-renewal" target="_blank">Blue Eye Samurai’s second season will hit Netflix in January</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-21 13:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_8bad1114-5b27-4fc9-8102-1cb63e7f76fb-500x500.jpeg" alt="Waymo doubles spending on lobbying in robotaxi battle with Uber" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/" target="_blank">Waymo doubles spending on lobbying in robotaxi battle with Uber</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-21 13:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69e95b2c9a0a1ec843ac2661/master/pass/The-Best-Pool-Cleaning-Robots-of-2026.jpg" alt="I Tried the Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-pool-cleaning-robots/" target="_blank">I Tried the Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-21 11:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/zuckoff-glasshole-500x500.jpg" alt="Meta AI glasses may get creepier—and apps that detect them aren’t perfect" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -118,42 +160,6 @@
                 <span class="time">2026-08-21 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a8608282578139abea6cd6f/master/pass/GettyImages-2288497294.jpg" alt="The Super El Niño Won’t Fix the West’s Water Crisis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-super-el-nino-wont-fix-the-wests-water-crisis/" target="_blank">The Super El Niño Won’t Fix the West’s Water Crisis</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-21 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a7f4fef03ca5057b35be05c/master/pass/Small-Town-Saying-No-to-Palantir-Business.jpg" alt="The Single English County Saying No to Palantir" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-single-english-county-saying-no-to-palantir/" target="_blank">The Single English County Saying No to Palantir</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-21 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" alt="30% Off Canon Promo Codes | August 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/canon-promo-code/" target="_blank">30% Off Canon Promo Codes | August 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-21 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/981536/genki-manta-wireless-customizable-controller-tmr-screen" target="_blank">Genki’s new customizable controller has a big screen and adjustable buttons</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-21 02:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -166,6 +172,15 @@
                 <span class="title"><a href="https://dev.to/deepaksatyam/openapi-contract-testing-in-2026-oasdiff-vs-spectral-vs-pactflow-and-what-i-built-21an" target="_blank">OpenAPI contract testing in 2026: oasdiff vs Spectral vs PactFlow (and what I built)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-21 12:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/08/cloudflare-ai-enforcement/en/headerimage/generatedHeaderImage-1786356220839.jpg" alt="Cloudflare Turns Engineering Standards Into an AI-Enforced Control System" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/08/cloudflare-ai-enforcement/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Turns Engineering Standards Into an AI-Enforced Control System</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-21 12:00</span>
             </div>
         </div>
 <div class="story">
@@ -204,15 +219,6 @@
                 <span class="time">2026-08-21 07:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/payout_rail/ach-return-codes-explained-r01-r85-and-how-to-handle-them-in-production-34gj" target="_blank">ACH Return Codes Explained: R01–R85 and How to Handle Them in Production</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-21 07:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/Screen-Shot-2026-06-30-at-9.22.49-AM-1280x720.jpg" alt="Cyberpunk Edgerunners’ Second Season Gets A Release Date, And It’s Soon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/cyberpunk-edgerunners-season-2-release-date-netflix-trailer-2000726622" target="_blank">Cyberpunk Edgerunners’ Second Season Gets A Release Date, And It’s Soon</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-21 13:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/fountain-pen-james-pond-ai.jpg?fit=1200%2C547&amp;quality=60&amp;ssl=1" alt="Fans smelled AI in James Pond Legacy&#x27;s trailer. The studio says they&#x27;re wrong." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,15 +290,6 @@
                 <span class="title"><a href="https://kotaku.com/jason-flying-a-plane-in-the-new-gta-6-leak-has-me-more-excited-than-any-previous-trailer-2000726316" target="_blank">Jason Flying A Plane In The New GTA 6 Leak Has Me More Excited Than Any Previous Trailer</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-08-20 22:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-20 21:36</span>
             </div>
         </div>
 </div>
@@ -332,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 112 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 12:21 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 111 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 13:36 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
