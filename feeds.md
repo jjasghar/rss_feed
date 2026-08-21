@@ -1,33 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-08-21 11:15:17 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-08-21 12:21:27 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, August 21, 2026 - 11:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, August 21, 2026 - 12:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -164,6 +162,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/deepaksatyam/openapi-contract-testing-in-2026-oasdiff-vs-spectral-vs-pactflow-and-what-i-built-21an" target="_blank">OpenAPI contract testing in 2026: oasdiff vs Spectral vs PactFlow (and what I built)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-21 12:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://api-docs.deepseek.com/guides/vision/" target="_blank">DeepSeek-v4-flash-vision-exp</a></span>
                 <span class="feed">Hacker News</span>
@@ -206,15 +213,6 @@
                 <span class="time">2026-08-21 07:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/wadethomastt/directus-basics-part-3-user-roles-permissions-328c" target="_blank">Directus Basics Part 3 — User Roles &amp; Permissions</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-21 06:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +232,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/fountain-pen-james-pond-ai.jpg?fit=1200%2C547&amp;quality=60&amp;ssl=1" alt="Fans smelled AI in James Pond Legacy&#x27;s trailer. The studio says they&#x27;re wrong." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/21/fountain-pen-james-pond-ai.html" target="_blank">Fans smelled AI in James Pond Legacy&#x27;s trailer. The studio says they&#x27;re wrong.</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-21 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/Screenshots_01-1280x720.jpg" alt="Metal Gear Solid 4: Guns Of The Patriots: The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,15 +284,6 @@
                 <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-08-20 21:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/PDF-Expert-Premium-Plan-1-1.jpg?fit=1200%2C901&amp;quality=60&amp;ssl=1" alt="Decrease your cortisol by increasing your control of your PDFs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/20/decrease-your-cortisol-by-increasing-your-control-of-your-pdfs.html" target="_blank">Decrease your cortisol by increasing your control of your PDFs</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-20 21:00</span>
             </div>
         </div>
 </div>
@@ -334,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 119 | 📡 Total Sources: 40 | 📸 With Images: 259 |
-        🔄 Last Updated: 11:15 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 112 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 12:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
