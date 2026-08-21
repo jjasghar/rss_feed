@@ -1,40 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-08-21 22:11:07 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-21 23:12:17 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 10 new posts out of 31 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Friday, August 21, 2026 - 22:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, August 21, 2026 - 23:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8911/live/1fc38590-9da8-11f1-95ab-d3b679e2384a.jpg" alt="Girl, 6, dies after family killed in sea off Shoreham" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss" target="_blank">Girl, 6, dies after family killed in sea off Shoreham</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-21 22:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/ed-martin-ap-jt-260821_1787343556571_hpMain_4x3t_384.jpg" alt="Trump says Ed Martin, pardon attorney, is departing DOJ" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -93,15 +96,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss" target="_blank">Prince Harry and six others face privacy case legal bill of up to £34.5m</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-08-21 15:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/sprout-1-ht-gmh-260821_1787318910388_hpMain_4x3t_384.jpg" alt="Tornado, waterspout rip through Long Island, Queens" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/tornado-waterspout-rip-long-island-queens/story?id=135834949" target="_blank">Tornado, waterspout rip through Long Island, Queens</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-21 15:16</span>
             </div>
         </div>
 </div>
@@ -171,6 +165,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.shelvd.org/blog/28000-books" target="_blank">I own 28,000 books – here&#x27;s what I&#x27;ve learned</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-21 22:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/hamdi_laadhari/my-first-uwa-widget-for-netvibes-and-igoogle-2009-2mln" target="_blank">My First UWA Widget for Netvibes and iGoogle (2009)</a></span>
                 <span class="feed">DEV Community</span>
@@ -213,13 +216,18 @@
                 <span class="time">2026-08-21 17:53</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/framework-laptop-16-2026" target="_blank">Framework Laptop 16 With GeForce RTX 5070 12GB, One-Piece Keyboard &amp; Haptic Touchpad</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-21 15:54</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-neon-flying-squid.html" target="_blank">Friday Squid Blogging: Neon Flying Squid</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-08-21 21:07</span>
             </div>
         </div>
 </div>
@@ -336,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 100 | 📡 Total Sources: 40 | 📸 With Images: 259 |
-        🔄 Last Updated: 22:11 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 100 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 23:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
