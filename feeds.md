@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-08-21 18:19:50 UTC -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-08-21 19:17:43 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, August 21, 2026 - 18:19 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Friday, August 21, 2026 - 19:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/21/nx-s1-5935417/supreme-court-allows-trumps-ballroom-construction-to-continue-for-now" target="_blank">Supreme Court allows Trump&#x27;s ballroom construction to continue for now</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-21 18:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-08/260817-scotus-wh-ballroom-construction-bf-1128-b1f4c1.jpg" alt="Supreme Court temporarily allows Trump ballroom construction to continue" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,20 +98,20 @@
                 <span class="time">2026-08-21 13:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/21/nx-s1-5940610/iran-us-threat-economic-warfare" target="_blank">Top Iran official says US focus on economic warfare shows it has failed militarily</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-21 11:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/mx-master-4-graphite-lifestyle-gallery-4-new-500x500.jpg" alt="Lawsuit demands Logitech hand tariff refunds over to customers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/08/lawsuit-demands-logitech-hand-tariff-refunds-over-to-customers/" target="_blank">Lawsuit demands Logitech hand tariff refunds over to customers</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-21 19:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +157,20 @@
                 <span class="time">2026-08-21 14:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/21/private-equity-firm-apollo-confirms-data-breach-amid-hacking-wave-targeting-financial-giants/" target="_blank">Private equity firm Apollo confirms data breach amid hacking wave targeting financial giants</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-21 13:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/solomon1029/smashing-ebpf-buffer-leaks-achieving-zero-drop-telemetry-with-rust-google-ai-studio-14e5" target="_blank">Smashing eBPF Buffer Leaks: Achieving Zero-Drop Telemetry with Python &amp; Google AI Studio</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-21 19:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +214,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/08/cloudflare-astro-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Cuts Astro Github Issues by 85% with AI Agents</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-08-21 14:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/08/21/dispatches-from-o-reilly-the-right-amount-of-spec-for-agentic-development/" target="_blank">Dispatches from O&#x27;Reilly: The right amount of spec for agentic development</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-08-21 14:00</span>
             </div>
         </div>
 </div>
@@ -308,22 +307,13 @@
                 <span class="time">2026-08-21 00:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-pencil"></span>
-                <span class="title"><a href="https://poorlydrawnlines.com/comic/the-forest/" target="_blank">The Forest</a></span>
-                <span class="feed">Poorly Drawn Lines</span>
-                <span class="time">2026-08-20 18:21</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 111 | 📡 Total Sources: 40 | 📸 With Images: 256 |
-        🔄 Last Updated: 18:19 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 256 |
+        🔄 Last Updated: 19:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
