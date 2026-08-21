@@ -1,33 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-08-21 21:12:19 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-21 22:11:07 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Generated 10 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Friday, August 21, 2026 - 21:12 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, August 21, 2026 - 22:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/ed-martin-ap-jt-260821_1787343556571_hpMain_4x3t_384.jpg" alt="Trump says Ed Martin, pardon attorney, is departing DOJ" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-ed-martin-pardon-attorney-departing-doj/story?id=135849373" target="_blank">Trump says Ed Martin, pardon attorney, is departing DOJ</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-21 21:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +104,38 @@
                 <span class="time">2026-08-21 15:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9d1/live/0b65a550-9d63-11f1-a291-b542ee92de7c.jpg" alt="Prince Harry and six others ordered to pay initial £9.5m to Daily Mail publisher" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss" target="_blank">Prince Harry and six others ordered to pay initial £9.5m to Daily Mail publisher</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-21 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/" target="_blank">How AI accounting startup Rillet raised $100M and became a unicorn in 48-hours</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-21 22:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message" target="_blank">Over 1 million people have clicked LinkedIn’s AI slop button</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-21 21:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-173019376-500x500.jpg" alt="Thunder + fiber-optic cabling used for seismic imaging" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/08/researchers-use-thunderquakes-to-study-structure-of-earths-surface/" target="_blank">Thunder + fiber-optic cabling used for seismic imaging</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-21 20:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-922788110-500x500-1787340469.jpg" alt="Class action accuses brokers of hiding Zillow listings, driving up NYC rents" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -129,38 +163,29 @@
                 <span class="time">2026-08-21 19:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/982513/best-buy-gift-card-in-store-deal" target="_blank">$100 Best Buy gift cards will be $60 at stores Saturday</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-21 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/video/why-is-the-doj-investigating-andreessen-horowitzs-board-seats/" target="_blank">Why is the DOJ investigating Andreessen Horowitz’s board seats?</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-21 16:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/Russian-drone-boat-500x500.jpeg" alt="Fighter jets help destroy Russian drone boat near European offshore gas platform" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/08/explosive-russian-drone-boat-destroyed-near-european-offshore-gas-site/" target="_blank">Fighter jets help destroy Russian drone boat near European offshore gas platform</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-21 16:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hamdi_laadhari/my-first-uwa-widget-for-netvibes-and-igoogle-2009-2mln" target="_blank">My First UWA Widget for Netvibes and iGoogle (2009)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-21 22:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Proton-11.0-2" target="_blank">Proton 11.0-2 Enables More Titles With Steam Play / Linux Gaming</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-21 21:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,35 +222,44 @@
                 <span class="time">2026-08-21 15:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/celsonery/minecraft-server-part-3-running-on-kubernetes-4fkf" target="_blank">Minecraft Server - Part 3: Running on Kubernetes</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-21 14:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/08/cloudflare-astro-ai-agents/en/headerimage/generatedHeaderImage-1786846443074.jpg" alt="Cloudflare Cuts Astro Github Issues by 85% with AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/08/cloudflare-astro-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Cuts Astro Github Issues by 85% with AI Agents</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-21 14:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/stray-dog--1280x720.jpg" alt="In This Soulslike, The Dog Will Pet You Back…With A Sword" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/dog-souls-stray-dog-nobody-cares-annoucement-pc-game-steam-2000726752" target="_blank">In This Soulslike, The Dog Will Pet You Back…With A Sword</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-21 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JVZABKMFK8VHA1KJ8C41P3B1/hero-image.png" alt="I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS" target="_blank">I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-21 21:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/image-2026-08-21T134316.240.jpg" alt="Clanker Runs Full Speed Into A Wall And Then Snaps In Half After Stumbling Backwards Like A Looney Toons Character" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/clanker-runs-full-speed-into-a-wall-and-then-snaps-in-half-after-stumbling-backwards-2000726696" target="_blank">Clanker Runs Full Speed Into A Wall And Then Snaps In Half After Stumbling Backwards Like A Looney Toons Character</a></span>
                 <span class="feed">Kotaku</span>
+                <span class="time">2026-08-21 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/Microsoft-Windows-11-Pro-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Update to Windows 11 Pro for less than $11 with this limited deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/21/update-to-windows-11-pro-for-less-than-11-with-this-limited-deal.html" target="_blank">Update to Windows 11 Pro for less than $11 with this limited deal</a></span>
+                <span class="feed">Boing Boing</span>
                 <span class="time">2026-08-21 21:00</span>
             </div>
         </div>
@@ -245,33 +279,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/08/21/fountain-pen-seafoam-green-birren.html" target="_blank">Why seafoam green was used in control rooms</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-08-21 18:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/double-fine-kf-1280x720.jpg" alt="Double Fine Is Bringing Back Its Beloved Game Jam As A Kickstarter So Fans Can Vote On Its Next Project" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/double-fine-live-game-jam-kickstarter-2000726704" target="_blank">Double Fine Is Bringing Back Its Beloved Game Jam As A Kickstarter So Fans Can Vote On Its Next Project</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-21 18:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M08PDVXFV4T67WE2DBBVT9AT/hero-image.jpg" alt="The Best Tech Deals From Best Buy&#x27;s 60th Anniversary Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-from-the-best-buy-60th-anniversary-sale?utm_medium=RSS" target="_blank">The Best Tech Deals From Best Buy&#x27;s 60th Anniversary Sale</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-21 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M0JEWBTZTMS9XTHJNWE6SZFF/hero-image.jpg" alt="Here&#x27;s When Walmart Will Finally Start Allowing Tap to Pay" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/walmart-will-finally-start-supporting-tap-to-pay?utm_medium=RSS" target="_blank">Here&#x27;s When Walmart Will Finally Start Allowing Tap to Pay</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-21 16:02</span>
             </div>
         </div>
 </div>
@@ -329,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 98 | 📡 Total Sources: 40 | 📸 With Images: 259 |
-        🔄 Last Updated: 21:12 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 100 | 📡 Total Sources: 40 | 📸 With Images: 259 |
+        🔄 Last Updated: 22:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
