@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-08-21 17:17:57 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-08-21 18:19:50 UTC -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, August 21, 2026 - 17:18 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, August 21, 2026 - 18:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-08/260817-scotus-wh-ballroom-construction-bf-1128-b1f4c1.jpg" alt="Supreme Court temporarily allows Trump ballroom construction to continue" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/supreme-court/supreme-court-trump-white-house-ballroom-rcna592899" target="_blank">Supreme Court temporarily allows Trump ballroom construction to continue</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-21 18:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9d1/live/0b65a550-9d63-11f1-a291-b542ee92de7c.jpg" alt="Prince Harry and six others face privacy case legal bill of up to £34.5m" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,20 +99,20 @@
                 <span class="time">2026-08-21 11:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/21/nord-stream-bombing-suspect-to-hollywood-fixer-who-is-volodymyr-zhuravlev?traffic_source=rss" target="_blank">Nord Stream bombing suspect to Hollywood fixer: Who is Volodymyr Zhuravlev?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-21 10:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/982513/best-buy-gift-card-in-store-deal" target="_blank">$100 Best Buy gift cards will be $60 at stores Saturday</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-21 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +158,29 @@
                 <span class="time">2026-08-21 13:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/streaming/983203/blue-eye-samurai-season-2-release-date-renewal" target="_blank">Blue Eye Samurai’s second season will hit Netflix in January</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-21 13:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/methridge/running-vault-on-openshift-with-hcp-vault-auto-unseal-lessons-learned-2j1h" target="_blank">Running Vault on OpenShift with HCP Vault Auto-Unseal: Lessons Learned</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-21 18:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-FBDEV" target="_blank">Linux 7.3 Lands Improvements For Voodoo 3 / 4 / 5 &amp; Vintage Atari Computers In 2026</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-21 17:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,43 +217,29 @@
                 <span class="time">2026-08-21 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://kagi.com/changelog#11296" target="_blank">Kagi added a setting for removing paywalled links from search results</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-21 13:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-Media" target="_blank">Intel Computer Vision Sensing Driver Now Ready For Nova Lake</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-21 13:13</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/08/detailed-timeline-of-openais-cyberattack-on-hugging-face.html" target="_blank">Detailed Timeline of OpenAI’s Cyberattack on Hugging Face</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-08-20 17:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/double-fine-kf-1280x720.jpg" alt="Double Fine Is Bringing Back Its Beloved Game Jam As A Kickstarter So Fans Can Vote On Its Next Project" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/double-fine-live-game-jam-kickstarter-2000726704" target="_blank">Double Fine Is Bringing Back Its Beloved Game Jam As A Kickstarter So Fans Can Vote On Its Next Project</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-21 18:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M08PDVXFV4T67WE2DBBVT9AT/hero-image.jpg" alt="The Best Tech Deals From Best Buy&#x27;s 60th Anniversary Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-from-the-best-buy-60th-anniversary-sale?utm_medium=RSS" target="_blank">The Best Tech Deals From Best Buy&#x27;s 60th Anniversary Sale</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-21 17:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01M0JEWBTZTMS9XTHJNWE6SZFF/hero-image.jpg" alt="Here&#x27;s When Walmart Will Finally Start Allowing Tap to Pay" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +274,6 @@
                 <span class="title"><a href="https://kotaku.com/roblox-legal-court-case-audree-heine-terms-conditions-dismissal-2000726607" target="_blank">Roblox Claims A Dead Kid ‘Waived All Rights’ Because She Clicked ‘Agree’ At 8 Years Old</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-08-21 14:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/Screen-Shot-2026-06-30-at-9.22.49-AM-1280x720.jpg" alt="Cyberpunk Edgerunners’ Second Season Gets A Release Date, And It’s Soon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/cyberpunk-edgerunners-season-2-release-date-netflix-trailer-2000726622" target="_blank">Cyberpunk Edgerunners’ Second Season Gets A Release Date, And It’s Soon</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-21 13:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M0H8Y6X14CPFY5NGSW4WF56A/hero-image.jpg" alt="This Pool-Friendly Soundcore Speaker Is 35% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/soundcore-rave-neo-2-speaker-sale-august-2026?utm_medium=RSS" target="_blank">This Pool-Friendly Soundcore Speaker Is 35% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-21 13:00</span>
             </div>
         </div>
 </div>
@@ -335,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 112 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 17:18 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 111 | 📡 Total Sources: 40 | 📸 With Images: 256 |
+        🔄 Last Updated: 18:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
