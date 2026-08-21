@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-08-21 10:17:54 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-21 11:15:17 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, August 21, 2026 - 10:18 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, August 21, 2026 - 11:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -66,6 +62,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-lily-hooper-missing_7327022.jpg?20260821090307" alt="Australian hiker&#x27;s body recovered - as officials apologise for wrongly reporting she was alive" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/hikers-body-recovered-as-authorities-apologise-for-mistakenly-announcing-she-was-found-alive-13575273" target="_blank">Australian hiker&#x27;s body recovered - as officials apologise for wrongly reporting she was alive</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-08-21 07:51</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/AP26027725453753_1787283178122_hpMain_4x3t_384.jpg" alt="&#x27;No survivors&#x27; after plane with 8 aboard crashes in Alaska: Officials" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -92,20 +97,29 @@
                 <span class="time">2026-08-21 05:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4659/live/0c7bbc90-9cdc-11f1-8c2c-67800657f112.jpg" alt="Israel re-establishes closed West Bank settlement, defying growing international protests" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss" target="_blank">Israel re-establishes closed West Bank settlement, defying growing international protests</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-21 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/zuckoff-glasshole-500x500.jpg" alt="Meta AI glasses may get creepier—and apps that detect them aren’t perfect" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/" target="_blank">Meta AI glasses may get creepier—and apps that detect them aren’t perfect</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-21 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a87a9079888f7ae3cc3820b/master/pass/Review--Nyrius-Phoenix-Home-True-4K60.jpg" alt="Nyrius Phoenix Home True 4K60 (2026): A Solution for Cord Clutter" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/nyrius-phoenix-home-true-4k60/" target="_blank">Nyrius Phoenix Home True 4K60 (2026): A Solution for Cord Clutter</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-21 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a8608282578139abea6cd6f/master/pass/GettyImages-2288497294.jpg" alt="The Super El Niño Won’t Fix the West’s Water Crisis" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,29 +156,20 @@
                 <span class="time">2026-08-21 02:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/" target="_blank">Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-21 00:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a8780863aef0f642ff30070/master/pass/Google-Pixel-11-1-SOURCE-Simon-Hill.jpg" alt="Google Pixel 11 Review: Minor Upgrade" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/google-pixel-11/" target="_blank">Google Pixel 11 Review: Minor Upgrade</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-20 23:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://api-docs.deepseek.com/guides/vision/" target="_blank">DeepSeek-v4-flash-vision-exp</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-21 10:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/wadethomastt/directus-basics-part-3-user-roles-permissions-328c" target="_blank">Directus Basics Part 3 — User Roles &amp; Permissions</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-21 06:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jonesrussell/one-ai-assisted-day-two-months-of-senior-engineering-33jb" target="_blank">One AI-assisted day, two months of senior engineering</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-21 04:15</span>
             </div>
         </div>
 </div>
@@ -298,6 +294,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/08/21/the-new-pornographers" target="_blank">The New Pornographers</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-08-21 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.questionablecontent.net/comics/5900.png" alt="Moon River" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -329,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 119 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 10:18 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 119 | 📡 Total Sources: 40 | 📸 With Images: 259 |
+        🔄 Last Updated: 11:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
