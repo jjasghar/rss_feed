@@ -1,29 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-08-21 06:24:49 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-08-21 07:33:27 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: NPR News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 21 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, August 21, 2026 - 06:24 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, August 21, 2026 - 07:33 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/AP26027725453753_1787283178122_hpMain_4x3t_384.jpg" alt="&#x27;No survivors&#x27; after plane with 8 aboard crashes in Alaska: Officials" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/small-plane-8-aboard-crashes-alaska-faa/story?id=135827761" target="_blank">&#x27;No survivors&#x27; after plane with 8 aboard crashes in Alaska: Officials</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-21 07:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/21/nx-s1-5940552/charter-plane-crash-kills-8-alaska-military" target="_blank">Charter plane crash kills 8 near remote radar site in western Alaska, military says</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-21 06:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,24 +101,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/economy/2026/8/21/brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech?traffic_source=rss" target="_blank">Brazil launches AI supercomputer push while balancing US and Chinese tech</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-21 01:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-tiananmen-square-hong-kong_7326929.jpg?20260821025402" alt="Hong Kong&#x27;s Tiananmen vigil organisers convicted by court" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/hong-kongs-tiananmen-vigil-organisers-convicted-by-court-13575225" target="_blank">Hong Kong&#x27;s Tiananmen vigil organisers convicted by court</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-08-21 01:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a399/live/36ece130-9c95-11f1-a291-b542ee92de7c.jpg" alt="My student day out in London turned to terror - now survivors like me won&#x27;t be forgotten" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cd0x91ym7veo?at_medium=RSS&at_campaign=rss" target="_blank">My student day out in London turned to terror - now survivors like me won&#x27;t be forgotten</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-21 00:11</span>
             </div>
         </div>
 </div>
@@ -170,6 +180,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/payout_rail/ach-return-codes-explained-r01-r85-and-how-to-handle-them-in-production-34gj" target="_blank">ACH Return Codes Explained: R01–R85 and How to Handle Them in Production</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-21 07:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/wadethomastt/directus-basics-part-3-user-roles-permissions-328c" target="_blank">Directus Basics Part 3 — User Roles &amp; Permissions</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-21 06:08</span>
@@ -188,27 +207,18 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/openai/codex/issues/37674" target="_blank">Codex on AWS bedrock bug causing 10x charges</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-21 03:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://annas-archive.gl/blog/physical-destruction.html" target="_blank">AI companies destroy physical books – let&#x27;s scan rare books before it&#x27;s too late</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-08-21 02:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aleksandr_kossarev_e23623/memory-architecture-quality-standard-for-llm-assistants-28b3" target="_blank">Memory Architecture Quality Standard for LLM Assistants</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-21 01:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Mesa-Nova-Lake-Stable" target="_blank">Intel Mesa Linux Drivers Now Treating Nova Lake S / U / H / HX As Stable</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-21 00:44</span>
             </div>
         </div>
 </div>
@@ -330,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 06:24 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 07:33 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
