@@ -1,30 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-08-21 08:24:13 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-21 09:23:56 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Generated 2 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Friday, August 21, 2026 - 08:24 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, August 21, 2026 - 09:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -161,6 +169,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17424976/canonical-c-to-rust-automation" target="_blank">Canonical is Funding a PhD to Automate C to Rust Translation for Ubuntu</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-08-21 08:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
                 <span class="title"><a href="https://stackoverflow.blog/2026/08/21/get-rid-of-your-captcha-the-future-of-the-web-is-bots/" target="_blank">Get rid of your CAPTCHA, the future of the web is bots</a></span>
                 <span class="feed">Stack Overflow Blog</span>
@@ -203,15 +220,6 @@
                 <span class="time">2026-08-21 04:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/openai/codex/issues/37674" target="_blank">Codex on AWS bedrock bug causing 10x charges</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-21 03:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +248,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/Screenshots_01-1280x720.jpg" alt="Metal Gear Solid 4: Guns Of The Patriots: The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/metal-gear-solid-4-guns-of-the-patriots-the-kotaku-review-2000726365" target="_blank">Metal Gear Solid 4: Guns Of The Patriots: The Kotaku Review</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-21 07:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/image-12.png?fit=606%2C514&amp;quality=55&amp;ssl=1" alt="Darth Vader tells San Diego that the Emperor is a fan of Flock" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +302,6 @@
                 <span class="time">2026-08-20 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/xbox-games-store.jpg" alt="Xbox And EA Aren’t Sharing U.S. Digital Sales Data Anymore, And That’s Worrisome" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/xbox-isnt-sharing-us-digital-sales-data-anymore-2000726257" target="_blank">Xbox And EA Aren’t Sharing U.S. Digital Sales Data Anymore, And That’s Worrisome</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-20 20:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -331,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 08:24 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 09:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
