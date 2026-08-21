@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-08-21 16:18:05 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-21 17:17:57 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Friday, August 21, 2026 - 16:18 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, August 21, 2026 - 17:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +104,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/video/why-is-the-doj-investigating-andreessen-horowitzs-board-seats/" target="_blank">Why is the DOJ investigating Andreessen Horowitz’s board seats?</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-21 16:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/Russian-drone-boat-500x500.jpeg" alt="Fighter jets help destroy Russian drone boat near European offshore gas platform" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/08/explosive-russian-drone-boat-destroyed-near-european-offshore-gas-site/" target="_blank">Fighter jets help destroy Russian drone boat near European offshore gas platform</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-21 16:48</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6a87451ce60bdcf9fa335d65/master/pass/Backchannel-Meta-Child-Safety-Trial-Biggest-Challenge-Yet-Business-2261841235.jpg" alt="Meta’s Big Reckoning Is Here" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -143,29 +157,20 @@
                 <span class="time">2026-08-21 13:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_8bad1114-5b27-4fc9-8102-1cb63e7f76fb-500x500.jpeg" alt="Waymo doubles spending on lobbying in robotaxi battle with Uber" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/" target="_blank">Waymo doubles spending on lobbying in robotaxi battle with Uber</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-21 13:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69e95b2c9a0a1ec843ac2661/master/pass/The-Best-Pool-Cleaning-Robots-of-2026.jpg" alt="I Tried the Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-pool-cleaning-robots/" target="_blank">I Tried the Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-21 11:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/framework-laptop-16-2026" target="_blank">Framework Laptop 16 With GeForce RTX 5070 12GB, One-Piece Keyboard &amp; Haptic Touchpad</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-21 15:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +216,6 @@
                 <span class="time">2026-08-21 13:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/deepaksatyam/openapi-contract-testing-in-2026-oasdiff-vs-spectral-vs-pactflow-and-what-i-built-21an" target="_blank">OpenAPI contract testing in 2026: oasdiff vs Spectral vs PactFlow (and what I built)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-21 12:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -249,6 +245,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/melaniacow.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Big Beef has big beef with Big Fraud&#x27;s cut-rate meat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/21/trump-cheap-beef-imports-cattlemen.html" target="_blank">Big Beef has big beef with Big Fraud&#x27;s cut-rate meat</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-21 16:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/spider-mannn-1280x720.jpg" alt="AI-Generated Image Found In Spider-Man: Brand New Day Art Book As Film Crosses $2 Billion At The Box Office" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/spider-man-brand-new-day-ai-concept-art-book-marvel-2000726642" target="_blank">AI-Generated Image Found In Spider-Man: Brand New Day Art Book As Film Crosses $2 Billion At The Box Office</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-21 15:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/roblox2.jpg" alt="Roblox Claims A Dead Kid ‘Waived All Rights’ Because She Clicked ‘Agree’ At 8 Years Old" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -273,24 +287,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/soundcore-rave-neo-2-speaker-sale-august-2026?utm_medium=RSS" target="_blank">This Pool-Friendly Soundcore Speaker Is 35% Off Right Now</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-08-21 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/fountain-pen-james-pond-ai.jpg?fit=1200%2C547&amp;quality=60&amp;ssl=1" alt="Fans smelled AI in James Pond Legacy&#x27;s trailer. The studio says they&#x27;re wrong." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/21/fountain-pen-james-pond-ai.html" target="_blank">Fans smelled AI in James Pond Legacy&#x27;s trailer. The studio says they&#x27;re wrong.</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-21 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/Screenshots_01-1280x720.jpg" alt="Metal Gear Solid 4: Guns Of The Patriots: The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/metal-gear-solid-4-guns-of-the-patriots-the-kotaku-review-2000726365" target="_blank">Metal Gear Solid 4: Guns Of The Patriots: The Kotaku Review</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-21 07:00</span>
             </div>
         </div>
 </div>
@@ -339,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 16:18 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 112 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 17:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
