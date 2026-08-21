@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-08-21 19:17:43 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-21 20:12:16 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Friday, August 21, 2026 - 19:18 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, August 21, 2026 - 20:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -63,6 +66,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/GMA/gma-royals-ht-kk-260821_1787327306543_hpMain_4x3t_384.jpg" alt="Will Prince Harry, Meghan Markle&#x27;s UK return heal royal family rifts?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/GMA/Culture/prince-harry-meghan-markles-uk-return-puts-spotlight/story?id=135840065" target="_blank">Will Prince Harry, Meghan Markle&#x27;s UK return heal royal family rifts?</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-21 18:10</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9d1/live/0b65a550-9d63-11f1-a291-b542ee92de7c.jpg" alt="Prince Harry and six others face privacy case legal bill of up to £34.5m" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -89,20 +101,29 @@
                 <span class="time">2026-08-21 13:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/21/el-nino-set-to-be-most-intense-for-over-a-century-uk-forecasters?traffic_source=rss" target="_blank">El Nino set to be most intense ‘for over a century’: UK forecasters</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-21 13:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-922788110-500x500-1787340469.jpg" alt="Class action accuses brokers of hiding Zillow listings, driving up NYC rents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/08/class-action-accuses-brokers-of-hiding-zillow-listings-driving-up-nyc-rents/" target="_blank">Class action accuses brokers of hiding Zillow listings, driving up NYC rents</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-21 20:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri" target="_blank">Apple is laying off staffers working on the Vision Pro and Siri</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-21 19:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/mx-master-4-graphite-lifestyle-gallery-4-new-500x500.jpg" alt="Lawsuit demands Logitech hand tariff refunds over to customers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -137,24 +158,6 @@
                 <span class="title"><a href="https://arstechnica.com/gadgets/2026/08/explosive-russian-drone-boat-destroyed-near-european-offshore-gas-site/" target="_blank">Fighter jets help destroy Russian drone boat near European offshore gas platform</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-08-21 16:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a87451ce60bdcf9fa335d65/master/pass/Backchannel-Meta-Child-Safety-Trial-Biggest-Challenge-Yet-Business-2261841235.jpg" alt="Meta’s Big Reckoning Is Here" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/metas-big-reckoning-is-here/" target="_blank">Meta’s Big Reckoning Is Here</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-21 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/science/983241/food-recalls-bigger-out-of-control" target="_blank">Why does it seem like food recalls are out of control this year?</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-21 14:45</span>
             </div>
         </div>
 </div>
@@ -222,6 +225,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M0GC7823K9AQ1CPFAHZT037C/hero-image.jpg" alt="10 Hacks Every Facebook Marketplace Buyer and Seller Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/hacks-for-facebook-marketplace-users?utm_medium=RSS" target="_blank">10 Hacks Every Facebook Marketplace Buyer and Seller Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-21 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2017/09/Nuclear_Ship_Savannah_-_Reactor_Control_Room_-_Center_and_Left_Panels.jpg?fit=680%2C444&amp;quality=60&amp;ssl=1" alt="Why seafoam green was used in control rooms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/21/fountain-pen-seafoam-green-birren.html" target="_blank">Why seafoam green was used in control rooms</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-21 18:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/double-fine-kf-1280x720.jpg" alt="Double Fine Is Bringing Back Its Beloved Game Jam As A Kickstarter So Fans Can Vote On Its Next Project" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -257,24 +278,6 @@
                 <span class="time">2026-08-21 16:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/spider-mannn-1280x720.jpg" alt="AI-Generated Image Found In Spider-Man: Brand New Day Art Book As Film Crosses $2 Billion At The Box Office" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/spider-man-brand-new-day-ai-concept-art-book-marvel-2000726642" target="_blank">AI-Generated Image Found In Spider-Man: Brand New Day Art Book As Film Crosses $2 Billion At The Box Office</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-21 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/roblox2.jpg" alt="Roblox Claims A Dead Kid ‘Waived All Rights’ Because She Clicked ‘Agree’ At 8 Years Old" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/roblox-legal-court-case-audree-heine-terms-conditions-dismissal-2000726607" target="_blank">Roblox Claims A Dead Kid ‘Waived All Rights’ Because She Clicked ‘Agree’ At 8 Years Old</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-21 14:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -299,6 +302,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/archery_feat.png" alt="Archery Feat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3288/" target="_blank">Archery Feat</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-08-21 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.questionablecontent.net/comics/5900.png" alt="Moon River" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -312,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 256 |
-        🔄 Last Updated: 19:18 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 103 | 📡 Total Sources: 40 | 📸 With Images: 259 |
+        🔄 Last Updated: 20:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
