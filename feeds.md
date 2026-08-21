@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-08-21 09:23:56 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-21 10:17:54 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 2 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, August 21, 2026 - 09:24 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Friday, August 21, 2026 - 10:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/21/nord-stream-bombing-suspect-to-hollywood-fixer-who-is-volodymyr-zhuravlev?traffic_source=rss" target="_blank">Nord Stream bombing suspect to Hollywood fixer: Who is Volodymyr Zhuravlev?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-21 10:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/21/nx-s1-5939443/dc-indycar-race-overview-watch-politics" target="_blank">What to know about this weekend&#x27;s IndyCar race on the National Mall</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-21 09:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/AP26027725453753_1787283178122_hpMain_4x3t_384.jpg" alt="&#x27;No survivors&#x27; after plane with 8 aboard crashes in Alaska: Officials" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,29 +101,20 @@
                 <span class="time">2026-08-21 05:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f124/live/afcd53e0-9d36-11f1-a291-b542ee92de7c.jpg" alt="Will Harry&#x27;s return heal deep-rooted rift with William?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/clyx410xxyko?at_medium=RSS&at_campaign=rss" target="_blank">Will Harry&#x27;s return heal deep-rooted rift with William?</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-21 04:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a158/live/98f9f1e0-9d14-11f1-aed2-8d6da8d75094.jpg" alt="Will Harry&#x27;s return heal rift with his brother? Don&#x27;t hold your breath" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/clyx410xxyko?at_medium=RSS&at_campaign=rss" target="_blank">Will Harry&#x27;s return heal rift with his brother? Don&#x27;t hold your breath</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-21 04:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a8608282578139abea6cd6f/master/pass/GettyImages-2288497294.jpg" alt="The Super El Niño Won’t Fix the West’s Water Crisis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-super-el-nino-wont-fix-the-wests-water-crisis/" target="_blank">The Super El Niño Won’t Fix the West’s Water Crisis</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-21 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a7f4fef03ca5057b35be05c/master/pass/Small-Town-Saying-No-to-Palantir-Business.jpg" alt="The Single English County Saying No to Palantir" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,15 +158,6 @@
                 <span class="title"><a href="https://www.wired.com/review/google-pixel-11/" target="_blank">Google Pixel 11 Review: Minor Upgrade</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-08-20 23:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/" target="_blank">OpenAI is gaining on Anthropic with business users, new data indicates</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-20 22:36</span>
             </div>
         </div>
 </div>
@@ -232,15 +231,6 @@
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2026/08/detailed-timeline-of-openais-cyberattack-on-hugging-face.html" target="_blank">Detailed Timeline of OpenAI’s Cyberattack on Hugging Face</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2026-08-20 17:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/08/police-are-hiding-their-use-of-flock-surveillance-cameras.html" target="_blank">Police Are Hiding Their Use of Flock Surveillance Cameras</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-08-20 09:48</span>
             </div>
         </div>
 </div>
@@ -339,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 09:24 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 119 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 10:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
