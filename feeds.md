@@ -1,30 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-08-21 02:15:50 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-08-21 03:40:07 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 6 new posts out of 22 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, August 21, 2026 - 02:15 UTC</div>
+    <div class="newspaper-date">Friday, August 21, 2026 - 03:40 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,9 +49,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-moved-to-hospital-after-supreme-court-order?traffic_source=rss" target="_blank">Pakistan’s Imran Khan moved to hospital after Supreme Court order</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-21 03:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/economy/2026/8/21/brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech?traffic_source=rss" target="_blank">Brazil launches AI supercomputer push while balancing US and Chinese tech</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-21 01:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-tiananmen-square-hong-kong_7326929.jpg?20260821025402" alt="Hong Kong&#x27;s Tiananmen vigil organisers convicted by court" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/hong-kongs-tiananmen-vigil-organisers-convicted-by-court-13575225" target="_blank">Hong Kong&#x27;s Tiananmen vigil organisers convicted by court</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-08-21 01:22</span>
             </div>
         </div>
 <div class="story">
@@ -76,24 +99,6 @@
                 <span class="time">2026-08-20 21:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1787257652429_now_mtp_clip_ablk_260820_S3_1920x1080-ab3kkz.jpg" alt="&#x27;Nothing has gotten better&#x27;: Focus group shares affordability concerns as US debt tops $40 trillion" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/-nothing-has-gotten-better-focus-group-shares-affordability-concerns-as-us-debt-tops-40-trillion-268608069671" target="_blank">&#x27;Nothing has gotten better&#x27;: Focus group shares affordability concerns as US debt tops $40 trillion</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-20 20:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/20/nx-s1-5930462/trump-health-foodborne-illness-outbreak-cyclospora" target="_blank">Record cyclosporiasis outbreak tests the response of a &#x27;weakened&#x27; health system</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-20 19:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -106,6 +111,15 @@
                 <span class="title"><a href="https://www.theverge.com/tech/981536/genki-manta-wireless-customizable-controller-tmr-screen" target="_blank">Genki’s new customizable controller has a big screen and adjustable buttons</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-08-21 02:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/" target="_blank">Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-21 00:23</span>
             </div>
         </div>
 <div class="story">
@@ -144,15 +158,6 @@
                 <span class="time">2026-08-20 22:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed" target="_blank">Google Discover is getting an AI chatbot-tuned feed</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-20 21:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -161,10 +166,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://annas-archive.gl/blog/physical-destruction.html" target="_blank">AI companies destroy physical books – let&#x27;s scan rare books before it&#x27;s too late</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-21 02:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/aleksandr_kossarev_e23623/memory-architecture-quality-standard-for-llm-assistants-28b3" target="_blank">Memory Architecture Quality Standard for LLM Assistants</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-21 01:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Mesa-Nova-Lake-Stable" target="_blank">Intel Mesa Linux Drivers Now Treating Nova Lake S / U / H / HX As Stable</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-21 00:44</span>
             </div>
         </div>
 <div class="story">
@@ -192,24 +215,6 @@
                 <span class="title"><a href="https://dev.to/informatiqs1/the-serverless-equation-conquering-the-cold-start-in-real-time-ai-inference-4bfd" target="_blank">The Serverless Equation: Conquering the Cold Start in Real-Time AI Inference</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-20 21:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/08/gimp-file-format.webp?resize=406%2C232&amp;ssl=1" alt="GIMP is (finally) working on a new project file format" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/gimp-new-project-file-format" target="_blank">GIMP is (finally) working on a new project file format</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-08-20 21:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ivanindiv/buying-a-phone-number-is-a-distributed-transaction-2i0h" target="_blank">Buying a phone number is a distributed transaction</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-20 20:55</span>
             </div>
         </div>
 </div>
@@ -240,6 +245,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/image-12.png?fit=606%2C514&amp;quality=55&amp;ssl=1" alt="Darth Vader tells San Diego that the Emperor is a fan of Flock" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/20/darth-vader-flock-san-diego.html" target="_blank">Darth Vader tells San Diego that the Emperor is a fan of Flock</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-20 23:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/darth-vader-1280x720.jpg" alt="Darth Vader Wants Flock Surveillance Cameras In Cities To ‘Find The Rebel Scum’ And ‘Stalk My Ex-Girlfriend’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,20 +299,20 @@
                 <span class="time">2026-08-20 20:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/shutterstock_380130313.jpg?fit=1666%2C1126&amp;quality=60&amp;ssl=1" alt="Year in jail for tourist who wouldn&#x27;t shut up on Bali&#x27;s Day of Silence" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/20/year-in-jail-for-tourist-who-wouldnt-shut-up-on-balis-day-of-silence.html" target="_blank">Year in jail for tourist who wouldn&#x27;t shut up on Bali&#x27;s Day of Silence</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-20 19:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.questionablecontent.net/comics/5900.png" alt="Moon River" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5900" target="_blank">Moon River</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-08-21 00:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -322,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 40 | 📸 With Images: 259 |
-        🔄 Last Updated: 02:15 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 40 | 📸 With Images: 259 |
+        🔄 Last Updated: 03:40 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
