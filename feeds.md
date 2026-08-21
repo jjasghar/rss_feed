@@ -1,39 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-08-21 07:33:27 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-21 08:24:13 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Generated 3 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, August 21, 2026 - 07:33 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, August 21, 2026 - 08:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -77,30 +68,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4659/live/0c7bbc90-9cdc-11f1-8c2c-67800657f112.jpg" alt="Israel re-establishes closed West Bank settlement, defying growing international protests" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss" target="_blank">Israel re-establishes closed West Bank settlement, defying growing international protests</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-21 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f124/live/afcd53e0-9d36-11f1-a291-b542ee92de7c.jpg" alt="Will Harry&#x27;s return heal deep-rooted rift with William?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/clyx410xxyko?at_medium=RSS&at_campaign=rss" target="_blank">Will Harry&#x27;s return heal deep-rooted rift with William?</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-21 04:07</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a158/live/98f9f1e0-9d14-11f1-aed2-8d6da8d75094.jpg" alt="Will Harry&#x27;s return heal rift with his brother? Don&#x27;t hold your breath" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/clyx410xxyko?at_medium=RSS&at_campaign=rss" target="_blank">Will Harry&#x27;s return heal rift with his brother? Don&#x27;t hold your breath</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-08-21 04:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-moved-to-hospital-after-supreme-court-order?traffic_source=rss" target="_blank">Pakistan’s Imran Khan moved to hospital after Supreme Court order</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-21 03:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/8/21/brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech?traffic_source=rss" target="_blank">Brazil launches AI supercomputer push while balancing US and Chinese tech</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-21 01:38</span>
             </div>
         </div>
 </div>
@@ -179,6 +170,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/" target="_blank">The Lost Treasure of Sid Meier&#x27;s Pirates</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-21 07:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/payout_rail/ach-return-codes-explained-r01-r85-and-how-to-handle-them-in-production-34gj" target="_blank">ACH Return Codes Explained: R01–R85 and How to Handle Them in Production</a></span>
                 <span class="feed">DEV Community</span>
@@ -210,15 +210,6 @@
                 <span class="title"><a href="https://github.com/openai/codex/issues/37674" target="_blank">Codex on AWS bedrock bug causing 10x charges</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-08-21 03:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://annas-archive.gl/blog/physical-destruction.html" target="_blank">AI companies destroy physical books – let&#x27;s scan rare books before it&#x27;s too late</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-21 02:37</span>
             </div>
         </div>
 </div>
@@ -340,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 07:33 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 08:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
