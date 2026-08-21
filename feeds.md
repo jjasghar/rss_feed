@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-08-21 14:22:30 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-21 15:21:14 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, August 21, 2026 - 14:22 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Friday, August 21, 2026 - 15:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/sprout-1-ht-gmh-260821_1787318910388_hpMain_4x3t_384.jpg" alt="Tornado, waterspout rip through Long Island, Queens" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/tornado-waterspout-rip-long-island-queens/story?id=135834949" target="_blank">Tornado, waterspout rip through Long Island, Queens</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-21 15:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9d1/live/0b65a550-9d63-11f1-a291-b542ee92de7c.jpg" alt="Prince Harry and six others ordered to pay initial £9.5m to Daily Mail publisher" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -66,6 +78,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/21/nx-s1-5940610/iran-us-threat-economic-warfare" target="_blank">Top Iran official says US focus on economic warfare shows it has failed militarily</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-21 11:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/8/21/nord-stream-bombing-suspect-to-hollywood-fixer-who-is-volodymyr-zhuravlev?traffic_source=rss" target="_blank">Nord Stream bombing suspect to Hollywood fixer: Who is Volodymyr Zhuravlev?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
@@ -81,29 +102,20 @@
                 <span class="time">2026-08-21 09:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-lily-hooper-missing_7327022.jpg?20260821090307" alt="Body of Australian hiker recovered - day after officials said she had been found alive" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/hikers-body-recovered-as-authorities-apologise-for-mistakenly-announcing-she-was-found-alive-13575273" target="_blank">Body of Australian hiker recovered - day after officials said she had been found alive</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-08-21 07:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-lily-hooper-missing_7327022.jpg?20260821090307" alt="Australian hiker&#x27;s body recovered - as officials apologise for wrongly reporting she was alive" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/hikers-body-recovered-as-authorities-apologise-for-mistakenly-announcing-she-was-found-alive-13575273" target="_blank">Australian hiker&#x27;s body recovered - as officials apologise for wrongly reporting she was alive</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-08-21 07:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/science/983241/food-recalls-bigger-out-of-control" target="_blank">Why does it seem like food recalls are out of control this year?</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-21 14:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,15 +158,6 @@
                 <span class="fa fa-fw fa-cog"></span>
                 <span class="title"><a href="https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/" target="_blank">Meta AI glasses may get creepier—and apps that detect them aren’t perfect</a></span>
                 <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-21 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a87a9079888f7ae3cc3820b/master/pass/Review--Nyrius-Phoenix-Home-True-4K60.jpg" alt="Nyrius Phoenix Home True 4K60 (2026): A Solution for Cord Clutter" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/nyrius-phoenix-home-true-4k60/" target="_blank">Nyrius Phoenix Home True 4K60 (2026): A Solution for Cord Clutter</a></span>
-                <span class="feed">WIRED</span>
                 <span class="time">2026-08-21 11:00</span>
             </div>
         </div>
@@ -296,6 +299,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.smbc-comics.com/comics/1787267566-20260821.png" alt="Saturday Morning Breakfast Cereal - Classic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/classic" target="_blank">Saturday Morning Breakfast Cereal - Classic</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-08-21 15:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -322,22 +334,13 @@
                 <span class="time">2026-08-20 18:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1787016894-20260820.png" alt="Saturday Morning Breakfast Cereal - Service" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/service-2" target="_blank">Saturday Morning Breakfast Cereal - Service</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-08-20 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 256 |
-        🔄 Last Updated: 14:22 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 15:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
