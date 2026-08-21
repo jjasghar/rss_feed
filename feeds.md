@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-08-21 13:36:00 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-08-21 14:22:30 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Friday, August 21, 2026 - 13:36 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, August 21, 2026 - 14:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -84,21 +82,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-lily-hooper-missing_7327022.jpg?20260821090307" alt="Body of Australian hiker recovered - day after officials said she had been found alive" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/hikers-body-recovered-as-authorities-apologise-for-mistakenly-announcing-she-was-found-alive-13575273" target="_blank">Body of Australian hiker recovered - day after officials said she had been found alive</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-08-21 07:51</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/26/08/1920x1080/skynews-lily-hooper-missing_7327022.jpg?20260821090307" alt="Australian hiker&#x27;s body recovered - as officials apologise for wrongly reporting she was alive" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
                 <span class="title"><a href="https://news.sky.com/story/hikers-body-recovered-as-authorities-apologise-for-mistakenly-announcing-she-was-found-alive-13575273" target="_blank">Australian hiker&#x27;s body recovered - as officials apologise for wrongly reporting she was alive</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-08-21 07:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/AP26027725453753_1787283178122_hpMain_4x3t_384.jpg" alt="&#x27;No survivors&#x27; after plane with 8 aboard crashes in Alaska: Officials" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/small-plane-8-aboard-crashes-alaska-faa/story?id=135827761" target="_blank">&#x27;No survivors&#x27; after plane with 8 aboard crashes in Alaska: Officials</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-21 07:26</span>
             </div>
         </div>
 </div>
@@ -169,6 +167,42 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/celsonery/minecraft-server-part-3-running-on-kubernetes-4fkf" target="_blank">Minecraft Server - Part 3: Running on Kubernetes</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-21 14:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/08/cloudflare-astro-ai-agents/en/headerimage/generatedHeaderImage-1786846443074.jpg" alt="Cloudflare Cuts Astro Github Issues by 85% with AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/08/cloudflare-astro-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Cuts Astro Github Issues by 85% with AI Agents</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-21 14:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/08/21/dispatches-from-o-reilly-the-right-amount-of-spec-for-agentic-development/" target="_blank">Dispatches from O&#x27;Reilly: The right amount of spec for agentic development</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-08-21 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-Media" target="_blank">Intel Computer Vision Sensing Driver Now Ready For Nova Lake</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-21 13:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/deepaksatyam/openapi-contract-testing-in-2026-oasdiff-vs-spectral-vs-pactflow-and-what-i-built-21an" target="_blank">OpenAPI contract testing in 2026: oasdiff vs Spectral vs PactFlow (and what I built)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-21 12:17</span>
@@ -181,42 +215,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/08/cloudflare-ai-enforcement/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Turns Engineering Standards Into an AI-Enforced Control System</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-08-21 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://api-docs.deepseek.com/guides/vision/" target="_blank">DeepSeek-v4-flash-vision-exp</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-21 10:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17424976/canonical-c-to-rust-automation" target="_blank">Canonical is Funding a PhD to Automate C to Rust Translation for Ubuntu</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-08-21 08:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/08/21/get-rid-of-your-captcha-the-future-of-the-web-is-bots/" target="_blank">Get rid of your CAPTCHA, the future of the web is bots</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-08-21 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/" target="_blank">The Lost Treasure of Sid Meier&#x27;s Pirates</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-21 07:23</span>
             </div>
         </div>
 </div>
@@ -239,12 +237,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/roblox2.jpg" alt="Roblox Claims A Dead Kid ‘Waived All Rights’ Because She Clicked ‘Agree’ At 8 Years Old" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/roblox-legal-court-case-audree-heine-terms-conditions-dismissal-2000726607" target="_blank">Roblox Claims A Dead Kid ‘Waived All Rights’ Because She Clicked ‘Agree’ At 8 Years Old</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-21 14:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/Screen-Shot-2026-06-30-at-9.22.49-AM-1280x720.jpg" alt="Cyberpunk Edgerunners’ Second Season Gets A Release Date, And It’s Soon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/cyberpunk-edgerunners-season-2-release-date-netflix-trailer-2000726622" target="_blank">Cyberpunk Edgerunners’ Second Season Gets A Release Date, And It’s Soon</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-08-21 13:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M0H8Y6X14CPFY5NGSW4WF56A/hero-image.jpg" alt="This Pool-Friendly Soundcore Speaker Is 35% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/soundcore-rave-neo-2-speaker-sale-august-2026?utm_medium=RSS" target="_blank">This Pool-Friendly Soundcore Speaker Is 35% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-21 13:00</span>
             </div>
         </div>
 <div class="story">
@@ -272,24 +288,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/08/20/darth-vader-flock-san-diego.html" target="_blank">Darth Vader tells San Diego that the Emperor is a fan of Flock</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-08-20 23:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/darth-vader-1280x720.jpg" alt="Darth Vader Wants Flock Surveillance Cameras In Cities To ‘Find The Rebel Scum’ And ‘Stalk My Ex-Girlfriend’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/darth-vader-wants-flock-surveillance-cameras-2000726326" target="_blank">Darth Vader Wants Flock Surveillance Cameras In Cities To ‘Find The Rebel Scum’ And ‘Stalk My Ex-Girlfriend’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-20 22:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/gta666666-1280x720.jpg" alt="Jason Flying A Plane In The New GTA 6 Leak Has Me More Excited Than Any Previous Trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/jason-flying-a-plane-in-the-new-gta-6-leak-has-me-more-excited-than-any-previous-trailer-2000726316" target="_blank">Jason Flying A Plane In The New GTA 6 Leak Has Me More Excited Than Any Previous Trailer</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-20 22:05</span>
             </div>
         </div>
 </div>
@@ -338,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 111 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 13:36 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 256 |
+        🔄 Last Updated: 14:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
