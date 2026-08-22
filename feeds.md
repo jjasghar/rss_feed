@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-08-22 17:10:25 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-08-22 18:12:42 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, August 22, 2026 - 17:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Saturday, August 22, 2026 - 18:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Business/carney-trump-ap-jef-260821_1787322658587_hpMain_4x3t_384.jpg" alt="Trump&#x27;s 50% tariffs on Canada take effect as Carney vows to retaliate" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Business/trumps-proposed-tariffs-canada-hurtle-deadline-amid-trade/story?id=135833861" target="_blank">Trump&#x27;s 50% tariffs on Canada take effect as Carney vows to retaliate</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-22 17:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae91/live/dc71e910-9e49-11f1-8871-ff7211da55c9.jpg" alt="Carney calls Trump&#x27;s fresh tariffs a &#x27;miscalculation&#x27; after trade talks collapse" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,15 +95,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/now/video/u-s-imposes-50-tariffs-on-some-canadian-goods-after-trade-talks-collapse-268712517975" target="_blank">U.S. imposes 50% tariffs on some Canadian goods after trade talks collapse</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-08-22 11:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0368/live/25c63960-9e0c-11f1-95e0-53a570c83624.jpg" alt="Multiple deaths after police vehicle and car crash during pursuit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss" target="_blank">Multiple deaths after police vehicle and car crash during pursuit</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-22 10:06</span>
             </div>
         </div>
 </div>
@@ -169,6 +164,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sali_ac161a1b71406354896c/enterprise-vibe-coding-the-governance-framework-for-shipping-ai-generated-apps-to-production-32j1" target="_blank">Enterprise vibe coding: the governance framework for shipping AI-generated apps to production</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-22 18:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/SMB3-CIFS-Maintainer-Change" target="_blank">Longtime Linux CIFS/SMB3 Maintainer Steps Down</a></span>
                 <span class="feed">Phoronix</span>
@@ -211,15 +215,6 @@
                 <span class="time">2026-08-22 13:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ramdai_bista/your-scheduled-agent-says-success-it-did-nothing-heres-why-2ii3" target="_blank">Your Scheduled Agent Says Success. It Did Nothing. Here&#x27;s Why.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-22 13:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -258,6 +253,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/Headway-Premium-1.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="A one-time $49.97 gives you 2,000+ bestselling book summaries for life" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/22/a-one-time-49-97-gives-you-2000-bestselling-book-summaries-for-life.html" target="_blank">A one-time $49.97 gives you 2,000+ bestselling book summaries for life</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-22 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/gta-6-club-1280x731.jpg" alt="GTA 6 Leaker Takes Fans To A Strip Club In Seventh Gameplay Dump As Netflix Tries To Act Normal About The Whole Thing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -282,15 +286,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS" target="_blank">I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-08-21 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/image-2026-08-21T134316.240.jpg" alt="Clanker Runs Full Speed Into A Wall And Then Snaps In Half After Stumbling Backwards Like A Looney Toons Character" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/clanker-runs-full-speed-into-a-wall-and-then-snaps-in-half-after-stumbling-backwards-2000726696" target="_blank">Clanker Runs Full Speed Into A Wall And Then Snaps In Half After Stumbling Backwards Like A Looney Toons Character</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-21 21:00</span>
             </div>
         </div>
 </div>
@@ -321,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 96 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 17:10 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 95 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 18:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
