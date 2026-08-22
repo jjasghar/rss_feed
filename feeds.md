@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-08-22 10:11:31 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-08-22 11:10:01 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, August 22, 2026 - 10:11 UTC</div>
+    <div class="newspaper-date">Saturday, August 22, 2026 - 11:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,6 +103,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/69b9f0ce20bfe60b84c7d7ba/master/pass/IMG_3138.JPG" alt="The 4 Best Monitor Arms to Clear Up Your Desk Space (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-monitor-arms/" target="_blank">The 4 Best Monitor Arms to Clear Up Your Desk Space (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-22 11:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6a8871d3b0df42666c60d05e/master/pass/sci-award-release-swift-orbit-boost-sept-24.jpg" alt="NASA Cancels Its Rescue Mission for the Aging Swift Telescope" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -151,20 +156,38 @@
                 <span class="time">2026-08-21 23:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo" target="_blank">HoverAir’s transforming modular drone has already been halted in the US</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-21 22:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/albert_zhang_f468830cf0e6/automatic-error-recovery-in-ai-agent-networks-4i4d" target="_blank">Automatic Error Recovery in AI Agent Networks</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-22 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/NVK-Vulkan-Video-Mesa-26.3" target="_blank">NVK Vulkan Video Merged For Mesa 26.3</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-22 10:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations" target="_blank">Canada suspends trade negotiations with USA and match tariffs dollar for dollar</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-22 10:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -190,33 +213,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/08/linkedin-ai-code-review/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AI Code Review at Scale: LinkedIn&#x27;s Multi-Agent Approach</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-08-22 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17426094/torvalds-used-ai-fix-kernel-bug" target="_blank">Linux Creator Linus Torvalds Just Used AI to Fix a Kernel Bug</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-08-22 07:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/08/vite-plus-beta/en/headerimage/generatedHeaderImage-1787326368629.jpg" alt="VoidZero Releases Vite+ Beta: A Unified Web Toolchain Behind a Single Command" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/08/vite-plus-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">VoidZero Releases Vite+ Beta: A Unified Web Toolchain Behind a Single Command</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-22 06:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/futhgar/tailscale-kernel-tun-in-unprivileged-lxc-direct-ssh-without-userspace-networking-18la" target="_blank">Tailscale Kernel TUN in Unprivileged LXC: Direct SSH Without Userspace Networking</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-22 06:15</span>
             </div>
         </div>
 </div>
@@ -320,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 101 | 📡 Total Sources: 40 | 📸 With Images: 254 |
-        🔄 Last Updated: 10:11 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 101 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 11:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
