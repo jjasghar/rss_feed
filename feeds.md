@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-08-22 20:09:47 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-08-22 21:10:14 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, August 22, 2026 - 20:10 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Saturday, August 22, 2026 - 21:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/22/nx-s1-5941765/trump-immigration-visa-ban-75-countries" target="_blank">Trump administration&#x27;s 75-country visa ban was illegal, judge rules</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-22 20:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/8/22/israeli-drone-strike-on-civilian-vehicle-causes-injuries-in-syria?traffic_source=rss" target="_blank">Israeli drone strike on ‘civilian vehicle’ injures several in Syria</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-22 14:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/22/nx-s1-5932426/opinion-mr-rogers-keeps-finding-a-new-neighborhood" target="_blank">Opinion: Mr. Rogers keeps finding a new neighborhood</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-22 12:00</span>
             </div>
         </div>
 </div>
@@ -175,6 +173,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Redox-OS-Goes-EEVDF" target="_blank">Redox OS Switches To EEVDF-Based Scheduler For 2.6x Throughput</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-22 19:42</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="Stop chasing fads. Operate Claude like a startup founder." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -210,34 +217,20 @@
                 <span class="time">2026-08-22 18:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/SMB3-CIFS-Maintainer-Change" target="_blank">Longtime Linux CIFS/SMB3 Maintainer Steps Down</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-22 15:14</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-neon-flying-squid.html" target="_blank">Friday Squid Blogging: Neon Flying Squid</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-08-21 21:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/playstation-kiosks-1280x721.jpg" alt="PlayStation Chooses The Worst Possible Time To Blast Players With Reminders That They Don’t Own Their Digital Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/playstation-chooses-the-worst-possible-time-to-blast-players-with-reminders-that-they-dont-own-their-digital-games-2000727054" target="_blank">PlayStation Chooses The Worst Possible Time To Blast Players With Reminders That They Don’t Own Their Digital Games</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-22 19:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/goldenaxeparamount.jpg" alt="Fans Dismayed Golden Axe Animated Streaming Series Resembles Every Animated Streaming Series" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +276,6 @@
                 <span class="time">2026-08-22 13:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/stray-dog--1280x720.jpg" alt="In This Soulslike, The Dog Will Pet You Back…With A Sword" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/dog-souls-stray-dog-nobody-cares-annoucement-pc-game-steam-2000726752" target="_blank">In This Soulslike, The Dog Will Pet You Back…With A Sword</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-21 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 93 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 20:10 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 91 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 21:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
