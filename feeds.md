@@ -1,32 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-08-22 09:16:07 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing 54 RSS feeds at 2026-08-22 10:11:31 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, August 22, 2026 - 09:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, August 22, 2026 - 10:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0368/live/25c63960-9e0c-11f1-95e0-53a570c83624.jpg" alt="Multiple deaths after police vehicle and car crash during pursuit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss" target="_blank">Multiple deaths after police vehicle and car crash during pursuit</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-22 10:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-gianni-infantino-fifa-president_7312057.jpg?20260801225352" alt="FIFA president Infantino asked to stay away from youth tournament" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/gianni-infantino-asked-to-stay-away-from-youth-tournament-amid-anger-at-world-cup-sell-off-plan-13575730" target="_blank">FIFA president Infantino asked to stay away from youth tournament</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-08-22 09:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/22/iran-says-new-us-sanctions-violate-sovereignty-of-other-states?traffic_source=rss" target="_blank">Iran says new US sanctions violate sovereignty of other states</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-22 09:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6780/live/3eddc630-9e06-11f1-afde-61b39e745f81.png" alt="Multiple deaths after crash between police vehicle and car" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -67,33 +99,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss" target="_blank">Canada says it will match US tariffs &#x27;dollar for dollar&#x27; as trade talks break down</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-08-22 04:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs" target="_blank">U.S. imposes 50% tariffs on $20 billion worth of Canadian products</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-22 04:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/22/inundated-philippine-communities-seek-answers-over-flood-control-funds?traffic_source=rss" target="_blank">Inundated Philippine communities seek answers over flood control funds</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-22 04:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Business/carney-trump-ap-jef-260821_1787322658587_hpMain_4x3t_384.jpg" alt="Trump&#x27;s 50% tariffs take effect after US, Canada fail to reach trade deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Business/trumps-proposed-tariffs-canada-hurtle-deadline-amid-trade/story?id=135833861" target="_blank">Trump&#x27;s 50% tariffs take effect after US, Canada fail to reach trade deal</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-22 04:18</span>
             </div>
         </div>
 </div>
@@ -163,6 +168,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Etnaviv-YOLOX" target="_blank">Open-Source Etnaviv Driver Now Able To Run YOLOX</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-22 10:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/graham23s/technical-seo-checks-i-run-before-writing-more-content-495h" target="_blank">Technical SEO Checks I Run Before Writing More Content</a></span>
                 <span class="feed">DEV Community</span>
@@ -176,6 +190,15 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/08/linkedin-ai-code-review/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AI Code Review at Scale: LinkedIn&#x27;s Multi-Agent Approach</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-08-22 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17426094/torvalds-used-ai-fix-kernel-bug" target="_blank">Linux Creator Linus Torvalds Just Used AI to Fix a Kernel Bug</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-08-22 07:20</span>
             </div>
         </div>
 <div class="story">
@@ -194,24 +217,6 @@
                 <span class="title"><a href="https://dev.to/futhgar/tailscale-kernel-tun-in-unprivileged-lxc-direct-ssh-without-userspace-networking-18la" target="_blank">Tailscale Kernel TUN in Unprivileged LXC: Direct SSH Without Userspace Networking</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-22 06:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/billahdotdev/problem-engineering-why-defining-the-problem-matters-more-than-your-prompt-5696" target="_blank">Problem Engineering: Why Defining the Problem Matters More Than Your Prompt</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-22 05:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17426034/proton-mail-categories" target="_blank">Proton Mail Wants to Organize Your Emails Automatically</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-08-22 04:40</span>
             </div>
         </div>
 </div>
@@ -315,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 97 | 📡 Total Sources: 40 | 📸 With Images: 256 |
-        🔄 Last Updated: 09:16 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 101 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 10:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
