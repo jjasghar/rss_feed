@@ -1,33 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-08-22 18:12:42 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-22 19:13:59 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Saturday, August 22, 2026 - 18:12 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Saturday, August 22, 2026 - 19:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/22/carney-canada-will-enact-retaliatory-us-tariffs-starting-september-8?traffic_source=rss" target="_blank">Carney: Canada will enact retaliatory US tariffs starting September 8</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-22 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Business/carney-trump-ap-jef-260821_1787322658587_hpMain_4x3t_384.jpg" alt="Trump&#x27;s 50% tariffs on Canada take effect as Carney vows to retaliate" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,20 +103,20 @@
                 <span class="time">2026-08-22 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1787398213754_now_spec_canada_tariffs_260822_S3_1920x1080-zhj6s8.jpg" alt="U.S. imposes 50% tariffs on some Canadian goods after trade talks collapse" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/u-s-imposes-50-tariffs-on-some-canadian-goods-after-trade-talks-collapse-268712517975" target="_blank">U.S. imposes 50% tariffs on some Canadian goods after trade talks collapse</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-22 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/" target="_blank">Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-22 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +162,29 @@
                 <span class="time">2026-08-22 13:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a88dd7fea039809518897fc/master/pass/Review--Saily-Ultra-eSIM-Premium-Plan-.jpg" alt="Saily Ultra eSIM Premum Plan Review: Packed With Perks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/saily-ultra-esim/" target="_blank">Saily Ultra eSIM Premum Plan Review: Packed With Perks</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-22 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="Stop chasing fads. Operate Claude like a startup founder." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/triberoi/stop-chasing-fads-operate-claude-like-a-startup-founder-2l1b" target="_blank">Stop chasing fads. Operate Claude like a startup founder.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-22 19:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Apple-HFS-Linux-7.3" target="_blank">Apple HFS / HFS+ File-System Support Continues Seeing Fixes With Linux 7.3</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-22 19:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -180,39 +204,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/08/cloudflare-kitesurf-browser/en/headerimage/generatedHeaderImage-1786287857420.jpg" alt="Cloudflare Announces Kitesurf, a Browser Engine for Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/08/cloudflare-kitesurf-browser/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Announces Kitesurf, a Browser Engine for Agents</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-22 15:01</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/victoria_ndei_07224d0b8db/my-first-github-project-from-a-local-folder-to-github-using-git-and-ssh-5cbc" target="_blank">My First GitHub Project: From a Local Folder to GitHub using Git and SSH</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-22 14:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://quantumi.sh/public/labs.html" target="_blank">ElevenLabs, TwelveLabs, ThirteenLabs</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-22 14:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.modelcontextprotocol.io/posts/mcp-roadmap/" target="_blank">The New MCP Roadmap</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-22 13:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/" target="_blank">A Kantian Critique of &quot;Sorry&quot; by Justin Bieber</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-22 13:24</span>
             </div>
         </div>
 </div>
@@ -234,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/goldenaxeparamount.jpg" alt="Fans Dismayed Golden Axe Animated Streaming Series Resembles Every Animated Streaming Series" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/fans-dismayed-golden-axe-animated-streaming-series-resembles-every-animated-streaming-series-2000727055" target="_blank">Fans Dismayed Golden Axe Animated Streaming Series Resembles Every Animated Streaming Series</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-22 18:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2024/01/5b2546fd32e0e010ad063044cf495f58-1280x720.jpg" alt="SNK Reports Financial Woes As Tekken Director Kohei Ikeda Reunites With Katsuhiro Harada" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +294,6 @@
                 <span class="time">2026-08-21 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JVZABKMFK8VHA1KJ8C41P3B1/hero-image.png" alt="I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS" target="_blank">I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-21 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 95 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 18:12 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 94 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 19:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
