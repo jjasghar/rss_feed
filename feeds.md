@@ -1,34 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-08-21 23:12:17 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-22 00:33:25 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, August 21, 2026 - 23:12 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Saturday, August 22, 2026 - 00:33 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/22/several-killed-in-russias-double-tap-drone-strike-on-ukraine-mall?traffic_source=rss" target="_blank">Several killed in Russia’s ‘double-tap’ drone strike on Ukraine mall</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-22 00:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1787352707271_nn_mal_supreme_court_allows_white_house_ballroom_construction_for_now_260821_S3_1920x1080-u66x9b.jpg" alt="Supreme Court allows White House ballroom construction for now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/supreme-court-allows-white-house-ballroom-construction-for-now-268695109794" target="_blank">Supreme Court allows White House ballroom construction for now</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-21 22:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8911/live/1fc38590-9da8-11f1-95ab-d3b679e2384a.jpg" alt="Girl, 6, dies after family killed in sea off Shoreham" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -63,6 +78,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/hawaii-lala-ap-jef-260821_1787316581574_hpMain_4x3t_384.jpg" alt="Tropical Storm Moke develops, expected to bring flooding rains to Hawaii&#x27;s Big Island" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/hawaiis-big-island-braces-new-storm-days-after/story?id=135834078" target="_blank">Tropical Storm Moke develops, expected to bring flooding rains to Hawaii&#x27;s Big Island</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-21 21:30</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -71,38 +95,20 @@
                 <span class="time">2026-08-21 18:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-08/260817-scotus-wh-ballroom-construction-bf-1128-b1f4c1.jpg" alt="Supreme Court temporarily allows Trump ballroom construction to continue" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/supreme-court/supreme-court-trump-white-house-ballroom-rcna592899" target="_blank">Supreme Court temporarily allows Trump ballroom construction to continue</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-21 18:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/GMA/gma-royals-ht-kk-260821_1787327306543_hpMain_4x3t_384.jpg" alt="Will Prince Harry, Meghan Markle&#x27;s UK return heal royal family rifts?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/GMA/Culture/prince-harry-meghan-markles-uk-return-puts-spotlight/story?id=135840065" target="_blank">Will Prince Harry, Meghan Markle&#x27;s UK return heal royal family rifts?</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-21 18:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9d1/live/0b65a550-9d63-11f1-a291-b542ee92de7c.jpg" alt="Prince Harry and six others face privacy case legal bill of up to £34.5m" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss" target="_blank">Prince Harry and six others face privacy case legal bill of up to £34.5m</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-21 15:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/" target="_blank">Anthropic’s Opus 4.6 is a smut-machine</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-21 23:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,15 +154,6 @@
                 <span class="time">2026-08-21 19:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/mx-master-4-graphite-lifestyle-gallery-4-new-500x500.jpg" alt="Lawsuit demands Logitech hand tariff refunds over to customers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/08/lawsuit-demands-logitech-hand-tariff-refunds-over-to-customers/" target="_blank">Lawsuit demands Logitech hand tariff refunds over to customers</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-21 19:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +166,15 @@
                 <span class="title"><a href="https://www.shelvd.org/blog/28000-books" target="_blank">I own 28,000 books – here&#x27;s what I&#x27;ve learned</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-08-21 22:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wine-11.16-Released" target="_blank">Wine 11.16 Released With VA-API Hardware Decoding, Better ARM64 Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-21 22:12</span>
             </div>
         </div>
 <div class="story">
@@ -205,15 +211,6 @@
                 <span class="title"><a href="https://dev.to/methridge/running-vault-on-openshift-with-hcp-vault-auto-unseal-lessons-learned-2j1h" target="_blank">Running Vault on OpenShift with HCP Vault Auto-Unseal: Lessons Learned</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-21 18:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-FBDEV" target="_blank">Linux 7.3 Lands Improvements For Voodoo 3 / 4 / 5 &amp; Vintage Atari Computers In 2026</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-21 17:53</span>
             </div>
         </div>
 </div>
@@ -295,6 +292,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/08/21/the-new-pornographers" target="_blank">The New Pornographers</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-08-21 21:41</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1787267566-20260821.png" alt="Saturday Morning Breakfast Cereal - Classic" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -344,8 +350,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 100 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 23:12 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 99 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 00:33 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
