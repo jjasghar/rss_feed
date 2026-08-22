@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-08-22 16:10:10 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-22 17:10:25 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, August 22, 2026 - 16:10 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, August 22, 2026 - 17:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +49,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae91/live/dc71e910-9e49-11f1-8871-ff7211da55c9.jpg" alt="Carney calls Trump&#x27;s fresh tariffs a &#x27;miscalculation&#x27; after trade talks collapse" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss" target="_blank">Carney calls Trump&#x27;s fresh tariffs a &#x27;miscalculation&#x27; after trade talks collapse</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-22 16:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7ed/live/5d906f30-9e13-11f1-95e0-53a570c83624.jpg" alt="Vigil held for family who died in sea off Shoreham" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -62,6 +73,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/8/22/israeli-drone-strike-on-civilian-vehicle-causes-injuries-in-syria?traffic_source=rss" target="_blank">Israeli drone strike on ‘civilian vehicle’ injures several in Syria</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-22 14:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/22/nx-s1-5932426/opinion-mr-rogers-keeps-finding-a-new-neighborhood" target="_blank">Opinion: Mr. Rogers keeps finding a new neighborhood</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-22 12:00</span>
             </div>
         </div>
 <div class="story">
@@ -82,29 +102,29 @@
                 <span class="time">2026-08-22 10:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-gianni-infantino-fifa-president_7312057.jpg?20260801225352" alt="FIFA president Infantino asked to stay away from youth tournament" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/gianni-infantino-asked-to-stay-away-from-youth-tournament-amid-anger-at-world-cup-sell-off-plan-13575730" target="_blank">FIFA president Infantino asked to stay away from youth tournament</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-08-22 09:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/22/iran-says-new-us-sanctions-violate-sovereignty-of-other-states?traffic_source=rss" target="_blank">Iran says new US sanctions violate sovereignty of other states</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-22 09:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition" target="_blank">Doodle generative compositions in your browser with Musical Spirograph</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-22 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/" target="_blank">OpenAI says California should strengthen its AI safety bill</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-22 16:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,24 +161,6 @@
                 <span class="time">2026-08-22 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2" target="_blank">Two great new repairable gadgets</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-22 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-535196267-500x500.jpg" alt="Putting mice into hibernation causes a major loss of synapses" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/" target="_blank">Putting mice into hibernation causes a major loss of synapses</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-22 11:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -180,6 +182,15 @@
                 <span class="title"><a href="https://dev.to/victoria_ndei_07224d0b8db/my-first-github-project-from-a-local-folder-to-github-using-git-and-ssh-5cbc" target="_blank">My First GitHub Project: From a Local Folder to GitHub using Git and SSH</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-22 14:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://quantumi.sh/public/labs.html" target="_blank">ElevenLabs, TwelveLabs, ThirteenLabs</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-22 14:54</span>
             </div>
         </div>
 <div class="story">
@@ -209,15 +220,6 @@
                 <span class="time">2026-08-22 13:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/NTFS3-Vulnerability-For-Root" target="_blank">Specially Crafted NTFS File-System Image Allows Root Access On Linux With NTFS3 Driver</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-22 12:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2024/01/5b2546fd32e0e010ad063044cf495f58-1280x720.jpg" alt="SNK Reports Financial Woes As Tekken Director Kohei Ikeda Reunites With Katsuhiro Harada" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/snk-reports-financial-woes-as-tekken-director-kohei-ikeda-reunites-with-katsuhiro-harada-2000727049" target="_blank">SNK Reports Financial Woes As Tekken Director Kohei Ikeda Reunites With Katsuhiro Harada</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-22 17:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/trails-2-1280x712.jpg" alt="Trails In The Sky 1st Chapter’s Mistake-Filled Localization Is Finally Being Fixed One Year Later" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +293,6 @@
                 <span class="time">2026-08-21 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/Microsoft-Windows-11-Pro-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Update to Windows 11 Pro for less than $11 with this limited deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/21/update-to-windows-11-pro-for-less-than-11-with-this-limited-deal.html" target="_blank">Update to Windows 11 Pro for less than $11 with this limited deal</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-21 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 92 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 16:10 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 96 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 17:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
