@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-08-22 11:10:01 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-22 12:15:21 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, August 22, 2026 - 11:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Saturday, August 22, 2026 - 12:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1787398213754_now_spec_canada_tariffs_260822_S3_1920x1080-zhj6s8.jpg" alt="U.S. imposes 50% tariffs on some Canadian goods after trade talks collapse" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/u-s-imposes-50-tariffs-on-some-canadian-goods-after-trade-talks-collapse-268712517975" target="_blank">U.S. imposes 50% tariffs on some Canadian goods after trade talks collapse</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-22 11:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0368/live/25c63960-9e0c-11f1-95e0-53a570c83624.jpg" alt="Multiple deaths after police vehicle and car crash during pursuit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,20 +99,29 @@
                 <span class="time">2026-08-22 07:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef5d/live/88423690-9ddd-11f1-b109-879e35c24276.jpg" alt="Canada says it will match US tariffs &#x27;dollar for dollar&#x27; as trade talks break down" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss" target="_blank">Canada says it will match US tariffs &#x27;dollar for dollar&#x27; as trade talks break down</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-22 04:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2" target="_blank">Two great new repairable gadgets</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-22 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-535196267-500x500.jpg" alt="Putting mice into hibernation causes a major loss of synapses" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/" target="_blank">Putting mice into hibernation causes a major loss of synapses</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-22 11:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69b9f0ce20bfe60b84c7d7ba/master/pass/IMG_3138.JPG" alt="The 4 Best Monitor Arms to Clear Up Your Desk Space (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,24 +158,6 @@
                 <span class="time">2026-08-21 23:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a86349028fa0a4f102bcd1b/master/pass/Made-in-China-Unlikely-Place-at-Center-of-China-AI-Boom-Business.jpg" alt="The Unlikely Place at the Center of China’s AI Boom" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/" target="_blank">The Unlikely Place at the Center of China’s AI Boom</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-21 23:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/" target="_blank">Anthropic’s Opus 4.6 is a smut-machine</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-21 23:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,6 +169,15 @@
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/albert_zhang_f468830cf0e6/automatic-error-recovery-in-ai-agent-networks-4i4d" target="_blank">Automatic Error Recovery in AI Agent Networks</a></span>
                 <span class="feed">DEV Community</span>
+                <span class="time">2026-08-22 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/doordash-llm-ai-moderation-platform/en/mediumimage/bruna-pereira-medium-1786539036040.jpeg" alt="Presentation: SafeChat: Building AI-Powered Safety Systems at Scale in a Real-Time Marketplace" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/doordash-llm-ai-moderation-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: SafeChat: Building AI-Powered Safety Systems at Scale in a Real-Time Marketplace</a></span>
+                <span class="feed">InfoQ</span>
                 <span class="time">2026-08-22 11:00</span>
             </div>
         </div>
@@ -204,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/graham23s/technical-seo-checks-i-run-before-writing-more-content-495h" target="_blank">Technical SEO Checks I Run Before Writing More Content</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-22 09:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/08/linkedin-ai-code-review/en/headerimage/linkedin-code-review-1787387463447.jpeg" alt="AI Code Review at Scale: LinkedIn&#x27;s Multi-Agent Approach" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/08/linkedin-ai-code-review/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AI Code Review at Scale: LinkedIn&#x27;s Multi-Agent Approach</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-22 09:00</span>
             </div>
         </div>
 </div>
@@ -316,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 101 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 11:10 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 101 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 12:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
