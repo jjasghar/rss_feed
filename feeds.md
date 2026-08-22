@@ -1,34 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-08-22 03:31:50 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-08-22 04:20:37 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, August 22, 2026 - 03:32 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Saturday, August 22, 2026 - 04:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Business/carney-trump-ap-jef-260821_1787322658587_hpMain_4x3t_384.jpg" alt="Trump&#x27;s 50% tariffs take effect after US, Canada fail to reach trade deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Business/trumps-proposed-tariffs-canada-hurtle-deadline-amid-trade/story?id=135833861" target="_blank">Trump&#x27;s 50% tariffs take effect after US, Canada fail to reach trade deal</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-22 04:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251027-donald-trump-mark-carney-zz-7d6c7d.jpg" alt="Canadian prime minister suspends trade talks with U.S., setting new 50% tariffs in motion" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/business/economy/trump-canada-tariffs-carney-rcna593510" target="_blank">Canadian prime minister suspends trade talks with U.S., setting new 50% tariffs in motion</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-22 03:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,24 +104,6 @@
                 <span class="time">2026-08-22 00:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1787352707271_nn_mal_supreme_court_allows_white_house_ballroom_construction_for_now_260821_S3_1920x1080-u66x9b.jpg" alt="Supreme Court allows White House ballroom construction for now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/supreme-court-allows-white-house-ballroom-construction-for-now-268695109794" target="_blank">Supreme Court allows White House ballroom construction for now</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-21 22:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8911/live/1fc38590-9da8-11f1-95ab-d3b679e2384a.jpg" alt="Girl, 6, dies after family killed in sea off Shoreham" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss" target="_blank">Girl, 6, dies after family killed in sea off Shoreham</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-21 22:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -119,6 +125,15 @@
                 <span class="title"><a href="https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/" target="_blank">Trump&#x27;s space transportation policy calls for new spaceport on federal land</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-08-21 23:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a86349028fa0a4f102bcd1b/master/pass/Made-in-China-Unlikely-Place-at-Center-of-China-AI-Boom-Business.jpg" alt="The Unlikely Place at the Center of China’s AI Boom" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/" target="_blank">The Unlikely Place at the Center of China’s AI Boom</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-21 23:25</span>
             </div>
         </div>
 <div class="story">
@@ -148,20 +163,20 @@
                 <span class="time">2026-08-21 22:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message" target="_blank">Over 1 million people have clicked LinkedIn’s AI slop button</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-21 21:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hiajayy/how-i-approach-appointment-slot-optimization-in-laravel-when-services-have-different-durations-5f27" target="_blank">How I Approach Appointment Slot Optimization in Laravel When Services Have Different Durations</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-22 03:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +220,6 @@
                 <span class="title"><a href="https://www.shelvd.org/blog/28000-books" target="_blank">I own 28,000 books – here&#x27;s what I&#x27;ve learned</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-08-21 22:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Wine-11.16-Released" target="_blank">Wine 11.16 Released With VA-API Hardware Decoding, Better ARM64 Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-21 22:12</span>
             </div>
         </div>
 </div>
@@ -321,31 +327,13 @@
                 <span class="time">2026-08-21 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/store_news/news_back.png" alt="xkcd store reopening" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://store.xkcd.com/" target="_blank">xkcd store reopening</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-08-21 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/archery_feat.png" alt="Archery Feat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3288/" target="_blank">Archery Feat</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-08-21 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 99 | 📡 Total Sources: 40 | 📸 With Images: 254 |
-        🔄 Last Updated: 03:32 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 98 | 📡 Total Sources: 39 | 📸 With Images: 256 |
+        🔄 Last Updated: 04:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
