@@ -1,37 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-08-22 22:09:40 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-22 23:09:32 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, August 22, 2026 - 22:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, August 22, 2026 - 23:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ea9/live/7085b770-9d97-11f1-9233-8716b68cda7b.jpg" alt="Struggling households need more help with bills, energy industry says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss" target="_blank">Struggling households need more help with bills, energy industry says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-22 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/22/tropical-storm-moke-advances-towards-hawaii-with-heavy-rain-strong-winds?traffic_source=rss" target="_blank">Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-22 22:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +104,20 @@
                 <span class="time">2026-08-22 17:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae91/live/dc71e910-9e49-11f1-8871-ff7211da55c9.jpg" alt="Carney calls Trump&#x27;s fresh tariffs a &#x27;miscalculation&#x27; after trade talks collapse" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss" target="_blank">Carney calls Trump&#x27;s fresh tariffs a &#x27;miscalculation&#x27; after trade talks collapse</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-22 16:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7ed/live/5d906f30-9e13-11f1-95e0-53a570c83624.jpg" alt="Vigil held for family who died in sea off Shoreham" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c87n7xd2ye9o?at_medium=RSS&at_campaign=rss" target="_blank">Vigil held for family who died in sea off Shoreham</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-22 14:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/" target="_blank">Harvard’s $699 startup bootcamp offers AI avatars of its instructors</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-22 21:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +163,20 @@
                 <span class="time">2026-08-22 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv" target="_blank">Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-22 13:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/neithergalax/smashing-the-mcp-skill-tradeoff-more-guidance-better-agents-2g21" target="_blank">Smashing the MCP + Skill Tradeoff: More Guidance, Better Agents?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-22 22:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +220,6 @@
                 <span class="title"><a href="https://lapcatsoftware.com/articles/2026/8/7.html" target="_blank">hdiutil is deprecated in macOS 27 Golden Gate</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-08-22 19:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Apple-HFS-Linux-7.3" target="_blank">Apple HFS / HFS+ File-System Support Continues Seeing Fixes With Linux 7.3</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-22 19:01</span>
             </div>
         </div>
 </div>
@@ -297,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 86 | 📡 Total Sources: 39 | 📸 With Images: 251 |
-        🔄 Last Updated: 22:09 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 84 | 📡 Total Sources: 39 | 📸 With Images: 249 |
+        🔄 Last Updated: 23:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
