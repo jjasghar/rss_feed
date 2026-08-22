@@ -1,32 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-08-22 14:09:58 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-22 15:09:30 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Saturday, August 22, 2026 - 14:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, August 22, 2026 - 15:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/22/israeli-drone-strike-on-civilian-vehicle-causes-injuries-in-syria?traffic_source=rss" target="_blank">Israeli drone strike on ‘civilian vehicle’ injures several in Syria</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-22 14:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1787398213754_now_spec_canada_tariffs_260822_S3_1920x1080-zhj6s8.jpg" alt="U.S. imposes 50% tariffs on some Canadian goods after trade talks collapse" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,20 +103,29 @@
                 <span class="time">2026-08-22 09:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/8/22/messi-fined-for-striking-opponent-in-inter-miami-mls-game?traffic_source=rss" target="_blank">Lionel Messi fined for striking opponent in Inter Miami MLS game</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-22 07:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview" target="_blank">W. Kamau Bell has the most practical ‘most indispensable tool’</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-22 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade/" target="_blank">Pixel 11 Pro XL review: Snappier cameras can’t hide an iterative upgrade</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-22 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,29 +162,20 @@
                 <span class="time">2026-08-22 11:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a8871d3b0df42666c60d05e/master/pass/sci-award-release-swift-orbit-boost-sept-24.jpg" alt="NASA Cancels Its Rescue Mission for the Aging Swift Telescope" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/nasa-cancels-its-rescue-mission-for-the-aging-swift-telescope/" target="_blank">NASA Cancels Its Rescue Mission for the Aging Swift Telescope</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-22 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/" target="_blank">Michael Polansky is training an AI model on skin that’s still alive</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-22 01:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/victoria_ndei_07224d0b8db/my-first-github-project-from-a-local-folder-to-github-using-git-and-ssh-5cbc" target="_blank">My First GitHub Project: From a Local Folder to GitHub using Git and SSH</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-22 14:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -181,6 +197,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/NTFS3-Vulnerability-For-Root" target="_blank">Specially Crafted NTFS File-System Image Allows Root Access On Linux With NTFS3 Driver</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-22 12:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/albert_zhang_f468830cf0e6/automatic-error-recovery-in-ai-agent-networks-4i4d" target="_blank">Automatic Error Recovery in AI Agent Networks</a></span>
                 <span class="feed">DEV Community</span>
@@ -194,24 +219,6 @@
                 <span class="title"><a href="https://www.infoq.com/presentations/doordash-llm-ai-moderation-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: SafeChat: Building AI-Powered Safety Systems at Scale in a Real-Time Marketplace</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-08-22 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/NVK-Vulkan-Video-Mesa-26.3" target="_blank">NVK Vulkan Video Merged For Mesa 26.3</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-22 10:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations" target="_blank">Canada suspends trade negotiations with USA and match tariffs dollar for dollar</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-22 10:26</span>
             </div>
         </div>
 </div>
@@ -233,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/trails-2-1280x712.jpg" alt="Trails In The Sky 1st Chapter’s Mistake-Filled Localization Is Finally Being Fixed One Year Later" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/trails-in-the-sky-1st-chapters-mistake-filled-localization-is-finally-being-fixed-one-year-later-2000726779" target="_blank">Trails In The Sky 1st Chapter’s Mistake-Filled Localization Is Finally Being Fixed One Year Later</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-22 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/gta-6-club-1280x731.jpg" alt="GTA 6 Leaker Takes Fans To A Strip Club In Seventh Gameplay Dump As Netflix Tries To Act Normal About The Whole Thing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +294,6 @@
                 <span class="time">2026-08-21 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M0GC7823K9AQ1CPFAHZT037C/hero-image.jpg" alt="10 Hacks Every Facebook Marketplace Buyer and Seller Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/hacks-for-facebook-marketplace-users?utm_medium=RSS" target="_blank">10 Hacks Every Facebook Marketplace Buyer and Seller Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-21 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 93 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 14:10 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 95 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 15:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
