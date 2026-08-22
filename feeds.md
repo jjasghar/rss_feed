@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-08-22 12:15:21 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-22 13:22:47 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Saturday, August 22, 2026 - 12:15 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Saturday, August 22, 2026 - 13:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -167,6 +167,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ramdai_bista/your-scheduled-agent-says-success-it-did-nothing-heres-why-2ii3" target="_blank">Your Scheduled Agent Says Success. It Did Nothing. Here&#x27;s Why.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-22 13:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/albert_zhang_f468830cf0e6/automatic-error-recovery-in-ai-agent-networks-4i4d" target="_blank">Automatic Error Recovery in AI Agent Networks</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-22 11:00</span>
@@ -206,15 +215,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Etnaviv-YOLOX" target="_blank">Open-Source Etnaviv Driver Now Able To Run YOLOX</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-08-22 10:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/graham23s/technical-seo-checks-i-run-before-writing-more-content-495h" target="_blank">Technical SEO Checks I Run Before Writing More Content</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-22 09:01</span>
             </div>
         </div>
 </div>
@@ -318,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 101 | 📡 Total Sources: 40 | 📸 With Images: 254 |
-        🔄 Last Updated: 12:15 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 96 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 13:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
