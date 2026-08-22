@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-08-22 15:09:30 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-08-22 16:10:10 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, August 22, 2026 - 15:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Saturday, August 22, 2026 - 16:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7ed/live/5d906f30-9e13-11f1-95e0-53a570c83624.jpg" alt="Vigil held for family who died in sea off Shoreham" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c87n7xd2ye9o?at_medium=RSS&at_campaign=rss" target="_blank">Vigil held for family who died in sea off Shoreham</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-22 14:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,15 +100,6 @@
                 <span class="time">2026-08-22 09:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6780/live/3eddc630-9e06-11f1-afde-61b39e745f81.png" alt="Multiple deaths after crash between police vehicle and car" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss" target="_blank">Multiple deaths after crash between police vehicle and car</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-22 09:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -136,6 +133,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/6a88dd7fea039809518897fc/master/pass/Review--Saily-Ultra-eSIM-Premium-Plan-.jpg" alt="Saily Ultra eSIM Premum Plan Review: Packed With Perks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/saily-ultra-esim/" target="_blank">Saily Ultra eSIM Premum Plan Review: Packed With Perks</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-22 13:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -153,15 +159,6 @@
                 <span class="time">2026-08-22 11:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69b9f0ce20bfe60b84c7d7ba/master/pass/IMG_3138.JPG" alt="The 4 Best Monitor Arms to Clear Up Your Desk Space (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-monitor-arms/" target="_blank">The 4 Best Monitor Arms to Clear Up Your Desk Space (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-22 11:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,10 +167,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/SMB3-CIFS-Maintainer-Change" target="_blank">Longtime Linux CIFS/SMB3 Maintainer Steps Down</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-22 15:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/victoria_ndei_07224d0b8db/my-first-github-project-from-a-local-folder-to-github-using-git-and-ssh-5cbc" target="_blank">My First GitHub Project: From a Local Folder to GitHub using Git and SSH</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-22 14:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.modelcontextprotocol.io/posts/mcp-roadmap/" target="_blank">The New MCP Roadmap</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-22 13:31</span>
             </div>
         </div>
 <div class="story">
@@ -201,24 +216,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/NTFS3-Vulnerability-For-Root" target="_blank">Specially Crafted NTFS File-System Image Allows Root Access On Linux With NTFS3 Driver</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-08-22 12:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/albert_zhang_f468830cf0e6/automatic-error-recovery-in-ai-agent-networks-4i4d" target="_blank">Automatic Error Recovery in AI Agent Networks</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-22 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/doordash-llm-ai-moderation-platform/en/mediumimage/bruna-pereira-medium-1786539036040.jpeg" alt="Presentation: SafeChat: Building AI-Powered Safety Systems at Scale in a Real-Time Marketplace" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/doordash-llm-ai-moderation-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: SafeChat: Building AI-Powered Safety Systems at Scale in a Real-Time Marketplace</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-22 11:00</span>
             </div>
         </div>
 </div>
@@ -300,6 +297,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.smbc-comics.com/comics/1787378196-20260822.png" alt="Saturday Morning Breakfast Cereal - Chromo" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/chromo" target="_blank">Saturday Morning Breakfast Cereal - Chromo</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-08-22 15:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -308,22 +314,13 @@
                 <span class="time">2026-08-21 21:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1787267566-20260821.png" alt="Saturday Morning Breakfast Cereal - Classic" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/classic" target="_blank">Saturday Morning Breakfast Cereal - Classic</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-08-21 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 95 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 15:09 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 92 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 16:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
