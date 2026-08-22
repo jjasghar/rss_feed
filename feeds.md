@@ -1,31 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-08-22 00:33:25 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-08-22 02:07:25 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Saturday, August 22, 2026 - 00:33 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Saturday, August 22, 2026 - 02:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/22/iranian-president-says-time-to-end-war-with-us-from-position-of?traffic_source=rss" target="_blank">Iranian president says time to end war with US from ‘position of strength’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-22 00:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/064f/live/86495a50-9dbd-11f1-aed2-8d6da8d75094.jpg" alt="&#x27;We have more work to do&#x27;, says Canada negotiator as US trade deadline looms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;We have more work to do&#x27;, says Canada negotiator as US trade deadline looms</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-22 00:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,29 +101,29 @@
                 <span class="time">2026-08-21 21:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/hawaii-lala-ap-jef-260821_1787316581574_hpMain_4x3t_384.jpg" alt="Tropical Storm Moke develops, expected to bring flooding rains to Hawaii&#x27;s Big Island" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/hawaiis-big-island-braces-new-storm-days-after/story?id=135834078" target="_blank">Tropical Storm Moke develops, expected to bring flooding rains to Hawaii&#x27;s Big Island</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-21 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/21/nx-s1-5935417/supreme-court-allows-trumps-ballroom-construction-to-continue-for-now" target="_blank">Supreme Court allows Trump&#x27;s ballroom construction to continue for now</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-21 18:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/" target="_blank">Michael Polansky is training an AI model on skin that’s still alive</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-22 01:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/9315875-500x500.jpg" alt="Trump&#x27;s space transportation policy calls for new spaceport on federal land" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/" target="_blank">Trump&#x27;s space transportation policy calls for new spaceport on federal land</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-21 23:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -136,29 +160,38 @@
                 <span class="time">2026-08-21 20:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-922788110-500x500-1787340469.jpg" alt="Class action accuses brokers of hiding Zillow listings, driving up NYC rents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/08/class-action-accuses-brokers-of-hiding-zillow-listings-driving-up-nyc-rents/" target="_blank">Class action accuses brokers of hiding Zillow listings, driving up NYC rents</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-21 20:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri" target="_blank">Apple is laying off staffers working on the Vision Pro and Siri</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-21 19:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/03/linux-email.jpg?resize=406%2C232&amp;ssl=1" alt="Postcard is a new email client for GNOME, built with AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/postcard-gnome-email-client" target="_blank">Postcard is a new email client for GNOME, built with AI</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-08-22 02:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://danluu.com/perf-opt/" target="_blank">There&#x27;s no reason for software to be slow anymore</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-22 01:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/KDE-Plasma-6.8-More-Performance" target="_blank">KDE Plasma 6.8 Lands Some Enticing Performance Optimizations This Week</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-22 01:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -184,33 +217,6 @@
                 <span class="title"><a href="https://dev.to/hamdi_laadhari/my-first-uwa-widget-for-netvibes-and-igoogle-2009-2mln" target="_blank">My First UWA Widget for Netvibes and iGoogle (2009)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-21 22:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Proton-11.0-2" target="_blank">Proton 11.0-2 Enables More Titles With Steam Play / Linux Gaming</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-21 21:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/solomon1029/smashing-ebpf-buffer-leaks-achieving-zero-drop-telemetry-with-rust-google-ai-studio-14e5" target="_blank">Smashing eBPF Buffer Leaks: Achieving Zero-Drop Telemetry with Python &amp; Google AI Studio</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-21 19:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/methridge/running-vault-on-openshift-with-hcp-vault-auto-unseal-lessons-learned-2j1h" target="_blank">Running Vault on OpenShift with HCP Vault Auto-Unseal: Lessons Learned</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-21 18:15</span>
             </div>
         </div>
 </div>
@@ -336,22 +342,13 @@
                 <span class="time">2026-08-21 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5900.png" alt="Moon River" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5900" target="_blank">Moon River</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-08-21 00:46</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 99 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 00:33 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 100 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 02:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
