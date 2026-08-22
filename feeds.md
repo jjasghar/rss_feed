@@ -1,31 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-08-22 08:15:15 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-08-22 09:16:07 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Generated 1 new posts out of 22 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Saturday, August 22, 2026 - 08:15 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Saturday, August 22, 2026 - 09:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,12 +43,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6780/live/3eddc630-9e06-11f1-afde-61b39e745f81.png" alt="Multiple deaths after crash between police vehicle and car" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss" target="_blank">Multiple deaths after crash between police vehicle and car</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-22 09:03</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/8/22/messi-fined-for-striking-opponent-in-inter-miami-mls-game?traffic_source=rss" target="_blank">Lionel Messi fined for striking opponent in Inter Miami MLS game</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-22 07:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef5d/live/88423690-9ddd-11f1-b109-879e35c24276.jpg" alt="Canada says it will match US tariffs &#x27;dollar for dollar&#x27; as trade talks break down" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss" target="_blank">Canada says it will match US tariffs &#x27;dollar for dollar&#x27; as trade talks break down</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-22 04:46</span>
             </div>
         </div>
 <div class="story">
@@ -77,29 +96,20 @@
                 <span class="time">2026-08-22 04:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-gianni-infantino-fifa-boss_7327819.jpg?20260822021153" alt="Infantino likes a baldy joke, but fans will see it as bare-faced cheek" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/infantino-likes-a-baldy-joke-but-the-fans-will-see-it-as-bare-faced-cheek-13575678" target="_blank">Infantino likes a baldy joke, but fans will see it as bare-faced cheek</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-08-22 04:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251027-donald-trump-mark-carney-zz-7d6c7d.jpg" alt="Canadian prime minister suspends trade talks with U.S., setting new 50% tariffs in motion" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/business/economy/trump-canada-tariffs-carney-rcna593510" target="_blank">Canadian prime minister suspends trade talks with U.S., setting new 50% tariffs in motion</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-22 03:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a8871d3b0df42666c60d05e/master/pass/sci-award-release-swift-orbit-boost-sept-24.jpg" alt="NASA Cancels Its Rescue Mission for the Aging Swift Telescope" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/nasa-cancels-its-rescue-mission-for-the-aging-swift-telescope/" target="_blank">NASA Cancels Its Rescue Mission for the Aging Swift Telescope</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-22 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,20 +155,29 @@
                 <span class="time">2026-08-21 22:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/" target="_blank">How AI accounting startup Rillet raised $100M and became a unicorn in 48-hours</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-21 22:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/graham23s/technical-seo-checks-i-run-before-writing-more-content-495h" target="_blank">Technical SEO Checks I Run Before Writing More Content</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-22 09:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/08/linkedin-ai-code-review/en/headerimage/linkedin-code-review-1787387463447.jpeg" alt="AI Code Review at Scale: LinkedIn&#x27;s Multi-Agent Approach" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/08/linkedin-ai-code-review/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AI Code Review at Scale: LinkedIn&#x27;s Multi-Agent Approach</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-22 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/08/vite-plus-beta/en/headerimage/generatedHeaderImage-1787326368629.jpg" alt="VoidZero Releases Vite+ Beta: A Unified Web Toolchain Behind a Single Command" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -193,24 +212,6 @@
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17426034/proton-mail-categories" target="_blank">Proton Mail Wants to Organize Your Emails Automatically</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2026-08-22 04:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hiajayy/how-i-approach-appointment-slot-optimization-in-laravel-when-services-have-different-durations-5f27" target="_blank">How I Approach Appointment Slot Optimization in Laravel When Services Have Different Durations</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-22 03:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/scott_steinmetz/fieldos-part-1-i-built-the-core-system-and-timed-every-single-hour-2ig6" target="_blank">FieldOS, Part 1: I Built the Core System and Timed Every Single Hour</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-22 03:18</span>
             </div>
         </div>
 </div>
@@ -314,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 94 | 📡 Total Sources: 40 | 📸 With Images: 256 |
-        🔄 Last Updated: 08:15 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 97 | 📡 Total Sources: 40 | 📸 With Images: 256 |
+        🔄 Last Updated: 09:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
