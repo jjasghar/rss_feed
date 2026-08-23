@@ -1,35 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-08-23 20:09:27 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-23 21:10:36 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 3 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, August 23, 2026 - 20:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Sunday, August 23, 2026 - 21:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +52,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/23/occupied-west-bank-division-ps?traffic_source=rss" target="_blank">Is Israel about to split the occupied West Bank in half?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-23 20:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +104,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-clip-pezeshkian-iran-ir-fm?traffic_source=rss" target="_blank">Pezeshkian says Iran ‘has not become Venezuela’ despite war and sanctions</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-23 15:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e0e/live/11b179c0-9ebc-11f1-94b5-69fe6cc868f9.jpg" alt="Police aborted pursuit about 10 seconds before fatal crash, watchdog says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cdj0j8enpzyo?at_medium=RSS&at_campaign=rss" target="_blank">Police aborted pursuit about 10 seconds before fatal crash, watchdog says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-23 14:58</span>
             </div>
         </div>
 </div>
@@ -164,6 +171,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ssukhpinder/net-10-nu1015-fix-packagereference-without-version-restore-failures-4741" target="_blank">.NET 10 NU1015: Fix PackageReference Without Version Restore Failures</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-23 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://lalitm.com/post/find-problems-staff-engineer/" target="_blank">How I find problems to solve as a staff engineer</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-23 19:23</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fituqgwmpvlpndifk4duc.png" alt="🧐 ECS Express Mode vs Traditional ECS: A Hands-on Comparison with Terraform" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -197,24 +222,6 @@
                 <span class="title"><a href="https://debloat.dev/" target="_blank">A website for debloated open source alternatives</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-08-23 16:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="I spent one day smashing three real open source bugs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aniruddhaadak/i-spent-one-day-smashing-three-real-open-source-bugs-4b74" target="_blank">I spent one day smashing three real open source bugs</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-23 15:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pbalduino/pt-br-clean-code-passado-a-limpo-2n4h" target="_blank">[pt-BR] Clean Code passado a limpo - Parte 1</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-23 15:00</span>
             </div>
         </div>
 </div>
@@ -267,15 +274,6 @@
                 <span class="time">2026-08-22 21:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/ChatPlayground-AI.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Let ChatGPT, Gemini &amp; more fight for your approval—ChatPlayground is just $60 for lifetime access" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/22/let-chatgpt-gemini-more-fight-for-your-approval-chatplayground-is-just-60-for-lifetime-access.html" target="_blank">Let ChatGPT, Gemini &amp; more fight for your approval—ChatPlayground is just $60 for lifetime access</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-22 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -295,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 68 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 20:09 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 68 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 21:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
