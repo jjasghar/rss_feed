@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-08-23 16:11:12 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-23 17:10:44 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Sunday, August 23, 2026 - 16:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Sunday, August 23, 2026 - 17:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,9 +51,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2026/8/23/live-elche-vs-barcelona-la-liga?traffic_source=rss" target="_blank">LIVE: Elche vs Barcelona – La Liga</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-23 16:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/mail-in-main_1787485349280_hpMain_4x3t_384.jpg" alt="USPS makes new rules for mail-in ballots" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/usps-makes-new-rules-mail-ballots/story?id=135879673" target="_blank">USPS makes new rules for mail-in ballots</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-23 16:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-clip-pezeshkian-iran-ir-fm?traffic_source=rss" target="_blank">Pezeshkian says Iran ‘has not become Venezuela’ despite war and sanctions</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-23 15:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e0e/live/11b179c0-9ebc-11f1-94b5-69fe6cc868f9.jpg" alt="Police aborted pursuit about 10 seconds before fatal crash, watchdog says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cdj0j8enpzyo?at_medium=RSS&at_campaign=rss" target="_blank">Police aborted pursuit about 10 seconds before fatal crash, watchdog says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-23 14:58</span>
             </div>
         </div>
 <div class="story">
@@ -70,33 +101,6 @@
                 <span class="time">2026-08-23 13:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1787491602892_mtp_clip_scottgraham_260823_S3_1920x1080-9e1uuo.jpg" alt="Tim Scott says ‘without question’ Darline Graham is qualified for Senate" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/tim-scott-says-without-question-darline-graham-is-qualified-for-senate-268736581916" target="_blank">Tim Scott says ‘without question’ Darline Graham is qualified for Senate</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-23 13:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/23/dozens-of-attacks-in-southern-thailand-wound-three-people?traffic_source=rss" target="_blank">Dozens of attacks in southern Thailand wound three people</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-23 13:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/23/nx-s1-5941143/california-governor-xavier-becerra-health-insurance" target="_blank">Becerra, running for governor of California, faces a health insurance problem</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-23 12:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -109,6 +113,15 @@
                 <span class="title"><a href="https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/" target="_blank">TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-08-23 16:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a8929628708f4555b819a56/master/pass/Review--ROG-Swift-RGB-Stripe-OLED-Gaming-Monitor.jpg" alt="Asus ROG Swift RGB Stripe OLED Review: Clarity King" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/asus-rog-swift-rgb-stripe-oled-pg27ucwm/" target="_blank">Asus ROG Swift RGB Stripe OLED Review: Clarity King</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-23 13:00</span>
             </div>
         </div>
 <div class="story">
@@ -147,20 +160,20 @@
                 <span class="time">2026-08-22 21:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/" target="_blank">Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-22 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mightyblue/inp-bukan-masalah-hosting-cara-mengaudit-dan-menjinakkan-script-pihak-ketiga-di-situs-bisnis-5d8e" target="_blank">INP Bukan Masalah Hosting: Cara Mengaudit dan Menjinakkan Script Pihak Ketiga di Situs Bisnis</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-23 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="I spent one day smashing three real open source bugs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -206,20 +219,20 @@
                 <span class="time">2026-08-23 11:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/08/ovhcloud-memory-price-rise/en/headerimage/generatedHeaderImage-1787136997592.jpg" alt="OVHcloud Raises Prices as AI Memory Demand Reprices Non-AI Infrastructure" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/08/ovhcloud-memory-price-rise/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OVHcloud Raises Prices as AI Memory Demand Reprices Non-AI Infrastructure</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-23 08:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/gas-1280x720.jpg" alt="You Guessed It, Another GTA 6 Leak Has Hit The Timeline, And This One Has An NPC Recreating A Viral 2021 Prank" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/you-guessed-it-another-gta-6-leak-has-hit-the-timeline-and-this-one-has-an-npc-recreating-a-viral-2021-prank-2000727250" target="_blank">You Guessed It, Another GTA 6 Leak Has Hit The Timeline, And This One Has An NPC Recreating A Viral 2021 Prank</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-23 17:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/AcePDF-Converter-Editor.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Pay $24 once to edit, split, convert, and generally show your PDFs who&#x27;s boss" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,15 +278,6 @@
                 <span class="time">2026-08-22 19:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/goldenaxeparamount.jpg" alt="Fans Dismayed Golden Axe Animated Streaming Series Resembles Every Animated Streaming Series" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/fans-dismayed-golden-axe-animated-streaming-series-resembles-every-animated-streaming-series-2000727055" target="_blank">Fans Dismayed Golden Axe Animated Streaming Series Resembles Every Animated Streaming Series</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-22 18:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -293,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 68 | 📡 Total Sources: 39 | 📸 With Images: 250 |
-        🔄 Last Updated: 16:11 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 39 | 📸 With Images: 252 |
+        🔄 Last Updated: 17:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
