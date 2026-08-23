@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-08-23 15:10:57 UTC -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2026-08-23 16:11:12 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, August 23, 2026 - 15:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Sunday, August 23, 2026 - 16:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-clip-pezeshkian-iran-ir-fm?traffic_source=rss" target="_blank">Pezeshkian says Iran ‘has not become Venezuela’ despite war and sanctions</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-23 15:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +97,20 @@
                 <span class="time">2026-08-23 12:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b5d/live/a0a18950-9ebb-11f1-90dc-87f05ee8b4e5.jpg" alt="Tributes paid to PCs among seven dead in wrong-way crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cdj0j8enpzyo?at_medium=RSS&at_campaign=rss" target="_blank">Tributes paid to PCs among seven dead in wrong-way crash</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-23 10:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/" target="_blank">TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-23 16:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +156,20 @@
                 <span class="time">2026-08-22 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition" target="_blank">Doodle generative compositions in your browser with Musical Spirograph</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-22 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="I spent one day smashing three real open source bugs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aniruddhaadak/i-spent-one-day-smashing-three-real-open-source-bugs-4b74" target="_blank">I spent one day smashing three real open source bugs</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-23 15:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,20 +215,20 @@
                 <span class="time">2026-08-23 08:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/timevolt/test-driven-development-my-jedi-training-5a1o" target="_blank">Test-Driven Development: My Jedi Training</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-23 08:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/AcePDF-Converter-Editor.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Pay $24 once to edit, split, convert, and generally show your PDFs who&#x27;s boss" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/23/pay-24-once-to-edit-split-convert-and-generally-show-your-pdfs-whos-boss.html" target="_blank">Pay $24 once to edit, split, convert, and generally show your PDFs who&#x27;s boss</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-23 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2023/10/1f31239f96911bb226d0cc1d98a1c203.jpg" alt="New Studio From Arkane Austin Devs Promises It Won’t Commit Another Redfall" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,27 +274,18 @@
                 <span class="time">2026-08-22 18:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2024/01/5b2546fd32e0e010ad063044cf495f58-1280x720.jpg" alt="SNK Reports Financial Woes As Tekken Director Kohei Ikeda Reunites With Katsuhiro Harada" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/snk-reports-financial-woes-as-tekken-director-kohei-ikeda-reunites-with-katsuhiro-harada-2000727049" target="_blank">SNK Reports Financial Woes As Tekken Director Kohei Ikeda Reunites With Katsuhiro Harada</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-22 17:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
-            <img src="https://www.smbc-comics.com/comics/1787378196-20260822.png" alt="Saturday Morning Breakfast Cereal - Chromo" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1787446901-20260823.png" alt="Saturday Morning Breakfast Cereal - Beyond" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/chromo" target="_blank">Saturday Morning Breakfast Cereal - Chromo</a></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/beyond-2" target="_blank">Saturday Morning Breakfast Cereal - Beyond</a></span>
                 <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-08-22 15:20</span>
+                <span class="time">2026-08-23 15:20</span>
             </div>
         </div>
 </div>
@@ -297,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 65 | 📡 Total Sources: 39 | 📸 With Images: 249 |
-        🔄 Last Updated: 15:11 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 68 | 📡 Total Sources: 39 | 📸 With Images: 250 |
+        🔄 Last Updated: 16:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
