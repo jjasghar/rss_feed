@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-08-23 03:39:48 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-23 04:25:36 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, August 23, 2026 - 03:40 UTC</div>
+    <div class="newspaper-date">Sunday, August 23, 2026 - 04:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -163,6 +168,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="DRAM Controller Register Manipulation Breaks CPU Memory Isolation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/08/amd-memory-exploit/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">DRAM Controller Register Manipulation Breaks CPU Memory Isolation</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-23 04:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/xpdev99/i-built-a-chrome-devtools-extension-to-mock-apis-without-leaving-the-browser-1klf" target="_blank">I Built a Chrome DevTools Extension to Mock APIs Without Leaving the Browser</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-23 04:03</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -196,24 +219,6 @@
                 <span class="title"><a href="https://dev.to/neithergalax/smashing-the-mcp-skill-tradeoff-more-guidance-better-agents-2g21" target="_blank">Smashing the MCP + Skill Tradeoff: More Guidance, Better Agents?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-22 22:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tonny_muthuri_9556958a78f/my-first-github-project-27gp" target="_blank">My First GitHub Project.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-22 21:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/programmingcentral/unleashing-webgpu-why-your-browser-is-about-to-become-a-massive-parallel-computing-beast-5d65" target="_blank">Unleashing WebGPU: Why Your Browser is About to Become a Massive Parallel Computing Beast</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-22 20:00</span>
             </div>
         </div>
 </div>
@@ -294,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 03:40 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 39 | 📸 With Images: 249 |
+        🔄 Last Updated: 04:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
