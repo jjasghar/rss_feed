@@ -1,40 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-08-22 23:09:32 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-08-23 00:36:19 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 32 feeds processed -->
+<!-- Generated 3 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, August 22, 2026 - 23:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Sunday, August 23, 2026 - 00:36 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -171,6 +161,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/SMB3-CIFS-Maintainer-Change" target="_blank">Longtime Linux CIFS/SMB3 Maintainer Passes Away</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-23 00:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/neithergalax/smashing-the-mcp-skill-tradeoff-more-guidance-better-agents-2g21" target="_blank">Smashing the MCP + Skill Tradeoff: More Guidance, Better Agents?</a></span>
                 <span class="feed">DEV Community</span>
@@ -213,20 +212,20 @@
                 <span class="time">2026-08-22 19:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://lapcatsoftware.com/articles/2026/8/7.html" target="_blank">hdiutil is deprecated in macOS 27 Golden Gate</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-22 19:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2023/10/1f31239f96911bb226d0cc1d98a1c203.jpg" alt="New Studio From Arkane Austin Devs Promises They Won’t Commit Another Redfall" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/new-studio-from-arkane-austin-devs-promises-they-wont-commit-another-redfall-2000727068" target="_blank">New Studio From Arkane Austin Devs Promises They Won’t Commit Another Redfall</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-22 21:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/ChatPlayground-AI.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Let ChatGPT, Gemini &amp; more fight for your approval—ChatPlayground is just $60 for lifetime access" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,15 +271,6 @@
                 <span class="time">2026-08-22 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/Headway-Premium-1.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="A one-time $49.97 gives you 2,000+ bestselling book summaries for life" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/22/a-one-time-49-97-gives-you-2000-bestselling-book-summaries-for-life.html" target="_blank">A one-time $49.97 gives you 2,000+ bestselling book summaries for life</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-22 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -300,8 +290,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 84 | 📡 Total Sources: 39 | 📸 With Images: 249 |
-        🔄 Last Updated: 23:09 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 39 | 📸 With Images: 250 |
+        🔄 Last Updated: 00:36 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
