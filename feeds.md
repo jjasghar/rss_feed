@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-08-23 12:16:16 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-08-23 13:23:30 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Generated 0 new posts out of 23 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Sunday, August 23, 2026 - 12:16 UTC</div>
+    <div class="newspaper-date">Sunday, August 23, 2026 - 13:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/23/dozens-of-attacks-in-southern-thailand-wound-three-people?traffic_source=rss" target="_blank">Dozens of attacks in southern Thailand wound three people</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-23 13:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b5d/live/a0a18950-9ebb-11f1-90dc-87f05ee8b4e5.jpg" alt="Tributes paid to PCs among seven dead in wrong-way crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,15 +94,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/cdj0j8enpzyo?at_medium=RSS&at_campaign=rss" target="_blank">Police officers killed in wrong-way crash mourned in &#x27;unimaginable loss&#x27;</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-08-23 07:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/8/23/serena-williams-teams-up-with-carlos-alcaraz-in-us-open-mixed-doubles?traffic_source=rss" target="_blank">Serena Williams teams up with Carlos Alcaraz in US Open mixed doubles</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-23 06:59</span>
             </div>
         </div>
 </div>
@@ -163,6 +163,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/ReactOS-Job-Objects" target="_blank">ReactOS Merges Support For Job Objects As Step To Running Modern Windows Apps</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-23 11:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/shamylbm/old-iron-earns-more-a-technical-look-at-rustchain-proof-of-antiquity-1dkf" target="_blank">Old Iron Earns More: A Technical Look at RustChain Proof-of-Antiquity</a></span>
                 <span class="feed">DEV Community</span>
@@ -203,15 +212,6 @@
                 <span class="title"><a href="http://www.os2museum.com/wp/the-end-of-an-athlon/" target="_blank">The End of an Athlon</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-08-23 05:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://skemman.is/bitstream/1946/50465/2/integrating_discord_sdk_into_eve_frontier_report.pdf" target="_blank">Integrating Discord SDK into EVE Frontier</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-08-23 05:39</span>
             </div>
         </div>
 </div>
@@ -292,8 +292,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 39 | 📸 With Images: 250 |
-        🔄 Last Updated: 12:16 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 39 | 📸 With Images: 250 |
+        🔄 Last Updated: 13:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
