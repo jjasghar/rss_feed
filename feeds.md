@@ -1,42 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-08-23 21:10:36 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-23 22:09:47 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 33 feeds processed -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Sunday, August 23, 2026 - 21:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, August 23, 2026 - 22:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/8/23/raphinha-and-lopez-score-braces-as-barcelona-trounce-elche-5-0?traffic_source=rss" target="_blank">Raphinha and Lopez score braces as Barcelona trounce Elche 5-0</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-23 21:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,15 +96,6 @@
                 <span class="title"><a href="https://abcnews.com/US/usps-makes-new-rules-mail-ballots/story?id=135879673" target="_blank">USPS makes new rules for mail-in ballots</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-08-23 16:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-clip-pezeshkian-iran-ir-fm?traffic_source=rss" target="_blank">Pezeshkian says Iran ‘has not become Venezuela’ despite war and sanctions</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-23 15:25</span>
             </div>
         </div>
 </div>
@@ -171,6 +163,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/08/ubuntu-phone-scaled.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu Phone engineers reunited by a decade-old bug closure" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/ubuntu-phone-bug-reunion" target="_blank">Ubuntu Phone engineers reunited by a decade-old bug closure</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-08-23 21:27</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -215,20 +216,20 @@
                 <span class="time">2026-08-23 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://debloat.dev/" target="_blank">A website for debloated open source alternatives</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-23 16:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/flowkey-Piano.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Play piano like an expert with a 5-year subscription to flowkey for $67.97" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/23/play-piano-like-an-expert-with-a-5-year-subscription-to-flowkey-for-67-97.html" target="_blank">Play piano like an expert with a 5-year subscription to flowkey for $67.97</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-23 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/hook.jpg" alt="Alleged ‘Peter Pan Stalker’ Latest Stress Test On Content Creation And Boundaries" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -256,24 +257,6 @@
                 <span class="time">2026-08-23 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2023/10/1f31239f96911bb226d0cc1d98a1c203.jpg" alt="New Studio From Arkane Austin Devs Promises It Won’t Commit Another Redfall" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/new-studio-from-arkane-austin-devs-promises-they-wont-commit-another-redfall-2000727068" target="_blank">New Studio From Arkane Austin Devs Promises It Won’t Commit Another Redfall</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-22 21:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2023/10/1f31239f96911bb226d0cc1d98a1c203.jpg" alt="New Studio From Arkane Austin Devs Promises They Won’t Commit Another Redfall" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/new-studio-from-arkane-austin-devs-promises-they-wont-commit-another-redfall-2000727068" target="_blank">New Studio From Arkane Austin Devs Promises They Won’t Commit Another Redfall</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-22 21:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -293,8 +276,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 68 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 21:10 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 66 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 22:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
