@@ -1,38 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-08-23 07:23:30 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-23 08:16:03 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, August 23, 2026 - 07:23 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, August 23, 2026 - 08:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b5d/live/a0a18950-9ebb-11f1-90dc-87f05ee8b4e5.jpg" alt="Police officers killed in wrong-way crash mourned in &#x27;unimaginable loss&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cdj0j8enpzyo?at_medium=RSS&at_campaign=rss" target="_blank">Police officers killed in wrong-way crash mourned in &#x27;unimaginable loss&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-23 07:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,15 +101,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/u-s-and-canada-trade-war-intensifies-with-new-tariffs-268723781845" target="_blank">U.S. and Canada trade war intensifies with new tariffs</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-08-22 23:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ea9/live/7085b770-9d97-11f1-9233-8716b68cda7b.jpg" alt="Struggling households need more help with bills, energy industry says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss" target="_blank">Struggling households need more help with bills, energy industry says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-22 23:00</span>
             </div>
         </div>
 </div>
@@ -167,12 +168,39 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/timevolt/test-driven-development-my-jedi-training-5a1o" target="_blank">Test-Driven Development: My Jedi Training</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-23 08:02</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F4006456%2Fa9b9a29c-6f65-4f65-b589-6869a032012c.png" alt="This was an increadible package!! It was appearing on pub.dev for just a single word like &quot;SOS&quot; search!! Go check this out!" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/bhagya_prasad_f073499f6f6/this-was-an-increadible-package-it-was-appearing-on-pubdev-for-just-a-single-word-like-sos-1dg2" target="_blank">This was an increadible package!! It was appearing on pub.dev for just a single word like &quot;SOS&quot; search!! Go check this out!</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-23 06:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="http://www.os2museum.com/wp/the-end-of-an-athlon/" target="_blank">The End of an Athlon</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-23 05:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://skemman.is/bitstream/1946/50465/2/integrating_discord_sdk_into_eve_frontier_report.pdf" target="_blank">Integrating Discord SDK into EVE Frontier</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-08-23 05:39</span>
             </div>
         </div>
 <div class="story">
@@ -191,33 +219,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/08/amd-memory-exploit/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">DRAM Controller Register Manipulation Breaks CPU Memory Isolation</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-08-23 04:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/xpdev99/i-built-a-chrome-devtools-extension-to-mock-apis-without-leaving-the-browser-1klf" target="_blank">I Built a Chrome DevTools Extension to Mock APIs Without Leaving the Browser</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-23 04:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/xbs950812/how-i-built-an-fvg-trading-bot-for-okx-and-made-99-of-its-signals-useless-on-purpose-590b" target="_blank">How I built an FVG trading bot for OKX and made 99% of its signals useless on purpose</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-23 03:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://martypc.net/" target="_blank">MartyPC is a cross-platform emulator of early PCs written in Rust</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-23 03:13</span>
             </div>
         </div>
 </div>
@@ -298,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 07:23 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 08:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
