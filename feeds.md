@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-08-23 22:09:47 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-23 23:09:37 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, August 23, 2026 - 22:09 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Sunday, August 23, 2026 - 23:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens" target="_blank">Landslide at waste mound in Guinea capital kills 30, government says</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-08-23 22:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,15 +101,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2026/8/23/live-elche-vs-barcelona-la-liga?traffic_source=rss" target="_blank">LIVE: Elche vs Barcelona – La Liga</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-23 16:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/mail-in-main_1787485349280_hpMain_4x3t_384.jpg" alt="USPS makes new rules for mail-in ballots" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/usps-makes-new-rules-mail-ballots/story?id=135879673" target="_blank">USPS makes new rules for mail-in ballots</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-23 16:39</span>
             </div>
         </div>
 </div>
@@ -199,6 +204,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-EFI" target="_blank">Linux 7.3 Better Protects Against Buggy EFI Firmware Taking Down The Rest Of User-Space</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-23 19:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/08/google-heir-homomorphic-llm/en/headerimage/google-heir-llm-1787505393014.jpeg" alt="Google&#x27;s HEIR Aims to Make Homomorphic-Encrypted Inference a One-Click Capability" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -207,20 +221,29 @@
                 <span class="time">2026-08-23 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mightyblue/inp-bukan-masalah-hosting-cara-mengaudit-dan-menjinakkan-script-pihak-ketiga-di-situs-bisnis-5d8e" target="_blank">INP Bukan Masalah Hosting: Cara Mengaudit dan Menjinakkan Script Pihak Ketiga di Situs Bisnis</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-23 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2021/09/24123897f999eec2a0b478d27f417dbb-1280x720.jpg" alt="Streamer Files Class Action Lawsuit Against Twitch Over AI Training" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/streamer-files-class-action-lawsuit-against-twitch-over-ai-training-2000727274" target="_blank">Streamer Files Class Action Lawsuit Against Twitch Over AI Training</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-23 22:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/shutterstock_2285167031-768.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="It is called Death Valley as a warning" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/23/death-valley-tourist-113-heat.html" target="_blank">It is called Death Valley as a warning</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-23 21:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/flowkey-Piano.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Play piano like an expert with a 5-year subscription to flowkey for $67.97" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 66 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 22:09 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 66 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 23:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
