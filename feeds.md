@@ -1,31 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-08-24 08:34:08 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-24 09:34:17 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 22 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, August 24, 2026 - 08:34 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, August 24, 2026 - 09:34 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/24/nx-s1-5939973/national-guard-members-washington-dc-deployment" target="_blank">&#x27;It embarrasses me to be involved&#x27;: Inside the National Guard D.C. deployment</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-24 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f38/live/0b0cedf0-9ed7-11f1-9253-c70a43a5293b.jpg" alt="Pubs and hotels could see business rates reformed after review" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c8xnxy89gv7o?at_medium=RSS&at_campaign=rss" target="_blank">Pubs and hotels could see business rates reformed after review</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-24 07:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,29 +101,20 @@
                 <span class="time">2026-08-24 04:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/23/g-s1-139729/thousands-forced-to-evacuate-parts-of-reno-nevada-as-new-wildfire-rages" target="_blank">Thousands forced to evacuate parts of Reno, Nevada, as new wildfire rages</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-24 03:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/24/08-24-26-nevada-forest-fire-sv?traffic_source=rss" target="_blank">Human-caused Nevada wildfire forces 42,000 people to evacuate</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-24 02:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/983688/world-humanoid-robot-games-sprint-record-2026" target="_blank">Humanoid robots smash Usain Bolt&amp;#8217;s 100-meter record</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-24 09:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,20 +160,20 @@
                 <span class="time">2026-08-23 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/983410/grand-theft-auto-vi-exists-in-its-own-universe" target="_blank">Grand Theft Auto VI exists in its own universe</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-23 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17427222/teamspeak-direct-calls-teased" target="_blank">TeamSpeak Will Let You Call Your Friends Directly</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-08-24 07:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/ggwork/how-to-parse-toml-in-the-browser-without-a-backend-1ckb" target="_blank">How to Parse TOML in the Browser Without a Backend</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-24 01:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-XOR-RAID6-Benchmark" target="_blank">Linux 7.3 Improving RAID 5/6 Benchmark-Based Algorithm Selection</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-24 00:38</span>
             </div>
         </div>
 </div>
@@ -309,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 72 | 📡 Total Sources: 39 | 📸 With Images: 252 |
-        🔄 Last Updated: 08:34 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 73 | 📡 Total Sources: 39 | 📸 With Images: 249 |
+        🔄 Last Updated: 09:34 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
