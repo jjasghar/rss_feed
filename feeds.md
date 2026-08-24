@@ -1,31 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-08-24 21:17:28 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-08-24 22:13:24 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 23 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Monday, August 24, 2026 - 21:17 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Monday, August 24, 2026 - 22:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260629-ballot-counting-voting-election-vl-1122a-3720d8.jpg" alt="Supreme Court hands preliminary win to Trump on mail-in ballots executive order" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/supreme-court/supreme-court-hands-preliminary-win-trump-mail-ballots-executive-order-rcna590120" target="_blank">Supreme Court hands preliminary win to Trump on mail-in ballots executive order</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-24 21:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,20 +101,29 @@
                 <span class="time">2026-08-24 17:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/uk-news/2026/aug/24/prince-harry-quits-board-wildlife-charity-african-parks-human-rights-abuses" target="_blank">Prince Harry quits board of wildlife charity after human rights abuses</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-08-24 16:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2211086231-500x500-1787606429.jpg" alt="AI is hitting entry-level jobs hardest, Stanford study finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/" target="_blank">AI is hitting entry-level jobs hardest, Stanford study finds</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-24 21:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a42affc6262e4d897071945/master/pass/bitdefender3.jpg" alt="Bitdefender VPN Review: Fast and Affordable Privacy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/bitdefender-vpn/" target="_blank">Bitdefender VPN Review: Fast and Affordable Privacy</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-24 21:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2289379931-500x500.jpg" alt="RFK Jr. may upend how vaccine recommendations are categorized" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -136,24 +160,6 @@
                 <span class="time">2026-08-24 19:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/" target="_blank">Instinct’s powerful AI assistant is raising privacy and security concerns</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-24 18:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a8c77cd68e309e12a12eda0/master/pass/The-Gaming-Headset-I-Use-Every-Day-Is-on-Sale-in-3-of-4-Color-Options.jpg" alt="My Daily Driver Gaming Headset Is Super Cheap Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/steelseries-arctis-nova-3p-august-2026/" target="_blank">My Daily Driver Gaming Headset Is Super Cheap Right Now</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-24 17:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,10 +177,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk" target="_blank">One corner of China’s internet is insisting that the Tang Dynasty never existed</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-24 21:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/jun-stoatify/how-to-test-document-management-software-with-20-real-files-32e6" target="_blank">How to test document management software with 20 real files</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-24 20:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/ath11k-7x-Lower-Latency" target="_blank">Linux ath11k Driver Improvements For Qualcomm WiFi 6 Hardware Yields 7x Lower Latency</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-24 19:29</span>
             </div>
         </div>
 <div class="story">
@@ -193,24 +217,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-AF-ALG-Restrictions" target="_blank">New AF_ALG Restrictions With Linux 7.3 Due To The Security &amp; Maintenance Nightmare</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-08-24 18:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17427617/linux-7-3-preview" target="_blank">Linux 7.3 is Shaping Up to Be One of The Most Performance-Focused Kernel Releases in Years</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-08-24 17:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/merlonix/your-mcp-server-connects-but-shows-no-tools-1fo6" target="_blank">Your MCP Server Connects but Shows No Tools</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-24 16:17</span>
             </div>
         </div>
 </div>
@@ -232,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/goku.jpg" alt="France Celebrates $7 Billion Dragon Ball Z Theme Park Paid For By Saudi Arabia: ‘You Know My Passion For Manga’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/france-celebrates-7-billion-dragon-ball-z-theme-park-paid-for-by-saudi-arabia-you-know-my-passion-for-manga-2000727680" target="_blank">France Celebrates $7 Billion Dragon Ball Z Theme Park Paid For By Saudi Arabia: ‘You Know My Passion For Manga’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-24 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/Microsoft-Office-Professional-2021-for-Windows-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Replace your patchwork of work apps with 8 Microsoft Office 2021 besties for just $30" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/24/replace-your-patchwork-of-work-apps-with-8-microsoft-office-2021-besties-for-just-30.html" target="_blank">Replace your patchwork of work apps with 8 Microsoft Office 2021 besties for just $30</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-24 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/needle-1280x720.jpg" alt="Game About Finding A Needle In A 5-Million-Piece Haystack Is Either Serene Or Stressful Depending On Who You Ask" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,24 +290,6 @@
                 <span class="title"><a href="https://lifehacker.com/health/best-suunto-race-2-watch-hacks?utm_medium=RSS" target="_blank">Five Hacks Every Suunto Race 2 User Should Know</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-08-24 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/shutterstock_2366323233-e1775492481156.jpg?fit=768%2C433&amp;quality=60&amp;ssl=1" alt="California State University system uses AI as a money incinerator" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/24/cal-state-chatgpt-ai-millions.html" target="_blank">California State University system uses AI as a money incinerator</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-24 17:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M0T91SYPYE6NWDS0RRR7Z043/hero-image.jpg" alt="If You Love &#x27;Black Mirror,&#x27; There&#x27;s One Movie You Need to Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/movies-like-black-mirror?utm_medium=RSS" target="_blank">If You Love &#x27;Black Mirror,&#x27; There&#x27;s One Movie You Need to Watch Next</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-24 17:00</span>
             </div>
         </div>
 </div>
@@ -332,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 245 |
-        🔄 Last Updated: 21:17 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 246 |
+        🔄 Last Updated: 22:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
