@@ -1,40 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-08-24 00:35:19 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-24 02:15:00 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 31 feeds processed -->
+<!-- Generated 7 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, August 24, 2026 - 00:35 UTC</div>
+    <div class="newspaper-date">Monday, August 24, 2026 - 02:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/Lesley-Vogel-1-abc-gmh-260823_1787533358011_hpMain_4x3t_384.jpg" alt="Hayden Panettiere&#x27;s mother breaks silence after her death" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/GMA/Culture/hayden-panettieres-mother-breaks-silence-after-death/story?id=135891947" target="_blank">Hayden Panettiere&#x27;s mother breaks silence after her death</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-24 01:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68ab/live/93348dd0-9f24-11f1-b109-879e35c24276.png" alt="PCs killed in A66 crash were heroes, say families" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c4gvgy3de37o?at_medium=RSS&at_campaign=rss" target="_blank">PCs killed in A66 crash were heroes, say families</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-24 00:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251028-sonya-massey-rs-ac638e.jpg" alt="Sean Grayson, ex-deputy convicted of fatally shooting Sonya Massey, dies, attorney says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,24 +93,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/23/occupied-west-bank-division-ps?traffic_source=rss" target="_blank">Is Israel about to split the occupied West Bank in half?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-23 20:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-sv-nablus-killing-teen-ps-fm?traffic_source=rss" target="_blank">Palestinian teen killed in Israeli raid buried in Occupied West Bank</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-23 18:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/23/nx-s1-5942292/thousands-in-northwest-indiana-still-without-power-nearly-two-weeks-after-storm" target="_blank">Thousands in northwest Indiana still without power nearly two weeks after storm</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-23 16:55</span>
             </div>
         </div>
 </div>
@@ -172,9 +163,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ggwork/how-to-parse-toml-in-the-browser-without-a-backend-1ckb" target="_blank">How to Parse TOML in the Browser Without a Backend</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-24 01:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/nickytonline/test-1dm4" target="_blank">test</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-24 00:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/08/cloudflare-os-ai-platform-secure/en/headerimage/generatedHeaderImage-1787524536908.jpg" alt="Cloudflare OS: Cloudflare&#x27;s Open-Source Corporate AI Platform Built on a Capability-Based Model" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/08/cloudflare-os-ai-platform-secure/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare OS: Cloudflare&#x27;s Open-Source Corporate AI Platform Built on a Capability-Based Model</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-23 22:50</span>
             </div>
         </div>
 <div class="story">
@@ -187,39 +196,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/08/ubuntu-phone-scaled.webp?resize=406%2C232&amp;ssl=1" alt="10-year-old bug action triggered an Ubuntu Phone dev reunion" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/ubuntu-phone-bug-reunion" target="_blank">10-year-old bug action triggered an Ubuntu Phone dev reunion</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-08-23 21:27</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/08/ubuntu-phone-scaled.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu Phone engineers reunited by a decade-old bug closure" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/ubuntu-phone-bug-reunion" target="_blank">Ubuntu Phone engineers reunited by a decade-old bug closure</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-08-23 21:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ssukhpinder/net-10-nu1015-fix-packagereference-without-version-restore-failures-4741" target="_blank">.NET 10 NU1015: Fix PackageReference Without Version Restore Failures</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-23 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://lalitm.com/post/find-problems-staff-engineer/" target="_blank">How I find problems to solve as a staff engineer</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-23 19:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fituqgwmpvlpndifk4duc.png" alt="🧐 ECS Express Mode vs Traditional ECS: A Hands-on Comparison with Terraform" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aws-builders/ecs-express-mode-vs-traditional-ecs-a-hands-on-comparison-with-terraform-cnp" target="_blank">🧐 ECS Express Mode vs Traditional ECS: A Hands-on Comparison with Terraform</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-23 19:05</span>
             </div>
         </div>
 </div>
@@ -287,6 +278,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.questionablecontent.net/comics/5901.png" alt="Banned From The Produce Aisle" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5901" target="_blank">Banned From The Produce Aisle</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-08-24 00:43</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1787446901-20260823.png" alt="Saturday Morning Breakfast Cereal - Beyond" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -300,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 68 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 00:35 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 74 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 02:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
