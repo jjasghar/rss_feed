@@ -1,40 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-08-24 16:21:41 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-08-24 17:20:33 UTC -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 12 new posts out of 32 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, August 24, 2026 - 16:21 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Monday, August 24, 2026 - 17:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/uk-news/2026/aug/24/prince-harry-quits-board-wildlife-charity-african-parks-human-rights-abuses" target="_blank">Prince Harry quits board of wildlife charity after human rights abuses</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-08-24 16:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/714d/live/73b30ef0-9fce-11f1-b109-879e35c24276.jpg" alt="Burnham vows support for Ukraine despite &#x27;outrageous threats&#x27; from Russia" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -69,6 +68,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/bessent-yu3vdj.jpg" alt="Treasury Secretary Bessent details economic sanctions against Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/watch-live-treasury-secretary-bessent-details-economic-sanctions-against-iran-268765765630" target="_blank">Treasury Secretary Bessent details economic sanctions against Iran</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-24 14:45</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -84,24 +92,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss" target="_blank">Iran faces &#x27;greatest financial offensive ever&#x27;, says US treasury secretary</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-08-24 13:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/24/rain-and-flooding-from-typhoon-narra-hits-china-and-vietnam?traffic_source=rss" target="_blank">Rain and flooding from Typhoon Narra hits China and Vietnam</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-24 13:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Lesley-Vogel-1-abc-gmh-260823_1787533358011_hpMain_4x3t_384.jpg" alt="‘I was just numb’: Hayden Panettiere&#x27;s mother breaks silence on daughter&#x27;s death" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/GMA/Culture/hayden-panettieres-mother-breaks-silence-after-death/story?id=135891947" target="_blank">‘I was just numb’: Hayden Panettiere&#x27;s mother breaks silence on daughter&#x27;s death</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-24 13:09</span>
             </div>
         </div>
 </div>
@@ -178,12 +168,30 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17427570/omarchy-launches-omacom-foundation" target="_blank">Omarchy Linux Just Got $8 Million From Tech&#x27;s Biggest Names</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-08-24 15:48</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/05/ubuntu-server.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu 24.04 gets a big open-vm-tools update" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/ubuntu-2404-open-vm-tools-update" target="_blank">Ubuntu 24.04 gets a big open-vm-tools update</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-08-24 15:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://nathancooper.io/blog/2026-08-10-ipython-is-all-you-need" target="_blank">IPython is All You Need</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-08-24 15:24</span>
             </div>
         </div>
 <div class="story">
@@ -202,24 +210,6 @@
                 <span class="title"><a href="https://twitter.com/lemire/status/2091894299289874926" target="_blank">Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-08-24 15:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/thatonevikash/write-your-custom-generic-utility-in-typescript-5f16" target="_blank">Write your custom generic utility in TypeScript</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-24 14:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/08/24/responsible-ai-adoption-needs-developer-workflow-design/" target="_blank">Responsible AI adoption needs developer workflow design</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-08-24 14:00</span>
             </div>
         </div>
 </div>
@@ -332,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 95 | 📡 Total Sources: 40 | 📸 With Images: 244 |
-        🔄 Last Updated: 16:21 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 94 | 📡 Total Sources: 40 | 📸 With Images: 243 |
+        🔄 Last Updated: 17:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
