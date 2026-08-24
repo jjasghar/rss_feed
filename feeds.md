@@ -1,36 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-08-24 20:16:39 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-24 21:17:28 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, August 24, 2026 - 20:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, August 24, 2026 - 21:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court" target="_blank">Supreme Court pauses lower court ruling on Trump&#x27;s mail voting order as hurdles loom</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-24 20:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +95,29 @@
                 <span class="time">2026-08-24 16:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/714d/live/73b30ef0-9fce-11f1-b109-879e35c24276.jpg" alt="Burnham vows support for Ukraine despite &#x27;outrageous threats&#x27; from Russia" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss" target="_blank">Burnham vows support for Ukraine despite &#x27;outrageous threats&#x27; from Russia</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-24 15:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2289379931-500x500.jpg" alt="RFK Jr. may upend how vaccine recommendations are categorized" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/08/rfk-jr-may-upend-how-vaccine-recommendations-are-categorized/" target="_blank">RFK Jr. may upend how vaccine recommendations are categorized</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-24 21:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/" target="_blank">Zillow and Redfin settle FTC antitrust case</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-24 20:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,29 +154,20 @@
                 <span class="time">2026-08-24 17:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement" target="_blank">Zillow and Redfin settle FTC antitrust case over their rental listings partnership</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-24 17:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/983822/the-witcher-4-release-window-gamescom" target="_blank">The Witcher 4 developers target a 2028 release</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-24 15:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/keithjmackay/ai-predictions-august-2026-56mk" target="_blank">AI Predictions, August 2026</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-24 21:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +213,6 @@
                 <span class="time">2026-08-24 16:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17427570/omarchy-launches-omacom-foundation" target="_blank">Omarchy Linux Just Got $8 Million From Tech&#x27;s Biggest Names</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-08-24 15:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +232,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/needle-1280x720.jpg" alt="Game About Finding A Needle In A 5-Million-Piece Haystack Is Either Serene Or Stressful Depending On Who You Ask" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/find-needle-haystack-game-steam-5-million-twitter-x-2000727664" target="_blank">Game About Finding A Needle In A 5-Million-Piece Haystack Is Either Serene Or Stressful Depending On Who You Ask</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-24 20:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M0TPFF9ABNTGY5Y1DA19RBQB/hero-image.jpg" alt="This Luna Controller and Fire TV Stick Bundle Is 46% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/luna-controller-and-fire-tv-stick-bundle-deal-august-2026?utm_medium=RSS" target="_blank">This Luna Controller and Fire TV Stick Bundle Is 46% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-24 20:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/zork-and-pals-1280x720.jpg" alt="The Duskbloods’ Beloved Armored Sea Chicken, Zork, Drinks Blood With His Beak ‘Like A Mosquito’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,24 +284,6 @@
                 <span class="title"><a href="https://lifehacker.com/entertainment/movies-like-black-mirror?utm_medium=RSS" target="_blank">If You Love &#x27;Black Mirror,&#x27; There&#x27;s One Movie You Need to Watch Next</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-08-24 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/blood-dungeons.jpg" alt="I Burnt My Kid’s Pancakes Playing Way Too Much Blood Dungeon, An Excellent Vampire Survivors-Like From The Designer Of Nidhogg, And I’d Do It Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/i-burnt-my-kids-pancakes-playing-way-too-much-blood-dungeon-an-excellent-vampire-survivors-like-from-the-designer-of-nidhogg-and-id-do-it-again-2000727589" target="_blank">I Burnt My Kid’s Pancakes Playing Way Too Much Blood Dungeon, An Excellent Vampire Survivors-Like From The Designer Of Nidhogg, And I’d Do It Again</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-24 16:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/s301_sag_a.jpg?fit=1410%2C917&amp;quality=60&amp;ssl=1" alt="Fastest star yet seen orbits black hole at 8% speed of light" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/24/fastest-star-yet-seen-orbits-black-hole-at-8-speed-of-light.html" target="_blank">Fastest star yet seen orbits black hole at 8% speed of light</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-24 15:22</span>
             </div>
         </div>
 </div>
@@ -337,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 104 | 📡 Total Sources: 40 | 📸 With Images: 244 |
-        🔄 Last Updated: 20:16 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 245 |
+        🔄 Last Updated: 21:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
