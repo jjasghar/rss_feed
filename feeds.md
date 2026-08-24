@@ -1,32 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-08-24 15:27:19 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-08-24 16:21:41 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 23 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 12 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, August 24, 2026 - 15:27 UTC</div>
+    <div class="newspaper-date">Monday, August 24, 2026 - 16:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/714d/live/73b30ef0-9fce-11f1-b109-879e35c24276.jpg" alt="Burnham vows support for Ukraine despite &#x27;outrageous threats&#x27; from Russia" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss" target="_blank">Burnham vows support for Ukraine despite &#x27;outrageous threats&#x27; from Russia</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-24 15:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/trump-carney-22-ap-gmh-260824_1787581497528_hpMain_4x3t_384.jpg" alt="Trump says he&#x27;ll impose new 50% tariffs on Canadian cars and steel in January" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,20 +104,29 @@
                 <span class="time">2026-08-24 13:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7bf/live/f3745ff0-9fa0-11f1-b109-879e35c24276.jpg" alt="Sharing dangerous driving videos is &#x27;truly reprehensible&#x27;, PM says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&at_campaign=rss" target="_blank">Sharing dangerous driving videos is &#x27;truly reprehensible&#x27;, PM says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-24 12:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/983822/the-witcher-4-release-window-gamescom" target="_blank">The Witcher 4 developers target a 2028 release</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-24 15:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/" target="_blank">Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-24 15:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,24 +163,6 @@
                 <span class="time">2026-08-24 11:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/IMG_9264-500x500.jpeg" alt="Review: Chuwi&#x27;s $449 Unibook laptop is a funhouse-mirror MacBook Neo" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/" target="_blank">Review: Chuwi&#x27;s $449 Unibook laptop is a funhouse-mirror MacBook Neo</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-24 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a89ff0f423b44b6336c94c7/master/pass/The-Best-Multiuse-Air-Purifiers.jpg" alt="The Best Multiuse Air Purifier for Home in 2026: BlueAir, Rabbit Air, Dreame" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-multi-use-air-purifiers/" target="_blank">The Best Multiuse Air Purifier for Home in 2026: BlueAir, Rabbit Air, Dreame</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-24 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -164,9 +172,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/merlonix/your-mcp-server-connects-but-shows-no-tools-1fo6" target="_blank">Your MCP Server Connects but Shows No Tools</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-24 16:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/05/ubuntu-server.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu 24.04 gets a big open-vm-tools update" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/ubuntu-2404-open-vm-tools-update" target="_blank">Ubuntu 24.04 gets a big open-vm-tools update</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-08-24 15:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/robswierk/the-validation-rule-that-could-never-fail-1505" target="_blank">The Validation Rule That Could Never Fail</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-24 15:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://twitter.com/lemire/status/2091894299289874926" target="_blank">Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-24 15:08</span>
             </div>
         </div>
 <div class="story">
@@ -185,33 +220,6 @@
                 <span class="title"><a href="https://stackoverflow.blog/2026/08/24/responsible-ai-adoption-needs-developer-workflow-design/" target="_blank">Responsible AI adoption needs developer workflow design</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2026-08-24 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://nedbatchelder.com/blog/202608/micro_language_implementation_calcium" target="_blank">Micro language implementation: Calcium</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-08-24 13:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/08/microsoft-ai-governance/en/headerimage/generatedHeaderImage-1786848804302.jpg" alt="Microsoft Moves AI Governance From Policy to Runtime Enforcement" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/08/microsoft-ai-governance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Microsoft Moves AI Governance From Policy to Runtime Enforcement</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-24 13:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/linux-73-early-benchmarks" target="_blank">Early Linux 7.3 Kernel Benchmarks Show Some Performance Improvements, Some Regressions</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-24 13:38</span>
             </div>
         </div>
 </div>
@@ -233,6 +241,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/blood-dungeons.jpg" alt="I Burnt My Kid’s Pancakes Playing Way Too Much Blood Dungeon, An Excellent Vampire Survivors-Like From The Designer Of Nidhogg, And I’d Do It Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/i-burnt-my-kids-pancakes-playing-way-too-much-blood-dungeon-an-excellent-vampire-survivors-like-from-the-designer-of-nidhogg-and-id-do-it-again-2000727589" target="_blank">I Burnt My Kid’s Pancakes Playing Way Too Much Blood Dungeon, An Excellent Vampire Survivors-Like From The Designer Of Nidhogg, And I’d Do It Again</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-24 16:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/s301_sag_a.jpg?fit=1410%2C917&amp;quality=60&amp;ssl=1" alt="Fastest star yet seen orbits black hole at 8% speed of light" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/24/fastest-star-yet-seen-orbits-black-hole-at-8-speed-of-light.html" target="_blank">Fastest star yet seen orbits black hole at 8% speed of light</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-24 15:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M0T0T7DNQB5GDQCY1FEV117G/hero-image.jpg" alt="I Gave ChatGPT Access to My iMessage Conversations, and It Was More Useful Than I Expected" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/chatgpt-imessage-plugin-how-it-worked?utm_medium=RSS" target="_blank">I Gave ChatGPT Access to My iMessage Conversations, and It Was More Useful Than I Expected</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-24 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2021/09/24123897f999eec2a0b478d27f417dbb-1280x720.jpg" alt="Streamer Files Class Action Lawsuit Against Twitch Over AI Training" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -258,24 +293,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/08/23/play-piano-like-an-expert-with-a-5-year-subscription-to-flowkey-for-67-97.html" target="_blank">Play piano like an expert with a 5-year subscription to flowkey for $67.97</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-08-23 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/hook.jpg" alt="Alleged ‘Peter Pan Stalker’ Latest Stress Test On Content Creation And Boundaries" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/alleged-peter-pan-stalker-latest-stress-test-on-content-creation-and-boundaries-2000727266" target="_blank">Alleged ‘Peter Pan Stalker’ Latest Stress Test On Content Creation And Boundaries</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-23 20:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/gas-1280x720.jpg" alt="You Guessed It, Another GTA 6 Leak Has Hit The Timeline, And This One Has An NPC Recreating A Viral 2021 Prank" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/you-guessed-it-another-gta-6-leak-has-hit-the-timeline-and-this-one-has-an-npc-recreating-a-viral-2021-prank-2000727250" target="_blank">You Guessed It, Another GTA 6 Leak Has Hit The Timeline, And This One Has An NPC Recreating A Viral 2021 Prank</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-23 17:05</span>
             </div>
         </div>
 </div>
@@ -315,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 88 | 📡 Total Sources: 39 | 📸 With Images: 244 |
-        🔄 Last Updated: 15:27 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 95 | 📡 Total Sources: 40 | 📸 With Images: 244 |
+        🔄 Last Updated: 16:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
