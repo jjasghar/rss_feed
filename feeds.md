@@ -1,39 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-08-24 06:33:11 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-08-24 07:48:10 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Error processing https://www.phoronix.com/rss.php: The read operation timed out -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 2 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, August 24, 2026 - 06:33 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Monday, August 24, 2026 - 07:48 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -68,6 +61,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d35d/live/8a564f50-9d76-11f1-a291-b542ee92de7c.jpg" alt="Divorce, smartphones and control - BBC sees how Taliban run Afghanistan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss" target="_blank">Divorce, smartphones and control - BBC sees how Taliban run Afghanistan</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-24 05:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -92,15 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/24/08-24-26-nevada-forest-fire-sv?traffic_source=rss" target="_blank">Human-caused Nevada wildfire forces 42,000 people to evacuate</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-24 02:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Lesley-Vogel-1-abc-gmh-260823_1787533358011_hpMain_4x3t_384.jpg" alt="Hayden Panettiere&#x27;s mother breaks silence after her death" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/GMA/Culture/hayden-panettieres-mother-breaks-silence-after-death/story?id=135891947" target="_blank">Hayden Panettiere&#x27;s mother breaks silence after her death</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-24 01:27</span>
             </div>
         </div>
 </div>
@@ -170,6 +163,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://github.com/rajtilakjee/touch" target="_blank">touch - A lightweight implementation of the Unix touch command for Windows</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-08-24 06:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/hiroshi_takamura_c851fe71/how-particle-effects-improve-game-feel-in-html5-games-5a4n" target="_blank">How Particle Effects Improve Game Feel in HTML5 Games</a></span>
                 <span class="feed">DEV Community</span>
@@ -210,15 +212,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-XOR-RAID6-Benchmark" target="_blank">Linux 7.3 Improving RAID 5/6 Benchmark-Based Algorithm Selection</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-08-24 00:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nickytonline/test-1dm4" target="_blank">test</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-24 00:32</span>
             </div>
         </div>
 </div>
@@ -308,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 72 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 06:33 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 72 | 📡 Total Sources: 39 | 📸 With Images: 252 |
+        🔄 Last Updated: 07:48 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
