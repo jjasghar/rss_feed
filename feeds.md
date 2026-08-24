@@ -1,32 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-08-24 12:22:26 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-24 13:40:48 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, August 24, 2026 - 12:22 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, August 24, 2026 - 13:41 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/24/rain-and-flooding-from-typhoon-narra-hits-china-and-vietnam?traffic_source=rss" target="_blank">Rain and flooding from Typhoon Narra hits China and Vietnam</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-24 13:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/Lesley-Vogel-1-abc-gmh-260823_1787533358011_hpMain_4x3t_384.jpg" alt="‘I was just numb’: Hayden Panettiere&#x27;s mother breaks silence on daughter&#x27;s death" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/GMA/Culture/hayden-panettieres-mother-breaks-silence-after-death/story?id=135891947" target="_blank">‘I was just numb’: Hayden Panettiere&#x27;s mother breaks silence on daughter&#x27;s death</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-24 13:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7bf/live/f3745ff0-9fa0-11f1-b109-879e35c24276.jpg" alt="Sharing dangerous driving videos is &#x27;truly reprehensible&#x27;, PM says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&at_campaign=rss" target="_blank">Sharing dangerous driving videos is &#x27;truly reprehensible&#x27;, PM says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-24 12:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1787570607366_tdy_news_7a_gutierrez_iran_canada_tariffs_260824_S3_1920x1080-q7pvfi.jpg" alt="US to Unveil Trump&#x27;s &#x27;Economic D-Day&#x27; Sanctions Against Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -69,33 +103,6 @@
                 <span class="time">2026-08-24 10:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2026/aug/24/children-half-mpox-disease-cases-guinea-bissau-epidemic-spreads-west-africa" target="_blank">Children make up half of mpox cases in Guinea-Bissau as epidemic spreads</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-08-24 10:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/24/nx-s1-5939827/washington-d-c-s-first-indycar-race-packed-the-national-mall" target="_blank">Washington, D.C.&#x27;s first IndyCar race packed the National Mall</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-24 09:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/24/nx-s1-5939973/national-guard-members-washington-dc-deployment" target="_blank">&#x27;It embarrasses me to be involved&#x27;: Inside the National Guard D.C. deployment</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-24 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -108,6 +115,15 @@
                 <span class="title"><a href="https://www.theverge.com/tech/983714/grapheneos-motorola-razr-fold-ultra-support-pixel-11" target="_blank">De-Googled GrapheneOS is coming to Motorola’s foldables next year</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-08-24 11:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/IMG_9264-500x500.jpeg" alt="Review: Chuwi&#x27;s $449 Unibook laptop is a funhouse-mirror MacBook Neo" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/" target="_blank">Review: Chuwi&#x27;s $449 Unibook laptop is a funhouse-mirror MacBook Neo</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-24 11:00</span>
             </div>
         </div>
 <div class="story">
@@ -144,15 +160,6 @@
                 <span class="title"><a href="https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games" target="_blank">GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-08-23 19:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/" target="_blank">TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-23 16:03</span>
             </div>
         </div>
 </div>
@@ -212,6 +219,20 @@
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17427222/teamspeak-direct-calls-teased" target="_blank">TeamSpeak Will Let You Call Your Friends Directly</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2026-08-24 07:04</span>
+            </div>
+        </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/08/criminal-deception-in-silicon-valley.html" target="_blank">Criminal Deception in Silicon Valley</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-08-24 10:38</span>
             </div>
         </div>
 </div>
@@ -310,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 81 | 📡 Total Sources: 40 | 📸 With Images: 246 |
-        🔄 Last Updated: 12:22 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 82 | 📡 Total Sources: 40 | 📸 With Images: 244 |
+        🔄 Last Updated: 13:41 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
