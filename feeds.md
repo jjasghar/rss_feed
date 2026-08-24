@@ -1,31 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-08-24 05:28:12 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-24 06:33:11 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Error processing https://www.phoronix.com/rss.php: The read operation timed out -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Monday, August 24, 2026 - 05:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, August 24, 2026 - 06:33 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/8/24/salah-scores-two-goals-has-two-disallowed-in-first-start-for-trabzonspor?traffic_source=rss" target="_blank">Salah scores two goals, has two disallowed in first start for Trabzonspor</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-24 06:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb9a/live/545c7720-9ef8-11f1-aed4-af6fe65bfcd6.jpg" alt="Burnham to hand long-range missile blueprints to Zelensky as he visits Kyiv" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -62,6 +79,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/23/g-s1-139729/thousands-forced-to-evacuate-parts-of-reno-nevada-as-new-wildfire-rages" target="_blank">Thousands forced to evacuate parts of Reno, Nevada, as new wildfire rages</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-24 03:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/24/08-24-26-nevada-forest-fire-sv?traffic_source=rss" target="_blank">Human-caused Nevada wildfire forces 42,000 people to evacuate</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
@@ -75,24 +101,6 @@
                 <span class="title"><a href="https://abcnews.com/GMA/Culture/hayden-panettieres-mother-breaks-silence-after-death/story?id=135891947" target="_blank">Hayden Panettiere&#x27;s mother breaks silence after her death</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-08-24 01:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68ab/live/93348dd0-9f24-11f1-b109-879e35c24276.png" alt="PCs killed in A66 crash were heroes, say families" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c4gvgy3de37o?at_medium=RSS&at_campaign=rss" target="_blank">PCs killed in A66 crash were heroes, say families</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-24 00:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251028-sonya-massey-rs-ac638e.jpg" alt="Sean Grayson, ex-deputy convicted of fatally shooting Sonya Massey, dies, attorney says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/sean-grayson-ex-deputy-convicted-fatally-shooting-sonya-massey-dies-pr-rcna594044" target="_blank">Sean Grayson, ex-deputy convicted of fatally shooting Sonya Massey, dies, attorney says</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-23 23:10</span>
             </div>
         </div>
 </div>
@@ -163,6 +171,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hiroshi_takamura_c851fe71/how-particle-effects-improve-game-feel-in-html5-games-5a4n" target="_blank">How Particle Effects Improve Game Feel in HTML5 Games</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-24 06:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/brettryan/the-software-craftsmans-day-one-why-my-first-week-of-startup-life-had-no-business-logic-d2g" target="_blank">The Software Craftsman’s Day One: Why My First Week of Startup Life Had No Business Logic</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-24 04:22</span>
@@ -202,15 +219,6 @@
                 <span class="title"><a href="https://dev.to/nickytonline/test-1dm4" target="_blank">test</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-24 00:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/08/cloudflare-os-ai-platform-secure/en/headerimage/generatedHeaderImage-1787524536908.jpg" alt="Cloudflare OS: Cloudflare&#x27;s Open-Source Corporate AI Platform Built on a Capability-Based Model" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/08/cloudflare-os-ai-platform-secure/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare OS: Cloudflare&#x27;s Open-Source Corporate AI Platform Built on a Capability-Based Model</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-23 22:50</span>
             </div>
         </div>
 </div>
@@ -300,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 74 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 05:28 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 72 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 06:33 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
