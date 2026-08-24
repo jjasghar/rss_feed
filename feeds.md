@@ -1,38 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-08-24 11:16:29 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-08-24 12:22:26 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Monday, August 24, 2026 - 11:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, August 24, 2026 - 12:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,12 +43,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1787570607366_tdy_news_7a_gutierrez_iran_canada_tariffs_260824_S3_1920x1080-q7pvfi.jpg" alt="US to Unveil Trump&#x27;s &#x27;Economic D-Day&#x27; Sanctions Against Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/us-canada-trade-war-grows-us-to-unveil-d-day-iran-sanctions-268759109589" target="_blank">US to Unveil Trump&#x27;s &#x27;Economic D-Day&#x27; Sanctions Against Iran</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-24 11:23</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/features/2026/8/24/india-used-pellets-grenades-on-gen-z-protests-what-amnesty-report-reveals?traffic_source=rss" target="_blank">India used pellets, grenades on Gen Z protests: What Amnesty report reveals</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-24 10:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f16b/live/039a8ff0-9fa4-11f1-bff6-57f1422ebb0b.jpg" alt="Russia&#x27;s second-biggest online retailer targeted in Ukrainian strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss" target="_blank">Russia&#x27;s second-biggest online retailer targeted in Ukrainian strikes</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-24 10:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2026/aug/24/children-half-mpox-disease-cases-guinea-bissau-epidemic-spreads-west-africa" target="_blank">Children make up half of mpox cases in Guinea-Bissau as epidemic spreads</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-08-24 10:11</span>
             </div>
         </div>
 <div class="story">
@@ -75,38 +96,20 @@
                 <span class="time">2026-08-24 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f38/live/0b0cedf0-9ed7-11f1-9253-c70a43a5293b.jpg" alt="Pubs and hotels could see business rates reformed after review" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c8xnxy89gv7o?at_medium=RSS&at_campaign=rss" target="_blank">Pubs and hotels could see business rates reformed after review</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-24 07:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/8/24/salah-scores-two-goals-has-two-disallowed-in-first-start-for-trabzonspor?traffic_source=rss" target="_blank">Salah scores two goals, has two disallowed in first start for Trabzonspor</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-24 06:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb9a/live/545c7720-9ef8-11f1-aed4-af6fe65bfcd6.jpg" alt="Burnham to hand long-range missile blueprints to Zelensky as he visits Kyiv" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss" target="_blank">Burnham to hand long-range missile blueprints to Zelensky as he visits Kyiv</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-24 05:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/983714/grapheneos-motorola-razr-fold-ultra-support-pixel-11" target="_blank">De-Googled GrapheneOS is coming to Motorola’s foldables next year</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-24 11:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a89ff0f423b44b6336c94c7/master/pass/The-Best-Multiuse-Air-Purifiers.jpg" alt="The Best Multiuse Air Purifier for Home in 2026: BlueAir, Rabbit Air, Dreame" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,15 +155,6 @@
                 <span class="time">2026-08-23 16:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2012/06/shackleton_center_cropped-500x500.jpg" alt="Due to need for &#x27;absolute success,&#x27; China delays critical Moon launch to 2027" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/" target="_blank">Due to need for &#x27;absolute success,&#x27; China delays critical Moon launch to 2027</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-23 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,9 +164,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/revanza_firdaus_ffda57e15/working-software-isnt-the-same-as-maintainable-software-m72" target="_blank">Working Software Isn&#x27;t the Same as Maintainable Software</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-24 12:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GNU-Emacs-31.1-Released" target="_blank">GNU Emacs 31.1 Released With Mouse Control Enabled By Default, Theme For New Users</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-24 11:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/cognitalk/stealing-reasoning-traces-from-proprietary-llm-apis-22g1" target="_blank">剖析AI漏洞：从私有 LLM API 窃取推理轨迹</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-24 11:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/articles/rightsizing-platform-engineering/en/smallimage/rightsizing-platform-engineering-thumbnail-1787296955801.jpg" alt="Article: Rightsizing Platform Engineering: Building the Platform Your Organization Actually Needs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/rightsizing-platform-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Rightsizing Platform Engineering: Building the Platform Your Organization Actually Needs</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-24 11:00</span>
             </div>
         </div>
 <div class="story">
@@ -191,33 +212,6 @@
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17427222/teamspeak-direct-calls-teased" target="_blank">TeamSpeak Will Let You Call Your Friends Directly</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2026-08-24 07:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://github.com/rajtilakjee/touch" target="_blank">touch - A lightweight implementation of the Unix touch command for Windows</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-08-24 06:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hiroshi_takamura_c851fe71/how-particle-effects-improve-game-feel-in-html5-games-5a4n" target="_blank">How Particle Effects Improve Game Feel in HTML5 Games</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-24 06:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/brettryan/the-software-craftsmans-day-one-why-my-first-week-of-startup-life-had-no-business-logic-d2g" target="_blank">The Software Craftsman’s Day One: Why My First Week of Startup Life Had No Business Logic</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-24 04:22</span>
             </div>
         </div>
 </div>
@@ -316,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 75 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 11:16 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 81 | 📡 Total Sources: 40 | 📸 With Images: 246 |
+        🔄 Last Updated: 12:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
