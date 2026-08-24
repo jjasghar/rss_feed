@@ -1,43 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-08-24 14:30:05 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-08-24 15:27:19 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 34 feeds processed -->
+<!-- Generated 7 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, August 24, 2026 - 14:30 UTC</div>
+    <div class="newspaper-date">Monday, August 24, 2026 - 15:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,12 +43,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/trump-carney-22-ap-gmh-260824_1787581497528_hpMain_4x3t_384.jpg" alt="Trump says he&#x27;ll impose new 50% tariffs on Canadian cars and steel in January" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Business/trump-hell-impose-new-tariffs-canada-january-escalating/story?id=135901297" target="_blank">Trump says he&#x27;ll impose new 50% tariffs on Canadian cars and steel in January</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-24 15:24</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/features/2026/8/24/algerias-schools-put-shakespeare-before-molire-in-break-from-france?traffic_source=rss" target="_blank">Algeria’s schools put Shakespeare before Molière in break from France</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-24 13:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/500a/live/a3b77c00-9fa4-11f1-bff6-57f1422ebb0b.jpg" alt="Iran faces &#x27;greatest financial offensive ever&#x27;, says US treasury secretary" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss" target="_blank">Iran faces &#x27;greatest financial offensive ever&#x27;, says US treasury secretary</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-24 13:35</span>
             </div>
         </div>
 <div class="story">
@@ -89,29 +96,29 @@
                 <span class="time">2026-08-24 12:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran" target="_blank">Treasury Secretary Scott Bessent to unveil new economic sanctions on Iran</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-24 12:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1787570607366_tdy_news_7a_gutierrez_iran_canada_tariffs_260824_S3_1920x1080-q7pvfi.jpg" alt="US to Unveil Trump&#x27;s &#x27;Economic D-Day&#x27; Sanctions Against Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/us-canada-trade-war-grows-us-to-unveil-d-day-iran-sanctions-268759109589" target="_blank">US to Unveil Trump&#x27;s &#x27;Economic D-Day&#x27; Sanctions Against Iran</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-24 11:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/streaming/983794/espn-disney-plus-bundles-price-increase" target="_blank">ESPN streaming plans are getting more expensive</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-24 15:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2289637867-500x500.jpg" alt="Trump tried to curb clean energy. It’s booming anyway." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/08/trump-tried-to-curb-clean-energy-its-booming-anyway/" target="_blank">Trump tried to curb clean energy. It’s booming anyway.</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-24 14:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,29 +155,20 @@
                 <span class="time">2026-08-24 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/983688/world-humanoid-robot-games-sprint-record-2026" target="_blank">Humanoid robots smash Usain Bolt&amp;#8217;s 100-meter record</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-24 09:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/" target="_blank">Who’s behind the new ‘stealth model’ Ox Alpha?</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-23 20:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/robswierk/the-validation-rule-that-could-never-fail-1505" target="_blank">The Validation Rule That Could Never Fail</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-24 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,30 +197,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/08/microsoft-ai-governance/en/headerimage/generatedHeaderImage-1786848804302.jpg" alt="Microsoft Moves AI Governance From Policy to Runtime Enforcement" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/08/microsoft-ai-governance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Microsoft Moves AI Governance From Policy to Runtime Enforcement</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-24 13:49</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/review/linux-73-early-benchmarks" target="_blank">Early Linux 7.3 Kernel Benchmarks Show Some Performance Improvements, Some Regressions</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-08-24 13:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs" target="_blank">How Europe is killing makers and micro-entrepreneurs</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-24 13:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/revanza_firdaus_ffda57e15/working-software-isnt-the-same-as-maintainable-software-m72" target="_blank">Working Software Isn&#x27;t the Same as Maintainable Software</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-24 12:10</span>
             </div>
         </div>
 </div>
@@ -289,20 +278,20 @@
                 <span class="time">2026-08-23 17:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/AcePDF-Converter-Editor.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Pay $24 once to edit, split, convert, and generally show your PDFs who&#x27;s boss" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/23/pay-24-once-to-edit-split-convert-and-generally-show-your-pdfs-whos-boss.html" target="_blank">Pay $24 once to edit, split, convert, and generally show your PDFs who&#x27;s boss</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-23 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1787446945-20260824.png" alt="Saturday Morning Breakfast Cereal - Demon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/demon" target="_blank">Saturday Morning Breakfast Cereal - Demon</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-08-24 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -321,22 +310,13 @@
                 <span class="time">2026-08-24 00:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1787446901-20260823.png" alt="Saturday Morning Breakfast Cereal - Beyond" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/beyond-2" target="_blank">Saturday Morning Breakfast Cereal - Beyond</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-08-23 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 86 | 📡 Total Sources: 39 | 📸 With Images: 242 |
-        🔄 Last Updated: 14:30 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 88 | 📡 Total Sources: 39 | 📸 With Images: 244 |
+        🔄 Last Updated: 15:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
