@@ -1,39 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-08-24 13:40:48 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-24 14:30:05 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 30 feeds processed -->
+<!-- Generated 9 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, August 24, 2026 - 13:41 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, August 24, 2026 - 14:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +53,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/8/24/algerias-schools-put-shakespeare-before-molire-in-break-from-france?traffic_source=rss" target="_blank">Algeria’s schools put Shakespeare before Molière in break from France</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-24 13:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,30 +90,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran" target="_blank">Treasury Secretary Scott Bessent to unveil new economic sanctions on Iran</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-24 12:26</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1787570607366_tdy_news_7a_gutierrez_iran_canada_tariffs_260824_S3_1920x1080-q7pvfi.jpg" alt="US to Unveil Trump&#x27;s &#x27;Economic D-Day&#x27; Sanctions Against Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
                 <span class="title"><a href="https://www.today.com/video/us-canada-trade-war-grows-us-to-unveil-d-day-iran-sanctions-268759109589" target="_blank">US to Unveil Trump&#x27;s &#x27;Economic D-Day&#x27; Sanctions Against Iran</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-08-24 11:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/8/24/india-used-pellets-grenades-on-gen-z-protests-what-amnesty-report-reveals?traffic_source=rss" target="_blank">India used pellets, grenades on Gen Z protests: What Amnesty report reveals</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-24 10:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f16b/live/039a8ff0-9fa4-11f1-bff6-57f1422ebb0b.jpg" alt="Russia&#x27;s second-biggest online retailer targeted in Ukrainian strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss" target="_blank">Russia&#x27;s second-biggest online retailer targeted in Ukrainian strikes</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-24 10:40</span>
             </div>
         </div>
 </div>
@@ -115,6 +119,15 @@
                 <span class="title"><a href="https://www.theverge.com/tech/983714/grapheneos-motorola-razr-fold-ultra-support-pixel-11" target="_blank">De-Googled GrapheneOS is coming to Motorola’s foldables next year</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-08-24 11:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a8a07d6381fc48bef281868/master/pass/Review--Birdfy-Nest-Duo.jpg" alt="Birdfy Nest Duo Review: My Own Private Nature Documentary" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/birdfy-nest-duo/" target="_blank">Birdfy Nest Duo Review: My Own Private Nature Documentary</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-24 11:30</span>
             </div>
         </div>
 <div class="story">
@@ -153,15 +166,6 @@
                 <span class="time">2026-08-23 20:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games" target="_blank">GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-23 19:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,54 +175,54 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/revanza_firdaus_ffda57e15/working-software-isnt-the-same-as-maintainable-software-m72" target="_blank">Working Software Isn&#x27;t the Same as Maintainable Software</a></span>
+                <span class="title"><a href="https://dev.to/thatonevikash/write-your-custom-generic-utility-in-typescript-5f16" target="_blank">Write your custom generic utility in TypeScript</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2026-08-24 12:10</span>
+                <span class="time">2026-08-24 14:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/08/24/responsible-ai-adoption-needs-developer-workflow-design/" target="_blank">Responsible AI adoption needs developer workflow design</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-08-24 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://nedbatchelder.com/blog/202608/micro_language_implementation_calcium" target="_blank">Micro language implementation: Calcium</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-08-24 13:56</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GNU-Emacs-31.1-Released" target="_blank">GNU Emacs 31.1 Released With Mouse Control Enabled By Default, Theme For New Users</a></span>
+                <span class="title"><a href="https://www.phoronix.com/review/linux-73-early-benchmarks" target="_blank">Early Linux 7.3 Kernel Benchmarks Show Some Performance Improvements, Some Regressions</a></span>
                 <span class="feed">Phoronix</span>
-                <span class="time">2026-08-24 11:55</span>
+                <span class="time">2026-08-24 13:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs" target="_blank">How Europe is killing makers and micro-entrepreneurs</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-24 13:05</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/cognitalk/stealing-reasoning-traces-from-proprietary-llm-apis-22g1" target="_blank">剖析AI漏洞：从私有 LLM API 窃取推理轨迹</a></span>
+                <span class="title"><a href="https://dev.to/revanza_firdaus_ffda57e15/working-software-isnt-the-same-as-maintainable-software-m72" target="_blank">Working Software Isn&#x27;t the Same as Maintainable Software</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2026-08-24 11:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/rightsizing-platform-engineering/en/smallimage/rightsizing-platform-engineering-thumbnail-1787296955801.jpg" alt="Article: Rightsizing Platform Engineering: Building the Platform Your Organization Actually Needs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/rightsizing-platform-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Rightsizing Platform Engineering: Building the Platform Your Organization Actually Needs</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-24 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/VKD3D-2.1-Released" target="_blank">VKD3D 2.1 Released With New Features For Direct3D 12 In Upstream Wine</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-24 10:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17427222/teamspeak-direct-calls-teased" target="_blank">TeamSpeak Will Let You Call Your Friends Directly</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-08-24 07:04</span>
+                <span class="time">2026-08-24 12:10</span>
             </div>
         </div>
 </div>
@@ -331,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 82 | 📡 Total Sources: 40 | 📸 With Images: 244 |
-        🔄 Last Updated: 13:41 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 86 | 📡 Total Sources: 39 | 📸 With Images: 242 |
+        🔄 Last Updated: 14:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
