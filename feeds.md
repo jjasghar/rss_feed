@@ -1,30 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-08-24 17:20:33 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-24 18:21:58 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, August 24, 2026 - 17:20 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, August 24, 2026 - 18:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +51,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68ab/live/93348dd0-9f24-11f1-b109-879e35c24276.png" alt="Organised crime arrests in A66 crash investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c36d6975dzno?at_medium=RSS&at_campaign=rss" target="_blank">Organised crime arrests in A66 crash investigation</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-24 17:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/24/trump-administration-announces-global-economic-war-on-iran-2?traffic_source=rss" target="_blank">Trump administration announces global economic war on Iran</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-24 17:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1787593256807_now_brk_cro_bessent_iran_sanctions_wrap_260824_S3_1920x1080-p2d40s.jpg" alt="How the new U.S. sanctions on Iran could affect China" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/how-the-new-u-s-sanctions-on-iran-could-affect-china-268774469536" target="_blank">How the new U.S. sanctions on Iran could affect China</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-24 17:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -67,38 +105,29 @@
                 <span class="time">2026-08-24 15:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/bessent-yu3vdj.jpg" alt="Treasury Secretary Bessent details economic sanctions against Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/watch-live-treasury-secretary-bessent-details-economic-sanctions-against-iran-268765765630" target="_blank">Treasury Secretary Bessent details economic sanctions against Iran</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-24 14:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/8/24/algerias-schools-put-shakespeare-before-molire-in-break-from-france?traffic_source=rss" target="_blank">Algeria’s schools put Shakespeare before Molière in break from France</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-24 13:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/500a/live/a3b77c00-9fa4-11f1-bff6-57f1422ebb0b.jpg" alt="Iran faces &#x27;greatest financial offensive ever&#x27;, says US treasury secretary" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss" target="_blank">Iran faces &#x27;greatest financial offensive ever&#x27;, says US treasury secretary</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-24 13:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/" target="_blank">Instinct’s powerful AI assistant is raising privacy and security concerns</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-24 18:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement" target="_blank">Zillow and Redfin settle FTC antitrust case over their rental listings partnership</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-24 17:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -135,29 +164,20 @@
                 <span class="time">2026-08-24 14:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/983714/grapheneos-motorola-razr-fold-ultra-support-pixel-11" target="_blank">De-Googled GrapheneOS is coming to Motorola’s foldables next year</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-24 11:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a8a07d6381fc48bef281868/master/pass/Review--Birdfy-Nest-Duo.jpg" alt="Birdfy Nest Duo Review: My Own Private Nature Documentary" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/birdfy-nest-duo/" target="_blank">Birdfy Nest Duo Review: My Own Private Nature Documentary</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-24 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-AF-ALG-Restrictions" target="_blank">New AF_ALG Restrictions With Linux 7.3 Due To The Security &amp; Maintenance Nightmare</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-24 18:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,15 +223,6 @@
                 <span class="time">2026-08-24 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://twitter.com/lemire/status/2091894299289874926" target="_blank">Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-24 15:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,6 +242,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/shutterstock_2366323233-e1775492481156.jpg?fit=768%2C433&amp;quality=60&amp;ssl=1" alt="California State University system uses AI as a money incinerator" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/24/cal-state-chatgpt-ai-millions.html" target="_blank">California State University system uses AI as a money incinerator</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-24 17:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M0T91SYPYE6NWDS0RRR7Z043/hero-image.jpg" alt="If You Love &#x27;Black Mirror,&#x27; There&#x27;s One Movie You Need to Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/movies-like-black-mirror?utm_medium=RSS" target="_blank">If You Love &#x27;Black Mirror,&#x27; There&#x27;s One Movie You Need to Watch Next</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-24 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/blood-dungeons.jpg" alt="I Burnt My Kid’s Pancakes Playing Way Too Much Blood Dungeon, An Excellent Vampire Survivors-Like From The Designer Of Nidhogg, And I’d Do It Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,29 +296,20 @@
                 <span class="time">2026-08-23 22:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/shutterstock_2285167031-768.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="It is called Death Valley as a warning" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/23/death-valley-tourist-113-heat.html" target="_blank">It is called Death Valley as a warning</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-23 21:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/flowkey-Piano.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Play piano like an expert with a 5-year subscription to flowkey for $67.97" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/23/play-piano-like-an-expert-with-a-5-year-subscription-to-flowkey-for-67-97.html" target="_blank">Play piano like an expert with a 5-year subscription to flowkey for $67.97</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-23 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/08/24/grave-maker-rounds" target="_blank">Grave-Maker Rounds</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-08-24 17:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1787446945-20260824.png" alt="Saturday Morning Breakfast Cereal - Demon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -322,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 94 | 📡 Total Sources: 40 | 📸 With Images: 243 |
-        🔄 Last Updated: 17:20 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 103 | 📡 Total Sources: 40 | 📸 With Images: 242 |
+        🔄 Last Updated: 18:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
