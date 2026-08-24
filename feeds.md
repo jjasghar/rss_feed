@@ -1,31 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-08-24 19:20:14 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-08-24 20:16:39 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Monday, August 24, 2026 - 19:20 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Monday, August 24, 2026 - 20:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/24/washington-post-ordered-to-rehire-columnist-fired-over-charlie-kirk-posts?traffic_source=rss" target="_blank">Washington Post ordered to rehire columnist fired over Charlie Kirk posts</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-24 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68ab/live/93348dd0-9f24-11f1-b109-879e35c24276.png" alt="Organised crime arrests in A66 crash investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,20 +100,20 @@
                 <span class="time">2026-08-24 15:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/trump-carney-22-ap-gmh-260824_1787581497528_hpMain_4x3t_384.jpg" alt="Trump says he&#x27;ll impose new 50% tariffs on Canadian cars and steel in January" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Business/trump-hell-impose-new-tariffs-canada-january-escalating/story?id=135901297" target="_blank">Trump says he&#x27;ll impose new 50% tariffs on Canadian cars and steel in January</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-24 15:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul" target="_blank">The cat-and-mouse game over 3D-printed guns has begun</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-24 19:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/03/browser-fingerprint-500x500.jpeg" alt="AliExpress caught fingerprinting visitors after sending inaudible sounds to browsers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -116,6 +130,15 @@
                 <span class="title"><a href="https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/" target="_blank">Instinct’s powerful AI assistant is raising privacy and security concerns</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-08-24 18:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a8c77cd68e309e12a12eda0/master/pass/The-Gaming-Headset-I-Use-Every-Day-Is-on-Sale-in-3-of-4-Color-Options.jpg" alt="My Daily Driver Gaming Headset Is Super Cheap Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/steelseries-arctis-nova-3p-august-2026/" target="_blank">My Daily Driver Gaming Headset Is Super Cheap Right Now</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-24 17:46</span>
             </div>
         </div>
 <div class="story">
@@ -136,29 +159,20 @@
                 <span class="time">2026-08-24 15:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/" target="_blank">Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-24 15:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/streaming/983794/espn-disney-plus-bundles-price-increase" target="_blank">ESPN streaming plans are getting more expensive</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-24 15:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jun-stoatify/how-to-test-document-management-software-with-20-real-files-32e6" target="_blank">How to test document management software with 20 real files</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-24 20:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -180,6 +194,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17427617/linux-7-3-preview" target="_blank">Linux 7.3 is Shaping Up to Be One of The Most Performance-Focused Kernel Releases in Years</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-08-24 17:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/merlonix/your-mcp-server-connects-but-shows-no-tools-1fo6" target="_blank">Your MCP Server Connects but Shows No Tools</a></span>
                 <span class="feed">DEV Community</span>
@@ -193,24 +216,6 @@
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17427570/omarchy-launches-omacom-foundation" target="_blank">Omarchy Linux Just Got $8 Million From Tech&#x27;s Biggest Names</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2026-08-24 15:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/05/ubuntu-server.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu 24.04 gets a big open-vm-tools update" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/ubuntu-2404-open-vm-tools-update" target="_blank">Ubuntu 24.04 gets a big open-vm-tools update</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-08-24 15:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://nathancooper.io/blog/2026-08-10-ipython-is-all-you-need" target="_blank">IPython is All You Need</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-08-24 15:24</span>
             </div>
         </div>
 </div>
@@ -232,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/zork-and-pals-1280x720.jpg" alt="The Duskbloods’ Beloved Armored Sea Chicken, Zork, Drinks Blood With His Beak ‘Like A Mosquito’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-duskbloods-zork-mosquito-ultra-man-2000727643" target="_blank">The Duskbloods’ Beloved Armored Sea Chicken, Zork, Drinks Blood With His Beak ‘Like A Mosquito’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-24 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M0TKXRBJPARTQQ5SMCGP8XBH/hero-image.jpg" alt="Five Hacks Every Suunto Race 2 User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/best-suunto-race-2-watch-hacks?utm_medium=RSS" target="_blank">Five Hacks Every Suunto Race 2 User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-24 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/shutterstock_2366323233-e1775492481156.jpg?fit=768%2C433&amp;quality=60&amp;ssl=1" alt="California State University system uses AI as a money incinerator" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,24 +289,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/08/24/fastest-star-yet-seen-orbits-black-hole-at-8-speed-of-light.html" target="_blank">Fastest star yet seen orbits black hole at 8% speed of light</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-08-24 15:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M0T0T7DNQB5GDQCY1FEV117G/hero-image.jpg" alt="I Gave ChatGPT Access to My iMessage Conversations, and It Was More Useful Than I Expected" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/chatgpt-imessage-plugin-how-it-worked?utm_medium=RSS" target="_blank">I Gave ChatGPT Access to My iMessage Conversations, and It Was More Useful Than I Expected</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-24 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2021/09/24123897f999eec2a0b478d27f417dbb-1280x720.jpg" alt="Streamer Files Class Action Lawsuit Against Twitch Over AI Training" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/streamer-files-class-action-lawsuit-against-twitch-over-ai-training-2000727274" target="_blank">Streamer Files Class Action Lawsuit Against Twitch Over AI Training</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-23 22:01</span>
             </div>
         </div>
 </div>
@@ -332,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 101 | 📡 Total Sources: 40 | 📸 With Images: 242 |
-        🔄 Last Updated: 19:20 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 104 | 📡 Total Sources: 40 | 📸 With Images: 244 |
+        🔄 Last Updated: 20:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
