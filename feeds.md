@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-08-25 17:21:04 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-25 18:21:05 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, August 25, 2026 - 17:21 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, August 25, 2026 - 18:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/25/nx-s1-3650175/dolly-parton-obituary" target="_blank">Dolly Parton, one of country music&#x27;s most singular performers, has died at age 80</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-25 18:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/25/syriashakes-offpast-with-removal-from-us-terror-list-says-al-sharaa?traffic_source=rss" target="_blank">Syria ‘shakes off’ past with removal from US ‘terror list’, says al-Sharaa</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-25 18:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251014-dolly-parton-ch-0726-fe9293.jpg" alt="Dolly Parton, country music icon, dies at 80" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/dolly-parton-county-music-icon-dies-80-rcna236277" target="_blank">Dolly Parton, country music icon, dies at 80</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-25 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1787674456840_now_brk_current_canada_new_tariffs_260825_S3_1920x1080-mr0a90.jpg" alt="Canada announces new tariffs on the U.S. as trade tensions rise" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -71,38 +100,38 @@
                 <span class="time">2026-08-25 15:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs" target="_blank">Canada announces retaliatory tariffs on the U.S. as the countries&#x27; trade fight deepens</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-25 15:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/25/qatar-says-us-sanctions-on-iran-are-unilateral?traffic_source=rss" target="_blank">Qatar says US sanctions on Iran are unilateral</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-25 15:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/8/25/trumps-latest-wave-of-iran-sanctions-which-60-entities-are-targeted?traffic_source=rss" target="_blank">Trump’s latest wave of Iran sanctions: Which 60 entities are targeted?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-25 14:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/984530/microsoft-xbox-25th-anniversary-accessories" target="_blank">Take a look at Microsoft&amp;#8217;s new 25th anniversary Halo accessories</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-25 18:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/25/tonight-marks-your-last-chance-to-save-up-to-300-on-a-techcrunch-disrupt-2026-pass/" target="_blank">Tonight marks your last chance to save up to $300 on a TechCrunch Disrupt 2026 pass</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-25 18:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2053751760-500x500.jpg" alt="Two unvaccinated people die from measles in Pennsylvania, officials confirm" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/08/two-unvaccinated-people-die-from-measles-in-pennsylvania-officials-confirm/" target="_blank">Two unvaccinated people die from measles in Pennsylvania, officials confirm</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-25 17:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -130,38 +159,20 @@
                 <span class="time">2026-08-25 15:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-151062148-500x500.jpg" alt="AI won’t replace radiologists, but it will dramatically change their jobs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/" target="_blank">AI won’t replace radiologists, but it will dramatically change their jobs</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-25 15:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/984353/apple-polishing-cloth-cheaper" target="_blank">Apple&amp;#8217;s ‘new’ polishing cloth is the same except $10 cheaper</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-25 14:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/984096/mac-mini-mac-studio-m5-m6-ultra-preorder" target="_blank">Where to preorder the updated Mac Mini and Mac Studio</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-25 13:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vpodk/tpm-requirements-for-post-quantum-cryptography-readiness-12lj" target="_blank">TPM Requirements for Post-Quantum Cryptography Readiness</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-25 18:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +218,6 @@
                 <span class="time">2026-08-25 14:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Apple-M6-M5-Ultra" target="_blank">Apple Launches The M6 2nm 12-core CPU, Quad-Die M5 Ultra</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-25 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -254,6 +256,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/fountain-pen-zwigoff-picks.jpg?fit=1200%2C667&amp;quality=60&amp;ssl=1" alt="Ghost World director Terry Zwigoff names his five all-time favorite films" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/25/fountain-pen-zwigoff-picks.html" target="_blank">Ghost World director Terry Zwigoff names his five all-time favorite films</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-25 16:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/terrinigma-1280x721.jpg" alt="One Of The Best SNES Action-RPGs Is Getting The Rebirth It Deserves" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -278,15 +289,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/08/25/own-the-software-that-gives-blurry-videos-a-glow-up-for-just-60.html" target="_blank">Own the software that gives blurry videos a glow-up for just $60</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-08-25 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/crow.jpg?fit=1458%2C1092&amp;quality=60&amp;ssl=1" alt="Target withdraws halloween &quot;minstrel&quot; costume" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/25/target-withdraws-halloween-minstrel-costume.html" target="_blank">Target withdraws halloween &quot;minstrel&quot; costume</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-25 14:06</span>
             </div>
         </div>
 </div>
@@ -336,7 +338,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 246 |
-        🔄 Last Updated: 17:21 UTC
+        🔄 Last Updated: 18:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
