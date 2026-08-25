@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-08-25 18:21:05 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-08-25 19:21:23 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
 <!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, August 25, 2026 - 18:21 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Tuesday, August 25, 2026 - 19:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/GMA/dolly-gty-er-260817_1786978660793_hpMain_4x3t_384.jpg" alt="Dolly Parton, country music legend and cultural icon, dead at 80" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/GMA/Culture/dolly-parton-country-music-legend-cultural-icon-dead/story?id=95381474" target="_blank">Dolly Parton, country music legend and cultural icon, dead at 80</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-25 19:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/25/kurdish-led-forces-in-syria-dissolve-after-merging-with-the-army?traffic_source=rss" target="_blank">Kurdish-led forces in Syria dissolve after merging with the army</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-25 19:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,30 +93,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1787674456840_now_brk_current_canada_new_tariffs_260825_S3_1920x1080-mr0a90.jpg" alt="Canada announces new tariffs on the U.S. as trade tensions rise" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-qalandia-refugee-camp_7331088.jpg?20260825180806" alt="Israel seizes UN facility in East Jerusalem - and vows to close it down" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/canada-announces-new-tariffs-on-the-u-s-as-trade-tensions-rise-268831301967" target="_blank">Canada announces new tariffs on the U.S. as trade tensions rise</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-25 15:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/trump-carney-22-ap-gmh-260824_1787581497528_hpMain_4x3t_384.jpg" alt="Canada announces retaliatory tariffs up to 50% against US" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Business/trump-hell-impose-new-tariffs-canada-january-escalating/story?id=135901297" target="_blank">Canada announces retaliatory tariffs up to 50% against US</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-25 15:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40d1/live/7d19a870-a099-11f1-b109-879e35c24276.jpg" alt="Father&#x27;s house rammed before son died in A66 crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss" target="_blank">Father&#x27;s house rammed before son died in A66 crash</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-25 15:26</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/israel-seizes-un-facility-in-east-jerusalem-and-vows-to-close-it-down-13577053" target="_blank">Israel seizes UN facility in East Jerusalem - and vows to close it down</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-08-25 17:57</span>
             </div>
         </div>
 </div>
@@ -105,6 +106,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/" target="_blank">Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-25 19:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +160,20 @@
                 <span class="time">2026-08-25 15:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a8357e533de3b388535fa56/master/pass/Politics_Here's%20What%20The%20Supreme%20Court%20Mail-In%20Ballot%20Ruling%20Means%20For%20the%20Mid-Terms_v2.jpg" alt="The Supreme Court’s Mail-In Ballot Ruling Is a Step Toward Chaos in the Midterms" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-supreme-courts-mail-in-ballot-ruling-is-a-step-toward-chaos-in-the-midterms/" target="_blank">The Supreme Court’s Mail-In Ballot Ruling Is a Step Toward Chaos in the Midterms</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-25 15:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fraw.githubusercontent.com%2Famartinawi%2Fzodyssey%2Fdocs%2Flaunch%2Fassets%2Flaunch%2Fpipeline.png" alt="Your Agent Pipeline&#x27;s Review Gate Should Be Code, Not a Prompt Convention" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ammarti/your-agent-pipelines-review-gate-should-be-code-not-a-prompt-convention-4pem" target="_blank">Your Agent Pipeline&#x27;s Review Gate Should Be Code, Not a Prompt Convention</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-25 19:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -171,6 +181,15 @@
                 <span class="title"><a href="https://dev.to/vpodk/tpm-requirements-for-post-quantum-cryptography-readiness-12lj" target="_blank">TPM Requirements for Post-Quantum Cryptography Readiness</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-25 18:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://www.eveonline.com/news/view/the-move-to-python-3-begins" target="_blank">The Move to Python 3 Begins</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-08-25 16:52</span>
             </div>
         </div>
 <div class="story">
@@ -200,24 +219,6 @@
                 <span class="time">2026-08-25 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F90nw1wooaq2w94rpyent.png" alt="Postman Without an Account: What Still Works in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/akdombrowski/postman-without-an-account-what-still-works-in-2026-49aa" target="_blank">Postman Without an Account: What Still Works in 2026</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-25 14:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/linux-73-btrfs" target="_blank">Benchmarking Some Incredible Performance Gains With Btrfs On Linux 7.3</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-25 14:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KYQHS406P8TGJJSK5HZG20ZQ/hero-image.png" alt="This Ultra-Thin QLED TV Is 46% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/hisense-qled-tv-deal-august-2026?utm_medium=RSS" target="_blank">This Ultra-Thin QLED TV Is 46% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-25 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/switch-2-bundles-1280x720.jpg" alt="Nintendo Switch 2 To Receive Two Bundle Options, But Only After The Base Price Gets Hiked" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +289,6 @@
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/pokemon-james-turner-art-character-designs-interview-2000727904" target="_blank">Watch Newly Returning Pokémon Artist Perfectly Explain How To Design A Critter</a></span>
                 <span class="feed">Kotaku</span>
-                <span class="time">2026-08-25 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/VideoProc-Converter-AI.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Own the software that gives blurry videos a glow-up for just $60" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/25/own-the-software-that-gives-blurry-videos-a-glow-up-for-just-60.html" target="_blank">Own the software that gives blurry videos a glow-up for just $60</a></span>
-                <span class="feed">Boing Boing</span>
                 <span class="time">2026-08-25 15:00</span>
             </div>
         </div>
@@ -337,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 246 |
-        🔄 Last Updated: 18:21 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 40 | 📸 With Images: 247 |
+        🔄 Last Updated: 19:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
