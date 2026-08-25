@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-08-25 08:27:59 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-25 09:22:48 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Generated 2 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, August 25, 2026 - 08:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Tuesday, August 25, 2026 - 09:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions" target="_blank">Can Trump&#x27;s economic war against Iran do what airstrikes and negotiations couldn&#x27;t?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-25 09:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +99,20 @@
                 <span class="time">2026-08-25 04:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/864d/live/f9140c60-a029-11f1-acc9-bb1a45146942.jpg" alt="UK drone factories may face attacks from &#x27;unknown sources&#x27;, says Kremlin adviser" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss" target="_blank">UK drone factories may face attacks from &#x27;unknown sources&#x27;, says Kremlin adviser</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-25 04:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack" target="_blank">OpenAI subpoenaed by Alabama AG over Hugging Face hack</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-25 09:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a8c105b79ff1c63e8ad80b2/master/pass/324.30.38.50.01.002_SP_Packshot_Front_RGB.jpg" alt="Omega Just Released a Mini Moonwatch" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,15 +156,6 @@
                 <span class="title"><a href="https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked" target="_blank">Lenovo confirms Legion Go issues after gamers report bricked devices</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-08-24 23:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2211086231-500x500-1787606429.jpg" alt="AI is hitting entry-level jobs hardest, Stanford study finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/" target="_blank">AI is hitting entry-level jobs hardest, Stanford study finds</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-24 21:45</span>
             </div>
         </div>
 </div>
@@ -349,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 243 |
-        🔄 Last Updated: 08:28 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 117 | 📡 Total Sources: 39 | 📸 With Images: 243 |
+        🔄 Last Updated: 09:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
