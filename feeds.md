@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-08-25 09:22:48 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-25 10:20:00 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
+<!-- Processing: Krebs on Security -->
 <!-- Generated 2 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Tuesday, August 25, 2026 - 09:23 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, August 25, 2026 - 10:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +51,15 @@
                 <span class="title"><a href="https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions" target="_blank">Can Trump&#x27;s economic war against Iran do what airstrikes and negotiations couldn&#x27;t?</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-08-25 09:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-gaza-nasser-hospital_7330644.jpg?20260825095202" alt="No one held accountable one year after Israeli double strike on Gaza hospital" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/no-one-held-accountable-one-year-after-israeli-double-strike-on-gaza-hospital-13576883" target="_blank">No one held accountable one year after Israeli double strike on Gaza hospital</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-08-25 08:10</span>
             </div>
         </div>
 <div class="story">
@@ -88,15 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/25/two-us-carrier-groups-in-middle-east-strain-navy-resources?traffic_source=rss" target="_blank">Two US carrier groups in Middle East strain navy resources</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-25 05:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-president-thanks-nation-for-getting-off-us-state-terror-list?traffic_source=rss" target="_blank">Syrian president thanks nation for getting off US state terror list</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-25 04:38</span>
             </div>
         </div>
 </div>
@@ -345,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 117 | 📡 Total Sources: 39 | 📸 With Images: 243 |
-        🔄 Last Updated: 09:23 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 243 |
+        🔄 Last Updated: 10:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
