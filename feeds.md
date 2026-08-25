@@ -1,8 +1,7 @@
-<!-- Processing 54 RSS feeds at 2026-08-25 14:32:41 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-08-25 15:31:55 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
@@ -10,27 +9,31 @@
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Tuesday, August 25, 2026 - 14:32 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, August 25, 2026 - 15:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40d1/live/7d19a870-a099-11f1-b109-879e35c24276.jpg" alt="Father&#x27;s house rammed before son died in A66 crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss" target="_blank">Father&#x27;s house rammed before son died in A66 crash</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-25 15:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/25/qatar-says-us-sanctions-on-iran-are-unilateral?traffic_source=rss" target="_blank">Qatar says US sanctions on Iran are unilateral</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-25 15:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -65,6 +86,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-06/250630-carney-and-trump-rs-0a5111.jpg" alt="Canada retaliates against Trump tariffs by raising steel duties, rates on $20B of goods" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/business/consumer/canada-retaliates-against-trump-tariffs-rcna594280" target="_blank">Canada retaliates against Trump tariffs by raising steel duties, rates on $20B of goods</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-25 13:18</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -73,38 +103,29 @@
                 <span class="time">2026-08-25 13:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc68/live/708dead0-a076-11f1-bf10-9547e884d7b7.jpg" alt="China hits out at &#x27;illegal&#x27; new US sanctions on Iran and trading partners" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss" target="_blank">China hits out at &#x27;illegal&#x27; new US sanctions on Iran and trading partners</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-25 11:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/25/russia-mobilisation-fears-grow-amid-reports-of-intimidating-tactics?traffic_source=rss" target="_blank">Russia mobilisation fears grow amid reports of intimidating tactics</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-25 11:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c18b/live/754e09c0-a05c-11f1-94bd-930e18756ae0.jpg" alt="Man dies in crash after police pursuit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cly7ne4xegmo?at_medium=RSS&at_campaign=rss" target="_blank">Man dies in crash after police pursuit</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-25 11:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a8357e533de3b388535fa56/master/pass/Politics_Here's%20What%20The%20Supreme%20Court%20Mail-In%20Ballot%20Ruling%20Means%20For%20the%20Mid-Terms_v2.jpg" alt="The Supreme Court’s Mail-In Ballot Ruling Is a Step Toward Chaos in the Midterms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-supreme-courts-mail-in-ballot-ruling-is-a-step-toward-chaos-in-the-midterms/" target="_blank">The Supreme Court’s Mail-In Ballot Ruling Is a Step Toward Chaos in the Midterms</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-25 15:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-151062148-500x500.jpg" alt="AI won’t replace radiologists, but it will dramatically change their jobs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/" target="_blank">AI won’t replace radiologists, but it will dramatically change their jobs</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-25 15:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,29 +162,29 @@
                 <span class="time">2026-08-25 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/25/fitbit-founders-launch-luffu-link-an-lte-health-and-safety-band/" target="_blank">Fitbit founders launch Luffu Link, an LTE health and safety band</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-25 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68f838f9ca694516647e4962/master/pass/The%20Best%20Kitchen%20Composters%20and%20Food%20Recyclers.png" alt="I Tested Kitchen Composters for 2 Years. These Are the Ones I’d Buy (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/home-composters-buying-guide/" target="_blank">I Tested Kitchen Composters for 2 Years. These Are the Ones I’d Buy (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-25 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/namanvashistha/technical-strategy-thinking-beyond-the-current-sprint-1o24" target="_blank">Technical Strategy: Thinking Beyond the Current Sprint</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-25 15:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/08/java-news-roundup-aug17-2026/en/headerimage/java-news-roundup-image-1787671034283.jpg" alt="Java News Roundup: JDK 27-RC1, OpenJDK JEPs, Jakarta EE, BellSoft, Helidon, Micrometer, Tika 4.0" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/08/java-news-roundup-aug17-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: JDK 27-RC1, OpenJDK JEPs, Jakarta EE, BellSoft, Helidon, Micrometer, Tika 4.0</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-25 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F90nw1wooaq2w94rpyent.png" alt="Postman Without an Account: What Still Works in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -200,24 +221,6 @@
                 <span class="time">2026-08-25 13:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/08/bmc-vulnerabilities/en/headerimage/generatedHeaderImage-1787152274946.jpg" alt="BMC Vulnerabilities Put Thousands of Servers at Risk of Hardware-Level Compromise" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/08/bmc-vulnerabilities/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">BMC Vulnerabilities Put Thousands of Servers at Risk of Hardware-Level Compromise</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-25 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer" target="_blank">Credit Card Rewards Became a $9.2B Wealth Transfer</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-25 11:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +240,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/pkmnartacademy.jpg" alt="Watch Newly Returning Pokémon Artist Perfectly Explain How To Design A Critter" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-james-turner-art-character-designs-interview-2000727904" target="_blank">Watch Newly Returning Pokémon Artist Perfectly Explain How To Design A Critter</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-25 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/crow.jpg?fit=1458%2C1092&amp;quality=60&amp;ssl=1" alt="Target withdraws halloween &quot;minstrel&quot; costume" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/25/target-withdraws-halloween-minstrel-costume.html" target="_blank">Target withdraws halloween &quot;minstrel&quot; costume</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-25 14:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/star-lord-image-2-19-03-2026-1280x720.jpg" alt="Marvel Tōkon Devs Say Botched PC Launch Will Make Regaining Player Trust ‘Extremely Challenging’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,24 +292,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/08/24/replace-your-patchwork-of-work-apps-with-8-microsoft-office-2021-besties-for-just-30.html" target="_blank">Replace your patchwork of work apps with 8 Microsoft Office 2021 besties for just $30</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-08-24 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/needle-1280x720.jpg" alt="Game About Finding A Needle In A 5-Million-Piece Haystack Is Either Serene Or Stressful Depending On Who You Ask" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/find-needle-haystack-game-steam-5-million-twitter-x-2000727664" target="_blank">Game About Finding A Needle In A 5-Million-Piece Haystack Is Either Serene Or Stressful Depending On Who You Ask</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-24 20:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M0TPFF9ABNTGY5Y1DA19RBQB/hero-image.jpg" alt="This Luna Controller and Fire TV Stick Bundle Is 46% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/luna-controller-and-fire-tv-stick-bundle-deal-august-2026?utm_medium=RSS" target="_blank">This Luna Controller and Fire TV Stick Bundle Is 46% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-24 20:30</span>
             </div>
         </div>
 </div>
@@ -332,22 +335,13 @@
                 <span class="time">2026-08-24 17:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1787446945-20260824.png" alt="Saturday Morning Breakfast Cereal - Demon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/demon" target="_blank">Saturday Morning Breakfast Cereal - Demon</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-08-24 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 118 | 📡 Total Sources: 40 | 📸 With Images: 238 |
-        🔄 Last Updated: 14:32 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 242 |
+        🔄 Last Updated: 15:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
