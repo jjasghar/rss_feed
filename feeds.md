@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-08-25 13:39:02 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-25 14:32:41 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 28 feeds processed -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, August 25, 2026 - 13:39 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Tuesday, August 25, 2026 - 14:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,9 +50,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/8/25/trumps-latest-wave-of-iran-sanctions-which-60-entities-are-targeted?traffic_source=rss" target="_blank">Trump’s latest wave of Iran sanctions: Which 60 entities are targeted?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-25 14:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7fc/live/d4961ff0-a08c-11f1-9234-011c63dfa263.jpg" alt="Dad&#x27;s house rammed before son died in A66 crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss" target="_blank">Dad&#x27;s house rammed before son died in A66 crash</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-25 14:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/8/25/two-killed-refinery-on-fire-in-russias-krasnodar-after-drone-attack?traffic_source=rss" target="_blank">Two killed, refinery on fire in Russia’s Krasnodar after drone attack</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-25 13:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc68/live/708dead0-a076-11f1-bf10-9547e884d7b7.jpg" alt="China hits out at &#x27;illegal&#x27; new US sanctions on Iran and trading partners" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss" target="_blank">China hits out at &#x27;illegal&#x27; new US sanctions on Iran and trading partners</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-25 11:53</span>
             </div>
         </div>
 <div class="story">
@@ -73,38 +100,20 @@
                 <span class="time">2026-08-25 11:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1787656999500_tdy_news_7a_gutierrez_trade_war_260825_S3_1920x1080-9mo1ha.jpg" alt="Canada Prepares to Retaliate on Trump&#x27;s 50% Tariffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/trump-warns-sanctions-for-countries-doing-business-with-iran-268817989688" target="_blank">Canada Prepares to Retaliate on Trump&#x27;s 50% Tariffs</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-25 11:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/25/g-s1-140004/up-first-newsletter-iran-economic-war-scotus-mail-in-voting-dhs-privacy" target="_blank">Trump calls leaders to isolate Iran. And, SCOTUS backs Trump for now on mail-in voting</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-25 11:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f82e/live/1be2fd20-a073-11f1-958e-e3912aa2af08.jpg" alt="China warns it will safeguard its interests after US widens sanctions against Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss" target="_blank">China warns it will safeguard its interests after US widens sanctions against Iran</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-25 10:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/984353/apple-polishing-cloth-cheaper" target="_blank">Apple&amp;#8217;s ‘new’ polishing cloth is the same except $10 cheaper</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-25 14:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +159,29 @@
                 <span class="time">2026-08-25 11:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/983980/greenworks-maximusz-electric-riding-mower-review-specs-price" target="_blank">Greenworks’ MaximusZ electric riding mower has five motors and a few compromises</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-25 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F90nw1wooaq2w94rpyent.png" alt="Postman Without an Account: What Still Works in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/akdombrowski/postman-without-an-account-what-still-works-in-2026-49aa" target="_blank">Postman Without an Account: What Still Works in 2026</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-25 14:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/linux-73-btrfs" target="_blank">Benchmarking Some Incredible Performance Gains With Btrfs On Linux 7.3</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-25 14:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,24 +216,6 @@
                 <span class="title"><a href="https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer" target="_blank">Credit Card Rewards Became a $9.2B Wealth Transfer</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-08-25 11:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/testeracdemy/how-developers-and-testers-can-run-an-ad-hoc-testing-session-p50" target="_blank">How Developers and Testers Can Run an Ad Hoc Testing Session</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-25 11:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-DP-2.1-ALPM-v5" target="_blank">DisplayPort 2.1 ALPM Still Being Worked On For Intel Xe3P / Nova Lake</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-25 10:25</span>
             </div>
         </div>
 </div>
@@ -346,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 119 | 📡 Total Sources: 38 | 📸 With Images: 239 |
-        🔄 Last Updated: 13:39 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 118 | 📡 Total Sources: 40 | 📸 With Images: 238 |
+        🔄 Last Updated: 14:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
