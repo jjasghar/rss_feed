@@ -1,33 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-08-25 03:38:01 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-08-25 04:27:22 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, August 25, 2026 - 03:38 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, August 25, 2026 - 04:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/864d/live/f9140c60-a029-11f1-acc9-bb1a45146942.jpg" alt="UK drone factories may face attacks from &#x27;unknown sources&#x27;, says Kremlin adviser" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss" target="_blank">UK drone factories may face attacks from &#x27;unknown sources&#x27;, says Kremlin adviser</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-25 04:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +102,29 @@
                 <span class="time">2026-08-24 22:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/canada-rt-er-260824_1787604716536_hpMain_4x3t_384.jpg" alt="Some Republican lawmakers skewer Trump&#x27;s beef imports, slam Canada trade war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/republican-lawmakers-skewer-trumps-beef-imports-slam-canada/story?id=135907257" target="_blank">Some Republican lawmakers skewer Trump&#x27;s beef imports, slam Canada trade war</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-24 22:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a8ce07d60f23f7c6261c515/master/pass/AP26092141058357.jpg" alt="Data Centers Are Driving an Alarming Gas Power Expansion in the US" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/us-data-centers-drive-gas-power-expansion/" target="_blank">Data Centers Are Driving an Alarming Gas Power Expansion in the US</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-25 04:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/" target="_blank">India’s Airbound bags $37M to take on trucks with rocket-like drones</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-25 03:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,29 +161,29 @@
                 <span class="time">2026-08-24 21:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2289379931-500x500.jpg" alt="RFK Jr. may upend how vaccine recommendations are categorized" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/08/rfk-jr-may-upend-how-vaccine-recommendations-are-categorized/" target="_blank">RFK Jr. may upend how vaccine recommendations are categorized</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-24 21:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/" target="_blank">Zillow and Redfin settle FTC antitrust case</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-24 20:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/08/25/inside-linkedin-s-cognitive-memory-agent/" target="_blank">Inside LinkedIn&#x27;s cognitive memory agent for agentic personalization</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-08-25 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/restockd/why-real-time-restock-alerts-are-harder-than-they-look-3n73" target="_blank">Why real-time restock alerts are harder than they look</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-25 04:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,24 +218,6 @@
                 <span class="title"><a href="https://dev.to/aniruddhaadak/thirteen-merges-177-bug-reports-and-one-rescue-mission-my-august-in-open-source-4781" target="_blank">Thirteen Merges, 177 Bug Reports, and One Rescue Mission: My August in Open Source</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-24 23:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://developer.apple.com/news/?id=1ptvdtcm" target="_blank">iCloud+ Hide My Email addresses will remain on icloud.com</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-24 22:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/keithjmackay/ai-predictions-august-2026-56mk" target="_blank">AI Predictions, August 2026</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-24 21:03</span>
             </div>
         </div>
 </div>
@@ -343,8 +348,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 109 | 📡 Total Sources: 40 | 📸 With Images: 243 |
-        🔄 Last Updated: 03:38 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 111 | 📡 Total Sources: 40 | 📸 With Images: 244 |
+        🔄 Last Updated: 04:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
