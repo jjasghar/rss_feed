@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-08-25 19:21:23 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-25 20:15:20 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
 <!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Tuesday, August 25, 2026 - 19:21 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, August 25, 2026 - 20:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,9 +109,45 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/" target="_blank">Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-25 19:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/" target="_blank">Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-08-25 19:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/glowindark3-500x500.jpg" alt="Preserving glow-in-the-dark art and fashion for future generations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/08/how-chemistry-can-keep-glow-in-the-dark-pigments-from-fading/" target="_blank">Preserving glow-in-the-dark art and fashion for future generations</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-25 18:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/984485/dreame-rocket-car-shut-down" target="_blank">Dreame’s dream of a rocket-powered car is dead</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-25 18:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a8ddc85c2027e53c53387d2/master/pass/Pixel%2011%20Pro%20Fold%208%20SOURCE%20Simon%20Hill.jpg" alt="Google Pixel 11 Pro Fold Review: Better, Not Best" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/google-pixel-11-pro-fold/" target="_blank">Google Pixel 11 Pro Fold Review: Better, Not Best</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-25 18:45</span>
             </div>
         </div>
 <div class="story">
@@ -124,47 +159,29 @@
                 <span class="time">2026-08-25 18:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/25/tonight-marks-your-last-chance-to-save-up-to-300-on-a-techcrunch-disrupt-2026-pass/" target="_blank">Tonight marks your last chance to save up to $300 on a TechCrunch Disrupt 2026 pass</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-25 18:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2053751760-500x500.jpg" alt="Two unvaccinated people die from measles in Pennsylvania, officials confirm" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/08/two-unvaccinated-people-die-from-measles-in-pennsylvania-officials-confirm/" target="_blank">Two unvaccinated people die from measles in Pennsylvania, officials confirm</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-25 17:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/984390/polestar-blindsided-sales-ban-letter-dealer-trump" target="_blank">Polestar claims it was blindsided by sales ban</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-25 16:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/25/that-fake-grand-theft-auto-vi-demo-is-actually-just-malware/" target="_blank">That fake Grand Theft Auto VI demo is actually just malware</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-25 15:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/programmingcentral/building-60fps-browser-ai-real-time-image-masking-inpainting-and-layer-compositing-in-javascript-3edd" target="_blank">Building 60FPS Browser AI: Real-Time Image Masking, Inpainting, and Layer Compositing in JavaScript</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-25 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/LLVM-23.1-Released" target="_blank">LLVM/Clang 23.1 Released With AMD Zen 6 &amp; NVIDIA Rigel Support, Partial C++26 Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-25 19:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fraw.githubusercontent.com%2Famartinawi%2Fzodyssey%2Fdocs%2Flaunch%2Fassets%2Flaunch%2Fpipeline.png" alt="Your Agent Pipeline&#x27;s Review Gate Should Be Code, Not a Prompt Convention" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -201,24 +218,6 @@
                 <span class="time">2026-08-25 15:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!CW3x!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7449f6f-3517-482d-9ffd-913f3f55af21_2048x879.png" alt="Why Ramp built its own in-house coding agent, Inspect" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/why-ramp-built-inspect" target="_blank">Why Ramp built its own in-house coding agent, Inspect</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-08-25 15:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/08/java-news-roundup-aug17-2026/en/headerimage/java-news-roundup-image-1787671034283.jpg" alt="Java News Roundup: JDK 27-RC1, OpenJDK JEPs, Jakarta EE, BellSoft, Helidon, Micrometer, Tika 4.0" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/08/java-news-roundup-aug17-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: JDK 27-RC1, OpenJDK JEPs, Jakarta EE, BellSoft, Helidon, Micrometer, Tika 4.0</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-25 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KVBD4BXRM14KZJK2PM0VAMZQ/hero-image.jpg" alt="Apple Changed Its Mind on That Awful &#x27;Hide My Email&#x27; Update" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/apple-is-making-hide-my-email-less-effective?utm_medium=RSS" target="_blank">Apple Changed Its Mind on That Awful &#x27;Hide My Email&#x27; Update</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-25 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KYQHS406P8TGJJSK5HZG20ZQ/hero-image.png" alt="This Ultra-Thin QLED TV Is 46% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +289,6 @@
                 <span class="title"><a href="https://kotaku.com/one-of-the-best-snes-action-rpgs-is-getting-the-rebirth-it-deserves-2000727897" target="_blank">One Of The Best SNES Action-RPGs Is Getting The Rebirth It Deserves</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-08-25 16:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/pkmnartacademy.jpg" alt="Watch Newly Returning Pokémon Artist Perfectly Explain How To Design A Critter" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-james-turner-art-character-designs-interview-2000727904" target="_blank">Watch Newly Returning Pokémon Artist Perfectly Explain How To Design A Critter</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-25 15:00</span>
             </div>
         </div>
 </div>
@@ -338,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 40 | 📸 With Images: 247 |
-        🔄 Last Updated: 19:21 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 40 | 📸 With Images: 244 |
+        🔄 Last Updated: 20:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
