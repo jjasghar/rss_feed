@@ -1,30 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-08-25 21:15:59 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-25 22:13:32 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Error processing https://kotaku.com/rss: The read operation timed out -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 21 feeds processed -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, August 25, 2026 - 21:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Tuesday, August 25, 2026 - 22:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/25/nx-s1-5943041/south-carolina-senate-runoff-graham-norman-trump-endorsement" target="_blank">South Carolina U.S. senate runoff election will test Trump&#x27;s endorsement</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-25 20:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,20 +102,20 @@
                 <span class="time">2026-08-25 18:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-10/251014-dolly-parton-ch-0726-fe9293.jpg" alt="Dolly Parton, country music icon, dies at 80" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/dolly-parton-county-music-icon-dies-80-rcna236277" target="_blank">Dolly Parton, country music icon, dies at 80</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-25 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a8cc344dd042d49c2d1d2d3/master/pass/Politics_%E2%80%98Darth%20Vader%E2%80%99%20Explains%20His%20Pro-Flock%20Stance_v1.jpg" alt="‘Darth Vader’ Wants You to Know He Definitely Supports Flock Surveillance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/darth-vader-wants-you-to-know-he-definitely-supports-flock-surveillance/" target="_blank">‘Darth Vader’ Wants You to Know He Definitely Supports Flock Surveillance</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-25 21:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,20 +161,38 @@
                 <span class="time">2026-08-25 18:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/984530/microsoft-xbox-25th-anniversary-accessories" target="_blank">Take a look at Microsoft&amp;#8217;s new 25th anniversary Halo accessories</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-25 18:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ramya_perumal/ai-agents-python-basics-52ff" target="_blank">AI Agents - Python basics</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-25 22:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/" target="_blank">How to evaluate LLMs before production</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-08-25 21:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-mk2-Multikernel" target="_blank">Linux 7.0-mk2 Released For Multi-Kernel Linux With Promising Performance Results</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-25 21:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -185,33 +220,6 @@
                 <span class="time">2026-08-25 19:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fraw.githubusercontent.com%2Famartinawi%2Fzodyssey%2Fdocs%2Flaunch%2Fassets%2Flaunch%2Fpipeline.png" alt="Your Agent Pipeline&#x27;s Review Gate Should Be Code, Not a Prompt Convention" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ammarti/your-agent-pipelines-review-gate-should-be-code-not-a-prompt-convention-4pem" target="_blank">Your Agent Pipeline&#x27;s Review Gate Should Be Code, Not a Prompt Convention</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-25 19:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar" target="_blank">FDA authorizes first wearable device that monitors ketone and blood sugar levels</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-25 19:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vpodk/tpm-requirements-for-post-quantum-cryptography-readiness-12lj" target="_blank">TPM Requirements for Post-Quantum Cryptography Readiness</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-25 18:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/spider-crab-1280x720.jpg" alt="I Tried To Play Steam’s Newest Hit Friendslop Game And Immediately Got Murdered By A Spider Crab" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/how-to-fish-spider-crab-murder-2000728082" target="_blank">I Tried To Play Steam’s Newest Hit Friendslop Game And Immediately Got Murdered By A Spider Crab</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-25 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01M0X4D7M7X2WJFRSJJJPQ34TF/hero-image.jpg" alt="Six Quintessential Movies to Watch in Honor of Dolly Parton" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,15 +291,6 @@
                 <span class="title"><a href="https://kotaku.com/nintendo-switch-2-bundle-mario-kart-sports-resort-price-increase-2000727935" target="_blank">Nintendo Switch 2 To Receive Two Bundle Options, But Only After The Base Price Gets Hiked</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-08-25 17:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M0WTHR2EV4418E9G7S0HHPK1/hero-image.jpg" alt="Apple Just Made Its First Product Announcements of the Season" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/apple-announces-new-mac-mini-and-mac-studio-2026?utm_medium=RSS" target="_blank">Apple Just Made Its First Product Announcements of the Season</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-25 17:00</span>
             </div>
         </div>
 </div>
@@ -331,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 119 | 📡 Total Sources: 40 | 📸 With Images: 244 |
-        🔄 Last Updated: 21:16 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 244 |
+        🔄 Last Updated: 22:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
