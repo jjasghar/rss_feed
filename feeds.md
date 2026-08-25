@@ -1,36 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-08-25 20:15:20 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-08-25 21:15:59 UTC -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Error processing https://kotaku.com/rss: The read operation timed out -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, August 25, 2026 - 20:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Tuesday, August 25, 2026 - 21:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/8/25/real-madrid-vs-sociedad-la-liga-prediction-teams-lineups?traffic_source=rss" target="_blank">Real Madrid vs Sociedad: La Liga – prediction, team news, lineups</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-25 20:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/GMA/dolly-gty-er-260817_1786978660793_hpMain_4x3t_384.jpg" alt="Dolly Parton, country music legend and cultural icon, dead at 80" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,15 +92,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/news/us-news/dolly-parton-county-music-icon-dies-80-rcna236277" target="_blank">Dolly Parton, country music icon, dies at 80</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-08-25 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-qalandia-refugee-camp_7331088.jpg?20260825180806" alt="Israel seizes UN facility in East Jerusalem - and vows to close it down" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/israel-seizes-un-facility-in-east-jerusalem-and-vows-to-close-it-down-13577053" target="_blank">Israel seizes UN facility in East Jerusalem - and vows to close it down</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-08-25 17:57</span>
             </div>
         </div>
 </div>
@@ -168,6 +162,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/magopredator/mcp-tool-sanitizer-v010-making-the-mcp-approval-view-match-the-bytes-the-model-gets-17i5" target="_blank">mcp-tool-sanitizer v0.1.0: Making the MCP approval-view match the bytes the model gets</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-25 21:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/programmingcentral/building-60fps-browser-ai-real-time-image-masking-inpainting-and-layer-compositing-in-javascript-3edd" target="_blank">Building 60FPS Browser AI: Real-Time Image Masking, Inpainting, and Layer Compositing in JavaScript</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-25 20:00</span>
@@ -194,28 +197,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar" target="_blank">FDA authorizes first wearable device that monitors ketone and blood sugar levels</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-25 19:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/vpodk/tpm-requirements-for-post-quantum-cryptography-readiness-12lj" target="_blank">TPM Requirements for Post-Quantum Cryptography Readiness</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-25 18:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://www.eveonline.com/news/view/the-move-to-python-3-begins" target="_blank">The Move to Python 3 Begins</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-08-25 16:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/namanvashistha/technical-strategy-thinking-beyond-the-current-sprint-1o24" target="_blank">Technical Strategy: Thinking Beyond the Current Sprint</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-25 15:24</span>
             </div>
         </div>
 </div>
@@ -238,12 +232,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M0X4D7M7X2WJFRSJJJPQ34TF/hero-image.jpg" alt="Six Quintessential Movies to Watch in Honor of Dolly Parton" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/best-dolly-parton-movies?utm_medium=RSS" target="_blank">Six Quintessential Movies to Watch in Honor of Dolly Parton</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-25 20:34</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KVBD4BXRM14KZJK2PM0VAMZQ/hero-image.jpg" alt="Apple Changed Its Mind on That Awful &#x27;Hide My Email&#x27; Update" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
                 <span class="title"><a href="https://lifehacker.com/tech/apple-is-making-hide-my-email-less-effective?utm_medium=RSS" target="_blank">Apple Changed Its Mind on That Awful &#x27;Hide My Email&#x27; Update</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-08-25 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/fountain-pen-air-powered-dot-display-featured.jpg?fit=1200%2C779&amp;quality=60&amp;ssl=1" alt="This 8×8 display uses vacuum and silicone instead of LEDs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/25/fountain-pen-air-powered-dot-display.html" target="_blank">This 8×8 display uses vacuum and silicone instead of LEDs</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-25 19:11</span>
             </div>
         </div>
 <div class="story">
@@ -271,24 +283,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/apple-announces-new-mac-mini-and-mac-studio-2026?utm_medium=RSS" target="_blank">Apple Just Made Its First Product Announcements of the Season</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-08-25 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/fountain-pen-zwigoff-picks.jpg?fit=1200%2C667&amp;quality=60&amp;ssl=1" alt="Ghost World director Terry Zwigoff names his five all-time favorite films" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/25/fountain-pen-zwigoff-picks.html" target="_blank">Ghost World director Terry Zwigoff names his five all-time favorite films</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-25 16:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/terrinigma-1280x721.jpg" alt="One Of The Best SNES Action-RPGs Is Getting The Rebirth It Deserves" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/one-of-the-best-snes-action-rpgs-is-getting-the-rebirth-it-deserves-2000727897" target="_blank">One Of The Best SNES Action-RPGs Is Getting The Rebirth It Deserves</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-25 16:07</span>
             </div>
         </div>
 </div>
@@ -337,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 40 | 📸 With Images: 244 |
-        🔄 Last Updated: 20:15 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 119 | 📡 Total Sources: 40 | 📸 With Images: 244 |
+        🔄 Last Updated: 21:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
