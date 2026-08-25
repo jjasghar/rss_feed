@@ -1,42 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-08-25 07:34:09 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-08-25 08:27:59 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 33 feeds processed -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, August 25, 2026 - 07:34 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, August 25, 2026 - 08:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/25/thai-vendor-confronts-israeli-tourists-raises-palestinian-flag?traffic_source=rss" target="_blank">Thai vendor confronts Israeli tourists, raises Palestinian flag</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-25 07:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1b2/live/2001ff40-a047-11f1-a291-b542ee92de7c.jpg" alt="Iran says it is &#x27;fully prepared&#x27; to counter widened US economic sanctions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -95,15 +101,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss" target="_blank">UK drone factories may face attacks from &#x27;unknown sources&#x27;, says Kremlin adviser</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-08-25 04:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-trump100-podcast_7330505.jpg?20260825041953" alt="Why is Trump slapping tariffs on his neighbour?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/why-is-trump-slapping-tariffs-on-his-neighbour-13576837" target="_blank">Why is Trump slapping tariffs on his neighbour?</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-08-25 03:05</span>
             </div>
         </div>
 </div>
@@ -173,6 +170,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/briankipchirchir77/the-local-dev-setup-cheat-sheet-i-wish-i-had-when-i-started-2of6" target="_blank">The Local Dev Setup Cheat Sheet I Wish I Had When I Started 🐍⚡</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-25 08:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/08/cursor-origin-alternative-github/en/headerimage/generatedHeaderImage-1787588546610.jpg" alt="Cursor Releases Origin as an Agent-Native Alternative to GitHub" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/08/cursor-origin-alternative-github/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cursor Releases Origin as an Agent-Native Alternative to GitHub</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-25 08:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
                 <span class="title"><a href="https://stackoverflow.blog/2026/08/25/inside-linkedin-s-cognitive-memory-agent/" target="_blank">Inside LinkedIn&#x27;s cognitive memory agent for agentic personalization</a></span>
                 <span class="feed">Stack Overflow Blog</span>
@@ -204,24 +219,6 @@
                 <span class="title"><a href="https://dev.to/restockd/why-real-time-restock-alerts-are-harder-than-they-look-3n73" target="_blank">Why real-time restock alerts are harder than they look</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-25 04:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/forestlioooooo/deepseeks-vision-lineage-from-deepseek-vl-to-vision-exp-45ki" target="_blank">DeepSeek&#x27;s Vision Lineage: From DeepSeek-VL to Vision-Exp</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-25 03:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/stonking-stingray-ubuntu.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.10 ‘Stonking Stingray’ hits feature freeze" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/ubuntu-2610-hits-feature-freeze" target="_blank">Ubuntu 26.10 ‘Stonking Stingray’ hits feature freeze</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-08-25 01:07</span>
             </div>
         </div>
 </div>
@@ -352,8 +349,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 114 | 📡 Total Sources: 40 | 📸 With Images: 244 |
-        🔄 Last Updated: 07:34 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 243 |
+        🔄 Last Updated: 08:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
