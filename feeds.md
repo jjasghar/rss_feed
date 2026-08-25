@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-08-25 22:13:32 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-25 23:15:03 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Tuesday, August 25, 2026 - 22:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, August 25, 2026 - 23:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/25/nx-s1-5944266/adam-mosseri-instagram-meta-child-safety-trial" target="_blank">Instagram head Adam Mosseri testifies in defense of Meta in child safety trial</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-25 22:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +101,20 @@
                 <span class="time">2026-08-25 18:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/25/syriashakes-offpast-with-removal-from-us-terror-list-says-al-sharaa?traffic_source=rss" target="_blank">Syria ‘shakes off’ past with removal from US ‘terror list’, says al-Sharaa</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-25 18:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/f9_streak1-500x500.jpg" alt="The world&#x27;s busiest spaceport is about to get a lot quieter, at least for now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/08/the-worlds-busiest-spaceport-is-about-to-get-a-lot-quieter-at-least-for-now/" target="_blank">The world&#x27;s busiest spaceport is about to get a lot quieter, at least for now</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-25 22:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a8cc344dd042d49c2d1d2d3/master/pass/Politics_%E2%80%98Darth%20Vader%E2%80%99%20Explains%20His%20Pro-Flock%20Stance_v1.jpg" alt="‘Darth Vader’ Wants You to Know He Definitely Supports Flock Surveillance" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -114,6 +122,15 @@
                 <span class="title"><a href="https://www.wired.com/story/darth-vader-wants-you-to-know-he-definitely-supports-flock-surveillance/" target="_blank">‘Darth Vader’ Wants You to Know He Definitely Supports Flock Surveillance</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-08-25 21:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/" target="_blank">X sends cease-and-desist to open source project Nitter over alleged scraping</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-25 20:44</span>
             </div>
         </div>
 <div class="story">
@@ -143,24 +160,6 @@
                 <span class="time">2026-08-25 18:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/984485/dreame-rocket-car-shut-down" target="_blank">Dreame’s dream of a rocket-powered car is dead</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-25 18:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a8ddc85c2027e53c53387d2/master/pass/Pixel%2011%20Pro%20Fold%208%20SOURCE%20Simon%20Hill.jpg" alt="Google Pixel 11 Pro Fold Review: Better, Not Best" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/google-pixel-11-pro-fold/" target="_blank">Google Pixel 11 Pro Fold Review: Better, Not Best</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-25 18:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,9 +169,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devsftp/devsftp-sftp-client-for-windows-linux-3jfl" target="_blank">DevsFTP s/FTP Client for Windows &amp; Linux</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-25 22:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ramya_perumal/ai-agents-python-basics-52ff" target="_blank">AI Agents - Python basics</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-25 22:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://sebsite.pw/w/20260801-pythonconstants.html" target="_blank">Python&#x27;s pre-declared constants are kinda weird</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-25 21:39</span>
             </div>
         </div>
 <div class="story">
@@ -202,24 +219,6 @@
                 <span class="time">2026-08-25 21:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/programmingcentral/building-60fps-browser-ai-real-time-image-masking-inpainting-and-layer-compositing-in-javascript-3edd" target="_blank">Building 60FPS Browser AI: Real-Time Image Masking, Inpainting, and Layer Compositing in JavaScript</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-25 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/LLVM-23.1-Released" target="_blank">LLVM/Clang 23.1 Released With AMD Zen 6 &amp; NVIDIA Rigel Support, Partial C++26 Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-25 19:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,12 +239,39 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M0TC8DWKKR23JR7NT13HMFJP/hero-image.jpg" alt="10 Hacks Every Apple Wallet User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-apple-wallet-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Apple Wallet User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-25 22:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/gtaaa-1280x720.jpg" alt="The Hunt For The GTA 6 Leaker Seems To Be Getting Closer To Its Target" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-hunt-for-the-gta-6-leaker-seems-to-be-getting-closer-to-its-target-2000728088" target="_blank">The Hunt For The GTA 6 Leaker Seems To Be Getting Closer To Its Target</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-25 22:25</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/spider-crab-1280x720.jpg" alt="I Tried To Play Steam’s Newest Hit Friendslop Game And Immediately Got Murdered By A Spider Crab" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/how-to-fish-spider-crab-murder-2000728082" target="_blank">I Tried To Play Steam’s Newest Hit Friendslop Game And Immediately Got Murdered By A Spider Crab</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-08-25 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/Surfshark-VPN-Starter-Plan.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Secure your connection wherever you browse for less than $3 a month" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/25/secure-your-connection-wherever-you-browse-for-less-than-3-a-month.html" target="_blank">Secure your connection wherever you browse for less than $3 a month</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-25 21:00</span>
             </div>
         </div>
 <div class="story">
@@ -264,33 +290,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/apple-is-making-hide-my-email-less-effective?utm_medium=RSS" target="_blank">Apple Changed Its Mind on That Awful &#x27;Hide My Email&#x27; Update</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-08-25 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/fountain-pen-air-powered-dot-display-featured.jpg?fit=1200%2C779&amp;quality=60&amp;ssl=1" alt="This 8×8 display uses vacuum and silicone instead of LEDs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/25/fountain-pen-air-powered-dot-display.html" target="_blank">This 8×8 display uses vacuum and silicone instead of LEDs</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-25 19:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KYQHS406P8TGJJSK5HZG20ZQ/hero-image.png" alt="This Ultra-Thin QLED TV Is 46% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/hisense-qled-tv-deal-august-2026?utm_medium=RSS" target="_blank">This Ultra-Thin QLED TV Is 46% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-25 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/switch-2-bundles-1280x720.jpg" alt="Nintendo Switch 2 To Receive Two Bundle Options, But Only After The Base Price Gets Hiked" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/nintendo-switch-2-bundle-mario-kart-sports-resort-price-increase-2000727935" target="_blank">Nintendo Switch 2 To Receive Two Bundle Options, But Only After The Base Price Gets Hiked</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-25 17:20</span>
             </div>
         </div>
 </div>
@@ -339,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 244 |
-        🔄 Last Updated: 22:13 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 40 | 📸 With Images: 241 |
+        🔄 Last Updated: 23:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
