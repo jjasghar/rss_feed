@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-08-25 16:22:08 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-08-25 17:21:04 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Tuesday, August 25, 2026 - 16:22 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, August 25, 2026 - 17:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1787674456840_now_brk_current_canada_new_tariffs_260825_S3_1920x1080-mr0a90.jpg" alt="Canada announces new tariffs on the U.S. as trade tensions rise" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/canada-announces-new-tariffs-on-the-u-s-as-trade-tensions-rise-268831301967" target="_blank">Canada announces new tariffs on the U.S. as trade tensions rise</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-25 15:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/trump-carney-22-ap-gmh-260824_1787581497528_hpMain_4x3t_384.jpg" alt="Canada announces retaliatory tariffs up to 50% against US" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,15 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/features/2026/8/25/trumps-latest-wave-of-iran-sanctions-which-60-entities-are-targeted?traffic_source=rss" target="_blank">Trump’s latest wave of Iran sanctions: Which 60 entities are targeted?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-25 14:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7fc/live/d4961ff0-a08c-11f1-9234-011c63dfa263.jpg" alt="Dad&#x27;s house rammed before son died in A66 crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss" target="_blank">Dad&#x27;s house rammed before son died in A66 crash</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-25 14:10</span>
             </div>
         </div>
 </div>
@@ -240,6 +236,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/switch-2-bundles-1280x720.jpg" alt="Nintendo Switch 2 To Receive Two Bundle Options, But Only After The Base Price Gets Hiked" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/nintendo-switch-2-bundle-mario-kart-sports-resort-price-increase-2000727935" target="_blank">Nintendo Switch 2 To Receive Two Bundle Options, But Only After The Base Price Gets Hiked</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-25 17:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M0WTHR2EV4418E9G7S0HHPK1/hero-image.jpg" alt="Apple Just Made Its First Product Announcements of the Season" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/apple-announces-new-mac-mini-and-mac-studio-2026?utm_medium=RSS" target="_blank">Apple Just Made Its First Product Announcements of the Season</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-25 17:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/terrinigma-1280x721.jpg" alt="One Of The Best SNES Action-RPGs Is Getting The Rebirth It Deserves" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -275,29 +289,20 @@
                 <span class="time">2026-08-25 14:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/star-lord-image-2-19-03-2026-1280x720.jpg" alt="Marvel Tōkon Devs Say Botched PC Launch Will Make Regaining Player Trust ‘Extremely Challenging’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/marvel-tokon-fighting-souls-pc-port-arc-system-works-steam-2000727869" target="_blank">Marvel Tōkon Devs Say Botched PC Launch Will Make Regaining Player Trust ‘Extremely Challenging’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-25 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/gta-beach-1280x720.jpg" alt="GTA 6′s Lucky Leak #13 Reveals Crowd Scenes You Will Not Believe" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/gta-6-leak-13-beach-crowds-bike-rockstar-cyberleek-grand-theft-auto-2000727857" target="_blank">GTA 6′s Lucky Leak #13 Reveals Crowd Scenes You Will Not Believe</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-25 11:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1787609246-20260825.png" alt="Saturday Morning Breakfast Cereal - Jedi" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/jedi" target="_blank">Saturday Morning Breakfast Cereal - Jedi</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-08-25 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -325,22 +330,13 @@
                 <span class="time">2026-08-25 00:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/08/24/grave-maker-rounds" target="_blank">Grave-Maker Rounds</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-08-24 17:16</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 118 | 📡 Total Sources: 40 | 📸 With Images: 244 |
-        🔄 Last Updated: 16:22 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 246 |
+        🔄 Last Updated: 17:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
