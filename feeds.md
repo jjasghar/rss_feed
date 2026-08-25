@@ -1,38 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-08-25 00:34:41 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-25 02:11:00 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, August 25, 2026 - 00:34 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, August 25, 2026 - 02:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/25/man-killed-in-worlds-largest-annual-bullfighting-event-in-mexico?traffic_source=rss" target="_blank">Man killed in world’s largest annual bullfighting event in Mexico</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-25 01:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/trump-carney-22-ap-gmh-260824_1787581497528_hpMain_4x3t_384.jpg" alt="Canada to announce retaliatory tariffs against the US amid escalating trade war" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Business/trump-hell-impose-new-tariffs-canada-january-escalating/story?id=135901297" target="_blank">Canada to announce retaliatory tariffs against the US amid escalating trade war</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-25 00:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +97,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/politics/supreme-court/supreme-court-hands-preliminary-win-trump-mail-ballots-executive-order-rcna590120" target="_blank">Supreme Court hands preliminary win to Trump on mail-in ballots executive order</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-08-24 21:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court" target="_blank">Supreme Court pauses lower court ruling on Trump&#x27;s mail voting order as hurdles loom</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-24 20:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/24/washington-post-ordered-to-rehire-columnist-fired-over-charlie-kirk-posts?traffic_source=rss" target="_blank">Washington Post ordered to rehire columnist fired over Charlie Kirk posts</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-24 20:00</span>
             </div>
         </div>
 </div>
@@ -167,6 +164,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/stonking-stingray-ubuntu.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.10 ‘Stonking Stingray’ hits feature freeze" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/ubuntu-2610-hits-feature-freeze" target="_blank">Ubuntu 26.10 ‘Stonking Stingray’ hits feature freeze</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-08-25 01:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-HID" target="_blank">Linux 7.3 Merges Initial Kernel Driver Support For The 2026 Steam Controller</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-25 00:33</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="Thirteen Merges, 177 Bug Reports, and One Rescue Mission: My August in Open Source" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -200,24 +215,6 @@
                 <span class="title"><a href="https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk" target="_blank">One corner of China’s internet is insisting that the Tang Dynasty never existed</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-08-24 21:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/" target="_blank">Your alt text passes automated checks. That doesn’t mean it’s any good.</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-08-24 20:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jun-stoatify/how-to-test-document-management-software-with-20-real-files-32e6" target="_blank">How to test document management software with 20 real files</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-24 20:15</span>
             </div>
         </div>
 </div>
@@ -299,6 +296,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.questionablecontent.net/comics/5902.png" alt="The Bravest Of The Brave" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5902" target="_blank">The Bravest Of The Brave</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-08-25 00:47</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -325,22 +331,13 @@
                 <span class="time">2026-08-24 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5901.png" alt="Banned From The Produce Aisle" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5901" target="_blank">Banned From The Produce Aisle</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-08-24 00:43</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 29 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 245 |
-        🔄 Last Updated: 00:34 UTC
+        🔄 Last Updated: 02:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
