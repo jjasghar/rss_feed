@@ -1,39 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-08-25 15:31:55 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-08-25 16:22:08 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 30 feeds processed -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, August 25, 2026 - 15:32 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, August 25, 2026 - 16:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,12 +49,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/trump-carney-22-ap-gmh-260824_1787581497528_hpMain_4x3t_384.jpg" alt="Canada announces retaliatory tariffs up to 50% against US" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Business/trump-hell-impose-new-tariffs-canada-january-escalating/story?id=135901297" target="_blank">Canada announces retaliatory tariffs up to 50% against US</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-25 15:28</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40d1/live/7d19a870-a099-11f1-b109-879e35c24276.jpg" alt="Father&#x27;s house rammed before son died in A66 crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss" target="_blank">Father&#x27;s house rammed before son died in A66 crash</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-08-25 15:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs" target="_blank">Canada announces retaliatory tariffs on the U.S. as the countries&#x27; trade fight deepens</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-25 15:20</span>
             </div>
         </div>
 <div class="story">
@@ -85,29 +102,29 @@
                 <span class="time">2026-08-25 14:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-06/250630-carney-and-trump-rs-0a5111.jpg" alt="Canada retaliates against Trump tariffs by raising steel duties, rates on $20B of goods" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/business/consumer/canada-retaliates-against-trump-tariffs-rcna594280" target="_blank">Canada retaliates against Trump tariffs by raising steel duties, rates on $20B of goods</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-25 13:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/25/two-killed-refinery-on-fire-in-russias-krasnodar-after-drone-attack?traffic_source=rss" target="_blank">Two killed, refinery on fire in Russia’s Krasnodar after drone attack</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-25 13:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/984390/polestar-blindsided-sales-ban-letter-dealer-trump" target="_blank">Polestar claims it was blindsided by sales ban</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-25 16:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/25/that-fake-grand-theft-auto-vi-demo-is-actually-just-malware/" target="_blank">That fake Grand Theft Auto VI demo is actually just malware</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-25 15:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a8357e533de3b388535fa56/master/pass/Politics_Here's%20What%20The%20Supreme%20Court%20Mail-In%20Ballot%20Ruling%20Means%20For%20the%20Mid-Terms_v2.jpg" alt="The Supreme Court’s Mail-In Ballot Ruling Is a Step Toward Chaos in the Midterms" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,24 +161,6 @@
                 <span class="time">2026-08-25 13:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/Mac-Studio-2026-500x500-1787611186.jpg" alt="Apple&#x27;s new desktop computers are designed specifically for local AI development" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/" target="_blank">Apple&#x27;s new desktop computers are designed specifically for local AI development</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-25 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a8cd6272044b2ad4fc09b20/master/pass/Apple-Mac-mini-lifestyle-productivity.png" alt="Apple Mac Mini M6 and Mac Studio M5 Ultra: Specs, Price, Release Date" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/apple-announces-m6-and-m5-ultra-mac-mini-mac-studio/" target="_blank">Apple Mac Mini M6 and Mac Studio M5 Ultra: Specs, Price, Release Date</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-25 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,6 +173,15 @@
                 <span class="title"><a href="https://dev.to/namanvashistha/technical-strategy-thinking-beyond-the-current-sprint-1o24" target="_blank">Technical Strategy: Thinking Beyond the Current Sprint</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-25 15:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!CW3x!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7449f6f-3517-482d-9ffd-913f3f55af21_2048x879.png" alt="Why Ramp built its own in-house coding agent, Inspect" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/why-ramp-built-inspect" target="_blank">Why Ramp built its own in-house coding agent, Inspect</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-08-25 15:20</span>
             </div>
         </div>
 <div class="story">
@@ -212,15 +220,6 @@
                 <span class="time">2026-08-25 13:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/" target="_blank">Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-25 13:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,11 +240,29 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/terrinigma-1280x721.jpg" alt="One Of The Best SNES Action-RPGs Is Getting The Rebirth It Deserves" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/one-of-the-best-snes-action-rpgs-is-getting-the-rebirth-it-deserves-2000727897" target="_blank">One Of The Best SNES Action-RPGs Is Getting The Rebirth It Deserves</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-25 16:07</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/pkmnartacademy.jpg" alt="Watch Newly Returning Pokémon Artist Perfectly Explain How To Design A Critter" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/pokemon-james-turner-art-character-designs-interview-2000727904" target="_blank">Watch Newly Returning Pokémon Artist Perfectly Explain How To Design A Critter</a></span>
                 <span class="feed">Kotaku</span>
+                <span class="time">2026-08-25 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/VideoProc-Converter-AI.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Own the software that gives blurry videos a glow-up for just $60" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/25/own-the-software-that-gives-blurry-videos-a-glow-up-for-just-60.html" target="_blank">Own the software that gives blurry videos a glow-up for just $60</a></span>
+                <span class="feed">Boing Boing</span>
                 <span class="time">2026-08-25 15:00</span>
             </div>
         </div>
@@ -274,24 +291,6 @@
                 <span class="title"><a href="https://kotaku.com/gta-6-leak-13-beach-crowds-bike-rockstar-cyberleek-grand-theft-auto-2000727857" target="_blank">GTA 6′s Lucky Leak #13 Reveals Crowd Scenes You Will Not Believe</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-08-25 11:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/goku.jpg" alt="France Celebrates $7 Billion Dragon Ball Z Theme Park Paid For By Saudi Arabia: ‘You Know My Passion For Manga’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/france-celebrates-7-billion-dragon-ball-z-theme-park-paid-for-by-saudi-arabia-you-know-my-passion-for-manga-2000727680" target="_blank">France Celebrates $7 Billion Dragon Ball Z Theme Park Paid For By Saudi Arabia: ‘You Know My Passion For Manga’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-24 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/Microsoft-Office-Professional-2021-for-Windows-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Replace your patchwork of work apps with 8 Microsoft Office 2021 besties for just $30" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/24/replace-your-patchwork-of-work-apps-with-8-microsoft-office-2021-besties-for-just-30.html" target="_blank">Replace your patchwork of work apps with 8 Microsoft Office 2021 besties for just $30</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-24 21:00</span>
             </div>
         </div>
 </div>
@@ -340,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 242 |
-        🔄 Last Updated: 15:32 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 118 | 📡 Total Sources: 40 | 📸 With Images: 244 |
+        🔄 Last Updated: 16:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
