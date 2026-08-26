@@ -1,33 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-08-26 16:07:54 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-08-26 18:44:58 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 11 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 12 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, August 26, 2026 - 16:08 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, August 26, 2026 - 18:45 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/26/kurdish-led-sdf-has-dissolved-but-has-syria-really-unified-its-military?traffic_source=rss" target="_blank">Kurdish-led SDF has dissolved, but has Syria really unified its military?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-26 18:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-5-gty-gmh-260824_1787598899713_hpMain_4x3t_384.jpg" alt="Federal judge lifts all blocks on Trump mail-in ballots executive order" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/federal-judge-lifts-blocks-trump-mail-ballots-executive/story?id=135981337" target="_blank">Federal judge lifts all blocks on Trump mail-in ballots executive order</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-26 18:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +104,29 @@
                 <span class="time">2026-08-26 14:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/26/bodies-of-missing-people-found-in-korea-becomes-national-scandal?traffic_source=rss" target="_blank">Bodies of missing people found in Korea becomes national scandal</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-26 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/meta-2-gty-gmh-260826_1787749263981_hpMain_4x3t_384.jpg" alt="Meta settles with states in landmark social media addiction trial" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Business/meta-settles-states-landmark-social-media-addiction-trial/story?id=135967095" target="_blank">Meta settles with states in landmark social media addiction trial</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-26 13:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/985225/heat-stress-children-climate-change-study" target="_blank">Being a mom is hard — the heat is making it harder</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-26 18:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/09-992.2-Porsche-911-GT3-Touring-500x500.jpg" alt="The Porsche 911 GT3 Touring punches above its weight class" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/08/driven-the-992-2-porsche-911-gt3-touring-earns-its-keep/" target="_blank">The Porsche 911 GT3 Touring punches above its weight class</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-26 17:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/vote-sign-500x500-1787756263.jpg" alt="Court blocks Trump FCC order that could flood broadcast TV with more election ads" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,29 +163,29 @@
                 <span class="time">2026-08-26 12:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/" target="_blank">Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-26 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/ollama-granite-500x500-1787698921.jpg" alt="IBM&#x27;s new Granite 4.2 models ride the wave of interest in local LLMs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/" target="_blank">IBM&#x27;s new Granite 4.2 models ride the wave of interest in local LLMs</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-26 11:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbc73mqg2oo06fdwtp6wg.jpg" alt="Monthly Insights - Automation, Ambiguity and Agile" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tdp17/monthly-insights-automation-ambiguity-and-agile-8pf" target="_blank">Monthly Insights - Automation, Ambiguity and Agile</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-26 18:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/intel-xeon-678x-scaling" target="_blank">Intel Granite Rapids WS Core Scaling Performance With The Xeon 678X</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-26 16:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/08/libreoffice-268.webp?resize=406%2C232&amp;ssl=1" alt="LibreOffice 26.8 released with paragraph layout changes, draft view + more" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -168,6 +193,15 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/libreoffice-268-released" target="_blank">LibreOffice 26.8 released with paragraph layout changes, draft view + more</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-08-26 16:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/why-performant-code-matters-but-gets" target="_blank">Why performant code matters (but gets widely ignored), with Casey Muratori</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-08-26 15:59</span>
             </div>
         </div>
 <div class="story">
@@ -186,33 +220,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/08/aws-spec-driven-data-workflow/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Introduces Specification Driven Composition for Flexible Data Workflows</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-08-26 14:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/dingo.jpg?resize=406%2C232&amp;ssl=1" alt="A hidden Ubuntu feature I use to tidy up my desktop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/ubuntu-desktop-icons-stacks" target="_blank">A hidden Ubuntu feature I use to tidy up my desktop</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-08-26 14:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws" target="_blank">AWS Acquires DuckDB</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-26 12:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-BFF-Driver-Stuck-Bits" target="_blank">Intel Introduces New &quot;BFF&quot; Linux Driver To Deal With Aging Silicon &amp; Stuck Bits</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-26 12:56</span>
             </div>
         </div>
 </div>
@@ -234,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/fountain-pen-cliff-stoll-def-con-featured.jpg?fit=1200%2C821&amp;quality=60&amp;ssl=1" alt="Cliff Stoll revisits the 75-cent glitch that caught KGB hackers, 40 years later" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/26/fountain-pen-cliff-stoll-def-con.html" target="_blank">Cliff Stoll revisits the 75-cent glitch that caught KGB hackers, 40 years later</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-26 17:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/gta-statement-1280x720.jpg" alt="Rockstar Finally Breaks Its Silence Over The GTA 6 Leaks, Calls It ‘Heartbreaking’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +295,6 @@
                 <span class="time">2026-08-25 22:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/spider-crab-1280x720.jpg" alt="I Tried To Play Steam’s Newest Hit Friendslop Game And Immediately Got Murdered By A Spider Crab" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/how-to-fish-spider-crab-murder-2000728082" target="_blank">I Tried To Play Steam’s Newest Hit Friendslop Game And Immediately Got Murdered By A Spider Crab</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-25 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 121 | 📡 Total Sources: 40 | 📸 With Images: 234 |
-        🔄 Last Updated: 16:08 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 237 |
+        🔄 Last Updated: 18:45 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
