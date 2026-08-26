@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-08-26 12:25:38 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-26 13:43:24 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 12 new posts out of 27 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, August 26, 2026 - 12:25 UTC</div>
+    <div class="newspaper-date">Wednesday, August 26, 2026 - 13:43 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b8f/live/04e1a840-a14c-11f1-9984-79078b996b73.jpg" alt="Murder probe as two people die in house fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c4gmrz8d31mo?at_medium=RSS&at_campaign=rss" target="_blank">Murder probe as two people die in house fire</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-26 12:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +102,20 @@
                 <span class="time">2026-08-26 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2026/aug/26/global-health-mpox-outbreak-explainer-children" target="_blank">Mpox is back – and in new countries. How this outbreak can be contained</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-08-26 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/985032/meta-state-ag-kids-online-safety-settlement" target="_blank">Meta agrees to heavy restrictions on teen users in major lawsuit settlement</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-26 13:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +161,29 @@
                 <span class="time">2026-08-26 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a8c1c817e094df45d7c1f8f/master/pass/PH210899.jpg" alt="How Ikea Turned a Controller Thumbstick Into the Star of Its Xbox Gaming Range" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/how-ikea-turned-a-controller-thumbstick-into-the-star-of-its-xbox-gaming-range/" target="_blank">How Ikea Turned a Controller Thumbstick Into the Star of Its Xbox Gaming Range</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-26 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-BFF-Driver-Stuck-Bits" target="_blank">Intel Introduces New &quot;BFF&quot; Linux Driver To Deal With Aging Silicon &amp; Stuck Bits</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-26 12:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.linux.com/contributed/why-your-backups-are-too-big-a-practical-guide-to-content-defined-chunking/" target="_blank">Why Your Backups Are Too Big: A Practical Guide to Content-Defined Chunking</a></span>
+                <span class="feed">Linux.com</span>
+                <span class="time">2026-08-26 12:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -183,6 +203,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/presentations/claude-sre-incidents/en/mediumimage/alex-palcuie-medium-1786539336984.jpg" alt="Presentation: Can Claude Fix Itself? Using LLMs for Incident Response" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/claude-sre-incidents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Can Claude Fix Itself? Using LLMs for Incident Response</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-26 11:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -191,31 +220,18 @@
                 <span class="time">2026-08-26 10:22</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gorkemyildirim/how-many-builds-can-run-at-once-on-one-vps-21h6" target="_blank">How Many Builds Can Run at Once on One VPS</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-26 10:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GCC-RISC-V-mcpu-mtune-native" target="_blank">GCC Patches Added -mcpu=native -mtune=native Support For RISC-V</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-26 10:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/michele-9e58e27dac99451/ai-wave-h75" target="_blank">AI wave</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-26 09:15</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/08/spyware-for-babies.html" target="_blank">Spyware for Babies</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-08-26 12:05</span>
             </div>
         </div>
 </div>
@@ -314,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 40 | 📸 With Images: 234 |
-        🔄 Last Updated: 12:25 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 40 | 📸 With Images: 234 |
+        🔄 Last Updated: 13:43 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
