@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-08-26 14:32:56 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-08-26 16:07:54 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Generated 11 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, August 26, 2026 - 14:33 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, August 26, 2026 - 16:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,42 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2026/8/26/live-real-madrid-vs-sociedad-la-liga?traffic_source=rss" target="_blank">LIVE: Real Madrid vs Real Sociedad – La Liga</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-26 15:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/aug/26/south-african-police-arrest-two-thai-men-smuggling-parrot-eggs" target="_blank">South African police arrest two Thai men for allegedly smuggling parrot eggs</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-08-26 15:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/26/nx-s1-5944265/ground-beef-trump-tariffs" target="_blank">Will Trump&#x27;s latest beef plan make your hamburger cheaper? Not much, experts say</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-26 14:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/meta-cggljb.jpg" alt="Meta agrees to pay $18 billion to settle social media addiction lawsuit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/meta-agrees-to-pay-18-billion-to-settle-social-media-addiction-lawsuit-268885061976" target="_blank">Meta agrees to pay $18 billion to settle social media addiction lawsuit</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-26 14:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/26/bodies-of-missing-people-found-in-korea-becomes-national-scandal?traffic_source=rss" target="_blank">Bodies of missing people found in Korea becomes national scandal</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-26 14:00</span>
@@ -61,47 +97,20 @@
                 <span class="time">2026-08-26 13:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260325-mark-zuckerberg-ew-1132a-99401a.jpg" alt="Meta agrees to settle social media addiction suit with states for up to $18 billion" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/tech/social-media/meta-settles-social-media-addiction-suit-16-billion-rcna594492" target="_blank">Meta agrees to settle social media addiction suit with states for up to $18 billion</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-26 13:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b8f/live/04e1a840-a14c-11f1-9984-79078b996b73.jpg" alt="Murder probe as two people die in house fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c4gmrz8d31mo?at_medium=RSS&at_campaign=rss" target="_blank">Murder probe as two people die in house fire</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-26 12:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/26/iran-oman-agree-on-temporary-hormuz-route-what-we-know?traffic_source=rss" target="_blank">Iran, Oman agree on temporary Hormuz route: What we know</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-26 12:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/226e/live/30231dc0-a11c-11f1-a291-b542ee92de7c.jpg" alt="Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss" target="_blank">Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-26 11:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/vote-sign-500x500-1787756263.jpg" alt="Court blocks Trump FCC order that could flood broadcast TV with more election ads" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/08/court-blocks-trump-fcc-order-that-could-flood-broadcast-tv-with-more-election-ads/" target="_blank">Court blocks Trump FCC order that could flood broadcast TV with more election ads</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-26 15:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a8eee8f85384b803654439f/master/pass/GettyImages-2261841633.jpg" alt="Meta Will Pay Up to $16.7 Billion to Settle Its Social Media Harms Case—and That’s Not All" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,20 +156,38 @@
                 <span class="time">2026-08-26 11:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a863dcae60bdcf9fa334f31/master/pass/AI-Slop-Is-Ruining-Internets-Cute-Animal-Economy-Business.jpg" alt="AI Slop Is Ruining Cute Animals on the Internet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/ai-slop-is-ruining-the-internets-cute-animal-economy/" target="_blank">AI Slop Is Ruining Cute Animals on the Internet</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-26 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/08/libreoffice-268.webp?resize=406%2C232&amp;ssl=1" alt="LibreOffice 26.8 released with paragraph layout changes, draft view + more" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/libreoffice-268-released" target="_blank">LibreOffice 26.8 released with paragraph layout changes, draft view + more</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-08-26 16:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Haiku-R1-Beta-6" target="_blank">Haiku R1 Beta 6 Released After Two Years, BeOS-Inspired Project Turns 25 Next Week</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-26 15:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/08/aws-spec-driven-data-workflow/en/headerimage/generatedHeaderImage-1786944784495.jpg" alt="AWS Introduces Specification Driven Composition for Flexible Data Workflows" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/08/aws-spec-driven-data-workflow/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Introduces Specification Driven Composition for Flexible Data Workflows</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-26 14:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/dingo.jpg?resize=406%2C232&amp;ssl=1" alt="A hidden Ubuntu feature I use to tidy up my desktop" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -186,33 +213,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-BFF-Driver-Stuck-Bits" target="_blank">Intel Introduces New &quot;BFF&quot; Linux Driver To Deal With Aging Silicon &amp; Stuck Bits</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-08-26 12:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.linux.com/contributed/why-your-backups-are-too-big-a-practical-guide-to-content-defined-chunking/" target="_blank">Why Your Backups Are Too Big: A Practical Guide to Content-Defined Chunking</a></span>
-                <span class="feed">Linux.com</span>
-                <span class="time">2026-08-26 12:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vaibhav348/building-syncboard-pro-a-multi-tenant-agile-saas-platform-1l55" target="_blank">Building SyncBoard Pro — A Multi-Tenant Agile SaaS Platform</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-26 12:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/LibreOffice-26.8" target="_blank">LibreOffice 26.8 Released With Many Nice Improvements</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-26 11:30</span>
             </div>
         </div>
 </div>
@@ -294,6 +294,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.smbc-comics.com/comics/1787609283-20260826.png" alt="Saturday Morning Breakfast Cereal - Psy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/psy" target="_blank">Saturday Morning Breakfast Cereal - Psy</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-08-26 15:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -311,22 +320,13 @@
                 <span class="time">2026-08-26 01:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1787609246-20260825.png" alt="Saturday Morning Breakfast Cereal - Jedi" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/jedi" target="_blank">Saturday Morning Breakfast Cereal - Jedi</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-08-25 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 40 | 📸 With Images: 235 |
-        🔄 Last Updated: 14:33 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 121 | 📡 Total Sources: 40 | 📸 With Images: 234 |
+        🔄 Last Updated: 16:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
