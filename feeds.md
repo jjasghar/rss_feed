@@ -1,39 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-08-26 04:28:29 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-08-26 05:22:09 UTC -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 31 feeds processed -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, August 26, 2026 - 04:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, August 26, 2026 - 05:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -86,6 +79,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b19a/live/2109aba0-a091-11f1-b11c-1bea5fc925f5.jpg" alt="Winter energy prices expected to rise to three-year high" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss" target="_blank">Winter energy prices expected to rise to three-year high</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-25 23:07</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -94,20 +96,20 @@
                 <span class="time">2026-08-25 22:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/25/nx-s1-5943041/south-carolina-senate-runoff-graham-norman-trump-endorsement" target="_blank">South Carolina U.S. senate runoff election will test Trump&#x27;s endorsement</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-25 20:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" alt="Corsair Discount Code: Up to 50% Off for August 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/corsair-coupon/" target="_blank">Corsair Discount Code: Up to 50% Off for August 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-26 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,20 +155,20 @@
                 <span class="time">2026-08-25 22:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a8cc344dd042d49c2d1d2d3/master/pass/Politics_%E2%80%98Darth%20Vader%E2%80%99%20Explains%20His%20Pro-Flock%20Stance_v1.jpg" alt="‘Darth Vader’ Wants You to Know He Definitely Supports Flock Surveillance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/darth-vader-wants-you-to-know-he-definitely-supports-flock-surveillance/" target="_blank">‘Darth Vader’ Wants You to Know He Definitely Supports Flock Surveillance</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-25 21:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sumit0rn/why-the-future-always-looks-like-it-has-more-time-3340" target="_blank">Why the Future Always Looks Like It Has More Time</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-26 05:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -212,15 +214,6 @@
                 <span class="time">2026-08-25 21:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-mk2-Multikernel" target="_blank">Linux 7.0-mk2 Released For Multi-Kernel Linux With Promising Performance Results</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-25 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/sleeping-1280x720.jpg" alt="Atelier Just Turned One Of Its Most Popular RPG Protagonists Into An AI Chatbot" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/atelier-just-turned-one-of-its-most-popular-rpg-protagonists-into-an-ai-chatbot-2000727898" target="_blank">Atelier Just Turned One Of Its Most Popular RPG Protagonists Into An AI Chatbot</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-26 05:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01M0TC8DWKKR23JR7NT13HMFJP/hero-image.jpg" alt="10 Hacks Every Apple Wallet User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +287,6 @@
                 <span class="time">2026-08-25 20:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KVBD4BXRM14KZJK2PM0VAMZQ/hero-image.jpg" alt="Apple Changed Its Mind on That Awful &#x27;Hide My Email&#x27; Update" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/apple-is-making-hide-my-email-less-effective?utm_medium=RSS" target="_blank">Apple Changed Its Mind on That Awful &#x27;Hide My Email&#x27; Update</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-25 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 118 | 📡 Total Sources: 40 | 📸 With Images: 238 |
-        🔄 Last Updated: 04:28 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 119 | 📡 Total Sources: 40 | 📸 With Images: 239 |
+        🔄 Last Updated: 05:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
