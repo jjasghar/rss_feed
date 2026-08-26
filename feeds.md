@@ -1,40 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-08-26 10:22:35 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-26 11:18:03 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Wednesday, August 26, 2026 - 10:23 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, August 26, 2026 - 11:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2026/aug/26/global-health-mpox-outbreak-explainer-children" target="_blank">Mpox is back – and in new countries. How this outbreak can be contained</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-08-26 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,20 +98,38 @@
                 <span class="time">2026-08-26 07:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81b8/live/17fa62f0-a110-11f1-9277-c14ca51fa4b7.jpg" alt="Household energy bills to hit three-year high as Ofgem announces 4% rise from October" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss" target="_blank">Household energy bills to hit three-year high as Ofgem announces 4% rise from October</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-26 06:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/ollama-granite-500x500-1787698921.jpg" alt="IBM&#x27;s new Granite 4.2 models ride the wave of interest in local LLMs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/" target="_blank">IBM&#x27;s new Granite 4.2 models ride the wave of interest in local LLMs</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-26 11:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a863dcae60bdcf9fa334f31/master/pass/AI-Slop-Is-Ruining-Internets-Cute-Animal-Economy-Business.jpg" alt="AI Slop Is Ruining Cute Animals on the Internet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/ai-slop-is-ruining-the-internets-cute-animal-economy/" target="_blank">AI Slop Is Ruining Cute Animals on the Internet</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-26 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/" target="_blank">Runable hits $21M to bet AI agents can go from building businesses to growing them</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-26 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a8c1c817e094df45d7c1f8f/master/pass/PH210899.jpg" alt="How Ikea Turned a Controller Thumbstick Into the Star of Its Xbox Gaming Range" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -136,38 +157,20 @@
                 <span class="time">2026-08-26 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/26/ventures-platform-goes-bigger-and-broader-with-its-second-africa-fund/" target="_blank">Ventures Platform goes bigger — and broader — with its second Africa fund</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-26 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea07733dd51041d9bb38c6/master/pass/WIRED-Coupons-1.jpg" alt="AirDoctor Coupon Codes: 40% Off | August 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/airdoctor-coupon-code/" target="_blank">AirDoctor Coupon Codes: 40% Off | August 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-26 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" alt="Corsair Discount Code: Up to 50% Off for August 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/corsair-coupon/" target="_blank">Corsair Discount Code: Up to 50% Off for August 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-26 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-gfx1250-strict" target="_blank">AMD Introduces New &quot;GFX1250-STRICT&quot; GPU Target In LLVM</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-26 10:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,33 +210,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/octowatch/data-sniffing-threats-to-business-and-5-ways-to-defend-22k6" target="_blank">Data Sniffing: Threats to Business and 5 Ways to Defend</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-26 07:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/08/diagrid-catalyst-ai-agents/en/headerimage/header-1787430272425.jpeg" alt="Diagrid Catalyst 2.0 Adds Durable and Verifiable Execution for AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/08/diagrid-catalyst-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Diagrid Catalyst 2.0 Adds Durable and Verifiable Execution for AI Agents</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-26 07:00</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/08/black-hat-state-of-security-vendors.html" target="_blank">Black Hat State of Security Vendors</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-08-25 10:54</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://openstreetmap.us/news/2026/08/oim-charter-project/" target="_blank">Oldinsurancemaps.net is now a Charter Project</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-26 08:57</span>
             </div>
         </div>
 </div>
@@ -332,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 40 | 📸 With Images: 235 |
-        🔄 Last Updated: 10:23 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 40 | 📸 With Images: 234 |
+        🔄 Last Updated: 11:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
