@@ -1,40 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-08-26 18:44:58 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-26 21:25:24 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 12 new posts out of 32 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 10 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, August 26, 2026 - 18:45 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, August 26, 2026 - 21:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0e7/live/b8d38ff0-a159-11f1-b109-879e35c24276.jpg" alt="Nepalese authorities say 33 UK nationals missing after flash floods" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cnvlde5075no?at_medium=RSS&at_campaign=rss" target="_blank">Nepalese authorities say 33 UK nationals missing after flash floods</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-26 21:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,20 +100,47 @@
                 <span class="time">2026-08-26 14:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/meta-cggljb.jpg" alt="Meta agrees to pay $18 billion to settle social media addiction lawsuit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/meta-agrees-to-pay-18-billion-to-settle-social-media-addiction-lawsuit-268885061976" target="_blank">Meta agrees to pay $18 billion to settle social media addiction lawsuit</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-26 14:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2171717886-500x500.jpg" alt="Meta’s scrapped plans to go “AI native” included slashing teams by 60 percent" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/" target="_blank">Meta’s scrapped plans to go “AI native” included slashing teams by 60 percent</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-26 21:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a8e12acbbdee18b4a023905/master/pass/politics_democrats_senate.jpg" alt="Democrats Just Might Win the Senate" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/democrats-just-might-win-the-senate/" target="_blank">Democrats Just Might Win the Senate</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-26 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/985329/instagram-facebook-meta-settlement-changes" target="_blank">All the ways Instagram and Facebook are changing for teens</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-26 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/" target="_blank">Google’s Gemini has a branding problem, and so does the rest of AI</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-26 19:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -127,47 +159,20 @@
                 <span class="time">2026-08-26 17:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/vote-sign-500x500-1787756263.jpg" alt="Court blocks Trump FCC order that could flood broadcast TV with more election ads" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/08/court-blocks-trump-fcc-order-that-could-flood-broadcast-tv-with-more-election-ads/" target="_blank">Court blocks Trump FCC order that could flood broadcast TV with more election ads</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-26 15:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a8eee8f85384b803654439f/master/pass/GettyImages-2261841633.jpg" alt="Meta Will Pay Up to $16.7 Billion to Settle Its Social Media Harms Case—and That’s Not All" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/meta-will-pay-up-to-dollar167-billion-to-settle-its-social-media-harms-case-and-thats-just-for-starters/" target="_blank">Meta Will Pay Up to $16.7 Billion to Settle Its Social Media Harms Case—and That’s Not All</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-26 14:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/985032/meta-state-ag-kids-online-safety-settlement" target="_blank">Meta agrees to heavy restrictions on teen users in major lawsuit settlement</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-26 13:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/984959/gta-vi-leaks-rockstar-games-official-statement-heartbreaking" target="_blank">Rockstar finally responds to &amp;#8216;heartbreaking&amp;#8217; GTA 6 leaks</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-26 12:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/" target="_blank">GitHub Copilot app for Beginners: Automate Dependabot pull request triage</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-08-26 20:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbc73mqg2oo06fdwtp6wg.jpg" alt="Monthly Insights - Automation, Ambiguity and Agile" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -175,6 +180,15 @@
                 <span class="title"><a href="https://dev.to/tdp17/monthly-insights-automation-ambiguity-and-agile-8pf" target="_blank">Monthly Insights - Automation, Ambiguity and Agile</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-26 18:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/tailscale/tailcat" target="_blank">Tailcat – Like netcat, but over Tailscale’s data plane</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-26 17:42</span>
             </div>
         </div>
 <div class="story">
@@ -204,24 +218,6 @@
                 <span class="time">2026-08-26 15:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Haiku-R1-Beta-6" target="_blank">Haiku R1 Beta 6 Released After Two Years, BeOS-Inspired Project Turns 25 Next Week</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-26 15:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/08/aws-spec-driven-data-workflow/en/headerimage/generatedHeaderImage-1786944784495.jpg" alt="AWS Introduces Specification Driven Composition for Flexible Data Workflows" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/08/aws-spec-driven-data-workflow/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Introduces Specification Driven Composition for Flexible Data Workflows</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-26 14:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/sora1.jpg" alt="Oh No, Disney Is Paying Attention To Kingdom Hearts Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/kingdom-hearts-4-disney-plus-animated-series-square-enix-2000728552" target="_blank">Oh No, Disney Is Paying Attention To Kingdom Hearts Now</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-26 20:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/fountain-pen-cliff-stoll-def-con-featured.jpg?fit=1200%2C821&amp;quality=60&amp;ssl=1" alt="Cliff Stoll revisits the 75-cent glitch that caught KGB hackers, 40 years later" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,20 +291,20 @@
                 <span class="time">2026-08-25 22:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/gtaaa-1280x720.jpg" alt="The Hunt For The GTA 6 Leaker Seems To Be Getting Closer To Its Target" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-hunt-for-the-gta-6-leaker-seems-to-be-getting-closer-to-its-target-2000728088" target="_blank">The Hunt For The GTA 6 Leaker Seems To Be Getting Closer To Its Target</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-25 22:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/08/26/great-chairs-at-a-great-price" target="_blank">Great Chairs At A Great Price</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-08-26 18:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1787609283-20260826.png" alt="Saturday Morning Breakfast Cereal - Psy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -332,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 237 |
-        🔄 Last Updated: 18:45 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 239 |
+        🔄 Last Updated: 21:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
