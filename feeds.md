@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-08-26 13:43:24 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-08-26 14:32:56 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, August 26, 2026 - 13:43 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, August 26, 2026 - 14:33 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +43,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/26/bodies-of-missing-people-found-in-korea-becomes-national-scandal?traffic_source=rss" target="_blank">Bodies of missing people found in Korea becomes national scandal</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-26 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/meta-2-gty-gmh-260826_1787749263981_hpMain_4x3t_384.jpg" alt="Meta settles with states in landmark social media addiction trial" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Business/meta-settles-states-landmark-social-media-addiction-trial/story?id=135967095" target="_blank">Meta settles with states in landmark social media addiction trial</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-26 13:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260325-mark-zuckerberg-ew-1132a-99401a.jpg" alt="Meta agrees to settle social media addiction suit with states for up to $18 billion" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/tech/social-media/meta-settles-social-media-addiction-suit-16-billion-rcna594492" target="_blank">Meta agrees to settle social media addiction suit with states for up to $18 billion</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-26 13:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b8f/live/04e1a840-a14c-11f1-9984-79078b996b73.jpg" alt="Murder probe as two people die in house fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -75,38 +97,20 @@
                 <span class="time">2026-08-26 11:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1787743004401_tdy_news_7a_fryer_dolly_parton_obit_260826_S3_1920x1080-36op2a.jpg" alt="Dolly Parton Died After ‘Brief Battle With Cancer,’ Her Team Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/dolly-parton-dies-at-80-after-brief-battle-with-cancer-268878405633" target="_blank">Dolly Parton Died After ‘Brief Battle With Cancer,’ Her Team Says</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-26 11:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/26/g-s1-140207/up-first-newsletter-canada-tariffs-visa-revocations-dolly-parton-nevada-voters" target="_blank">Canada to hit U.S. with retaliatory tariffs. And, remembering music legend Dolly Parton</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-26 11:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2026/aug/26/global-health-mpox-outbreak-explainer-children" target="_blank">Mpox is back – and in new countries. How can this outbreak be contained?</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-08-26 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a8eee8f85384b803654439f/master/pass/GettyImages-2261841633.jpg" alt="Meta Will Pay Up to $16.7 Billion to Settle Its Social Media Harms Case—and That’s Not All" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/meta-will-pay-up-to-dollar167-billion-to-settle-its-social-media-harms-case-and-thats-just-for-starters/" target="_blank">Meta Will Pay Up to $16.7 Billion to Settle Its Social Media Harms Case—and That’s Not All</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-26 14:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +156,29 @@
                 <span class="time">2026-08-26 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/" target="_blank">Runable hits $21M to bet AI agents can go from building businesses to growing them</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-26 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/dingo.jpg?resize=406%2C232&amp;ssl=1" alt="A hidden Ubuntu feature I use to tidy up my desktop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/ubuntu-desktop-icons-stacks" target="_blank">A hidden Ubuntu feature I use to tidy up my desktop</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-08-26 14:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws" target="_blank">AWS Acquires DuckDB</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-26 12:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,24 +213,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/LibreOffice-26.8" target="_blank">LibreOffice 26.8 Released With Many Nice Improvements</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-08-26 11:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/claude-sre-incidents/en/mediumimage/alex-palcuie-medium-1786539336984.jpg" alt="Presentation: Can Claude Fix Itself? Using LLMs for Incident Response" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/claude-sre-incidents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Can Claude Fix Itself? Using LLMs for Incident Response</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-26 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-gfx1250-strict" target="_blank">AMD Introduces New &quot;GFX1250-STRICT&quot; GPU Target In LLVM</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-26 10:22</span>
             </div>
         </div>
 </div>
@@ -330,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 40 | 📸 With Images: 234 |
-        🔄 Last Updated: 13:43 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 40 | 📸 With Images: 235 |
+        🔄 Last Updated: 14:33 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
