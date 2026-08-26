@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-08-26 05:22:09 UTC -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-08-26 06:26:37 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Wednesday, August 26, 2026 - 05:22 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, August 26, 2026 - 06:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81b8/live/17fa62f0-a110-11f1-9277-c14ca51fa4b7.jpg" alt="Household energy bills to hit three-year high as Ofgem announces 4% rise from October" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss" target="_blank">Household energy bills to hit three-year high as Ofgem announces 4% rise from October</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-26 06:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +100,20 @@
                 <span class="time">2026-08-25 23:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/25/nx-s1-5944266/adam-mosseri-instagram-meta-child-safety-trial" target="_blank">Instagram head Adam Mosseri testifies in defense of Meta in child safety trial</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-25 22:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea07733dd51041d9bb38c6/master/pass/WIRED-Coupons-1.jpg" alt="AirDoctor Coupon Codes: 40% Off | August 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/airdoctor-coupon-code/" target="_blank">AirDoctor Coupon Codes: 40% Off | August 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-26 05:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" alt="Corsair Discount Code: Up to 50% Off for August 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,15 +157,6 @@
                 <span class="title"><a href="https://arstechnica.com/space/2026/08/the-worlds-busiest-spaceport-is-about-to-get-a-lot-quieter-at-least-for-now/" target="_blank">The world&#x27;s busiest spaceport is about to get a lot quieter, at least for now</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-08-25 22:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/984753/garmin-fenix-9-smartwatch-launch" target="_blank">Garmin’s new Fenix 9 adds brighter screens and smoother map panning</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-25 22:20</span>
             </div>
         </div>
 </div>
@@ -315,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 119 | 📡 Total Sources: 40 | 📸 With Images: 239 |
-        🔄 Last Updated: 05:22 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 119 | 📡 Total Sources: 40 | 📸 With Images: 240 |
+        🔄 Last Updated: 06:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
