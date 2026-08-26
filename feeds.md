@@ -1,42 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-08-26 09:28:58 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-26 10:22:35 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 33 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, August 26, 2026 - 09:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, August 26, 2026 - 10:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/8/26/one-us-dollar-now-costs-2-million-rials-in-iran-and-heres-what-it-can-buy?traffic_source=rss" target="_blank">One US dollar now costs 2 million rials in Iran, and here’s what it can buy</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-26 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bd2/live/72e08190-a11f-11f1-92eb-a9b3bbcf6f4a.jpg" alt="At least 17 killed as flash flood sweeps part of Nepal-Tibet border" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cx2zyerv2lmo?at_medium=RSS&at_campaign=rss" target="_blank">At least 17 killed as flash flood sweeps part of Nepal-Tibet border</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-26 09:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,29 +104,29 @@
                 <span class="time">2026-08-26 06:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/26/dozens-killed-in-rebel-attacks-on-sudans-kordofan-medical-group-says?traffic_source=rss" target="_blank">Dozens killed in rebel attacks on Sudan’s Kordofan, medical group says</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-26 03:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/26/water-crisis-makes-life-in-sudans-el-obeid-refugee-camps-even-worse?traffic_source=rss" target="_blank">Water crisis makes life in Sudan’s El Obeid refugee camps even worse</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-26 01:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a8c1c817e094df45d7c1f8f/master/pass/PH210899.jpg" alt="How Ikea Turned a Controller Thumbstick Into the Star of Its Xbox Gaming Range" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-ikea-turned-a-controller-thumbstick-into-the-star-of-its-xbox-gaming-range/" target="_blank">How Ikea Turned a Controller Thumbstick Into the Star of Its Xbox Gaming Range</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-26 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/984869/ikea-xbox-yxstaby-collection-thumbstick-stool" target="_blank">Ikea’s Xbox collection includes a giant thumbstick stool</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-26 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a8e0d868d6075ca30d3eb17/master/pass/139813972" alt="A Mutation Is Making It Easier for Drug-Resistant Malaria to Spread" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,29 +163,29 @@
                 <span class="time">2026-08-26 05:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/" target="_blank">India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-26 03:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/" target="_blank">Robotics startup Generalist reaches $3B valuation, sources say</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-26 00:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gorkemyildirim/how-many-builds-can-run-at-once-on-one-vps-21h6" target="_blank">How Many Builds Can Run at Once on One VPS</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-26 10:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GCC-RISC-V-mcpu-mtune-native" target="_blank">GCC Patches Added -mcpu=native -mtune=native Support For RISC-V</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-26 10:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,24 +220,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/08/diagrid-catalyst-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Diagrid Catalyst 2.0 Adds Durable and Verifiable Execution for AI Agents</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-08-26 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sumit0rn/why-the-future-always-looks-like-it-has-more-time-3340" target="_blank">Why the Future Always Looks Like It Has More Time</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-26 05:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Chrome-Chromium-Flatpak" target="_blank">Chrome/Chromium Experimenting With Flatpak Packaging</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-26 00:22</span>
             </div>
         </div>
 </div>
@@ -334,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 39 | 📸 With Images: 235 |
-        🔄 Last Updated: 09:29 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 40 | 📸 With Images: 235 |
+        🔄 Last Updated: 10:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
