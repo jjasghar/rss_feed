@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-08-26 11:18:03 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-08-26 12:25:38 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 12 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Wednesday, August 26, 2026 - 11:18 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, August 26, 2026 - 12:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,8 +49,44 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/26/iran-oman-agree-on-temporary-hormuz-route-what-we-know?traffic_source=rss" target="_blank">Iran, Oman agree on temporary Hormuz route: What we know</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-26 12:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/226e/live/30231dc0-a11c-11f1-a291-b542ee92de7c.jpg" alt="Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss" target="_blank">Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-26 11:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1787743004401_tdy_news_7a_fryer_dolly_parton_obit_260826_S3_1920x1080-36op2a.jpg" alt="Dolly Parton Died After ‘Brief Battle With Cancer,’ Her Team Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/dolly-parton-dies-at-80-after-brief-battle-with-cancer-268878405633" target="_blank">Dolly Parton Died After ‘Brief Battle With Cancer,’ Her Team Says</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-26 11:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/26/g-s1-140207/up-first-newsletter-canada-tariffs-visa-revocations-dolly-parton-nevada-voters" target="_blank">Canada to hit U.S. with retaliatory tariffs. And, remembering music legend Dolly Parton</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-26 11:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2026/aug/26/global-health-mpox-outbreak-explainer-children" target="_blank">Mpox is back – and in new countries. How this outbreak can be contained</a></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2026/aug/26/global-health-mpox-outbreak-explainer-children" target="_blank">Mpox is back – and in new countries. How can this outbreak be contained?</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2026-08-26 11:00</span>
             </div>
@@ -56,46 +94,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/8/26/one-us-dollar-now-costs-2-million-rials-in-iran-and-heres-what-it-can-buy?traffic_source=rss" target="_blank">One US dollar now costs 2 million rials in Iran, and here’s what it can buy</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-26 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bd2/live/72e08190-a11f-11f1-92eb-a9b3bbcf6f4a.jpg" alt="At least 17 killed as flash flood sweeps part of Nepal-Tibet border" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cx2zyerv2lmo?at_medium=RSS&at_campaign=rss" target="_blank">At least 17 killed as flash flood sweeps part of Nepal-Tibet border</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-26 09:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/26/nx-s1-5843276/lifestyle-habits-that-boost-fertility-pregnancy" target="_blank">COMIC: 7 lifestyle habits that may boost your chances of getting pregnant</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-26 09:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
                 <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2026/aug/26/moringa-lattes-and-tigernut-kebabs-the-young-ghanaians-taking-back-the-power-of-their-food" target="_blank">Moringa lattes and tigernut kebabs: the young Ghanaians ‘taking back the power’ of their food</a></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2026/aug/26/global-health-mpox-outbreak-explainer-children" target="_blank">Mpox is back – and in new countries. How this outbreak can be contained</a></span>
                 <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-08-26 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/26/g-s1-138847/planet-money-summer-school-quiz-2026" target="_blank">Test your global economic knowledge with this quick Planet Money quiz!</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-26 07:30</span>
+                <span class="time">2026-08-26 11:00</span>
             </div>
         </div>
 </div>
@@ -103,6 +105,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/984959/gta-vi-leaks-rockstar-games-official-statement-heartbreaking" target="_blank">Rockstar finally responds to &amp;#8216;heartbreaking&amp;#8217; GTA 6 leaks</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-26 12:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/" target="_blank">Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-26 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/ollama-granite-500x500-1787698921.jpg" alt="IBM&#x27;s new Granite 4.2 models ride the wave of interest in local LLMs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,29 +159,29 @@
                 <span class="time">2026-08-26 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/984869/ikea-xbox-yxstaby-collection-thumbstick-stool" target="_blank">Ikea’s Xbox collection includes a giant thumbstick stool</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-26 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a8e0d868d6075ca30d3eb17/master/pass/139813972" alt="A Mutation Is Making It Easier for Drug-Resistant Malaria to Spread" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/genetic-mutation-drug-resistant-malaria-spread/" target="_blank">A Mutation Is Making It Easier for Drug-Resistant Malaria to Spread</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-26 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vaibhav348/building-syncboard-pro-a-multi-tenant-agile-saas-platform-1l55" target="_blank">Building SyncBoard Pro — A Multi-Tenant Agile SaaS Platform</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-26 12:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/LibreOffice-26.8" target="_blank">LibreOffice 26.8 Released With Many Nice Improvements</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-26 11:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,29 +218,20 @@
                 <span class="time">2026-08-26 09:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/beyond-offset-lag-kafka-apache-hudi/en/headerimage/beyond-offset-lag-kafka-apache-hudi-header-1787577734265.jpg" alt="Article: Beyond Offset Lag: Computing Time in Queue for Apache Hudi Data Lake Pipelines at Petabyte Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/beyond-offset-lag-kafka-apache-hudi/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Beyond Offset Lag: Computing Time in Queue for Apache Hudi Data Lake Pipelines at Petabyte Scale</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-26 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://openstreetmap.us/news/2026/08/oim-charter-project/" target="_blank">Oldinsurancemaps.net is now a Charter Project</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-26 08:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/gta-statement-1280x720.jpg" alt="Rockstar Finally Breaks Its Silence Over The GTA 6 Leaks, Calls It ‘Heartbreaking’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/rockstar-gta-6-leaks-grand-theft-auto-cyberleek-official-statement-2000728341" target="_blank">Rockstar Finally Breaks Its Silence Over The GTA 6 Leaks, Calls It ‘Heartbreaking’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-26 11:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/price-e1787694185953.jpg" alt="Modern Warfare 4 Team Promises To Patch Captain ‘Just F*ck My Shit Up’ Price’s Hairline" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,15 +277,6 @@
                 <span class="time">2026-08-25 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/Surfshark-VPN-Starter-Plan.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Secure your connection wherever you browse for less than $3 a month" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/25/secure-your-connection-wherever-you-browse-for-less-than-3-a-month.html" target="_blank">Secure your connection wherever you browse for less than $3 a month</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-25 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -312,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 40 | 📸 With Images: 234 |
-        🔄 Last Updated: 11:18 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 40 | 📸 With Images: 234 |
+        🔄 Last Updated: 12:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
