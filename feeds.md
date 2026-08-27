@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-08-27 13:15:55 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-27 23:19:08 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 13 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, August 27, 2026 - 13:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, August 27, 2026 - 23:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/Nepal_Drone_Thumb_Site-3o0xl1.jpg" alt="Drone video shows aftermath of deadly floods in Nepal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/drone-video-shows-aftermath-of-deadly-floods-in-nepal-268960837563" target="_blank">Drone video shows aftermath of deadly floods in Nepal</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-27 19:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Nepal-flood-DB-260827_1787814447220_hpMain_4x3t_384.jpg" alt="At least 63 Americans missing in Nepal-Tibet floods, officials say amid rescue op" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,29 +88,38 @@
                 <span class="time">2026-08-27 01:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0e7/live/b8d38ff0-a159-11f1-b109-879e35c24276.jpg" alt="Nepalese authorities say 33 UK nationals missing after flash floods" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cnvlde5075no?at_medium=RSS&at_campaign=rss" target="_blank">Nepalese authorities say 33 UK nationals missing after flash floods</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-26 21:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/26/nx-s1-5940761/medicare-weight-loss-drugs" target="_blank">Drugstores say Medicare&#x27;s $50 obesity drug program is catching on</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-26 21:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/mhsdemo-500x500.png" alt="Anthropic&#x27;s new hardware standard lets AI agents control the physical world" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/" target="_blank">Anthropic&#x27;s new hardware standard lets AI agents control the physical world</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-27 22:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/985851/meta-privacy-loophole-fix-marketing-campaign" target="_blank">Meta addresses ‘pervert glasses’ reputation with a privacy fix and a new marketing campaign</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-27 21:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a907fb15033b3e1c94cf8ed/master/pass/5-Takeaways-GTA6-Gear-Jason_and_Lucia_Motel_landscape.jpg" alt="6 Takeaways From the GTA VI Extended Look" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/5-takeaways-from-the-gta-vi-extended-look/" target="_blank">6 Takeaways From the GTA VI Extended Look</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-27 21:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -133,38 +147,47 @@
                 <span class="time">2026-08-27 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a8f4ac850ea70630c0696a8/master/pass/2263984352" alt="How to See the Partial Lunar Eclipse and Blood Moon on August 27" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/how-to-view-august-2026-lunar-eclipse/" target="_blank">How to See the Partial Lunar Eclipse and Blood Moon on August 27</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-27 00:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/" target="_blank">Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-27 00:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/horrorTOP-500x500-1754745298.jpg" alt="RIP, Tim Curry: Ars remembers his top 10 iconic performances" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2026/08/rip-tim-curry-ars-remembers-his-top-10-iconic-performances/" target="_blank">RIP, Tim Curry: Ars remembers his top 10 iconic performances</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-26 22:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ianwieds/this-week-payments-in-the-framework-nine-brands-migrated-in-an-hour-and-the-start-of-a-video-3a6p" target="_blank">This week: payments in the framework, nine brands migrated in an hour, and the start of a video pipeline</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-27 22:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Linux-SAR-Driver-Orphaned" target="_blank">Intel Linux Driver Orphaned For Limiting RF Exposure To Humans</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-27 21:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.cloudflare.com/dns-cache-memory-optimization-1111/" target="_blank">Saving 100 terabytes of memory by optimizing 1.1.1.1&#x27;s DNS cache</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-27 17:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/08/spring-news-roundup-aug17-2026/en/headerimage/spring-news-roundup-image-1787845727439.jpg" alt="Spring News Roundup: First Milestone Releases for Boot, Framework, Data, Security, Modulith, Batch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/08/spring-news-roundup-aug17-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Spring News Roundup: First Milestone Releases for Boot, Framework, Data, Security, Modulith, Batch</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-27 15:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -181,42 +204,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/08/astro-satteri-rust/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Astro Introduces Sätteri: A Rust-powered Markdown And Mdx Processor With Up To 60% Faster Builds</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-08-27 12:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hoangvibecode/building-a-client-side-binary-to-decimal-converter-with-interactive-mathematical-breakdown-5g6e" target="_blank">Building a Client-Side Binary to Decimal Converter with Interactive Mathematical Breakdown</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-27 02:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8" target="_blank">Nvidia agrees to acquire Hugging Face for $13B</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-27 01:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Asahi-Linux-M3-Release-Soon" target="_blank">Asahi Linux Hopes To Ship A Release Soon With Apple M3 Device Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-27 00:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/" target="_blank">GitHub Copilot app for Beginners: Automate Dependabot pull request triage</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-08-26 20:12</span>
             </div>
         </div>
 </div>
@@ -248,6 +235,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/Untitled-1_0004_VS-Netflix-Netflix-624-1-1280x720.jpg" alt="Jason And Lucia’s Fridge Is Full Of Little Details That Are Driving Me Crazy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/jason-and-lucias-fridge-is-full-of-little-details-that-are-driving-me-crazy-2000729008" target="_blank">Jason And Lucia’s Fridge Is Full Of Little Details That Are Driving Me Crazy</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-27 22:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/1799TEASER1200-magas-5-right-chrismas.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Tom the Dancing Bug: The MAGAs are dreaming of a Right Wing Christmas" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/27/tom-the-dancing-bug-the-magas-are-dreaming-of-a-right-wing-christmas.html" target="_blank">Tom the Dancing Bug: The MAGAs are dreaming of a Right Wing Christmas</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-27 21:20</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/john-big-walk-15-1280x720.jpg" alt="I Spent Hours Tracking Down Big Walk’s Mysterious Flying Folk Hero To Learn His Secret" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -274,24 +279,6 @@
                 <span class="time">2026-08-26 23:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/sora1.jpg" alt="Oh No, Disney Is Paying Attention To Kingdom Hearts Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/kingdom-hearts-4-disney-plus-animated-series-square-enix-2000728552" target="_blank">Oh No, Disney Is Paying Attention To Kingdom Hearts Now</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-26 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/fountain-pen-cliff-stoll-def-con-featured.jpg?fit=1200%2C821&amp;quality=60&amp;ssl=1" alt="Cliff Stoll revisits the 75-cent glitch that caught KGB hackers, 40 years later" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/26/fountain-pen-cliff-stoll-def-con.html" target="_blank">Cliff Stoll revisits the 75-cent glitch that caught KGB hackers, 40 years later</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-26 17:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -306,40 +293,13 @@
                 <span class="time">2026-08-27 01:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/08/26/great-chairs-at-a-great-price" target="_blank">Great Chairs At A Great Price</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-08-26 18:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-pencil"></span>
-                <span class="title"><a href="https://poorlydrawnlines.com/comic/just-one-problem/" target="_blank">Just One Problem</a></span>
-                <span class="feed">Poorly Drawn Lines</span>
-                <span class="time">2026-08-26 17:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1787609283-20260826.png" alt="Saturday Morning Breakfast Cereal - Psy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/psy" target="_blank">Saturday Morning Breakfast Cereal - Psy</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-08-26 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 57 | 📡 Total Sources: 40 | 📸 With Images: 238 |
-        🔄 Last Updated: 13:16 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 32 | 📡 Total Sources: 40 | 📸 With Images: 241 |
+        🔄 Last Updated: 23:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
