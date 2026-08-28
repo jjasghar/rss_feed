@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-08-28 07:27:57 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-28 19:43:39 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 24 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 15 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, August 28, 2026 - 07:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, August 28, 2026 - 19:43 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +45,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d541/live/c766ada0-a2ed-11f1-a789-b16da4059b6b.jpg" alt="Norway mourns King Harald as Haakon VIII ascends throne" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss" target="_blank">Norway mourns King Harald as Haakon VIII ascends throne</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-28 19:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/28/nx-s1-5947854/us-iran-war" target="_blank">After 6 months of war, Iran&#x27;s battered regime remains entrenched</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-28 19:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/28/police-fire-teargas-at-kenyan-traders-protesting-higher-taxes-on-imports?traffic_source=rss" target="_blank">Police fire teargas at Kenyan traders protesting higher taxes on imports</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-28 19:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/artanddesign/2026/aug/28/egyptian-queen-diamond-necklace-stolen-vienna-raid" target="_blank">Egyptian queen’s 673-diamond necklace stolen in Vienna smash-and-grab raid</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-08-28 14:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -61,47 +99,29 @@
                 <span class="time">2026-08-28 06:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/technology/2026/aug/28/meta-facebook-us-lawsuit-settlement-world-impact" target="_blank">What could Meta’s US settlement mean around the world – and what now for other claims against firm?</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-08-28 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1787873017315_nn_jmf_NepalFloods_260827_S3_1920x1080-wlvmir.jpg" alt="Americans missing in deadly flood disaster" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/americans-missing-in-deadly-flood-disaster-268980805814" target="_blank">Americans missing in deadly flood disaster</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-27 23:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/Nepal_Drone_Thumb_Site-3o0xl1.jpg" alt="Drone video shows aftermath of deadly floods in Nepal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/drone-video-shows-aftermath-of-deadly-floods-in-nepal-268960837563" target="_blank">Drone video shows aftermath of deadly floods in Nepal</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-27 19:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Nepal-flood-DB-260827_1787814447220_hpMain_4x3t_384.jpg" alt="At least 63 Americans missing in Nepal-Tibet floods, officials say amid rescue op" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/nepal-tibet-flood-deaths-rise-168-amid-search/story?id=135996529" target="_blank">At least 63 Americans missing in Nepal-Tibet floods, officials say amid rescue op</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-27 13:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a909d8a06c510ef6758e71c/master/pass/Made-In-China-Microsoft-Teams-Hidden-Scams-Business.jpg" alt="Microsoft Teams Has Become a Haven for Scammers in China" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/microsoft-teams-is-becoming-a-haven-for-chinese-scammers/" target="_blank">Microsoft Teams Has Become a Haven for Scammers in China</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-28 18:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/985741/tcl-qm7l-belkin-thunderbolt-dock-deal-sale" target="_blank">Save hundreds on a TCL mini-LED TV with quantum dots and high refresh rate</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-28 17:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" alt="Uber Eats Promo Codes: $15 Off │September 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,29 +158,47 @@
                 <span class="time">2026-08-27 21:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a907fb15033b3e1c94cf8ed/master/pass/5-Takeaways-GTA6-Gear-Jason_and_Lucia_Motel_landscape.jpg" alt="6 Takeaways From the GTA VI Extended Look" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/5-takeaways-from-the-gta-vi-extended-look/" target="_blank">6 Takeaways From the GTA VI Extended Look</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-27 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/985500/plaud-one-earbuds-ai-recorder-price-availability" target="_blank">Plaud is launching AI earbuds</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-27 13:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/arham_ahmed_63699c0d1def9/transformers-understanding-the-architecture-behind-modern-ai-537d" target="_blank">Transformers: Understanding the Architecture Behind Modern AI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-28 19:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://github.com/openai/openai-python/blob/main/httpx2.md" target="_blank">OpenAI Is Migrating to HTTPX2</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-08-28 17:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html" target="_blank">GUIs should be fully keyboard-driven</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-28 15:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/ai-harnesses-for-telco-autonomous-networks" target="_blank">AI harnesses for telco autonomous networks</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-08-28 08:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -179,70 +217,29 @@
                 <span class="time">2026-08-28 07:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-august-28-2026-red-hat" target="_blank">Friday Five — August 28, 2026</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2026-08-28 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ianwieds/this-week-payments-in-the-framework-nine-brands-migrated-in-an-hour-and-the-start-of-a-video-3a6p" target="_blank">This week: payments in the framework, nine brands migrated in an hour, and the start of a video pipeline</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-27 22:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Linux-SAR-Driver-Orphaned" target="_blank">Intel Linux Driver Orphaned For Limiting RF Exposure To Humans</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-27 21:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.cloudflare.com/dns-cache-memory-optimization-1111/" target="_blank">Saving 100 terabytes of memory by optimizing 1.1.1.1&#x27;s DNS cache</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-27 17:17</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/" target="_blank">Two Alleged ‘TeamPCP’ Hackers Arrested in Australia</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2026-08-27 11:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/08/llm-based-social-engineering-scams.html" target="_blank">LLM-Based Social Engineering Scams</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-08-27 09:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/GTa-6-stealing-1280x720.jpg" alt="For The First Time In 25+ Years, GTA 6 Will Make Stealing Cars Hard" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/for-the-first-time-in-25-years-gta-6-will-make-stealing-cars-hard-2000729419" target="_blank">For The First Time In 25+ Years, GTA 6 Will Make Stealing Cars Hard</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-28 19:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M14NZ8RRXWXZV7AWKZXN0V11/hero-image.jpg" alt="The Best Fitness Deals From Amazon&#x27;s Early Labor Day Sale so Far" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/the-best-fitness-deals-from-amazons-early-labor-day-sale?utm_medium=RSS" target="_blank">The Best Fitness Deals From Amazon&#x27;s Early Labor Day Sale so Far</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-28 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,13 +267,18 @@
                 <span class="time">2026-08-27 21:20</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section webcomics-section" id="webcomics">
+<h2 class="section-header">🎨 Daily Comics</h2>
+<div class="stories-container">
 <div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/john-big-walk-15-1280x720.jpg" alt="I Spent Hours Tracking Down Big Walk’s Mysterious Flying Folk Hero To Learn His Secret" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://imgs.xkcd.com/comics/launchpad.png" alt="Launchpad" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/i-went-flying-with-big-walk-folk-hero-john-bigwalk-2000728371" target="_blank">I Spent Hours Tracking Down Big Walk’s Mysterious Flying Folk Hero To Learn His Secret</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-27 12:00</span>
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3291/" target="_blank">Launchpad</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-08-28 04:00</span>
             </div>
         </div>
 </div>
@@ -284,8 +286,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 31 | 📡 Total Sources: 40 | 📸 With Images: 242 |
-        🔄 Last Updated: 07:28 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 31 | 📡 Total Sources: 40 | 📸 With Images: 240 |
+        🔄 Last Updated: 19:43 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
