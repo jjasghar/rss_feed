@@ -1,29 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-08-29 09:30:04 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-08-29 14:45:41 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 20 feeds processed -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, August 29, 2026 - 09:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, August 29, 2026 - 14:45 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,9 +51,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/29/people-stranded-for-days-on-dilapidated-nigerian-highway?traffic_source=rss" target="_blank">People stranded for days on dilapidated Nigerian highway</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-29 14:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/dog_good-lgoijj.jpg" alt="Deaf dog is reunited with her owner after the devastating floods in Nepal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/deaf-dog-is-reunited-with-her-owner-after-the-devastating-floods-in-nepal-269051461734" target="_blank">Deaf dog is reunited with her owner after the devastating floods in Nepal</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-29 12:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/29/us-revokes-visa-of-former-iraqi-minister-after-watchlist-listing?traffic_source=rss" target="_blank">US revokes visa of former Iraqi minister after watchlist listing</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-29 09:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d37/live/67a7cd10-a2fa-11f1-8d5b-155abe464768.jpg" alt="Footage of Tibet floods isn&#x27;t being shown in China - and we know little about victims there" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss" target="_blank">Footage of Tibet floods isn&#x27;t being shown in China - and we know little about victims there</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-29 03:54</span>
             </div>
         </div>
 <div class="story">
@@ -66,38 +101,20 @@
                 <span class="time">2026-08-29 02:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/29/tuareg-rebels-free-more-malian-soldiers-in-prisoner-swap-sources-say?traffic_source=rss" target="_blank">Tuareg rebels free more Malian soldiers in prisoner swap, sources say</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-29 01:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/anjana-raja-01-abc-jt-260828_1787952863968_hpMain_4x3t_384.jpg" alt="&#x27;It stood like a serpent&#x27;: American who survived deadly Nepal flood tells her story" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/stood-serpent-staring-us-american-survived-deadly-nepal/story?id=136030121" target="_blank">&#x27;It stood like a serpent&#x27;: American who survived deadly Nepal flood tells her story</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-28 23:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d541/live/c766ada0-a2ed-11f1-a789-b16da4059b6b.jpg" alt="Norway mourns King Harald as Haakon VIII ascends throne" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss" target="_blank">Norway mourns King Harald as Haakon VIII ascends throne</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-28 19:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/personaldata-500x500.jpg" alt="I asked 100 companies for my data. Some deleted it instead." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/" target="_blank">I asked 100 companies for my data. Some deleted it instead.</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-29 10:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a919be132e307274e3f30e1/master/pass/1398820822" alt="Psilocybin Might Make Your Brain Live in the Moment" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,20 +160,38 @@
                 <span class="time">2026-08-28 18:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/985741/tcl-qm7l-belkin-thunderbolt-dock-deal-sale" target="_blank">Save hundreds on a TCL mini-LED TV with quantum dots and high refresh rate</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-28 17:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dannydoes_2abdf9c/tvl-trend-analysis-liquidity-risk-assessment-lido-1d21" target="_blank">TVL Trend Analysis &amp; Liquidity Risk Assessment: Lido</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-29 14:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/ReactOS-0.4.16-Released" target="_blank">ReactOS 0.4.16 Released With New Graphical Installer, Better Hardware Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-29 12:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/enterprise-data-architecture-ai-agents/en/mediumimage/fabiane-nardon-medium-1787218382028.jpeg" alt="Presentation: Architecting the Data Layer for AI Agents: From Transactional Systems to MCP and Semantic Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/enterprise-data-architecture-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Architecting the Data Layer for AI Agents: From Transactional Systems to MCP and Semantic Models</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-29 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -184,38 +219,20 @@
                 <span class="time">2026-08-28 22:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/arham_ahmed_63699c0d1def9/transformers-understanding-the-architecture-behind-modern-ai-537d" target="_blank">Transformers: Understanding the Architecture Behind Modern AI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-28 19:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://github.com/openai/openai-python/blob/main/httpx2.md" target="_blank">OpenAI Is Migrating to HTTPX2</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-08-28 17:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html" target="_blank">GUIs should be fully keyboard-driven</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-28 15:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/asha-sharma-xbox-1280x723.jpg" alt="Xbox Calls Next-Gen Project Helix A ‘Family Of Devices,’ But Isn’t Ready To Say If Elder Scrolls 6 Will Be Exclusive" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/xbox-calls-next-gen-project-helix-a-family-of-devices-but-isnt-ready-to-say-if-elder-scrolls-6-will-be-exclusive-2000729562" target="_blank">Xbox Calls Next-Gen Project Helix A ‘Family Of Devices,’ But Isn’t Ready To Say If Elder Scrolls 6 Will Be Exclusive</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-29 13:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/VS-YouTube-ThePrairieSandwichBoxMealADArbysGrandtheftAutoVI-YouTube-015.jpg" alt="Rockstar Is Using One Of Its Old Tricks To Create GTA 6 TV Shows" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 29 | 📡 Total Sources: 40 | 📸 With Images: 244 |
-        🔄 Last Updated: 09:30 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 35 | 📡 Total Sources: 40 | 📸 With Images: 244 |
+        🔄 Last Updated: 14:45 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
