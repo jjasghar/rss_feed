@@ -1,38 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-08-29 02:33:03 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-08-29 09:30:04 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 14 new posts out of 30 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 9 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Saturday, August 29, 2026 - 02:33 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, August 29, 2026 - 09:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +39,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/29/us-revokes-visa-of-former-iraqi-minister-after-watchlist-listing?traffic_source=rss" target="_blank">US revokes visa of former Iraqi minister after watchlist listing</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-29 09:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-venezuela-oil-refinery_7334261.jpg?20260829042638" alt="Trump says US is taking partial control of Venezuela&#x27;s vast oil reserves" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/trump-says-us-is-taking-partial-control-of-venezuelas-vast-oil-reserves-13578423" target="_blank">Trump says US is taking partial control of Venezuela&#x27;s vast oil reserves</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-08-29 02:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -67,6 +76,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/International/anjana-raja-01-abc-jt-260828_1787952863968_hpMain_4x3t_384.jpg" alt="&#x27;It stood like a serpent&#x27;: American who survived deadly Nepal flood tells her story" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/stood-serpent-staring-us-american-survived-deadly-nepal/story?id=136030121" target="_blank">&#x27;It stood like a serpent&#x27;: American who survived deadly Nepal flood tells her story</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-28 23:58</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d541/live/c766ada0-a2ed-11f1-a789-b16da4059b6b.jpg" alt="Norway mourns King Harald as Haakon VIII ascends throne" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -75,38 +93,29 @@
                 <span class="time">2026-08-28 19:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/28/nx-s1-5947854/us-iran-war" target="_blank">After 6 months of war, Iran&#x27;s battered regime remains entrenched</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-28 19:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/28/police-fire-teargas-at-kenyan-traders-protesting-higher-taxes-on-imports?traffic_source=rss" target="_blank">Police fire teargas at Kenyan traders protesting higher taxes on imports</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-28 19:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/artanddesign/2026/aug/28/egyptian-queen-diamond-necklace-stolen-vienna-raid" target="_blank">Egyptian queen’s 673-diamond necklace stolen in Vienna smash-and-grab raid</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-08-28 14:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a919be132e307274e3f30e1/master/pass/1398820822" alt="Psilocybin Might Make Your Brain Live in the Moment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/psilocybin-might-make-your-brain-live-in-the-moment/" target="_blank">Psilocybin Might Make Your Brain Live in the Moment</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-29 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand" target="_blank">Google further buries search results under AI mode</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-28 22:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a9205e11fef496705b5c9f7/master/pass/Jensen-Took-Call-From-Trump-Business-2212801537.jpg" alt="Nvidia CEO Jensen Huang Took a Call From Donald Trump in the Middle of an All-Hands" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,29 +152,20 @@
                 <span class="time">2026-08-28 17:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" alt="Uber Eats Promo Codes: $15 Off │September 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/uber-eats-promo-code/" target="_blank">Uber Eats Promo Codes: $15 Off │September 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-28 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling" target="_blank">Anthropic was illegally blacklisted by the Trump administration, court rules</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-28 03:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing" target="_blank">Samsung&#x27;s Processing-in-Memory (PIM)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-29 06:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +211,6 @@
                 <span class="time">2026-08-28 15:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Uber Builds GitFarm to Run Git Operations as a Service for Large-Scale Monorepos" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/08/uber-gitfarm-git-as-a-service/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Uber Builds GitFarm to Run Git Operations as a Service for Large-Scale Monorepos</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-28 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -232,6 +223,15 @@
                 <span class="title"><a href="https://kotaku.com/rockstar-is-using-one-of-its-old-tricks-to-create-gta-6-tv-shows-2000729503" target="_blank">Rockstar Is Using One Of Its Old Tricks To Create GTA 6 TV Shows</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-08-28 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/1fc52210-a320-11f1-b109-879e35c24276.jpg.webp?fit=1536%2C864&amp;quality=55&amp;ssl=1" alt="Far-right pro-Trump ex-gay still-British commentator Milo Yiannopoulos detained by ICE" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/28/far-right-pro-trump-ex-gay-still-british-commentator-milo-yiannopoulous-detained-by-ice.html" target="_blank">Far-right pro-Trump ex-gay still-British commentator Milo Yiannopoulos detained by ICE</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-28 22:53</span>
             </div>
         </div>
 <div class="story">
@@ -275,22 +275,13 @@
                 <span class="time">2026-08-28 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/launchpad.png" alt="Launchpad" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3291/" target="_blank">Launchpad</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-08-28 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 30 | 📡 Total Sources: 40 | 📸 With Images: 242 |
-        🔄 Last Updated: 02:33 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 29 | 📡 Total Sources: 40 | 📸 With Images: 244 |
+        🔄 Last Updated: 09:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
