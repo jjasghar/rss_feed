@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-08-28 19:43:39 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-08-29 02:33:03 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 15 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 14 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, August 28, 2026 - 19:43 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Saturday, August 29, 2026 - 02:33 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/28/nx-s1-5948229/trump-says-u-s-has-entered-deal-with-venezuela-to-take-control-of-65-billion-barrels-of-oil-reserves" target="_blank">Trump says U.S. has entered deal with Venezuela to take control of 65 billion barrels of oil reserves</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-29 02:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/29/tuareg-rebels-free-more-malian-soldiers-in-prisoner-swap-sources-say?traffic_source=rss" target="_blank">Tuareg rebels free more Malian soldiers in prisoner swap, sources say</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-29 01:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d541/live/c766ada0-a2ed-11f1-a789-b16da4059b6b.jpg" alt="Norway mourns King Harald as Haakon VIII ascends throne" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,29 +102,29 @@
                 <span class="time">2026-08-28 14:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/28/nx-s1-5947778/norways-king-harald-v-dies-king-haakon-viii" target="_blank">Norway&#x27;s King Harald V dies at 89 and his son becomes King Haakon VIII</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-28 07:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b974/live/0dead5b0-a2aa-11f1-ab20-f9f4f61e8913.jpg" alt="Families fly to Nepal in search for 33 missing British nationals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c93v70w79gxo?at_medium=RSS&at_campaign=rss" target="_blank">Families fly to Nepal in search for 33 missing British nationals</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-28 06:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a9205e11fef496705b5c9f7/master/pass/Jensen-Took-Call-From-Trump-Business-2212801537.jpg" alt="Nvidia CEO Jensen Huang Took a Call From Donald Trump in the Middle of an All-Hands" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/nvidia-ceo-jensen-huang-took-a-call-from-donald-trump-in-the-middle-of-an-all-hands/" target="_blank">Nvidia CEO Jensen Huang Took a Call From Donald Trump in the Middle of an All-Hands</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-28 22:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/kalshi-ad-500x500-1783536860.jpg" alt="Court rules Kalshi sports bets aren&#x27;t &quot;swaps,&quot; just gambling with a different name" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/08/kalshi-cant-evade-nevada-gambling-laws-by-calling-bets-swaps-court-rules/" target="_blank">Court rules Kalshi sports bets aren&#x27;t &quot;swaps,&quot; just gambling with a different name</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-08-28 22:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a909d8a06c510ef6758e71c/master/pass/Made-In-China-Microsoft-Teams-Hidden-Scams-Business.jpg" alt="Microsoft Teams Has Become a Haven for Scammers in China" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,29 +161,29 @@
                 <span class="time">2026-08-28 03:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/mhsdemo-500x500.png" alt="Anthropic&#x27;s new hardware standard lets AI agents control the physical world" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/" target="_blank">Anthropic&#x27;s new hardware standard lets AI agents control the physical world</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-27 22:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/985851/meta-privacy-loophole-fix-marketing-campaign" target="_blank">Meta addresses ‘pervert glasses’ reputation with a privacy fix and a new marketing campaign</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-27 21:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use" target="_blank">Debian Votes To Allow &quot;Responsible Use Of Generative AI&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-29 00:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/12/calibre-ebook-manager-app.jpg?resize=406%2C232&amp;ssl=1" alt="Calibre ebook manager lets you generate AI book covers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/calibre-ebook-ai-covers" target="_blank">Calibre ebook manager lets you generate AI book covers</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-08-28 22:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -191,30 +212,12 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/ai-harnesses-for-telco-autonomous-networks" target="_blank">AI harnesses for telco autonomous networks</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-08-28 08:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/08/28/when-you-keep-ai-lean-you-keep-ai-correct/" target="_blank">When you keep AI Lean, you keep AI correct</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-08-28 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Audio Fingerprinting Discovered on Alibaba Websites While Debugging BLE Multipoint Disconnects" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Uber Builds GitFarm to Run Git Operations as a Service for Large-Scale Monorepos" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/08/alibaba-audio-fingerprinting/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Audio Fingerprinting Discovered on Alibaba Websites While Debugging BLE Multipoint Disconnects</a></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/08/uber-gitfarm-git-as-a-service/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Uber Builds GitFarm to Run Git Operations as a Service for Large-Scale Monorepos</a></span>
                 <span class="feed">InfoQ</span>
-                <span class="time">2026-08-28 07:07</span>
+                <span class="time">2026-08-28 14:30</span>
             </div>
         </div>
 </div>
@@ -222,6 +225,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/VS-YouTube-ThePrairieSandwichBoxMealADArbysGrandtheftAutoVI-YouTube-015.jpg" alt="Rockstar Is Using One Of Its Old Tricks To Create GTA 6 TV Shows" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/rockstar-is-using-one-of-its-old-tricks-to-create-gta-6-tv-shows-2000729503" target="_blank">Rockstar Is Using One Of Its Old Tricks To Create GTA 6 TV Shows</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-28 23:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/GTa-6-stealing-1280x720.jpg" alt="For The First Time In 25+ Years, GTA 6 Will Make Stealing Cars Hard" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -240,38 +252,29 @@
                 <span class="time">2026-08-28 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-27 23:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/Untitled-1_0004_VS-Netflix-Netflix-624-1-1280x720.jpg" alt="Jason And Lucia’s Fridge Is Full Of Little Details That Are Driving Me Crazy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/jason-and-lucias-fridge-is-full-of-little-details-that-are-driving-me-crazy-2000729008" target="_blank">Jason And Lucia’s Fridge Is Full Of Little Details That Are Driving Me Crazy</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-27 22:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/1799TEASER1200-magas-5-right-chrismas.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Tom the Dancing Bug: The MAGAs are dreaming of a Right Wing Christmas" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/27/tom-the-dancing-bug-the-magas-are-dreaming-of-a-right-wing-christmas.html" target="_blank">Tom the Dancing Bug: The MAGAs are dreaming of a Right Wing Christmas</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-27 21:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/08/28/sheath-ledger" target="_blank">Sheath Ledger</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-08-28 16:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1787776651-20260828.png" alt="Saturday Morning Breakfast Cereal - Experience" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/experience-7" target="_blank">Saturday Morning Breakfast Cereal - Experience</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-08-28 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://imgs.xkcd.com/comics/launchpad.png" alt="Launchpad" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,8 +289,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 31 | 📡 Total Sources: 40 | 📸 With Images: 240 |
-        🔄 Last Updated: 19:43 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 30 | 📡 Total Sources: 40 | 📸 With Images: 242 |
+        🔄 Last Updated: 02:33 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
