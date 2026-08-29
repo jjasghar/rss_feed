@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-08-29 17:58:57 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-29 20:26:23 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Saturday, August 29, 2026 - 17:59 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Saturday, August 29, 2026 - 20:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +52,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/8/29/can-international-diplomacy-find-a-way-forward-in-libya?traffic_source=rss" target="_blank">Can international diplomacy find a way forward in Libya?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-29 20:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-army-arrests-six-palestinians-after-settler-violence-in-west-bank?traffic_source=rss" target="_blank">Israeli army arrests six Palestinians after settler violence in West Bank</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-29 17:09</span>
@@ -60,6 +73,15 @@
                 <span class="title"><a href="https://www.npr.org/2026/08/29/nx-s1-5948714/russian-strike-kyiv" target="_blank">Russian strike near Kyiv kills 37, in one of the year&#x27;s deadliest attacks</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-08-29 15:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ec8/live/5cdf5720-a383-11f1-b109-879e35c24276.png" alt="Christian festival &#x27;devastated&#x27; after man&#x27;s death" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss" target="_blank">Christian festival &#x27;devastated&#x27; after man&#x27;s death</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-29 14:12</span>
             </div>
         </div>
 <div class="story">
@@ -80,29 +102,20 @@
                 <span class="time">2026-08-29 12:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/29/us-revokes-visa-of-former-iraqi-minister-after-watchlist-listing?traffic_source=rss" target="_blank">US revokes visa of former Iraqi minister after watchlist listing</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-29 09:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d37/live/67a7cd10-a2fa-11f1-8d5b-155abe464768.jpg" alt="Footage of Tibet floods isn&#x27;t being shown in China - and we know little about victims there" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss" target="_blank">Footage of Tibet floods isn&#x27;t being shown in China - and we know little about victims there</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-29 03:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/" target="_blank">Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-29 18:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +161,29 @@
                 <span class="time">2026-08-28 22:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a9205e11fef496705b5c9f7/master/pass/Jensen-Took-Call-From-Trump-Business-2212801537.jpg" alt="Nvidia CEO Jensen Huang Took a Call From Donald Trump in the Middle of an All-Hands" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/nvidia-ceo-jensen-huang-took-a-call-from-donald-trump-in-the-middle-of-an-all-hands/" target="_blank">Nvidia CEO Jensen Huang Took a Call From Donald Trump in the Middle of an All-Hands</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-28 22:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nyxagi/build-an-xrpl-token-screener-in-about-50-lines-1n38" target="_blank">Build an XRPL Token Screener in About 50 Lines</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-29 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/FreeBSD-14.5-RC1" target="_blank">FreeBSD 14.5-RC1 Released With Several Security Fixes</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-29 19:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,24 +220,6 @@
                 <span class="time">2026-08-29 06:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use" target="_blank">Debian Votes To Allow &quot;Responsible Use Of Generative AI&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-29 00:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/12/calibre-ebook-manager-app.jpg?resize=406%2C232&amp;ssl=1" alt="Calibre ebook manager lets you generate AI book covers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/calibre-ebook-ai-covers" target="_blank">Calibre ebook manager lets you generate AI book covers</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-08-28 22:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/BeavisandButtHeadDoTheUniverse.jpg" alt="Mike Judge Is Taking Beavis And Butt-Head Back From Paramount" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/mike-judge-to-take-beavis-and-butt-head-back-from-paramount-2000729591" target="_blank">Mike Judge Is Taking Beavis And Butt-Head Back From Paramount</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-29 18:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/james-pond-1.jpg" alt="James Pond Co-Creator Calls AI-Rife Remake Disrespectful And Soulless" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,13 +293,18 @@
                 <span class="time">2026-08-28 22:53</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section webcomics-section" id="webcomics">
+<h2 class="section-header">🎨 Daily Comics</h2>
+<div class="stories-container">
 <div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/GTa-6-stealing-1280x720.jpg" alt="For The First Time In 25+ Years, GTA 6 Will Make Stealing Cars Hard" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1787948076-20260829.png" alt="Saturday Morning Breakfast Cereal - Echo" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/for-the-first-time-in-25-years-gta-6-will-make-stealing-cars-hard-2000729419" target="_blank">For The First Time In 25+ Years, GTA 6 Will Make Stealing Cars Hard</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-28 19:31</span>
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/echo" target="_blank">Saturday Morning Breakfast Cereal - Echo</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-08-29 15:20</span>
             </div>
         </div>
 </div>
@@ -294,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 36 | 📡 Total Sources: 40 | 📸 With Images: 241 |
-        🔄 Last Updated: 17:59 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 36 | 📡 Total Sources: 40 | 📸 With Images: 241 |
+        🔄 Last Updated: 20:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
