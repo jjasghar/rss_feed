@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-08-29 14:45:41 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-08-29 17:58:57 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, August 29, 2026 - 14:45 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Saturday, August 29, 2026 - 17:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-army-arrests-six-palestinians-after-settler-violence-in-west-bank?traffic_source=rss" target="_blank">Israeli army arrests six Palestinians after settler violence in West Bank</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-29 17:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/29/nx-s1-5948714/russian-strike-kyiv" target="_blank">Russian strike near Kyiv kills 37, in one of the year&#x27;s deadliest attacks</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-29 15:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +98,29 @@
                 <span class="time">2026-08-29 03:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-venezuela-oil-refinery_7334261.jpg?20260829042638" alt="Trump says US is taking partial control of Venezuela&#x27;s vast oil reserves" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trump-says-us-is-taking-partial-control-of-venezuelas-vast-oil-reserves-13578423" target="_blank">Trump says US is taking partial control of Venezuela&#x27;s vast oil reserves</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-08-29 02:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/28/nx-s1-5948229/trump-says-u-s-has-entered-deal-with-venezuela-to-take-control-of-65-billion-barrels-of-oil-reserves" target="_blank">Trump says U.S. has entered deal with Venezuela to take control of 65 billion barrels of oil reserves</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-29 02:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/986427/distraction-free-writing-gadget-byok-scripts-extensions" target="_blank">Distraction-free writing gadget BYOK is adding custom extensions</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-29 16:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a925150bb3a85e785f50cc3/master/pass/Review--Soundcore-Liberty-5-Pro.jpg" alt="Soundcore Liberty 5 Pro Review: Master of Phone Calls" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/soundcore-liberty-5-pro/" target="_blank">Soundcore Liberty 5 Pro Review: Master of Phone Calls</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-29 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/personaldata-500x500.jpg" alt="I asked 100 companies for my data. Some deleted it instead." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,24 +155,6 @@
                 <span class="title"><a href="https://www.wired.com/story/nvidia-ceo-jensen-huang-took-a-call-from-donald-trump-in-the-middle-of-an-all-hands/" target="_blank">Nvidia CEO Jensen Huang Took a Call From Donald Trump in the Middle of an All-Hands</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-08-28 22:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/kalshi-ad-500x500-1783536860.jpg" alt="Court rules Kalshi sports bets aren&#x27;t &quot;swaps,&quot; just gambling with a different name" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/08/kalshi-cant-evade-nevada-gambling-laws-by-calling-bets-swaps-court-rules/" target="_blank">Court rules Kalshi sports bets aren&#x27;t &quot;swaps,&quot; just gambling with a different name</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-28 22:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a909d8a06c510ef6758e71c/master/pass/Made-In-China-Microsoft-Teams-Hidden-Scams-Business.jpg" alt="Microsoft Teams Has Become a Haven for Scammers in China" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/microsoft-teams-is-becoming-a-haven-for-chinese-scammers/" target="_blank">Microsoft Teams Has Become a Haven for Scammers in China</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-28 18:23</span>
             </div>
         </div>
 </div>
@@ -221,9 +218,41 @@
         </div>
 </div>
 </div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-truckload-of-squid-spills-in-rhode-island.html" target="_blank">Friday Squid Blogging: Truckload of Squid Spills in Rhode Island</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-08-28 21:02</span>
+            </div>
+        </div>
+</div>
+</div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/james-pond-1.jpg" alt="James Pond Co-Creator Calls AI-Rife Remake Disrespectful And Soulless" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/james-pond-co-creator-calls-ai-rife-remake-disrespectful-and-soulless-2000729581" target="_blank">James Pond Co-Creator Calls AI-Rife Remake Disrespectful And Soulless</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-29 17:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KZY3X2EBTRDJGZR4ETEYWCBP/hero-image.png" alt="There’s Not Much Time Left to Win a New Apple Watch From Lifehacker" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/big-guessing-game-apple-edition-round-3?utm_medium=RSS" target="_blank">There’s Not Much Time Left to Win a New Apple Watch From Lifehacker</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-08-29 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/asha-sharma-xbox-1280x723.jpg" alt="Xbox Calls Next-Gen Project Helix A ‘Family Of Devices,’ But Isn’t Ready To Say If Elder Scrolls 6 Will Be Exclusive" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -260,45 +289,13 @@
                 <span class="time">2026-08-28 19:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M14NZ8RRXWXZV7AWKZXN0V11/hero-image.jpg" alt="The Best Fitness Deals From Amazon&#x27;s Early Labor Day Sale so Far" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/the-best-fitness-deals-from-amazons-early-labor-day-sale?utm_medium=RSS" target="_blank">The Best Fitness Deals From Amazon&#x27;s Early Labor Day Sale so Far</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-28 18:00</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section webcomics-section" id="webcomics">
-<h2 class="section-header">🎨 Daily Comics</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/08/28/sheath-ledger" target="_blank">Sheath Ledger</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-08-28 16:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1787776651-20260828.png" alt="Saturday Morning Breakfast Cereal - Experience" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/experience-7" target="_blank">Saturday Morning Breakfast Cereal - Experience</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-08-28 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 35 | 📡 Total Sources: 40 | 📸 With Images: 244 |
-        🔄 Last Updated: 14:45 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 36 | 📡 Total Sources: 40 | 📸 With Images: 241 |
+        🔄 Last Updated: 17:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
