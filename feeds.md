@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-08-29 20:26:23 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-29 22:53:24 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Saturday, August 29, 2026 - 20:26 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, August 29, 2026 - 22:53 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,9 +47,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/29/anger-mounts-in-nepal-over-the-governments-response-to-flash-flood?traffic_source=rss" target="_blank">Anger mounts in Nepal over the government’s response to flash flood</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-29 20:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/8/29/can-international-diplomacy-find-a-way-forward-in-libya?traffic_source=rss" target="_blank">Can international diplomacy find a way forward in Libya?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-29 20:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/nepal-destruction-01-ap-jt-260829_1788019102009_hpMain_4x3t_384.jpg" alt="Nepal death toll rises from massive flood as thousands still missing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/hundreds-dead-1000-remain-missing-massive-nepal-tibet/story?id=136022919" target="_blank">Nepal death toll rises from massive flood as thousands still missing</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-29 19:58</span>
             </div>
         </div>
 <div class="story">
@@ -84,29 +97,20 @@
                 <span class="time">2026-08-29 14:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/29/people-stranded-for-days-on-dilapidated-nigerian-highway?traffic_source=rss" target="_blank">People stranded for days on dilapidated Nigerian highway</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-29 14:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/dog_good-lgoijj.jpg" alt="Deaf dog is reunited with her owner after the devastating floods in Nepal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/deaf-dog-is-reunited-with-her-owner-after-the-devastating-floods-in-nepal-269051461734" target="_blank">Deaf dog is reunited with her owner after the devastating floods in Nepal</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-29 12:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale" target="_blank">Vicariously hike the Appalachian in the gorgeous A Trail Tale</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-29 20:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +156,20 @@
                 <span class="time">2026-08-29 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand" target="_blank">Google further buries search results under AI mode</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-28 22:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hosni1982/rhel-data-disappeared-after-reboot-troubleshoot-lvm-and-multipath-before-touching-pvcreate-4ejn" target="_blank">RHEL: /data Disappeared After Reboot? Troubleshoot LVM and Multipath Before Touching pvcreate</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-29 22:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,29 +213,6 @@
                 <span class="title"><a href="https://www.infoq.com/presentations/enterprise-data-architecture-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Architecting the Data Layer for AI Agents: From Transactional Systems to MCP and Semantic Models</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-08-29 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing" target="_blank">Samsung&#x27;s Processing-in-Memory (PIM)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-29 06:06</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-truckload-of-squid-spills-in-rhode-island.html" target="_blank">Friday Squid Blogging: Truckload of Squid Spills in Rhode Island</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-08-28 21:02</span>
             </div>
         </div>
 </div>
@@ -284,15 +265,6 @@
                 <span class="time">2026-08-28 23:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/1fc52210-a320-11f1-b109-879e35c24276.jpg.webp?fit=1536%2C864&amp;quality=55&amp;ssl=1" alt="Far-right pro-Trump ex-gay still-British commentator Milo Yiannopoulos detained by ICE" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/28/far-right-pro-trump-ex-gay-still-british-commentator-milo-yiannopoulous-detained-by-ice.html" target="_blank">Far-right pro-Trump ex-gay still-British commentator Milo Yiannopoulos detained by ICE</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-28 22:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -312,8 +284,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 36 | 📡 Total Sources: 40 | 📸 With Images: 241 |
-        🔄 Last Updated: 20:26 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 35 | 📡 Total Sources: 40 | 📸 With Images: 242 |
+        🔄 Last Updated: 22:53 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
