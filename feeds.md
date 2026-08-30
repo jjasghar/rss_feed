@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-08-30 17:02:02 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-30 20:12:39 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Sunday, August 30, 2026 - 17:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Sunday, August 30, 2026 - 20:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b564/live/7bd43000-a492-11f1-a291-b542ee92de7c.jpg" alt="Eight killed and others missing after ferry capsizes off northern Cyprus" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss" target="_blank">Eight killed and others missing after ferry capsizes off northern Cyprus</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-30 20:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e2a/live/13967520-a398-11f1-b666-4bd8c8e39163.jpg" alt="Prisoners freed early are returning to jail at rapid rate, governors tell BBC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c14dlm5e22ko?at_medium=RSS&at_campaign=rss" target="_blank">Prisoners freed early are returning to jail at rapid rate, governors tell BBC</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-30 18:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +97,20 @@
                 <span class="time">2026-08-30 11:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-iceland-eu_7335416.jpg?20260830085321" alt="Iceland rejects government proposal to resume EU membership talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/iceland-rejects-government-proposal-to-resume-eu-membership-talks-13578939" target="_blank">Iceland rejects government proposal to resume EU membership talks</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-08-30 07:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid" target="_blank">Humanitarian crisis worsening in refuge for civilians fleeing Sudan’s civil war</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-08-30 06:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3" target="_blank">Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-30 19:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a9455859666495a32b503b6/master/pass/Screenshot%202026-08-30%20at%2011.06.40%E2%80%AFAM.png" alt="Google Maps Now Shows ‘Lake America’ Instead of Lake Ontario" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,20 +156,29 @@
                 <span class="time">2026-08-29 20:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/" target="_blank">Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-29 18:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/OpenShot-4.0" target="_blank">OpenShot 4.0 Released In Adapting Video Editor UI To Qt6</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-30 19:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/08/cloudflare-ai-search/en/headerimage/cloudflare-ai-search-1788105575745.jpeg" alt="Cloudflare Extends AI Search to Make it Easier for Agents and Developers to Search Custom Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/08/cloudflare-ai-search/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Extends AI Search to Make it Easier for Agents and Developers to Search Custom Data</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-30 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,24 +215,6 @@
                 <span class="time">2026-08-30 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://arxiv.org/abs/1804.07389" target="_blank">Longest Straight Line Paths on Water or Land on the Earth (2018)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-30 08:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/08/kiro-crew-coding-agents/en/headerimage/generatedHeaderImage-1786904775247.jpg" alt="AWS Open Sources Kiro Crew for Asynchronous Coding Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/08/kiro-crew-coding-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Open Sources Kiro Crew for Asynchronous Coding Agents</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-30 08:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -229,31 +229,18 @@
                 <span class="time">2026-08-29 20:39</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section webcomics-section" id="webcomics">
+<h2 class="section-header">🎨 Daily Comics</h2>
+<div class="stories-container">
 <div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/Garrett-Highlander.jpg?fit=1504%2C1084&amp;quality=60&amp;ssl=1" alt="Perhaps man with username &quot;MrChildPorn&quot; wanted to be caught" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1788050865-20260830.png" alt="Saturday Morning Breakfast Cereal - Secret" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/29/perhaps-man-with-username-mrchildporn-wanted-to-be-caught.html" target="_blank">Perhaps man with username &quot;MrChildPorn&quot; wanted to be caught</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-29 19:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/BeavisandButtHeadDoTheUniverse.jpg" alt="Mike Judge Is Taking Beavis And Butt-Head Back From Paramount" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/mike-judge-to-take-beavis-and-butt-head-back-from-paramount-2000729591" target="_blank">Mike Judge Is Taking Beavis And Butt-Head Back From Paramount</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-29 18:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/james-pond-1.jpg" alt="James Pond Co-Creator Calls AI-Rife Remake Disrespectful And Soulless" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/james-pond-co-creator-calls-ai-rife-remake-disrespectful-and-soulless-2000729581" target="_blank">James Pond Co-Creator Calls AI-Rife Remake Disrespectful And Soulless</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-29 17:50</span>
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/secret" target="_blank">Saturday Morning Breakfast Cereal - Secret</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-08-30 15:20</span>
             </div>
         </div>
 </div>
@@ -261,8 +248,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 37 | 📡 Total Sources: 40 | 📸 With Images: 238 |
-        🔄 Last Updated: 17:02 UTC
+        📊 Displayed: 20 | 📅 Last 24h: 33 | 📡 Total Sources: 40 | 📸 With Images: 240 |
+        🔄 Last Updated: 20:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
