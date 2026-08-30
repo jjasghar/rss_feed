@@ -1,40 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-08-30 12:23:16 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-08-30 17:02:02 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 31 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, August 30, 2026 - 12:23 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Sunday, August 30, 2026 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +43,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/8/30/israeli-soldiers-participate-in-sydney-marathon-despite-protests?traffic_source=rss" target="_blank">Israeli soldiers participate in Sydney Marathon despite protests</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-30 16:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/doug-ford-2-rt-gmh-260824_1787601825720_hpMain_4x3t_384.jpg" alt="Ontario&#x27;s premier says trade war would be &#x27;devastating&#x27; for US and Canada" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/ontarios-premier-trade-war-devastating-us-canada/story?id=136068676" target="_blank">Ontario&#x27;s premier says trade war would be &#x27;devastating&#x27; for US and Canada</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-30 14:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/30/nx-s1-5949254/lake-ontario-america-doug-ford-trump-sign-google" target="_blank">Canada claps back at Trump&#x27;s efforts to rename Lake Ontario as &#x27;Lake America&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-30 14:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,38 +97,20 @@
                 <span class="time">2026-08-30 06:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8781/live/6da35de0-a3bf-11f1-a291-b542ee92de7c.jpg" alt="PC Harper&#x27;s killers to stay in jail as PM announces changes to early release scheme" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/crr4wd81pdpo?at_medium=RSS&at_campaign=rss" target="_blank">PC Harper&#x27;s killers to stay in jail as PM announces changes to early release scheme</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-30 05:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/29/nx-s1-5948759/iceland-european-union-referendum-vote" target="_blank">Icelanders vote on whether they want to join the EU</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-30 01:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/30/turkiye-somalia-forces-frees-cargo-vessel-hijacked-by-pirates?traffic_source=rss" target="_blank">Turkiye, Somalia forces free cargo vessel hijacked by pirates</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-30 00:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a9455859666495a32b503b6/master/pass/Screenshot%202026-08-30%20at%2011.06.40%E2%80%AFAM.png" alt="Google Maps Now Shows ‘Lake America’ Instead of Lake Ontario" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/google-maps-now-shows-lake-america-instead-of-lake-ontario/" target="_blank">Google Maps Now Shows ‘Lake America’ Instead of Lake Ontario</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-30 16:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,20 +156,29 @@
                 <span class="time">2026-08-29 18:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/986427/distraction-free-writing-gadget-byok-scripts-extensions" target="_blank">Distraction-free writing gadget BYOK is adding custom extensions</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-29 16:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vancine-fan/one-endpoint-four-coding-models-a-practical-switching-workflow-58je" target="_blank">One Endpoint, Four Coding Models: A Practical Switching Workflow</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-30 16:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-More-Sound" target="_blank">Linux 7.3 Lands More Audio Workarounds For Laptops &amp; Other Devices</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-30 15:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,30 +207,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://res.infoq.com/news/2026/08/kiro-crew-coding-agents/en/headerimage/generatedHeaderImage-1786904775247.jpg" alt="AWS Open Sources Kiro Crew for Asynchronous Coding Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17434660/debian-allows-ai-contribution" target="_blank">Debian AI Vote has Divided the Community</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-08-30 05:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-Staging" target="_blank">RTL8723BS Driver Continues Dominating The Staging Area Activity For Linux 7.3</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-30 00:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://danluu.com/bug-blind/" target="_blank">Bug Blindness</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-08-30 00:21</span>
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/08/kiro-crew-coding-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Open Sources Kiro Crew for Asynchronous Coding Agents</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-08-30 08:23</span>
             </div>
         </div>
 </div>
@@ -263,45 +256,13 @@
                 <span class="time">2026-08-29 17:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KZY3X2EBTRDJGZR4ETEYWCBP/hero-image.png" alt="There’s Not Much Time Left to Win a New Apple Watch From Lifehacker" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/big-guessing-game-apple-edition-round-3?utm_medium=RSS" target="_blank">There’s Not Much Time Left to Win a New Apple Watch From Lifehacker</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-08-29 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/asha-sharma-xbox-1280x723.jpg" alt="Xbox Calls Next-Gen Project Helix A ‘Family Of Devices,’ But Isn’t Ready To Say If Elder Scrolls 6 Will Be Exclusive" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/xbox-calls-next-gen-project-helix-a-family-of-devices-but-isnt-ready-to-say-if-elder-scrolls-6-will-be-exclusive-2000729562" target="_blank">Xbox Calls Next-Gen Project Helix A ‘Family Of Devices,’ But Isn’t Ready To Say If Elder Scrolls 6 Will Be Exclusive</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-29 13:58</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section webcomics-section" id="webcomics">
-<h2 class="section-header">🎨 Daily Comics</h2>
-<div class="stories-container">
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1787948076-20260829.png" alt="Saturday Morning Breakfast Cereal - Echo" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/echo" target="_blank">Saturday Morning Breakfast Cereal - Echo</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-08-29 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 39 | 📡 Total Sources: 40 | 📸 With Images: 238 |
-        🔄 Last Updated: 12:23 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 37 | 📡 Total Sources: 40 | 📸 With Images: 238 |
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
