@@ -1,33 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-08-29 22:53:24 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-08-30 00:52:01 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Generated 5 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, August 29, 2026 - 22:53 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, August 30, 2026 - 00:52 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/8/30/turkiye-somalia-forces-frees-cargo-vessel-hijacked-by-pirates?traffic_source=rss" target="_blank">Turkiye, Somalia forces free cargo vessel hijacked by pirates</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-08-30 00:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,15 +103,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/08/29/nx-s1-5948714/russian-strike-kyiv" target="_blank">Russian strike near Kyiv kills 37, in one of the year&#x27;s deadliest attacks</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-08-29 15:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ec8/live/5cdf5720-a383-11f1-b109-879e35c24276.png" alt="Christian festival &#x27;devastated&#x27; after man&#x27;s death" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss" target="_blank">Christian festival &#x27;devastated&#x27; after man&#x27;s death</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-29 14:12</span>
             </div>
         </div>
 </div>
@@ -164,6 +172,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-Staging" target="_blank">RTL8723BS Driver Continues Dominating The Staging Area Activity For Linux 7.3</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-08-30 00:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/hosni1982/rhel-data-disappeared-after-reboot-troubleshoot-lvm-and-multipath-before-touching-pvcreate-4ejn" target="_blank">RHEL: /data Disappeared After Reboot? Troubleshoot LVM and Multipath Before Touching pvcreate</a></span>
                 <span class="feed">DEV Community</span>
@@ -177,6 +194,15 @@
                 <span class="title"><a href="https://dev.to/nyxagi/build-an-xrpl-token-screener-in-about-50-lines-1n38" target="_blank">Build an XRPL Token Screener in About 50 Lines</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-08-29 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/" target="_blank">Hy4 preview</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-29 19:33</span>
             </div>
         </div>
 <div class="story">
@@ -197,29 +223,29 @@
                 <span class="time">2026-08-29 14:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/ReactOS-0.4.16-Released" target="_blank">ReactOS 0.4.16 Released With New Graphical Installer, Better Hardware Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-29 12:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/enterprise-data-architecture-ai-agents/en/mediumimage/fabiane-nardon-medium-1787218382028.jpeg" alt="Presentation: Architecting the Data Layer for AI Agents: From Transactional Systems to MCP and Semantic Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/enterprise-data-architecture-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Architecting the Data Layer for AI Agents: From Transactional Systems to MCP and Semantic Models</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-29 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/philcollins.jpg" alt="Phil Collins Returns To Vice City With An Ominous Song Choice For Jason And Lucia" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/phil-collins-returns-to-vice-city-with-an-ominous-song-choice-for-jason-and-lucia-2000729601" target="_blank">Phil Collins Returns To Vice City With An Ominous Song Choice For Jason And Lucia</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-29 20:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/Garrett-Highlander.jpg?fit=1504%2C1084&amp;quality=60&amp;ssl=1" alt="Perhaps man with username &quot;MrChildPorn&quot; wanted to be caught" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/08/29/perhaps-man-with-username-mrchildporn-wanted-to-be-caught.html" target="_blank">Perhaps man with username &quot;MrChildPorn&quot; wanted to be caught</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-08-29 19:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/BeavisandButtHeadDoTheUniverse.jpg" alt="Mike Judge Is Taking Beavis And Butt-Head Back From Paramount" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -256,15 +282,6 @@
                 <span class="time">2026-08-29 13:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/VS-YouTube-ThePrairieSandwichBoxMealADArbysGrandtheftAutoVI-YouTube-015.jpg" alt="Rockstar Is Using One Of Its Old Tricks To Create GTA 6 TV Shows" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/rockstar-is-using-one-of-its-old-tricks-to-create-gta-6-tv-shows-2000729503" target="_blank">Rockstar Is Using One Of Its Old Tricks To Create GTA 6 TV Shows</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-28 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -284,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 35 | 📡 Total Sources: 40 | 📸 With Images: 242 |
-        🔄 Last Updated: 22:53 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 36 | 📡 Total Sources: 40 | 📸 With Images: 241 |
+        🔄 Last Updated: 00:52 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
