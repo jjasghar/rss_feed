@@ -1,41 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-08-30 00:52:01 UTC -->
+<!-- Processing 54 RSS feeds at 2026-08-30 06:01:53 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 32 feeds processed -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, August 30, 2026 - 00:52 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Sunday, August 30, 2026 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,12 +51,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8781/live/6da35de0-a3bf-11f1-a291-b542ee92de7c.jpg" alt="PC Harper&#x27;s killers to stay in jail as PM announces changes to early release scheme" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/crr4wd81pdpo?at_medium=RSS&at_campaign=rss" target="_blank">PC Harper&#x27;s killers to stay in jail as PM announces changes to early release scheme</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-08-30 05:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/29/nx-s1-5948759/iceland-european-union-referendum-vote" target="_blank">Icelanders vote on whether they want to join the EU</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-30 01:47</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/8/30/turkiye-somalia-forces-frees-cargo-vessel-hijacked-by-pirates?traffic_source=rss" target="_blank">Turkiye, Somalia forces free cargo vessel hijacked by pirates</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-30 00:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-adam-parsons-parsons_7334706.jpg?20260829151417" alt="Inside Jenin, where life is hard for displaced Palestinians - and the pain keeps getting worse" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/inside-jenin-where-life-is-hard-for-displaced-palestinians-and-the-pain-keeps-getting-worse-13578574" target="_blank">Inside Jenin, where life is hard for displaced Palestinians - and the pain keeps getting worse</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-08-29 23:01</span>
             </div>
         </div>
 <div class="story">
@@ -76,33 +102,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/8/29/can-international-diplomacy-find-a-way-forward-in-libya?traffic_source=rss" target="_blank">Can international diplomacy find a way forward in Libya?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-08-29 20:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/nepal-destruction-01-ap-jt-260829_1788019102009_hpMain_4x3t_384.jpg" alt="Nepal death toll rises from massive flood as thousands still missing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/hundreds-dead-1000-remain-missing-massive-nepal-tibet/story?id=136022919" target="_blank">Nepal death toll rises from massive flood as thousands still missing</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-08-29 19:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-army-arrests-six-palestinians-after-settler-violence-in-west-bank?traffic_source=rss" target="_blank">Israeli army arrests six Palestinians after settler violence in West Bank</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-29 17:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/29/nx-s1-5948714/russian-strike-kyiv" target="_blank">Russian strike near Kyiv kills 37, in one of the year&#x27;s deadliest attacks</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-29 15:54</span>
             </div>
         </div>
 </div>
@@ -172,10 +171,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17434660/debian-allows-ai-contribution" target="_blank">Debian AI Vote has Divided the Community</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-08-30 05:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-Staging" target="_blank">RTL8723BS Driver Continues Dominating The Staging Area Activity For Linux 7.3</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-08-30 00:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://danluu.com/bug-blind/" target="_blank">Bug Blindness</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-08-30 00:21</span>
             </div>
         </div>
 <div class="story">
@@ -203,24 +220,6 @@
                 <span class="title"><a href="https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/" target="_blank">Hy4 preview</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-08-29 19:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/FreeBSD-14.5-RC1" target="_blank">FreeBSD 14.5-RC1 Released With Several Security Fixes</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-29 19:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dannydoes_2abdf9c/tvl-trend-analysis-liquidity-risk-assessment-lido-1d21" target="_blank">TVL Trend Analysis &amp; Liquidity Risk Assessment: Lido</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-29 14:34</span>
             </div>
         </div>
 </div>
@@ -301,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 36 | 📡 Total Sources: 40 | 📸 With Images: 241 |
-        🔄 Last Updated: 00:52 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 37 | 📡 Total Sources: 40 | 📸 With Images: 241 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
