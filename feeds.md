@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-08-30 22:59:00 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-08-31 01:05:38 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Sunday, August 30, 2026 - 22:59 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, August 31, 2026 - 01:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Hormuz-DB-260827_1787812710712_hpMain_4x3t_384.jpg" alt="Iran live updates: US forces strike 2 Iranian rocket launch sites" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=135895428" target="_blank">Iran live updates: US forces strike 2 Iranian rocket launch sites</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-08-31 00:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-08/260830-nepal-2-nd-e6a1d8.jpg" alt="Here’s the biggest news you missed this weekend" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,15 +97,6 @@
                 <span class="time">2026-08-30 14:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/30/nx-s1-5949254/lake-ontario-america-doug-ford-trump-sign-google" target="_blank">Canada claps back at Trump&#x27;s efforts to rename Lake Ontario as &#x27;Lake America&#x27;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-30 14:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -119,6 +118,15 @@
                 <span class="title"><a href="https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3" target="_blank">Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-08-30 19:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/" target="_blank">Liux’s Big microcar bets on sustainability to take on Chinese rivals</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-08-30 18:33</span>
             </div>
         </div>
 <div class="story">
@@ -148,20 +156,20 @@
                 <span class="time">2026-08-30 11:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69d41d1bf10fbfdc2dc2e429/master/pass/The-Best-Mesh-Wi-Fi-Systems-for-WFH,-Gaming,-and-Streaming.jpg" alt="Best Mesh Wi-Fi Systems (2026): I Tested Them All" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-mesh-wifi-routers/" target="_blank">Best Mesh Wi-Fi Systems (2026): I Tested Them All</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-30 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ecom_solutions_04a07df036/how-i-faked-a-real-time-opponent-on-shared-hosting-with-zero-background-processes-9n4" target="_blank">How I faked a real-time opponent on shared hosting with zero background processes</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-08-31 01:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2022/12/openshot-video-editor-logo-.jpg?resize=406%2C232&amp;ssl=1" alt="OpenShot 4.0 adds colour grading, recording dock and Qt 6 support" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -207,13 +215,18 @@
                 <span class="time">2026-08-30 16:52</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section lifestyle-news" id="lifestyle">
+<h2 class="section-header">🎮 Lifestyle & Culture</h2>
+<div class="stories-container">
 <div class="story">
-            
+            <img src="https://kotaku.com/app/uploads/2026/08/larptuber.jpg" alt="‘LARPtubers’ Recreating Bygone YouTubers Dredge Up Conflicting Memories For Original Creators" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-More-Sound" target="_blank">Linux 7.3 Lands More Audio Workarounds For Laptops &amp; Other Devices</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-30 15:06</span>
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/larptubers-recreating-bygone-youtubers-dredge-up-conflicting-memories-for-original-creators-2000729699" target="_blank">‘LARPtubers’ Recreating Bygone YouTubers Dredge Up Conflicting Memories For Original Creators</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-08-30 22:13</span>
             </div>
         </div>
 </div>
@@ -235,8 +248,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 19 | 📅 Last 24h: 34 | 📡 Total Sources: 40 | 📸 With Images: 240 |
-        🔄 Last Updated: 22:59 UTC
+        📊 Displayed: 20 | 📅 Last 24h: 34 | 📡 Total Sources: 40 | 📸 With Images: 241 |
+        🔄 Last Updated: 01:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
