@@ -1,27 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-09-01 10:40:46 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-01 15:16:35 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 4 new posts out of 18 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 12 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Tuesday, September 01, 2026 - 10:40 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, September 01, 2026 - 15:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,12 +45,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/GMA/clancy-3-ap-gmh-260831_1788182054598_hpMain_4x3t_384.jpg" alt="Lindsay Clancy trial: Jury unable to reach verdict, deliberations to continue" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/GMA/News/live-updates/lindsay-clancy-trial-jurors-resume-deliberations/?id=136086599" target="_blank">Lindsay Clancy trial: Jury unable to reach verdict, deliberations to continue</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-01 14:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/01/1139228585/wendell-berry-obituary" target="_blank">Beloved writer and environmentalist Wendell Berry has died at age 92</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-01 13:52</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/09/01/g-s1-141347/met-gala-john-galliano-exhibit-canceled" target="_blank">Amid backlash, museum cancels planned Met Gala exhibit on fashion designer John Galliano</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-09-01 05:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae4b/live/abaa7a90-a54c-11f1-aed2-8d6da8d75094.jpg" alt="&#x27;I&#x27;ve never been to Afghanistan&#x27;: Six million deportees forced to start over under the Taliban" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;I&#x27;ve never been to Afghanistan&#x27;: Six million deportees forced to start over under the Taliban</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-01 05:00</span>
             </div>
         </div>
 <div class="story">
@@ -64,38 +98,29 @@
                 <span class="time">2026-09-01 02:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Duane-davis-gty-bh-260809_1786299793439_hpMain_3_4x3t_384.jpg" alt="Jury finds Duane Davis guilty in murder of Tupac Shakur" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/jury-begins-deliberating-trial-murder-tupac-shakur/story?id=136099547" target="_blank">Jury finds Duane Davis guilty in murder of Tupac Shakur</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-09-01 00:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/driscoll-gty-er-260831_1788214976986_hpMain_4x3t_384.jpg" alt="Army Secretary Dan Driscoll resigns amid tensions with Hegseth" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/army-secretary-dan-driscoll-resigns-amid-tensions-hegseth/story?id=136101175" target="_blank">Army Secretary Dan Driscoll resigns amid tensions with Hegseth</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-09-01 00:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/1/five-years-after-saieds-power-grab-tunisias-old-grievances-resurface?traffic_source=rss" target="_blank">Five years after Saied’s power grab, Tunisia’s old grievances resurface</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-01 00:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/" target="_blank">Fambot introduces an ‘AI chief of staff’ for families</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-09-01 15:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a95b91888d28650c3255bcd/master/pass/Sonos%20Ace%20Ultra%201.JPG" alt="Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/sonos-has-new-devices-a-new-os-and-yes-a-new-app/" target="_blank">Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-01 14:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -132,24 +157,6 @@
                 <span class="time">2026-08-31 22:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/" target="_blank">FTC accuses Amazon of running a ‘secret ad surcharge scheme’ in new lawsuit</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-31 20:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/986901/alienware-qdoled-2726dm-deal-sale" target="_blank">Alienware’s budget-friendly QD-OLED is discounted for the first time</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-31 19:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -158,10 +165,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17436419/the-ur-project-appears" target="_blank">This Dev Spent 8 Years on Intel&#x27;s Clear Linux, Now He&#x27;s Undoing Its Biggest Mistake</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-09-01 14:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/kevin2003050666coder/what-a-seller-side-http-402-mcp-paywall-looks-like-36n" target="_blank">What a seller-side HTTP 402 + MCP paywall looks like</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-09-01 10:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/ankidroid/Anki-Android/issues/21656" target="_blank">AnkiDroid: Google Play no longer allowing Open Collective donation link</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-01 10:11</span>
             </div>
         </div>
 <div class="story">
@@ -191,29 +216,20 @@
                 <span class="time">2026-09-01 05:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.gpuworld.org/" target="_blank">GPU World</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-01 03:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/KDE-Linux-August-2026" target="_blank">KDE Linux Now Providing Automatic Btrfs Snapshots For All User Files</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-01 00:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/09/rewiring-democracy-series-on-the-renovator.html" target="_blank">Rewiring Democracy Series on The Renovator</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-09-01 09:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -228,6 +244,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KZY3X2EBTRDJGZR4ETEYWCBP/hero-image.png" alt="This Is Your Last Chance to Win a New Apple Watch From Lifehacker" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/big-guessing-game-apple-edition-round-3?utm_medium=RSS" target="_blank">This Is Your Last Chance to Win a New Apple Watch From Lifehacker</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-09-01 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/v3_clean.jpg?fit=1814%2C1454&amp;quality=60&amp;ssl=1" alt="E-Ink watch runs on solar power" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/09/01/e-ink-watch-runs-on-solar-power.html" target="_blank">E-Ink watch runs on solar power</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-09-01 13:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/08/ss_68d5acedd1b34badb379215eaf2bd0af3f43c3b1.1920x1080-1280x720.jpg" alt="Studio Behind The Best-Reviewed Star Wars Game In 22 Years Furloughed Up To 80 Percent Of Its Staff" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,15 +296,6 @@
                 <span class="title"><a href="https://kotaku.com/darby-allin-you-get-down-from-there-this-instant-2000729873" target="_blank">Darby Allin, You Get Down From There This Instant</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-08-31 15:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/AdGuard-DNS-Personal.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Your ad blocker can venture outside the browser for $25" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/31/your-ad-blocker-can-venture-outside-the-browser-for-25.html" target="_blank">Your ad blocker can venture outside the browser for $25</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-31 15:00</span>
             </div>
         </div>
 </div>
@@ -310,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 45 | 📡 Total Sources: 40 | 📸 With Images: 246 |
-        🔄 Last Updated: 10:40 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 46 | 📡 Total Sources: 40 | 📸 With Images: 248 |
+        🔄 Last Updated: 15:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
