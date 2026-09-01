@@ -1,30 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-09-01 00:51:56 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-01 05:49:35 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 22 feeds processed -->
+<!-- Generated 11 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Tuesday, September 01, 2026 - 00:52 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, September 01, 2026 - 05:49 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,12 +46,48 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/01/g-s1-141347/met-gala-john-galliano-exhibit-canceled" target="_blank">Amid backlash, museum cancels planned Met Gala exhibit on fashion designer John Galliano</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-01 05:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/9/1/09-01-26-tupac-murder-verdict-sv?traffic_source=rss" target="_blank">Former gang leader found guilty of Tupac Shakur’s 1996 murder</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-01 04:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0869/live/c74d0eb0-a5ac-11f1-b109-879e35c24276.jpg" alt="What it was like inside court for Tupac Shakur’s murder trial verdict" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/videos/cz6zp2pwzx5o?at_medium=RSS&at_campaign=rss" target="_blank">What it was like inside court for Tupac Shakur’s murder trial verdict</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-01 02:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/Duane-davis-gty-bh-260809_1786299793439_hpMain_3_4x3t_384.jpg" alt="Jury finds Duane Davis guilty in murder of Tupac Shakur" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/US/jury-begins-deliberating-trial-murder-tupac-shakur/story?id=136099547" target="_blank">Jury finds Duane Davis guilty in murder of Tupac Shakur</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-09-01 00:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/driscoll-gty-er-260831_1788214976986_hpMain_4x3t_384.jpg" alt="Army Secretary Dan Driscoll resigns amid tensions with Hegseth" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/army-secretary-dan-driscoll-resigns-amid-tensions-hegseth/story?id=136101175" target="_blank">Army Secretary Dan Driscoll resigns amid tensions with Hegseth</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-01 00:30</span>
             </div>
         </div>
 <div class="story">
@@ -58,47 +99,20 @@
                 <span class="time">2026-09-01 00:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-08/260825-dan-driscoll-ew-641p-291d3f.jpg" alt="Army Secretary submits resignation to White House after tensions with Pete Hegseth" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/national-security/army-secretary-dan-driscoll-submits-resignation-white-house-rcna595437" target="_blank">Army Secretary submits resignation to White House after tensions with Pete Hegseth</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-31 22:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/08/31/nx-s1-5948057/department-commerce-census-bureau-scientific-integrity" target="_blank">Trump officials cut political interference ban after unusual Census Bureau report</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-08-31 22:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/739a/live/6a963ea0-a564-11f1-a29b-3ba1838baf75.jpg" alt="Mel Stride and Priti Patel replaced in major Tory reshuffle" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cp8026xlm35o?at_medium=RSS&at_campaign=rss" target="_blank">Mel Stride and Priti Patel replaced in major Tory reshuffle</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-31 20:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-08/260824-ballroom-rs-4d08b8.jpg" alt="Supreme Court allows Trump to move forward with White House ballroom construction" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/supreme-court/supreme-court-allows-trump-move-forward-white-house-ballroom-construct-rcna594097" target="_blank">Supreme Court allows Trump to move forward with White House ballroom construction</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-08-31 20:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" alt="Chewy Promo Codes: $20 Off September 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/chewy-promo-code/" target="_blank">Chewy Promo Codes: $20 Off September 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-01 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,20 +158,38 @@
                 <span class="time">2026-08-31 15:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/31/how-ai-could-make-it-harder-for-governments-to-use-hacking-tools/" target="_blank">How AI could make it harder for governments to use hacking tools</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-31 15:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/09/01/the-good-ol-days-of-building-java/" target="_blank">The good ol’ days of building Java</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-09-01 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devlog/fixing-npm-global-command-not-found-on-windows-50e1" target="_blank">Fixing npm Global Command Not Found on Windows</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-01 05:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/KDE-Linux-August-2026" target="_blank">KDE Linux Now Providing Automatic Btrfs Snapshots For All User Files</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-01 00:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -185,33 +217,6 @@
                 <span class="time">2026-08-31 14:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/upgrade-ubuntu-2604.webp?resize=406%2C232&amp;ssl=1" alt="Why Ubuntu 26.04 upgrades from 24.04 are delayed (until Sept)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/08/ubuntu-2404-to-2604-upgrade-delay" target="_blank">Why Ubuntu 26.04 upgrades from 24.04 are delayed (until Sept)</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-08-31 14:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="DoorDash’s Flux Runs 130,000 Engineering Tasks Through Cloud-Based Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/08/doordash-flux-cloud-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">DoorDash’s Flux Runs 130,000 Engineering Tasks Through Cloud-Based Agents</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-08-31 14:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/linux-73-features" target="_blank">Linux 7.3 Features Many Exciting Improvements, New Hardware Support &amp; Faster Btrfs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-08-31 13:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/ss_68d5acedd1b34badb379215eaf2bd0af3f43c3b1.1920x1080-1280x720.jpg" alt="Studio Behind The Best-Reviewed Star Wars Game In 22 Years Furloughed Up To 80 Percent Of Its Staff" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/studio-behind-the-best-reviewed-star-wars-game-in-22-years-furloughed-up-to-80-percent-of-its-staff-2000730078" target="_blank">Studio Behind The Best-Reviewed Star Wars Game In 22 Years Furloughed Up To 80 Percent Of Its Staff</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-01 04:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/ps5discs-1280x720.jpg" alt="Sony Argues No One’s Dumb Enough To Think They Actually Own A Digital Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,6 +287,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.questionablecontent.net/comics/5907.png" alt="Woomy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5907" target="_blank">Woomy</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-09-01 01:55</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -290,31 +313,13 @@
                 <span class="time">2026-08-31 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/geology_class.png" alt="Geology Class" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3292/" target="_blank">Geology Class</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-08-31 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5906.png" alt="May Is Helping" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5906" target="_blank">May Is Helping</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-08-31 00:55</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 44 | 📡 Total Sources: 40 | 📸 With Images: 245 |
-        🔄 Last Updated: 00:52 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 45 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 05:49 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
