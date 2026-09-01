@@ -1,39 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-08-31 21:10:39 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-01 00:51:56 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 15 new posts out of 30 feeds processed -->
+<!-- Generated 10 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, August 31, 2026 - 21:10 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Tuesday, September 01, 2026 - 00:52 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +40,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/Duane-davis-gty-bh-260809_1786299793439_hpMain_3_4x3t_384.jpg" alt="Jury finds Duane Davis guilty in murder of Tupac Shakur" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/jury-begins-deliberating-trial-murder-tupac-shakur/story?id=136099547" target="_blank">Jury finds Duane Davis guilty in murder of Tupac Shakur</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-01 00:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/1/five-years-after-saieds-power-grab-tunisias-old-grievances-resurface?traffic_source=rss" target="_blank">Five years after Saied’s power grab, Tunisia’s old grievances resurface</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-01 00:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-08/260825-dan-driscoll-ew-641p-291d3f.jpg" alt="Army Secretary submits resignation to White House after tensions with Pete Hegseth" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/national-security/army-secretary-dan-driscoll-submits-resignation-white-house-rcna595437" target="_blank">Army Secretary submits resignation to White House after tensions with Pete Hegseth</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-08-31 22:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/08/31/nx-s1-5948057/department-commerce-census-bureau-scientific-integrity" target="_blank">Trump officials cut political interference ban after unusual Census Bureau report</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-08-31 22:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/739a/live/6a963ea0-a564-11f1-a29b-3ba1838baf75.jpg" alt="Mel Stride and Priti Patel replaced in major Tory reshuffle" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -67,47 +94,29 @@
                 <span class="time">2026-08-31 20:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dce/live/98bb2c90-a556-11f1-b109-879e35c24276.jpg" alt="Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss" target="_blank">Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-31 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/the-bottom-line/2026/8/31/is-trump-testing-the-limits-of-us-power?traffic_source=rss" target="_blank">Is Trump testing the limits of US power?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-08-31 15:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/baab/live/f7f345a0-a4b4-11f1-b109-879e35c24276.jpg" alt="US and Iran trade strikes for first time in weeks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss" target="_blank">US and Iran trade strikes for first time in weeks</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-08-31 13:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/sport/2026/aug/31/south-african-airline-defends-dramatic-low-level-flyby-before-rugby-union-springboks-new-zealand" target="_blank">South African airline defends dramatic low-level flyby before rugby union clash</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-08-31 13:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/987032/google-tv-streamer-price-increase" target="_blank">The Google TV Streamer now costs $50 more</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-08-31 22:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a96089130fad2f3a55f8e20/master/pass/The-Best-Early-Labor-Day-Mattress-Deals.jpg" alt="The Best Labor Day Mattress Deals on Beds We’ve Tried in Our Homes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/labor-day-mattress-deals-2026/" target="_blank">The Best Labor Day Mattress Deals on Beds We’ve Tried in Our Homes</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-08-31 22:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,29 +153,20 @@
                 <span class="time">2026-08-31 15:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/" target="_blank">The U.S. is building barriers around drones and robots, but China has scale to get around them</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-08-31 02:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/teraweapon-500x500.jpg" alt="A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/" target="_blank">A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-08-30 21:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/beck_moulton/keep-your-heart-rate-to-yourself-building-privacy-first-fitness-ai-with-federated-learning-23l8" target="_blank">Keep Your Heart Rate to Yourself: Building Privacy-First Fitness AI with Federated Learning</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-01 00:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,15 +210,6 @@
                 <span class="title"><a href="https://www.phoronix.com/review/linux-73-features" target="_blank">Linux 7.3 Features Many Exciting Improvements, New Hardware Support &amp; Faster Btrfs</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-08-31 13:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ajianaz/your-agent-keeps-forgetting-because-you-keep-switching-models-oig" target="_blank">Your Agent Keeps Forgetting Because You Keep Switching Models</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-08-31 07:27</span>
             </div>
         </div>
 </div>
@@ -276,15 +267,6 @@
                 <span class="time">2026-08-31 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/larptuber.jpg" alt="‘LARPtubers’ Recreating Bygone YouTubers Dredge Up Conflicting Memories For Original Creators" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/larptubers-recreating-bygone-youtubers-dredge-up-conflicting-memories-for-original-creators-2000729699" target="_blank">‘LARPtubers’ Recreating Bygone YouTubers Dredge Up Conflicting Memories For Original Creators</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-30 22:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -297,6 +279,15 @@
                 <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/08/31/how-to-find-me-pax" target="_blank">How to Find Me @ PAX!</a></span>
                 <span class="feed">Penny Arcade</span>
                 <span class="time">2026-08-31 19:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1788113889-20260831.png" alt="Saturday Morning Breakfast Cereal - Royal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/royal" target="_blank">Saturday Morning Breakfast Cereal - Royal</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-08-31 15:20</span>
             </div>
         </div>
 <div class="story">
@@ -323,7 +314,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 27 | 📅 Last 24h: 44 | 📡 Total Sources: 40 | 📸 With Images: 245 |
-        🔄 Last Updated: 21:10 UTC
+        🔄 Last Updated: 00:52 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
