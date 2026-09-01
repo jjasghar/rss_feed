@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-09-01 15:16:35 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-09-01 18:57:04 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 25 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 11 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Tuesday, September 01, 2026 - 15:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Tuesday, September 01, 2026 - 18:57 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/9/1/un-food-agency-cuts-aid-in-west-bank-amid-funding-crisis?traffic_source=rss" target="_blank">UN food agency cuts aid in West Bank amid funding crisis</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-01 18:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6b5/live/bf0d1e90-a618-11f1-9ca2-a3e18de91b7b.jpg" alt="Germany says Russia behind Leipzig airport drone attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss" target="_blank">Germany says Russia behind Leipzig airport drone attack</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-01 16:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-germany-leipzig-halle_7314592.jpg?20260805140142" alt="Attempted drone attack at German airport blamed on Russia" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/attempted-drone-attack-at-leipzig-airport-blamed-on-russia-german-government-says-13579937" target="_blank">Attempted drone attack at German airport blamed on Russia</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-09-01 15:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/GMA/clancy-3-ap-gmh-260831_1788182054598_hpMain_4x3t_384.jpg" alt="Lindsay Clancy trial: Jury unable to reach verdict, deliberations to continue" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -71,38 +98,20 @@
                 <span class="time">2026-09-01 05:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae4b/live/abaa7a90-a54c-11f1-aed2-8d6da8d75094.jpg" alt="&#x27;I&#x27;ve never been to Afghanistan&#x27;: Six million deportees forced to start over under the Taliban" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;I&#x27;ve never been to Afghanistan&#x27;: Six million deportees forced to start over under the Taliban</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-01 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/9/1/09-01-26-tupac-murder-verdict-sv?traffic_source=rss" target="_blank">Former gang leader found guilty of Tupac Shakur’s 1996 murder</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-01 04:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0869/live/c74d0eb0-a5ac-11f1-b109-879e35c24276.jpg" alt="What it was like inside court for Tupac Shakur’s murder trial verdict" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/videos/cz6zp2pwzx5o?at_medium=RSS&at_campaign=rss" target="_blank">What it was like inside court for Tupac Shakur’s murder trial verdict</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-01 02:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2020/05/GettyImages-1207345894-500x500.jpg" alt="A newborn and child reportedly died of measles; CDC isn&#x27;t counting them" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/09/cdc-reported-then-deleted-two-measles-deaths-that-were-questioned-by-rfk-jr/" target="_blank">A newborn and child reportedly died of measles; CDC isn&#x27;t counting them</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-09-01 18:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +157,47 @@
                 <span class="time">2026-08-31 22:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a96089130fad2f3a55f8e20/master/pass/The-Best-Early-Labor-Day-Mattress-Deals.jpg" alt="The Best Labor Day Mattress Deals on Beds We’ve Tried in Our Homes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/labor-day-mattress-deals-2026/" target="_blank">The Best Labor Day Mattress Deals on Beds We’ve Tried in Our Homes</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-08-31 22:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.anthropic.com/claude-fable-and-mythos-5-1" target="_blank">Claude Fable 5.1 and Claude Mythos 5.1</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-01 17:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substack-post-media.s3.amazonaws.com/public/images/e6e5687b-9265-4270-ab3f-84ad0059e6b1_420x300.png" alt="The Pragmatic Engineer: Five years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-five-years" target="_blank">The Pragmatic Engineer: Five years</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-09-01 17:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17436529/vanilla-os-3-release" target="_blank">Vanilla OS 3 Comes in Hot, Packing ARM64 Support After a Long Wait</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-09-01 17:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/ASUS-ROG-Strix-Arion-RGB-Linux" target="_blank">Linux Gets A Reverse-Engineered Driver For ASUS ROG NVMe Enclosure RGB Lighting</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-01 16:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -174,46 +210,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kevin2003050666coder/what-a-seller-side-http-402-mcp-paywall-looks-like-36n" target="_blank">What a seller-side HTTP 402 + MCP paywall looks like</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-01 10:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/ankidroid/Anki-Android/issues/21656" target="_blank">AnkiDroid: Google Play no longer allowing Open Collective donation link</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-01 10:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17436188/firefox-155-faster-page-loads" target="_blank">Firefox 155 Adds 2 New Changes for Faster Web Browsing</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-09-01 08:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/09/01/the-good-ol-days-of-building-java/" target="_blank">The good ol’ days of building Java</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-09-01 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/devlog/fixing-npm-global-command-not-found-on-windows-50e1" target="_blank">Fixing npm Global Command Not Found on Windows</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-01 05:43</span>
+                <span class="title"><a href="https://ubuntu.com//blog/support-restores-openstack" target="_blank">Surviving the uncharted: when dedicated OpenStack expertise is your best ally in disaster recovery</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-09-01 11:10</span>
             </div>
         </div>
 </div>
@@ -230,20 +230,20 @@
                 <span class="time">2026-09-01 09:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/08/is-someone-hacking-dod-refrigerators.html" target="_blank">Is Someone Hacking DoD Refrigerators?</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-08-31 18:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/09/aerial-knight-mr-freezy-indie-of-the-week-1280x720.jpg" alt="A Puzzle Game About Using Your Head To Decapitate People Was Inspired By Dots But Plays More Like Catherine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/a-puzzle-game-about-using-your-head-to-decapitate-people-was-inspired-by-dots-but-plays-more-like-catherine-2000730271" target="_blank">A Puzzle Game About Using Your Head To Decapitate People Was Inspired By Dots But Plays More Like Catherine</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-01 18:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KZY3X2EBTRDJGZR4ETEYWCBP/hero-image.png" alt="This Is Your Last Chance to Win a New Apple Watch From Lifehacker" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -289,15 +289,6 @@
                 <span class="time">2026-08-31 20:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/darby-allin-4-1280x720.jpg" alt="Darby Allin, You Get Down From There This Instant" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/darby-allin-you-get-down-from-there-this-instant-2000729873" target="_blank">Darby Allin, You Get Down From There This Instant</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-31 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,22 +312,13 @@
                 <span class="time">2026-08-31 19:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1788113889-20260831.png" alt="Saturday Morning Breakfast Cereal - Royal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/royal" target="_blank">Saturday Morning Breakfast Cereal - Royal</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-08-31 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 46 | 📡 Total Sources: 40 | 📸 With Images: 248 |
-        🔄 Last Updated: 15:16 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 49 | 📡 Total Sources: 40 | 📸 With Images: 246 |
+        🔄 Last Updated: 18:57 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
