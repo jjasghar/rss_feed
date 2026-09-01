@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-09-01 18:57:04 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing 54 RSS feeds at 2026-09-01 21:30:54 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Tuesday, September 01, 2026 - 18:57 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Tuesday, September 01, 2026 - 21:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,12 +45,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bb1/live/407a92f0-a62d-11f1-905b-8511af748865.png" alt="Burnham promises more devolution and public control of essential services" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cx2z528rdp6o?at_medium=RSS&at_campaign=rss" target="_blank">Burnham promises more devolution and public control of essential services</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-01 20:52</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/9/1/un-food-agency-cuts-aid-in-west-bank-amid-funding-crisis?traffic_source=rss" target="_blank">UN food agency cuts aid in West Bank amid funding crisis</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-09-01 18:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/01/nx-s1-5951536/house-government-funding-vote-midterms" target="_blank">Congress averts a government shutdown ahead of the midterms</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-01 18:06</span>
             </div>
         </div>
 <div class="story">
@@ -80,29 +98,20 @@
                 <span class="time">2026-09-01 14:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/01/1139228585/wendell-berry-obituary" target="_blank">Beloved writer and environmentalist Wendell Berry has died at age 92</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-01 13:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/01/g-s1-141347/met-gala-john-galliano-exhibit-canceled" target="_blank">Amid backlash, museum cancels planned Met Gala exhibit on fashion designer John Galliano</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-01 05:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming" target="_blank">Apple Maps follows Google in renaming Lake Ontario</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-09-01 21:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2020/05/GettyImages-1207345894-500x500.jpg" alt="A newborn and child reportedly died of measles; CDC isn&#x27;t counting them" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,20 +157,20 @@
                 <span class="time">2026-09-01 05:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/987032/google-tv-streamer-price-increase" target="_blank">The Google TV Streamer now costs $50 more</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-08-31 22:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-HDMI-Passive-VRR" target="_blank">AMDGPU Linux Driver&#x27;s Latest Patches For HDMI Passive VRR Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-01 20:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +216,6 @@
                 <span class="time">2026-09-01 14:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/support-restores-openstack" target="_blank">Surviving the uncharted: when dedicated OpenStack expertise is your best ally in disaster recovery</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-09-01 11:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,12 +236,39 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/09/GettyImages-2283664856-1280x853.jpg" alt="Video Game Kratos Christopher Judge Explains Why He Didn’t Want To Star In The God Of War TV Show: ‘I Just Have No Desire To Live That Way Again’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/video-game-kratos-christopher-judge-explains-why-he-didnt-want-to-star-in-the-god-of-war-tv-show-i-just-have-no-desire-to-live-that-way-again-2000730345" target="_blank">Video Game Kratos Christopher Judge Explains Why He Didn’t Want To Star In The God Of War TV Show: ‘I Just Have No Desire To Live That Way Again’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-01 21:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M1CJECG4YEMFCT5ZCS51M77H/hero-image.jpg" alt="10 Apple Health Hacks Every iPhone User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/best-apple-health-hacks?utm_medium=RSS" target="_blank">10 Apple Health Hacks Every iPhone User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-09-01 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/09/aerial-knight-mr-freezy-indie-of-the-week-1280x720.jpg" alt="A Puzzle Game About Using Your Head To Decapitate People Was Inspired By Dots But Plays More Like Catherine" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/a-puzzle-game-about-using-your-head-to-decapitate-people-was-inspired-by-dots-but-plays-more-like-catherine-2000730271" target="_blank">A Puzzle Game About Using Your Head To Decapitate People Was Inspired By Dots But Plays More Like Catherine</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-09-01 18:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/Image-Shutterstock-TSViPhoto.jpg?fit=1080%2C721&amp;quality=60&amp;ssl=1" alt="Someone may have told a bunch of military fridges to defrost" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/09/01/someone-may-have-told-a-bunch-of-military-fridges-to-defrost.html" target="_blank">Someone may have told a bunch of military fridges to defrost</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-09-01 15:43</span>
             </div>
         </div>
 <div class="story">
@@ -262,33 +289,6 @@
                 <span class="time">2026-09-01 13:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/ss_68d5acedd1b34badb379215eaf2bd0af3f43c3b1.1920x1080-1280x720.jpg" alt="Studio Behind The Best-Reviewed Star Wars Game In 22 Years Furloughed Up To 80 Percent Of Its Staff" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/studio-behind-the-best-reviewed-star-wars-game-in-22-years-furloughed-up-to-80-percent-of-its-staff-2000730078" target="_blank">Studio Behind The Best-Reviewed Star Wars Game In 22 Years Furloughed Up To 80 Percent Of Its Staff</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-09-01 04:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/ps5discs-1280x720.jpg" alt="Sony Argues No One’s Dumb Enough To Think They Actually Own A Digital Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/sony-argues-no-ones-dumb-enough-to-think-they-actually-own-a-digital-game-2000730015" target="_blank">Sony Argues No One’s Dumb Enough To Think They Actually Own A Digital Game</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-08-31 20:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/An-insouciant-capybara-wanders-through-the-Mato.jpg?fit=834%2C568&amp;quality=60&amp;ssl=1" alt="Capybaras invade state legislature in Brazil" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/08/31/capybaras-invade-state-legislature-in-brazil.html" target="_blank">Capybaras invade state legislature in Brazil</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-08-31 20:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -303,22 +303,13 @@
                 <span class="time">2026-09-01 01:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/08/31/how-to-find-me-pax" target="_blank">How to Find Me @ PAX!</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-08-31 19:23</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 49 | 📡 Total Sources: 40 | 📸 With Images: 246 |
-        🔄 Last Updated: 18:57 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 49 | 📡 Total Sources: 40 | 📸 With Images: 247 |
+        🔄 Last Updated: 21:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
