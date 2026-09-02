@@ -1,34 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-09-02 15:30:30 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-02 19:02:20 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 14 new posts out of 26 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Error processing https://krebsonsecurity.com/feed/: The read operation timed out -->
+<!-- Generated 9 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, September 02, 2026 - 15:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, September 02, 2026 - 19:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95c5/live/e8573cc0-a6ec-11f1-aed2-8d6da8d75094.jpg" alt="Burnham pressed on economy at first PMQs as UK borrowing costs rise" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cn9wv7pene2o?at_medium=RSS&at_campaign=rss" target="_blank">Burnham pressed on economy at first PMQs as UK borrowing costs rise</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-02 16:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +95,29 @@
                 <span class="time">2026-09-02 05:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1788322699043_now_brk_ske_mass_dems_260901_S3_1920x1080-ops48d.jpg" alt="Markey, Neal, and Lynch projected winners in Massachusetts Democratic primaries" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/markey-neal-and-lynch-projected-winners-in-massachusetts-democratic-primaries-269195333680" target="_blank">Markey, Neal, and Lynch projected winners in Massachusetts Democratic primaries</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-09-02 04:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/988398/rei-labor-day-sale-deal-2026" target="_blank">Here are some of REI’s best Labor Day sale deals</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-09-02 18:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/" target="_blank">Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-09-02 17:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,29 +154,38 @@
                 <span class="time">2026-09-02 11:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/987582/irobot-roomba-max-875-sealforce-robot-vacuum-announced" target="_blank">This new Roomba seals itself to your carpet</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-09-02 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg" alt="Booking.com Promo Codes: 20% Off | September 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/booking-com-promo-code/" target="_blank">Booking.com Promo Codes: 20% Off | September 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-09-02 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/n0tzayn/stop-wasting-tokens-re-uploading-screenshots-and-specs-my-mcp-setup-cgd" target="_blank">Stop wasting tokens re-uploading screenshots and specs: My MCP setup</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-02 18:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/09/Arduino-VENTUNO-Q.webp?resize=406%2C232&amp;ssl=1" alt="Arduino’s VENTUNO Q went up for pre-order, sold out" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/arduino-ventuno-q-preorder" target="_blank">Arduino’s VENTUNO Q went up for pre-order, sold out</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-09-02 18:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/" target="_blank">How we make AI coding more cost efficient without sacrificing task quality</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-09-02 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -189,33 +213,6 @@
                 <span class="time">2026-09-02 14:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/09/swiggy-pltv-multitask-mlp/en/headerimage/generatedHeaderImage-1787507980584.jpg" alt="Swiggy Uses 350+ Features and Multi-Task MLP to Predict Customer Lifetime Value" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/09/swiggy-pltv-multitask-mlp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Swiggy Uses 350+ Features and Multi-Task MLP to Predict Customer Lifetime Value</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-09-02 13:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://lwn.net/Articles/1090585/" target="_blank">A Note from LWN</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-02 13:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17437119/for-honor-drops-linux-support" target="_blank">An Honorless Move! Ubisoft Decides Linux isn&#x27;t Worth the Effort</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-09-02 10:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,20 +236,29 @@
                 <span class="time">2026-09-01 22:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/09/whats-the-scam.html" target="_blank">What’s the Scam?</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-09-01 17:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/09/Noah-kotaku-1280x720.jpg" alt="Avengers: Secret Wars May Have Cast One Of The Most Important Characters In The MCU" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/avengers-secret-wars-doomsday-noah-jupe-franklin-beyonder-2000730602" target="_blank">Avengers: Secret Wars May Have Cast One Of The Most Important Characters In The MCU</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-02 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M1018G47EMNCTFEXAAA2NWH1/hero-image.webp" alt="The Best Deals on Tools and Appliances From Home Depot&#x27;s 2026 Early Labor Day Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-deals-home-depot-early-labor-day-sale?utm_medium=RSS" target="_blank">The Best Deals on Tools and Appliances From Home Depot&#x27;s 2026 Early Labor Day Sale</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-09-02 18:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01M1CNXXEYPE51P194PSFGJZ9Z/hero-image.webp" alt="Lifehacker Early Labor Day Sale Live Blog: The Best Labor Day Deals, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,24 +293,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/best-deals-from-best-buys-early-labor-day-sale-2026?utm_medium=RSS" target="_blank">The Best Deals From Best Buy&#x27;s Early Labor Day Sale 2026</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-09-01 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/09/GettyImages-2283664856-1280x853.jpg" alt="Video Game Kratos Christopher Judge Explains Why He Didn’t Want To Star In The God Of War TV Show: ‘I Just Have No Desire To Live That Way Again’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/video-game-kratos-christopher-judge-explains-why-he-didnt-want-to-star-in-the-god-of-war-tv-show-i-just-have-no-desire-to-live-that-way-again-2000730345" target="_blank">Video Game Kratos Christopher Judge Explains Why He Didn’t Want To Star In The God Of War TV Show: ‘I Just Have No Desire To Live That Way Again’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-09-01 21:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/MagTag-Ultra-Slim-Tracker-Card.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Ditch the AirTag bulge with this $24 ultra-slim MagTag tracker card" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/09/01/ditch-the-airtag-bulge-with-this-24-ultra-slim-magtag-tracker-card.html" target="_blank">Ditch the AirTag bulge with this $24 ultra-slim MagTag tracker card</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-09-01 21:00</span>
             </div>
         </div>
 </div>
@@ -344,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 59 | 📡 Total Sources: 40 | 📸 With Images: 254 |
-        🔄 Last Updated: 15:30 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 55 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 19:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
