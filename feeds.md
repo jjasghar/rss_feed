@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-09-02 01:47:25 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-02 06:33:44 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, September 02, 2026 - 01:47 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, September 02, 2026 - 06:33 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1788322699043_now_brk_ske_mass_dems_260901_S3_1920x1080-ops48d.jpg" alt="Markey, Neal, and Lynch projected winners in Massachusetts Democratic primaries" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/markey-neal-and-lynch-projected-winners-in-massachusetts-democratic-primaries-269195333680" target="_blank">Markey, Neal, and Lynch projected winners in Massachusetts Democratic primaries</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-09-02 04:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +99,38 @@
                 <span class="time">2026-09-01 20:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/9/1/un-food-agency-cuts-aid-in-west-bank-amid-funding-crisis?traffic_source=rss" target="_blank">UN food agency cuts aid in West Bank amid funding crisis</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-01 18:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/987582/irobot-roomba-max-875-sealforce-robot-vacuum-announced" target="_blank">This new Roomba seals itself to your carpet</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-09-02 06:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg" alt="Booking.com Promo Codes: 20% Off | September 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/booking-com-promo-code/" target="_blank">Booking.com Promo Codes: 20% Off | September 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-02 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/" target="_blank">Larry Page’s flying car company Pivotal loses its CEO</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-09-01 23:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a972c251a29cad3901a2042/master/pass/RANGE-ROVER-ELECTRIC-FRONT-02_09_26.jpg" alt="The Range Rover Electric: Specs, Price, Availability" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -130,38 +158,20 @@
                 <span class="time">2026-09-01 21:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2020/05/GettyImages-1207345894-500x500.jpg" alt="A newborn and child reportedly died of measles; CDC isn&#x27;t counting them" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/09/cdc-reported-then-deleted-two-measles-deaths-that-were-questioned-by-rfk-jr/" target="_blank">A newborn and child reportedly died of measles; CDC isn&#x27;t counting them</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-09-01 18:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/" target="_blank">Fambot introduces an ‘AI chief of staff’ for families</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-09-01 15:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a95b91888d28650c3255bcd/master/pass/Sonos%20Ace%20Ultra%201.JPG" alt="Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/sonos-has-new-devices-a-new-os-and-yes-a-new-app/" target="_blank">Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-09-01 14:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkui0cehwy8mvc84kkqfj.jpg" alt="7 Reasons Your RAG Chatbot Fails in Production (And How to Fix Them in TypeScript)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hussnain-shahid/7-reasons-your-rag-chatbot-fails-in-production-and-how-to-fix-them-in-typescript-3ja" target="_blank">7 Reasons Your RAG Chatbot Fails in Production (And How to Fix Them in TypeScript)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-02 06:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmt875nofhbde7c5gbrw6.jpg" alt="Hearing the Mountain&#x27;s Roar: How Antigravity CLI&#x27;s AI Agents &amp; IoT Data Track Volcanic Shockwaves" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -190,6 +200,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/09/linux-release-roundup-august-2026.webp?resize=406%2C232&amp;ssl=1" alt="Linux App Release Roundup (August 2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/linux-app-release-roundup-august-2026" target="_blank">Linux App Release Roundup (August 2026)</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-09-01 22:18</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -198,29 +217,29 @@
                 <span class="time">2026-09-01 21:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-HDMI-Passive-VRR" target="_blank">AMDGPU Linux Driver&#x27;s Latest Patches For HDMI Passive VRR Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-01 20:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/09/openclaw-2-release/en/headerimage/generatedHeaderImage-1788278004063.jpg" alt="OpenClaw 2.0 Releases with Simplified Setup and Collaborative Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/09/openclaw-2-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenClaw 2.0 Releases with Simplified Setup and Collaborative Agents</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-09-01 18:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/" target="_blank">FBI Probes Service Selling 153M+ Drivers Licenses</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2026-09-01 22:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/09/whats-the-scam.html" target="_blank">What’s the Scam?</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-09-01 17:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -303,22 +322,13 @@
                 <span class="time">2026-09-01 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5907.png" alt="Woomy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5907" target="_blank">Woomy</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-09-01 01:55</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 56 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 01:47 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 54 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 06:33 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
