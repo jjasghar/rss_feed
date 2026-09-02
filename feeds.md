@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-09-02 11:49:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-02 15:30:30 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 27 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 14 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, September 02, 2026 - 11:49 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Wednesday, September 02, 2026 - 15:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,12 +45,48 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/02/nx-s1-5954013/us-iran-war-latest-updates" target="_blank">Iran fires on its Gulf neighbors, retaliating for U.S. strikes after a monthlong lull</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-02 15:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/9/2/nepal-pm-links-deadly-floods-to-climate-change?traffic_source=rss" target="_blank">Nepal PM links deadly floods to climate change</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-02 15:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/GMA/clancy-3-ap-gmh-260831_1788182054598_hpMain_4x3t_384.jpg" alt="Lindsay Clancy trial: Jury returns for 5th day of deliberations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/GMA/News/live-updates/lindsay-clancy-trial-jurors-resume-deliberations/?id=136086599" target="_blank">Lindsay Clancy trial: Jury returns for 5th day of deliberations</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-02 14:49</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/nepal-main_1788342914571_hpMain_4x3t_384.jpg" alt="Nepal-Tibet flood death toll tops 1,100 as tens of thousands search for missing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/International/nepal-tibet-flood-death-toll-tops-1100-tens/story?id=136136947" target="_blank">Nepal-Tibet flood death toll tops 1,100 as tens of thousands search for missing</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-09-02 10:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/09/1920x1080/skynews-egypt-bus-crash_7338858.jpg?20260902142019" alt="22 people killed in bus crash in Egypt" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/egypt-bus-crash-21-people-killed-in-area-popular-with-tourists-13580237" target="_blank">22 people killed in bus crash in Egypt</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-09-02 05:56</span>
             </div>
         </div>
 <div class="story">
@@ -64,47 +98,29 @@
                 <span class="time">2026-09-02 04:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/2/iaea-says-syria-built-a-nuclear-reactor-in-deir-az-zor-under-al-assad?traffic_source=rss" target="_blank">IAEA says Syria built a nuclear reactor in Deir Az Zor under al-Assad</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-02 01:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/01/nx-s1-5953111/ed-markey-wins-massachusetts-democratic-primary-us-senate-seth-moulton" target="_blank">Incumbent Sen. Ed Markey wins Massachusetts&#x27; Democratic primary for US Senate</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-02 00:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/iran-4-ht-gmh-260901_1788267813055_hpMain_4x3t_384.jpg" alt="Iran live updates: After launching strikes, US warns of escalation if Iran responds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-centcom-targeted-iranian-forces-posed/?id=136080582" target="_blank">Iran live updates: After launching strikes, US warns of escalation if Iran responds</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-09-01 22:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/09/1920x1080/skynews-mark-carney-canada_7338304.jpg?20260902000119" alt="Stop doing memes and throwing shade, Carney tells Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/mark-carney-tells-trump-stop-doing-memes-and-throwing-shade-13580195" target="_blank">Stop doing memes and throwing shade, Carney tells Trump</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-09-01 22:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/" target="_blank">HiddenLayer nabs $100M as enterprises rush to secure their AI deployments</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-09-02 15:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/news-090126a-lg-500x500.jpg" alt="Toyohiro Akiyama, first Japanese citizen and journalist in space, dies at 84" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/09/toyohiro-akiyama-first-japanese-citizen-and-journalist-in-space-dies-at-84/" target="_blank">Toyohiro Akiyama, first Japanese citizen and journalist in space, dies at 84</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-09-02 14:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,24 +157,6 @@
                 <span class="time">2026-09-02 05:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/" target="_blank">Larry Page’s flying car company Pivotal loses its CEO</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-09-01 23:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a972c251a29cad3901a2042/master/pass/RANGE-ROVER-ELECTRIC-FRONT-02_09_26.jpg" alt="The Range Rover Electric: Specs, Price, Availability" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-range-rover-electric-has-finally-arrived/" target="_blank">The Range Rover Electric: Specs, Price, Availability</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-09-01 23:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,55 +165,55 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/CERN-Goes-Debian-Leaving-RHEL" target="_blank">CERN Transitioning To Debian After Being A Longtime RHEL Institution</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-02 15:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/08/libreoffice-hero.jpg?resize=406%2C232&amp;ssl=1" alt="LibreOffice broke a download record with its latest release" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/libreoffice-download-record" target="_blank">LibreOffice broke a download record with its latest release</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-09-02 15:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://blog.veitheller.de/numpy.html" target="_blank">Tracing np.add, all the way down</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-09-02 14:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/09/swiggy-pltv-multitask-mlp/en/headerimage/generatedHeaderImage-1787507980584.jpg" alt="Swiggy Uses 350+ Features and Multi-Task MLP to Predict Customer Lifetime Value" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/09/swiggy-pltv-multitask-mlp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Swiggy Uses 350+ Features and Multi-Task MLP to Predict Customer Lifetime Value</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-09-02 13:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://lwn.net/Articles/1090585/" target="_blank">A Note from LWN</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-02 13:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17437119/for-honor-drops-linux-support" target="_blank">An Honorless Move! Ubisoft Decides Linux isn&#x27;t Worth the Effort</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2026-09-02 10:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkui0cehwy8mvc84kkqfj.jpg" alt="7 Reasons Your RAG Chatbot Fails in Production (And How to Fix Them in TypeScript)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hussnain-shahid/7-reasons-your-rag-chatbot-fails-in-production-and-how-to-fix-them-in-typescript-3ja" target="_blank">7 Reasons Your RAG Chatbot Fails in Production (And How to Fix Them in TypeScript)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-02 06:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmt875nofhbde7c5gbrw6.jpg" alt="Hearing the Mountain&#x27;s Roar: How Antigravity CLI&#x27;s AI Agents &amp; IoT Data Track Volcanic Shockwaves" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gde/hearing-the-mountains-roar-how-antigravity-clis-ai-agents-iot-data-track-volcanic-shockwaves-13hp" target="_blank">Hearing the Mountain&#x27;s Roar: How Antigravity CLI&#x27;s AI Agents &amp; IoT Data Track Volcanic Shockwaves</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-02 01:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Steam-Survey-August-2026" target="_blank">Steam On Linux Dips Below 4% For August</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-02 00:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alexcarteruk/facebook-temp-email-en-revisiones-de-riesgo-33mn" target="_blank">Facebook temp email en revisiones de riesgo</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-01 23:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/09/linux-release-roundup-august-2026.webp?resize=406%2C232&amp;ssl=1" alt="Linux App Release Roundup (August 2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/linux-app-release-roundup-august-2026" target="_blank">Linux App Release Roundup (August 2026)</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-09-01 22:18</span>
             </div>
         </div>
 </div>
@@ -255,6 +253,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M1CNXXEYPE51P194PSFGJZ9Z/hero-image.webp" alt="Lifehacker Early Labor Day Sale Live Blog: The Best Labor Day Deals, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/early-labor-day-sales-live-blog-09-02-2026?utm_medium=RSS" target="_blank">Lifehacker Early Labor Day Sale Live Blog: The Best Labor Day Deals, All in One Place</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-09-02 15:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01M1CNXXEYPE51P194PSFGJZ9Z/hero-image.webp" alt="Lifehacker Early Labor Day Sale Live Blog: The Best Labor Day Deals, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -300,20 +307,20 @@
                 <span class="time">2026-09-01 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M1CJECG4YEMFCT5ZCS51M77H/hero-image.jpg" alt="10 Apple Health Hacks Every iPhone User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/best-apple-health-hacks?utm_medium=RSS" target="_blank">10 Apple Health Hacks Every iPhone User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-09-01 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1788222449-20260902.png" alt="Saturday Morning Breakfast Cereal - Dilemma" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/dilemma-5" target="_blank">Saturday Morning Breakfast Cereal - Dilemma</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-09-02 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -332,22 +339,13 @@
                 <span class="time">2026-09-02 01:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1788222026-20260901.png" alt="Saturday Morning Breakfast Cereal - Philosophy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/philosophy-6" target="_blank">Saturday Morning Breakfast Cereal - Philosophy</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-09-01 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 54 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 11:49 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 59 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 15:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
