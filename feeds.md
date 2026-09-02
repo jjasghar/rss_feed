@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-09-01 23:38:28 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-02 01:47:25 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 11 new posts out of 26 feeds processed -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, September 01, 2026 - 23:38 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Wednesday, September 02, 2026 - 01:47 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/2/iaea-says-syria-built-a-nuclear-reactor-in-deir-az-zor-under-al-assad?traffic_source=rss" target="_blank">IAEA says Syria built a nuclear reactor in Deir Az Zor under al-Assad</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-02 01:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/01/nx-s1-5953111/ed-markey-wins-massachusetts-democratic-primary-us-senate-seth-moulton" target="_blank">Incumbent Sen. Ed Markey wins Massachusetts&#x27; Democratic primary for US Senate</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-02 00:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/iran-4-ht-gmh-260901_1788267813055_hpMain_4x3t_384.jpg" alt="Iran live updates: After launching strikes, US warns of escalation if Iran responds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -78,24 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/9/1/un-food-agency-cuts-aid-in-west-bank-amid-funding-crisis?traffic_source=rss" target="_blank">UN food agency cuts aid in West Bank amid funding crisis</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-09-01 18:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/01/nx-s1-5951536/house-government-funding-vote-midterms" target="_blank">Congress averts a government shutdown ahead of the midterms</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-01 18:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6b5/live/bf0d1e90-a618-11f1-9ca2-a3e18de91b7b.jpg" alt="Germany says Russia behind Leipzig airport drone attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss" target="_blank">Germany says Russia behind Leipzig airport drone attack</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-01 16:53</span>
             </div>
         </div>
 </div>
@@ -163,6 +163,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmt875nofhbde7c5gbrw6.jpg" alt="Hearing the Mountain&#x27;s Roar: How Antigravity CLI&#x27;s AI Agents &amp; IoT Data Track Volcanic Shockwaves" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gde/hearing-the-mountains-roar-how-antigravity-clis-ai-agents-iot-data-track-volcanic-shockwaves-13hp" target="_blank">Hearing the Mountain&#x27;s Roar: How Antigravity CLI&#x27;s AI Agents &amp; IoT Data Track Volcanic Shockwaves</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-02 01:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Steam-Survey-August-2026" target="_blank">Steam On Linux Dips Below 4% For August</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-02 00:19</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -190,30 +208,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://res.infoq.com/news/2026/09/openclaw-2-release/en/headerimage/generatedHeaderImage-1788278004063.jpg" alt="OpenClaw 2.0 Releases with Simplified Setup and Collaborative Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.anthropic.com/claude-fable-and-mythos-5-1" target="_blank">Claude Fable 5.1 and Claude Mythos 5.1</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-01 17:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substack-post-media.s3.amazonaws.com/public/images/e6e5687b-9265-4270-ab3f-84ad0059e6b1_420x300.png" alt="The Pragmatic Engineer: Five years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-five-years" target="_blank">The Pragmatic Engineer: Five years</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-09-01 17:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17436529/vanilla-os-3-release" target="_blank">Vanilla OS 3 Comes in Hot, Packing ARM64 Support After a Long Wait</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-09-01 17:12</span>
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/09/openclaw-2-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenClaw 2.0 Releases with Simplified Setup and Collaborative Agents</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-09-01 18:47</span>
             </div>
         </div>
 </div>
@@ -235,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M1CNXXEYPE51P194PSFGJZ9Z/hero-image.webp" alt="Lifehacker Early Labor Day Sale Live Blog: The Best Labor Day Deals, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/early-labor-day-sales-live-blog-09-01-2026?utm_medium=RSS" target="_blank">Lifehacker Early Labor Day Sale Live Blog: The Best Labor Day Deals, All in One Place</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-09-02 00:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/09/IMG_9402-1-1280x720.jpeg" alt="Emotional Fans Say Goodbye to Tokyo’s Life-Sized Gundam: ‘Thank You For Your Service!’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/emotional-fans-say-goodbye-to-tokyos-life-sized-gundam-thank-you-for-your-service-2000730106" target="_blank">Emotional Fans Say Goodbye to Tokyo’s Life-Sized Gundam: ‘Thank You For Your Service!’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-02 00:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01M1FD8DDV9EYFJ1Q3FA5Z4GWF/hero-image.webp" alt="The Best Deals From Best Buy&#x27;s Early Labor Day Sale 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,24 +289,6 @@
                 <span class="time">2026-09-01 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/09/aerial-knight-mr-freezy-indie-of-the-week-1280x720.jpg" alt="A Puzzle Game About Using Your Head To Decapitate People Was Inspired By Dots But Plays More Like Catherine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/a-puzzle-game-about-using-your-head-to-decapitate-people-was-inspired-by-dots-but-plays-more-like-catherine-2000730271" target="_blank">A Puzzle Game About Using Your Head To Decapitate People Was Inspired By Dots But Plays More Like Catherine</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-09-01 18:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/Image-Shutterstock-TSViPhoto.jpg?fit=1080%2C721&amp;quality=60&amp;ssl=1" alt="Someone may have told a bunch of military fridges to defrost" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/09/01/someone-may-have-told-a-bunch-of-military-fridges-to-defrost.html" target="_blank">Someone may have told a bunch of military fridges to defrost</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-09-01 15:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -317,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 54 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 23:38 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 56 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 01:47 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
