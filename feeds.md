@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-09-02 06:33:44 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-02 11:49:09 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, September 02, 2026 - 06:33 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Wednesday, September 02, 2026 - 11:49 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/nepal-main_1788342914571_hpMain_4x3t_384.jpg" alt="Nepal-Tibet flood death toll tops 1,100 as tens of thousands search for missing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/nepal-tibet-flood-death-toll-tops-1100-tens/story?id=136136947" target="_blank">Nepal-Tibet flood death toll tops 1,100 as tens of thousands search for missing</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-02 10:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1788322699043_now_brk_ske_mass_dems_260901_S3_1920x1080-ops48d.jpg" alt="Markey, Neal, and Lynch projected winners in Massachusetts Democratic primaries" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,20 +100,29 @@
                 <span class="time">2026-09-01 22:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bb1/live/407a92f0-a62d-11f1-905b-8511af748865.png" alt="Burnham promises more devolution and public control of essential services" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cx2z528rdp6o?at_medium=RSS&at_campaign=rss" target="_blank">Burnham promises more devolution and public control of essential services</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-01 20:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/987972/epilogue-gb-sn-operator-review-nintendo-game-boy-snes" target="_blank">The amazing USB-C gadgets that play old Nintendo cartridges</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-09-02 11:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/rassvet_1-500x500.jpg" alt="Is Russia&#x27;s rival to Starlink failing? Here&#x27;s what we know." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/09/rassvet-russias-rival-to-starlink-is-getting-off-to-a-slow-start/" target="_blank">Is Russia&#x27;s rival to Starlink failing? Here&#x27;s what we know.</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-09-02 11:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,29 +159,20 @@
                 <span class="time">2026-09-01 23:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai" target="_blank">Google needs Hollywood more than the studios need AI</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-09-01 22:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming" target="_blank">Apple Maps follows Google in renaming Lake Ontario</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-09-01 21:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17437119/for-honor-drops-linux-support" target="_blank">An Honorless Move! Ubisoft Decides Linux isn&#x27;t Worth the Effort</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-09-02 10:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkui0cehwy8mvc84kkqfj.jpg" alt="7 Reasons Your RAG Chatbot Fails in Production (And How to Fix Them in TypeScript)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -208,20 +218,20 @@
                 <span class="time">2026-09-01 22:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/WinBtrfs-1.10" target="_blank">WinBtrfs 1.10 Released With Two Years Worth Of Improvements For Btrfs On Windows</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-01 21:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/09/wireless-routers-as-motion-detectors.html" target="_blank">Wireless Routers as Motion Detectors</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-09-02 10:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -238,15 +248,6 @@
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2026/09/whats-the-scam.html" target="_blank">What’s the Scam?</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2026-09-01 17:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/09/rewiring-democracy-series-on-the-renovator.html" target="_blank">Rewiring Democracy Series on The Renovator</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-09-01 09:59</span>
             </div>
         </div>
 </div>
@@ -314,6 +315,24 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/09/02/i-don-t-like-the-bugs-but-the-bugs-like-me" target="_blank">I Don&#x27;t Like The Bugs But The Bugs Like Me</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-09-02 07:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.questionablecontent.net/comics/5908.png" alt="Who&#x27;s That Pokemon?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5908" target="_blank">Who&#x27;s That Pokemon?</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-09-02 01:06</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1788222026-20260901.png" alt="Saturday Morning Breakfast Cereal - Philosophy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -327,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 54 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 06:33 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 54 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 11:49 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
