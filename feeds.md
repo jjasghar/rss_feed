@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-09-03 18:11:00 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-03 21:28:20 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 15 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, September 03, 2026 - 18:11 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, September 03, 2026 - 21:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +43,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/9/3/nepal-flood-victims-to-be-identified-through-dna?traffic_source=rss" target="_blank">Nepal flood victims to be identified through DNA</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-03 21:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/GMA/Lindsay-Clancy-5-rt-gmh-260903_1788456971844_hpMain_4x3t_384.jpg" alt="Lindsay Clancy trial: Tensions flare as defense blames 1 juror for deadlock" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/GMA/News/live-updates/lindsay-clancy-trial-jurors-resume-deliberations/?id=136086599" target="_blank">Lindsay Clancy trial: Tensions flare as defense blames 1 juror for deadlock</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-03 21:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/643a/live/23e8e9b0-a7d7-11f1-809e-25fc74c1ec7d.jpg" alt="Farage senior aide filmed suggesting way to avoid donations law" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cr50ddzl97qo?at_medium=RSS&at_campaign=rss" target="_blank">Farage senior aide filmed suggesting way to avoid donations law</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-03 21:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,38 +97,29 @@
                 <span class="time">2026-09-03 14:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/sep/03/spain-pm-evidence-morocco-ceuta-border-breach" target="_blank">Spain’s PM says no evidence ‘whatsoever’ Morocco behind Ceuta border breach</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-09-03 12:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/03/g-s1-141784/up-first-newsletter-election-security-venezuela-oil-lindsay-clancy-gloria-steinem" target="_blank">Dems demand DHS fund election security. And, journalist Gloria Steinem has died</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-03 11:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1788434086999_tdy_news_7a_anne_gloria_steinem_260903_S3_1920x1080-iu1n7f.jpg" alt="Trailblazing Feminist and Social Activist Gloria Steinem Dies at 92" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/gloria-steinem-trailblazing-feminist-and-social-activist-dies-at-92-269263429859" target="_blank">Trailblazing Feminist and Social Activist Gloria Steinem Dies at 92</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-09-03 11:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/xcloud02-500x500.jpg" alt="Xbox imposes harsh new time limits for Game Pass game streaming" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2026/09/xbox-imposes-harsh-new-time-limits-for-game-pass-game-streaming/" target="_blank">Xbox imposes harsh new time limits for Game Pass game streaming</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-09-03 21:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/989880/dungeons-and-dragons-ravenloft-netflix" target="_blank">Dungeons &amp;#038; Dragons is getting a &amp;#8216;Ravenloft&amp;#8217; live-action Netflix series</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-09-03 20:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,29 +156,29 @@
                 <span class="time">2026-09-03 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/" target="_blank">The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-09-02 23:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a98485377625f71bd332e04/master/pass/Amazon-Raised-Its-Prices.-Don%E2%80%99t-Let-the-Next-Sale-Fool-You.jpg" alt="Amazon’s 2026 Holiday Deals Are About to Look Better Than They Are" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/amazon-increases-prices-kindle-echo-sept-2026/" target="_blank">Amazon’s 2026 Holiday Deals Are About to Look Better Than They Are</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-09-02 22:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/itsmarcandrew/ebays-browse-api-doesnt-return-sold-listings-here-is-a-nodejs-alternative-4mg1" target="_blank">eBay&#x27;s Browse API Doesn&#x27;t Return Sold Listings. Here Is a Node.js Alternative</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-03 21:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://openai.com/index/gpt-6-astra/" target="_blank">GPT-6 Astra</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-03 18:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -185,39 +198,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!l-d4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F534b20ec-8678-40d4-9248-2d5751979703_2048x1145.png" alt="The Pulse: tech companies move to open AI models" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-tech-companies-move-to" target="_blank">The Pulse: tech companies move to open AI models</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-09-03 17:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-github"></span>
                 <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/" target="_blank">GitHub Copilot app for Beginners: Run several agents at once</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2026-09-03 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/09/03/security-control-and-accessibility-si-2026-6/" target="_blank">Elevating security, control, and accessibility: Stack Internal 2026.6</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-09-03 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://neil.fraser.name/news/2026/09/03/" target="_blank">.name Termination</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-03 14:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/09/human-reviews-AI-era/en/headerimage/human-reviews-ai-era-header-1788179792608.jpg" alt="Rigorous Yet Sustainable Human Reviews in the AI Era" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/09/human-reviews-AI-era/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Rigorous Yet Sustainable Human Reviews in the AI Era</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-09-03 11:57</span>
             </div>
         </div>
 </div>
@@ -229,9 +224,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/09/ai-agents-are-now-emailing-me-with-their-security-concerns.html" target="_blank">AI Agents Are Now Emailing Me with Their Security Concerns</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/09/researching-employment-scams.html" target="_blank">Researching Employment Scams</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2026-09-02 18:28</span>
+                <span class="time">2026-09-03 11:18</span>
             </div>
         </div>
 </div>
@@ -239,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/Death-e1788465776664.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Hikers let Gemini plan their Mount Shasta climb. Search and Rescue brought them home" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/09/03/gemini-ai-hikers-mount-shasta-rescue.html" target="_blank">Hikers let Gemini plan their Mount Shasta climb. Search and Rescue brought them home</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-09-03 19:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/09/ff7-tril-bundle-1280x720.jpg" alt="Square Enix Is Selling The Entire Final Fantasy 7 Remake Trilogy, Including Next Year’s Revelation, For Just $85" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,20 +288,20 @@
                 <span class="time">2026-09-03 13:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/Screenshot-Neal.Fun_.jpg?fit=1080%2C566&amp;quality=60&amp;ssl=1" alt="Can you draw the unusual suspects?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/09/02/can-you-draw-the-unusual-suspects.html" target="_blank">Can you draw the unusual suspects?</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-09-03 03:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/09/03/the-lost-bladez" target="_blank">The Lost Bladez</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-09-03 17:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1788389671-20260903.png" alt="Saturday Morning Breakfast Cereal - Meaning" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -316,22 +320,13 @@
                 <span class="time">2026-09-03 01:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/09/02/our-overpower-sponsored-thingy-is-up" target="_blank">Our Overpower Sponsored Thingy Is Up</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-09-02 21:17</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 58 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 18:11 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 54 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 21:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
