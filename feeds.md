@@ -1,27 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-09-03 05:17:12 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-09-03 10:17:18 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 19 feeds processed -->
+<!-- Generated 9 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, September 03, 2026 - 05:17 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Thursday, September 03, 2026 - 10:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,6 +51,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Tehran-DB-260903_1788416718147_hpMain_4x3t_384.jpg" alt="Iran live updates: Tehran claims attacks on US bases in Kuwait, UAE" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-centcom-targeted-iranian-forces-posed/?id=136080582" target="_blank">Iran live updates: Tehran claims attacks on US bases in Kuwait, UAE</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-03 09:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067c/live/99ebc3c0-a70b-11f1-b109-879e35c24276.jpg" alt="UN warns of &#x27;supersized&#x27; El Niño as countries prepare for impact" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss" target="_blank">UN warns of &#x27;supersized&#x27; El Niño as countries prepare for impact</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-03 06:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bb1/live/cf1e6580-a764-11f1-a291-b542ee92de7c.jpg" alt="Channel smuggling gangs resort to &#x27;mega-dinghies&#x27; as crackdown limits small boat supply" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss" target="_blank">Channel smuggling gangs resort to &#x27;mega-dinghies&#x27; as crackdown limits small boat supply</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-03 05:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/Minneapolis-shooting_1788396166684_hpMain_4x3t_384.jpg" alt="2 dead after multiple people shot at apartment building: Police" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -64,38 +105,20 @@
                 <span class="time">2026-09-02 21:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1202/live/6e6ca9d0-a70b-11f1-aed2-8d6da8d75094.jpg" alt="Burnham pressed on economy at first PMQs as borrowing costs surge" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cn9wv7pene2o?at_medium=RSS&at_campaign=rss" target="_blank">Burnham pressed on economy at first PMQs as borrowing costs surge</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-02 20:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/GMA/clancy-3-ap-gmh-260831_1788182054598_hpMain_4x3t_384.jpg" alt="Lindsay Clancy trial: Jury deadlocked for 2nd time" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/GMA/News/live-updates/lindsay-clancy-trial-jurors-resume-deliberations/?id=136086599" target="_blank">Lindsay Clancy trial: Jury deadlocked for 2nd time</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-09-02 20:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/02/nx-s1-5954022/irs-tax-collection-job-reductions" target="_blank">The IRS slashed its staff. One result? More taxes going uncollected</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-02 19:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a9600c80fdf8d2aaa7d4ea9/master/pass/Possible-to-Understand-Quantum-Mechanics-Science-2216028052.jpg" alt="Is It Even Possible to Understand Quantum Mechanics?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/is-it-even-possible-to-understand-quantum-mechanics/" target="_blank">Is It Even Possible to Understand Quantum Mechanics?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-03 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,20 +164,20 @@
                 <span class="time">2026-09-02 21:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash" target="_blank">Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-09-02 20:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/presentations/instrumenting-scale/en/mediumimage/brian-martin-medium-1787812453109.jpg" alt="Presentation: Instrumentation at Scale: Having Your Performance Cake and Eating It Too" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/instrumenting-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Instrumentation at Scale: Having Your Performance Cake and Eating It Too</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-09-03 09:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -162,6 +185,15 @@
                 <span class="title"><a href="https://stackoverflow.blog/2026/09/03/the-economics-of-agent-scale/" target="_blank">The economics of agent scale: tokens, ROI, and building platforms for AI-first teams (Part 2)</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2026-09-03 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/09/canonical-open-alliance-ai.webp?resize=406%2C232&amp;ssl=1" alt="Canonical joins the Open Secure AI Alliance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/canonical-joins-open-secure-ai-alliance" target="_blank">Canonical joins the Open Secure AI Alliance</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-09-03 01:02</span>
             </div>
         </div>
 <div class="story">
@@ -189,24 +221,6 @@
                 <span class="title"><a href="https://dev.to/seballiot/adding-a-uuid-primary-key-to-my-rust-framework-forced-me-to-actually-test-it-kem" target="_blank">Adding a UUID Primary Key to My Rust Framework Forced Me to Actually Test It</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-09-02 21:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/" target="_blank">Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-09-02 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://developer.meta.com/ai/models/muse-spark/" target="_blank">Muse Spark 1.3</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-02 19:35</span>
             </div>
         </div>
 </div>
@@ -323,22 +337,13 @@
                 <span class="time">2026-09-02 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/09/02/i-don-t-like-the-bugs-but-the-bugs-like-me" target="_blank">I Don&#x27;t Like The Bugs But The Bugs Like Me</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-09-02 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 58 | 📡 Total Sources: 39 | 📸 With Images: 247 |
-        🔄 Last Updated: 05:17 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 60 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 10:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
