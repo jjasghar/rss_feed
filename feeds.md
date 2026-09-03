@@ -1,41 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-09-03 10:17:18 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-09-03 14:46:21 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 32 feeds processed -->
+<!-- Generated 8 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Thursday, September 03, 2026 - 10:17 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Thursday, September 03, 2026 - 14:46 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +38,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/GMA/Lindsay-Clancy-4-rt-gmh-260903_1788439926466_hpMain_4x3t_384.jpg" alt="Lindsay Clancy trial: Jury returns for day 6 of deliberations after 2nd deadlock" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/GMA/News/live-updates/lindsay-clancy-trial-jurors-resume-deliberations/?id=136086599" target="_blank">Lindsay Clancy trial: Jury returns for day 6 of deliberations after 2nd deadlock</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-03 14:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/sep/03/spain-pm-evidence-morocco-ceuta-border-breach" target="_blank">Spain’s PM says no evidence ‘whatsoever’ Morocco behind Ceuta border breach</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-09-03 12:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/03/g-s1-141784/up-first-newsletter-election-security-venezuela-oil-lindsay-clancy-gloria-steinem" target="_blank">Dems demand DHS fund election security. And, journalist Gloria Steinem has died</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-03 11:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1788434086999_tdy_news_7a_anne_gloria_steinem_260903_S3_1920x1080-iu1n7f.jpg" alt="Trailblazing Feminist and Social Activist Gloria Steinem Dies at 92" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/gloria-steinem-trailblazing-feminist-and-social-activist-dies-at-92-269263429859" target="_blank">Trailblazing Feminist and Social Activist Gloria Steinem Dies at 92</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-09-03 11:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Tehran-DB-260903_1788416718147_hpMain_4x3t_384.jpg" alt="Iran live updates: Tehran claims attacks on US bases in Kuwait, UAE" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -69,47 +92,20 @@
                 <span class="time">2026-09-03 06:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bb1/live/cf1e6580-a764-11f1-a291-b542ee92de7c.jpg" alt="Channel smuggling gangs resort to &#x27;mega-dinghies&#x27; as crackdown limits small boat supply" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss" target="_blank">Channel smuggling gangs resort to &#x27;mega-dinghies&#x27; as crackdown limits small boat supply</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-03 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Minneapolis-shooting_1788396166684_hpMain_4x3t_384.jpg" alt="2 dead after multiple people shot at apartment building: Police" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/multiple-victims-including-2-officers-minneapolis-shooting-officials/story?id=136157683" target="_blank">2 dead after multiple people shot at apartment building: Police</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-09-03 00:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/02/nx-s1-5954825/nba-suspends-clippers-owner-ballmer-fines-team-30m-kawhi-leonard-700k-in-cap-circumvention-case" target="_blank">NBA suspends Clippers owner Ballmer, fines team $30M, Kawhi Leonard $700K in cap circumvention case</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-02 21:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-says-israel-is-working-to-overthrow-irans-government?traffic_source=rss" target="_blank">Israeli PM says Israel is working to overthrow Iran’s government</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-02 21:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/09/hugging_face_3-500x500.jpg" alt="Nvidia buys Hugging Face, the GitHub of AI, for $13 billion" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/" target="_blank">Nvidia buys Hugging Face, the GitHub of AI, for $13 billion</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-09-03 13:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a9600c80fdf8d2aaa7d4ea9/master/pass/Possible-to-Understand-Quantum-Mechanics-Science-2216028052.jpg" alt="Is It Even Possible to Understand Quantum Mechanics?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -155,20 +151,20 @@
                 <span class="time">2026-09-02 21:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a9753168e71dd67ca5defbc/master/pass/politics_democrats_prosecute_trump_family.jpg" alt="Democrats Have a Plan to Force Trump’s Associates to Cooperate With Investigations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/democrats-have-a-plan-to-force-trumps-associates-to-cooperate-with-investigations/" target="_blank">Democrats Have a Plan to Force Trump’s Associates to Cooperate With Investigations</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-09-02 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/09/03/security-control-and-accessibility-si-2026-6/" target="_blank">Elevating security, control, and accessibility: Stack Internal 2026.6</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-09-03 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/presentations/instrumenting-scale/en/mediumimage/brian-martin-medium-1787812453109.jpg" alt="Presentation: Instrumentation at Scale: Having Your Performance Cake and Eating It Too" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -214,15 +210,6 @@
                 <span class="time">2026-09-03 00:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/seballiot/adding-a-uuid-primary-key-to-my-rust-framework-forced-me-to-actually-test-it-kem" target="_blank">Adding a UUID Primary Key to My Rust Framework Forced Me to Actually Test It</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-02 21:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,20 +224,29 @@
                 <span class="time">2026-09-02 18:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/09/wireless-routers-as-motion-detectors.html" target="_blank">Wireless Routers as Motion Detectors</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-09-02 10:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/09/08_Cid_re2_FIX-1280x720.jpg" alt="You’ll Need To Pay $100 To Play Final Fantasy 7 Revelation 24 Hours Early" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/youll-need-to-pay-100-to-play-final-fantasy-7-revelation-24-hours-early-2000730935" target="_blank">You’ll Need To Pay $100 To Play Final Fantasy 7 Revelation 24 Hours Early</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-03 14:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M1C542Y3BFAZPXKFQYPBSHQB/hero-image.jpg" alt="I Let ChatGPT Sign Into My Web Accounts for Me, and It Was More Trouble Than It’s Worth" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/i-let-chatgpt-sign-into-my-web-accounts-for-me?utm_medium=RSS" target="_blank">I Let ChatGPT Sign Into My Web Accounts for Me, and It Was More Trouble Than It’s Worth</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-09-03 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/Screenshot-Neal.Fun_.jpg?fit=1080%2C566&amp;quality=60&amp;ssl=1" alt="Can you draw the unusual suspects?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,24 +281,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-amazon-early-labor-day-sale-2026?utm_medium=RSS" target="_blank">The Best Tech Deals From Amazon&#x27;s 2026 Early Labor Day Sale</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-09-02 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/09/Noah-kotaku-1280x720.jpg" alt="Avengers: Secret Wars May Have Cast One Of The Most Important Characters In The MCU" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/avengers-secret-wars-doomsday-noah-jupe-franklin-beyonder-2000730602" target="_blank">Avengers: Secret Wars May Have Cast One Of The Most Important Characters In The MCU</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-09-02 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M1018G47EMNCTFEXAAA2NWH1/hero-image.webp" alt="The Best Deals on Tools and Appliances From Home Depot&#x27;s 2026 Early Labor Day Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-deals-home-depot-early-labor-day-sale?utm_medium=RSS" target="_blank">The Best Deals on Tools and Appliances From Home Depot&#x27;s 2026 Early Labor Day Sale</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-09-02 18:30</span>
             </div>
         </div>
 </div>
@@ -342,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 60 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 10:17 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 60 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 14:46 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
