@@ -1,44 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-09-02 22:05:24 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-03 00:48:16 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 17 new posts out of 35 feeds processed -->
+<!-- Generated 12 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, September 02, 2026 - 22:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, September 03, 2026 - 00:48 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/Minneapolis-shooting_1788396166684_hpMain_4x3t_384.jpg" alt="2 dead after multiple people shot at apartment building: Police" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/multiple-victims-including-2-officers-minneapolis-shooting-officials/story?id=136157683" target="_blank">2 dead after multiple people shot at apartment building: Police</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-03 00:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/02/nx-s1-5954825/nba-suspends-clippers-owner-ballmer-fines-team-30m-kawhi-leonard-700k-in-cap-circumvention-case" target="_blank">NBA suspends Clippers owner Ballmer, fines team $30M, Kawhi Leonard $700K in cap circumvention case</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-02 21:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,24 +103,6 @@
                 <span class="time">2026-09-02 19:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7003/live/d674cf10-a6ef-11f1-9e4c-79c1c0e340c6.jpg" alt="Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss" target="_blank">Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-02 17:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95c5/live/e8573cc0-a6ec-11f1-aed2-8d6da8d75094.jpg" alt="Burnham pressed on economy at first PMQs as UK borrowing costs rise" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cn9wv7pene2o?at_medium=RSS&at_campaign=rss" target="_blank">Burnham pressed on economy at first PMQs as UK borrowing costs rise</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-02 16:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -117,9 +112,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/" target="_blank">The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-09-02 23:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a98485377625f71bd332e04/master/pass/Amazon-Raised-Its-Prices.-Don%E2%80%99t-Let-the-Next-Sale-Fool-You.jpg" alt="Amazon’s 2026 Holiday Deals Are About to Look Better Than They Are" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/amazon-increases-prices-kindle-echo-sept-2026/" target="_blank">Amazon’s 2026 Holiday Deals Are About to Look Better Than They Are</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-02 22:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/" target="_blank">Google spared from ad-business breakup, but judge orders changes to how it operates</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-09-02 21:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/us-capitol-500x500-1777657446.jpg" alt="Spending deal comes with a bonus: Blocking political control of grants" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/09/budget-deal-puts-political-control-of-grants-on-hold-until-december/" target="_blank">Spending deal comes with a bonus: Blocking political control of grants</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-09-02 21:20</span>
             </div>
         </div>
 <div class="story">
@@ -140,38 +162,29 @@
                 <span class="time">2026-09-02 20:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/988398/rei-labor-day-sale-deal-2026" target="_blank">Here are some of REI’s best Labor Day sale deals</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-09-02 18:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/" target="_blank">Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-09-02 17:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/" target="_blank">HiddenLayer nabs $100M as enterprises rush to secure their AI deployments</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-09-02 15:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Lemonade-11.9-ROCm-HRX" target="_blank">Lemonade 11.9 Local AI Server Released With Super Exciting AMD ROCm HRX Backend</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-03 00:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/suttonhawkins6723/immediate-access-shutdown-for-profile-updates-and-global-session-revocation-3-rules-1f7o" target="_blank">Immediate Access Shutdown for Profile Updates and Global Session Revocation (3 Rules)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-03 00:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,24 +221,6 @@
                 <span class="time">2026-09-02 18:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/09/Arduino-VENTUNO-Q.webp?resize=406%2C232&amp;ssl=1" alt="Arduino’s VENTUNO Q went up for pre-order, sold out" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/arduino-ventuno-q-preorder" target="_blank">Arduino’s VENTUNO Q went up for pre-order, sold out</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-09-02 18:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/" target="_blank">How we make AI coding more cost efficient without sacrificing task quality</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-09-02 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -249,20 +244,20 @@
                 <span class="time">2026-09-02 10:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/" target="_blank">FBI Probes Service Selling 153M+ Drivers Licenses</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2026-09-01 22:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/09/witcher-3-cyberpunk-1280x673.jpg" alt="The Witcher 3 Remastered Isn’t Pulling Punches: ‘When We Think About This Remaster, It’s Almost Like A 2.0 Overhaul’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-witcher-3-remastered-isnt-pulling-punches-when-we-think-about-this-remaster-its-almost-like-a-2-0-overhaul-2000730636" target="_blank">The Witcher 3 Remastered Isn’t Pulling Punches: ‘When We Think About This Remaster, It’s Almost Like A 2.0 Overhaul’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-02 22:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/09/witcher-3-1280x720.jpg" alt="A Witcher 3 Dev Reflects On Its Most Memorable Quest: ‘The Bloody Baron Quest, I Made So Many Mistakes’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,6 +265,15 @@
                 <span class="title"><a href="https://kotaku.com/a-witcher-3-dev-reflects-on-its-most-memorable-quest-the-bloody-baron-quest-i-made-so-many-mistakes-2000730612" target="_blank">A Witcher 3 Dev Reflects On Its Most Memorable Quest: ‘The Bloody Baron Quest, I Made So Many Mistakes’</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-09-02 21:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M154WXDQ0G0PJGFPK4M1VV4C/hero-image.webp" alt="The Best Tech Deals From Amazon&#x27;s 2026 Early Labor Day Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-amazon-early-labor-day-sale-2026?utm_medium=RSS" target="_blank">The Best Tech Deals From Amazon&#x27;s 2026 Early Labor Day Sale</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-09-02 21:30</span>
             </div>
         </div>
 <div class="story">
@@ -297,24 +301,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/early-labor-day-sales-live-blog-09-02-2026?utm_medium=RSS" target="_blank">Lifehacker Early Labor Day Sale Live Blog: The Best Labor Day Deals, All in One Place</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-09-02 15:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M1CNXXEYPE51P194PSFGJZ9Z/hero-image.webp" alt="Lifehacker Early Labor Day Sale Live Blog: The Best Labor Day Deals, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/early-labor-day-sales-live-blog-09-01-2026?utm_medium=RSS" target="_blank">Lifehacker Early Labor Day Sale Live Blog: The Best Labor Day Deals, All in One Place</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-09-02 00:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/09/IMG_9402-1-1280x720.jpeg" alt="Emotional Fans Say Goodbye to Tokyo’s Life-Sized Gundam: ‘Thank You For Your Service!’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/emotional-fans-say-goodbye-to-tokyos-life-sized-gundam-thank-you-for-your-service-2000730106" target="_blank">Emotional Fans Say Goodbye to Tokyo’s Life-Sized Gundam: ‘Thank You For Your Service!’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-09-02 00:23</span>
             </div>
         </div>
 </div>
@@ -363,8 +349,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 62 | 📡 Total Sources: 39 | 📸 With Images: 248 |
-        🔄 Last Updated: 22:05 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 60 | 📡 Total Sources: 39 | 📸 With Images: 247 |
+        🔄 Last Updated: 00:48 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
