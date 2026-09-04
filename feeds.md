@@ -1,38 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-09-03 23:38:35 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-09-04 01:47:45 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 11 new posts out of 29 feeds processed -->
+<!-- Generated 11 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, September 03, 2026 - 23:38 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, September 04, 2026 - 01:48 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/9/4/feminist-trailblazer-gloria-steinem-passes-away-at-age-92?traffic_source=rss" target="_blank">Feminist trailblazer Gloria Steinem passes away at age 92</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-04 01:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/GMA/Lindsay-Clancy-5-rt-gmh-260903_1788456971844_hpMain_4x3t_384.jpg" alt="Lindsay Clancy trial: What to know about reasonable doubt, insanity defense" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/GMA/News/lindsay-clancy-trial-guilty-lack-responsibility/story?id=136187449" target="_blank">Lindsay Clancy trial: What to know about reasonable doubt, insanity defense</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-04 00:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +103,38 @@
                 <span class="time">2026-09-03 21:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/09/1920x1080/skynews-trump-america_7340380.jpg?20260903215041" alt="Trump avoids backing UK over Falklands, saying Britain &#x27;not there to help&#x27; in Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trump-avoids-backing-uk-over-falklands-saying-britain-not-there-to-help-in-iran-13581044" target="_blank">Trump avoids backing UK over Falklands, saying Britain &#x27;not there to help&#x27; in Iran</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-09-03 20:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/9/3/gaza-farmers-restore-seed-bank-to-preserve-local-crops?traffic_source=rss" target="_blank">Gaza farmers restore seed bank to preserve local crops</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-03 17:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/" target="_blank">Crusoe reportedly raises $3B at a  $30B valuation</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-09-04 00:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a9a07338aae3f350260c9af/master/pass/Wikipedia-Workers-Vote-on-Whether-to-Unionize-Business.jpg" alt="Wikipedia Workers Unionize for the First Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/wikipedia-workers-vote-on-whether-to-unionize/" target="_blank">Wikipedia Workers Unionize for the First Time</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-04 00:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk" target="_blank">The unusually muted Tesla Cybercab launch</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-09-04 00:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -117,48 +145,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2233024483-500x500.jpg" alt="Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/09/reports-rfk-jr-ordered-measles-deaths-deletion-cdc-still-secretly-counts-them/" target="_blank">Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-09-03 22:13</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/xcloud02-500x500.jpg" alt="Xbox imposes harsh new time limits for Game Pass game streaming" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
                 <span class="title"><a href="https://arstechnica.com/gaming/2026/09/xbox-imposes-harsh-new-time-limits-for-game-pass-game-streaming/" target="_blank">Xbox imposes harsh new time limits for Game Pass game streaming</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-09-03 21:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/989880/dungeons-and-dragons-ravenloft-netflix" target="_blank">Dungeons &amp;#038; Dragons is getting a &amp;#8216;Ravenloft&amp;#8217; live-action Netflix series</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-09-03 20:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/" target="_blank">OpenAI launches Astra, its powerful (and controversial) new model</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-09-03 18:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release" target="_blank">OpenAI’s next big AI model has ‘entered the AGI era’</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-09-03 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/09/hugging_face_3-500x500.jpg" alt="Nvidia buys Hugging Face, the GitHub of AI, for $13 billion" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/" target="_blank">Nvidia buys Hugging Face, the GitHub of AI, for $13 billion</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-09-03 13:34</span>
             </div>
         </div>
 </div>
@@ -173,6 +174,15 @@
                 <span class="title"><a href="https://dev.to/manvitha_potluri_edbd8b9b/how-to-build-an-enterprise-grade-automated-mlops-pipeline-on-aws-1cj9" target="_blank">How to Build an Enterprise-Grade, Automated MLOps Pipeline on AWS</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-09-03 23:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/ubuntu-2610-date.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.10 Snapshot 3 is now available for testing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/ubuntu-26-10-snapshot-3" target="_blank">Ubuntu 26.10 Snapshot 3 is now available for testing</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-09-03 23:24</span>
             </div>
         </div>
 <div class="story">
@@ -209,15 +219,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/09/spotify-gisting-llm-performance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Shopify Introduces Gisting: Compressing LLM System Prompts into Learned Tokens</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-09-03 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://openai.com/index/gpt-6-astra/" target="_blank">GPT-6 Astra</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-03 18:41</span>
             </div>
         </div>
 </div>
@@ -316,22 +317,13 @@
                 <span class="time">2026-09-03 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5909.png" alt="Grape Flavor" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5909" target="_blank">Grape Flavor</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-09-03 01:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 57 | 📡 Total Sources: 40 | 📸 With Images: 256 |
-        🔄 Last Updated: 23:38 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 59 | 📡 Total Sources: 40 | 📸 With Images: 255 |
+        🔄 Last Updated: 01:48 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
