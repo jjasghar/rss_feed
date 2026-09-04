@@ -1,8 +1,5 @@
-<!-- Processing 54 RSS feeds at 2026-09-04 01:47:45 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-09-04 06:40:08 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
@@ -11,29 +8,29 @@
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 11 new posts out of 30 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, September 04, 2026 - 01:48 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Friday, September 04, 2026 - 06:40 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,54 +50,54 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/9/4/in-southern-lebanon-israeli-demolitions-continue-day-and-night?traffic_source=rss" target="_blank">In southern Lebanon, Israeli demolitions continue ‘day and night’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-04 06:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/04/g-s1-141947/trump-administration-pushes-to-remove-tax-exemption-for-private-colleges-with-dei-policies" target="_blank">Trump administration pushes to remove tax exemption for private colleges with DEI policies</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-04 05:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14fb/live/08a50760-a827-11f1-aed2-8d6da8d75094.jpg" alt="Argentine leader threatens to sanction oil firms and reiterates Falklands claim" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss" target="_blank">Argentine leader threatens to sanction oil firms and reiterates Falklands claim</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-04 05:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc63/live/61693130-a806-11f1-a291-b542ee92de7c.jpg" alt="Nepal says it will need billions in funding to rebuild after flash floods" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/videos/ce8x2401zdeo?at_medium=RSS&at_campaign=rss" target="_blank">Nepal says it will need billions in funding to rebuild after flash floods</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-04 02:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa" target="_blank">UN to vote on adopting new world map that shows Africa’s true scale</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-09-04 02:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/9/4/feminist-trailblazer-gloria-steinem-passes-away-at-age-92?traffic_source=rss" target="_blank">Feminist trailblazer Gloria Steinem passes away at age 92</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-09-04 01:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/GMA/Lindsay-Clancy-5-rt-gmh-260903_1788456971844_hpMain_4x3t_384.jpg" alt="Lindsay Clancy trial: What to know about reasonable doubt, insanity defense" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/GMA/News/lindsay-clancy-trial-guilty-lack-responsibility/story?id=136187449" target="_blank">Lindsay Clancy trial: What to know about reasonable doubt, insanity defense</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-09-04 00:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/9/3/are-trumps-ai-videos-just-memes-or-psychological-warfare?traffic_source=rss" target="_blank">Are Trump’s AI videos just memes or psychological warfare?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-03 23:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/9/3/nepal-flood-victims-to-be-identified-through-dna?traffic_source=rss" target="_blank">Nepal flood victims to be identified through DNA</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-03 21:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/GMA/Lindsay-Clancy-5-rt-gmh-260903_1788456971844_hpMain_4x3t_384.jpg" alt="Lindsay Clancy trial: Tensions flare as defense blames 1 juror for deadlock" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/GMA/News/live-updates/lindsay-clancy-trial-jurors-resume-deliberations/?id=136086599" target="_blank">Lindsay Clancy trial: Tensions flare as defense blames 1 juror for deadlock</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-09-03 21:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/643a/live/23e8e9b0-a7d7-11f1-809e-25fc74c1ec7d.jpg" alt="Farage senior aide filmed suggesting way to avoid donations law" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cr50ddzl97qo?at_medium=RSS&at_campaign=rss" target="_blank">Farage senior aide filmed suggesting way to avoid donations law</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-03 21:07</span>
             </div>
         </div>
 </div>
@@ -108,6 +105,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/" target="_blank">The sameness problem behind those unappetizing AI-generated menus</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-09-04 04:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40" target="_blank">Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-09-04 01:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,29 +159,20 @@
                 <span class="time">2026-09-03 22:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2233024483-500x500.jpg" alt="Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/09/reports-rfk-jr-ordered-measles-deaths-deletion-cdc-still-secretly-counts-them/" target="_blank">Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-09-03 22:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/xcloud02-500x500.jpg" alt="Xbox imposes harsh new time limits for Game Pass game streaming" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2026/09/xbox-imposes-harsh-new-time-limits-for-game-pass-game-streaming/" target="_blank">Xbox imposes harsh new time limits for Game Pass game streaming</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-09-03 21:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-september-4-2026-red-hat" target="_blank">Friday Five — September 4, 2026</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2026-09-04 00:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4wg8xfya7tfy280f7r6e.png" alt="How to Build an Enterprise-Grade, Automated MLOps Pipeline on AWS" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -210,15 +216,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Amazon-Linux-2027-Preview" target="_blank">Amazon Linux 2027 Now in Preview: Powered By Linux 7.1, x86-64-v3 &amp; Built With LTO</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-09-03 21:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/09/spotify-gisting-llm-performance/en/headerimage/spotify-app-size-growth-process-1788462838475.jpeg" alt="Shopify Introduces Gisting: Compressing LLM System Prompts into Learned Tokens" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/09/spotify-gisting-llm-performance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Shopify Introduces Gisting: Compressing LLM System Prompts into Learned Tokens</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-09-03 20:00</span>
             </div>
         </div>
 </div>
@@ -300,6 +297,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.questionablecontent.net/comics/5910.png" alt="Permanent Stain" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5910" target="_blank">Permanent Stain</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-09-04 01:22</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -322,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 59 | 📡 Total Sources: 40 | 📸 With Images: 255 |
-        🔄 Last Updated: 01:48 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 67 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 06:40 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
