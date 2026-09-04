@@ -1,33 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-09-04 15:20:29 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-04 18:39:35 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 25 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 14 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Friday, September 04, 2026 - 15:20 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, September 04, 2026 - 18:39 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,12 +50,48 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/04/g-s1-141468/child-marriage-united-states-india-global" target="_blank">Whatever happened to the U.S. campaign to ban child marriage?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-04 17:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d60/live/49f29f30-a885-11f1-aed2-8d6da8d75094.jpg" alt="&#x27;I&#x27;d rather die than ring the police&#x27;: Distrust and fear in Middlesbrough after A66 crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c2e0w2e0k0ro?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;I&#x27;d rather die than ring the police&#x27;: Distrust and fear in Middlesbrough after A66 crash</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-04 16:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa" target="_blank">UN votes to adopt new world map that shows Africa’s true scale</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-09-04 16:49</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46c3/live/fa997a60-a86d-11f1-bbad-43eaf67b94b6.jpg" alt="Farage unveils small boats deal with French National Rally party" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/c4gk35qnzp3o?at_medium=RSS&at_campaign=rss" target="_blank">Farage unveils small boats deal with French National Rally party</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-09-04 14:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/09/1920x1080/skynews-kyiv-ukraine_7340981.jpg?20260904153600" alt="Russian drone strikes Ukraine&#x27;s security service headquarters in Kyiv" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/russian-drone-strikes-ukraines-security-service-headquarters-in-kyiv-zelenskyysays-13581351" target="_blank">Russian drone strikes Ukraine&#x27;s security service headquarters in Kyiv</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-09-04 14:11</span>
             </div>
         </div>
 <div class="story">
@@ -61,47 +103,20 @@
                 <span class="time">2026-09-04 14:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/04/g-s1-141972/up-first-newsletter-usps-mail-in-voting-irs-schools-christian-castro" target="_blank">Trump asks SCOTUS to OK changes to mail-in ballots. And, diesel prices hit record high</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-04 11:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/4/iran-war-why-us-midterms-could-be-a-pivotal-moment?traffic_source=rss" target="_blank">Iran war: Why US midterms could be a pivotal moment</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-04 11:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/nepal-rescue-effort_1788511545792_hpMain_4x3t_384.jpg" alt="2 people rescued alive from tunnel after deadly Nepal-Tibet flash flood" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/2-people-rescued-alive-tunnel-after-deadly-nepal/story?id=136195555" target="_blank">2 people rescued alive from tunnel after deadly Nepal-Tibet flash flood</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-09-04 09:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/9/4/in-southern-lebanon-israeli-demolitions-continue-day-and-night?traffic_source=rss" target="_blank">In southern Lebanon, Israeli demolitions continue ‘day and night’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-04 06:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a9ad63d482e2501722eeac3/master/pass/GettyImages-2193378836.jpg" alt="Tesla’s Cybercab Officially Launches Today. It’s Already Under Investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/tesla-cybercab-officially-launches-today-its-already-under-investigation/" target="_blank">Tesla’s Cybercab Officially Launches Today. It’s Already Under Investigation</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-04 15:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a9a07e3356d3dfac634d3e8/master/pass/Backchannel-AI-Consciousness-Business-2289990159.jpg" alt="Who Cares if AI Is Conscious—It’s Basically Alive" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,20 +162,38 @@
                 <span class="time">2026-09-04 00:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a9a07338aae3f350260c9af/master/pass/Wikipedia-Workers-Vote-on-Whether-to-Unionize-Business.jpg" alt="Wikipedia Workers Unionize for the First Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/wikipedia-workers-vote-on-whether-to-unionize/" target="_blank">Wikipedia Workers Unionize for the First Time</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-09-04 00:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1r5w3y3huy6j5a9swbi1.png" alt="Securing Agentic AI Workflows in n8n: From Leaked API Keys to Encryption Key Compromise" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gitguardian/securing-agentic-ai-workflows-in-n8n-from-leaked-api-keys-to-encryption-key-compromise-5861" target="_blank">Securing Agentic AI Workflows in n8n: From Leaked API Keys to Encryption Key Compromise</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-04 18:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/" target="_blank">Project HydraFusion: Frontier quality via multi-model orchestration</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-09-04 16:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/amazon-linux-2027-benchmarks" target="_blank">Amazon Linux 2027 Shows Off Nice Performance Gains On AMD EPYC In The AWS Cloud</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-04 15:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -188,33 +221,6 @@
                 <span class="time">2026-09-04 14:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/09/airbnb-server-driven-login/en/headerimage/generatedHeaderImage-1787593560494.jpg" alt="Airbnb Cuts Authentication Code by 60% with Server Driven Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/09/airbnb-server-driven-login/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Airbnb Cuts Authentication Code by 60% with Server Driven Architecture</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-09-04 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/minibooks/next-gen-architecture-ai-era/en/smallimage/thumb-image-emag-next-gen-architecture-playbook-1787922032442.jpg" alt="Mini book: Next-Gen Architecture Playbook: Insights and Patterns for the AI Era" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/minibooks/next-gen-architecture-ai-era/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Mini book: Next-Gen Architecture Playbook: Insights and Patterns for the AI Era</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-09-04 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Fedora-47-Considers-Thin-LTO" target="_blank">Fedora 47 Considering Use Of Thin LTO Compiler Optimizations</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-04 10:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +240,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/09/tetris-company-.jpg" alt="Tetris Distances Itself From Racist White House Clone: ‘We Take Copyright Infringement Very Seriously’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/tetris-distances-itself-from-racist-white-house-clone-we-take-copyright-infringement-very-seriously-2000731383" target="_blank">Tetris Distances Itself From Racist White House Clone: ‘We Take Copyright Infringement Very Seriously’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-04 18:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M1CNXXEYPE51P194PSFGJZ9Z/hero-image.webp" alt="Lifehacker Labor Day Sale Live Blog: The Best Labor Day Deals, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/labor-day-sales-live-blog-09-04-2026?utm_medium=RSS" target="_blank">Lifehacker Labor Day Sale Live Blog: The Best Labor Day Deals, All in One Place</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-09-04 17:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/73f8a850-a872-11f1-824a-0fc4c5d895ae.png.webp?fit=1536%2C861&amp;quality=55&amp;ssl=1" alt="Model skeleton used to hold drip in busy hospital" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/09/04/model-skeleton-used-to-hold-drip-in-busy-hospital.html" target="_blank">Model skeleton used to hold drip in busy hospital</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-09-04 17:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/07/b4ff2c07b122ac34dac21b68a0c73577-1280x720.jpg" alt="A Mysterious Internet Setting Has Been Ruining All My Elden Ring Nightreign Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -261,33 +294,6 @@
                 <span class="time">2026-09-03 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/Death-e1788465776664.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Hikers let Gemini plan their Mount Shasta climb. Search and Rescue brought them home" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/09/03/gemini-ai-hikers-mount-shasta-rescue.html" target="_blank">Hikers let Gemini plan their Mount Shasta climb. Search and Rescue brought them home</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-09-03 19:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/09/ff7-tril-bundle-1280x720.jpg" alt="Square Enix Is Selling The Entire Final Fantasy 7 Remake Trilogy, Including Next Year’s Revelation, For Just $85" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/square-enix-is-selling-the-entire-final-fantasy-7-remake-trilogy-including-next-years-revelation-for-just-85-2000730969" target="_blank">Square Enix Is Selling The Entire Final Fantasy 7 Remake Trilogy, Including Next Year’s Revelation, For Just $85</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-09-03 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/fountain-pen-self-banana.jpg?fit=1200%2C900&amp;quality=60&amp;ssl=1" alt="A banana sticker with Andy Warhol&#x27;s face" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/09/03/fountain-pen-self-banana.html" target="_blank">A banana sticker with Andy Warhol&#x27;s face</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-09-03 17:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -312,6 +318,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/asteroid_mission.png" alt="Asteroid Mission" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3294/" target="_blank">Asteroid Mission</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-09-04 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.questionablecontent.net/comics/5910.png" alt="Permanent Stain" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -320,22 +335,13 @@
                 <span class="time">2026-09-04 01:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/09/03/the-lost-bladez" target="_blank">The Lost Bladez</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-09-03 17:50</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 68 | 📡 Total Sources: 40 | 📸 With Images: 255 |
-        🔄 Last Updated: 15:20 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 66 | 📡 Total Sources: 39 | 📸 With Images: 258 |
+        🔄 Last Updated: 18:39 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
