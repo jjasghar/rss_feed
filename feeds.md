@@ -1,39 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-09-04 18:39:35 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-04 21:07:29 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 14 new posts out of 30 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 13 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, September 04, 2026 - 18:39 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, September 04, 2026 - 21:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/9/4/nigel-farage-heckled-as-he-denies-reform-uk-took-illegal-funding?traffic_source=rss" target="_blank">Nigel Farage heckled as he denies Reform UK took illegal funding</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-04 20:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1788547336102_nbc_spec_clancy_mistrial_announcement_260804_S3_1920x1080-4u031g.jpg" alt="Watch: Judge declares mistrial in Lindsay Clancy trial, thanks jury for service" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/judge-declares-mistrial-in-lindsay-clancy-trial-thanks-jury-for-service-269346373832" target="_blank">Watch: Judge declares mistrial in Lindsay Clancy trial, thanks jury for service</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-09-04 18:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,30 +98,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46c3/live/fa997a60-a86d-11f1-bbad-43eaf67b94b6.jpg" alt="Farage unveils small boats deal with French National Rally party" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3a3/live/c697e520-a841-11f1-aed2-8d6da8d75094.jpg" alt="Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c4gk35qnzp3o?at_medium=RSS&at_campaign=rss" target="_blank">Farage unveils small boats deal with French National Rally party</a></span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss" target="_blank">Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect</a></span>
                 <span class="feed">BBC News</span>
-                <span class="time">2026-09-04 14:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/09/1920x1080/skynews-kyiv-ukraine_7340981.jpg?20260904153600" alt="Russian drone strikes Ukraine&#x27;s security service headquarters in Kyiv" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/russian-drone-strikes-ukraines-security-service-headquarters-in-kyiv-zelenskyysays-13581351" target="_blank">Russian drone strikes Ukraine&#x27;s security service headquarters in Kyiv</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-09-04 14:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/GMA/Lindsay-Clancy-5-rt-gmh-260903_1788456971844_hpMain_4x3t_384.jpg" alt="Lindsay Clancy trial: Tensions high as 7th day of deliberations begins" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/GMA/News/live-updates/lindsay-clancy-trial-jurors-resume-deliberations/?id=136086599" target="_blank">Lindsay Clancy trial: Tensions high as 7th day of deliberations begins</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-09-04 14:04</span>
+                <span class="time">2026-09-04 16:49</span>
             </div>
         </div>
 </div>
@@ -108,6 +111,33 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright" target="_blank">The White House is making arcade games racist</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-09-04 19:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a9b0a92df1ff8f5f606a6e1/master/pass/Home-Depot's-Labor-Day-Sale-Includes-BOGO-Deals-on-the-Best-Grills-and-Tools.jpg" alt="Home Depot Labor Day Sale (2026): BOGO on Best Grills and Tools" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/home-depot-labor-day-sale-deals-2026/" target="_blank">Home Depot Labor Day Sale (2026): BOGO on Best Grills and Tools</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-04 18:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/" target="_blank">Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-09-04 17:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a9ad63d482e2501722eeac3/master/pass/GettyImages-2193378836.jpg" alt="Tesla’s Cybercab Officially Launches Today. It’s Already Under Investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -135,38 +165,29 @@
                 <span class="time">2026-09-04 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/" target="_blank">The sameness problem behind those unappetizing AI-generated menus</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-09-04 04:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40" target="_blank">Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-09-04 01:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/" target="_blank">Crusoe reportedly raises $3B at a  $30B valuation</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-09-04 00:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/KDE-Plasma-6.8-Autoscroll" target="_blank">KDE Plasma 6.8 Lands Windows-Like Auto-Scrolling, Lower vRAM Usage For Breeze Theme</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-04 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.anthropic.com/research/formalizing-fermats-last-theorem" target="_blank">Formalizing Fermat&#x27;s Last Theorem</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-04 18:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1r5w3y3huy6j5a9swbi1.png" alt="Securing Agentic AI Workflows in n8n: From Leaked API Keys to Encryption Key Compromise" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -203,29 +224,20 @@
                 <span class="time">2026-09-04 15:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/NetworkManager-AI-Canary" target="_blank">NetworkManager Works To Enforce AI Policy By Tricking AI Agents To Add A Canary</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-04 14:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/09/ubuntu-firmware.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu 24.04 splits firmware packages for faster updates" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/ubuntu-firmware-split-packages-24-04" target="_blank">Ubuntu 24.04 splits firmware packages for faster updates</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-09-04 14:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-squid-on-a-stick-at-the-new-york-state-fair.html" target="_blank">Friday Squid Blogging: Squid on a Stick at the New York State Fair</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-09-04 21:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -240,6 +252,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2018/05/guinness.jpg?fit=909%2C670&amp;quality=60&amp;ssl=1" alt="70,000 pints of Guinness heisted" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/09/04/70000-pints-of-guinness-heisted.html" target="_blank">70,000 pints of Guinness heisted</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-09-04 20:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KNAM4757G2TMA4ATQVGD648R/hero-image.png" alt="Why ‘Open Platform’ Is the Next Big Frontier for Smart Glasses" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/even-realities-smart-glasses-app-store?utm_medium=RSS" target="_blank">Why ‘Open Platform’ Is the Next Big Frontier for Smart Glasses</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-09-04 20:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/09/1001_Wallpapers_Group_4K-e1788548752670-1280x754.jpg" alt="The 1001 Threads Of Mizan Director Avoids Answering A Simple Question At Gamescom" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-1001-threads-of-mizan-director-avoids-answering-a-simple-question-at-gamescom-2000731406" target="_blank">The 1001 Threads Of Mizan Director Avoids Answering A Simple Question At Gamescom</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-04 20:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/09/tetris-company-.jpg" alt="Tetris Distances Itself From Racist White House Clone: ‘We Take Copyright Infringement Very Seriously’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,33 +304,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/09/04/model-skeleton-used-to-hold-drip-in-busy-hospital.html" target="_blank">Model skeleton used to hold drip in busy hospital</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-09-04 17:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/07/b4ff2c07b122ac34dac21b68a0c73577-1280x720.jpg" alt="A Mysterious Internet Setting Has Been Ruining All My Elden Ring Nightreign Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/mysterious-internet-setting-ruining-elden-ring-nightreign-2000731028" target="_blank">A Mysterious Internet Setting Has Been Ruining All My Elden Ring Nightreign Games</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-09-03 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/Microsoft-Office-Professional-Plus-2019-for-Windows-1.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="7 Microsoft Office apps are yours for life with this $15 deal (MSRP $229)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/09/03/7-microsoft-office-apps-are-yours-for-life-with-this-15-deal-msrp-229.html" target="_blank">7 Microsoft Office apps are yours for life with this $15 deal (MSRP $229)</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-09-03 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M1FD8DDV9EYFJ1Q3FA5Z4GWF/hero-image.webp" alt="The Best Deals From Best Buy&#x27;s Labor Day Sale 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-deals-from-best-buys-labor-day-sale-2026?utm_medium=RSS" target="_blank">The Best Deals From Best Buy&#x27;s Labor Day Sale 2026</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-09-03 21:00</span>
             </div>
         </div>
 </div>
@@ -340,8 +352,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 66 | 📡 Total Sources: 39 | 📸 With Images: 258 |
-        🔄 Last Updated: 18:39 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 71 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 21:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
