@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-09-04 06:40:08 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-04 11:50:51 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 27 feeds processed -->
+<!-- Generated 9 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Friday, September 04, 2026 - 06:40 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, September 04, 2026 - 11:51 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +43,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/04/g-s1-141972/up-first-newsletter-usps-mail-in-voting-irs-schools-christian-castro" target="_blank">Trump asks SCOTUS to OK changes to mail-in ballots. And, diesel prices hit record high</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-04 11:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/4/iran-war-why-us-midterms-could-be-a-pivotal-moment?traffic_source=rss" target="_blank">Iran war: Why US midterms could be a pivotal moment</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-04 11:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/nepal-rescue-effort_1788511545792_hpMain_4x3t_384.jpg" alt="2 people rescued alive from tunnel after deadly Nepal-Tibet flash flood" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/2-people-rescued-alive-tunnel-after-deadly-nepal/story?id=136195555" target="_blank">2 people rescued alive from tunnel after deadly Nepal-Tibet flash flood</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-04 09:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,38 +97,20 @@
                 <span class="time">2026-09-04 05:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc63/live/61693130-a806-11f1-a291-b542ee92de7c.jpg" alt="Nepal says it will need billions in funding to rebuild after flash floods" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/videos/ce8x2401zdeo?at_medium=RSS&at_campaign=rss" target="_blank">Nepal says it will need billions in funding to rebuild after flash floods</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-04 02:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa" target="_blank">UN to vote on adopting new world map that shows Africa’s true scale</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-09-04 02:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/9/4/feminist-trailblazer-gloria-steinem-passes-away-at-age-92?traffic_source=rss" target="_blank">Feminist trailblazer Gloria Steinem passes away at age 92</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-04 01:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that" target="_blank">Why AI food looks like that</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-09-04 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +156,29 @@
                 <span class="time">2026-09-04 00:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/09/03/oura-files-to-go-public/" target="_blank">Oura files to go public</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-09-03 22:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/minibooks/next-gen-architecture-ai-era/en/smallimage/thumb-image-emag-next-gen-architecture-playbook-1787922032442.jpg" alt="Mini book: Next-Gen Architecture Playbook: Insights and Patterns for the AI Era" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/minibooks/next-gen-architecture-ai-era/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Mini book: Next-Gen Architecture Playbook: Insights and Patterns for the AI Era</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-09-04 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Fedora-47-Considers-Thin-LTO" target="_blank">Fedora 47 Considering Use Of Thin LTO Compiler Optimizations</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-04 10:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,24 +215,6 @@
                 <span class="time">2026-09-03 23:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/itsmarcandrew/ebays-browse-api-doesnt-return-sold-listings-here-is-a-nodejs-alternative-4mg1" target="_blank">eBay&#x27;s Browse API Doesn&#x27;t Return Sold Listings. Here Is a Node.js Alternative</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-03 21:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Amazon-Linux-2027-Preview" target="_blank">Amazon Linux 2027 Now in Preview: Powered By Linux 7.1, x86-64-v3 &amp; Built With LTO</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-03 21:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -227,9 +224,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/09/researching-employment-scams.html" target="_blank">Researching Employment Scams</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/09/security-vulnerability-in-a-voting-system.html" target="_blank">Security Vulnerability in a Voting System</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2026-09-03 11:18</span>
+                <span class="time">2026-09-04 11:09</span>
             </div>
         </div>
 </div>
@@ -297,6 +294,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/09/04/the-lost-bladez" target="_blank">The Lost Bladez</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-09-04 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.questionablecontent.net/comics/5910.png" alt="Permanent Stain" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -328,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 67 | 📡 Total Sources: 40 | 📸 With Images: 254 |
-        🔄 Last Updated: 06:40 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 68 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 11:51 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
