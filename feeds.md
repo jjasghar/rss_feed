@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-09-04 11:50:51 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-04 15:20:29 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 24 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, September 04, 2026 - 11:51 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, September 04, 2026 - 15:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46c3/live/fa997a60-a86d-11f1-bbad-43eaf67b94b6.jpg" alt="Farage unveils small boats deal with French National Rally party" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c4gk35qnzp3o?at_medium=RSS&at_campaign=rss" target="_blank">Farage unveils small boats deal with French National Rally party</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-04 14:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/GMA/Lindsay-Clancy-5-rt-gmh-260903_1788456971844_hpMain_4x3t_384.jpg" alt="Lindsay Clancy trial: Tensions high as 7th day of deliberations begins" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/GMA/News/live-updates/lindsay-clancy-trial-jurors-resume-deliberations/?id=136086599" target="_blank">Lindsay Clancy trial: Tensions high as 7th day of deliberations begins</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-04 14:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +97,20 @@
                 <span class="time">2026-09-04 06:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/04/g-s1-141947/trump-administration-pushes-to-remove-tax-exemption-for-private-colleges-with-dei-policies" target="_blank">Trump administration pushes to remove tax exemption for private colleges with DEI policies</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-04 05:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14fb/live/08a50760-a827-11f1-aed2-8d6da8d75094.jpg" alt="Argentine leader threatens to sanction oil firms and reiterates Falklands claim" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss" target="_blank">Argentine leader threatens to sanction oil firms and reiterates Falklands claim</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-04 05:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a9a07e3356d3dfac634d3e8/master/pass/Backchannel-AI-Consciousness-Business-2289990159.jpg" alt="Who Cares if AI Is Conscious—It’s Basically Alive" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive/" target="_blank">Who Cares if AI Is Conscious—It’s Basically Alive</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-04 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +156,47 @@
                 <span class="time">2026-09-04 00:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk" target="_blank">The unusually muted Tesla Cybercab launch</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-09-04 00:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/__272d48f2ed/llms-are-no-longer-a-black-box-transparent-reasoning-through-a11-14kd" target="_blank">LLMs Are No Longer a Black Box: Transparent Reasoning Through A11</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-04 15:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/NetworkManager-AI-Canary" target="_blank">NetworkManager Works To Enforce AI Policy By Tricking AI Agents To Add A Canary</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-04 14:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/09/ubuntu-firmware.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu 24.04 splits firmware packages for faster updates" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/ubuntu-firmware-split-packages-24-04" target="_blank">Ubuntu 24.04 splits firmware packages for faster updates</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-09-04 14:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/09/airbnb-server-driven-login/en/headerimage/generatedHeaderImage-1787593560494.jpg" alt="Airbnb Cuts Authentication Code by 60% with Server Driven Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/09/airbnb-server-driven-login/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Airbnb Cuts Authentication Code by 60% with Server Driven Architecture</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-09-04 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/minibooks/next-gen-architecture-ai-era/en/smallimage/thumb-image-emag-next-gen-architecture-playbook-1787922032442.jpg" alt="Mini book: Next-Gen Architecture Playbook: Insights and Patterns for the AI Era" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -177,42 +213,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Fedora-47-Considers-Thin-LTO" target="_blank">Fedora 47 Considering Use Of Thin LTO Compiler Optimizations</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-09-04 10:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-september-4-2026-red-hat" target="_blank">Friday Five — September 4, 2026</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2026-09-04 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4wg8xfya7tfy280f7r6e.png" alt="How to Build an Enterprise-Grade, Automated MLOps Pipeline on AWS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/manvitha_potluri_edbd8b9b/how-to-build-an-enterprise-grade-automated-mlops-pipeline-on-aws-1cj9" target="_blank">How to Build an Enterprise-Grade, Automated MLOps Pipeline on AWS</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-03 23:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/ubuntu-2610-date.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.10 Snapshot 3 is now available for testing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/ubuntu-26-10-snapshot-3" target="_blank">Ubuntu 26.10 Snapshot 3 is now available for testing</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-09-03 23:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/ubuntu-2610-date.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.10 Snapshot 3 is available for testing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/ubuntu-26-10-snapshot-3" target="_blank">Ubuntu 26.10 Snapshot 3 is available for testing</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-09-03 23:24</span>
             </div>
         </div>
 </div>
@@ -294,6 +294,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.smbc-comics.com/comics/1788389708-20260904.png" alt="Saturday Morning Breakfast Cereal - Money" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/money" target="_blank">Saturday Morning Breakfast Cereal - Money</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-09-04 15:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -320,22 +329,13 @@
                 <span class="time">2026-09-03 17:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1788389671-20260903.png" alt="Saturday Morning Breakfast Cereal - Meaning" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/meaning-9" target="_blank">Saturday Morning Breakfast Cereal - Meaning</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-09-03 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 68 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 11:51 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 68 | 📡 Total Sources: 40 | 📸 With Images: 255 |
+        🔄 Last Updated: 15:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
