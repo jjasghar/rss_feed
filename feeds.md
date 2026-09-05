@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-09-05 18:39:06 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-05 20:47:38 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Saturday, September 05, 2026 - 18:39 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, September 05, 2026 - 20:47 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +54,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war?traffic_source=rss" target="_blank">Russia’s Putin meets US envoys to discuss Trump proposal to end Ukraine war</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-09-05 18:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/sep/05/egyptian-tv-presenter-among-12-sentenced-to-death-for-drug" target="_blank">Egyptian TV presenter among 12 sentenced to death for drug crime</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-09-05 18:00</span>
             </div>
         </div>
 <div class="story">
@@ -84,21 +93,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://s.abcnews.com/images/Politics/iran-strike-01-gty-jt-260905_1788620458650_hpMain_4x3t_384.jpg" alt="Iran live updates: US strikes 3 Iranian oil tankers in retaliation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted" target="_blank">US military hits 3 Iranian oil tankers after saying Navy warships were targeted</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-05 15:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afaf/live/50d301d0-a936-11f1-bb81-8fbd2d2d397c.jpg" alt="Disruption at Port of Dover due to &#x27;stop the boats&#x27; protest" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cy8znyzgkjjo?at_medium=RSS&at_campaign=rss" target="_blank">Disruption at Port of Dover due to &#x27;stop the boats&#x27; protest</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-05 14:41</span>
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-centcom-targeted-iranian-forces-posed/?id=136080582" target="_blank">Iran live updates: US strikes 3 Iranian oil tankers in retaliation</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-05 15:12</span>
             </div>
         </div>
 </div>
@@ -166,6 +166,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff6mnxa2o0akyqjptdt04.png" alt="When Confidence Lies: Engineering Uncertainty-Aware AI Control Loops for High-Stakes Production Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ali_kiani_78/when-confidence-lies-engineering-uncertainty-aware-ai-control-loops-for-high-stakes-production-3mon" target="_blank">When Confidence Lies: Engineering Uncertainty-Aware AI Control Loops for High-Stakes Production Systems</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-05 20:31</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -208,15 +217,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/AMD-Rust-Deep-Into-GPU-Stack" target="_blank">AMD Working To &quot;Push Rust Deep Into The GPU Stack&quot;</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-09-05 10:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17440361/flyline" target="_blank">I Tried This Rust Tool, and It Immediately Made Bash Modern</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-09-05 09:25</span>
             </div>
         </div>
 </div>
@@ -311,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 53 | 📡 Total Sources: 40 | 📸 With Images: 256 |
-        🔄 Last Updated: 18:39 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 50 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 20:47 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
