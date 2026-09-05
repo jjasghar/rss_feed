@@ -1,37 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-09-05 10:59:56 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-05 13:42:38 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, September 05, 2026 - 11:00 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Saturday, September 05, 2026 - 13:42 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/9/5/arsenal-vs-chelsea-premier-league-prediction-teams-lineups?traffic_source=rss" target="_blank">Arsenal vs Chelsea: Premier League – prediction, teams, lineups</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-05 13:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/199d/live/38ed4aa0-a902-11f1-8c31-a926c93fae87.jpg" alt="Disruption at Port of Dover as masked men hold protest" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,15 +93,6 @@
                 <span class="title"><a href="https://abcnews.com/GMA/News/lindsay-clancy-trial-puts-spotlight-defense-attorneys-prosecutors/story?id=136206646" target="_blank">Lindsay Clancy trial puts spotlight on defense attorneys, prosecutors</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-09-05 01:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1788563188981_nn_eik_lindsay_clancy_mistrial_260904_S3_1920x1080-qao7s0.jpg" alt="Lindsay Clancy murder case ends in mistrial" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/lindsay-clancy-murder-case-ends-in-mistrial-269361221734" target="_blank">Lindsay Clancy murder case ends in mistrial</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-09-04 23:06</span>
             </div>
         </div>
 </div>
@@ -169,6 +163,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Nouveau-Blackwell-Display-Fixes" target="_blank">Nouveau Lands Display Fixes For NVIDIA Blackwell GPUs As It Works Toward HDMI 2.1</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-05 11:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/ai-predictions-2030/en/mediumimage/meryem-arik-medium-1785845650090.jpg" alt="Presentation: A Few Predicted Talks From QConAI 2030" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/ai-predictions-2030/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: A Few Predicted Talks From QConAI 2030</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-09-05 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/AMD-Rust-Deep-Into-GPU-Stack" target="_blank">AMD Working To &quot;Push Rust Deep Into The GPU Stack&quot;</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-09-05 10:48</span>
@@ -201,24 +213,6 @@
                 <span class="time">2026-09-05 06:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/anoymask/breeze-comet-breaching-financial-systems-and-executing-fraudulent-transfers-using-mtls-credentials-3993" target="_blank">BREEZE COMET: Breaching Financial Systems and Executing Fraudulent Transfers Using mTLS Credentials</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-05 01:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gophernment/tmux-epliiyn-terminal-cchediiywaihepnhlaaycch-ngaanyaaw-kaimhaayemuue-ssh-hlud-1e4p" target="_blank">tmux: เปลี่ยน terminal จอเดียวให้เป็นหลายจอ งานยาว ๆ ก็ไม่หายเมื่อ SSH หลุด</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-04 23:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,20 +227,20 @@
                 <span class="time">2026-09-04 21:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/09/security-vulnerability-in-a-voting-system.html" target="_blank">Security Vulnerability in a Voting System</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-09-04 11:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M1MH1ND610K15FFDKGES07WG/hero-image.png" alt="Here&#x27;s What Lifehacker Readers Think Apple Will Announce on Wednesday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/apple-guessing-game-round-3-predictions?utm_medium=RSS" target="_blank">Here&#x27;s What Lifehacker Readers Think Apple Will Announce on Wednesday</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-09-05 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/ss_c4b029f04f93d637dbec49173affa-1280x720.jpg" alt="Double Fine Boss Says ‘We Never Actively Tried To Make A Game We Thought Was Going To Lose Money’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -292,15 +286,6 @@
                 <span class="time">2026-09-04 20:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/09/tetris-company-.jpg" alt="Tetris Distances Itself From Racist White House Clone: ‘We Take Copyright Infringement Very Seriously’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/tetris-distances-itself-from-racist-white-house-clone-we-take-copyright-infringement-very-seriously-2000731383" target="_blank">Tetris Distances Itself From Racist White House Clone: ‘We Take Copyright Infringement Very Seriously’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-09-04 18:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 58 | 📡 Total Sources: 40 | 📸 With Images: 256 |
-        🔄 Last Updated: 11:00 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 60 | 📡 Total Sources: 39 | 📸 With Images: 256 |
+        🔄 Last Updated: 13:42 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
