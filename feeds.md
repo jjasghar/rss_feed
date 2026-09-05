@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-09-05 20:47:38 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-09-05 22:26:31 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Dev.to -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, September 05, 2026 - 20:47 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, September 05, 2026 - 22:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/9/5/us-envoys-witkoff-kushner-meet-putin-for-talks-on-ukraine-war?traffic_source=rss" target="_blank">US envoys Witkoff, Kushner meet Putin for talks on Ukraine war</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-05 21:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/9/5/israel-claims-control-of-lebanons-key-ali-al-taher-ridge-what-that-means?traffic_source=rss" target="_blank">Israel claims control of Lebanon’s key Ali al-Taher ridge: What that means</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-09-05 16:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/iran-strike-01-gty-jt-260905_1788620458650_hpMain_4x3t_384.jpg" alt="Iran live updates: US strikes 3 Iranian oil tankers in retaliation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-centcom-targeted-iranian-forces-posed/?id=136080582" target="_blank">Iran live updates: US strikes 3 Iranian oil tankers in retaliation</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-09-05 15:12</span>
             </div>
         </div>
 </div>
@@ -221,23 +217,27 @@
         </div>
 </div>
 </div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-squid-on-a-stick-at-the-new-york-state-fair.html" target="_blank">Friday Squid Blogging: Squid on a Stick at the New York State Fair</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-09-04 21:01</span>
-            </div>
-        </div>
-</div>
-</div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/Microsoft-Office-Professional-2021-for-Windows.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Office 2021 is old by tech standards, but $30 gets you the classics for life" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/09/05/office-2021-is-old-by-tech-standards-but-30-gets-you-the-classics-for-life.html" target="_blank">Office 2021 is old by tech standards, but $30 gets you the classics for life</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-09-05 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/09/runescapeprison.jpg" alt="Former Old School RuneScape Developer Sentenced For Stealing In-Game Gold From Players" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/former-old-school-runescape-developer-sentenced-for-stealing-in-game-gold-from-players-2000731568" target="_blank">Former Old School RuneScape Developer Sentenced For Stealing In-Game Gold From Players</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-05 20:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/09/falloutstern.jpg" alt="Following Pokémon, Stern Lets Fallout Pinball Machine Out Of The Vault" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,24 +274,6 @@
                 <span class="time">2026-09-04 23:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/NVz8yNiGCfxEr3tf3yRzdm-1200-80.jpg.webp?fit=1200%2C675&amp;quality=55&amp;ssl=1" alt="Book about every video game set in the Alien universe" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/09/04/book-about-every-video-game-set-in-the-alien-universe.html" target="_blank">Book about every video game set in the Alien universe</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-09-04 22:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2018/05/guinness.jpg?fit=909%2C670&amp;quality=60&amp;ssl=1" alt="70,000 pints of Guinness heisted" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/09/04/70000-pints-of-guinness-heisted.html" target="_blank">70,000 pints of Guinness heisted</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-09-04 20:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -311,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 50 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 20:47 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 46 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 22:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
