@@ -1,40 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-09-04 23:30:46 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-05 01:48:32 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 12 new posts out of 32 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, September 04, 2026 - 23:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, September 05, 2026 - 01:48 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/GMA/Lindsay-Clancy-9-ht-gmh-260903_1788463916365_hpMain_4x3t_384.jpg" alt="Lindsay Clancy trial puts spotlight on defense attorneys, prosecutors" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/GMA/News/lindsay-clancy-trial-puts-spotlight-defense-attorneys-prosecutors/story?id=136206646" target="_blank">Lindsay Clancy trial puts spotlight on defense attorneys, prosecutors</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-05 01:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,20 +102,20 @@
                 <span class="time">2026-09-04 20:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/09/1920x1080/skynews-mercator-projection_7341226.jpg?20260904194846" alt="New world map that shows Africa&#x27;s true size backed by UN" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/countries-vote-at-un-to-back-new-world-map-that-shows-africas-true-size-13581494" target="_blank">New world map that shows Africa&#x27;s true size backed by UN</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-09-04 19:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/" target="_blank">XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-09-04 23:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,20 +161,20 @@
                 <span class="time">2026-09-04 18:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/" target="_blank">Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-09-04 17:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/anoymask/breeze-comet-breaching-financial-systems-and-executing-fraudulent-transfers-using-mtls-credentials-3993" target="_blank">BREEZE COMET: Breaching Financial Systems and Executing Fraudulent Transfers Using mTLS Credentials</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-05 01:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +218,6 @@
                 <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/" target="_blank">Project HydraFusion: Frontier quality via multi-model orchestration</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2026-09-04 16:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/amazon-linux-2027-benchmarks" target="_blank">Amazon Linux 2027 Shows Off Nice Performance Gains On AMD EPYC In The AWS Cloud</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-04 15:33</span>
             </div>
         </div>
 </div>
@@ -336,22 +334,13 @@
                 <span class="time">2026-09-04 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5910.png" alt="Permanent Stain" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5910" target="_blank">Permanent Stain</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-09-04 01:22</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 69 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 23:30 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 63 | 📡 Total Sources: 40 | 📸 With Images: 256 |
+        🔄 Last Updated: 01:48 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
