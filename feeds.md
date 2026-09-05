@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-09-05 01:48:32 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-09-05 06:26:59 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, September 05, 2026 - 01:48 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Saturday, September 05, 2026 - 06:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,12 +44,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/GMA/Lindsay-Clancy-9-ht-gmh-260903_1788463916365_hpMain_4x3t_384.jpg" alt="Lindsay Clancy trial puts spotlight on defense attorney, prosecutors" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/GMA/News/lindsay-clancy-trial-puts-spotlight-defense-attorneys-prosecutors/story?id=136206646" target="_blank">Lindsay Clancy trial puts spotlight on defense attorney, prosecutors</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-05 01:51</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/GMA/Lindsay-Clancy-9-ht-gmh-260903_1788463916365_hpMain_4x3t_384.jpg" alt="Lindsay Clancy trial puts spotlight on defense attorneys, prosecutors" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/GMA/News/lindsay-clancy-trial-puts-spotlight-defense-attorneys-prosecutors/story?id=136206646" target="_blank">Lindsay Clancy trial puts spotlight on defense attorneys, prosecutors</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-09-05 01:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1788563188981_nn_eik_lindsay_clancy_mistrial_260904_S3_1920x1080-qao7s0.jpg" alt="Lindsay Clancy murder case ends in mistrial" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/lindsay-clancy-murder-case-ends-in-mistrial-269361221734" target="_blank">Lindsay Clancy murder case ends in mistrial</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-09-04 23:06</span>
             </div>
         </div>
 <div class="story">
@@ -82,24 +95,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss" target="_blank">Mistrial declared in Lindsay Clancy murder case, after jury deadlocks</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-09-04 22:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/04/nx-s1-5958611/africa-world-map-un-vote" target="_blank">The U.N. backs a new world map showing Africa in its true relative size</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-04 22:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/9/4/nigel-farage-heckled-as-he-denies-reform-uk-took-illegal-funding?traffic_source=rss" target="_blank">Nigel Farage heckled as he denies Reform UK took illegal funding</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-04 20:53</span>
             </div>
         </div>
 </div>
@@ -170,6 +165,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rishikumar_yadav/i-built-my-own-budget-tracker-because-i-didnt-want-to-pay-a-monthly-subscription-2gdi" target="_blank">I Built My Own Budget Tracker - Because I Didn&#x27;t Want to Pay a Monthly Subscription</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-05 06:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/anoymask/breeze-comet-breaching-financial-systems-and-executing-fraudulent-transfers-using-mtls-credentials-3993" target="_blank">BREEZE COMET: Breaching Financial Systems and Executing Fraudulent Transfers Using mTLS Credentials</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-09-05 01:38</span>
@@ -209,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/gitguardian/securing-agentic-ai-workflows-in-n8n-from-leaked-api-keys-to-encryption-key-compromise-5861" target="_blank">Securing Agentic AI Workflows in n8n: From Leaked API Keys to Encryption Key Compromise</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-09-04 18:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/" target="_blank">Project HydraFusion: Frontier quality via multi-model orchestration</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-09-04 16:04</span>
             </div>
         </div>
 </div>
@@ -325,22 +320,13 @@
                 <span class="time">2026-09-04 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/asteroid_mission.png" alt="Asteroid Mission" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3294/" target="_blank">Asteroid Mission</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-09-04 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 63 | 📡 Total Sources: 40 | 📸 With Images: 256 |
-        🔄 Last Updated: 01:48 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 57 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 06:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
