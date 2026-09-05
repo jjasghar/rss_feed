@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-09-05 06:26:59 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-09-05 10:59:56 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Saturday, September 05, 2026 - 06:27 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, September 05, 2026 - 11:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/199d/live/38ed4aa0-a902-11f1-8c31-a926c93fae87.jpg" alt="Disruption at Port of Dover as masked men hold protest" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cy8znyzgkjjo?at_medium=RSS&at_campaign=rss" target="_blank">Disruption at Port of Dover as masked men hold protest</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-05 10:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/9/5/mudslide-in-eastern-china-kills-one-leaves-11-missing?traffic_source=rss" target="_blank">Mudslide in eastern China kills one, leaves 11 missing</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-05 10:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/05/nx-s1-5913671/ai-data-center-campaign-spending" target="_blank">Voters are fed up with data centers. Both parties are trying to cash in for midterms</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-05 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/GMA/Lindsay-Clancy-9-ht-gmh-260903_1788463916365_hpMain_4x3t_384.jpg" alt="Lindsay Clancy trial puts spotlight on defense attorney, prosecutors" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -70,38 +101,20 @@
                 <span class="time">2026-09-04 23:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/4/mock-republican-convention-website-redirects-users-to-epstein-files?traffic_source=rss" target="_blank">Mock Republican convention website redirects users to Epstein Files</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-04 22:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/GMA/Lindsay-Clancy-1-rt-gmh-260002_1788377758733_hpMain_4x3t_384.jpg" alt="Lindsay Clancy trial declared a mistrial. What happens next?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/GMA/News/lindsay-clancy-jury-deadlocked/story?id=136153308" target="_blank">Lindsay Clancy trial declared a mistrial. What happens next?</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-09-04 22:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb8c/live/47cc3ed0-a7ab-11f1-b78b-6b70b0a83270.jpg" alt="Mistrial declared in Lindsay Clancy murder case, after jury deadlocks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss" target="_blank">Mistrial declared in Lindsay Clancy murder case, after jury deadlocks</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-04 22:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a9728f10bab9c8d3b25021e/master/pass/Might-Not-Be-iphone-18-Gear-2241791725.jpg" alt="There May Not Be an iPhone 18 This Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/there-may-not-be-an-iphone-18-this-year/" target="_blank">There May Not Be an iPhone 18 This Year</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-05 10:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +160,38 @@
                 <span class="time">2026-09-04 19:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a9b0a92df1ff8f5f606a6e1/master/pass/Home-Depot's-Labor-Day-Sale-Includes-BOGO-Deals-on-the-Best-Grills-and-Tools.jpg" alt="Home Depot Labor Day Sale (2026): BOGO on Best Grills and Tools" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/home-depot-labor-day-sale-deals-2026/" target="_blank">Home Depot Labor Day Sale (2026): BOGO on Best Grills and Tools</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-09-04 18:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-Rust-Deep-Into-GPU-Stack" target="_blank">AMD Working To &quot;Push Rust Deep Into The GPU Stack&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-05 10:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17440361/flyline" target="_blank">I Tried This Rust Tool, and It Immediately Made Bash Modern</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-09-05 09:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems" target="_blank">AI handles incidents, engineers lose touch with their systems</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-05 07:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -186,33 +217,6 @@
                 <span class="title"><a href="https://dev.to/gophernment/tmux-epliiyn-terminal-cchediiywaihepnhlaaycch-ngaanyaaw-kaimhaayemuue-ssh-hlud-1e4p" target="_blank">tmux: เปลี่ยน terminal จอเดียวให้เป็นหลายจอ งานยาว ๆ ก็ไม่หายเมื่อ SSH หลุด</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-09-04 23:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/KDE-Plasma-6.8-Autoscroll" target="_blank">KDE Plasma 6.8 Lands Windows-Like Auto-Scrolling, Lower vRAM Usage For Breeze Theme</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-04 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.anthropic.com/research/formalizing-fermats-last-theorem" target="_blank">Formalizing Fermat&#x27;s Last Theorem</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-04 18:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1r5w3y3huy6j5a9swbi1.png" alt="Securing Agentic AI Workflows in n8n: From Leaked API Keys to Encryption Key Compromise" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gitguardian/securing-agentic-ai-workflows-in-n8n-from-leaked-api-keys-to-encryption-key-compromise-5861" target="_blank">Securing Agentic AI Workflows in n8n: From Leaked API Keys to Encryption Key Compromise</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-04 18:36</span>
             </div>
         </div>
 </div>
@@ -311,22 +315,13 @@
                 <span class="time">2026-09-04 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/09/04/the-lost-bladez" target="_blank">The Lost Bladez</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-09-04 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 57 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 06:27 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 58 | 📡 Total Sources: 40 | 📸 With Images: 256 |
+        🔄 Last Updated: 11:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
