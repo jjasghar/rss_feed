@@ -1,31 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-09-05 13:42:38 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-05 16:21:33 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Saturday, September 05, 2026 - 13:42 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, September 05, 2026 - 16:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9613/live/a1c35120-a93c-11f1-a291-b542ee92de7c.png" alt="US hits three Iranian oil tankers after saying its warships were targeted" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss" target="_blank">US hits three Iranian oil tankers after saying its warships were targeted</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-05 16:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/5/israel-claims-control-of-lebanons-key-ali-al-taher-ridge-what-that-means?traffic_source=rss" target="_blank">Israel claims control of Lebanon’s key Ali al-Taher ridge: What that means</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-05 16:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted" target="_blank">US military hits 3 Iranian oil tankers after saying Navy warships were targeted</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-05 15:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,38 +103,20 @@
                 <span class="time">2026-09-05 10:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/05/nx-s1-5913671/ai-data-center-campaign-spending" target="_blank">Voters are fed up with data centers. Both parties are trying to cash in for midterms</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-05 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/GMA/Lindsay-Clancy-9-ht-gmh-260903_1788463916365_hpMain_4x3t_384.jpg" alt="Lindsay Clancy trial puts spotlight on defense attorney, prosecutors" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/GMA/News/lindsay-clancy-trial-puts-spotlight-defense-attorneys-prosecutors/story?id=136206646" target="_blank">Lindsay Clancy trial puts spotlight on defense attorney, prosecutors</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-09-05 01:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/GMA/Lindsay-Clancy-9-ht-gmh-260903_1788463916365_hpMain_4x3t_384.jpg" alt="Lindsay Clancy trial puts spotlight on defense attorneys, prosecutors" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/GMA/News/lindsay-clancy-trial-puts-spotlight-defense-attorneys-prosecutors/story?id=136206646" target="_blank">Lindsay Clancy trial puts spotlight on defense attorneys, prosecutors</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-09-05 01:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a1a30541b85497e249c551b/master/pass/The%20Best%20Alexa%20Speakers%20top%20art%20052026%20SOURCE%20Amazon.jpg" alt="4 Best Alexa Speakers I’ve Tested (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/" target="_blank">4 Best Alexa Speakers I’ve Tested (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-05 11:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a9728f10bab9c8d3b25021e/master/pass/Might-Not-Be-iphone-18-Gear-2241791725.jpg" alt="There May Not Be an iPhone 18 This Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,20 +162,20 @@
                 <span class="time">2026-09-04 21:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright" target="_blank">The White House is making arcade games racist</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-09-04 19:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gateofai/typescript-ai-pr-reviewer-catch-unsafe-types-4f21" target="_blank">TypeScript AI PR Reviewer: Catch Unsafe Types</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-05 16:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,15 +221,6 @@
                 <span class="time">2026-09-05 07:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rishikumar_yadav/i-built-my-own-budget-tracker-because-i-didnt-want-to-pay-a-monthly-subscription-2gdi" target="_blank">I Built My Own Budget Tracker - Because I Didn&#x27;t Want to Pay a Monthly Subscription</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-05 06:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/IndyPDF-Editor-Converter.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Keep your sensitive PDFs secure with this offline PDF editor for $20 for life" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/09/05/keep-your-sensitive-pdfs-secure-with-this-offline-pdf-editor-for-20-for-life.html" target="_blank">Keep your sensitive PDFs secure with this offline PDF editor for $20 for life</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-09-05 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01M1MH1ND610K15FFDKGES07WG/hero-image.png" alt="Here&#x27;s What Lifehacker Readers Think Apple Will Announce on Wednesday" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,27 +294,18 @@
                 <span class="time">2026-09-04 20:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/09/1001_Wallpapers_Group_4K-e1788548752670-1280x754.jpg" alt="The 1001 Threads Of Mizan Director Avoids Answering A Simple Question At Gamescom" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-1001-threads-of-mizan-director-avoids-answering-a-simple-question-at-gamescom-2000731406" target="_blank">The 1001 Threads Of Mizan Director Avoids Answering A Simple Question At Gamescom</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-09-04 20:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
-            <img src="https://www.smbc-comics.com/comics/1788389708-20260904.png" alt="Saturday Morning Breakfast Cereal - Money" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1788486090-20260905.png" alt="Saturday Morning Breakfast Cereal - Imagine" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/money" target="_blank">Saturday Morning Breakfast Cereal - Money</a></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/imagine-2" target="_blank">Saturday Morning Breakfast Cereal - Imagine</a></span>
                 <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-09-04 15:20</span>
+                <span class="time">2026-09-05 15:20</span>
             </div>
         </div>
 </div>
@@ -305,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 60 | 📡 Total Sources: 39 | 📸 With Images: 256 |
-        🔄 Last Updated: 13:42 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 55 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 16:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
