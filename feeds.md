@@ -1,33 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-09-05 22:26:31 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-06 00:20:31 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, September 05, 2026 - 22:26 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, September 06, 2026 - 00:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,9 +55,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/5/fuel-tanker-blast-in-western-iran-kills-at-least-10?traffic_source=rss" target="_blank">Fuel tanker blast in western Iran kills at least 10</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-05 23:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1788649217041_wnn_yalcindor_iran_strikes_260905_S3_1920x1080-0srjov.jpg" alt="U.S. strikes Iran oil tankers after Iran fires at Naval ships" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/u-s-strikes-iran-oil-tankers-after-iran-fires-at-naval-ships-269393477774" target="_blank">U.S. strikes Iran oil tankers after Iran fires at Naval ships</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-09-05 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/9/5/us-envoys-witkoff-kushner-meet-putin-for-talks-on-ukraine-war?traffic_source=rss" target="_blank">US envoys Witkoff, Kushner meet Putin for talks on Ukraine war</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-09-05 21:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/05/nx-s1-5955500/saxophone-legend-john-coltranes-philadelphia-house-to-become-a-cultural-heritage-site" target="_blank">Jazz legend John Coltrane&#x27;s Philadelphia house to become a cultural heritage site</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-05 21:01</span>
             </div>
         </div>
 <div class="story">
@@ -70,38 +105,20 @@
                 <span class="time">2026-09-05 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d7d/live/1a5083e0-a953-11f1-adf0-6d46cbf5ba37.png" alt="US envoys meet Putin in Moscow for Ukraine talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss" target="_blank">US envoys meet Putin in Moscow for Ukraine talks</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-05 17:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9613/live/a1c35120-a93c-11f1-a291-b542ee92de7c.png" alt="US hits three Iranian oil tankers after saying its warships were targeted" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss" target="_blank">US hits three Iranian oil tankers after saying its warships were targeted</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-05 16:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/5/israel-claims-control-of-lebanons-key-ali-al-taher-ridge-what-that-means?traffic_source=rss" target="_blank">Israel claims control of Lebanon’s key Ali al-Taher ridge: What that means</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-05 16:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/" target="_blank">Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-09-05 22:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,21 +156,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Hundreds More Flock Cameras Removed in the US This Week. Flock Caught Repackaging Traffic Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/" target="_blank">XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-09-04 23:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/" target="_blank">OpenAI’s rogue agents keep escaping, with no formal process to investigate them</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-09-04 23:15</span>
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://yro.slashdot.org/story/26/09/05/0637208/hundreds-more-flock-cameras-removed-in-the-us-this-week-flock-caught-repackaging-traffic-data?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Hundreds More Flock Cameras Removed in the US This Week. Flock Caught Repackaging Traffic Data</a></span>
+                <span class="feed">Slashdot</span>
+                
             </div>
         </div>
 </div>
@@ -161,6 +169,24 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Zenwalk-2026-Current" target="_blank">Slackware-Based Zenwalk ISOs Updated With Linux 7.1, Flatpak Integrated + Xfce 4.20</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-05 22:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket" target="_blank">Private German rocket makes history, reaches orbit from European soil</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-05 20:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff6mnxa2o0akyqjptdt04.png" alt="When Confidence Lies: Engineering Uncertainty-Aware AI Control Loops for High-Stakes Production Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -195,24 +221,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Nouveau-Blackwell-Display-Fixes" target="_blank">Nouveau Lands Display Fixes For NVIDIA Blackwell GPUs As It Works Toward HDMI 2.1</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-09-05 11:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/ai-predictions-2030/en/mediumimage/meryem-arik-medium-1785845650090.jpg" alt="Presentation: A Few Predicted Talks From QConAI 2030" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/ai-predictions-2030/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: A Few Predicted Talks From QConAI 2030</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-09-05 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-Rust-Deep-Into-GPU-Stack" target="_blank">AMD Working To &quot;Push Rust Deep Into The GPU Stack&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-05 10:48</span>
             </div>
         </div>
 </div>
@@ -265,15 +273,6 @@
                 <span class="time">2026-09-05 13:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/ss_c4b029f04f93d637dbec49173affa-1280x720.jpg" alt="Double Fine Boss Says ‘We Never Actively Tried To Make A Game We Thought Was Going To Lose Money’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/double-fine-boss-says-we-never-actively-tried-to-make-a-game-we-thought-was-going-to-lose-money-2000731429" target="_blank">Double Fine Boss Says ‘We Never Actively Tried To Make A Game We Thought Was Going To Lose Money’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-09-04 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -293,8 +292,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 46 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 22:26 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 42 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 00:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
