@@ -1,33 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-09-06 18:43:03 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-06 20:55:19 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Sunday, September 06, 2026 - 18:43 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Sunday, September 06, 2026 - 20:55 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +47,15 @@
                 <span class="title"><a href="https://www.npr.org/2026/09/06/nx-s1-5955677/german-exit-polls-suggest-far-right-party-big-lead-in-regional-election" target="_blank">German exit polls suggest far-right party has big lead in regional election</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-09-06 16:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29df/live/f5cf25f0-984e-11f0-b742-5374a6e86615.jpg" alt="Minister to meet Jaguar Land Rover boss as thousands of job cuts expected" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss" target="_blank">Minister to meet Jaguar Land Rover boss as thousands of job cuts expected</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-06 16:32</span>
             </div>
         </div>
 <div class="story">
@@ -88,20 +94,29 @@
                 <span class="time">2026-09-06 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/09/1920x1080/skynews-gianni-infantino-fifa_7343006.jpg?20260906130904" alt="FIFA confirms Infantino to stand for re-election as president" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/fifa-confirms-gianni-infantino-to-stand-for-re-election-as-president-13582281" target="_blank">FIFA confirms Infantino to stand for re-election as president</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-09-06 12:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/" target="_blank">Authors push back as publishers and agents seek share of Anthropic settlement</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-09-06 20:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch" target="_blank">Europe has its first commercial orbital rocket</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-09-06 19:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,29 +153,20 @@
                 <span class="time">2026-09-05 22:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="To Promote Grand Theft Auto 6, Mayor Might Transform Miami into &#x27;Vice City&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://games.slashdot.org/story/26/09/06/0123212/to-promote-grand-theft-auto-6-mayor-might-transform-miami-into-vice-city?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">To Promote Grand Theft Auto 6, Mayor Might Transform Miami into &#x27;Vice City&#x27;</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Hundreds More Flock Cameras Removed in the US This Week. Flock Caught Repackaging Traffic Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://yro.slashdot.org/story/26/09/05/0637208/hundreds-more-flock-cameras-removed-in-the-us-this-week-flock-caught-repackaging-traffic-data?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Hundreds More Flock Cameras Removed in the US This Week. Flock Caught Repackaging Traffic Data</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/" target="_blank">The car industry A/B tested selling a car with and without CarPlay</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-06 19:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dev.to/assets/images/lmstudio-home.png" alt="How to Run a Free AI Coding Assistant Locally with VS Code, opencode, and LM Studio" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -206,15 +212,6 @@
                 <span class="time">2026-09-06 13:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nainikmehta/nextjs-15-nextform-stop-writing-search-form-boilerplate-1nke" target="_blank">Next.js 15 next/form: Stop Writing Search Form Boilerplate</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-06 13:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -238,22 +235,13 @@
                 <span class="time">2026-09-05 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/09/runescapeprison.jpg" alt="Former Old School RuneScape Developer Sentenced For Stealing In-Game Gold From Players" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/former-old-school-runescape-developer-sentenced-for-stealing-in-game-gold-from-players-2000731568" target="_blank">Former Old School RuneScape Developer Sentenced For Stealing In-Game Gold From Players</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-09-05 20:52</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 21 | 📅 Last 24h: 38 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 18:43 UTC
+        📊 Displayed: 20 | 📅 Last 24h: 38 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 20:55 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
