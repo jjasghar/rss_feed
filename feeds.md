@@ -1,39 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-09-06 09:50:17 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-09-06 13:15:29 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Error processing https://www.phoronix.com/rss.php: The read operation timed out -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Sunday, September 06, 2026 - 09:50 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, September 06, 2026 - 13:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/06/nx-s1-5927184/american-muslims-are-giving-texas-barbecue-a-halal-makeover" target="_blank">American Muslims are giving Texas barbecue a halal makeover</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-06 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,15 +102,6 @@
                 <span class="time">2026-09-05 23:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1788648038959_wnn_ren_kushner_witkoff_russia_ukraine_talks_260905_S3_1920x1080-nfbtny.jpg" alt="Putin orders 72-hour ceasefire in Kyiv" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/putin-orders-72-hour-ceasefire-in-kyiv-269394501594" target="_blank">Putin orders 72-hour ceasefire in Kyiv</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-09-05 22:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -136,28 +135,28 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media.wired.com/photos/6a1a30541b85497e249c551b/master/pass/The%20Best%20Alexa%20Speakers%20top%20art%20052026%20SOURCE%20Amazon.jpg" alt="4 Best Alexa Speakers I’ve Tested (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/" target="_blank">4 Best Alexa Speakers I’ve Tested (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-09-05 11:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a9728f10bab9c8d3b25021e/master/pass/Might-Not-Be-iphone-18-Gear-2241791725.jpg" alt="There May Not Be an iPhone 18 This Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/there-may-not-be-an-iphone-18-this-year/" target="_blank">There May Not Be an iPhone 18 This Year</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-09-05 10:30</span>
-            </div>
-        </div>
-<div class="story">
             <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="To Promote Grand Theft Auto 6, Mayor Might Transform Miami into &#x27;Vice City&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-comments"></span>
                 <span class="title"><a href="https://games.slashdot.org/story/26/09/06/0123212/to-promote-grand-theft-auto-6-mayor-might-transform-miami-into-vice-city?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">To Promote Grand Theft Auto 6, Mayor Might Transform Miami into &#x27;Vice City&#x27;</a></span>
+                <span class="feed">Slashdot</span>
+                
+            </div>
+        </div>
+<div class="story">
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Hundreds More Flock Cameras Removed in the US This Week. Flock Caught Repackaging Traffic Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://yro.slashdot.org/story/26/09/05/0637208/hundreds-more-flock-cameras-removed-in-the-us-this-week-flock-caught-repackaging-traffic-data?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Hundreds More Flock Cameras Removed in the US This Week. Flock Caught Repackaging Traffic Data</a></span>
+                <span class="feed">Slashdot</span>
+                
+            </div>
+        </div>
+<div class="story">
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="OpenAI Agents Hijacked a German Wiki to Discuss Ways to Escape Their Sandbox" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://slashdot.org/story/26/09/05/049215/openai-agents-hijacked-a-german-wiki-to-discuss-ways-to-escape-their-sandbox?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">OpenAI Agents Hijacked a German Wiki to Discuss Ways to Escape Their Sandbox</a></span>
                 <span class="feed">Slashdot</span>
                 
             </div>
@@ -167,6 +166,33 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nainikmehta/nextjs-15-nextform-stop-writing-search-form-boilerplate-1nke" target="_blank">Next.js 15 next/form: Stop Writing Search Form Boilerplate</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-06 13:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/09/google-mantis-vulnerability-scan/en/headerimage/google-mantis-scanner-1788693601725.jpeg" alt="Google Mantis: An Agentic Vulnerability Scanning Harness for Reducing False Positives" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/09/google-mantis-vulnerability-scan/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Mantis: An Agentic Vulnerability Scanning Harness for Reducing False Positives</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-09-06 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/" target="_blank">Intellectual Fly Is Open</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-06 11:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -192,33 +218,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/gnome-sushi-gtk4-port" target="_blank">GNOME Sushi gets a GTK4 revamp, new features</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-09-06 01:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://cloudinabottle.org/blog/launch-post" target="_blank">Cloud in a Bottle: making self-hosting accessible to everyone</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-06 00:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Zenwalk-2026-Current" target="_blank">Slackware-Based Zenwalk ISOs Updated With Linux 7.1, Flatpak Integrated + Xfce 4.20</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-05 22:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket" target="_blank">Private German rocket makes history, reaches orbit from European soil</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-05 20:31</span>
             </div>
         </div>
 </div>
@@ -290,8 +289,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 44 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 09:50 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 41 | 📡 Total Sources: 40 | 📸 With Images: 256 |
+        🔄 Last Updated: 13:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
