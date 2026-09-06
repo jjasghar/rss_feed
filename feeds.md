@@ -1,30 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-09-06 05:15:20 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-09-06 09:50:17 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 22 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, September 06, 2026 - 05:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Sunday, September 06, 2026 - 09:50 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/9/6/israeli-flags-become-the-latest-weapon-of-settlers-in-west-bank-domination?traffic_source=rss" target="_blank">Israeli flags become the latest weapon of settlers in West Bank domination</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-06 09:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/iran-strike-01-gty-jt-260905_1788620458650_hpMain_4x3t_384.jpg" alt="Iran live updates: US strikes oil tankers, Tehran claims attacks on US-linked vessels" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-centcom-targeted-iranian-forces-posed/?id=136080582" target="_blank">Iran live updates: US strikes oil tankers, Tehran claims attacks on US-linked vessels</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-06 07:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8dc/live/731248d0-a997-11f1-a291-b542ee92de7c.jpg" alt="US envoys set for Ukraine talks after meeting Putin in Russia" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -68,30 +95,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1788648038959_wnn_ren_kushner_witkoff_russia_ukraine_talks_260905_S3_1920x1080-nfbtny.jpg" alt="Putin orders 72-hour ceasefire in Kyiv" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/9/5/us-envoys-witkoff-kushner-meet-putin-for-talks-on-ukraine-war?traffic_source=rss" target="_blank">US envoys Witkoff, Kushner meet Putin for talks on Ukraine war</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-05 21:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/05/nx-s1-5955500/saxophone-legend-john-coltranes-philadelphia-house-to-become-a-cultural-heritage-site" target="_blank">Jazz legend John Coltrane&#x27;s Philadelphia house to become a cultural heritage site</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-05 21:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/09/1920x1080/skynews-plane-greece_7342510.jpg?20260905200926" alt="Two pilots die in Greek military jet crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/two-pilots-die-in-greek-military-jet-crash-13582090" target="_blank">Two pilots die in Greek military jet crash</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-09-05 19:01</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/putin-orders-72-hour-ceasefire-in-kyiv-269394501594" target="_blank">Putin orders 72-hour ceasefire in Kyiv</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-09-05 22:40</span>
             </div>
         </div>
 </div>
@@ -162,6 +171,33 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight" target="_blank">Isar Aerospace reaches orbit and deploys payloads on second flight</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-06 07:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/09/figma-security-agents/en/headerimage/generatedHeaderImage-1787900821229.jpg" alt="How Figma Uses AI Agents for Security" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/09/figma-security-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How Figma Uses AI Agents for Security</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-09-06 06:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/09/sushi-file-preview-image.webp?resize=406%2C232&amp;ssl=1" alt="GNOME Sushi gets a GTK4 revamp, new features" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/gnome-sushi-gtk4-port" target="_blank">GNOME Sushi gets a GTK4 revamp, new features</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-09-06 01:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://cloudinabottle.org/blog/launch-post" target="_blank">Cloud in a Bottle: making self-hosting accessible to everyone</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-09-06 00:03</span>
@@ -183,33 +219,6 @@
                 <span class="title"><a href="https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket" target="_blank">Private German rocket makes history, reaches orbit from European soil</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-09-05 20:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff6mnxa2o0akyqjptdt04.png" alt="When Confidence Lies: Engineering Uncertainty-Aware AI Control Loops for High-Stakes Production Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ali_kiani_78/when-confidence-lies-engineering-uncertainty-aware-ai-control-loops-for-high-stakes-production-3mon" target="_blank">When Confidence Lies: Engineering Uncertainty-Aware AI Control Loops for High-Stakes Production Systems</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-05 20:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Ikey-Doherty-Plans-Linux-Build" target="_blank">Ikey Doherty Plans To Show How To &quot;Properly&quot; Build A Modern Linux Distro</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-05 18:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gateofai/typescript-ai-pr-reviewer-catch-unsafe-types-4f21" target="_blank">TypeScript AI PR Reviewer: Catch Unsafe Types</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-05 16:13</span>
             </div>
         </div>
 </div>
@@ -281,8 +290,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 42 | 📡 Total Sources: 40 | 📸 With Images: 256 |
-        🔄 Last Updated: 05:15 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 44 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 09:50 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
