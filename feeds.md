@@ -1,41 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-09-06 00:20:31 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-06 05:15:20 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 32 feeds processed -->
+<!-- Generated 4 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, September 06, 2026 - 00:20 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Sunday, September 06, 2026 - 05:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8dc/live/731248d0-a997-11f1-a291-b542ee92de7c.jpg" alt="US envoys set for Ukraine talks after meeting Putin in Russia" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss" target="_blank">US envoys set for Ukraine talks after meeting Putin in Russia</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-06 02:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,21 +86,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://e3.365dm.com/26/09/1920x1080/skynews-plane-greece_7342510.jpg?20260905200926" alt="Two pilots die in Greek military jet crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war?traffic_source=rss" target="_blank">Russia’s Putin meets US envoys to discuss Trump proposal to end Ukraine war</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-05 18:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/sep/05/egyptian-tv-presenter-among-12-sentenced-to-death-for-drug" target="_blank">Egyptian TV presenter among 12 sentenced to death for drug crime</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-09-05 18:00</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/two-pilots-die-in-greek-military-jet-crash-13582090" target="_blank">Two pilots die in Greek military jet crash</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-09-05 19:01</span>
             </div>
         </div>
 </div>
@@ -156,10 +145,10 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Hundreds More Flock Cameras Removed in the US This Week. Flock Caught Repackaging Traffic Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="To Promote Grand Theft Auto 6, Mayor Might Transform Miami into &#x27;Vice City&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://yro.slashdot.org/story/26/09/05/0637208/hundreds-more-flock-cameras-removed-in-the-us-this-week-flock-caught-repackaging-traffic-data?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Hundreds More Flock Cameras Removed in the US This Week. Flock Caught Repackaging Traffic Data</a></span>
+                <span class="title"><a href="https://games.slashdot.org/story/26/09/06/0123212/to-promote-grand-theft-auto-6-mayor-might-transform-miami-into-vice-city?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">To Promote Grand Theft Auto 6, Mayor Might Transform Miami into &#x27;Vice City&#x27;</a></span>
                 <span class="feed">Slashdot</span>
                 
             </div>
@@ -169,6 +158,15 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://cloudinabottle.org/blog/launch-post" target="_blank">Cloud in a Bottle: making self-hosting accessible to everyone</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-06 00:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -212,15 +210,6 @@
                 <span class="title"><a href="https://dev.to/gateofai/typescript-ai-pr-reviewer-catch-unsafe-types-4f21" target="_blank">TypeScript AI PR Reviewer: Catch Unsafe Types</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-09-05 16:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Nouveau-Blackwell-Display-Fixes" target="_blank">Nouveau Lands Display Fixes For NVIDIA Blackwell GPUs As It Works Toward HDMI 2.1</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-05 11:20</span>
             </div>
         </div>
 </div>
@@ -292,8 +281,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 42 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 00:20 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 42 | 📡 Total Sources: 40 | 📸 With Images: 256 |
+        🔄 Last Updated: 05:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
