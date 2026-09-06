@@ -1,30 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-09-06 20:55:19 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-06 22:31:40 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, September 06, 2026 - 20:55 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Sunday, September 06, 2026 - 22:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1788725182872_now_brk_amazon_plane_crash_260906_S3_1920x1080-u1d52a.jpg" alt="Amazon plane crashes after overrunning runway in Miami" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/amazon-plane-crashes-after-overrunning-runway-in-miami-269415493738" target="_blank">Amazon plane crashes after overrunning runway in Miami</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-09-06 20:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/06/nx-s1-5959749/amazon-cargo-plane-crashes-at-miami-airport" target="_blank">Five dead after Amazon cargo plane crashes at Miami airport</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-06 19:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,29 +97,20 @@
                 <span class="time">2026-09-06 16:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7828/live/f5ab4970-a9ee-11f1-921b-6365210e1c9d.jpg" alt="US envoys hold talks with Zelensky in Kyiv after meeting Putin" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss" target="_blank">US envoys hold talks with Zelensky in Kyiv after meeting Putin</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-06 15:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-09/260904-data-center-iowa-jg-7261e7.jpg" alt="As Trump pushes for data centers, voters in key midterm races say they don’t want them" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/trump-data-centers-voters-key-midterm-races-rcna594914" target="_blank">As Trump pushes for data centers, voters in key midterm races say they don’t want them</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-09-06 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami" target="_blank">An Amazon cargo plane crashed at Miami International Airport</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-09-06 20:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,15 +156,6 @@
                 <span class="time">2026-09-06 11:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/" target="_blank">Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-09-05 22:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -161,10 +164,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dannwaneri/my-grandmother-ran-ajo-i-built-the-version-where-the-pot-cant-walk-away-5gkn" target="_blank">My Grandmother Ran Ajo. I Built the Version Where the Pot Can&#x27;t Walk Away</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-06 22:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/" target="_blank">The car industry A/B tested selling a car with and without CarPlay</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-09-06 19:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://aleyan.com/projects/python-iceberg/" target="_blank">Python Iceberg</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-09-06 18:46</span>
             </div>
         </div>
 <div class="story">
@@ -194,29 +215,20 @@
                 <span class="time">2026-09-06 16:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17441270/switzerland-replace-microssoft-pilot" target="_blank">Switzerland&#x27;s Federal Government is Replacing Microsoft on 3,000 Computers</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-09-06 15:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://beige.party/@intransitivelie/117057396732763183" target="_blank">QBittorrent breaks out of sandbox to commit crimes</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-06 13:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/09/megamandrlight.jpg" alt="Former Capcom Employee Says Western Studios Spend Too Much Time On Jira" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/former-capcom-employee-says-western-studios-spend-too-much-time-on-jira-2000731698" target="_blank">Former Capcom Employee Says Western Studios Spend Too Much Time On Jira</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-06 21:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/09/GettyImages-2271234937-1280x845.jpg" alt="Resident Evil Director Zach Cregger Feels Like He’s Been On An ‘Apology Tour,’ But The Movie Will ‘Speak For Itself’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -226,22 +238,13 @@
                 <span class="time">2026-09-06 16:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/Microsoft-Office-Professional-2021-for-Windows.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Office 2021 is old by tech standards, but $30 gets you the classics for life" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/09/05/office-2021-is-old-by-tech-standards-but-30-gets-you-the-classics-for-life.html" target="_blank">Office 2021 is old by tech standards, but $30 gets you the classics for life</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-09-05 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 20 | 📅 Last 24h: 38 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 20:55 UTC
+        📊 Displayed: 20 | 📅 Last 24h: 40 | 📡 Total Sources: 40 | 📸 With Images: 255 |
+        🔄 Last Updated: 22:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
