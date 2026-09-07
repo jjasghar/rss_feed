@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-09-07 00:26:50 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing 54 RSS feeds at 2026-09-07 05:23:59 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: DZone -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 10 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, September 07, 2026 - 00:26 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Monday, September 07, 2026 - 05:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41a1/live/92680d00-aa0f-11f1-aed2-8d6da8d75094.jpg" alt="Germany&#x27;s far-right AfD hails big victory in east, but falls short of majority" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss" target="_blank">Germany&#x27;s far-right AfD hails big victory in east, but falls short of majority</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-07 04:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0554/live/ec13e0d0-aa74-11f1-a291-b542ee92de7c.jpg" alt="Protesters block roads in Portsmouth after 140 migrants rescued" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/clyegwl9vzqo?at_medium=RSS&at_campaign=rss" target="_blank">Protesters block roads in Portsmouth after 140 migrants rescued</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-07 02:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41a1/live/92680d00-aa0f-11f1-aed2-8d6da8d75094.jpg" alt="Germany&#x27;s far-right AfD set for big win in eastern state, just short of majority" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -72,30 +89,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1788725182872_now_brk_amazon_plane_crash_260906_S3_1920x1080-u1d52a.jpg" alt="Amazon plane crashes after overrunning runway in Miami" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1788731889566_now_brk_amazon_plane_press_conference_260906_S3_1920x1080-t562d4.jpg" alt="Five dead, five injured after Amazon cargo plane overruns runway at Miami airport" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/amazon-plane-crashes-after-overrunning-runway-in-miami-269415493738" target="_blank">Amazon plane crashes after overrunning runway in Miami</a></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/five-dead-five-injured-after-amazon-cargo-plane-overruns-runway-at-miami-airport-269417541574" target="_blank">Five dead, five injured after Amazon cargo plane overruns runway at Miami airport</a></span>
                 <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-09-06 20:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/06/nx-s1-5959749/amazon-cargo-plane-crashes-at-miami-airport" target="_blank">Five dead after Amazon cargo plane crashes at Miami airport</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-06 19:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/09/1920x1080/skynews-miami-florida_7343783.jpg?20260906224431" alt="At least five dead in Amazon plane crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/amazon-cargo-plane-overshoots-runway-at-miami-airport-13582555" target="_blank">At least five dead in Amazon plane crash</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-09-06 19:37</span>
+                <span class="time">2026-09-06 21:53</span>
             </div>
         </div>
 </div>
@@ -163,6 +162,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffnqwokqm9m94ylkkpo25.png" alt="Open Tab: Let Your Spare Change Cover Someone Else&#x27;s Checkout" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/thegm26/open-tab-let-your-spare-change-cover-someone-elses-checkout-40h5" target="_blank">Open Tab: Let Your Spare Change Cover Someone Else&#x27;s Checkout</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-07 05:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/" target="_blank">Keep Our Servers Running: Your Recurring Donation Goes 3X This September</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-07 03:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/09/java-news-roundup-aug31-2026/en/headerimage/java-news-roundup-image-1788715275955.jpg" alt="Java News Roundup: TornadoVM 6, JReleaser, LangChain4j, Java Operator SDK, JHipster, Yupiik Fusion" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/09/java-news-roundup-aug31-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: TornadoVM 6, JReleaser, LangChain4j, Java Operator SDK, JHipster, Yupiik Fusion</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-09-07 02:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/07/firefox-logo-blur.webp?resize=406%2C232&amp;ssl=1" alt="Firefox’s big redesign rolls out in late September" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -187,33 +213,6 @@
                 <span class="title"><a href="https://dev.to/dannwaneri/my-grandmother-ran-ajo-i-built-the-version-where-the-pot-cant-walk-away-5gkn" target="_blank">My Grandmother Ran Ajo. I Built the Version Where the Pot Can&#x27;t Walk Away</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-09-06 22:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://grapheneos.social/@GrapheneOS/117225539756835649" target="_blank">GrapheneOS Overhauled Default Apps and Secure Clipboard</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-06 20:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/" target="_blank">The car industry A/B tested selling a car with and without CarPlay</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-06 19:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://aleyan.com/projects/python-iceberg/" target="_blank">Python Iceberg</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-09-06 18:46</span>
             </div>
         </div>
 </div>
@@ -250,11 +249,25 @@
         </div>
 </div>
 </div>
+<div class="news-section webcomics-section" id="webcomics">
+<h2 class="section-header">🎨 Daily Comics</h2>
+<div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1788659223-20260906.png" alt="Saturday Morning Breakfast Cereal - Seized" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/seized" target="_blank">Saturday Morning Breakfast Cereal - Seized</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-09-06 15:20</span>
+            </div>
+        </div>
+</div>
+</div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 21 | 📅 Last 24h: 45 | 📡 Total Sources: 40 | 📸 With Images: 256 |
-        🔄 Last Updated: 00:26 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 50 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 05:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
