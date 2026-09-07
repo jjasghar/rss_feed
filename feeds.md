@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-09-07 20:15:01 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-09-07 23:07:28 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, September 07, 2026 - 20:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Monday, September 07, 2026 - 23:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +44,33 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/fbi-gty-er-260907_1788813835228_hpMain_4x3t_384.jpg" alt="FBI official warns 9/11 is still inspiring terrorists inside America 25 years later" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/top-fbi-official-warns-911-inspiring-terrorists-inside/story?id=136258064" target="_blank">FBI official warns 9/11 is still inspiring terrorists inside America 25 years later</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-07 22:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c84c/live/fc526aa0-ab02-11f1-93bd-5b304745dac3.jpg" alt="Flight recorders recovered from &#x27;devastating&#x27; Amazon cargo plane crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss" target="_blank">Flight recorders recovered from &#x27;devastating&#x27; Amazon cargo plane crash</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-07 22:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1788814556694_now_brk_amazon_plane_ntsb_presser_260907_S3_1920x1080-57hf5x.jpg" alt="One of the vehicles hit by Amazon cargo plane in Miami had seven people on board, NTSB official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/one-of-the-vehicles-hit-by-amazon-cargo-plane-in-miami-had-seven-people-on-board-ntsb-official-says-269445701959" target="_blank">One of the vehicles hit by Amazon cargo plane in Miami had seven people on board, NTSB official says</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-09-07 20:56</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -53,48 +80,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbc9/live/51c266c0-aaea-11f1-a291-b542ee92de7c.jpg" alt="Minister condemns disorder at Portsmouth anti-migrant protest after police officers hurt" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqxv2335je1o?at_medium=RSS&at_campaign=rss" target="_blank">Minister condemns disorder at Portsmouth anti-migrant protest after police officers hurt</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-07 19:04</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c067/live/5d770b70-aaa3-11f1-b109-879e35c24276.jpg" alt="Jaguar Land Rover to cut 4,000 jobs over next two years" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss" target="_blank">Jaguar Land Rover to cut 4,000 jobs over next two years</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-09-07 14:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/07/nx-s1-5960357/nepal-floods-questions-over-chinas-reporting" target="_blank">As Nepal identifies those killed in the floods, questions grow over China&#x27;s reporting</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-07 13:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/09/1920x1080/skynews-ollie-millroy-loek-hartog_7344358.jpg?20260907153857" alt="Race driver thanks rival for saving his life with &#x27;incredible act of bravery&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/race-driver-ollie-millroy-thanks-rival-loek-hartog-for-saving-his-life-by-pulling-him-from-burning-ferrari-during-china-gt-race-in-shanghai-13582764" target="_blank">Race driver thanks rival for saving his life with &#x27;incredible act of bravery&#x27;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-09-07 11:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Hormuz-DB-260907_1788767662575_hpMain_4x3t_384.jpg" alt="Iran live updates: Tehran plans new &#x27;restricted zone&#x27; outside Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-tehran-plans-new-restricted-zone/?id=136249116" target="_blank">Iran live updates: Tehran plans new &#x27;restricted zone&#x27; outside Strait of Hormuz</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-09-07 10:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/742c/live/a801c5d0-aa9a-11f1-ab09-7f2415c9a652.jpg" alt="Germany&#x27;s far-right AfD says &#x27;democracy demands&#x27; parties work with them after state election win" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss" target="_blank">Germany&#x27;s far-right AfD says &#x27;democracy demands&#x27; parties work with them after state election win</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-07 10:14</span>
             </div>
         </div>
 </div>
@@ -162,6 +162,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F915earl8e8jd90ydj4ou.png" alt="How barometer.today draws its isobars" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/simplemeteo/how-barometertoday-draws-its-isobars-4ega" target="_blank">How barometer.today draws its isobars</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-07 22:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2025/08/kde-logo--406x232.jpg" alt="KDE’s new Photos app offers a sleek alternative to Gwenview" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/kde-photos-app-replace-gwenview" target="_blank">KDE’s new Photos app offers a sleek alternative to Gwenview</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-09-07 22:24</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
@@ -197,22 +215,18 @@
                 <span class="time">2026-09-07 13:36</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/" target="_blank">De-Brainrot Vacations</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-07 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Zone Redundancy Comes to API Management Standard v2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/09/apim-standard-v2-zone-redundancy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Zone Redundancy Comes to API Management Standard v2</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-09-07 10:09</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/09/automobile-camouflage-to-hide-from-flock-cameras.html" target="_blank">Automobile Camouflage to Hide from Flock Cameras</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-09-07 11:06</span>
             </div>
         </div>
 </div>
@@ -220,6 +234,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/09/radicaldreamers01-e1788789361220.jpg" alt="Radical Dreamers Is A Short But Fun Reunion With Chrono Characters" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/radical-dreamers-is-a-short-but-fun-reunion-with-chrono-characters-2000731448" target="_blank">Radical Dreamers Is A Short But Fun Reunion With Chrono Characters</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-07 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/ChatGPT-Automation-E-Degree.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Go beyond ChatGPT basics with this $15 AI E-Degree" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/09/07/go-beyond-chatgpt-basics-with-this-15-ai-e-degree.html" target="_blank">Go beyond ChatGPT basics with this $15 AI E-Degree</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-09-07 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/Created-in-LA-x-Disney-El-Capitan-Interior-1-1.jpg?fit=1200%2C737&amp;quality=60&amp;ssl=1" alt="Disney&#x27;s first creator conference brings Dude Perfect to Hollywood" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -236,15 +268,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/09/06/the-white-house-built-five-trump-themed-video-games-and-they.html" target="_blank">The White House built five Trump-themed video games, and they&#x27;re bleak</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-09-06 23:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/09/megamandrlight.jpg" alt="Former Capcom Employee Says Western Studios Spend Too Much Time On Jira" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/former-capcom-employee-says-western-studios-spend-too-much-time-on-jira-2000731698" target="_blank">Former Capcom Employee Says Western Studios Spend Too Much Time On Jira</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-09-06 21:08</span>
             </div>
         </div>
 </div>
@@ -293,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 47 | 📡 Total Sources: 40 | 📸 With Images: 259 |
-        🔄 Last Updated: 20:15 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 43 | 📡 Total Sources: 40 | 📸 With Images: 263 |
+        🔄 Last Updated: 23:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
