@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-09-06 22:31:40 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-09-07 00:26:50 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 10 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Sunday, September 06, 2026 - 22:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, September 07, 2026 - 00:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41a1/live/92680d00-aa0f-11f1-aed2-8d6da8d75094.jpg" alt="Germany&#x27;s far-right AfD set for big win in eastern state, just short of majority" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss" target="_blank">Germany&#x27;s far-right AfD set for big win in eastern state, just short of majority</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-06 23:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5295/live/fa800b90-aa05-11f1-afb5-a367f96884d3.jpg" alt="140 migrants in single dinghy rescued in English Channel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/clyegwl9vzqo?at_medium=RSS&at_campaign=rss" target="_blank">140 migrants in single dinghy rescued in English Channel</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-06 22:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/miami-runway-overrun-gty-cw-10260906_1788724142450_hpMain_4x3t_384.jpg" alt="5 dead, 5 injured in Amazon cargo plane incident at Miami International Airport" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/cargo-plane-overruns-runway-miami-international-airport-faa/story?id=136242081" target="_blank">5 dead, 5 injured in Amazon cargo plane incident at Miami International Airport</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-06 22:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1788725182872_now_brk_amazon_plane_crash_260906_S3_1920x1080-u1d52a.jpg" alt="Amazon plane crashes after overrunning runway in Miami" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -62,39 +90,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://e3.365dm.com/26/09/1920x1080/skynews-miami-florida_7343783.jpg?20260906224431" alt="At least five dead in Amazon plane crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/06/nx-s1-5955677/german-exit-polls-suggest-far-right-party-big-lead-in-regional-election" target="_blank">German exit polls suggest far-right party has big lead in regional election</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-06 16:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29df/live/f5cf25f0-984e-11f0-b742-5374a6e86615.jpg" alt="Minister to meet Jaguar Land Rover boss as thousands of job cuts expected" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss" target="_blank">Minister to meet Jaguar Land Rover boss as thousands of job cuts expected</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-06 16:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/main-in-ballot-rt-jt-260826_1787768921307_hpMain_4x3t_384.jpg" alt="White House files another SCOTUS emergency appeal over USPS mail ballot rules" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/federal-judge-extends-block-new-usps-mail-ballot/story?id=136215058" target="_blank">White House files another SCOTUS emergency appeal over USPS mail ballot rules</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-09-06 16:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/6/far-right-afd-wins-vote-in-germanys-saxony-anhalt-state-exit-polls?traffic_source=rss" target="_blank">Far-right AFD wins vote in Germany’s Saxony-Anhalt state: Exit polls</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-06 16:07</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/amazon-cargo-plane-overshoots-runway-at-miami-airport-13582555" target="_blank">At least five dead in Amazon plane crash</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-09-06 19:37</span>
             </div>
         </div>
 </div>
@@ -102,6 +103,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft" target="_blank">Seattle Times and Newsday sue OpenAI and Microsoft for infringement</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-09-06 23:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/" target="_blank">Phil Schiller’s App Store exit reportedly driven by wariness over future plans</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-09-06 21:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,29 +157,29 @@
                 <span class="time">2026-09-06 16:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/Spectrum_mission_Onwards_and_upwards_liftoff_pillars-500x500.jpg" alt="German company becomes first in Europe to launch fully commercial orbital rocket" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/" target="_blank">German company becomes first in Europe to launch fully commercial orbital rocket</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-09-06 11:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a9b6e21074e05014033d571/master/pass/The-Best-Laptop-Backpacks-I%E2%80%99ve-Tested-for-Work,-Travel,-and-Everyday-Life.jpg" alt="The Best Laptop Backpacks for Work, Travel, and Everything Between (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-laptop-backpacks/" target="_blank">The Best Laptop Backpacks for Work, Travel, and Everything Between (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-09-06 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/07/firefox-logo-blur.webp?resize=406%2C232&amp;ssl=1" alt="Firefox’s big redesign rolls out in late September" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/firefox-nova-redesign-coming-september" target="_blank">Firefox’s big redesign rolls out in late September</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-09-06 22:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-rc2-Released" target="_blank">Linux 7.3-rc2 Released Following Another Busy Week</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-06 22:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -168,6 +187,15 @@
                 <span class="title"><a href="https://dev.to/dannwaneri/my-grandmother-ran-ajo-i-built-the-version-where-the-pot-cant-walk-away-5gkn" target="_blank">My Grandmother Ran Ajo. I Built the Version Where the Pot Can&#x27;t Walk Away</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-09-06 22:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://grapheneos.social/@GrapheneOS/117225539756835649" target="_blank">GrapheneOS Overhauled Default Apps and Secure Clipboard</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-06 20:24</span>
             </div>
         </div>
 <div class="story">
@@ -188,38 +216,20 @@
                 <span class="time">2026-09-06 18:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dev.to/assets/images/lmstudio-home.png" alt="How to Run a Free AI Coding Assistant Locally with VS Code, opencode, and LM Studio" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aravindagn/how-to-run-a-free-ai-coding-assistant-locally-with-vs-code-opencode-and-lm-studio-3c1c" target="_blank">How to Run a Free AI Coding Assistant Locally with VS Code, opencode, and LM Studio</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-06 18:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/zedeus/nitter" target="_blank">Following legal advice, the Nitter project will continue</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-06 17:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pizuuer_sama/i-built-a-prompt-injection-detection-api-that-responds-in-1ms-heres-how-35cn" target="_blank">I built a prompt injection detection API that responds in &lt;1ms — here&#x27;s how</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-06 16:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/trump.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="The White House built five Trump-themed video games, and they&#x27;re bleak" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/09/06/the-white-house-built-five-trump-themed-video-games-and-they.html" target="_blank">The White House built five Trump-themed video games, and they&#x27;re bleak</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-09-06 23:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/09/megamandrlight.jpg" alt="Former Capcom Employee Says Western Studios Spend Too Much Time On Jira" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -243,8 +253,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 20 | 📅 Last 24h: 40 | 📡 Total Sources: 40 | 📸 With Images: 255 |
-        🔄 Last Updated: 22:31 UTC
+        📊 Displayed: 21 | 📅 Last 24h: 45 | 📡 Total Sources: 40 | 📸 With Images: 256 |
+        🔄 Last Updated: 00:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
