@@ -1,33 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-09-07 05:23:59 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-07 10:56:14 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 25 feeds processed -->
+<!-- Generated 8 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, September 07, 2026 - 05:24 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Monday, September 07, 2026 - 10:56 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/742c/live/a801c5d0-aa9a-11f1-ab09-7f2415c9a652.jpg" alt="Germany&#x27;s far-right AfD says &#x27;democracy demands&#x27; parties work with them after state election win" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss" target="_blank">Germany&#x27;s far-right AfD says &#x27;democracy demands&#x27; parties work with them after state election win</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-07 10:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/07/nx-s1-5887297/new-school-year-starts" target="_blank">The first day of school: Bells, bikes, buses and big feelings</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-07 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41a1/live/92680d00-aa0f-11f1-aed2-8d6da8d75094.jpg" alt="Germany&#x27;s far-right AfD hails big victory in east, but falls short of majority" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,29 +95,20 @@
                 <span class="time">2026-09-06 22:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/miami-runway-overrun-gty-cw-10260906_1788724142450_hpMain_4x3t_384.jpg" alt="5 dead, 5 injured in Amazon cargo plane incident at Miami International Airport" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/cargo-plane-overruns-runway-miami-international-airport-faa/story?id=136242081" target="_blank">5 dead, 5 injured in Amazon cargo plane incident at Miami International Airport</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-09-06 22:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1788731889566_now_brk_amazon_plane_press_conference_260906_S3_1920x1080-t562d4.jpg" alt="Five dead, five injured after Amazon cargo plane overruns runway at Miami airport" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/five-dead-five-injured-after-amazon-cargo-plane-overruns-runway-at-miami-airport-269417541574" target="_blank">Five dead, five injured after Amazon cargo plane overruns runway at Miami airport</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-09-06 21:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a994fa2bf4e66136bddb432/master/pass/HowYouReallyFeel.jpg" alt="Whispering Complaints Into Your Phone May Be the Future of Customer Feedback" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/" target="_blank">Whispering Complaints Into Your Phone May Be the Future of Customer Feedback</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-07 10:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +154,20 @@
                 <span class="time">2026-09-06 19:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/" target="_blank">TechCrunch Mobility: Tesla Cybercab hits the road — and a snag</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-09-06 16:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Zone Redundancy Comes to API Management Standard v2" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/09/apim-standard-v2-zone-redundancy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Zone Redundancy Comes to API Management Standard v2</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-09-07 10:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffnqwokqm9m94ylkkpo25.png" alt="Open Tab: Let Your Spare Change Cover Someone Else&#x27;s Checkout" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -168,6 +175,15 @@
                 <span class="title"><a href="https://dev.to/thegm26/open-tab-let-your-spare-change-cover-someone-elses-checkout-40h5" target="_blank">Open Tab: Let Your Spare Change Cover Someone Else&#x27;s Checkout</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-09-07 05:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/" target="_blank">Keep Our Servers Running</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-07 03:29</span>
             </div>
         </div>
 <div class="story">
@@ -189,30 +205,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/07/firefox-logo-blur.webp?resize=406%2C232&amp;ssl=1" alt="Firefox’s big redesign rolls out in late September" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/07/firefox-logo-blur-406x232.webp" alt="Firefox redesign will arrive in v157 release" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/firefox-nova-redesign-coming-september" target="_blank">Firefox’s big redesign rolls out in late September</a></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/firefox-nova-redesign-coming-september" target="_blank">Firefox redesign will arrive in v157 release</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-09-06 22:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-rc2-Released" target="_blank">Linux 7.3-rc2 Released Following Another Busy Week</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-06 22:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dannwaneri/my-grandmother-ran-ajo-i-built-the-version-where-the-pot-cant-walk-away-5gkn" target="_blank">My Grandmother Ran Ajo. I Built the Version Where the Pot Can&#x27;t Walk Away</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-06 22:19</span>
             </div>
         </div>
 </div>
@@ -253,6 +251,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.questionablecontent.net/comics/5911.png" alt="Plan Of Action" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5911" target="_blank">Plan Of Action</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-09-07 01:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1788659223-20260906.png" alt="Saturday Morning Breakfast Cereal - Seized" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -266,8 +273,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 50 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 05:24 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 52 | 📡 Total Sources: 40 | 📸 With Images: 260 |
+        🔄 Last Updated: 10:56 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
