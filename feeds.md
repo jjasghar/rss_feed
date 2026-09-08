@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-09-07 23:07:28 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-09-08 01:51:26 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, September 07, 2026 - 23:07 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Tuesday, September 08, 2026 - 01:51 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1788825046570_nn_gso_miami_plane_crash_260907_S3_1920x1080-6v29rw.jpg" alt="Cargo plane slams into vehicles killing 5 in Miami" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/cargo-plane-slams-into-vehicles-killing-5-in-miami-269454405967" target="_blank">Cargo plane slams into vehicles killing 5 in Miami</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-09-07 23:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/fbi-gty-er-260907_1788813835228_hpMain_4x3t_384.jpg" alt="FBI official warns 9/11 is still inspiring terrorists inside America 25 years later" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,15 +95,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqxv2335je1o?at_medium=RSS&at_campaign=rss" target="_blank">Minister condemns disorder at Portsmouth anti-migrant protest after police officers hurt</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-09-07 19:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c067/live/5d770b70-aaa3-11f1-b109-879e35c24276.jpg" alt="Jaguar Land Rover to cut 4,000 jobs over next two years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss" target="_blank">Jaguar Land Rover to cut 4,000 jobs over next two years</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-07 14:57</span>
             </div>
         </div>
 </div>
@@ -148,12 +148,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Instead of Fighting AI, Some Teachers Work It Into Their Lessons" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft" target="_blank">Seattle Times and Newsday sue OpenAI and Microsoft for infringement</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-09-06 23:36</span>
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://news.slashdot.org/story/26/09/07/0021232/instead-of-fighting-ai-some-teachers-work-it-into-their-lessons?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Instead of Fighting AI, Some Teachers Work It Into Their Lessons</a></span>
+                <span class="feed">Slashdot</span>
+                
             </div>
         </div>
 </div>
@@ -161,6 +161,24 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nathanroll/build-a-local-call-review-panel-with-python-2dgh" target="_blank">Build a local call-review panel with Python</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-08 01:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/FreeBSD-14.5-RELEASE" target="_blank">FreeBSD 14.5 Released With Hardware Support Improvements, Many Bug &amp; Security Fixes</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-08 00:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F915earl8e8jd90ydj4ou.png" alt="How barometer.today draws its isobars" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -197,24 +215,6 @@
                 <span class="time">2026-09-07 16:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alisterbaroi/an-ai-agent-is-just-a-while-loop-i-built-one-in-70-lines-of-python-then-tricked-it-into-leaking-4ehf" target="_blank">An AI agent is just a while loop. I built one in 70 lines of Python, then tricked it into leaking my .env</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-07 15:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-26.10-amd64v3-Daily" target="_blank">Ubuntu 26.10 amd64v3 Daily ISOs Now Being Published</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-07 13:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +244,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M1CNXXEYPE51P194PSFGJZ9Z/hero-image.webp" alt="Lifehacker Labor Day Sale Live Blog: Your Last Chance for These Labor Day Deals Before They End" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/labor-day-sales-live-blog-09-07-2026?utm_medium=RSS" target="_blank">Lifehacker Labor Day Sale Live Blog: Your Last Chance for These Labor Day Deals Before They End</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-09-07 21:04</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/ChatGPT-Automation-E-Degree.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Go beyond ChatGPT basics with this $15 AI E-Degree" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -259,15 +268,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/09/07/disney-s-first-creator-conference-brings-dude-perfect-to-hol.html" target="_blank">Disney&#x27;s first creator conference brings Dude Perfect to Hollywood</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-09-07 12:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/trump.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="The White House built five Trump-themed video games, and they&#x27;re bleak" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/09/06/the-white-house-built-five-trump-themed-video-games-and-they.html" target="_blank">The White House built five Trump-themed video games, and they&#x27;re bleak</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-09-06 23:23</span>
             </div>
         </div>
 </div>
@@ -303,12 +303,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://www.questionablecontent.net/comics/5911.png" alt="Plan Of Action" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://imgs.xkcd.com/comics/semaphore.png" alt="Semaphore" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5911" target="_blank">Plan Of Action</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-09-07 01:01</span>
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3295/" target="_blank">Semaphore</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-09-07 04:00</span>
             </div>
         </div>
 </div>
@@ -316,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 43 | 📡 Total Sources: 40 | 📸 With Images: 263 |
-        🔄 Last Updated: 23:07 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 44 | 📡 Total Sources: 40 | 📸 With Images: 266 |
+        🔄 Last Updated: 01:51 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
