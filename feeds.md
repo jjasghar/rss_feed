@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-09-08 15:34:15 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-09-08 19:05:36 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 14 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 10 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, September 08, 2026 - 15:34 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Tuesday, September 08, 2026 - 19:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/8/trump-putin-hold-frank-phone-call-as-us-restarts-ukraine-deal-efforts?traffic_source=rss" target="_blank">Trump, Putin hold ‘frank’ phone call as US restarts Ukraine deal efforts</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-08 18:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/lonnnie-bunch-1-ap-gmh-260908_1788883649074_hpMain_4x3t_384.jpg" alt="Smithsonian Secretary Lonnie Bunch resigns amid attacks from Trump administration" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/smithsonian-secretary-lonnie-bunch-resigns-amid-attacks-trump/story?id=136278030" target="_blank">Smithsonian Secretary Lonnie Bunch resigns amid attacks from Trump administration</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-08 17:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-07/260708-lonnie-bunch-smithsonian-mn-1540-4d4f9f.jpg" alt="Smithsonian Secretary Lonnie Bunch is leaving amid tensions with Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/politics-news/smithsonian-secretary-lonnie-bunch-leaving-fights-trump-rcna596615" target="_blank">Smithsonian Secretary Lonnie Bunch is leaving amid tensions with Trump</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-09-08 16:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4970/live/57d86dc0-ab49-11f1-9191-cd98112fd46c.jpg" alt="Carney says US trade war &#x27;will come at a cost&#x27; as Canada strikes back on tariffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -73,38 +99,20 @@
                 <span class="time">2026-09-08 11:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1788866812069_tdy_news_7a_haake_rnc_gas_260908_S3_1920x1080-7urcot.jpg" alt="Canada Trade War Escalates; Rising Fuel Prices Impact Americans" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/canada-imposes-retaliatory-tariffs-on-700-american-products-269466181792" target="_blank">Canada Trade War Escalates; Rising Fuel Prices Impact Americans</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-09-08 11:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/08/g-s1-142302/up-first-newsletter-trumpapalooza-amazon-cargo-plane-crash-canada-tariffs" target="_blank">GOP to host unusual midterm convention. And, Canada&#x27;s retaliatory tariffs take effect</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-08 11:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-09/260904-chris-pappas-new-hampshire-mn-1120-29bb4f.jpg" alt="New Hampshire primaries test Trump and the left" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/new-hampshire-primaries-test-trump-left-rcna596109" target="_blank">New Hampshire primaries test Trump and the left</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-09-08 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6aa03e5ade01d165fd766963/master/pass/UK-Gave-Apple-Google-Three-Months-To-Block-Child-Nudity-Business-961092282.jpg" alt="Apple and Google Miss Deadline to Block Child Nudity on Their Phones in the UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/apple-and-google-miss-deadline-to-block-child-nudity-on-their-phones-in-the-uk/" target="_blank">Apple and Google Miss Deadline to Block Child Nudity on Their Phones in the UK</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-08 18:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +158,29 @@
                 <span class="time">2026-09-08 02:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price" target="_blank">Audi’s new A2 E-tron is its most affordable and efficient EV yet</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-09-07 20:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://openai.com/index/introducing-chatgpt-images-2-5/" target="_blank">ChatGPT Images 2.5</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-08 18:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/KDE-KWin-Wayland-Commit-Timing" target="_blank">KDE&#x27;s KWin Merges Wayland Commit-Timing Protocol Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-08 16:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjtr0wdfiihheo31l0f0m.png" alt="Prompt Engineering: How to Actually Get What You Want from AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -171,6 +188,15 @@
                 <span class="title"><a href="https://dev.to/blackwatch021/prompt-engineering-how-to-actually-get-what-you-want-from-ai-4e02" target="_blank">Prompt Engineering: How to Actually Get What You Want from AI</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-09-08 15:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/09/ubuntu-2610-mascot-406x232.webp" alt="Ubuntu 26.10 reveals new official wallpaper, mascot art" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-wallpaper" target="_blank">Ubuntu 26.10 reveals new official wallpaper, mascot art</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-09-08 15:11</span>
             </div>
         </div>
 <div class="story">
@@ -191,38 +217,38 @@
                 <span class="time">2026-09-08 13:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.4-RTL8127atf-RTL8116af" target="_blank">Linux 7.4 To Support Realtek RTL8127atf &amp; RTL8116af Networking</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-08 10:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/grace-on-the-currents-stonking-stingray" target="_blank">Grace on the currents: Stonking Stingray</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-09-08 10:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/solopreneur-journey/en/mediumimage/joe-cassavaugh-medium-1788338336405.jpg" alt="Presentation: A Solopreneur&#x27;s Journey: From Engineer to Puzzle Master and Storyteller" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/solopreneur-journey/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: A Solopreneur&#x27;s Journey: From Engineer to Puzzle Master and Storyteller</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-09-08 09:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/09/fps-2000s-sprawl-zero-1280x720.jpg" alt="New FPS Is For All You Fans Of PS2/Xbox-Era Shooters Like Killzone, Halo, Black, and FEAR" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/new-fps-is-for-all-you-fans-of-ps2-xbox-era-shooters-like-killzone-halo-black-and-fear-2000732337" target="_blank">New FPS Is For All You Fans Of PS2/Xbox-Era Shooters Like Killzone, Halo, Black, and FEAR</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-08 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/02/elizabeth-holmes.jpg?fit=1080%2C708&amp;quality=60&amp;ssl=1" alt="Nathan Fielder spent three years trying to figure out Elizabeth Holmes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/09/08/nathan-fielder-spent-three-years-trying-to-figure-out-elizabeth-holmes.html" target="_blank">Nathan Fielder spent three years trying to figure out Elizabeth Holmes</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-09-08 18:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M20VCF8G2VVSF33S84YB8HVD/hero-image.jpg" alt="Five Devices I Expect Apple to Announce on Wednesday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/all-the-devices-i-expect-apple-to-announce-on-wednesday?utm_medium=RSS" target="_blank">Five Devices I Expect Apple to Announce on Wednesday</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-09-08 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2024/01/9971b74c14c112aadcb966f6cacb4348.jpg" alt="White House Removes Awful Tetris Clone From Website After The Tetris Company Posted It Takes ‘Copyright Infringement Very Seriously’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -248,15 +274,6 @@
                 <span class="title"><a href="https://kotaku.com/radical-dreamers-is-a-short-but-fun-reunion-with-chrono-characters-2000731448" target="_blank">Radical Dreamers Is A Short But Fun Reunion With Chrono Characters</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-09-07 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M1CNXXEYPE51P194PSFGJZ9Z/hero-image.webp" alt="Lifehacker Labor Day Sale Live Blog: Your Last Chance for These Labor Day Deals Before They End" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/labor-day-sales-live-blog-09-07-2026?utm_medium=RSS" target="_blank">Lifehacker Labor Day Sale Live Blog: Your Last Chance for These Labor Day Deals Before They End</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-09-07 21:04</span>
             </div>
         </div>
 </div>
@@ -296,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 52 | 📡 Total Sources: 40 | 📸 With Images: 266 |
-        🔄 Last Updated: 15:34 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 56 | 📡 Total Sources: 39 | 📸 With Images: 268 |
+        🔄 Last Updated: 19:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
