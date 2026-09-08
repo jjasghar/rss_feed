@@ -1,35 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-09-08 19:05:36 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-08 22:07:11 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 10 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 18 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, September 08, 2026 - 19:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, September 08, 2026 - 22:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +52,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/9/8/haaland-to-the-double-as-manchester-city-beat-porto-in-champions-league?traffic_source=rss" target="_blank">Haaland to the double as Manchester City beat Porto in Champions League</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-08 21:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/08/nx-s1-5955787/new-report-shows-the-economic-toll-of-ice-raids" target="_blank">New report shows the economic toll of ICE raids</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-08 20:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cd1/live/8d1d81e0-aba9-11f1-b109-879e35c24276.jpg" alt="UK announces sanctions on West Bank settlements prompting furious Israeli response" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss" target="_blank">UK announces sanctions on West Bank settlements prompting furious Israeli response</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-08 19:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,38 +106,29 @@
                 <span class="time">2026-09-08 16:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4970/live/57d86dc0-ab49-11f1-9191-cd98112fd46c.jpg" alt="Carney says US trade war &#x27;will come at a cost&#x27; as Canada strikes back on tariffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss" target="_blank">Carney says US trade war &#x27;will come at a cost&#x27; as Canada strikes back on tariffs</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-08 14:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/08/g-s1-142311/australian-social-media-users-to-be-offered-choice-to-opt-out-of-algorithms" target="_blank">Australian social media users to be offered choice to opt out of algorithms</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-08 13:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/clancy-7-ap-gmh-260904_1788532750120_hpMain_4x3t_384.jpg" alt="Lindsay Clancy&#x27;s lawyer asks Trump to pardon her after mistrial" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/GMA/News/lindsay-clancys-attorney-kevin-reddington-asks-trump-pardon/story?id=136258585" target="_blank">Lindsay Clancy&#x27;s lawyer asks Trump to pardon her after mistrial</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-09-08 11:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/991806/sony-disc-plant-90-percent-10-percent" target="_blank">Sony isn’t phasing out discs quite as quickly as we thought</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-09-08 21:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6aa056924ee73bc2e37a3111/master/pass/2292854766" alt="Cockroach Milk, How to Blow Your Nose, and Mosquito Printers: The Ig Nobels of 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/cockroach-milk-mosquito-printers-ig-nobels-of-2026/" target="_blank">Cockroach Milk, How to Blow Your Nose, and Mosquito Printers: The Ig Nobels of 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-08 21:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6aa03e5ade01d165fd766963/master/pass/UK-Gave-Apple-Google-Three-Months-To-Block-Child-Nudity-Business-961092282.jpg" alt="Apple and Google Miss Deadline to Block Child Nudity on Their Phones in the UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,29 +165,29 @@
                 <span class="time">2026-09-08 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/" target="_blank">Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-09-08 02:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3" target="_blank">First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-09-08 02:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alifar/openai-reports-navier-stokes-breakthrough-with-gpt-6-astra-used-for-lean-verification-19d2" target="_blank">OpenAI Reports Navier-Stokes Breakthrough, With GPT-6 Astra Used for Lean Verification</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-08 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/09/firefox-keyboard-406x232.webp" alt="The $200 Firefox mechanical keyboard sold out" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/firefox-keyboard-cherry-switches" target="_blank">The $200 Firefox mechanical keyboard sold out</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-09-08 21:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -175,6 +200,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17442852/freecore-truenas-core-fork" target="_blank">FreeCORE is What Your TrueNAS CORE Box Should Have</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-09-08 17:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/KDE-KWin-Wayland-Commit-Timing" target="_blank">KDE&#x27;s KWin Merges Wayland Commit-Timing Protocol Support</a></span>
                 <span class="feed">Phoronix</span>
@@ -182,39 +216,26 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjtr0wdfiihheo31l0f0m.png" alt="Prompt Engineering: How to Actually Get What You Want from AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://substackcdn.com/image/fetch/$s_!SuQb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0b62d5e2-7663-4910-8580-d565d3c7d0a4_1554x1416.png" alt="What is happening with code reviews?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/blackwatch021/prompt-engineering-how-to-actually-get-what-you-want-from-ai-4e02" target="_blank">Prompt Engineering: How to Actually Get What You Want from AI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-08 15:31</span>
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/what-is-happening-with-code-reviews" target="_blank">What is happening with code reviews?</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-09-08 16:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/09/ubuntu-2610-mascot-406x232.webp" alt="Ubuntu 26.10 reveals new official wallpaper, mascot art" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-wallpaper" target="_blank">Ubuntu 26.10 reveals new official wallpaper, mascot art</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-09-08 15:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/09/hashicorp-packer-verification/en/headerimage/generatedHeaderImage-1788853414930.jpg" alt="HashiCorp Packer 1.16 Adds Native SLSA Provenance Generation and Verification for Machine Images" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/09/hashicorp-packer-verification/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">HashiCorp Packer 1.16 Adds Native SLSA Provenance Generation and Verification for Machine Images</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-09-08 14:00</span>
-            </div>
-        </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17442721/bottles-arm64-support" target="_blank">Bottles Brings Hope for Windows-only Software on ARM Devices</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-09-08 13:59</span>
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/" target="_blank">Microsoft Plugs Nearly 1,000 Security Holes</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2026-09-08 21:44</span>
             </div>
         </div>
 </div>
@@ -222,6 +243,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M1CNXXEYPE51P194PSFGJZ9Z/hero-image.webp" alt="Lifehacker Labor Day Sale Live Blog: Your Last Chance for These Labor Day Deals Before They End" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/labor-day-sales-live-blog-09-08-2026?utm_medium=RSS" target="_blank">Lifehacker Labor Day Sale Live Blog: Your Last Chance for These Labor Day Deals Before They End</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-09-08 21:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/rfk-jr.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="RFK Jr. suggested Pennsylvania fabricated measles deaths. A coroner just confirmed one" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/09/08/rfk-jr-pennsylvania-measles-deaths.html" target="_blank">RFK Jr. suggested Pennsylvania fabricated measles deaths. A coroner just confirmed one</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-09-08 19:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/09/fps-2000s-sprawl-zero-1280x720.jpg" alt="New FPS Is For All You Fans Of PS2/Xbox-Era Shooters Like Killzone, Halo, Black, and FEAR" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -258,24 +297,6 @@
                 <span class="time">2026-09-08 15:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2H3PJK33MNA36573YYPFDM/hero-image.jpg" alt="How to Disable ACR to Stop Your TV From Tracking You" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/disable-acr-to-stop-your-smart-tv-from-tracking-what-you-watch?utm_medium=RSS" target="_blank">How to Disable ACR to Stop Your TV From Tracking You</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-09-08 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/09/radicaldreamers01-e1788789361220.jpg" alt="Radical Dreamers Is A Short But Fun Reunion With Chrono Characters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/radical-dreamers-is-a-short-but-fun-reunion-with-chrono-characters-2000731448" target="_blank">Radical Dreamers Is A Short But Fun Reunion With Chrono Characters</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-09-07 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -299,22 +320,13 @@
                 <span class="time">2026-09-08 00:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/09/07/symmetrical" target="_blank">Symmetrical</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-09-07 19:23</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 56 | 📡 Total Sources: 39 | 📸 With Images: 268 |
-        🔄 Last Updated: 19:05 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 64 | 📡 Total Sources: 40 | 📸 With Images: 265 |
+        🔄 Last Updated: 22:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
