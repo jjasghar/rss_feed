@@ -1,40 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-09-08 06:41:03 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-09-08 11:51:28 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 14 new posts out of 31 feeds processed -->
+<!-- Generated 7 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Tuesday, September 08, 2026 - 06:41 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, September 08, 2026 - 11:51 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +40,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/clancy-7-ap-gmh-260904_1788532750120_hpMain_4x3t_384.jpg" alt="Lindsay Clancy&#x27;s lawyer asks Trump to pardon her after mistrial" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/GMA/News/lindsay-clancys-attorney-kevin-reddington-asks-trump-pardon/story?id=136258585" target="_blank">Lindsay Clancy&#x27;s lawyer asks Trump to pardon her after mistrial</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-08 11:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1788866812069_tdy_news_7a_haake_rnc_gas_260908_S3_1920x1080-7urcot.jpg" alt="Canada Trade War Escalates; Rising Fuel Prices Impact Americans" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/canada-imposes-retaliatory-tariffs-on-700-american-products-269466181792" target="_blank">Canada Trade War Escalates; Rising Fuel Prices Impact Americans</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-09-08 11:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/08/g-s1-142302/up-first-newsletter-trumpapalooza-amazon-cargo-plane-crash-canada-tariffs" target="_blank">GOP to host unusual midterm convention. And, Canada&#x27;s retaliatory tariffs take effect</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-08 11:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,33 +92,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss" target="_blank">Canada braces for prolonged trade war as counter-tariffs on US take effect</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-09-08 04:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/sep/08/hijacking-pirates-somalia-geopolitical-chaos" target="_blank">Hijacking pirates exploit regional chaos to return to seas off Somalia</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-09-08 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43ac/live/59b864e0-aae7-11f1-b109-879e35c24276.jpg" alt="A&amp;E did not get the basics right - my son&#x27;s life was ruined at 32" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqlw0ke2v97o?at_medium=RSS&at_campaign=rss" target="_blank">A&amp;E did not get the basics right - my son&#x27;s life was ruined at 32</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-08 03:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-trump-carney_7302900.jpg?20260721003217" alt="Trump threatens to halt sale of Canadian Bombardier jets in US - as trade war intensifies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trump-threatens-to-halt-sale-of-canadian-bombardier-jets-in-us-as-trade-war-intensifies-13582998" target="_blank">Trump threatens to halt sale of Canadian Bombardier jets in US - as trade war intensifies</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-09-08 02:14</span>
             </div>
         </div>
 </div>
@@ -155,12 +145,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/LakeMariner-500x500.png" alt="The complex corporate web behind a $3.2 billion AI data center" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Instead of Fighting AI, Some Teachers Work It Into Their Lessons" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/" target="_blank">The complex corporate web behind a $3.2 billion AI data center</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-09-07 11:00</span>
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://news.slashdot.org/story/26/09/07/0021232/instead-of-fighting-ai-some-teachers-work-it-into-their-lessons?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Instead of Fighting AI, Some Teachers Work It Into Their Lessons</a></span>
+                <span class="feed">Slashdot</span>
+                
             </div>
         </div>
 </div>
@@ -168,6 +158,42 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.4-RTL8127atf-RTL8116af" target="_blank">Linux 7.4 To Support Realtek RTL8127atf &amp; RTL8116af Networking</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-08 10:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/grace-on-the-currents-stonking-stingray" target="_blank">Grace on the currents: Stonking Stingray</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-09-08 10:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/solopreneur-journey/en/mediumimage/joe-cassavaugh-medium-1788338336405.jpg" alt="Presentation: A Solopreneur&#x27;s Journey: From Engineer to Puzzle Master and Storyteller" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/solopreneur-journey/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: A Solopreneur&#x27;s Journey: From Engineer to Puzzle Master and Storyteller</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-09-08 09:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten" target="_blank">Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-08 08:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -184,56 +210,6 @@
                 <span class="title"><a href="https://dev.to/datastack/what-ios-build-tools-are-available-from-xcodebuild-to-kxapp-compilation-solutions-2a2d" target="_blank">What iOS Build Tools Are Available: From xcodebuild to KXApp Compilation Solutions</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-09-08 06:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/" target="_blank">Mistral raises €3B to make sovereign, open-weight AI the technology frontier</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-08 05:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nathanroll/build-a-local-call-review-panel-with-python-2dgh" target="_blank">Build a local call-review panel with Python</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-08 01:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/FreeBSD-14.5-RELEASE" target="_blank">FreeBSD 14.5 Released With Hardware Support Improvements, Many Bug &amp; Security Fixes</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-08 00:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F915earl8e8jd90ydj4ou.png" alt="How barometer.today draws its isobars" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/simplemeteo/how-barometertoday-draws-its-isobars-4ega" target="_blank">How barometer.today draws its isobars</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-07 22:47</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/09/automobile-camouflage-to-hide-from-flock-cameras.html" target="_blank">Automobile Camouflage to Hide from Flock Cameras</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-09-07 11:06</span>
             </div>
         </div>
 </div>
@@ -309,22 +285,13 @@
                 <span class="time">2026-09-07 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/09/07/symmetrical" target="_blank">Symmetrical</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-09-07 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 51 | 📡 Total Sources: 40 | 📸 With Images: 264 |
-        🔄 Last Updated: 06:41 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 47 | 📡 Total Sources: 40 | 📸 With Images: 264 |
+        🔄 Last Updated: 11:51 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
