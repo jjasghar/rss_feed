@@ -1,33 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-09-08 01:51:26 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2026-09-08 06:41:03 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 14 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, September 08, 2026 - 01:51 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Tuesday, September 08, 2026 - 06:41 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,57 +51,57 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1788825046570_nn_gso_miami_plane_crash_260907_S3_1920x1080-6v29rw.jpg" alt="Cargo plane slams into vehicles killing 5 in Miami" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/cargo-plane-slams-into-vehicles-killing-5-in-miami-269454405967" target="_blank">Cargo plane slams into vehicles killing 5 in Miami</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-09-07 23:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/fbi-gty-er-260907_1788813835228_hpMain_4x3t_384.jpg" alt="FBI official warns 9/11 is still inspiring terrorists inside America 25 years later" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/top-fbi-official-warns-911-inspiring-terrorists-inside/story?id=136258064" target="_blank">FBI official warns 9/11 is still inspiring terrorists inside America 25 years later</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-09-07 22:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c84c/live/fc526aa0-ab02-11f1-93bd-5b304745dac3.jpg" alt="Flight recorders recovered from &#x27;devastating&#x27; Amazon cargo plane crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss" target="_blank">Flight recorders recovered from &#x27;devastating&#x27; Amazon cargo plane crash</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-07 22:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1788814556694_now_brk_amazon_plane_ntsb_presser_260907_S3_1920x1080-57hf5x.jpg" alt="One of the vehicles hit by Amazon cargo plane in Miami had seven people on board, NTSB official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/one-of-the-vehicles-hit-by-amazon-cargo-plane-in-miami-had-seven-people-on-board-ntsb-official-says-269445701959" target="_blank">One of the vehicles hit by Amazon cargo plane in Miami had seven people on board, NTSB official says</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-09-07 20:56</span>
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/08/nx-s1-5960990/canada-escalating-trade-war-us" target="_blank">What to know about Canada&#x27;s escalating trade war with the U.S.</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-08 06:04</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/7/syrias-assad-era-reactor-configured-for-nuclear-weapons-iaea?traffic_source=rss" target="_blank">Syria’s Assad-era reactor configured for nuclear weapons: IAEA</a></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/8/palestine-weekly-israeli-ministers-push-for-depopulation-of-gaza?traffic_source=rss" target="_blank">Palestine weekly: Israeli ministers push for depopulation of Gaza</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-07 19:31</span>
+                <span class="time">2026-09-08 05:34</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbc9/live/51c266c0-aaea-11f1-a291-b542ee92de7c.jpg" alt="Minister condemns disorder at Portsmouth anti-migrant protest after police officers hurt" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4970/live/57d86dc0-ab49-11f1-9191-cd98112fd46c.jpg" alt="Canada braces for prolonged trade war as counter-tariffs on US take effect" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss" target="_blank">Canada braces for prolonged trade war as counter-tariffs on US take effect</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-08 04:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/sep/08/hijacking-pirates-somalia-geopolitical-chaos" target="_blank">Hijacking pirates exploit regional chaos to return to seas off Somalia</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-09-08 04:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43ac/live/59b864e0-aae7-11f1-b109-879e35c24276.jpg" alt="A&amp;E did not get the basics right - my son&#x27;s life was ruined at 32" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqxv2335je1o?at_medium=RSS&at_campaign=rss" target="_blank">Minister condemns disorder at Portsmouth anti-migrant protest after police officers hurt</a></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqlw0ke2v97o?at_medium=RSS&at_campaign=rss" target="_blank">A&amp;E did not get the basics right - my son&#x27;s life was ruined at 32</a></span>
                 <span class="feed">BBC News</span>
-                <span class="time">2026-09-07 19:04</span>
+                <span class="time">2026-09-08 03:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-trump-carney_7302900.jpg?20260721003217" alt="Trump threatens to halt sale of Canadian Bombardier jets in US - as trade war intensifies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/trump-threatens-to-halt-sale-of-canadian-bombardier-jets-in-us-as-trade-war-intensifies-13582998" target="_blank">Trump threatens to halt sale of Canadian Bombardier jets in US - as trade war intensifies</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-09-08 02:14</span>
             </div>
         </div>
 </div>
@@ -102,6 +109,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/" target="_blank">Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-09-08 02:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3" target="_blank">First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-09-08 02:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,29 +163,38 @@
                 <span class="time">2026-09-07 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a994fa2bf4e66136bddb432/master/pass/HowYouReallyFeel.jpg" alt="Whispering Complaints Into Your Phone May Be the Future of Customer Feedback" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/" target="_blank">Whispering Complaints Into Your Phone May Be the Future of Customer Feedback</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-09-07 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Instead of Fighting AI, Some Teachers Work It Into Their Lessons" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://news.slashdot.org/story/26/09/07/0021232/instead-of-fighting-ai-some-teachers-work-it-into-their-lessons?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Instead of Fighting AI, Some Teachers Work It Into Their Lessons</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/09/08/scaling-your-money-safely-with-ai/" target="_blank">Scaling your money safely with AI</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-09-08 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/datastack/what-ios-build-tools-are-available-from-xcodebuild-to-kxapp-compilation-solutions-2a2d" target="_blank">What iOS Build Tools Are Available: From xcodebuild to KXApp Compilation Solutions</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-08 06:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/" target="_blank">Mistral raises €3B to make sovereign, open-weight AI the technology frontier</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-08 05:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -186,33 +220,6 @@
                 <span class="title"><a href="https://dev.to/simplemeteo/how-barometertoday-draws-its-isobars-4ega" target="_blank">How barometer.today draws its isobars</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-09-07 22:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2025/08/kde-logo--406x232.jpg" alt="KDE’s new Photos app offers a sleek alternative to Gwenview" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/kde-photos-app-replace-gwenview" target="_blank">KDE’s new Photos app offers a sleek alternative to Gwenview</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-09-07 22:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://lax-skyline.parcelscope.net/" target="_blank">Watch Los Angeles get built, one building at a time (1880–2026)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-07 18:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17441984/fedora-beats-windows-11" target="_blank">A Clanker Pitted Fedora Against Windows 11. Fedora Won, Mostly</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-09-07 16:33</span>
             </div>
         </div>
 </div>
@@ -276,6 +283,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.questionablecontent.net/comics/5912.png" alt="It&#x27;s A Weird Commute" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5912" target="_blank">It&#x27;s A Weird Commute</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-09-08 00:51</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -302,22 +318,13 @@
                 <span class="time">2026-09-07 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/semaphore.png" alt="Semaphore" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3295/" target="_blank">Semaphore</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-09-07 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 44 | 📡 Total Sources: 40 | 📸 With Images: 266 |
-        🔄 Last Updated: 01:51 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 51 | 📡 Total Sources: 40 | 📸 With Images: 264 |
+        🔄 Last Updated: 06:41 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
