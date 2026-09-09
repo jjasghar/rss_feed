@@ -1,41 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-09-09 14:52:42 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-09 18:06:40 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 15 new posts out of 32 feeds processed -->
+<!-- Generated 13 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, September 09, 2026 - 14:52 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, September 09, 2026 - 18:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +43,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/sep/09/uganda-withdraws-invictus-games-out-of-respect-king-charles" target="_blank">Uganda to withdraw from Invictus Games ‘out of respect for King Charles’, says military chief</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-09-09 17:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/09/nx-s1-5962899/special-education-kelly-rogers-resigns" target="_blank">Special education head at Education Department abruptly resigns</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-09 17:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbaa/live/1acb1230-ac60-11f1-be57-03729df1d736.jpg" alt="Police launch criminal investigation into Reform UK donations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&at_campaign=rss" target="_blank">Police launch criminal investigation into Reform UK donations</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-09 17:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,38 +97,20 @@
                 <span class="time">2026-09-09 13:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71ca/live/91299630-ac57-11f1-be57-03729df1d736.jpg" alt="National security can&#x27;t come at expense of social security, Burnham says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c5yw3223w1vo?at_medium=RSS&at_campaign=rss" target="_blank">National security can&#x27;t come at expense of social security, Burnham says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-09 13:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-4-gty-gmh-260903_1788443068051_hpMain_4x3t_384.jpg" alt="Trump ratchets up trade war, moves to ban many Canadian goods from entering US" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-ratchets-trade-war-moves-ban-canadian-goods/story?id=136289929" target="_blank">Trump ratchets up trade war, moves to ban many Canadian goods from entering US</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-09-09 10:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/oil-main_1788947941178_hpMain_4x3t_384.jpg" alt="Oil prices climb over $100 per barrel as US war in Iran continues" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Business/oil-prices-climb-100-barrel-us-war-iran/story?id=136296130" target="_blank">Oil prices climb over $100 per barrel as US war in Iran continues</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-09-09 10:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6aa19dca3c9607e16a1eabac/master/pass/Screenshot%202026-09-09%20at%2010.55.36%E2%80%AFAM.png" alt="Apple Debuts the iPhone Duo, Its First Folding iPhone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/apple-debuts-the-iphone-duo-its-first-folding-iphone/" target="_blank">Apple Debuts the iPhone Duo, Its First Folding iPhone</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-09 17:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -155,20 +156,38 @@
                 <span class="time">2026-09-09 04:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/TV_OLED83B5PUA_brilliant-lg-oled-picture_features_900x600-500x500.jpg" alt="LG TV shown scanning LAN for third-party phones and other devices" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/09/lg-tv-shown-capable-of-tracking-user-activity-even-when-offline/" target="_blank">LG TV shown scanning LAN for third-party phones and other devices</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-09-08 21:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/05/bleachbit-tui-1-406x232.webp" alt="BleachBit 6.0.4 offers faster scanning, improves Linux cleaners" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/bleachbit-6-0-4-update" target="_blank">BleachBit 6.0.4 offers faster scanning, improves Linux cleaners</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-09-09 16:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/msi-b850p-coreboot-opensil" target="_blank">Running AMD openSIL + Coreboot On The First Available Ryzen AM5 Motherboard</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-09 16:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17443614/ai-focused-linux-distros" target="_blank">5 Linux Distros Bringing AI to Your Desktop</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-09-09 15:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,38 +215,20 @@
                 <span class="time">2026-09-09 10:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Experiment-Nouveau-NVIDIA-GB10" target="_blank">Experimental Patches Get Nouveau+NVK Working On NVIDIA DGX Spark GB10</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-09 10:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/09/09/java-s-age-is-its-ai-superpower/" target="_blank">Java’s age is its AI superpower</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-09-09 04:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/momahdideveloper/why-amazon-deprecated-mobi-for-kindle-and-how-in-browser-epub-conversion-works-30m0" target="_blank">Why Amazon Deprecated MOBI for Kindle and How In-Browser EPUB Conversion Works</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-09 00:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/09/drivers-license-data-for-sale.html" target="_blank">Driver’s License Data for Sale</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-09-09 16:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -246,20 +247,29 @@
                 <span class="time">2026-09-08 21:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/09/ais-as-modern-genies.html" target="_blank">AIs as Modern Genies</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-09-08 17:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/fountain-pen-malone-lam-bitcoin-theft.jpg?fit=474%2C265&amp;quality=60&amp;ssl=1" alt="22-year-old bitcoin thief who stole $240 million in bitcoin pleads guilty, faces 20-years in prison" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/09/09/fountain-pen-malone-lam-bitcoin-theft.html" target="_blank">22-year-old bitcoin thief who stole $240 million in bitcoin pleads guilty, faces 20-years in prison</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-09-09 17:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M23CNP0GBQ2KS06754HMR0N5/hero-image.jpg" alt="Apple Just Announced the iPhone 18 Pro and iPhone 18 Pro Max" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/apple-iphone-18-pro-and-iphone-18-pro-max-announcement?utm_medium=RSS" target="_blank">Apple Just Announced the iPhone 18 Pro and iPhone 18 Pro Max</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-09-09 17:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/09/Nintendo-Direct-9.9.2026-1-15-9-screenshot-1280x720.jpg" alt="Kirby Gets A Big Sword And Smashes Open The Sky In His Next Open World Adventure" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -296,24 +306,6 @@
                 <span class="time">2026-09-09 01:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/3-2.jpg?fit=120%2C90&amp;quality=60&amp;ssl=1" alt="&quot;Donald J. Trump Memorial&quot; appears above a Canadian public toilet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/09/08/donald-trump-memorial-victoria-public-toilet.html" target="_blank">&quot;Donald J. Trump Memorial&quot; appears above a Canadian public toilet</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-09-09 00:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M1CNXXEYPE51P194PSFGJZ9Z/hero-image.webp" alt="Lifehacker Labor Day Sale Live Blog: Your Last Chance for These Labor Day Deals Before They End" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/labor-day-sales-live-blog-09-08-2026?utm_medium=RSS" target="_blank">Lifehacker Labor Day Sale Live Blog: Your Last Chance for These Labor Day Deals Before They End</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-09-08 21:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -329,6 +321,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/fault_taunting.png" alt="Fault Taunting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3296/" target="_blank">Fault Taunting</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-09-09 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.questionablecontent.net/comics/5913.png" alt="No Place Like Woom" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -337,22 +338,13 @@
                 <span class="time">2026-09-09 01:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1788829654-20260908.png" alt="Saturday Morning Breakfast Cereal - Major" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/major" target="_blank">Saturday Morning Breakfast Cereal - Major</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-09-08 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 66 | 📡 Total Sources: 40 | 📸 With Images: 264 |
-        🔄 Last Updated: 14:52 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 62 | 📡 Total Sources: 40 | 📸 With Images: 265 |
+        🔄 Last Updated: 18:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
