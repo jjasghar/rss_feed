@@ -1,38 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-09-09 21:20:22 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-09 23:37:36 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 13 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, September 09, 2026 - 21:20 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Wednesday, September 09, 2026 - 23:37 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/9/9/gauff-beats-andreeva-to-reach-us-open-semifinals-in-comeback-win?traffic_source=rss" target="_blank">Gauff beats Andreeva to reach US Open semifinals in comeback win</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-09 22:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13d6/live/5b9af280-ac92-11f1-ab14-5b9069dc795d.jpg" alt="Spanish intelligence warned of Ceuta mass crossing plans before surge" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss" target="_blank">Spanish intelligence warned of Ceuta mass crossing plans before surge</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-09 21:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +103,29 @@
                 <span class="time">2026-09-09 17:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/09/nx-s1-5962899/special-education-kelly-rogers-resigns" target="_blank">Special education head at Education Department abruptly resigns</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-09 17:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbaa/live/1acb1230-ac60-11f1-be57-03729df1d736.jpg" alt="Police launch criminal investigation into Reform UK donations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&at_campaign=rss" target="_blank">Police launch criminal investigation into Reform UK donations</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-09 17:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/993064/no-airpods-with-cameras-apple-event" target="_blank">There aren’t AirPods with cameras yet and I hope it stays that way</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-09-09 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6aa1afc94eb21a2db77402a8/master/pass/Security_InterviewWithAnthropicGuyWhoQuitBecauseAI_v-ezgif.com-video-to-gif-converter.gif" alt="The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/" target="_blank">The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-09 22:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6aa1ab8746f4d5ae971c75d5/master/pass/nl-inner-loop-iowa-midterms-turning-point.jpg" alt="A Year After Charlie Kirk&#x27;s Death, Turning Point Plans to Spend Big on the Midterms" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -126,39 +145,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-500x500.jpg" alt="4 groups caught using the same Chrome and Windows exploit kit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/" target="_blank">4 groups caught using the same Chrome and Windows exploit kit</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-09-09 20:55</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6aa19dca3c9607e16a1eabac/master/pass/Screenshot%202026-09-09%20at%2010.55.36%E2%80%AFAM.png" alt="Apple Debuts the iPhone Duo, Its First Folding iPhone" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
                 <span class="title"><a href="https://www.wired.com/story/apple-debuts-the-iphone-duo-its-first-folding-iphone/" target="_blank">Apple Debuts the iPhone Duo, Its First Folding iPhone</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-09-09 17:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/992053/the-switch-2-is-getting-a-2d-metroid-called-ravenous" target="_blank">The Switch 2 is getting a 2D Metroid called Ravenous</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-09-09 14:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6aa06e8edf93969037d8f50f/master/pass/WaymoxLyft_Selects_15.jpg" alt="Lyft Sees a Future for Its Drivers in a Driverless World: Servicing Waymos" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/lyft-waymo-partnership-nashville/" target="_blank">Lyft Sees a Future for Its Drivers in a Driverless World: Servicing Waymos</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-09-09 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans" target="_blank">More than 1 in 10 chance AI ‘could kill all humans,’ says Anthropic safety lead after colleague quits</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-09-09 09:56</span>
             </div>
         </div>
 </div>
@@ -194,6 +195,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17443678/broadcom-removes-vmware-vddk-downloads" target="_blank">Broadcom Kills Public VDDK Access to Tighten its Grip on VMware</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-09-09 17:42</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/05/bleachbit-tui-1-406x232.webp" alt="BleachBit 6.0.4 offers faster scanning, improves Linux cleaners" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -209,15 +219,6 @@
                 <span class="title"><a href="https://www.phoronix.com/review/msi-b850p-coreboot-opensil" target="_blank">Running AMD openSIL + Coreboot On The First Available Ryzen AM5 Motherboard</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-09-09 16:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17443614/ai-focused-linux-distros" target="_blank">5 Linux Distros Bringing AI to Your Desktop</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-09-09 15:31</span>
             </div>
         </div>
 </div>
@@ -243,20 +244,29 @@
                 <span class="time">2026-09-09 11:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/" target="_blank">Microsoft Plugs Nearly 1,000 Security Holes</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2026-09-08 21:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/09/snes-rare-1280x720.jpg" alt="Person Fed Up With Xbox Named ‘FVCKAsha&amp;Phil’ Just Leaked An Alleged Prototype Of The Canceled SNES RPG That Became Banjo-Kazooie" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/person-fed-up-with-xbox-named-fvckashaphil-just-leaked-an-alleged-prototype-of-the-canceled-snes-rpg-that-became-banjo-kazooie-2000732965" target="_blank">Person Fed Up With Xbox Named ‘FVCKAsha&amp;Phil’ Just Leaked An Alleged Prototype Of The Canceled SNES RPG That Became Banjo-Kazooie</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-09 23:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KQYDP1296SMABX971GV39XSX/hero-image.png" alt="This Classic Nintendo Switch Bundle Is on Sale for Less Than $200 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/nintendo-switch-bundle-stacksocial-sale-september-2026?utm_medium=RSS" target="_blank">This Classic Nintendo Switch Bundle Is on Sale for Less Than $200 Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-09-09 22:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01M23XN3FZ7NPAFHCBJ8A7KGE3/hero-image.jpg" alt="This Is the Best Preorder Deal for &#x27;The Legend of Zelda: Ocarina of Time&#x27; on the Nintendo Switch 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -293,29 +303,20 @@
                 <span class="time">2026-09-09 17:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/09/Nintendo-Direct-9.9.2026-1-15-9-screenshot-1280x720.jpg" alt="Kirby Gets A Big Sword And Smashes Open The Sky In His Next Open World Adventure" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/kirby-and-the-world-beyond-open-world-2000732788" target="_blank">Kirby Gets A Big Sword And Smashes Open The Sky In His Next Open World Adventure</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-09-09 14:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M238HMX66MWH4HJW38QGRZ3F/hero-image.jpg" alt="This Apple AirTag Four-Pack Is $20 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/apple-airtags-2nd-generation-four-pack-sale-september-2026?utm_medium=RSS" target="_blank">This Apple AirTag Four-Pack Is $20 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-09-09 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/09/09/zillennium" target="_blank">Zillennium</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-09-09 17:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1788823653-20260909.png" alt="Saturday Morning Breakfast Cereal - Club" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -357,8 +358,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 62 | 📡 Total Sources: 40 | 📸 With Images: 265 |
-        🔄 Last Updated: 21:20 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 64 | 📡 Total Sources: 40 | 📸 With Images: 265 |
+        🔄 Last Updated: 23:37 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
