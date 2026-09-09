@@ -1,31 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-09-09 00:48:22 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-09-09 05:29:12 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 23 feeds processed -->
+<!-- Generated 11 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Wednesday, September 09, 2026 - 00:48 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, September 09, 2026 - 05:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2026/sep/09/babies-born-to-anaemic-mothers-have-smaller-brains-study-finds" target="_blank">Babies born to anaemic mothers have smaller brains, study finds</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-09-09 04:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,20 +101,29 @@
                 <span class="time">2026-09-08 18:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/lonnnie-bunch-1-ap-gmh-260908_1788883649074_hpMain_4x3t_384.jpg" alt="Smithsonian Secretary Lonnie Bunch resigns amid attacks from Trump administration" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/smithsonian-secretary-lonnie-bunch-resigns-amid-attacks-trump/story?id=136278030" target="_blank">Smithsonian Secretary Lonnie Bunch resigns amid attacks from Trump administration</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-09-08 17:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg" alt="20% Off Brooks Promo Code | September 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/brooks-promo-code/" target="_blank">20% Off Brooks Promo Code | September 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-09 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/" target="_blank">CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-09-09 04:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/TV_OLED83B5PUA_brilliant-lg-oled-picture_features_900x600-500x500.jpg" alt="LG TV shown scanning LAN for third-party phones and other devices" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -136,24 +160,6 @@
                 <span class="time">2026-09-08 18:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/" target="_blank">Google’s revived nuclear power plant gets $1.9B loan from US government</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-09-08 15:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/991398/pusheen-apple-arcade-game" target="_blank">Pusheen’s first game is coming to Apple Arcade</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-09-08 15:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -162,10 +168,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/09/09/java-s-age-is-its-ai-superpower/" target="_blank">Java’s age is its AI superpower</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-09-09 04:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/momahdideveloper/why-amazon-deprecated-mobi-for-kindle-and-how-in-browser-epub-conversion-works-30m0" target="_blank">Why Amazon Deprecated MOBI for Kindle and How In-Browser EPUB Conversion Works</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-09-09 00:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://labs.quansight.org/blog/teaching-numpys-ufuncs-new-tricks" target="_blank">Teaching NumPy’s ufuncs new tricks</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-09-08 22:05</span>
             </div>
         </div>
 <div class="story">
@@ -189,28 +213,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://openai.com/index/introducing-chatgpt-images-2-5/" target="_blank">ChatGPT Images 2.5</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-08 18:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17442852/freecore-truenas-core-fork" target="_blank">FreeCORE is What Your TrueNAS CORE Box Should Have</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-09-08 17:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/KDE-KWin-Wayland-Commit-Timing" target="_blank">KDE&#x27;s KWin Merges Wayland Commit-Timing Protocol Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-08 16:55</span>
+                <span class="title"><a href="https://ubuntu.com//blog/ubuntu-now-certified-on-qualcomm-dragonwing-iq-8275" target="_blank">Ubuntu now certified on Qualcomm Dragonwing™ IQ-8275</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-09-08 19:39</span>
             </div>
         </div>
 </div>
@@ -241,6 +247,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/persona-6-logo.jpeg" alt="Major Persona 6 Spoilers May Have Just Leaked In A Crazy Way" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/persona-6-spoilers-leaks-steam-achievements-story-characters-2000732445" target="_blank">Major Persona 6 Spoilers May Have Just Leaked In A Crazy Way</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-09 01:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/3-2.jpg?fit=120%2C90&amp;quality=60&amp;ssl=1" alt="&quot;Donald J. Trump Memorial&quot; appears above a Canadian public toilet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/09/08/donald-trump-memorial-victoria-public-toilet.html" target="_blank">&quot;Donald J. Trump Memorial&quot; appears above a Canadian public toilet</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-09-09 00:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01M1CNXXEYPE51P194PSFGJZ9Z/hero-image.webp" alt="Lifehacker Labor Day Sale Live Blog: Your Last Chance for These Labor Day Deals Before They End" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,29 +301,20 @@
                 <span class="time">2026-09-08 18:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M20VCF8G2VVSF33S84YB8HVD/hero-image.jpg" alt="Five Devices I Expect Apple to Announce on Wednesday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/all-the-devices-i-expect-apple-to-announce-on-wednesday?utm_medium=RSS" target="_blank">Five Devices I Expect Apple to Announce on Wednesday</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-09-08 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2024/01/9971b74c14c112aadcb966f6cacb4348.jpg" alt="White House Removes Awful Tetris Clone From Website After The Tetris Company Posted It Takes ‘Copyright Infringement Very Seriously’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/white-house-removes-awful-tetris-clone-from-website-after-the-tetris-company-posted-it-takes-copyright-infringement-very-seriously-2000732129" target="_blank">White House Removes Awful Tetris Clone From Website After The Tetris Company Posted It Takes ‘Copyright Infringement Very Seriously’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-09-08 15:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.questionablecontent.net/comics/5913.png" alt="No Place Like Woom" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5913" target="_blank">No Place Like Woom</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-09-09 01:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1788829654-20260908.png" alt="Saturday Morning Breakfast Cereal - Major" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -309,22 +324,13 @@
                 <span class="time">2026-09-08 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5912.png" alt="It&#x27;s A Weird Commute" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5912" target="_blank">It&#x27;s A Weird Commute</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-09-08 00:51</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 61 | 📡 Total Sources: 40 | 📸 With Images: 264 |
-        🔄 Last Updated: 00:48 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 61 | 📡 Total Sources: 40 | 📸 With Images: 263 |
+        🔄 Last Updated: 05:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
