@@ -1,36 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-09-09 10:17:29 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-09-09 14:52:42 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 10 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 15 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, September 09, 2026 - 10:17 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, September 09, 2026 - 14:52 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +52,51 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/9/torrential-rains-winds-from-hurricane-lowell-leaves-30000-without-power?traffic_source=rss" target="_blank">Torrential rains, winds from Hurricane Lowell leaves 30,000 without power</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-09 14:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/09/g-s1-142424/paris-olympic-balloon-cauldron-tuileries" target="_blank">Greetings from Paris, where the 2024 Olympics balloon rises again</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-09 13:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c567/live/db519c50-ac3c-11f1-aa42-a9647fd0ba61.png" alt="Germany&#x27;s Merz attacks AfD in stormy debate after far-right election win" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss" target="_blank">Germany&#x27;s Merz attacks AfD in stormy debate after far-right election win</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-09 13:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71ca/live/91299630-ac57-11f1-be57-03729df1d736.jpg" alt="National security can&#x27;t come at expense of social security, Burnham says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c5yw3223w1vo?at_medium=RSS&at_campaign=rss" target="_blank">National security can&#x27;t come at expense of social security, Burnham says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-09 13:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-4-gty-gmh-260903_1788443068051_hpMain_4x3t_384.jpg" alt="Trump ratchets up trade war, moves to ban many Canadian goods from entering US" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-ratchets-trade-war-moves-ban-canadian-goods/story?id=136289929" target="_blank">Trump ratchets up trade war, moves to ban many Canadian goods from entering US</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-09 10:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/oil-main_1788947941178_hpMain_4x3t_384.jpg" alt="Oil prices climb over $100 per barrel as US war in Iran continues" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -55,56 +105,20 @@
                 <span class="time">2026-09-09 10:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/09/g-s1-142482/cargo-plane-crash-miami" target="_blank">Cargo jet tried to abort unsteady landing before Miami crash, flight data indicates</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-09 09:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/09/1920x1080/skynews-iran-strait-of-hormuz_7345822.jpg?20260909094809" alt="Oil rises above $100 a barrel as Middle East conflict escalates - use our tracker to see impact on prices" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/oil-rises-above-100-a-barrel-as-middle-east-conflict-escalates-use-our-tracker-to-see-impact-on-prices-13583070" target="_blank">Oil rises above $100 a barrel as Middle East conflict escalates - use our tracker to see impact on prices</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-09-09 07:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc94/live/3b4b2720-aacb-11f1-a291-b542ee92de7c.jpg" alt="Drug gangs exploited and raped us as teens, then police failed us, women tell BBC" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c9w41v2r742o?at_medium=RSS&at_campaign=rss" target="_blank">Drug gangs exploited and raped us as teens, then police failed us, women tell BBC</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-09 04:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2026/sep/09/babies-born-to-anaemic-mothers-have-smaller-brains-study-finds" target="_blank">Babies born to anaemic mothers have smaller brains, study finds</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-09-09 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/Thumb_site-q3w1vd.jpg" alt="Pappas questions whether Americans are feeling Trump&#x27;s &#x27;golden age&#x27; after primary win" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/pappas-questions-whether-americans-are-feeling-trump-s-golden-age-after-primary-win-269518405575" target="_blank">Pappas questions whether Americans are feeling Trump&#x27;s &#x27;golden age&#x27; after primary win</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-09-09 01:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/992053/the-switch-2-is-getting-a-2d-metroid-called-ravenous" target="_blank">The Switch 2 is getting a 2D Metroid called Ravenous</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-09-09 14:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6aa06e8edf93969037d8f50f/master/pass/WaymoxLyft_Selects_15.jpg" alt="Lyft Sees a Future for Its Drivers in a Driverless World: Servicing Waymos" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,20 +164,38 @@
                 <span class="time">2026-09-08 21:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/991806/sony-disc-plant-90-percent-10-percent" target="_blank">Sony isn’t phasing out discs quite as quickly as we thought</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-09-08 21:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devanshkant/we-wrote-a-json-parser-from-scratch-in-72-hours-to-prove-we-still-could-29on" target="_blank">We Wrote a JSON Parser from Scratch in 72 Hours to Prove We Still Could</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-09 14:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/unikraft-microvm-sandboxes-cloud-scaling/en/mediumimage/felipe-huici-medium-1787813506607.jpg" alt="Presentation: Fixing the AI Infra Scale Problem by Stuffing 1M Sandboxes in a Single Server" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/unikraft-microvm-sandboxes-cloud-scaling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Fixing the AI Infra Scale Problem by Stuffing 1M Sandboxes in a Single Server</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-09-09 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17443408/privacy-notes" target="_blank">Privacy Notes: Markdown Editor With Built-in Encrypted Vault</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-09-09 10:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -191,38 +223,20 @@
                 <span class="time">2026-09-09 00:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://labs.quansight.org/blog/teaching-numpys-ufuncs-new-tricks" target="_blank">Teaching NumPy’s ufuncs new tricks</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-09-08 22:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alifar/openai-reports-navier-stokes-breakthrough-with-gpt-6-astra-used-for-lean-verification-19d2" target="_blank">OpenAI Reports Navier-Stokes Breakthrough, With GPT-6 Astra Used for Lean Verification</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-08 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/09/firefox-keyboard-406x232.webp" alt="The $200 Firefox mechanical keyboard sold out" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/firefox-keyboard-cherry-switches" target="_blank">The $200 Firefox mechanical keyboard sold out</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-09-08 21:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/09/claude-fable-solves-a-historical-cipher.html" target="_blank">Claude Fable Solves a Historical Cipher</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-09-09 11:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -246,6 +260,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/09/Nintendo-Direct-9.9.2026-1-15-9-screenshot-1280x720.jpg" alt="Kirby Gets A Big Sword And Smashes Open The Sky In His Next Open World Adventure" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/kirby-and-the-world-beyond-open-world-2000732788" target="_blank">Kirby Gets A Big Sword And Smashes Open The Sky In His Next Open World Adventure</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-09 14:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M238HMX66MWH4HJW38QGRZ3F/hero-image.jpg" alt="This Apple AirTag Four-Pack Is $20 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/apple-airtags-2nd-generation-four-pack-sale-september-2026?utm_medium=RSS" target="_blank">This Apple AirTag Four-Pack Is $20 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-09-09 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/09/kh4-coco-1280x720.jpg" alt="Massive Steam Leak May Have Revealed Every Kingdom Hearts IV World And Unannounced Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,29 +314,20 @@
                 <span class="time">2026-09-08 21:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/rfk-jr.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="RFK Jr. suggested Pennsylvania fabricated measles deaths. A coroner just confirmed one" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/09/08/rfk-jr-pennsylvania-measles-deaths.html" target="_blank">RFK Jr. suggested Pennsylvania fabricated measles deaths. A coroner just confirmed one</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-09-08 19:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/09/fps-2000s-sprawl-zero-1280x720.jpg" alt="New FPS Is For All You Fans Of PS2/Xbox-Era Shooters Like Killzone, Halo, Black, and FEAR" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/new-fps-is-for-all-you-fans-of-ps2-xbox-era-shooters-like-killzone-halo-black-and-fear-2000732337" target="_blank">New FPS Is For All You Fans Of PS2/Xbox-Era Shooters Like Killzone, Halo, Black, and FEAR</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-09-08 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/09/09/zillennium" target="_blank">Zillennium</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-09-09 07:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.questionablecontent.net/comics/5913.png" alt="No Place Like Woom" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -328,8 +351,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 63 | 📡 Total Sources: 40 | 📸 With Images: 266 |
-        🔄 Last Updated: 10:17 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 66 | 📡 Total Sources: 40 | 📸 With Images: 264 |
+        🔄 Last Updated: 14:52 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
