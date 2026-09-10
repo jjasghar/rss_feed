@@ -1,33 +1,44 @@
-<!-- Processing 54 RSS feeds at 2026-09-10 15:31:39 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-10 18:47:14 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 15 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Thursday, September 10, 2026 - 15:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, September 10, 2026 - 18:47 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,57 +55,57 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af67/live/bf0ec050-ad2b-11f1-bc1f-3f186ca4140c.jpg" alt="Yemen&#x27;s Houthis reportedly seize strategic Red Sea port of Mokha" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss" target="_blank">Yemen&#x27;s Houthis reportedly seize strategic Red Sea port of Mokha</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-10 18:15</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/10/g-s1-142545/ebola-children-democratic-republic-congo" target="_blank">&#x27;I&#x27;ve never seen anything like this&#x27; -- A U.S. doctor treats Ebola&#x27;s youngest victims</a></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/10/nx-s1-5963519/best-fossilized-bird-feather-dinosaur-feces-extinction" target="_blank">A fossil feather from the age of dinosaurs may explain why only some birds survived</a></span>
                 <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-10 15:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/076b/live/05f504c0-ad18-11f1-bc1f-3f186ca4140c.jpg" alt="England&#x27;s mayors to get power to impose tourist tax" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss" target="_blank">England&#x27;s mayors to get power to impose tourist tax</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-10 14:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/005c/live/5e9be290-acf7-11f1-b1d1-571ed4d7ff2c.jpg" alt="Trump says every adult American will get $5,000 if Republicans win midterms" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss" target="_blank">Trump says every adult American will get $5,000 if Republicans win midterms</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-10 13:23</span>
+                <span class="time">2026-09-10 18:07</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/9/10/the-houthis-are-testing-the-limits-of-saudi-restraint?traffic_source=rss" target="_blank">The Houthis are testing the limits of Saudi restraint</a></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/9/10/england-close-in-on-pakistan-whitewash-in-third-test-as-robinson-shines?traffic_source=rss" target="_blank">England close in on Pakistan whitewash in third Test as Robinson shines</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-10 11:17</span>
+                <span class="time">2026-09-10 18:01</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c486/live/5b243510-ad04-11f1-a540-61c3f7fc4e6c.jpg" alt="England&#x27;s mayors to be given power to introduce tourist tax" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/sep/10/uganda-king-secret-son-succession-dispute" target="_blank">Secret son revelation ignites bitter succession dispute in Ugandan kingdom</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-09-10 17:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a39/live/2540a8b0-ad41-11f1-a540-61c3f7fc4e6c.jpg" alt="Labour mayors in England vow to cap tourist tax at 5%" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss" target="_blank">England&#x27;s mayors to be given power to introduce tourist tax</a></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss" target="_blank">Labour mayors in England vow to cap tourist tax at 5%</a></span>
                 <span class="feed">BBC News</span>
-                <span class="time">2026-09-10 11:02</span>
+                <span class="time">2026-09-10 16:59</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://e3.365dm.com/26/09/1920x1080/skynews-shandong-china-ocean-melody_7346969.jpg?20260910120840" alt="At least 20 people killed after fire breaks out on cargo ship in Chinese port" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://s.abcnews.com/images/GMA/clancy-1-abc-er-260909_1789002653744_hpMain_v16x9_4x3t_384.jpg" alt="Clancy holdout juror mimicked strangling during deliberations, juror claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/at-least-20-people-killed-after-fire-breaks-out-on-cargo-ship-in-china-port-13583942" target="_blank">At least 20 people killed after fire breaks out on cargo ship in Chinese port</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-09-10 10:58</span>
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/GMA/News/clancy-juror-holdout-show-single-piece-evidence-explaining/story?id=136312798" target="_blank">Clancy holdout juror mimicked strangling during deliberations, juror claims</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-10 16:05</span>
             </div>
         </div>
 </div>
@@ -102,6 +113,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/Hero_Image_4.width-1600.format-webp-500x500.png" alt="Android can now securely migrate your logins between password managers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/09/android-can-now-securely-migrate-your-logins-between-password-managers/" target="_blank">Android can now securely migrate your logins between password managers</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-09-10 18:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6aa2d2e676850b4862a36c92/master/pass/Which-iPhone-18-Model-Should-You-Buy-.jpg" alt="Which iPhone 18 Model Should You Buy?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/which-apple-iphone-18-models-to-buy/" target="_blank">Which iPhone 18 Model Should You Buy?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-10 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6aa18f229ba60a161c7e4cb9/master/pass/charlie-kirk-conspiracies.jpg" alt="Charlie Kirk Was Shot a Year Ago. The Conspiracy Theories Are More Rampant Than Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,29 +167,38 @@
                 <span class="time">2026-09-10 00:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/993064/no-airpods-with-cameras-apple-event" target="_blank">There aren’t AirPods with cameras yet and I hope it stays that way</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-09-09 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6aa1afc94eb21a2db77402a8/master/pass/Security_InterviewWithAnthropicGuyWhoQuitBecauseAI_v-ezgif.com-video-to-gif-converter.gif" alt="The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/" target="_blank">The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-09-09 22:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-24.04.5-LTS" target="_blank">Ubuntu 24.04.5 LTS Released With Linux 7.0 HWE Stack</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-10 17:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17444682/linux-kernel-old-arm-code-removal" target="_blank">Linux Kernel is Getting Ready to Purge 55,00 Lines of Old 32-bit Arm Platform Code</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-09-10 17:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!L0TW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc3d335c-1137-4c47-8a9a-f91dbc29ba64_1456x1042.png" alt="The Pulse #191: a new trend of CPU shortages" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-191-a-new-trend-of-cpu" target="_blank">The Pulse #191: a new trend of CPU shortages</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-09-10 17:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -188,33 +226,6 @@
                 <span class="time">2026-09-10 10:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rushabh5000/how-npm-typosquatting-and-dependency-confusion-attacks-work-and-how-to-stop-them-8pb" target="_blank">How npm typosquatting and dependency confusion attacks work (and how to stop them)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-10 06:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/news-insights/company-news/github-availability-report-august-2026/" target="_blank">GitHub availability report: August 2026</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-09-10 02:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jrichards137/my-journey-into-learning-about-ml-and-implementing-a-mlp-from-scratch-3h37" target="_blank">My Journey Into Learning About ML and Implementing a MLP From Scratch</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-10 01:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -229,20 +240,20 @@
                 <span class="time">2026-09-10 10:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/09/drivers-license-data-for-sale.html" target="_blank">Driver’s License Data for Sale</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-09-09 16:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/trump-epstein.jpg?fit=1200%2C828&amp;quality=60&amp;ssl=1" alt="Midterm desperation: Trump offers every American adult $5,000 if Republicans win" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/09/10/trump-5000-republican-midterm-promise.html" target="_blank">Midterm desperation: Trump offers every American adult $5,000 if Republicans win</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-09-10 17:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/Emiliania_huxleyi_coccolithophore_28PLoS29.jpg?fit=650%2C650&amp;quality=60&amp;ssl=1" alt="This close-up photo of chalk looks like tiny alien spacecraft" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,15 +299,6 @@
                 <span class="time">2026-09-09 22:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M23XN3FZ7NPAFHCBJ8A7KGE3/hero-image.jpg" alt="This Is the Best Preorder Deal for &#x27;The Legend of Zelda: Ocarina of Time&#x27; on the Nintendo Switch 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/legend-of-zelda-ocarina-of-time-preorder-deal-september-2026?utm_medium=RSS" target="_blank">This Is the Best Preorder Deal for &#x27;The Legend of Zelda: Ocarina of Time&#x27; on the Nintendo Switch 2</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-09-09 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,22 +322,13 @@
                 <span class="time">2026-09-10 01:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/09/09/zillennium" target="_blank">Zillennium</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-09-09 17:55</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 54 | 📡 Total Sources: 40 | 📸 With Images: 268 |
-        🔄 Last Updated: 15:31 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 52 | 📡 Total Sources: 40 | 📸 With Images: 271 |
+        🔄 Last Updated: 18:47 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
