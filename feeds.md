@@ -1,44 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-09-10 18:47:14 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-10 21:16:44 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 15 new posts out of 35 feeds processed -->
+<!-- Generated 14 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, September 10, 2026 - 18:47 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Thursday, September 10, 2026 - 21:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/bush-911-2-ap-gmh-260909_1788979144771_hpMain_4x3t_384.jpg" alt="Students with President Bush on 9/11 look back on day: &#x27;You could see it on his face&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/students-president-george-bush-911-reflect-day-face/story?id=136308678" target="_blank">Students with President Bush on 9/11 look back on day: &#x27;You could see it on his face&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-10 19:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af67/live/bf0ec050-ad2b-11f1-bc1f-3f186ca4140c.jpg" alt="Yemen&#x27;s Houthis reportedly seize strategic Red Sea port of Mokha" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -99,20 +105,47 @@
                 <span class="time">2026-09-10 16:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/GMA/clancy-1-abc-er-260909_1789002653744_hpMain_v16x9_4x3t_384.jpg" alt="Clancy holdout juror mimicked strangling during deliberations, juror claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/GMA/News/clancy-juror-holdout-show-single-piece-evidence-explaining/story?id=136312798" target="_blank">Clancy holdout juror mimicked strangling during deliberations, juror claims</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-09-10 16:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/" target="_blank">OpenAI puts Pro subscriptions on hold due to Astra demand</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-09-10 20:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/linkedin-headquarters-500x500-1789072067.jpg" alt="LinkedIn beats &quot;BrowserGate&quot; lawsuits over scanning users&#x27; Chrome extensions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/09/linkedin-beats-browsergate-lawsuits-over-scanning-users-chrome-extensions/" target="_blank">LinkedIn beats &quot;BrowserGate&quot; lawsuits over scanning users&#x27; Chrome extensions</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-09-10 20:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6aa216877d79a224cda3a43a/master/pass/Uncanny-Valley-Anthropic-Employee-Business.jpg" alt="Is AI Actually Going to Kill Us All?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/" target="_blank">Is AI Actually Going to Kill Us All?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-10 20:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids" target="_blank">Schools are catching on to Big Tech’s playbook</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-09-10 19:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/Hero_Image_4.width-1600.format-webp-500x500.png" alt="Android can now securely migrate your logins between password managers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -131,53 +164,44 @@
                 <span class="time">2026-09-10 16:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6aa18f229ba60a161c7e4cb9/master/pass/charlie-kirk-conspiracies.jpg" alt="Charlie Kirk Was Shot a Year Ago. The Conspiracy Theories Are More Rampant Than Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/charlie-kirk-was-shot-a-year-ago-the-conspiracy-theories-are-more-rampant-than-ever/" target="_blank">Charlie Kirk Was Shot a Year Ago. The Conspiracy Theories Are More Rampant Than Ever</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-09-10 14:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/news-090926a-lg-500x500.jpg" alt="Artemis II commander and pilot become NASA&#x27;s first astronaut emeriti" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/09/artemis-ii-commander-and-pilot-become-nasas-first-astronaut-emeriti/" target="_blank">Artemis II commander and pilot become NASA&#x27;s first astronaut emeriti</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-09-10 11:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6aa200b3c37f42357d6ac6ea/master/pass/The-Best-Bluetooth-Speakers-for-Tunes-Anywhere-You-Go.jpg" alt="Best Bluetooth Speaker (2026): JBL, Sonos, Marshall, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-bluetooth-speakers/" target="_blank">Best Bluetooth Speaker (2026): JBL, Sonos, Marshall, and More</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-09-10 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/" target="_blank">AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-09-10 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3yeogtra1jdkk28lsmvh.png" alt="ECC: An Open-Source Performance Harness and Operating System for AI Coding Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/terminalchai/ecc-an-open-source-performance-harness-and-operating-system-for-ai-coding-agents-3ig" target="_blank">ECC: An Open-Source Performance Harness and Operating System for AI Coding Agents</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-10 21:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/09/liquid-glass-gnome-406x232.webp" alt="Liquid Glass GNOME Shell extension uses real refraction shaders" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/liquid-glass-gnome-shell" target="_blank">Liquid Glass GNOME Shell extension uses real refraction shaders</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-09-10 20:19</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-24.04.5-LTS" target="_blank">Ubuntu 24.04.5 LTS Released With Linux 7.0 HWE Stack</a></span>
                 <span class="feed">Phoronix</span>
+                <span class="time">2026-09-10 17:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/09/openai-gpt6-astra/en/headerimage/generatedHeaderImage-1789052348407.jpg" alt="OpenAI Releases GPT-6 Astra for Coding and Computer Use" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/09/openai-gpt6-astra/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenAI Releases GPT-6 Astra for Coding and Computer Use</a></span>
+                <span class="feed">InfoQ</span>
                 <span class="time">2026-09-10 17:49</span>
             </div>
         </div>
@@ -199,33 +223,6 @@
                 <span class="time">2026-09-10 17:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://shopify.engineering/back-to-native" target="_blank">Shopify moves back to Native from React Native</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-10 14:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-NVK-BAR-Host-Cached" target="_blank">NVIDIA NVK Driver Lands Improvement To Help With Valve&#x27;s Gamescope</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-10 11:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/09/autonomous-software-teams/en/headerimage/Beyond-Autonomous-Teams-in-Software-Product-Development-header-1788790952346.jpg" alt="Beyond Autonomous Teams in Software Product Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/09/autonomous-software-teams/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Beyond Autonomous Teams in Software Product Development</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-09-10 10:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +242,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/09/09_Aerith_re_FIX-1-1280x720.jpg" alt="Final Fantasy 7 Revelation Requires A Download Instead Of Shipping Complete On Multiple Discs To Avoid Compromising The ‘Fidelity’ And ‘Quality’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/heres-why-final-fantasy-7-revelation-will-require-a-download-instead-of-shipping-complete-on-multiple-discs-like-the-previous-games-2000733319" target="_blank">Final Fantasy 7 Revelation Requires A Download Instead Of Shipping Complete On Multiple Discs To Avoid Compromising The ‘Fidelity’ And ‘Quality’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-10 20:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KGTA9NMNS8YPHC0HHV57657D/hero-image.jpg" alt="10 Fitness Hacks Every Apple Watch User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/fitness-hacks-every-apple-watch-user-should-know?utm_medium=RSS" target="_blank">10 Fitness Hacks Every Apple Watch User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-09-10 20:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/trump-epstein.jpg?fit=1200%2C828&amp;quality=60&amp;ssl=1" alt="Midterm desperation: Trump offers every American adult $5,000 if Republicans win" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,24 +296,6 @@
                 <span class="time">2026-09-09 23:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/09/snes-rare-1280x720.jpg" alt="Person Fed Up With Xbox Named ‘FVCKAsha&amp;Phil’ Just Leaked An Alleged Prototype Of The Canceled SNES RPG That Became Banjo-Kazooie" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/person-fed-up-with-xbox-named-fvckashaphil-just-leaked-an-alleged-prototype-of-the-canceled-snes-rpg-that-became-banjo-kazooie-2000732965" target="_blank">Person Fed Up With Xbox Named ‘FVCKAsha&amp;Phil’ Just Leaked An Alleged Prototype Of The Canceled SNES RPG That Became Banjo-Kazooie</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-09-09 23:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KQYDP1296SMABX971GV39XSX/hero-image.png" alt="This Classic Nintendo Switch Bundle Is on Sale for Less Than $200 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/nintendo-switch-bundle-stacksocial-sale-september-2026?utm_medium=RSS" target="_blank">This Classic Nintendo Switch Bundle Is on Sale for Less Than $200 Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-09-09 22:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -327,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 52 | 📡 Total Sources: 40 | 📸 With Images: 271 |
-        🔄 Last Updated: 18:47 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 58 | 📡 Total Sources: 40 | 📸 With Images: 274 |
+        🔄 Last Updated: 21:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
