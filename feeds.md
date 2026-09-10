@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-09-09 23:37:36 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-09-10 01:53:30 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 31 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, September 09, 2026 - 23:37 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, September 10, 2026 - 01:53 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/09/nx-s1-5963916/john-fetterman-gop-midterm-convention-trump" target="_blank">Fetterman, already at odds with his party, makes surprise video for GOP convention</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-10 01:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +100,20 @@
                 <span class="time">2026-09-09 18:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/sep/09/uganda-withdraws-invictus-games-out-of-respect-king-charles" target="_blank">Uganda to withdraw from Invictus Games ‘out of respect for King Charles’, says military chief</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-09-09 17:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/" target="_blank">AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-09-10 00:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,20 +159,20 @@
                 <span class="time">2026-09-09 20:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6aa19dca3c9607e16a1eabac/master/pass/Screenshot%202026-09-09%20at%2010.55.36%E2%80%AFAM.png" alt="Apple Debuts the iPhone Duo, Its First Folding iPhone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/apple-debuts-the-iphone-duo-its-first-folding-iphone/" target="_blank">Apple Debuts the iPhone Duo, Its First Folding iPhone</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-09-09 17:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jrichards137/my-journey-into-learning-about-ml-and-implementing-a-mlp-from-scratch-3h37" target="_blank">My Journey Into Learning About ML and Implementing a MLP From Scratch</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-10 01:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -212,15 +218,6 @@
                 <span class="time">2026-09-09 16:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/msi-b850p-coreboot-opensil" target="_blank">Running AMD openSIL + Coreboot On The First Available Ryzen AM5 Motherboard</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-09 16:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -249,6 +246,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KQYDDHWJ593PMWCS828X7M1R/hero-image.png" alt="This Linksys Wifi Range Booster Will Fix the Dead Zones in Your House for Just $28" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/linksys-wifi-router-extender-stacksocial-sale-september-2026?utm_medium=RSS" target="_blank">This Linksys Wifi Range Booster Will Fix the Dead Zones in Your House for Just $28</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-09-09 23:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/09/snes-rare-1280x720.jpg" alt="Person Fed Up With Xbox Named ‘FVCKAsha&amp;Phil’ Just Leaked An Alleged Prototype Of The Canceled SNES RPG That Became Banjo-Kazooie" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -294,15 +300,6 @@
                 <span class="time">2026-09-09 17:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M23CNP0GBQ2KS06754HMR0N5/hero-image.jpg" alt="Apple Just Announced the iPhone 18 Pro and iPhone 18 Pro Max" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/apple-iphone-18-pro-and-iphone-18-pro-max-announcement?utm_medium=RSS" target="_blank">Apple Just Announced the iPhone 18 Pro and iPhone 18 Pro Max</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-09-09 17:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -344,22 +341,13 @@
                 <span class="time">2026-09-09 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5913.png" alt="No Place Like Woom" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5913" target="_blank">No Place Like Woom</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-09-09 01:03</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 64 | 📡 Total Sources: 40 | 📸 With Images: 265 |
-        🔄 Last Updated: 23:37 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 63 | 📡 Total Sources: 40 | 📸 With Images: 265 |
+        🔄 Last Updated: 01:53 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
