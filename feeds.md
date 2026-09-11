@@ -1,41 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-09-11 06:46:18 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-09-11 11:55:07 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 32 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 11 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, September 11, 2026 - 06:46 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, September 11, 2026 - 11:55 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +53,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/9/11/fifa-rebukes-morocco-claim-they-will-host-2030-world-cup-final?traffic_source=rss" target="_blank">FIFA rebukes Morocco’s claim it will host 2030 World Cup final</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-11 11:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/11/g-s1-142842/us-diesel-6-a-gallon" target="_blank">US diesel prices soar past $6 a gallon, deepening strain for hauling everyday goods</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-11 10:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0126/live/bca22f20-ad15-11f1-a540-61c3f7fc4e6c.jpg" alt="&#x27;I survived the epicentre of 9/11 - I&#x27;m so lucky&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/clyr0e5dgj8o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;I survived the epicentre of 9/11 - I&#x27;m so lucky&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-11 09:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,38 +107,20 @@
                 <span class="time">2026-09-11 00:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1789080188298_nn_cro_ai_insiders_warning_26091026_S3_1920x1080-5f6ozx.jpg" alt="Growing chorus of A.I. insiders warns of possible extinction of humans" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/growing-chorus-of-a-i-insiders-warns-of-possible-extinction-of-humans-269663301684" target="_blank">Growing chorus of A.I. insiders warns of possible extinction of humans</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-09-10 22:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/10/nx-s1-5963899/august-heat-summer-hottest" target="_blank">This summer was hot. August shattered global heat records</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-10 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/bush-911-2-ap-gmh-260909_1788979144771_hpMain_4x3t_384.jpg" alt="Students with President Bush on 9/11 look back on day: &#x27;You could see it on his face&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/students-president-george-bush-911-reflect-day-face/story?id=136308678" target="_blank">Students with President Bush on 9/11 look back on day: &#x27;You could see it on his face&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-09-10 19:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/malware-infected-laptop-500x500.jpg" alt="ClickFix attacks infecting PCs and Macs are going viral" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/" target="_blank">ClickFix attacks infecting PCs and Macs are going viral</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-09-11 11:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png" alt="Lenovo Coupon Codes: 15% Off in September 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -155,20 +166,29 @@
                 <span class="time">2026-09-10 20:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/linkedin-headquarters-500x500-1789072067.jpg" alt="LinkedIn beats &quot;BrowserGate&quot; lawsuits over scanning users&#x27; Chrome extensions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/09/linkedin-beats-browsergate-lawsuits-over-scanning-users-chrome-extensions/" target="_blank">LinkedIn beats &quot;BrowserGate&quot; lawsuits over scanning users&#x27; Chrome extensions</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-09-10 20:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gentlyding/stop-trusting-the-app-enforcing-append-only-at-the-database-layer-1bkm" target="_blank">Stop Trusting the App: Enforcing Append-Only at the Database Layer</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-11 11:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.researchagenda.news/articles/the-waymo-effect.html" target="_blank">The Waymo effect: how AI is quietly making research less collaborative</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-11 11:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,43 +225,20 @@
                 <span class="time">2026-09-11 01:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Haiku-OS-August-2026" target="_blank">BeOS-Inspired Haiku Now Supports Changing Audio Outputs Live, Other Improvements</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-11 00:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-september-11-2026-red-hat" target="_blank">Friday Five — September 11, 2026</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2026-09-11 00:00</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/09/ais-compress-exploit-timeline.html" target="_blank">AIs Compress Exploit Timeline</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-09-10 10:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/09/miami-beach-1280x716.jpg" alt="Miami Beach Debates Taking Millions From Rockstar To Advertise GTA 6: ‘We’re Not Giving Away Pistols And Cocaine To People’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/miami-beach-debates-taking-millions-from-rockstar-to-advertise-gta-6-were-not-giving-away-pistols-and-cocaine-to-people-2000733378" target="_blank">Miami Beach Debates Taking Millions From Rockstar To Advertise GTA 6: ‘We’re Not Giving Away Pistols And Cocaine To People’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-11 04:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/09/backflip-real-1280x720.jpg" alt="Someone Recreated The Weirdest-Looking Moment From The Big GTA 6 Trailer In Real Life" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,20 +284,20 @@
                 <span class="time">2026-09-10 17:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/Emiliania_huxleyi_coccolithophore_28PLoS29.jpg?fit=650%2C650&amp;quality=60&amp;ssl=1" alt="This close-up photo of chalk looks like tiny alien spacecraft" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/09/10/chalk-under-microscope-coccolithophores.html" target="_blank">This close-up photo of chalk looks like tiny alien spacecraft</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-09-10 12:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/09/11/i-put-my-hand-upon-your-hip" target="_blank">I Put My Hand Upon Your Hip</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-09-11 07:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1788990389-20260910.png" alt="Saturday Morning Breakfast Cereal - Shilling" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -315,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 66 | 📡 Total Sources: 40 | 📸 With Images: 265 |
-        🔄 Last Updated: 06:46 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 67 | 📡 Total Sources: 40 | 📸 With Images: 267 |
+        🔄 Last Updated: 11:55 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
