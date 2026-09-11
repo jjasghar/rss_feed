@@ -1,38 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-09-11 18:50:05 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-09-11 21:24:46 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 29 feeds processed -->
+<!-- Generated 11 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Friday, September 11, 2026 - 18:50 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, September 11, 2026 - 21:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +51,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/9/11/us-lawyer-cites-fake-witnesses-in-murder-case-blames-chatgpt?traffic_source=rss" target="_blank">US lawyer cites fake witnesses in murder case, blames ChatGPT</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-11 20:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09dc/live/6dac0640-adcc-11f1-a540-61c3f7fc4e6c.jpg" alt="Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss" target="_blank">Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-11 20:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/11/g-s1-142935/iran-us-war-jobs-economy" target="_blank">Amid war and sanctions, many Iranians are losing their jobs and struggling to get by</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-11 19:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d113/live/ace30a00-adf1-11f1-bc1f-3f186ca4140c.jpg" alt="MPs vote against fresh attempt to legalise assisted dying" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c17j91jenr8o?at_medium=RSS&at_campaign=rss" target="_blank">MPs vote against fresh attempt to legalise assisted dying</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-11 17:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1789146653630_nbc_spec_silence_health_impacts_260911_S3_1920x1080-b6vjdi.jpg" alt="New moment of silence held for those lost to 9/11 health effects" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -66,47 +105,29 @@
                 <span class="time">2026-09-11 14:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/11/nx-s1-5966498/is-patagonia-the-new-data-center-hub-harley-davidsons-role-in-the-trade-war" target="_blank">Is Patagonia the new data center hub? + Harley-Davidson&#x27;s role in the trade war</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-11 14:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/9/11/fifa-rebukes-morocco-claim-they-will-host-2030-world-cup-final?traffic_source=rss" target="_blank">FIFA rebukes Morocco’s claim it will host 2030 World Cup final</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-11 11:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/11/g-s1-142842/us-diesel-6-a-gallon" target="_blank">US diesel prices soar past $6 a gallon, deepening strain for hauling everyday goods</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-11 10:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0126/live/bca22f20-ad15-11f1-a540-61c3f7fc4e6c.jpg" alt="&#x27;I survived the epicentre of 9/11 - I&#x27;m so lucky&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/clyr0e5dgj8o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;I survived the epicentre of 9/11 - I&#x27;m so lucky&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-11 09:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/" target="_blank">Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-09-11 21:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6aa43cf5acc1ba98aeac1316/master/pass/Show-Watch-Guide-Culture-LegoMandalorian_01.jpg" alt="The 9 Best TV Shows to Stream This Month (September 2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-9-best-shows-to-stream-right-now/" target="_blank">The 9 Best TV Shows to Stream This Month (September 2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-11 19:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,24 +164,6 @@
                 <span class="time">2026-09-11 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-500x500-1773164045.jpg" alt="Claude users found ways around safeguards for bioweapons research" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/" target="_blank">Claude users found ways around safeguards for bioweapons research</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-09-11 13:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/malware-infected-laptop-500x500.jpg" alt="ClickFix attacks infecting PCs and Macs are going viral" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/" target="_blank">ClickFix attacks infecting PCs and Macs are going viral</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-09-11 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -194,6 +197,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://mathandai.org/" target="_blank">A misalignment of AI in mathematics</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-11 17:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2trkundv6td5roqg8pit.png" alt="Introducción a los Data Lakes Parte 3" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -209,15 +221,6 @@
                 <span class="title"><a href="https://ubuntu.com//blog/cut-bloat-not-features" target="_blank">Cut bloat, not features</a></span>
                 <span class="feed">Ubuntu blog</span>
                 <span class="time">2026-09-11 15:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/01/linux-mint-22.3-on-a-laptop-406x232.jpg" alt="Linux Mint reveals two brand-new desktop apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/linux-mint-new-apps" target="_blank">Linux Mint reveals two brand-new desktop apps</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-09-11 15:12</span>
             </div>
         </div>
 </div>
@@ -239,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-09-11 20:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/E_coli_at_10000x2C_original.jpg?fit=1200%2C873&amp;quality=60&amp;ssl=1" alt="A single bacterium can learn — and it works like an AI neural network" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,20 +296,20 @@
                 <span class="time">2026-09-10 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/1min.AI-Advanced-Business-Plan-Lifetime-Subscription.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Stop picking one AI when $69.97 gets you GPT, Claude, and Gemini together" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/09/10/stop-picking-one-ai-when-69-97-gets-you-gpt-claude-and-gemini-together.html" target="_blank">Stop picking one AI when $69.97 gets you GPT, Claude, and Gemini together</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-09-10 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/09/11/i-put-my-hand-upon-your-hip" target="_blank">I Put My Hand Upon Your Hip</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-09-11 20:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1788990439-20260911.png" alt="Saturday Morning Breakfast Cereal - Transporter" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -339,8 +351,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 67 | 📡 Total Sources: 40 | 📸 With Images: 266 |
-        🔄 Last Updated: 18:50 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 66 | 📡 Total Sources: 40 | 📸 With Images: 264 |
+        🔄 Last Updated: 21:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
