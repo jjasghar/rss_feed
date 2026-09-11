@@ -1,38 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-09-11 01:52:18 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-09-11 06:46:18 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 30 feeds processed -->
+<!-- Generated 8 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, September 11, 2026 - 01:52 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, September 11, 2026 - 06:46 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2026/sep/11/15m-fund-launched-to-create-unstoppable-momentum-to-end-fgm-worldwide" target="_blank">$15m fund launched to create ‘unstoppable momentum’ to end FGM worldwide</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-09-11 04:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +105,20 @@
                 <span class="time">2026-09-10 19:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/GMA/Cynthia-Otto-1-ht-gmh-260910_1789061580468_hpMain_4x3t_384.jpg" alt="Remembering the hero search-and-rescue dogs of 9/11, 25 years later" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/GMA/News/remembering-hero-search-rescue-dogs-911-25-years/story?id=136309285" target="_blank">Remembering the hero search-and-rescue dogs of 9/11, 25 years later</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-09-10 18:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png" alt="Lenovo Coupon Codes: 15% Off in September 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/lenovo-coupon-code/" target="_blank">Lenovo Coupon Codes: 15% Off in September 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-11 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +164,29 @@
                 <span class="time">2026-09-10 20:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6aa216877d79a224cda3a43a/master/pass/Uncanny-Valley-Anthropic-Employee-Business.jpg" alt="Is AI Actually Going to Kill Us All?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/" target="_blank">Is AI Actually Going to Kill Us All?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-09-10 20:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/09/11/ai-cybersecurity-is-a-cat-and-mouse-game/" target="_blank">AI cybersecurity is a cat and mouse game</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-09-11 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vmzavas/google-play-closed-testing-bug-reports-how-to-get-real-feedback-51bk" target="_blank">Google Play Closed Testing Bug Reports: How to Get Real Feedback</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-11 06:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fttsc.dev%2Fevidence%2Fmeme-coverage.svg" alt="TS Evidence Graph: Make Every SKILL Instruction 100% Enforced" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -187,37 +208,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Haiku-OS-August-2026" target="_blank">BeOS-Inspired Haiku Now Supports Changing Audio Outputs Live, Other Improvements</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-11 00:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-hat-cowboy"></span>
                 <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-september-11-2026-red-hat" target="_blank">Friday Five — September 11, 2026</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-09-11 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/uki7991/how-to-send-html-form-data-to-an-email-address-a7k" target="_blank">How to send HTML form data to an email address</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-10 23:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GIMP-3.2.6-Released" target="_blank">GIMP 3.2.6 Released With Some Early Preparations Toward Eventual GTK4 Port</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-10 22:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://hugovk.dev/blog/2026/soft-deprecating-re.match/" target="_blank">Soft-deprecating re.match()</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-09-10 21:59</span>
             </div>
         </div>
 </div>
@@ -312,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 64 | 📡 Total Sources: 39 | 📸 With Images: 267 |
-        🔄 Last Updated: 01:52 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 66 | 📡 Total Sources: 40 | 📸 With Images: 265 |
+        🔄 Last Updated: 06:46 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
