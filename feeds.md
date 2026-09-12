@@ -1,38 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-09-12 06:47:25 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-12 11:21:30 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, September 12, 2026 - 06:47 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, September 12, 2026 - 11:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/12/nx-s1-5966884/insurance-coverage-cancer-disability-medicaid" target="_blank">A cancer survivor hoped to work — then she lost her Medicaid disability coverage</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-12 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/9/12/hong-kong-jails-tiananmen-vigil-activists-for-seven-years?traffic_source=rss" target="_blank">Hong Kong jails Tiananmen vigil activists for seven years</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-12 10:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +96,20 @@
                 <span class="time">2026-09-11 23:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/marian-fontana-01-abc-jt-260911_1789162358749_hpMain_4x3t_384.jpg" alt="A 9/11 widow reflects on 25 years of grief and what comes next" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/911-widow-reflects-25-years-grief/story?id=136355825" target="_blank">A 9/11 widow reflects on 25 years of grief and what comes next</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-09-11 23:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/11/flavio-bolsonaro-faces-corruption-probe-weeks-before-brazil-election?traffic_source=rss" target="_blank">Flavio Bolsonaro faces corruption probe weeks before Brazil election</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-11 22:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition" target="_blank">OpenAI just wants to win</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-09-12 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/Engine3-500x500.jpg" alt="Some satellite companies still have an appetite for boutique launch services" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,20 +155,29 @@
                 <span class="time">2026-09-11 19:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/" target="_blank">Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-09-11 16:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/presentations/knowledge-graphs-agentic-systems-patterns/en/mediumimage/cassie-shum-medium-1788338916792.jpeg" alt="Presentation: From Retrieval to Reasoning: Building Production-Ready Agentic AI Systems with Knowledge Graphs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/knowledge-graphs-agentic-systems-patterns/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: From Retrieval to Reasoning: Building Production-Ready Agentic AI Systems with Knowledge Graphs</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-09-12 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2024/08/better-noble-no-watermark-406x232.jpg" alt="Ubuntu pulls 24.04.5 downloads due to installer bug" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/ubuntu-pulls-24-04-5-download" target="_blank">Ubuntu pulls 24.04.5 downloads due to installer bug</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-09-12 03:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxg74a4urqjcrgw01zmqr.png" alt="Got Tired of SSHing Into My Server Just to View Logs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -200,24 +212,6 @@
                 <span class="title"><a href="https://dev.to/muzzamilahmedkhan/i-lost-a-client-to-ai-and-it-taught-me-something-i-didnt-expect-3lk6" target="_blank">I lost a client to AI and it taught me something I didn&#x27;t expect</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-09-11 18:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/" target="_blank">Marketing ops as code: Automating events from planning to follow-up on GitHub</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-09-11 18:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Cache-Aware-Scheduling-4-Patch" target="_blank">New Cache Aware Scheduling Fixes Out For Testing</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-11 18:00</span>
             </div>
         </div>
 </div>
@@ -325,22 +319,13 @@
                 <span class="time">2026-09-11 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/09/11/i-put-my-hand-upon-your-hip" target="_blank">I Put My Hand Upon Your Hip</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-09-11 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 61 | 📡 Total Sources: 40 | 📸 With Images: 268 |
-        🔄 Last Updated: 06:47 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 59 | 📡 Total Sources: 40 | 📸 With Images: 266 |
+        🔄 Last Updated: 11:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
