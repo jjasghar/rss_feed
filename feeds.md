@@ -1,30 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-09-11 23:38:50 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-09-12 01:57:45 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 22 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, September 11, 2026 - 23:38 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Saturday, September 12, 2026 - 01:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/12/cia-drops-dozens-of-declassified-documents-on-bin-laden-and-al-qaeda?traffic_source=rss" target="_blank">CIA drops dozens of declassified documents on bin Laden and al-Qaeda</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-12 01:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/751d/live/9bfaf8b0-ae32-11f1-b1d1-571ed4d7ff2c.jpg" alt="Reform receives record £36m donation from crypto billionaire" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,15 +101,6 @@
                 <span class="time">2026-09-11 20:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09dc/live/6dac0640-adcc-11f1-a540-61c3f7fc4e6c.jpg" alt="Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss" target="_blank">Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-11 20:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -106,6 +113,15 @@
                 <span class="title"><a href="https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/" target="_blank">Some satellite companies still have an appetite for boutique launch services</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-09-11 23:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/" target="_blank">Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-09-11 22:58</span>
             </div>
         </div>
 <div class="story">
@@ -144,20 +160,29 @@
                 <span class="time">2026-09-11 16:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" alt="Petlibro Offers: 30% Off in September 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/petlibro-discount-code/" target="_blank">Petlibro Offers: 30% Off in September 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-09-11 16:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxg74a4urqjcrgw01zmqr.png" alt="Got Tired of SSHing Into My Server Just to View Logs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/legerise/got-tired-of-sshing-into-my-server-just-to-view-logs-5gjl" target="_blank">Got Tired of SSHing Into My Server Just to View Logs</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-12 01:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2022/05/mainboard-terminal-heroshot-406x232.jpg" alt="Default terminal option is coming to GNOME Settings" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/default-terminal-gnome-settings" target="_blank">Default terminal option is coming to GNOME Settings</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-09-12 01:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,24 +219,6 @@
                 <span class="time">2026-09-11 17:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2trkundv6td5roqg8pit.png" alt="Introducción a los Data Lakes Parte 3" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alvarongg/introduccion-a-los-data-lakes-parte-3-5f71" target="_blank">Introducción a los Data Lakes Parte 3</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-11 15:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/cut-bloat-not-features" target="_blank">Cut bloat, not features</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-09-11 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/09/robloxas-1280x705.jpg" alt="The Most Viral Roblox Games Are About To Break Containment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-most-viral-roblox-games-are-about-to-break-containment-2000733606" target="_blank">The Most Viral Roblox Games Are About To Break Containment</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-11 22:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JVZABKMFK8VHA1KJ8C41P3B1/hero-image.jpg" alt="I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,15 +292,6 @@
                 <span class="time">2026-09-11 17:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M289FK6Y876T9GH5A49BSGYD/hero-image.jpg" alt="How the iPhone Duo Stacks Up to the Pixel 11 Pro Fold and Galaxy Z Fold 8" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/iphone-duo-vs-pixel-11-pro-fold-vs-galaxy-z-fold-8?utm_medium=RSS" target="_blank">How the iPhone Duo Stacks Up to the Pixel 11 Pro Fold and Galaxy Z Fold 8</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-09-11 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -326,22 +333,13 @@
                 <span class="time">2026-09-11 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5915.png" alt="Negative Reinforcement" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5915" target="_blank">Negative Reinforcement</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-09-11 00:52</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 64 | 📡 Total Sources: 40 | 📸 With Images: 267 |
-        🔄 Last Updated: 23:38 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 60 | 📡 Total Sources: 40 | 📸 With Images: 269 |
+        🔄 Last Updated: 01:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
