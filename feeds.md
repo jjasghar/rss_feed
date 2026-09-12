@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-09-12 19:48:23 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-09-12 21:47:04 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Saturday, September 12, 2026 - 19:48 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Saturday, September 12, 2026 - 21:47 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-drc-ebola-spread-clip-mp4?traffic_source=rss" target="_blank">Ebola spreads to seventh DRC province as gov’t insists cases are declining</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-12 20:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/trump-ireland-pm-gty-jt-260912_1789225133681_hpMain_4x3t_384.jpg" alt="Irish leaders react after Trump says he&#x27;d &#x27;love&#x27; to see a unified Ireland" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,15 +97,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/news/us-news/anthropic-ceo-dario-amodei-ai-development-rcna597383" target="_blank">Anthropic CEO calls for slowing the AI race as safety warnings mount</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-09-12 15:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/sep/12/burial-king-oyo-uganda" target="_blank">Burial of King Oyo takes place in Uganda as news anchor prepares for throne</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-09-12 15:09</span>
             </div>
         </div>
 </div>
@@ -192,6 +191,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://high5apps.github.io/josm-plugin-website-wizard/" target="_blank">Make your first edit to OpenStreetMap</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-12 16:25</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/09/ios-27-virtualization/en/headerimage/ios-27-virtualization-1789227137098.jpeg" alt="Open-Source Project Brings Full iOS 27 Virtualization to Apple Silicon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -207,29 +215,6 @@
                 <span class="title"><a href="https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai" target="_blank">Nvidia is the central bank of AI</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-09-12 15:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/halil_cogun/before-you-hunt-a-desync-prove-your-own-simulation-is-deterministic-4igf" target="_blank">Before You Hunt a Desync, Prove Your Own Simulation Is Deterministic</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-12 14:16</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-rotting-squid-on-a-beached-california-boat.html" target="_blank">Friday Squid Blogging: Rotting Squid on a Beached California Boat</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-09-11 21:03</span>
             </div>
         </div>
 </div>
@@ -273,24 +258,6 @@
                 <span class="time">2026-09-11 22:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JVZABKMFK8VHA1KJ8C41P3B1/hero-image.jpg" alt="I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS" target="_blank">I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-09-11 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/Microsoft-Visio-Professional-2024.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Simplify complex data into clear diagrams for $49 with Microsoft Visio 2024 for life" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/09/11/simplify-complex-data-into-clear-diagrams-for-49-with-microsoft-visio-2024-for-life.html" target="_blank">Simplify complex data into clear diagrams for $49 with Microsoft Visio 2024 for life</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-09-11 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -305,22 +272,13 @@
                 <span class="time">2026-09-12 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/09/11/i-put-my-hand-upon-your-hip" target="_blank">I Put My Hand Upon Your Hip</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-09-11 20:39</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 55 | 📡 Total Sources: 39 | 📸 With Images: 265 |
-        🔄 Last Updated: 19:48 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 50 | 📡 Total Sources: 39 | 📸 With Images: 265 |
+        🔄 Last Updated: 21:47 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
