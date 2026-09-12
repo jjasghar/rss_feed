@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-09-12 01:57:45 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-09-12 06:47:25 UTC -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, September 12, 2026 - 01:58 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, September 12, 2026 - 06:47 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/12/g-s1-143044/yemens-houthis-capture-red-sea-island" target="_blank">Yemen&#x27;s Houthis capture a Red Sea island in threat to shipping</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-12 05:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/12/war-on-terror-how-9-11-changed-the-language-of?traffic_source=rss" target="_blank">‘War on terror’: How 9/11 changed the language of conflict</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-12 05:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -66,39 +85,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/marian-fontana-01-abc-jt-260911_1789162358749_hpMain_4x3t_384.jpg" alt="A 9/11 widow reflects on 25 years of grief and what comes next" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/911-widow-reflects-25-years-grief/story?id=136355825" target="_blank">A 9/11 widow reflects on 25 years of grief and what comes next</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-11 23:12</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/9/11/flavio-bolsonaro-faces-corruption-probe-weeks-before-brazil-election?traffic_source=rss" target="_blank">Flavio Bolsonaro faces corruption probe weeks before Brazil election</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-09-11 22:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/ny-memorial-3-ap-gmh-260911_1789139829005_hpMain_4x3t_384.jpg" alt="9/11 25th anniversary live updates: Families gather for emotional ceremonies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/live-updates/911-25th-anniversary-live-updates-families-gather-ceremonies/?id=136027765" target="_blank">9/11 25th anniversary live updates: Families gather for emotional ceremonies</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-09-11 22:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/9/11/us-lawyer-cites-fake-witnesses-in-murder-case-blames-chatgpt?traffic_source=rss" target="_blank">US lawyer cites fake witnesses in murder case, blames ChatGPT</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-11 20:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/11/nx-s1-5957988/how-shofars-became-the-spiritual-soundtrack-of-rosh-hashanah" target="_blank">How shofars became the spiritual soundtrack of Rosh Hashanah</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-11 20:29</span>
             </div>
         </div>
 </div>
@@ -186,6 +187,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Gitte-0.10-Released" target="_blank">Gitte As Git Client For GNOME Continues Maturing Quite Nicely</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-12 00:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/muzzamilahmedkhan/i-lost-a-client-to-ai-and-it-taught-me-something-i-didnt-expect-3lk6" target="_blank">I lost a client to AI and it taught me something I didn&#x27;t expect</a></span>
                 <span class="feed">DEV Community</span>
@@ -210,20 +220,20 @@
                 <span class="time">2026-09-11 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://mathandai.org/" target="_blank">A misalignment of AI in mathematics</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-11 17:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-rotting-squid-on-a-beached-california-boat.html" target="_blank">Friday Squid Blogging: Rotting Squid on a Beached California Boat</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-09-11 21:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -324,22 +334,13 @@
                 <span class="time">2026-09-11 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/oh_scale.png" alt="OH Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3297/" target="_blank">OH Scale</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-09-11 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 60 | 📡 Total Sources: 40 | 📸 With Images: 269 |
-        🔄 Last Updated: 01:58 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 61 | 📡 Total Sources: 40 | 📸 With Images: 268 |
+        🔄 Last Updated: 06:47 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
