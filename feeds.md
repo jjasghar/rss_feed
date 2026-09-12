@@ -1,32 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-09-12 11:21:30 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-09-12 14:34:01 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, September 12, 2026 - 11:21 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, September 12, 2026 - 14:34 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +49,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afa5/live/b18ef1b0-aea8-11f1-bc1f-3f186ca4140c.jpg" alt="Reform receives second £36m donation in two days as crypto investor matches record" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss" target="_blank">Reform receives second £36m donation in two days as crypto investor matches record</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-12 14:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/12/iran-backed-houthis-seize-strategic-mayun-island-can-they-hold-it?traffic_source=rss" target="_blank">Iran-backed Houthis seize strategic Mayun Island: Can they hold it?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-12 13:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/12/g-s1-142404/hiv-aids-brazil-stigma" target="_blank">&#x27;People are still afraid of those three letters&#x27;: Fighting the stigma of HIV</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-12 13:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03a0/live/0047f800-ae96-11f1-b92e-1f49080ec3cb.jpg" alt="Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss" target="_blank">Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-12 12:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -60,47 +103,29 @@
                 <span class="time">2026-09-12 10:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/12/g-s1-143044/yemens-houthis-capture-red-sea-island" target="_blank">Yemen&#x27;s Houthis capture a Red Sea island in threat to shipping</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-12 05:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/12/war-on-terror-how-9-11-changed-the-language-of?traffic_source=rss" target="_blank">‘War on terror’: How 9/11 changed the language of conflict</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-12 05:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/12/cia-drops-dozens-of-declassified-documents-on-bin-laden-and-al-qaeda?traffic_source=rss" target="_blank">CIA drops dozens of declassified documents on bin Laden and al-Qaeda</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-12 01:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/751d/live/9bfaf8b0-ae32-11f1-b1d1-571ed4d7ff2c.jpg" alt="Reform receives record £36m donation from crypto billionaire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c3v4zvyde15o?at_medium=RSS&at_campaign=rss" target="_blank">Reform receives record £36m donation from crypto billionaire</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-11 23:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/994314/tiff-2026-wildwood-stuffed-julian" target="_blank">Laika’s stop-motion fantasy Wildwood looks so smooth</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-09-12 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/80276b2c-6940-443f-adf2-2aabe4d1e838_2048x1365-500x500.jpg" alt="I spent $4,000 on a robot dog from China" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/" target="_blank">I spent $4,000 on a robot dog from China</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-09-12 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,29 +162,29 @@
                 <span class="time">2026-09-11 21:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal" target="_blank">Lawyer fined $5K over AI-hallucinated witnesses in a murder case</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-09-11 20:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6aa43cf5acc1ba98aeac1316/master/pass/Show-Watch-Guide-Culture-LegoMandalorian_01.jpg" alt="The 9 Best TV Shows to Stream This Month (September 2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-9-best-shows-to-stream-right-now/" target="_blank">The 9 Best TV Shows to Stream This Month (September 2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-09-11 19:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/halil_cogun/before-you-hunt-a-desync-prove-your-own-simulation-is-deterministic-4igf" target="_blank">Before You Hunt a Desync, Prove Your Own Simulation Is Deterministic</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-12 14:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.joelotter.com/posts/2026/09/make-it-anyway/" target="_blank">Fuck it, make it anyway</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-12 11:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/presentations/knowledge-graphs-agentic-systems-patterns/en/mediumimage/cassie-shum-medium-1788338916792.jpeg" alt="Presentation: From Retrieval to Reasoning: Building Production-Ready Agentic AI Systems with Knowledge Graphs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -167,6 +192,15 @@
                 <span class="title"><a href="https://www.infoq.com/presentations/knowledge-graphs-agentic-systems-patterns/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: From Retrieval to Reasoning: Building Production-Ready Agentic AI Systems with Knowledge Graphs</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-09-12 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://eddie.codes/posts/pandas-should-go-extinct/" target="_blank">Pandas Should Go Extinct</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-09-12 04:23</span>
             </div>
         </div>
 <div class="story">
@@ -185,33 +219,6 @@
                 <span class="title"><a href="https://dev.to/legerise/got-tired-of-sshing-into-my-server-just-to-view-logs-5gjl" target="_blank">Got Tired of SSHing Into My Server Just to View Logs</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-09-12 01:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2022/05/mainboard-terminal-heroshot-406x232.jpg" alt="Default terminal option is coming to GNOME Settings" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/default-terminal-gnome-settings" target="_blank">Default terminal option is coming to GNOME Settings</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-09-12 01:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Gitte-0.10-Released" target="_blank">Gitte As Git Client For GNOME Continues Maturing Quite Nicely</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-12 00:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/muzzamilahmedkhan/i-lost-a-client-to-ai-and-it-taught-me-something-i-didnt-expect-3lk6" target="_blank">I lost a client to AI and it taught me something I didn&#x27;t expect</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-11 18:35</span>
             </div>
         </div>
 </div>
@@ -242,6 +249,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/09/A24-official-logo-A24.jpg" alt="SCP Foundation Pushes Back On Backrooms Studio’s New V/H/S: SCP Movie: ‘A24 Does Not And Cannot Have Any Exclusive Rights’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/scp-foundation-pushes-back-on-backrooms-studios-new-v-h-s-scp-movie-a24-does-not-and-cannot-have-any-exclusive-rights-2000733756" target="_blank">SCP Foundation Pushes Back On Backrooms Studio’s New V/H/S: SCP Movie: ‘A24 Does Not And Cannot Have Any Exclusive Rights’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-12 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/09/robloxas-1280x705.jpg" alt="The Most Viral Roblox Games Are About To Break Containment" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +303,6 @@
                 <span class="time">2026-09-11 18:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M28NKV9CVD0SEFT160C6FMXQ/hero-image.jpg" alt="If You Loved &#x27;The Office,&#x27; There&#x27;s One Movie You Need to Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/best-movies-for-fans-of-the-office?utm_medium=RSS" target="_blank">If You Loved &#x27;The Office,&#x27; There&#x27;s One Movie You Need to Watch Next</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-09-11 17:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 59 | 📡 Total Sources: 40 | 📸 With Images: 266 |
-        🔄 Last Updated: 11:21 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 61 | 📡 Total Sources: 40 | 📸 With Images: 265 |
+        🔄 Last Updated: 14:34 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
