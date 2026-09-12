@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-09-12 21:47:04 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-12 23:31:24 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, September 12, 2026 - 21:47 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Saturday, September 12, 2026 - 23:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/9/12/elena-rybakina-defeats-aryna-sabalenka-in-us-open-womens-singles-final?traffic_source=rss" target="_blank">Elena Rybakina defeats Aryna Sabalenka in US Open women’s singles final</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-12 23:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +101,20 @@
                 <span class="time">2026-09-12 15:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-08/260827-Dario-Amodei-vsb-2239-f8b195.jpg" alt="Anthropic CEO calls for slowing the AI race as safety warnings mount" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/anthropic-ceo-dario-amodei-ai-development-rcna597383" target="_blank">Anthropic CEO calls for slowing the AI race as safety warnings mount</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-09-12 15:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack" target="_blank">OpenAI’s rogue AI tried to hack another company in May</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-09-12 21:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -132,30 +143,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/685f10e6472f227b69cc9560/master/pass/The%20Best%20Standing%20Desks.png" alt="10 Best Standing Desks Worth Buying in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-standing-desks/" target="_blank">10 Best Standing Desks Worth Buying in 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-12 11:08</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/80276b2c-6940-443f-adf2-2aabe4d1e838_2048x1365-500x500.jpg" alt="I spent $4,000 on a robot dog from China" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
                 <span class="title"><a href="https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/" target="_blank">I spent $4,000 on a robot dog from China</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-09-12 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition" target="_blank">OpenAI just wants to win</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-09-12 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/Engine3-500x500.jpg" alt="Some satellite companies still have an appetite for boutique launch services" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/" target="_blank">Some satellite companies still have an appetite for boutique launch services</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-09-11 23:34</span>
             </div>
         </div>
 </div>
@@ -249,15 +251,6 @@
                 <span class="time">2026-09-12 14:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/09/robloxas-1280x705.jpg" alt="The Most Viral Roblox Games Are About To Break Containment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-most-viral-roblox-games-are-about-to-break-containment-2000733606" target="_blank">The Most Viral Roblox Games Are About To Break Containment</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-09-11 22:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -277,8 +270,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 50 | 📡 Total Sources: 39 | 📸 With Images: 265 |
-        🔄 Last Updated: 21:47 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 47 | 📡 Total Sources: 40 | 📸 With Images: 264 |
+        🔄 Last Updated: 23:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
