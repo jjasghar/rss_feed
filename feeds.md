@@ -1,39 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-09-12 14:34:01 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-12 17:30:27 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
 <!-- Generated 11 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, September 12, 2026 - 14:34 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Saturday, September 12, 2026 - 17:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +50,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9256/live/a1802a30-aeb9-11f1-b1d1-571ed4d7ff2c.jpg" alt="Anthropic boss Dario Amodei calls for AI development to slow down" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss" target="_blank">Anthropic boss Dario Amodei calls for AI development to slow down</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-12 17:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-08/260827-Dario-Amodei-vsb-2239-f8b195.jpg" alt="Anthropic CEO calls for slowing the AI race as safety warnings mount" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/anthropic-ceo-dario-amodei-ai-development-rcna597383" target="_blank">Anthropic CEO calls for slowing the AI race as safety warnings mount</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-09-12 15:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/sep/12/burial-king-oyo-uganda" target="_blank">Burial of King Oyo takes place in Uganda as news anchor prepares for throne</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-09-12 15:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afa5/live/b18ef1b0-aea8-11f1-bc1f-3f186ca4140c.jpg" alt="Reform receives second £36m donation in two days as crypto investor matches record" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,38 +104,29 @@
                 <span class="time">2026-09-12 13:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03a0/live/0047f800-ae96-11f1-b92e-1f49080ec3cb.jpg" alt="Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss" target="_blank">Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-12 12:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/12/nx-s1-5966884/insurance-coverage-cancer-disability-medicaid" target="_blank">A cancer survivor hoped to work — then she lost her Medicaid disability coverage</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-12 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/9/12/hong-kong-jails-tiananmen-vigil-activists-for-seven-years?traffic_source=rss" target="_blank">Hong Kong jails Tiananmen vigil activists for seven years</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-12 10:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/994340/sylvan-esso-ow-infinity-interview-music" target="_blank">Sylvan Esso think you should splurge on good-quality yogurt</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-09-12 16:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/" target="_blank">Anthropic CEO outlines plan to ‘pace the frontier’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-09-12 15:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,29 +163,29 @@
                 <span class="time">2026-09-11 23:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/" target="_blank">Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-09-11 22:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/" target="_blank">Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-09-11 21:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ibrahimshamma99/whats-keeping-swes-up-at-night-in-the-age-of-agentic-engineering-dal" target="_blank">What’s Keeping SWEs Up at Night in the Age of Agentic Engineering</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-12 17:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai" target="_blank">Nvidia is the central bank of AI</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-12 15:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,24 +222,6 @@
                 <span class="time">2026-09-12 04:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2024/08/better-noble-no-watermark-406x232.jpg" alt="Ubuntu pulls 24.04.5 downloads due to installer bug" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/ubuntu-pulls-24-04-5-download" target="_blank">Ubuntu pulls 24.04.5 downloads due to installer bug</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-09-12 03:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxg74a4urqjcrgw01zmqr.png" alt="Got Tired of SSHing Into My Server Just to View Logs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/legerise/got-tired-of-sshing-into-my-server-just-to-view-logs-5gjl" target="_blank">Got Tired of SSHing Into My Server Just to View Logs</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-12 01:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -249,6 +250,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/PDF-Expert-Premium-Plan.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Manage your PDFs from one workspace with this $80 lifetime deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/09/12/manage-your-pdfs-from-one-workspace-with-this-80-lifetime-deal.html" target="_blank">Manage your PDFs from one workspace with this $80 lifetime deal</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-09-12 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/09/A24-official-logo-A24.jpg" alt="SCP Foundation Pushes Back On Backrooms Studio’s New V/H/S: SCP Movie: ‘A24 Does Not And Cannot Have Any Exclusive Rights’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -294,20 +304,20 @@
                 <span class="time">2026-09-11 20:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/E_coli_at_10000x2C_original.jpg?fit=1200%2C873&amp;quality=60&amp;ssl=1" alt="A single bacterium can learn — and it works like an AI neural network" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/09/11/fountain-pen-bacteria-memory.html" target="_blank">A single bacterium can learn — and it works like an AI neural network</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-09-11 18:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1789156114-20260912.png" alt="Saturday Morning Breakfast Cereal - Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/time-8" target="_blank">Saturday Morning Breakfast Cereal - Time</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-09-12 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -317,22 +327,13 @@
                 <span class="time">2026-09-11 20:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1788990439-20260911.png" alt="Saturday Morning Breakfast Cereal - Transporter" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/transporter-3" target="_blank">Saturday Morning Breakfast Cereal - Transporter</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-09-11 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 61 | 📡 Total Sources: 40 | 📸 With Images: 265 |
-        🔄 Last Updated: 14:34 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 56 | 📡 Total Sources: 40 | 📸 With Images: 265 |
+        🔄 Last Updated: 17:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
