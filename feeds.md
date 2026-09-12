@@ -1,40 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-09-12 17:30:27 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-09-12 19:48:23 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 31 feeds processed -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Saturday, September 12, 2026 - 17:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Saturday, September 12, 2026 - 19:48 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,12 +47,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-ireland-pm-gty-jt-260912_1789225133681_hpMain_4x3t_384.jpg" alt="Irish leaders react after Trump says he&#x27;d &#x27;love&#x27; to see a unified Ireland" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/irish-leaders-react-after-trump-hed-love-unified/story?id=136388732" target="_blank">Irish leaders react after Trump says he&#x27;d &#x27;love&#x27; to see a unified Ireland</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-12 19:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/12/nx-s1-5967476/alien-removal-court-deportation-afganistan" target="_blank">Alien Terrorist Removal Court deports legal US resident to Afghanistan in first-ever case</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-12 18:29</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9256/live/a1802a30-aeb9-11f1-b1d1-571ed4d7ff2c.jpg" alt="Anthropic boss Dario Amodei calls for AI development to slow down" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss" target="_blank">Anthropic boss Dario Amodei calls for AI development to slow down</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-09-12 17:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-08/260827-Dario-Amodei-vsb-2239-f8b195.jpg" alt="Sam Altman backs Anthropic CEO’s call to slow down the global AI race" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/anthropic-ceo-dario-amodei-ai-development-rcna597383" target="_blank">Sam Altman backs Anthropic CEO’s call to slow down the global AI race</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-09-12 15:29</span>
             </div>
         </div>
 <div class="story">
@@ -75,33 +98,6 @@
                 <span class="title"><a href="https://www.theguardian.com/world/2026/sep/12/burial-king-oyo-uganda" target="_blank">Burial of King Oyo takes place in Uganda as news anchor prepares for throne</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2026-09-12 15:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afa5/live/b18ef1b0-aea8-11f1-bc1f-3f186ca4140c.jpg" alt="Reform receives second £36m donation in two days as crypto investor matches record" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss" target="_blank">Reform receives second £36m donation in two days as crypto investor matches record</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-12 14:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/12/iran-backed-houthis-seize-strategic-mayun-island-can-they-hold-it?traffic_source=rss" target="_blank">Iran-backed Houthis seize strategic Mayun Island: Can they hold it?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-12 13:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/12/g-s1-142404/hiv-aids-brazil-stigma" target="_blank">&#x27;People are still afraid of those three letters&#x27;: Fighting the stigma of HIV</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-12 13:03</span>
             </div>
         </div>
 </div>
@@ -172,9 +168,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/3ni8ma/i-ship-mobile-apps-for-0-vercel-render-supabase-free-tier-27n5" target="_blank">I Ship Mobile Apps for $0: Vercel + Render + Supabase Free Tier</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-12 19:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ibrahimshamma99/whats-keeping-swes-up-at-night-in-the-age-of-agentic-engineering-dal" target="_blank">What’s Keeping SWEs Up at Night in the Age of Agentic Engineering</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-09-12 17:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Debian-13.7-Released" target="_blank">Debian 13.7 Released With Many Bug Fixes</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-12 17:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/09/ios-27-virtualization/en/headerimage/ios-27-virtualization-1789227137098.jpeg" alt="Open-Source Project Brings Full iOS 27 Virtualization to Apple Silicon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/09/ios-27-virtualization/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Open-Source Project Brings Full iOS 27 Virtualization to Apple Silicon</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-09-12 16:00</span>
             </div>
         </div>
 <div class="story">
@@ -195,33 +218,6 @@
                 <span class="time">2026-09-12 14:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.joelotter.com/posts/2026/09/make-it-anyway/" target="_blank">Fuck it, make it anyway</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-12 11:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/knowledge-graphs-agentic-systems-patterns/en/mediumimage/cassie-shum-medium-1788338916792.jpeg" alt="Presentation: From Retrieval to Reasoning: Building Production-Ready Agentic AI Systems with Knowledge Graphs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/knowledge-graphs-agentic-systems-patterns/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: From Retrieval to Reasoning: Building Production-Ready Agentic AI Systems with Knowledge Graphs</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-09-12 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://eddie.codes/posts/pandas-should-go-extinct/" target="_blank">Pandas Should Go Extinct</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-09-12 04:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,20 +232,20 @@
                 <span class="time">2026-09-11 21:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/09/my-talk-at-def-con.html" target="_blank">My Talk at DEF CON</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-09-11 18:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/09/cosplay-1280x713.jpg" alt="Everything We Saw At BlizzCon 2026’s Jam-Packed Opening Ceremony" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/everything-we-saw-at-blizzcon-2026s-opening-ceremony-2000733819" target="_blank">Everything We Saw At BlizzCon 2026’s Jam-Packed Opening Ceremony</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-12 19:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/PDF-Expert-Premium-Plan.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Manage your PDFs from one workspace with this $80 lifetime deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -295,15 +291,6 @@
                 <span class="time">2026-09-11 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-09-11 20:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -332,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 56 | 📡 Total Sources: 40 | 📸 With Images: 265 |
-        🔄 Last Updated: 17:30 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 55 | 📡 Total Sources: 39 | 📸 With Images: 265 |
+        🔄 Last Updated: 19:48 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
