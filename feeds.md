@@ -1,37 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-09-12 23:31:24 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-09-13 01:50:45 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Saturday, September 12, 2026 - 23:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Sunday, September 13, 2026 - 01:50 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40b3/live/461a8aa0-af13-11f1-b1d1-571ed4d7ff2c.jpg" alt="AI staff &#x27;genuinely frightened&#x27; for humanity&#x27;s future, ex-Anthropic researcher tells BBC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss" target="_blank">AI staff &#x27;genuinely frightened&#x27; for humanity&#x27;s future, ex-Anthropic researcher tells BBC</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-13 01:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +101,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss" target="_blank">Anthropic boss Dario Amodei calls for AI development to slow down</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-09-12 17:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-08/260827-Dario-Amodei-vsb-2239-f8b195.jpg" alt="Sam Altman backs Anthropic CEO’s call to slow down the global AI race" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/anthropic-ceo-dario-amodei-ai-development-rcna597383" target="_blank">Sam Altman backs Anthropic CEO’s call to slow down the global AI race</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-09-12 15:29</span>
             </div>
         </div>
 </div>
@@ -168,6 +170,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/EROFS-Disabled-LZ4-Rolling" target="_blank">EROFS Disables LZ4 Rolling Decompression Due To Data Corruption Possibility</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-13 00:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://xeiaso.net/notes/2026/everyone-slowdown-but-me/" target="_blank">Everyone should slow down AI development except for me</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-13 00:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/3ni8ma/i-ship-mobile-apps-for-0-vercel-render-supabase-free-tier-27n5" target="_blank">I Ship Mobile Apps for $0: Vercel + Render + Supabase Free Tier</a></span>
                 <span class="feed">DEV Community</span>
@@ -201,29 +221,20 @@
                 <span class="time">2026-09-12 16:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/09/ios-27-virtualization/en/headerimage/ios-27-virtualization-1789227137098.jpeg" alt="Open-Source Project Brings Full iOS 27 Virtualization to Apple Silicon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/09/ios-27-virtualization/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Open-Source Project Brings Full iOS 27 Virtualization to Apple Silicon</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-09-12 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai" target="_blank">Nvidia is the central bank of AI</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-12 15:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/09/lich-king-1280x720.jpg" alt="World Of Warcraft Is About To Remix Its Most Beloved Expansion" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/world-of-warcraft-wrath-of-the-lich-king-remix-announce-2000733867" target="_blank">World Of Warcraft Is About To Remix Its Most Beloved Expansion</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-13 01:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/09/cosplay-1280x713.jpg" alt="Everything We Saw At BlizzCon 2026’s Jam-Packed Opening Ceremony" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,8 +281,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 47 | 📡 Total Sources: 40 | 📸 With Images: 264 |
-        🔄 Last Updated: 23:31 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 46 | 📡 Total Sources: 40 | 📸 With Images: 264 |
+        🔄 Last Updated: 01:50 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
