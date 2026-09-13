@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-09-13 06:55:40 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-13 12:26:02 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Generated 9 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, September 13, 2026 - 06:55 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Sunday, September 13, 2026 - 12:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,10 +52,46 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/13/nx-s1-5957544/star-trek-anniversary" target="_blank">Can you imagine a universe without a new &#x27;Star Trek&#x27; on the horizon?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-13 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-04/250423-Scott-Bessent-ch-0956-33dc45.jpg" alt="Bessent dared the bond market to ‘bet against’ him. It did — and it appears to be winning." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/business/markets/bessent-bond-traders-bet-rcna597044" target="_blank">Bessent dared the bond market to ‘bet against’ him. It did — and it appears to be winning.</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-09-13 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Saudi-Houthis-DB-260913_1789287059715_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump speaks to MBS, says everything will &#x27;work out fine&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-tehran-plans-new-restricted-zone/?id=136249116" target="_blank">Iran live updates: Trump speaks to MBS, says everything will &#x27;work out fine&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-13 08:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/9/13/1400-yemenis-flee-to-djibouti-within-24-hours?traffic_source=rss" target="_blank">1,400 Yemenis flee to Djibouti within 24 hours</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-09-13 04:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/09/1920x1080/skynews-rescuers-indonesia_7350010.jpg?20260913102915" alt="Six dead and search under way for 130 missing from Indonesian passenger ship" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/indonesia-search-for-140-people-missing-from-passenger-ship-13585242" target="_blank">Six dead and search under way for 130 missing from Indonesian passenger ship</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-09-13 03:34</span>
             </div>
         </div>
 <div class="story">
@@ -64,47 +103,29 @@
                 <span class="time">2026-09-13 01:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/9/12/elena-rybakina-defeats-aryna-sabalenka-in-us-open-womens-singles-final?traffic_source=rss" target="_blank">Elena Rybakina defeats Aryna Sabalenka in US Open women’s singles final</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-12 23:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-drc-ebola-spread-clip-mp4?traffic_source=rss" target="_blank">Ebola spreads to seventh DRC province as gov’t insists cases are declining</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-12 20:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/trump-ireland-pm-gty-jt-260912_1789225133681_hpMain_4x3t_384.jpg" alt="Irish leaders react after Trump says he&#x27;d &#x27;love&#x27; to see a unified Ireland" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/irish-leaders-react-after-trump-hed-love-unified/story?id=136388732" target="_blank">Irish leaders react after Trump says he&#x27;d &#x27;love&#x27; to see a unified Ireland</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-09-12 19:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/12/nx-s1-5967476/alien-removal-court-deportation-afganistan" target="_blank">Alien Terrorist Removal Court deports legal US resident to Afghanistan in first-ever case</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-12 18:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/column/994172/your-car-is-selling-your-data" target="_blank">Your car is selling your data</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-09-13 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/" target="_blank">Automattic confirms Mullenweg has returned as CEO after attempted ouster by board</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-09-12 23:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,29 +162,29 @@
                 <span class="time">2026-09-12 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/685f10e6472f227b69cc9560/master/pass/The%20Best%20Standing%20Desks.png" alt="10 Best Standing Desks Worth Buying in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-standing-desks/" target="_blank">10 Best Standing Desks Worth Buying in 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-09-12 11:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/80276b2c-6940-443f-adf2-2aabe4d1e838_2048x1365-500x500.jpg" alt="I spent $4,000 on a robot dog from China" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/" target="_blank">I spent $4,000 on a robot dog from China</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-09-12 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/BFS-Filesystem-To-Be-Removed" target="_blank">BFS File-System Being Removed For Linux 7.4</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-13 11:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://jetkvm.com/blog/introducing-jetkvm-mini" target="_blank">JetKVM Mini</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-13 07:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,24 +219,6 @@
                 <span class="title"><a href="https://dev.to/3ni8ma/i-ship-mobile-apps-for-0-vercel-render-supabase-free-tier-27n5" target="_blank">I Ship Mobile Apps for $0: Vercel + Render + Supabase Free Tier</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-09-12 19:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ibrahimshamma99/whats-keeping-swes-up-at-night-in-the-age-of-agentic-engineering-dal" target="_blank">What’s Keeping SWEs Up at Night in the Age of Agentic Engineering</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-12 17:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Debian-13.7-Released" target="_blank">Debian 13.7 Released With Many Bug Fixes</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-12 17:06</span>
             </div>
         </div>
 </div>
@@ -278,8 +281,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 42 | 📡 Total Sources: 40 | 📸 With Images: 263 |
-        🔄 Last Updated: 06:55 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 40 | 📡 Total Sources: 40 | 📸 With Images: 264 |
+        🔄 Last Updated: 12:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
