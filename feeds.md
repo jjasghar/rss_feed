@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-09-13 21:53:31 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-13 23:44:21 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Generated 10 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Sunday, September 13, 2026 - 21:53 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, September 13, 2026 - 23:44 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,42 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/13/nx-s1-5968093/pennsylvania-says-an-unvaccinated-woman-has-died-from-measles-related-complications" target="_blank">Pennsylvania says an unvaccinated woman has died from measles-related complications</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-13 23:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Health/measles-1-gty-er-260120_1768925917623_hpMain_3_4x3t_384.jpg" alt="Another measles-related death reported in Pennsylvania as outbreak grows" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/measles-related-death-reported-pennsylvania-outbreak-grows/story?id=136410532" target="_blank">Another measles-related death reported in Pennsylvania as outbreak grows</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-13 22:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/9/13/zverev-beats-shelton-in-four-sets-to-win-us-open-title?traffic_source=rss" target="_blank">Zverev defeats Shelton in four sets to win his first US Open title</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-13 22:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4d2/live/edf64150-af96-11f1-b1d1-571ed4d7ff2c.jpg" alt="Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss" target="_blank">Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-13 19:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/09/13/nx-s1-5968081/wisconsin-congressman-survives-emergency-plane-landing-swims-to-safety" target="_blank">Wisconsin congressman survives emergency plane landing, swims to safety</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-09-13 17:45</span>
@@ -59,42 +95,6 @@
                 <span class="title"><a href="https://abcnews.com/Politics/former-anthropic-openai-employee-sounds-alarm-ai-development/story?id=136401554" target="_blank">Former Anthropic, OpenAI employee sounds alarm over AI development pace</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-09-13 15:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/656d/live/74d3c480-af61-11f1-bc1f-3f186ca4140c.jpg" alt="Reform confident it won&#x27;t need to repay any of £72m under proposed new donor rules" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&at_campaign=rss" target="_blank">Reform confident it won&#x27;t need to repay any of £72m under proposed new donor rules</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-13 15:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/13/nx-s1-5957544/star-trek-anniversary" target="_blank">Can you imagine a universe without a new &#x27;Star Trek&#x27; on the horizon?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-13 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-04/250423-Scott-Bessent-ch-0956-33dc45.jpg" alt="Bessent dared the bond market to ‘bet against’ him. It did — and it appears to be winning." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/business/markets/bessent-bond-traders-bet-rcna597044" target="_blank">Bessent dared the bond market to ‘bet against’ him. It did — and it appears to be winning.</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-09-13 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Saudi-Houthis-DB-260913_1789287059715_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump speaks to MBS, says everything will &#x27;work out fine&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-tehran-plans-new-restricted-zone/?id=136249116" target="_blank">Iran live updates: Trump speaks to MBS, says everything will &#x27;work out fine&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-09-13 08:37</span>
             </div>
         </div>
 </div>
@@ -139,19 +139,19 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://media.wired.com/photos/69ebdf79c2561fc92a314957/master/pass/The-Best-Smart-Bird-Feeders-for-Backyard-Birding.jpg" alt="The Smart Bird Feeders Everyone’s Talking About (and Actually Buying) (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/" target="_blank">Automattic confirms Mullenweg has returned as CEO after attempted ouster by board</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-09-12 23:25</span>
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-smart-bird-feeders/" target="_blank">The Smart Bird Feeders Everyone’s Talking About (and Actually Buying) (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-13 11:00</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="California&#x27;s Gig Drivers Just Secured Collective Bargaining Power with Newly Certified Union" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="NASA and IBM Open Source Lunar Mapping Tools" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://yro.slashdot.org/story/26/09/13/0245218/californias-gig-drivers-just-secured-collective-bargaining-power-with-newly-certified-union?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">California&#x27;s Gig Drivers Just Secured Collective Bargaining Power with Newly Certified Union</a></span>
+                <span class="title"><a href="https://science.slashdot.org/story/26/09/12/182253/nasa-and-ibm-open-source-lunar-mapping-tools?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">NASA and IBM Open Source Lunar Mapping Tools</a></span>
                 <span class="feed">Slashdot</span>
                 
             </div>
@@ -161,6 +161,42 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/09/meta-astryx-design-system/en/headerimage/generatedHeaderImage-1789341796965.jpg" alt="Meta Open-Sources Astryx, Its Agent-Ready React Design System" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/09/meta-astryx-design-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Meta Open-Sources Astryx, Its Agent-Ready React Design System</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-09-13 23:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sarantoon/thamaim-kv-cache-thuengklaayepnhawaicchesrsthsaastrkhng-ai-agent-ainpii-2026-22mf" target="_blank">ทำไม KV cache ถึงกลายเป็นหัวใจเศรษฐศาสตร์ของ AI agent ในปี 2026</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-13 23:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-rc3-Released" target="_blank">Linux 7.3-rc3 Released: &quot;Another Fairly Large RC&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-13 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.vals.ai/blogs/fable-solves-cyphral-distich" target="_blank">Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-13 21:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/09/shotwell-406x232.webp" alt="Shotwell 33 goes stable with its long-awaited GTK4 port" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -177,42 +213,6 @@
                 <span class="title"><a href="https://dev.to/jose_pollman_fa7c6ec43cdd/checking-whether-an-ietf-draft-is-actually-a-standard-from-the-command-line-2647" target="_blank">Checking whether an IETF draft is actually a standard, from the command line</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-09-13 18:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://dreamstation.systems/personal/tesla.html" target="_blank">I&#x27;m being cyberattacked by Tesla, Inc</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-13 18:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2025/05/ubuntu-rust-406x232.jpg" alt="Ubuntu 26.10 completes its transition to Rust-based coreutils" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete" target="_blank">Ubuntu 26.10 completes its transition to Rust-based coreutils</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-09-13 16:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment" target="_blank">Astra and Fable still hack on simple variants of alignment evals from 2025</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-13 14:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Zstd-Linux-7.4-Avoid-Redundant" target="_blank">Zstd Improvement For Linux 7.4 To Avoid Redundant Initialization</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-13 14:04</span>
             </div>
         </div>
 </div>
@@ -266,8 +266,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 32 | 📡 Total Sources: 40 | 📸 With Images: 264 |
-        🔄 Last Updated: 21:53 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 39 | 📡 Total Sources: 40 | 📸 With Images: 263 |
+        🔄 Last Updated: 23:44 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
