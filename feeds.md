@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-09-13 19:03:24 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-13 21:53:31 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Generated 2 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Sunday, September 13, 2026 - 19:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Sunday, September 13, 2026 - 21:53 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -150,12 +148,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="California&#x27;s Gig Drivers Just Secured Collective Bargaining Power with Newly Certified Union" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack" target="_blank">OpenAI’s rogue AI tried to hack another company in May</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-09-12 21:41</span>
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://yro.slashdot.org/story/26/09/13/0245218/californias-gig-drivers-just-secured-collective-bargaining-power-with-newly-certified-union?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">California&#x27;s Gig Drivers Just Secured Collective Bargaining Power with Newly Certified Union</a></span>
+                <span class="feed">Slashdot</span>
+                
             </div>
         </div>
 </div>
@@ -163,6 +161,15 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/09/shotwell-406x232.webp" alt="Shotwell 33 goes stable with its long-awaited GTK4 port" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/shotwell-gtk4-port-released" target="_blank">Shotwell 33 goes stable with its long-awaited GTK4 port</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-09-13 20:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +215,6 @@
                 <span class="time">2026-09-13 14:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17460718/makerphone-2-annoucement" target="_blank">MAKERphone 2.0 Lets You Build a 4G Phone and Vibe-Code Its Apps</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-09-13 13:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -249,15 +247,6 @@
                 <span class="time">2026-09-13 01:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/09/cosplay-1280x713.jpg" alt="Everything We Saw At BlizzCon 2026’s Jam-Packed Opening Ceremony" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/everything-we-saw-at-blizzcon-2026s-opening-ceremony-2000733819" target="_blank">Everything We Saw At BlizzCon 2026’s Jam-Packed Opening Ceremony</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-09-12 19:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -277,8 +266,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 36 | 📡 Total Sources: 40 | 📸 With Images: 264 |
-        🔄 Last Updated: 19:03 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 32 | 📡 Total Sources: 40 | 📸 With Images: 264 |
+        🔄 Last Updated: 21:53 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
