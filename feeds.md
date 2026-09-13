@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-09-13 01:50:45 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-13 06:55:40 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Sunday, September 13, 2026 - 01:50 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, September 13, 2026 - 06:55 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/13/1400-yemenis-flee-to-djibouti-within-24-hours?traffic_source=rss" target="_blank">1,400 Yemenis flee to Djibouti within 24 hours</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-13 04:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40b3/live/461a8aa0-af13-11f1-b1d1-571ed4d7ff2c.jpg" alt="AI staff &#x27;genuinely frightened&#x27; for humanity&#x27;s future, ex-Anthropic researcher tells BBC" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,15 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/09/12/nx-s1-5967476/alien-removal-court-deportation-afganistan" target="_blank">Alien Terrorist Removal Court deports legal US resident to Afghanistan in first-ever case</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-09-12 18:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9256/live/a1802a30-aeb9-11f1-b1d1-571ed4d7ff2c.jpg" alt="Anthropic boss Dario Amodei calls for AI development to slow down" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss" target="_blank">Anthropic boss Dario Amodei calls for AI development to slow down</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-12 17:05</span>
             </div>
         </div>
 </div>
@@ -170,6 +167,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nirbhay_hiwse/i-built-markups-a-free-open-source-markdown-editor-that-doesnt-need-an-account-5bb6" target="_blank">I Built Markups: A Free, Open-Source Markdown Editor That Doesn&#x27;t Need an Account</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-13 06:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/EROFS-Disabled-LZ4-Rolling" target="_blank">EROFS Disables LZ4 Rolling Decompression Due To Data Corruption Possibility</a></span>
                 <span class="feed">Phoronix</span>
@@ -210,15 +216,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Debian-13.7-Released" target="_blank">Debian 13.7 Released With Many Bug Fixes</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-09-12 17:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://high5apps.github.io/josm-plugin-website-wizard/" target="_blank">Make your first edit to OpenStreetMap</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-12 16:25</span>
             </div>
         </div>
 </div>
@@ -281,8 +278,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 46 | 📡 Total Sources: 40 | 📸 With Images: 264 |
-        🔄 Last Updated: 01:50 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 42 | 📡 Total Sources: 40 | 📸 With Images: 263 |
+        🔄 Last Updated: 06:55 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
