@@ -1,41 +1,27 @@
-<!-- Processing 54 RSS feeds at 2026-09-14 19:59:58 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-09-14 22:58:47 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 16 new posts out of 33 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 18 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, September 14, 2026 - 20:00 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, September 14, 2026 - 22:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -79,6 +65,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1789403008362_now_current_nobles_allen_trump_ai_260914_S3_1920x1080-i10joc.jpg" alt="Trump downplays need for guardrails on artificial intelligence" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/trump-downplays-need-for-guardrails-on-artificial-intelligence-269823557996" target="_blank">Trump downplays need for guardrails on artificial intelligence</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-09-14 16:23</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-shield"></span>
@@ -96,20 +91,20 @@
                 <span class="time">2026-09-14 11:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1789384539431_tdy_news_7a_romans_ai_warnings_260914_S3_1920x1080-mlxu4c.jpg" alt="Top AI Developers Warn the Technology is Developing Too Rapidly" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/top-ai-leaders-warn-the-tech-could-outsmart-its-developers-269811269745" target="_blank">Top AI Developers Warn the Technology is Developing Too Rapidly</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-09-14 11:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/" target="_blank">Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-09-14 21:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -155,20 +150,20 @@
                 <span class="time">2026-09-14 11:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-930111236-500x500.jpeg" alt="Unvaccinated Pennsylvania woman died of measles complications, coroner says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/09/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-says/" target="_blank">Unvaccinated Pennsylvania woman died of measles complications, coroner says</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-09-13 21:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/09/java-news-roundup-sep07-2026/en/headerimage/java-news-roundup-image-1789416658233.jpg" alt="Java News Roundup: New OpenJDK JEPs, CDI 5.0, Spring, Open Liberty, RefactorFirst, ADK for Kotlin" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/09/java-news-roundup-sep07-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: New OpenJDK JEPs, CDI 5.0, Spring, Open Liberty, RefactorFirst, ADK for Kotlin</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-09-14 20:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjefwij3r8u8eygmb0oim.png" alt="Generation and Operations Are One Thing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -214,20 +209,20 @@
                 <span class="time">2026-09-14 15:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://baldino.dev/blog/there-are-only-twelve-4x4-sudokus/" target="_blank">There are only twelve 4x4 sudokus - and a cool trick for finding minimal subsets</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-09-14 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/09/upcoming-speaking-engagements-60.html" target="_blank">Upcoming Speaking Engagements</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-09-14 19:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -242,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M2GWVQNN7Y1XHXYH67S4NH8P/hero-image.jpg" alt="The Best Deals From Nintendo&#x27;s Customer Appreciation Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/best-deals-nintendos-customer-appreciation-sale?utm_medium=RSS" target="_blank">The Best Deals From Nintendo&#x27;s Customer Appreciation Sale</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-09-14 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/09/sora.jpeg" alt="Sora In Fortnite Wants To Know If You’ve Got Games On Your Phone" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +289,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/hisense-mini-led-u8qgtv-sale-september-2026?utm_medium=RSS" target="_blank">This Premium 75-Inch Hisense Mini-LED TV Is 26% Off Right Now</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-09-14 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/09/Warcraft-III-Reforged_-Forsaken-Kingdom-_-Launch-Trailer-0-8-screenshot-1280x720.jpg" alt="Warcraft 3 Reforged’s Big Update Adds Two New Secret Levels That No One’s Found Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/warcraft-3-reforged-forsaken-kingdom-secret-levels-2000734013" target="_blank">Warcraft 3 Reforged’s Big Update Adds Two New Secret Levels That No One’s Found Yet</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-09-13 22:14</span>
             </div>
         </div>
 </div>
@@ -342,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 49 | 📡 Total Sources: 40 | 📸 With Images: 265 |
-        🔄 Last Updated: 20:00 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 47 | 📡 Total Sources: 40 | 📸 With Images: 264 |
+        🔄 Last Updated: 22:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
