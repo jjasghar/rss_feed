@@ -1,40 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-09-14 08:12:53 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-14 15:21:29 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 13 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, September 14, 2026 - 08:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Monday, September 14, 2026 - 15:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/uk-news/ng-interactive/2026/sep/14/london-hospital-st-barts-funded-donors-invested-slave-trade" target="_blank">The London hospital funded by donors who invested in the slave trade</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-09-14 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1789384539431_tdy_news_7a_romans_ai_warnings_260914_S3_1920x1080-mlxu4c.jpg" alt="Top AI Developers Warn the Technology is Developing Too Rapidly" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/top-ai-leaders-warn-the-tech-could-outsmart-its-developers-269811269745" target="_blank">Top AI Developers Warn the Technology is Developing Too Rapidly</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-09-14 11:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Saudi-pumping-station-DB-260914_1789369396568_hpMain_4x3t_384.jpg" alt="Iran live updates: Oil prices rise after strikes in Saudi Arabia, Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,29 +99,29 @@
                 <span class="time">2026-09-14 01:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/13/nx-s1-5968093/pennsylvania-says-an-unvaccinated-woman-has-died-from-measles-related-complications" target="_blank">Pennsylvania says an unvaccinated woman has died from measles-related complications</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-13 23:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Health/measles-1-gty-er-260120_1768925917623_hpMain_3_4x3t_384.jpg" alt="Another measles-related death reported in Pennsylvania as outbreak grows" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/measles-related-death-reported-pennsylvania-outbreak-grows/story?id=136410532" target="_blank">Another measles-related death reported in Pennsylvania as outbreak grows</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-09-13 22:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2295049430-500x500.jpg" alt="F1 in Madrid: Like Monaco but twice as long and none of the glamour" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/09/f1-in-madrid-like-monaco-but-twice-as-long-and-none-of-the-glamour/" target="_blank">F1 in Madrid: Like Monaco but twice as long and none of the glamour</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-09-14 14:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6aa456a6ed00c0093befb729/master/pass/I-Filled-a-Tent-With-Smoke-to-Find-the-Best-Air-Purifiers.jpg" alt="The Best Air Purifier of 2026: Tested Picks for Every Room" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-air-purifiers/" target="_blank">The Best Air Purifier of 2026: Tested Picks for Every Room</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-14 11:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-930111236-500x500.jpeg" alt="Unvaccinated Pennsylvania woman died of measles complications, coroner says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,29 +158,56 @@
                 <span class="time">2026-09-13 18:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/" target="_blank">Obama urges Democrats to have a ‘clear plan’ for AI safeguards</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-09-13 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/994172/your-car-is-selling-your-data" target="_blank">Your car is selling your data</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-09-13 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Firefox-156" target="_blank">Firefox 156 Available With Its Built-In PDF Viewer Starting Up To 45% Faster</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-14 15:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://baldino.dev/blog/there-are-only-twelve-4x4-sudokus/" target="_blank">There are only twelve 4x4 sudokus - and a cool trick for finding minimal subsets</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-09-14 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/09/agoda-price-cache-dragonflydb/en/headerimage/generatedHeaderImage-1787939534250.jpg" alt="Agoda Replaces 72-Shard SQL Server Price Cache with DragonflyDB" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/09/agoda-price-cache-dragonflydb/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Agoda Replaces 72-Shard SQL Server Price Cache with DragonflyDB</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-09-14 13:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://refactoringenglish.com/excerpts/write-an-effective-design-doc/" target="_blank">How to Write an Effective Software Design Document</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-14 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17461514/openeuler-ai-race-leap-fest" target="_blank">openEuler and the Race to Build Asia&#x27;s AI Infrastructure</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-09-14 11:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -177,49 +217,18 @@
                 <span class="time">2026-09-14 08:09</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17461303/paperweight" target="_blank">Paperweight: An Open Source App to Clean Up Your Inbox and Digital Footprint</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-09-14 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/09/jotai-3-released/en/headerimage/generatedHeaderImage-1789141759444.jpg" alt="Jotai 3.0 Ships as a Modernized, ESM-Only Package That Drops Legacy Builds and Deprecated APIs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/09/jotai-3-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Jotai 3.0 Ships as a Modernized, ESM-Only Package That Drops Legacy Builds and Deprecated APIs</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-09-14 06:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/09/meta-astryx-design-system/en/headerimage/generatedHeaderImage-1789341796965.jpg" alt="Meta Open-Sources Astryx, Its Agent-Ready React Design System" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/09/meta-astryx-design-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Meta Open-Sources Astryx, Its Agent-Ready React Design System</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-09-13 23:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sarantoon/thamaim-kv-cache-thuengklaayepnhawaicchesrsthsaastrkhng-ai-agent-ainpii-2026-22mf" target="_blank">ทำไม KV cache ถึงกลายเป็นหัวใจเศรษฐศาสตร์ของ AI agent ในปี 2026</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-13 23:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-rc3-Released" target="_blank">Linux 7.3-rc3 Released: &quot;Another Fairly Large RC&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-13 22:00</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/09/microsofts-patching.html" target="_blank">Microsoft’s Patching</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-09-14 11:03</span>
             </div>
         </div>
 </div>
@@ -227,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2023/05/5b1fcfd3f936e5f75ca9f09920fc9962-1280x721.jpg" alt="Ikumi Nakamura Breaks Fans’ Hearts By Asking Elon Musk To Play Her Demon-Hunting Action Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ikumi-nakamura-elon-musk-kemuri-unseen-tokyo-game-show-2000734245" target="_blank">Ikumi Nakamura Breaks Fans’ Hearts By Asking Elon Musk To Play Her Demon-Hunting Action Game</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-14 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M2FHGPC7XPSB2V0974ZMAGKX/hero-image.png" alt="This Premium 75-Inch Hisense Mini-LED TV Is 26% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/hisense-mini-led-u8qgtv-sale-september-2026?utm_medium=RSS" target="_blank">This Premium 75-Inch Hisense Mini-LED TV Is 26% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-09-14 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/09/Warcraft-III-Reforged_-Forsaken-Kingdom-_-Launch-Trailer-0-8-screenshot-1280x720.jpg" alt="Warcraft 3 Reforged’s Big Update Adds Two New Secret Levels That No One’s Found Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -245,20 +272,20 @@
                 <span class="time">2026-09-13 16:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/Give-your-photos-a-professional-edge-with-this-70-award-winning-AI-editor-for-life.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Give your photos a professional edge with this $70 award-winning AI editor for life" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/09/13/give-your-photos-a-professional-edge-with-this-70-award-winning-ai-editor-for-life.html" target="_blank">Give your photos a professional edge with this $70 award-winning AI editor for life</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-09-13 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1789334157-20260914.png" alt="Saturday Morning Breakfast Cereal - Balance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/balance" target="_blank">Saturday Morning Breakfast Cereal - Balance</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-09-14 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -277,22 +304,13 @@
                 <span class="time">2026-09-14 01:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1789251111-20260913.png" alt="Saturday Morning Breakfast Cereal - Scratchpad" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/scratchpad" target="_blank">Saturday Morning Breakfast Cereal - Scratchpad</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-09-13 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 45 | 📡 Total Sources: 40 | 📸 With Images: 262 |
-        🔄 Last Updated: 08:13 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 44 | 📡 Total Sources: 40 | 📸 With Images: 263 |
+        🔄 Last Updated: 15:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
