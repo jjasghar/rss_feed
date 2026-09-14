@@ -1,38 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-09-14 02:08:17 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-14 08:12:53 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Generated 10 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Monday, September 14, 2026 - 02:08 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Monday, September 14, 2026 - 08:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +50,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Saudi-pumping-station-DB-260914_1789369396568_hpMain_4x3t_384.jpg" alt="Iran live updates: Oil prices rise after strikes in Saudi Arabia, Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-oil-prices-rise-after-strikes/?id=136415261" target="_blank">Iran live updates: Oil prices rise after strikes in Saudi Arabia, Strait of Hormuz</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-14 07:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/14/us-kennedy-center-faces-bankruptcy-washington-post-reports?traffic_source=rss" target="_blank">US Kennedy Center faces bankruptcy, Washington Post reports</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-14 06:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/14/nx-s1-5968417/indonesia-search-missing-ferry" target="_blank">Indonesia searches for 129 people missing after ferry capsizes in the Java Sea</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-14 06:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,33 +104,6 @@
                 <span class="time">2026-09-13 22:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/9/13/zverev-beats-shelton-in-four-sets-to-win-us-open-title?traffic_source=rss" target="_blank">Zverev defeats Shelton in four sets to win his first US Open title</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-13 22:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4d2/live/edf64150-af96-11f1-b1d1-571ed4d7ff2c.jpg" alt="Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss" target="_blank">Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-13 19:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/13/nx-s1-5968081/wisconsin-congressman-survives-emergency-plane-landing-swims-to-safety" target="_blank">Wisconsin congressman survives emergency plane landing, swims to safety</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-13 17:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -114,6 +116,15 @@
                 <span class="title"><a href="https://arstechnica.com/health/2026/09/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-says/" target="_blank">Unvaccinated Pennsylvania woman died of measles complications, coroner says</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-09-13 21:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/" target="_blank">Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-09-13 21:30</span>
             </div>
         </div>
 <div class="story">
@@ -152,20 +163,38 @@
                 <span class="time">2026-09-13 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/John-Deere-5ML-Tractor-500x500.jpg" alt="I fixed a tractor using John Deere’s self-repair service. Farmers aren’t sold on it." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/09/i-fixed-a-tractor-using-john-deeres-self-repair-service-farmers-arent-sold-on-it/" target="_blank">I fixed a tractor using John Deere’s self-repair service. Farmers aren’t sold on it.</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-09-13 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/zoe_wu_e9541be3f10ed00b5c/i-tracked-400-llm-api-prices-every-day-for-a-month-heres-what-actually-changed-4041" target="_blank">I tracked 400+ LLM API prices every day for a month. Here&#x27;s what actually changed.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-14 08:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17461303/paperweight" target="_blank">Paperweight: An Open Source App to Clean Up Your Inbox and Digital Footprint</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-09-14 07:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/09/jotai-3-released/en/headerimage/generatedHeaderImage-1789141759444.jpg" alt="Jotai 3.0 Ships as a Modernized, ESM-Only Package That Drops Legacy Builds and Deprecated APIs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/09/jotai-3-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Jotai 3.0 Ships as a Modernized, ESM-Only Package That Drops Legacy Builds and Deprecated APIs</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-09-14 06:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/09/meta-astryx-design-system/en/headerimage/generatedHeaderImage-1789341796965.jpg" alt="Meta Open-Sources Astryx, Its Agent-Ready React Design System" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -193,38 +222,20 @@
                 <span class="time">2026-09-13 22:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.vals.ai/blogs/fable-solves-cyphral-distich" target="_blank">Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-13 21:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/09/shotwell-406x232.webp" alt="Shotwell 33 goes stable with its long-awaited GTK4 port" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/shotwell-gtk4-port-released" target="_blank">Shotwell 33 goes stable with its long-awaited GTK4 port</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-09-13 20:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jose_pollman_fa7c6ec43cdd/checking-whether-an-ietf-draft-is-actually-a-standard-from-the-command-line-2647" target="_blank">Checking whether an IETF draft is actually a standard, from the command line</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-13 18:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/09/Warcraft-III-Reforged_-Forsaken-Kingdom-_-Launch-Trailer-0-8-screenshot-1280x720.jpg" alt="Warcraft 3 Reforged’s Big Update Adds Two New Secret Levels That No One’s Found Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/warcraft-3-reforged-forsaken-kingdom-secret-levels-2000734013" target="_blank">Warcraft 3 Reforged’s Big Update Adds Two New Secret Levels That No One’s Found Yet</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-13 22:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/09/terminator-2.jpg" alt="Anthropic CEO Says ‘We Owe It To Humanity To Try’ To Prevent An AI Swarm From Taking Over The Internet" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -249,6 +260,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/09/14/round-back" target="_blank">&#x27;Round Back</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-09-14 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.questionablecontent.net/comics/5916.png" alt="Tool Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -271,8 +291,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 40 | 📡 Total Sources: 40 | 📸 With Images: 265 |
-        🔄 Last Updated: 02:08 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 45 | 📡 Total Sources: 40 | 📸 With Images: 262 |
+        🔄 Last Updated: 08:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
