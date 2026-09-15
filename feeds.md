@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-09-15 20:34:39 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-15 23:16:07 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 12 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, September 15, 2026 - 20:35 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, September 15, 2026 - 23:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/15/republican-congressman-calls-to-impeach-us-defence-secretary-pete-hegseth?traffic_source=rss" target="_blank">Republican congressman calls to impeach US Defence Secretary Pete Hegseth</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-15 22:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16f8/live/3cfae5c0-b128-11f1-b1d1-571ed4d7ff2c.jpg" alt="All support acts on Ed Sheeran&#x27;s US tour quit after Macklemore dropped" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss" target="_blank">All support acts on Ed Sheeran&#x27;s US tour quit after Macklemore dropped</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-15 21:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22a9/live/d6214980-b103-11f1-bc1f-3f186ca4140c.png" alt="Baby &#x27;cot cams&#x27; plan after inquiry finds Lucy Letby crimes could have been prevented" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,29 +100,20 @@
                 <span class="time">2026-09-15 16:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/9/15/athletes-share-what-women-in-sport-look-like-to-rebut-sydney-sweeney-ad?traffic_source=rss" target="_blank">Athletes share ‘what women in sport look like’ to rebut Sydney Sweeney ad</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-15 11:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/663f/live/010ff400-b0e8-11f1-ae0d-6f5ba3aa85ac.jpg" alt="Denmark says Russian warship fired flares at military helicopter" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss" target="_blank">Denmark says Russian warship fired flares at military helicopter</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-15 11:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/KSC-20260821-PH-SPX01_0007large-500x500.jpg" alt="The Roman telescope has enough gas for 22 years, double NASA&#x27;s expectations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/09/the-roman-telescope-has-enough-gas-for-22-years-double-nasas-expectations/" target="_blank">The Roman telescope has enough gas for 22 years, double NASA&#x27;s expectations</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-09-15 22:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,15 +159,6 @@
                 <span class="time">2026-09-15 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/994875/gm-chevy-gmc-truck-software-ui-carplay-android-auto" target="_blank">GM updates its trucks’ native software to coexist with CarPlay</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-09-15 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -181,6 +180,15 @@
                 <span class="title"><a href="https://typesafe.ai/blog/introducing-system-one-models-and-jev" target="_blank">Jev: New frontier model 40-400x cheaper and 20-200x faster</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-09-15 19:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://github.com/Aiaid/pyMalbolge" target="_blank">pyMalbolge: Malbolge interpreter in python</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-09-15 17:21</span>
             </div>
         </div>
 <div class="story">
@@ -210,15 +218,6 @@
                 <span class="time">2026-09-15 15:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/03/orion-beta-406x232.jpg" alt="Orion for Linux beta update lets you customise the toolbar" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/orion-browser-linux-043-update" target="_blank">Orion for Linux beta update lets you customise the toolbar</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-09-15 15:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M2K9G5QTGH7QQMWQP2DJE57J/hero-image.jpg" alt="Why People Are Taping Fitbits to Their Arms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/why-people-are-taping-fitbits-to-their-arms?utm_medium=RSS" target="_blank">Why People Are Taping Fitbits to Their Arms</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-09-15 21:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/Microsoft-Office-Professional-2021-for-Windows-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Nobody loves Microsoft Office, but everyone still needs — $33 till Sept. 27" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/09/15/nobody-loves-microsoft-office-but-everyone-still-needs-33-till-sept-27.html" target="_blank">Nobody loves Microsoft Office, but everyone still needs — $33 till Sept. 27</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-09-15 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/07/xboxsstudiocleanupo-1280x720.jpg" alt="Xbox Responds To Rumors That Game Pass Is Losing New Day-One Games in 2027" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,24 +291,6 @@
                 <span class="time">2026-09-15 00:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/shutterstock_2617238423.jpg?fit=1280%2C807&amp;quality=60&amp;ssl=1" alt="Insult generators of the old web" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/09/14/insult-generators-of-the-old-web.html" target="_blank">Insult generators of the old web</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-09-14 23:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M2GWVQNN7Y1XHXYH67S4NH8P/hero-image.jpg" alt="The Best Deals From Nintendo&#x27;s Customer Appreciation Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/best-deals-nintendos-customer-appreciation-sale?utm_medium=RSS" target="_blank">The Best Deals From Nintendo&#x27;s Customer Appreciation Sale</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-09-14 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 54 | 📡 Total Sources: 40 | 📸 With Images: 264 |
-        🔄 Last Updated: 20:35 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 55 | 📡 Total Sources: 40 | 📸 With Images: 264 |
+        🔄 Last Updated: 23:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
