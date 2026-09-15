@@ -1,40 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-09-15 01:09:49 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-09-15 06:54:27 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 10 new posts out of 31 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, September 15, 2026 - 01:10 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, September 15, 2026 - 06:54 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +47,33 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/9/15/bjp-effect-beef-is-vanishing-from-indian-bengal-forcing-diet-changes?traffic_source=rss" target="_blank">BJP effect: Beef is vanishing from India’s Bengal, forcing diet changes</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-15 06:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5749/live/ee0b1740-b0a6-11f1-9c5d-0dd6cc52f198.png" alt="Trump says AI safety fears a &#x27;hoax&#x27; as he rejects calls for greater safeguards" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss" target="_blank">Trump says AI safety fears a &#x27;hoax&#x27; as he rejects calls for greater safeguards</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-15 03:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81d7/live/7536f240-4ead-11f1-a4e8-2309d38aa073.jpg" alt="Lucy Letby public inquiry findings set to be published" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cjw57xyd4q0o?at_medium=RSS&at_campaign=rss" target="_blank">Lucy Letby public inquiry findings set to be published</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-15 01:54</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/emmys-21-gty-gmh-260919_1789426655325_hpMain_4x3t_384.jpg" alt="Emmys 2026: Live updates, winners, best moments" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -60,48 +83,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/ballot-3-abc-gmh-260911_1789154416883_hpMain_2_4x3t_384.jpg" alt="Supreme Court rejects Trump administration&#x27;s attempt to restrict mail-in voting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/supreme-court-rejects-trump-administrations-attempt-restrict-mail/story?id=136442477" target="_blank">Supreme Court rejects Trump administration&#x27;s attempt to restrict mail-in voting</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-15 00:37</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1789430267570_now_topstory_mal_scotus_voting_260914_S3_1920x1080-jsrlh2.jpg" alt="Supreme Court denies Trump’s mail-in voting restrictions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
                 <span class="title"><a href="https://www.nbcnews.com/video/supreme-court-denies-trump-s-mail-in-voting-restrictions-269850693945" target="_blank">Supreme Court denies Trump’s mail-in voting restrictions</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-09-14 23:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/14/nx-s1-5957565/emmys-2026-winners" target="_blank">See who&#x27;s won an Emmy Award so far</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-14 23:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/14/nx-s1-5965828/colin-kaepernick-football-the-perilous-fight" target="_blank">10 years after taking a knee, Colin Kaepernick is still waging a &#x27;Perilous Fight&#x27;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-14 18:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/trump-main_1789382573767_hpMain_4x3t_384.jpg" alt="OpenAI CEO calls for AI pacing as Trump insists he&#x27;s not downplaying risk" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/openai-ceo-calls-ai-pacing-trump-insists-downplaying/story?id=136416814" target="_blank">OpenAI CEO calls for AI pacing as Trump insists he&#x27;s not downplaying risk</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-09-14 17:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/09/1920x1080/skynews-bettina-trump_7351586.jpg?20260914180134" alt="Putin ally paid for Trump Jr&#x27;s wedding celebrations as &#x27;extraordinarily generous gift&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/donald-trump-jr-says-putin-ally-paid-for-two-nights-of-his-wedding-celebrations-as-generous-gift-13585900" target="_blank">Putin ally paid for Trump Jr&#x27;s wedding celebrations as &#x27;extraordinarily generous gift&#x27;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-09-14 16:42</span>
             </div>
         </div>
 </div>
@@ -169,6 +165,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/09/15/ai-jd-and-other-letters-of-the-law/" target="_blank">AI, JD, and other letters of the law</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-09-15 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="How Solaris&#x27; Turnstile Influenced the Modern System Designs of Web Browsers and Language Runtimes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/09/turnstile-system-design/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How Solaris&#x27; Turnstile Influenced the Modern System Designs of Web Browsers and Language Runtimes</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-09-15 06:06</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/09/firefox-156-406x232.webp" alt="Firefox 156 reduces CPU usage when viewing JPGs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -202,24 +216,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/AMD-Enhanced-SMT-Protection" target="_blank">AMD Preparing Linux For Enhanced SMT Protection &quot;ESMTP&quot; For EPYC VMs</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-09-14 18:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/" target="_blank">iOS 27, iPadOS 27, and macOS 27</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-14 17:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://andonlabs.com/blog/why-we-built-pion" target="_blank">Pion, an agent designed to run any company autonomously</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-14 17:16</span>
             </div>
         </div>
 </div>
@@ -345,22 +341,13 @@
                 <span class="time">2026-09-14 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5916.png" alt="Tool Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5916" target="_blank">Tool Time</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-09-14 01:46</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 51 | 📡 Total Sources: 40 | 📸 With Images: 265 |
-        🔄 Last Updated: 01:10 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 54 | 📡 Total Sources: 40 | 📸 With Images: 264 |
+        🔄 Last Updated: 06:54 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
