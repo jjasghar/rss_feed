@@ -1,27 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-09-14 22:58:47 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-09-15 01:09:49 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 18 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 10 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, September 14, 2026 - 22:58 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, September 15, 2026 - 01:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,6 +50,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/emmys-21-gty-gmh-260919_1789426655325_hpMain_4x3t_384.jpg" alt="Emmys 2026: Live updates, winners, best moments" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/GMA/Culture/live-updates/emmys-2026/?id=136378304" target="_blank">Emmys 2026: Live updates, winners, best moments</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-15 01:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1789430267570_now_topstory_mal_scotus_voting_260914_S3_1920x1080-jsrlh2.jpg" alt="Supreme Court denies Trump’s mail-in voting restrictions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/supreme-court-denies-trump-s-mail-in-voting-restrictions-269850693945" target="_blank">Supreme Court denies Trump’s mail-in voting restrictions</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-09-14 23:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/14/nx-s1-5957565/emmys-2026-winners" target="_blank">See who&#x27;s won an Emmy Award so far</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-14 23:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -64,38 +104,38 @@
                 <span class="time">2026-09-14 16:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1789403008362_now_current_nobles_allen_trump_ai_260914_S3_1920x1080-i10joc.jpg" alt="Trump downplays need for guardrails on artificial intelligence" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/trump-downplays-need-for-guardrails-on-artificial-intelligence-269823557996" target="_blank">Trump downplays need for guardrails on artificial intelligence</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-09-14 16:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/uk-news/ng-interactive/2026/sep/14/london-hospital-st-barts-funded-donors-invested-slave-trade" target="_blank">The London hospital funded by donors who invested in the slave trade</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-09-14 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36f6/live/29acfbb0-b02f-11f1-a8a9-13be82d23441.jpg" alt="China criticises idea it is in &#x27;malicious competition&#x27; over AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss" target="_blank">China criticises idea it is in &#x27;malicious competition&#x27; over AI</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-14 11:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6aa2f7f49bfef15e7a640ba4/master/pass/GettyImages-2280067128.jpg" alt="The Supreme Court Just Blocked Trump’s Efforts to Control Mail-In Voting for the Midterms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-supreme-court-just-blocked-trumps-efforts-to-control-mail-in-voting-for-the-midterms/" target="_blank">The Supreme Court Just Blocked Trump’s Efforts to Control Mail-In Voting for the Midterms</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-15 00:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when" target="_blank">Valve is still figuring out ‘how and when’ to do Steam Deck 2</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-09-15 00:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2154524764-500x500.jpg" alt="RFK Jr. headlines sold-out anti-vaccine conference alongside Andrew Wakefield" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/09/rfk-jr-headlines-sold-out-anti-vaccine-conference-alongside-andrew-wakefield/" target="_blank">RFK Jr. headlines sold-out anti-vaccine conference alongside Andrew Wakefield</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-09-14 22:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -123,38 +163,20 @@
                 <span class="time">2026-09-14 18:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/" target="_blank">Amazon Prime Video takes on TikTok with short-form news clips</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-09-14 18:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2295049430-500x500.jpg" alt="F1 in Madrid: Like Monaco but twice as long and none of the glamour" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/09/f1-in-madrid-like-monaco-but-twice-as-long-and-none-of-the-glamour/" target="_blank">F1 in Madrid: Like Monaco but twice as long and none of the glamour</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-09-14 14:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6aa456a6ed00c0093befb729/master/pass/I-Filled-a-Tent-With-Smoke-to-Find-the-Best-Air-Purifiers.jpg" alt="The Best Air Purifier of 2026: Tested Picks for Every Room" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-air-purifiers/" target="_blank">The Best Air Purifier of 2026: Tested Picks for Every Room</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-09-14 11:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/09/firefox-156-406x232.webp" alt="Firefox 156 reduces CPU usage when viewing JPGs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/firefox-156-released" target="_blank">Firefox 156 reduces CPU usage when viewing JPGs</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-09-14 22:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/09/java-news-roundup-sep07-2026/en/headerimage/java-news-roundup-image-1789416658233.jpg" alt="Java News Roundup: New OpenJDK JEPs, CDI 5.0, Spring, Open Liberty, RefactorFirst, ADK for Kotlin" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -186,27 +208,18 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://andonlabs.com/blog/why-we-built-pion" target="_blank">Pion, an agent designed to run any company autonomously</a></span>
+                <span class="title"><a href="https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/" target="_blank">iOS 27, iPadOS 27, and macOS 27</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2026-09-14 17:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/09/conflux-linux-icon-set-406x232.webp" alt="Conflux icon set gives a modern look to Linux desktops" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/conflux-linux-icons" target="_blank">Conflux icon set gives a modern look to Linux desktops</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-09-14 15:29</span>
+                <span class="time">2026-09-14 17:50</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Firefox-156" target="_blank">Firefox 156 Available With Its Built-In PDF Viewer Starting Up To 45% Faster</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-14 15:09</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://andonlabs.com/blog/why-we-built-pion" target="_blank">Pion, an agent designed to run any company autonomously</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-14 17:16</span>
             </div>
         </div>
 </div>
@@ -237,6 +250,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/09/wow-forever-5-1-1280x720.jpg" alt="8 New Things We Just Learned About World Of Warcraft: Forever From Its Lead Designers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/new-things-learned-world-of-warcraft-forever-2000734005" target="_blank">8 New Things We Just Learned About World Of Warcraft: Forever From Its Lead Designers</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-15 00:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01M2GWVQNN7Y1XHXYH67S4NH8P/hero-image.jpg" alt="The Best Deals From Nintendo&#x27;s Customer Appreciation Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,20 +304,20 @@
                 <span class="time">2026-09-14 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M2FHGPC7XPSB2V0974ZMAGKX/hero-image.png" alt="This Premium 75-Inch Hisense Mini-LED TV Is 26% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/hisense-mini-led-u8qgtv-sale-september-2026?utm_medium=RSS" target="_blank">This Premium 75-Inch Hisense Mini-LED TV Is 26% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-09-14 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.questionablecontent.net/comics/5917.png" alt="No One Told You Life Was Gonna Be This Way" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5917" target="_blank">No One Told You Life Was Gonna Be This Way</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-09-15 00:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -337,8 +359,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 47 | 📡 Total Sources: 40 | 📸 With Images: 264 |
-        🔄 Last Updated: 22:58 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 51 | 📡 Total Sources: 40 | 📸 With Images: 265 |
+        🔄 Last Updated: 01:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
