@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-09-15 12:19:30 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2026-09-15 17:22:45 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 14 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 15 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, September 15, 2026 - 12:19 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Tuesday, September 15, 2026 - 17:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,12 +46,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/Politics/sign-main_1789465140089_hpMain_4x3t_384.jpg" alt="Judge blocks adding Trump tribute to Kennedy Center facade" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/kennedy-center-boards-meeting-exclusively-focus-closure-court/story?id=136454609" target="_blank">Judge blocks adding Trump tribute to Kennedy Center facade</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-15 17:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/15/israel-influence-campaign-against-qatar?traffic_source=rss" target="_blank">Israeli ‘influence campaign against Qatar’ launched after October 7 attack</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-15 16:50</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/9/15/athletes-share-what-women-in-sport-look-like-to-rebut-sydney-sweeney-ad?traffic_source=rss" target="_blank">Athletes share ‘what women in sport look like’ to rebut Sydney Sweeney ad</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-09-15 11:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/663f/live/010ff400-b0e8-11f1-ae0d-6f5ba3aa85ac.jpg" alt="Denmark says Russian warship fired flares at military helicopter" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss" target="_blank">Denmark says Russian warship fired flares at military helicopter</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-15 11:40</span>
             </div>
         </div>
 <div class="story">
@@ -65,39 +91,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fa5/live/91781d40-b0ea-11f1-a540-61c3f7fc4e6c.jpg" alt="State pension likely to top £13,000 a year as UK wage growth slows to 3.9%" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1789471418419_tdy_news_7a_jarrett_mail_voting_260915_S3_1920x1080-nspzry.jpg" alt="Supreme Court Blocks Trump’s Bid to Restrict Mail-in Ballot Rules" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss" target="_blank">State pension likely to top £13,000 a year as UK wage growth slows to 3.9%</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-15 11:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/9/15/bjp-effect-beef-is-vanishing-from-indian-bengal-forcing-diet-changes?traffic_source=rss" target="_blank">BJP effect: Beef is vanishing from India’s Bengal, forcing diet changes</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-15 06:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/sep/15/white-south-africans-denied-refugee-status-us" target="_blank">‘I believed the hype’: the white South Africans denied refugee status in the US</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-09-15 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5749/live/ee0b1740-b0a6-11f1-9c5d-0dd6cc52f198.png" alt="Trump says AI safety fears a &#x27;hoax&#x27; as he rejects calls for greater safeguards" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss" target="_blank">Trump says AI safety fears a &#x27;hoax&#x27; as he rejects calls for greater safeguards</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-15 03:47</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/supreme-court-blocks-trump-s-bid-to-restrict-mail-in-ballot-rules-269865541505" target="_blank">Supreme Court Blocks Trump’s Bid to Restrict Mail-in Ballot Rules</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-09-15 11:23</span>
             </div>
         </div>
 </div>
@@ -105,6 +104,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6aa967ea2d07a4d487b8f97e/master/pass/MetaGlasses_lead.jpg" alt="ZuckOff Is a Free App That Sees Meta Glasses Before They See You" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/zuckoff-app-sees-meta-glasses-before-they-see-you/" target="_blank">ZuckOff Is a Free App That Sees Meta Glasses Before They See You</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-15 17:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2017/10/GettyImages-859523302-500x500.jpg" alt="Trump EPA moves to wipe out climate rules for power plants" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/09/epa-seeks-to-eliminate-remaining-greenhouse-gas-rules-for-power-plants/" target="_blank">Trump EPA moves to wipe out climate rules for power plants</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-09-15 13:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6aa887b1bd1baa3b3b2e9879/master/pass/excerpt-template_Why%20the%20Postpandemic%20Tech%20Bust%20Sent%20Billionaires%20to%20Trump_Color.jpg" alt="Why the Postpandemic Tech Bust Sent Billionaires to Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,29 +158,56 @@
                 <span class="time">2026-09-15 00:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2154524764-500x500.jpg" alt="RFK Jr. headlines sold-out anti-vaccine conference alongside Andrew Wakefield" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/09/rfk-jr-headlines-sold-out-anti-vaccine-conference-alongside-andrew-wakefield/" target="_blank">RFK Jr. headlines sold-out anti-vaccine conference alongside Andrew Wakefield</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-09-14 22:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/" target="_blank">Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-09-14 21:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/09/microsoft-ai-security-patch/en/headerimage/microsoft-llm-contextual-privacy-1789488709548.jpeg" alt="AI-Assisted Discovery Helps Microsoft Patch More Than 1,000 Vulnerabilities in a Month" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/09/microsoft-ai-security-patch/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AI-Assisted Discovery Helps Microsoft Patch More Than 1,000 Vulnerabilities in a Month</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-09-15 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17462674/ubuntu-rustification-coreutils-migration" target="_blank">Ubuntu&#x27;s Rustification Has a New Milestone! Coreutils Migration is Complete</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-09-15 16:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!Eiw9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1e73721e-e4d8-473f-a5a1-b6211c14f6ca_2048x1762.png" alt="Inside OpenAI’s agentic software factory" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/openai-software-factory" target="_blank">Inside OpenAI’s agentic software factory</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-09-15 15:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/03/orion-beta-406x232.jpg" alt="Orion for Linux beta update lets you customise the toolbar" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/orion-browser-linux-043-update" target="_blank">Orion for Linux beta update lets you customise the toolbar</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-09-15 15:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/arnegiacomo/fugleramme" target="_blank">Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-15 12:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -173,56 +217,20 @@
                 <span class="time">2026-09-15 12:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/09/atlassian-automated-rca/en/headerimage/generatedHeaderImage-1789026479583.jpg" alt="Atlassian Automates Root Cause Analysis by Correlating Metrics, Logs and Traces" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/09/atlassian-automated-rca/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Atlassian Automates Root Cause Analysis by Correlating Metrics, Logs and Traces</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-09-15 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-Improv-Hibernation-2026" target="_blank">New Linux Patches Improving Hibernation Speed In 2026</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-15 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/evolution-of-the-risc-v-isa-what-next-after-rva23" target="_blank">Evolution of the RISC-V ISA. What next after RVA23?</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-09-15 08:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/09/15/ai-jd-and-other-letters-of-the-law/" target="_blank">AI, JD, and other letters of the law</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-09-15 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua" target="_blank">I can&#x27;t stop thinking about Papua New Guinea</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-15 06:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html" target="_blank">25 Years of Mass Surveillance Is Enough</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-09-15 11:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -237,6 +245,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/Gadaffi-Es-not-so-good.jpg?fit=447%2C377&amp;quality=60&amp;ssl=1" alt="Cops seize 100,000 ecstasy pills molded in the shape of Muammar Gaddafi" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/09/15/cops-seize-100000-ecstasy-pills-molded-in-the-shape-of-muammar-gaddafi.html" target="_blank">Cops seize 100,000 ecstasy pills molded in the shape of Muammar Gaddafi</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-09-15 15:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/09/wow-forever-5-1-1280x720.jpg" alt="8 New Things We Just Learned About World Of Warcraft: Forever From Its Lead Designers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,20 +299,20 @@
                 <span class="time">2026-09-14 19:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/shutterstock_2642185501-scaled.jpg?fit=2560%2C1920&amp;quality=60&amp;ssl=1" alt="LA&#x27;s legendary Jumbo&#x27;s Clown Room briefly closed over a &quot;vermin infestation&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/09/14/jumbos-clown-room-vermin-closure.html" target="_blank">LA&#x27;s legendary Jumbo&#x27;s Clown Room briefly closed over a &quot;vermin infestation&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-09-14 19:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1789334195-20260915.png" alt="Saturday Morning Breakfast Cereal - Gates" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/gates-3" target="_blank">Saturday Morning Breakfast Cereal - Gates</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-09-15 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.questionablecontent.net/comics/5917.png" alt="No One Told You Life Was Gonna Be This Way" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -314,22 +331,13 @@
                 <span class="time">2026-09-14 17:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1789334157-20260914.png" alt="Saturday Morning Breakfast Cereal - Balance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/balance" target="_blank">Saturday Morning Breakfast Cereal - Balance</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-09-14 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 57 | 📡 Total Sources: 40 | 📸 With Images: 262 |
-        🔄 Last Updated: 12:19 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 58 | 📡 Total Sources: 40 | 📸 With Images: 267 |
+        🔄 Last Updated: 17:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
