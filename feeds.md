@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-09-15 17:22:45 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-15 20:34:39 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 15 new posts out of 27 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 12 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Tuesday, September 15, 2026 - 17:22 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, September 15, 2026 - 20:35 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22a9/live/d6214980-b103-11f1-bc1f-3f186ca4140c.png" alt="Baby &#x27;cot cams&#x27; plan after inquiry finds Lucy Letby crimes could have been prevented" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cw1l6zn56e3zo?at_medium=RSS&at_campaign=rss" target="_blank">Baby &#x27;cot cams&#x27; plan after inquiry finds Lucy Letby crimes could have been prevented</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-15 19:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/15/nx-s1-5969741/state-of-u-s-democracy-reaches-new-low-report-finds" target="_blank">State of U.S. democracy reaches new low, report finds</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-15 18:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/sign-main_1789465140089_hpMain_4x3t_384.jpg" alt="Judge blocks adding Trump tribute to Kennedy Center facade" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,29 +101,29 @@
                 <span class="time">2026-09-15 11:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/15/g-s1-143294/up-first-newsletter-bernie-sanders-steve-bannon-ai-mail-in-ballots-kennedy-center-emmys" target="_blank">SCOTUS rejects Trump&#x27;s mail voting limits. And, the Kennedy Center financial crisis</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-15 11:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1789471418419_tdy_news_7a_jarrett_mail_voting_260915_S3_1920x1080-nspzry.jpg" alt="Supreme Court Blocks Trump’s Bid to Restrict Mail-in Ballot Rules" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/supreme-court-blocks-trump-s-bid-to-restrict-mail-in-ballot-rules-269865541505" target="_blank">Supreme Court Blocks Trump’s Bid to Restrict Mail-in Ballot Rules</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-09-15 11:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/" target="_blank">Meta now lets AI agents handle the boring parts of WhatsApp Business setup</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-09-15 20:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6aa82ac8fdb837b60d8caff1/master/pass/I-Tried-to-Gaslight-AI-Actor-Tilly-Norwood-Culture-Talking-Tilly-launch-1-September-2026.jpg" alt="AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/" target="_blank">AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-15 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6aa967ea2d07a4d487b8f97e/master/pass/MetaGlasses_lead.jpg" alt="ZuckOff Is a Free App That Sees Meta Glasses Before They See You" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,29 +160,29 @@
                 <span class="time">2026-09-15 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6aa2f7f49bfef15e7a640ba4/master/pass/GettyImages-2280067128.jpg" alt="The Supreme Court Just Blocked Trump’s Efforts to Control Mail-In Voting for the Midterms" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-supreme-court-just-blocked-trumps-efforts-to-control-mail-in-voting-for-the-midterms/" target="_blank">The Supreme Court Just Blocked Trump’s Efforts to Control Mail-In Voting for the Midterms</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-09-15 00:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when" target="_blank">Valve is still figuring out ‘how and when’ to do Steam Deck 2</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-09-15 00:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/codewithdivine/i-cloned-instagrams-full-ui-the-two-column-layout-built-with-css-grid-flexbox-f31" target="_blank">I Cloned Instagram&#x27;s full UI The Two Column Layout (Built With CSS Grid + Flexbox)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-15 20:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://typesafe.ai/blog/introducing-system-one-models-and-jev" target="_blank">Jev: New frontier model 40-400x cheaper and 20-200x faster</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-15 19:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/09/microsoft-ai-security-patch/en/headerimage/microsoft-llm-contextual-privacy-1789488709548.jpeg" alt="AI-Assisted Discovery Helps Microsoft Patch More Than 1,000 Vulnerabilities in a Month" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -199,24 +219,6 @@
                 <span class="time">2026-09-15 15:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/arnegiacomo/fugleramme" target="_blank">Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-15 12:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/debashish_ghosal/a-floor-of-080-and-a-ceiling-of-063-the-semantic-channel-that-never-fired-b13" target="_blank">A Floor of 0.80 and a Ceiling of 0.63: The Semantic Channel That Never Fired</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-15 12:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,20 +233,29 @@
                 <span class="time">2026-09-15 11:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/09/upcoming-speaking-engagements-60.html" target="_blank">Upcoming Speaking Engagements</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-09-14 19:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/07/xboxsstudiocleanupo-1280x720.jpg" alt="Xbox Responds To Rumors That Game Pass Is Losing New Day-One Games in 2027" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/xbox-responds-to-rumors-that-game-pass-is-losing-day-one-new-games-in-2027-2000734755" target="_blank">Xbox Responds To Rumors That Game Pass Is Losing New Day-One Games in 2027</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-15 20:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M2GDXKXPVJ5QRW5W5Z5VTJPH/hero-image.jpg" alt="10 Hacks Every macOS 27 User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-macos-27-golden-gate-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every macOS 27 User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-09-15 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/Gadaffi-Es-not-so-good.jpg?fit=447%2C377&amp;quality=60&amp;ssl=1" alt="Cops seize 100,000 ecstasy pills molded in the shape of Muammar Gaddafi" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,24 +292,6 @@
                 <span class="time">2026-09-14 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/09/sora.jpeg" alt="Sora In Fortnite Wants To Know If You’ve Got Games On Your Phone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/sora-kingdom-hearts-fortnite-skin-announcement-trailer-2000734340" target="_blank">Sora In Fortnite Wants To Know If You’ve Got Games On Your Phone</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-09-14 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M28F1GQFY6D1D5T4GXKN386H/hero-image.png" alt="The Best Kitchen Appliance Gifts for Every Adult on Your List" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/home/kitchen-appliance-gift-guide?utm_medium=RSS" target="_blank">The Best Kitchen Appliance Gifts for Every Adult on Your List</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-09-14 19:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,22 +315,13 @@
                 <span class="time">2026-09-15 00:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/09/14/round-back" target="_blank">&#x27;Round Back</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-09-14 17:38</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 58 | 📡 Total Sources: 40 | 📸 With Images: 267 |
-        🔄 Last Updated: 17:22 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 54 | 📡 Total Sources: 40 | 📸 With Images: 264 |
+        🔄 Last Updated: 20:35 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
