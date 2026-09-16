@@ -1,34 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-09-16 13:11:04 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-16 17:48:38 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 25 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 11 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, September 16, 2026 - 13:11 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, September 16, 2026 - 17:48 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,12 +40,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-09/260916-mike-johnson-mn-1210-5b9828.jpg" alt="House to leave early, punting Hegseth impeachment vote until after November elections" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/congress/house-leave-early-punting-hegseth-impeachment-vote-november-elections-rcna598147" target="_blank">House to leave early, punting Hegseth impeachment vote until after November elections</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-09-16 15:58</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/9/16/what-is-brics-pay-and-can-it-rival-the-wests-swift-payments-system?traffic_source=rss" target="_blank">What is BRICS Pay, and can it rival the West’s SWIFT payments system?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-09-16 12:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4305/live/f4857df0-b1cc-11f1-b1d1-571ed4d7ff2c.jpg" alt="EU chief backs plan for Canada to become &#x27;associate member&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss" target="_blank">EU chief backs plan for Canada to become &#x27;associate member&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-16 12:36</span>
             </div>
         </div>
 <div class="story">
@@ -80,29 +93,38 @@
                 <span class="time">2026-09-16 06:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/16/us-charges-five-people-over-alleged-russian-assassination-plots?traffic_source=rss" target="_blank">US charges five people over alleged Russian plots</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-16 06:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/15/republican-congressman-calls-to-impeach-us-defence-secretary-pete-hegseth?traffic_source=rss" target="_blank">Republican congressman calls to impeach US Defence Secretary Pete Hegseth</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-15 22:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/996321/apple-servers-ai-nvidia" target="_blank">Apple might make servers again to cash in on the AI rush</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-09-16 17:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/David-Streever-via-FIRE-500x500.jpeg" alt="It’s OK to tell ICE their actions will haunt them, judge rules in speech fight" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/09/its-ok-to-tell-ice-their-actions-will-haunt-them-judge-rules-in-speech-fight/" target="_blank">It’s OK to tell ICE their actions will haunt them, judge rules in speech fight</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-09-16 17:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6aaac3f9abaa64afbb2e9683/master/pass/091626-Chipole%20Palantir.jpg" alt="Chipotle Is Working With Palantir to Track Food Safety Risks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/chipotle-is-working-with-palantir-on-food-safety/" target="_blank">Chipotle Is Working With Palantir to Track Food Safety Risks</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-16 16:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6aa9f7c07a4288876ba476ed/master/pass/DSC_9668.jpg" alt="Apple iPhone 18 Pro and iPhone 18 Pro Max Review: For Camera Fiends" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -130,38 +152,20 @@
                 <span class="time">2026-09-16 04:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/" target="_blank">We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-09-16 00:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/KSC-20260821-PH-SPX01_0007large-500x500.jpg" alt="The Roman telescope has enough gas for 22 years, double NASA&#x27;s expectations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/09/the-roman-telescope-has-enough-gas-for-22-years-double-nasas-expectations/" target="_blank">The Roman telescope has enough gas for 22 years, double NASA&#x27;s expectations</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-09-15 22:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/" target="_blank">Meta now lets AI agents handle the boring parts of WhatsApp Business setup</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-09-15 20:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://will-keleher.com/posts/small-programming-tricks-matter/" target="_blank">Small Programming Tricks</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-16 15:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +211,6 @@
                 <span class="time">2026-09-16 00:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/codewithdivine/i-cloned-instagrams-full-ui-the-two-column-layout-built-with-css-grid-flexbox-f31" target="_blank">I Cloned Instagram&#x27;s full UI The Two Column Layout (Built With CSS Grid + Flexbox)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-15 20:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +230,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/05/musk-doge.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="DOGE spent $6.7 billion paying federal workers not to work" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/09/16/doge-paid-leave-6-7-billion.html" target="_blank">DOGE spent $6.7 billion paying federal workers not to work</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-09-16 17:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M2NGHDBMSQAWGCCY056XS6FF/hero-image.jpg" alt="If You Loved &#x27;The Shards,&#x27; There&#x27;s One Movie You Need to Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/best-movie-for-fans-of-the-shards?utm_medium=RSS" target="_blank">If You Loved &#x27;The Shards,&#x27; There&#x27;s One Movie You Need to Watch Next</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-09-16 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KQYD8DVAC4XBMMPHXT0ABRET/hero-image.jpg" alt="Samsung&#x27;s Latest Flagship Soundbar Is Nearly $950 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,24 +284,6 @@
                 <span class="time">2026-09-15 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/07/xboxsstudiocleanupo-1280x720.jpg" alt="Xbox Responds To Rumors That Game Pass Is Losing New Day-One Games in 2027" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/xbox-responds-to-rumors-that-game-pass-is-losing-day-one-new-games-in-2027-2000734755" target="_blank">Xbox Responds To Rumors That Game Pass Is Losing New Day-One Games in 2027</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-09-15 20:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M2GDXKXPVJ5QRW5W5Z5VTJPH/hero-image.jpg" alt="10 Hacks Every macOS 27 User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-macos-27-golden-gate-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every macOS 27 User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-09-15 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -298,18 +293,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/09/16/a-blue-line-to-a-cuck-chair" target="_blank">A Blue Line To A Cuck Chair</a></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/09/16/wloveine" target="_blank">WLoVeInE</a></span>
                 <span class="feed">Penny Arcade</span>
-                <span class="time">2026-09-16 07:01</span>
+                <span class="time">2026-09-16 16:18</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://www.smbc-comics.com/comics/1789334195-20260915.png" alt="Saturday Morning Breakfast Cereal - Gates" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1789505301-20260916.png" alt="Saturday Morning Breakfast Cereal - Lake" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/gates-3" target="_blank">Saturday Morning Breakfast Cereal - Gates</a></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/lake" target="_blank">Saturday Morning Breakfast Cereal - Lake</a></span>
                 <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-09-15 15:20</span>
+                <span class="time">2026-09-16 15:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/09/16/a-blue-line-to-a-cuck-chair" target="_blank">A Blue Line To A Cuck Chair</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-09-16 07:01</span>
             </div>
         </div>
 </div>
@@ -317,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 43 | 📡 Total Sources: 40 | 📸 With Images: 262 |
-        🔄 Last Updated: 13:11 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 42 | 📡 Total Sources: 40 | 📸 With Images: 262 |
+        🔄 Last Updated: 17:48 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
