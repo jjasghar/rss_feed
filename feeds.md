@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-09-15 23:16:07 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-16 02:08:06 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, September 15, 2026 - 23:16 UTC</div>
+    <div class="newspaper-date">Wednesday, September 16, 2026 - 02:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -106,6 +105,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/" target="_blank">We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-09-16 00:20</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/KSC-20260821-PH-SPX01_0007large-500x500.jpg" alt="The Roman telescope has enough gas for 22 years, double NASA&#x27;s expectations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -150,20 +158,20 @@
                 <span class="time">2026-09-15 13:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6aa887b1bd1baa3b3b2e9879/master/pass/excerpt-template_Why%20the%20Postpandemic%20Tech%20Bust%20Sent%20Billionaires%20to%20Trump_Color.jpg" alt="Why the Postpandemic Tech Bust Sent Billionaires to Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/against-tech-oligarchy-book-excerpt-trump-billionaries/" target="_blank">Why the Postpandemic Tech Bust Sent Billionaires to Trump</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-09-15 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.4-Land-AVX-512-xor-gen" target="_blank">Linux 7.4 Slated To Land The AVX-512 Optimized xor_gen For A Big Performance Win</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-16 00:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +217,6 @@
                 <span class="time">2026-09-15 16:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!Eiw9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1e73721e-e4d8-473f-a5a1-b6211c14f6ca_2048x1762.png" alt="Inside OpenAI’s agentic software factory" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/openai-software-factory" target="_blank">Inside OpenAI’s agentic software factory</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-09-15 15:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/09/Diablo-V-Teaser-0-17-screenshot-1-1280x720.jpg" alt="Diablo 5 Devs Address The Release Date Skepticism: ‘The Team All Agreed That It Was A Great Time To Tell The World’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/diablo-5-developers-release-date-skepticism-2000734728" target="_blank">Diablo 5 Devs Address The Release Date Skepticism: ‘The Team All Agreed That It Was A Great Time To Tell The World’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-15 21:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01M2K9G5QTGH7QQMWQP2DJE57J/hero-image.jpg" alt="Why People Are Taping Fitbits to Their Arms" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +290,6 @@
                 <span class="time">2026-09-15 15:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/09/wow-forever-5-1-1280x720.jpg" alt="8 New Things We Just Learned About World Of Warcraft: Forever From Its Lead Designers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/new-things-learned-world-of-warcraft-forever-2000734005" target="_blank">8 New Things We Just Learned About World Of Warcraft: Forever From Its Lead Designers</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-09-15 00:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -305,22 +304,13 @@
                 <span class="time">2026-09-15 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5917.png" alt="No One Told You Life Was Gonna Be This Way" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5917" target="_blank">No One Told You Life Was Gonna Be This Way</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-09-15 00:10</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 55 | 📡 Total Sources: 40 | 📸 With Images: 264 |
-        🔄 Last Updated: 23:16 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 47 | 📡 Total Sources: 40 | 📸 With Images: 264 |
+        🔄 Last Updated: 02:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
