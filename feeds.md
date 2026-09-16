@@ -1,20 +1,25 @@
-<!-- Processing 54 RSS feeds at 2026-09-16 02:08:06 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-09-16 07:59:35 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
@@ -22,14 +27,14 @@
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 8 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, September 16, 2026 - 02:08 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Wednesday, September 16, 2026 - 07:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +50,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/sep/16/discovery-women-bodies-anger-femicide-south-africa" target="_blank">‘We are prey’: discovery of seven women’s bodies fuels anger over femicide in South Africa</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-09-16 07:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cc2/live/2332d760-b15f-11f1-a430-4d16ee157c41.jpg" alt="OpenAI boss says world &#x27;right to be afraid&#x27; but should trust AI firms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss" target="_blank">OpenAI boss says world &#x27;right to be afraid&#x27; but should trust AI firms</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-16 06:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/16/us-charges-five-people-over-alleged-russian-assassination-plots?traffic_source=rss" target="_blank">US charges five people over alleged Russian plots</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-16 06:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,38 +104,20 @@
                 <span class="time">2026-09-15 19:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/15/nx-s1-5969741/state-of-u-s-democracy-reaches-new-low-report-finds" target="_blank">State of U.S. democracy reaches new low, report finds</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-15 18:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/sign-main_1789465140089_hpMain_4x3t_384.jpg" alt="Judge blocks adding Trump tribute to Kennedy Center facade" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/kennedy-center-boards-meeting-exclusively-focus-closure-court/story?id=136454609" target="_blank">Judge blocks adding Trump tribute to Kennedy Center facade</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-09-15 17:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/15/israel-influence-campaign-against-qatar?traffic_source=rss" target="_blank">Israeli ‘influence campaign against Qatar’ launched after October 7 attack</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-15 16:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/chimps1-500x500-1789408227.jpg" alt="How chimps teach their kids tool tricks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks/" target="_blank">How chimps teach their kids tool tricks</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-09-16 04:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +163,29 @@
                 <span class="time">2026-09-15 17:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2017/10/GettyImages-859523302-500x500.jpg" alt="Trump EPA moves to wipe out climate rules for power plants" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/09/epa-seeks-to-eliminate-remaining-greenhouse-gas-rules-for-power-plants/" target="_blank">Trump EPA moves to wipe out climate rules for power plants</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-09-15 13:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dswwfg/i-turned-github-profiles-into-roastable-rpg-characters-4lm5" target="_blank">I turned GitHub profiles into roastable RPG characters</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-16 07:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/09/dropbox-datacenter/en/headerimage/generatedHeaderImage-1789513176018.jpg" alt="Dropbox Outlines How Focusing on Existing Infrastructure Efficiency Can Create Headroom for AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/09/dropbox-datacenter/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Dropbox Outlines How Focusing on Existing Infrastructure Efficiency Can Create Headroom for AI</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-09-16 07:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -185,7 +208,7 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://typesafe.ai/blog/introducing-system-one-models-and-jev" target="_blank">Jev: New frontier model 40-400x cheaper and 20-200x faster</a></span>
+                <span class="title"><a href="https://typesafe.ai/blog/introducing-system-one-models-and-jev" target="_blank">Introducing System One Models and Jev</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-09-15 19:25</span>
             </div>
@@ -193,28 +216,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://github.com/Aiaid/pyMalbolge" target="_blank">pyMalbolge: Malbolge interpreter in python</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-09-15 17:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/09/microsoft-ai-security-patch/en/headerimage/microsoft-llm-contextual-privacy-1789488709548.jpeg" alt="AI-Assisted Discovery Helps Microsoft Patch More Than 1,000 Vulnerabilities in a Month" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/09/microsoft-ai-security-patch/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AI-Assisted Discovery Helps Microsoft Patch More Than 1,000 Vulnerabilities in a Month</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-09-15 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17462674/ubuntu-rustification-coreutils-migration" target="_blank">Ubuntu&#x27;s Rustification Has a New Milestone! Coreutils Migration is Complete</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-09-15 16:21</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://typesafe.ai/blog/introducing-system-one-models-and-jev" target="_blank">Jev: New frontier model 40-400x cheaper and 20-200x faster</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-15 19:25</span>
             </div>
         </div>
 </div>
@@ -296,6 +301,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/09/16/a-blue-line-to-a-cuck-chair" target="_blank">A Blue Line To A Cuck Chair</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-09-16 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1789334195-20260915.png" alt="Saturday Morning Breakfast Cereal - Gates" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -309,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 47 | 📡 Total Sources: 40 | 📸 With Images: 264 |
-        🔄 Last Updated: 02:08 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 49 | 📡 Total Sources: 40 | 📸 With Images: 265 |
+        🔄 Last Updated: 07:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
