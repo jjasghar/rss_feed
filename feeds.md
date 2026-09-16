@@ -1,29 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-09-16 17:48:38 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-16 20:34:08 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 11 new posts out of 21 feeds processed -->
+<!-- Generated 11 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, September 16, 2026 - 17:48 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Wednesday, September 16, 2026 - 20:34 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4d0/live/8a926280-b1f1-11f1-a430-4d16ee157c41.jpg" alt="Body found in search for missing Noah Woods, 3" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cm93v1573vqro?at_medium=RSS&at_campaign=rss" target="_blank">Body found in search for missing Noah Woods, 3</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-16 18:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-09/260916-Kevin-Warsh-ch-1527-c36867.jpg" alt="Fed raises interest rates for first time since 2023, defying Trump as inflation mounts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/business/economy/fed-raises-rates-defying-trump-rcna598148" target="_blank">Fed raises interest rates for first time since 2023, defying Trump as inflation mounts</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-09-16 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-09/260916-mike-johnson-mn-1210-5b9828.jpg" alt="House to leave early, punting Hegseth impeachment vote until after November elections" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -73,24 +94,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/09/16/g-s1-143569/up-first-newsletter-fed-reserve-interest-rates-iran-war-kennedy-center-contraception" target="_blank">Fed expected to raise interest rates. And, board votes to close Kennedy Center</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-09-16 11:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/sep/16/discovery-women-bodies-anger-femicide-south-africa" target="_blank">‘We are prey’: discovery of seven women’s bodies fuels anger over femicide in South Africa</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-09-16 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cc2/live/2332d760-b15f-11f1-a430-4d16ee157c41.jpg" alt="OpenAI boss says world &#x27;right to be afraid&#x27; but should trust AI firms" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss" target="_blank">OpenAI boss says world &#x27;right to be afraid&#x27; but should trust AI firms</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-16 06:57</span>
             </div>
         </div>
 </div>
@@ -161,6 +164,33 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://rohanbansal.com/qorl" target="_blank">Training a 4B model to produce 81% faster query plans than Postgres</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-16 18:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/09/microsoft-taugrid-open-source/en/headerimage/microsoft-phi-4-1789581142435.jpeg" alt="Microsoft Open-Sources TauGrid to Simplify AI Workload Management on Kubernetes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/09/microsoft-taugrid-open-source/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Microsoft Open-Sources TauGrid to Simplify AI Workload Management on Kubernetes</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-09-16 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/ubuntu-2610-amd64v3-lowend" target="_blank">Ubuntu 26.10 amd64v3 Can Provide A Nice Boost For Low-End/Budget Hardware</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-16 17:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://will-keleher.com/posts/small-programming-tricks-matter/" target="_blank">Small Programming Tricks</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-09-16 15:56</span>
@@ -184,33 +214,6 @@
                 <span class="time">2026-09-16 07:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/09/dropbox-datacenter/en/headerimage/generatedHeaderImage-1789513176018.jpg" alt="Dropbox Outlines How Focusing on Existing Infrastructure Efficiency Can Create Headroom for AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/09/dropbox-datacenter/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Dropbox Outlines How Focusing on Existing Infrastructure Efficiency Can Create Headroom for AI</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-09-16 07:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.4-Land-AVX-512-xor-gen" target="_blank">Linux 7.4 Slated To Land The AVX-512 Optimized xor_gen For A Big Performance Win</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-16 00:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/sovereign-ai-and-data-services-with-duality-and-red-hat" target="_blank">Sovereign AI and data services with Duality and Red Hat</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2026-09-16 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -230,6 +233,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/09/hyper-light.jpg" alt="‘Nearly Everyone’ Laid Off As Hyper Light Drifter Studio Risks Closing: ‘I’m Not Sure Yet How Or If Heart Machine Survives’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/nearly-everyone-laid-as-hyper-light-drifter-studio-risks-closure-im-not-sure-yet-how-or-if-heart-machine-survives-2000735172" target="_blank">‘Nearly Everyone’ Laid Off As Hyper Light Drifter Studio Risks Closing: ‘I’m Not Sure Yet How Or If Heart Machine Survives’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-16 19:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/96dca848-1176-4633-a65c-ebf635dae819.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Trump wants Space Force to look like Starship Troopers. Paul Verhoeven would like him to know more" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/09/16/trump-starship-troopers-space-force-uniforms.html" target="_blank">Trump wants Space Force to look like Starship Troopers. Paul Verhoeven would like him to know more</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-09-16 18:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/05/musk-doge.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="DOGE spent $6.7 billion paying federal workers not to work" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,24 +287,6 @@
                 <span class="time">2026-09-15 21:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M2K9G5QTGH7QQMWQP2DJE57J/hero-image.jpg" alt="Why People Are Taping Fitbits to Their Arms" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/why-people-are-taping-fitbits-to-their-arms?utm_medium=RSS" target="_blank">Why People Are Taping Fitbits to Their Arms</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-09-15 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/Microsoft-Office-Professional-2021-for-Windows-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Nobody loves Microsoft Office, but everyone still needs — $33 till Sept. 27" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/09/15/nobody-loves-microsoft-office-but-everyone-still-needs-33-till-sept-27.html" target="_blank">Nobody loves Microsoft Office, but everyone still needs — $33 till Sept. 27</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-09-15 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,13 +319,22 @@
                 <span class="time">2026-09-16 07:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://www.questionablecontent.net/comics/5918.png" alt="Occam&#x27;s Safety Razor" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5918" target="_blank">Occam&#x27;s Safety Razor</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-09-16 00:45</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 42 | 📡 Total Sources: 40 | 📸 With Images: 262 |
-        🔄 Last Updated: 17:48 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 42 | 📡 Total Sources: 40 | 📸 With Images: 261 |
+        🔄 Last Updated: 20:34 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
