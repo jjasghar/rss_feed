@@ -1,40 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-09-16 07:59:35 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-09-16 13:11:04 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 8 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, September 16, 2026 - 07:59 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Wednesday, September 16, 2026 - 13:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/16/what-is-brics-pay-and-can-it-rival-the-wests-swift-payments-system?traffic_source=rss" target="_blank">What is BRICS Pay, and can it rival the West’s SWIFT payments system?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-16 12:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/16/g-s1-143569/up-first-newsletter-fed-reserve-interest-rates-iran-war-kennedy-center-contraception" target="_blank">Fed expected to raise interest rates. And, board votes to close Kennedy Center</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-16 11:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,29 +98,29 @@
                 <span class="time">2026-09-15 22:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16f8/live/3cfae5c0-b128-11f1-b1d1-571ed4d7ff2c.jpg" alt="All support acts on Ed Sheeran&#x27;s US tour quit after Macklemore dropped" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss" target="_blank">All support acts on Ed Sheeran&#x27;s US tour quit after Macklemore dropped</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-15 21:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22a9/live/d6214980-b103-11f1-bc1f-3f186ca4140c.png" alt="Baby &#x27;cot cams&#x27; plan after inquiry finds Lucy Letby crimes could have been prevented" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cw1l6zn56e3zo?at_medium=RSS&at_campaign=rss" target="_blank">Baby &#x27;cot cams&#x27; plan after inquiry finds Lucy Letby crimes could have been prevented</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-15 19:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6aa9f7c07a4288876ba476ed/master/pass/DSC_9668.jpg" alt="Apple iPhone 18 Pro and iPhone 18 Pro Max Review: For Camera Fiends" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/apple-iphone-18-pro-and-iphone-18-pro-max/" target="_blank">Apple iPhone 18 Pro and iPhone 18 Pro Max Review: For Camera Fiends</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-16 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation" target="_blank">A brief history of AI executives calling for regulation</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-09-16 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/chimps1-500x500-1789408227.jpg" alt="How chimps teach their kids tool tricks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,29 +157,20 @@
                 <span class="time">2026-09-15 20:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6aa82ac8fdb837b60d8caff1/master/pass/I-Tried-to-Gaslight-AI-Actor-Tilly-Norwood-Culture-Talking-Tilly-launch-1-September-2026.jpg" alt="AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/" target="_blank">AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-09-15 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6aa967ea2d07a4d487b8f97e/master/pass/MetaGlasses_lead.jpg" alt="ZuckOff Is a Free App That Sees Meta Glasses Before They See You" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/zuckoff-app-sees-meta-glasses-before-they-see-you/" target="_blank">ZuckOff Is a Free App That Sees Meta Glasses Before They See You</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-09-15 17:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://gultsch.social/@daniel/117280438824908947" target="_blank">The Google Play app review process now regularly takes longer than a week</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-16 11:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,28 +201,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/sovereign-ai-and-data-services-with-duality-and-red-hat" target="_blank">Sovereign AI and data services with Duality and Red Hat</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2026-09-16 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/codewithdivine/i-cloned-instagrams-full-ui-the-two-column-layout-built-with-css-grid-flexbox-f31" target="_blank">I Cloned Instagram&#x27;s full UI The Two Column Layout (Built With CSS Grid + Flexbox)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-09-15 20:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://typesafe.ai/blog/introducing-system-one-models-and-jev" target="_blank">Introducing System One Models and Jev</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-15 19:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://typesafe.ai/blog/introducing-system-one-models-and-jev" target="_blank">Jev: New frontier model 40-400x cheaper and 20-200x faster</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-15 19:25</span>
             </div>
         </div>
 </div>
@@ -231,9 +225,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html" target="_blank">25 Years of Mass Surveillance Is Enough</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/09/fake-captcha-scams.html" target="_blank">Fake CAPTCHA Scams</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2026-09-15 11:01</span>
+                <span class="time">2026-09-16 11:25</span>
             </div>
         </div>
 </div>
@@ -241,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KQYD8DVAC4XBMMPHXT0ABRET/hero-image.jpg" alt="Samsung&#x27;s Latest Flagship Soundbar Is Nearly $950 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-q990h-soundbar-sale-september-2026?utm_medium=RSS" target="_blank">Samsung&#x27;s Latest Flagship Soundbar Is Nearly $950 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-09-16 12:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/09/Diablo-V-Teaser-0-17-screenshot-1-1280x720.jpg" alt="Diablo 5 Devs Address The Release Date Skepticism: ‘The Team All Agreed That It Was A Great Time To Tell The World’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +289,6 @@
                 <span class="time">2026-09-15 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/Gadaffi-Es-not-so-good.jpg?fit=447%2C377&amp;quality=60&amp;ssl=1" alt="Cops seize 100,000 ecstasy pills molded in the shape of Muammar Gaddafi" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/09/15/cops-seize-100000-ecstasy-pills-molded-in-the-shape-of-muammar-gaddafi.html" target="_blank">Cops seize 100,000 ecstasy pills molded in the shape of Muammar Gaddafi</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-09-15 15:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 49 | 📡 Total Sources: 40 | 📸 With Images: 265 |
-        🔄 Last Updated: 07:59 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 43 | 📡 Total Sources: 40 | 📸 With Images: 262 |
+        🔄 Last Updated: 13:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
