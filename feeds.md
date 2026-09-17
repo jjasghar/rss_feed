@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-09-17 17:48:52 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-17 20:41:15 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 14 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 13 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Thursday, September 17, 2026 - 17:48 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Thursday, September 17, 2026 - 20:41 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,10 +48,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/17/nx-s1-5973127/ice-agent-court-extradition-minnesota-immigrant-shooting" target="_blank">ICE agent appears in Minnesota court to face charges in the shooting of a Venezuelan immigrant</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-17 20:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/arch-3-ht-gmh-260917._1789660954566_hpMain_4x3t_384.jpg" alt="Trump&#x27;s proposed arch has &#x27;adverse effects,&#x27; administration acknowledges" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trumps-controversial-triumphal-arch-adverse-effects-landscape-administration/story?id=136528237" target="_blank">Trump&#x27;s proposed arch has &#x27;adverse effects,&#x27; administration acknowledges</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-17 18:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/9/17/un-fact-finding-mission-says-us-committed-possible-war-crimes-in-iran?traffic_source=rss" target="_blank">UN fact-finding mission says US committed possible war crimes in Iran</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-09-17 17:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-09/260908-marco-rubio-ch-1243-b613aa.jpg" alt="Rubio takes behind-the-scenes role on Iran war, while keeping his options open for the future" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/marco-rubio-role-iran-war-keeping-options-open-future-rcna596618" target="_blank">Rubio takes behind-the-scenes role on Iran war, while keeping his options open for the future</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-09-17 16:47</span>
             </div>
         </div>
 <div class="story">
@@ -72,38 +99,29 @@
                 <span class="time">2026-09-17 15:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/17/india-pakistan-navy-ship-collision-sparks-alarm-over-unintended-escalation?traffic_source=rss" target="_blank">India-Pakistan navy ship collision sparks alarm over unintended escalation</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-17 13:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Carney-EU-DB-260917_1789640666215_hpMain_4x3t_384.jpg" alt="Canada and Europe &#x27;stronger together,&#x27; Carney says amid spat with US" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/canada-europe-stronger-carney-amid-spat-us/story?id=136520332" target="_blank">Canada and Europe &#x27;stronger together,&#x27; Carney says amid spat with US</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-09-17 11:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/tdy_sam_260917-s21l13.jpg" alt="OpenAI Discloses 6 New Incidents of ‘Concerning’ AI Behavior" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/openai-reveals-6-new-incidents-of-ai-models-going-rogue-270019653588" target="_blank">OpenAI Discloses 6 New Incidents of ‘Concerning’ AI Behavior</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-09-17 11:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/Google-CC-500x500.png" alt="Google announces new experimental &quot;CC&quot; AI agent for families" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/" target="_blank">Google announces new experimental &quot;CC&quot; AI agent for families</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-09-17 20:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic" target="_blank">The AI Superintelligence Slowdown</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-09-17 19:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,29 +158,29 @@
                 <span class="time">2026-09-17 05:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6aab23852d174664403341f6/master/pass/Dyson-Just-Dropped-New-Lidar-Powered-Robot-Vacuums.-Here%E2%80%99s-a-Look-at-Each-Model.jpg" alt="Meet Dyson&#x27;s New Robot Vacuum Line: The Dyson Nurovi Line (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/dyson-robot-vacuum-nurovi-line/" target="_blank">Meet Dyson&#x27;s New Robot Vacuum Line: The Dyson Nurovi Line (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-09-16 23:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac" target="_blank">Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-09-16 23:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pbxqdown/was-bash-the-wrong-language-for-my-agent-4i6l" target="_blank">Was bash the wrong language for my agent?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-17 20:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/extending-ubuntu-pro-16-04-coverage" target="_blank">Beyond the 10-year mark: Extending Ubuntu Pro 16.04 LTS security coverage</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-09-17 19:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -182,39 +200,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/asciimoo/hister" target="_blank">Hister: A private search engine for the pages you visit and the files you keep</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-17 16:25</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj1zvgs9qltein5jv2gzt.png" alt="When You Know Something&#x27;s Wrong But Can&#x27;t Say Why Yet - Jesse Pinkman Energy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/tejas_shinkar/when-you-know-somethings-wrong-but-cant-say-why-yet-jesse-pinkman-energy-1966" target="_blank">When You Know Something&#x27;s Wrong But Can&#x27;t Say Why Yet - Jesse Pinkman Energy</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-09-17 13:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17464532/foss-weekly-26-38" target="_blank">FOSS Weekly #26.38: GNOME 51 Release, LibreOffice Image Trick, VMWare Drama, Fingerprint Reader for Linux and More</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-09-17 13:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/android-development-shouldnt-start-with-a-physical-device" target="_blank">Android™ development shouldn’t start with a physical device</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-09-17 12:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/ai-skills-with-matt-pocock" target="_blank">AI Skills with Matt Pocock</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-09-17 11:29</span>
             </div>
         </div>
 </div>
@@ -231,20 +231,29 @@
                 <span class="time">2026-09-17 11:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/" target="_blank">Data Broker Radaris Loses Domains in Privacy Fight</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2026-09-16 18:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/09/needle-in-a-haystack-1280x720.jpg" alt="The Proliferation Of Copycats On Steam Makes Discovering Original Games Like Finding A Needle In A Haystack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-proliferation-of-copycats-on-steam-makes-discovering-original-games-like-finding-a-needle-in-a-haystack-2000734794" target="_blank">The Proliferation Of Copycats On Steam Makes Discovering Original Games Like Finding A Needle In A Haystack</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-17 20:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M2QVX3FHZ3WD5DP3HDXZ51K9/hero-image.png" alt="15 Useful Tech Devices You Can Buy for Under $50" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-tech-devices-under-50-dollars?utm_medium=RSS" target="_blank">15 Useful Tech Devices You Can Buy for Under $50</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-09-17 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/Odyssey-AI2-800x450-1.webp?fit=800%2C450&amp;quality=55&amp;ssl=1" alt="Elon&#x27;s &quot;historically accurate&quot; Grok-generated Odyssey has trouble counting Cyclops eyes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,24 +290,6 @@
                 <span class="time">2026-09-17 12:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/09/re-movie-1280x720.jpg" alt="Early Reviews Hail Zach Cregger’s Resident Evil As A Clever Homage That Doesn’t Get Bogged Down By The Details: ‘This Is How Movies And Video Games Can Merge In A Way That Makes Them Stronger’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/early-reviews-hail-zach-creggers-resident-evil-as-a-clever-homage-that-doesnt-get-bogged-down-by-the-details-this-is-how-movies-and-video-games-can-merge-in-a-way-that-makes-them-stronger-2000735209" target="_blank">Early Reviews Hail Zach Cregger’s Resident Evil As A Clever Homage That Doesn’t Get Bogged Down By The Details: ‘This Is How Movies And Video Games Can Merge In A Way That Makes Them Stronger’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-09-16 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M2GB5TMB83N9XVX6JBPFEE2M/hero-image.jpg" alt="10 Hacks Every Audible User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-audible-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Audible User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-09-16 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,22 +313,13 @@
                 <span class="time">2026-09-17 00:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/09/16/a-blue-line-to-a-cuck-chair" target="_blank">A Blue Line To A Cuck Chair</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-09-16 19:37</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 54 | 📡 Total Sources: 40 | 📸 With Images: 264 |
-        🔄 Last Updated: 17:48 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 57 | 📡 Total Sources: 40 | 📸 With Images: 264 |
+        🔄 Last Updated: 20:41 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
