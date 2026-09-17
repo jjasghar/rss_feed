@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-09-16 23:20:59 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-17 02:11:50 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 25 feeds processed -->
+<!-- Generated 14 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, September 16, 2026 - 23:21 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, September 17, 2026 - 02:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4317/live/97f51f30-b214-11f1-95f2-19e1a2e8eef2.jpg" alt="US interest rates raised for first time in three years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss" target="_blank">US interest rates raised for first time in three years</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-17 00:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2024/05/30/nx-s1-4854224/death-heat-arizona-climate-change-medical-examiner" target="_blank">Here&#x27;s why an Arizona medical examiner is working to track heat-related deaths</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-16 23:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260616-data-center-california-mn-1522-371f98.jpg" alt="House passes bill to shield consumers from data center price hikes on energy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -63,6 +86,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3f8/live/92718a00-b1fe-11f1-bc1f-3f186ca4140c.jpg" alt="&#x27;Grief can colour memory&#x27;: Palace responds after Earl Spencer&#x27;s claim in Diana book" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c8e3rk47r4ego?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Grief can colour memory&#x27;: Palace responds after Earl Spencer&#x27;s claim in Diana book</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-16 20:46</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4d0/live/8a926280-b1f1-11f1-a430-4d16ee157c41.jpg" alt="Body found in search for missing Noah Woods, 3" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -71,38 +103,29 @@
                 <span class="time">2026-09-16 18:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-09/260916-Kevin-Warsh-ch-1527-c36867.jpg" alt="Fed raises interest rates for first time since 2023, defying Trump as inflation mounts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/business/economy/fed-raises-rates-defying-trump-rcna598148" target="_blank">Fed raises interest rates for first time since 2023, defying Trump as inflation mounts</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-09-16 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-09/260916-mike-johnson-mn-1210-5b9828.jpg" alt="House to leave early, punting Hegseth impeachment vote until after November elections" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/congress/house-leave-early-punting-hegseth-impeachment-vote-november-elections-rcna598147" target="_blank">House to leave early, punting Hegseth impeachment vote until after November elections</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-09-16 15:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/09/1920x1080/skynews-paul-wilks-major_7353888.jpg?20260916185848" alt="UK soldier who died in Ukraine was &#x27;one of most talented intelligence officers of his generation&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/british-soldier-who-died-in-road-crash-in-ukraine-has-been-named-13585867" target="_blank">UK soldier who died in Ukraine was &#x27;one of most talented intelligence officers of his generation&#x27;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-09-16 13:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6aab23852d174664403341f6/master/pass/Dyson-Just-Dropped-New-Lidar-Powered-Robot-Vacuums.-Here%E2%80%99s-a-Look-at-Each-Model.jpg" alt="Meet Dyson&#x27;s New Robot Vacuum Line: The Dyson Nurovi Line (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/dyson-robot-vacuum-nurovi-line/" target="_blank">Meet Dyson&#x27;s New Robot Vacuum Line: The Dyson Nurovi Line (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-16 23:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac" target="_blank">Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-09-16 23:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -122,6 +145,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/John-Ternus-Surprise-and-Shine-500x500.jpg" alt="Apple reportedly building server packed with M-series Ultra chips for AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/" target="_blank">Apple reportedly building server packed with M-series Ultra chips for AI</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-09-16 22:02</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -130,38 +162,29 @@
                 <span class="time">2026-09-16 20:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/996321/apple-servers-ai-nvidia" target="_blank">Apple might make servers again to cash in on the AI rush</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-09-16 17:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/David-Streever-via-FIRE-500x500.jpeg" alt="It’s OK to tell ICE their actions will haunt them, judge rules in speech fight" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/09/its-ok-to-tell-ice-their-actions-will-haunt-them-judge-rules-in-speech-fight/" target="_blank">It’s OK to tell ICE their actions will haunt them, judge rules in speech fight</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-09-16 17:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6aaac3f9abaa64afbb2e9683/master/pass/091626-Chipole%20Palantir.jpg" alt="Chipotle Is Working With Palantir to Track Food Safety Risks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/chipotle-is-working-with-palantir-on-food-safety/" target="_blank">Chipotle Is Working With Palantir to Track Food Safety Risks</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-09-16 16:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Miracle-WM-0.11" target="_blank">Mir/Wayland-Powered Miracle-WM 0.11 Released With New Overview Mode, Window Urgency</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-17 00:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/" target="_blank">Migrating the GitHub Copilot runtime to Rust, using Copilot</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-09-17 00:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,24 +219,6 @@
                 <span class="title"><a href="https://will-keleher.com/posts/small-programming-tricks-matter/" target="_blank">Small Programming Tricks</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-09-16 15:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/09/gnome-51-logo-406x232.webp" alt="GNOME 51 released with passkey login and smoother UX" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/gnome-51-released" target="_blank">GNOME 51 released with passkey login and smoother UX</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-09-16 15:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://gultsch.social/@daniel/117280438824908947" target="_blank">The Google Play app review process now regularly takes longer than a week</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-16 11:19</span>
             </div>
         </div>
 </div>
@@ -295,6 +300,24 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.questionablecontent.net/comics/5919.png" alt="Don&#x27;t Do Imprisonment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5919" target="_blank">Don&#x27;t Do Imprisonment</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-09-17 00:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/09/16/a-blue-line-to-a-cuck-chair" target="_blank">A Blue Line To A Cuck Chair</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-09-16 19:37</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -330,22 +353,13 @@
                 <span class="time">2026-09-16 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5918.png" alt="Occam&#x27;s Safety Razor" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5918" target="_blank">Occam&#x27;s Safety Razor</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-09-16 00:45</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 46 | 📡 Total Sources: 40 | 📸 With Images: 266 |
-        🔄 Last Updated: 23:21 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 52 | 📡 Total Sources: 38 | 📸 With Images: 265 |
+        🔄 Last Updated: 02:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
