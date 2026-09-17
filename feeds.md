@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-09-17 13:52:32 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-09-17 17:48:52 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 15 new posts out of 28 feeds processed -->
+<!-- Generated 14 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, September 17, 2026 - 13:52 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Thursday, September 17, 2026 - 17:48 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/17/un-fact-finding-mission-says-us-committed-possible-war-crimes-in-iran?traffic_source=rss" target="_blank">UN fact-finding mission says US committed possible war crimes in Iran</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-17 17:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/17/nx-s1-5971066/trump-rx-medicaid-generous-drug-prices-pfizer-favored-nation" target="_blank">A year ago, President Trump pledged to lower Medicaid drug prices. Has that happened?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-17 16:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20a1/live/d5866d50-b2a9-11f1-bc1f-3f186ca4140c.jpg" alt="Human remains identified as mum missing since 2019" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c9e8e21x3vp4o?at_medium=RSS&at_campaign=rss" target="_blank">Human remains identified as mum missing since 2019</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-17 15:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,38 +99,20 @@
                 <span class="time">2026-09-17 11:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/09/1920x1080/skynews-mark-carney-european-parliament_7354501.jpg?20260917120159" alt="Carney aims dig at Trump as he addresses EU" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/canadian-pm-mark-carney-aims-dig-at-donald-trump-as-he-welcomes-eu-membership-proposal-13588957" target="_blank">Carney aims dig at Trump as he addresses EU</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-09-17 11:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/17/india-warns-new-us-tariffs-over-russian-oil-could-impact-ties?traffic_source=rss" target="_blank">India warns new US tariffs over Russian oil could impact ties</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-17 07:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f662/live/68ede5c0-b25d-11f1-bc1f-3f186ca4140c.jpg" alt="Assad regime planned US journalist&#x27;s kidnap for weeks, BBC finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss" target="_blank">Assad regime planned US journalist&#x27;s kidnap for weeks, BBC finds</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-17 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/" target="_blank">Even the King of England has his hesitations about AI</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-09-17 17:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +158,29 @@
                 <span class="time">2026-09-16 23:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/09/16/us-automakers-could-soon-be-forced-to-include-am-radio-for-free/" target="_blank">US automakers could soon be forced to include AM radio for free</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-09-16 22:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/open-post/lens-screenshots-and-click-by-click-guides-with-no-account-and-no-server-5hbi" target="_blank">Lens: screenshots and click-by-click guides, with no account and no server</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-17 17:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Mojo-1.1-Released" target="_blank">Mojo 1.1 Released, Now Accepting Community Contributions To The Compiler</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-17 16:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj1zvgs9qltein5jv2gzt.png" alt="When You Know Something&#x27;s Wrong But Can&#x27;t Say Why Yet - Jesse Pinkman Energy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -200,24 +217,6 @@
                 <span class="time">2026-09-17 11:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17464160/gnome-51-features" target="_blank">On Time! GNOME 51 Arrives With a Set of Improvements You Shouldn&#x27;t Miss</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-09-17 03:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Miracle-WM-0.11" target="_blank">Mir/Wayland-Powered Miracle-WM 0.11 Released With New Overview Mode, Window Urgency</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-17 00:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,6 +245,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/Odyssey-AI2-800x450-1.webp?fit=800%2C450&amp;quality=55&amp;ssl=1" alt="Elon&#x27;s &quot;historically accurate&quot; Grok-generated Odyssey has trouble counting Cyclops eyes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/09/17/musk-odyssey-laughingstock.html" target="_blank">Elon&#x27;s &quot;historically accurate&quot; Grok-generated Odyssey has trouble counting Cyclops eyes</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-09-17 17:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/08/candy-crush.jpg" alt="Candy Crush Developers Are Preparing To Go On Strike Next Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/candy-crush-workers-strike-king-abk-2000735295" target="_blank">Candy Crush Developers Are Preparing To Go On Strike Next Week</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-17 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/09/30th-cards-1280x720.jpg" alt="Pokémon TCG’s 30th Celebration Set Has Incredible Pull Rates, And It’s Demolishing Resale Prices" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,29 +299,20 @@
                 <span class="time">2026-09-16 23:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/boox.webp?fit=780%2C438&amp;quality=55&amp;ssl=1" alt="Boox gives its color e-ink notepad a 40% speed boost" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/09/16/boox-gives-its-color-e-ink-notepad-a-40-speed-boost.html" target="_blank">Boox gives its color e-ink notepad a 40% speed boost</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-09-16 22:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/09/hyper-light.jpg" alt="‘Nearly Everyone’ Laid Off As Hyper Light Drifter Studio Risks Closing: ‘I’m Not Sure Yet How Or If Heart Machine Survives’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/nearly-everyone-laid-as-hyper-light-drifter-studio-risks-closure-im-not-sure-yet-how-or-if-heart-machine-survives-2000735172" target="_blank">‘Nearly Everyone’ Laid Off As Hyper Light Drifter Studio Risks Closing: ‘I’m Not Sure Yet How Or If Heart Machine Survives’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-09-16 19:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1789607559-20260917.png" alt="Saturday Morning Breakfast Cereal - Waste" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/waste-2" target="_blank">Saturday Morning Breakfast Cereal - Waste</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-09-17 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.questionablecontent.net/comics/5919.png" alt="Don&#x27;t Do Imprisonment" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -323,31 +331,13 @@
                 <span class="time">2026-09-16 19:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/09/16/wloveine" target="_blank">WLoVeInE</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-09-16 16:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1789505301-20260916.png" alt="Saturday Morning Breakfast Cereal - Lake" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/lake" target="_blank">Saturday Morning Breakfast Cereal - Lake</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-09-16 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 53 | 📡 Total Sources: 40 | 📸 With Images: 264 |
-        🔄 Last Updated: 13:52 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 54 | 📡 Total Sources: 40 | 📸 With Images: 264 |
+        🔄 Last Updated: 17:48 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
