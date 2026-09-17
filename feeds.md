@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-09-17 08:05:43 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-09-17 13:52:32 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 15 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, September 17, 2026 - 08:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, September 17, 2026 - 13:52 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +50,42 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/17/india-pakistan-navy-ship-collision-sparks-alarm-over-unintended-escalation?traffic_source=rss" target="_blank">India-Pakistan navy ship collision sparks alarm over unintended escalation</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-17 13:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Carney-EU-DB-260917_1789640666215_hpMain_4x3t_384.jpg" alt="Canada and Europe &#x27;stronger together,&#x27; Carney says amid spat with US" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/canada-europe-stronger-carney-amid-spat-us/story?id=136520332" target="_blank">Canada and Europe &#x27;stronger together,&#x27; Carney says amid spat with US</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-17 11:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/tdy_sam_260917-s21l13.jpg" alt="OpenAI Discloses 6 New Incidents of ‘Concerning’ AI Behavior" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/openai-reveals-6-new-incidents-of-ai-models-going-rogue-270019653588" target="_blank">OpenAI Discloses 6 New Incidents of ‘Concerning’ AI Behavior</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-09-17 11:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/09/1920x1080/skynews-mark-carney-european-parliament_7354501.jpg?20260917120159" alt="Carney aims dig at Trump as he addresses EU" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/canadian-pm-mark-carney-aims-dig-at-donald-trump-as-he-welcomes-eu-membership-proposal-13588957" target="_blank">Carney aims dig at Trump as he addresses EU</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-09-17 11:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/9/17/india-warns-new-us-tariffs-over-russian-oil-could-impact-ties?traffic_source=rss" target="_blank">India warns new US tariffs over Russian oil could impact ties</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-09-17 07:32</span>
@@ -66,47 +100,29 @@
                 <span class="time">2026-09-17 05:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4317/live/97f51f30-b214-11f1-95f2-19e1a2e8eef2.jpg" alt="US interest rates raised for first time in three years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss" target="_blank">US interest rates raised for first time in three years</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-17 00:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2024/05/30/nx-s1-4854224/death-heat-arizona-climate-change-medical-examiner" target="_blank">Here&#x27;s why an Arizona medical examiner is working to track heat-related deaths</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-16 23:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260616-data-center-california-mn-1522-371f98.jpg" alt="House passes bill to shield consumers from data center price hikes on energy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/congress/house-passes-bill-shield-consumers-data-center-price-hikes-energy-rcna597683" target="_blank">House passes bill to shield consumers from data center price hikes on energy</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-09-16 22:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/capitol-2-ap-gmh-260914_1789403117671_hpMain_4x3t_384.jpg" alt="House passes Russia and Iran sanctions bill championed by Sen. Lindsey Graham" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/house-passes-russia-iran-sanctions-bill-championed-sen/story?id=136510615" target="_blank">House passes Russia and Iran sanctions bill championed by Sen. Lindsey Graham</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-09-16 22:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/996341/bose-ultra-open-earbuds-second-gen-wireless-sport" target="_blank">Bose’s next open earbuds have more bass, more volume, and more battery life</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-09-17 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6aab51d5fb7533563c98fa41/master/pass/GettyImages-2293832395.jpg" alt="Apple Watch Series 12 Review: Finally, a Readiness Score (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/apple-watch-series-12/" target="_blank">Apple Watch Series 12 Review: Finally, a Readiness Score (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-17 12:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,29 +159,47 @@
                 <span class="time">2026-09-16 22:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6aaade9cf251bfe9554bf39a/master/pass/OpenAI-Releases-New-AI-Policy-Business-2294958021.jpg" alt="OpenAI Creates a New Framework to Disclose Bad AI Behavior" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/" target="_blank">OpenAI Creates a New Framework to Disclose Bad AI Behavior</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-09-16 22:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/John-Ternus-Surprise-and-Shine-500x500.jpg" alt="Apple reportedly building server packed with M-series Ultra chips for AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/" target="_blank">Apple reportedly building server packed with M-series Ultra chips for AI</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-09-16 22:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj1zvgs9qltein5jv2gzt.png" alt="When You Know Something&#x27;s Wrong But Can&#x27;t Say Why Yet - Jesse Pinkman Energy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tejas_shinkar/when-you-know-somethings-wrong-but-cant-say-why-yet-jesse-pinkman-energy-1966" target="_blank">When You Know Something&#x27;s Wrong But Can&#x27;t Say Why Yet - Jesse Pinkman Energy</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-17 13:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17464532/foss-weekly-26-38" target="_blank">FOSS Weekly #26.38: GNOME 51 Release, LibreOffice Image Trick, VMWare Drama, Fingerprint Reader for Linux and More</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-09-17 13:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/android-development-shouldnt-start-with-a-physical-device" target="_blank">Android™ development shouldn’t start with a physical device</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-09-17 12:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/ai-skills-with-matt-pocock" target="_blank">AI Skills with Matt Pocock</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-09-17 11:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -184,42 +218,6 @@
                 <span class="time">2026-09-17 00:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/" target="_blank">Migrating the GitHub Copilot runtime to Rust, using Copilot</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-09-17 00:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://rohanbansal.com/qorl" target="_blank">Training a 4B model to produce 81% faster query plans than Postgres</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-16 18:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/09/microsoft-taugrid-open-source/en/headerimage/microsoft-phi-4-1789581142435.jpeg" alt="Microsoft Open-Sources TauGrid to Simplify AI Workload Management on Kubernetes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/09/microsoft-taugrid-open-source/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Microsoft Open-Sources TauGrid to Simplify AI Workload Management on Kubernetes</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-09-16 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/ubuntu-2610-amd64v3-lowend" target="_blank">Ubuntu 26.10 amd64v3 Can Provide A Nice Boost For Low-End/Budget Hardware</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-16 17:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -229,9 +227,18 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/09/fake-captcha-scams.html" target="_blank">Fake CAPTCHA Scams</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/09/how-candidates-could-use-ai-for-good.html" target="_blank">How Candidates Could Use AI for Good</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2026-09-16 11:25</span>
+                <span class="time">2026-09-17 11:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/" target="_blank">Data Broker Radaris Loses Domains in Privacy Fight</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2026-09-16 18:14</span>
             </div>
         </div>
 </div>
@@ -239,6 +246,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/09/30th-cards-1280x720.jpg" alt="Pokémon TCG’s 30th Celebration Set Has Incredible Pull Rates, And It’s Demolishing Resale Prices" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-tgc-30th-celebration-set-pull-rates-rarity-rgb-mew-2000735250" target="_blank">Pokémon TCG’s 30th Celebration Set Has Incredible Pull Rates, And It’s Demolishing Resale Prices</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-17 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/Portable_car_fridges.jpg?fit=1200%2C900&amp;quality=60&amp;ssl=1" alt="This portable car fridge gets cold fast and stays quiet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/09/17/euhomy-portable-car-refrigerator.html" target="_blank">This portable car fridge gets cold fast and stays quiet</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-09-17 12:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/09/re-movie-1280x720.jpg" alt="Early Reviews Hail Zach Cregger’s Resident Evil As A Clever Homage That Doesn’t Get Bogged Down By The Details: ‘This Is How Movies And Video Games Can Merge In A Way That Makes Them Stronger’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,24 +298,6 @@
                 <span class="title"><a href="https://kotaku.com/nearly-everyone-laid-as-hyper-light-drifter-studio-risks-closure-im-not-sure-yet-how-or-if-heart-machine-survives-2000735172" target="_blank">‘Nearly Everyone’ Laid Off As Hyper Light Drifter Studio Risks Closing: ‘I’m Not Sure Yet How Or If Heart Machine Survives’</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-09-16 19:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/96dca848-1176-4633-a65c-ebf635dae819.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Trump wants Space Force to look like Starship Troopers. Paul Verhoeven would like him to know more" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/09/16/trump-starship-troopers-space-force-uniforms.html" target="_blank">Trump wants Space Force to look like Starship Troopers. Paul Verhoeven would like him to know more</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-09-16 18:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/05/musk-doge.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="DOGE spent $6.7 billion paying federal workers not to work" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/09/16/doge-paid-leave-6-7-billion.html" target="_blank">DOGE spent $6.7 billion paying federal workers not to work</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-09-16 17:39</span>
             </div>
         </div>
 </div>
@@ -339,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 49 | 📡 Total Sources: 39 | 📸 With Images: 266 |
-        🔄 Last Updated: 08:05 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 53 | 📡 Total Sources: 40 | 📸 With Images: 264 |
+        🔄 Last Updated: 13:52 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
