@@ -1,35 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-09-17 20:41:15 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-09-17 23:12:38 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 13 new posts out of 26 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, September 17, 2026 - 20:41 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, September 17, 2026 - 23:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/9/17/aje-onl-nf_medvedenkod-parties_challenge_united_russia-170926?traffic_source=rss" target="_blank">Russia election: Could other parties challenge United Russia?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-17 22:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,6 +79,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-09/260908-marco-rubio-ch-1243-b613aa.jpg" alt="Rubio takes behind-the-scenes role on Iran war while keeping his options open for the future" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/marco-rubio-role-iran-war-keeping-options-open-future-rcna596618" target="_blank">Rubio takes behind-the-scenes role on Iran war while keeping his options open for the future</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-09-17 16:47</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-09/260908-marco-rubio-ch-1243-b613aa.jpg" alt="Rubio takes behind-the-scenes role on Iran war, while keeping his options open for the future" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
@@ -81,29 +96,20 @@
                 <span class="time">2026-09-17 16:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/17/nx-s1-5971066/trump-rx-medicaid-generous-drug-prices-pfizer-favored-nation" target="_blank">A year ago, President Trump pledged to lower Medicaid drug prices. Has that happened?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-17 16:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20a1/live/d5866d50-b2a9-11f1-bc1f-3f186ca4140c.jpg" alt="Human remains identified as mum missing since 2019" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c9e8e21x3vp4o?at_medium=RSS&at_campaign=rss" target="_blank">Human remains identified as mum missing since 2019</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-17 15:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6aab06ffc34fee882b3a156d/master/pass/Uncanny-Valley-Sam-Altman-AI-Risk-Debate-Business-2294955001.jpg" alt="Here’s What the AI Apocalypse Could Look Like" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/" target="_blank">Here’s What the AI Apocalypse Could Look Like</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-17 22:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/Google-CC-500x500.png" alt="Google announces new experimental &quot;CC&quot; AI agent for families" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,20 +155,29 @@
                 <span class="time">2026-09-17 12:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/" target="_blank">Iceland-based Treble raises $18 million for its voice simulation platform</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-09-17 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alifar/anthropics-ai-rd-measurements-point-to-a-broader-transparency-model-39m4" target="_blank">Anthropic’s AI R&amp;D Measurements Point to a Broader Transparency Model</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-17 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/09/msedit-v2-406x232.webp" alt="Microsoft’s CLI text editor now does syntax highlighting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/microsoft-edit-2-0-update" target="_blank">Microsoft’s CLI text editor now does syntax highlighting</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-09-17 22:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,24 +214,6 @@
                 <span class="time">2026-09-17 16:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/asciimoo/hister" target="_blank">Hister: A private search engine for the pages you visit and the files you keep</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-17 16:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj1zvgs9qltein5jv2gzt.png" alt="When You Know Something&#x27;s Wrong But Can&#x27;t Say Why Yet - Jesse Pinkman Energy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tejas_shinkar/when-you-know-somethings-wrong-but-cant-say-why-yet-jesse-pinkman-energy-1966" target="_blank">When You Know Something&#x27;s Wrong But Can&#x27;t Say Why Yet - Jesse Pinkman Energy</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-17 13:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/EDU-Unlimited-by-StackSkills.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Gain access to over a thousand courses on IT, design, and coding for just $20 for life" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/09/17/gain-access-to-over-a-thousand-courses-on-it-design-and-coding-for-just-20-for-life.html" target="_blank">Gain access to over a thousand courses on IT, design, and coding for just $20 for life</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-09-17 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/09/needle-in-a-haystack-1280x720.jpg" alt="The Proliferation Of Copycats On Steam Makes Discovering Original Games Like Finding A Needle In A Haystack" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +287,6 @@
                 <span class="time">2026-09-17 13:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/Portable_car_fridges.jpg?fit=1200%2C900&amp;quality=60&amp;ssl=1" alt="This portable car fridge gets cold fast and stays quiet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/09/17/euhomy-portable-car-refrigerator.html" target="_blank">This portable car fridge gets cold fast and stays quiet</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-09-17 12:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 57 | 📡 Total Sources: 40 | 📸 With Images: 264 |
-        🔄 Last Updated: 20:41 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 52 | 📡 Total Sources: 40 | 📸 With Images: 265 |
+        🔄 Last Updated: 23:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
