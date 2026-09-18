@@ -1,32 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-09-18 19:16:00 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-18 22:00:24 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 11 new posts out of 24 feeds processed -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, September 18, 2026 - 19:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, September 18, 2026 - 22:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/kennedy-ctr-1-gty-gmh-260915_1789504345940_hpMain_4x3t_384.jpg" alt="Protesters plan to form human chain around Kennedy Center amid Trump&#x27;s threats" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/protesters-plan-form-human-chain-kennedy-center-amid/story?id=136558872" target="_blank">Protesters plan to form human chain around Kennedy Center amid Trump&#x27;s threats</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-18 20:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,15 +96,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/news/obituaries/singer-songwriter-broadway-composer-duncan-sheik-dead-56-rcna598308" target="_blank">Singer-songwriter and Broadway composer Duncan Sheik dies at 56</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-09-18 14:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Business/Diesel-prices-DB-260918_1789727552275_hpMain_4x3t_384.jpg" alt="Diesel prices at record highs amid Strait of Hormuz disruption, Russia-Ukraine war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Business/diesel-prices-record-highs-amid-strait-hormuz-disruption/story?id=136552505" target="_blank">Diesel prices at record highs amid Strait of Hormuz disruption, Russia-Ukraine war</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-09-18 11:44</span>
             </div>
         </div>
 </div>
@@ -164,6 +166,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gde/gemma-4-on-a-tesla-t4-qat-weights-decode-179x-faster-than-bf16-2fi4" target="_blank">Gemma 4 on a Tesla T4: QAT Weights Decode 1.79x Faster Than bf16</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-18 21:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://code.claude.com/docs/en/changelog" target="_blank">Claude Code now reads AGENTS.md if there is no Claude.md</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-18 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ghilteras/a-decision-proxy-in-front-of-searxng-speculative-execution-per-engine-circuit-breakers-and-4knj" target="_blank">A decision proxy in front of SearXNG: speculative execution, per-engine circuit breakers, and keyless fallback</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-09-18 19:03</span>
@@ -196,29 +216,29 @@
                 <span class="time">2026-09-18 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17466072/grapheneos-android-17-qpr1-fiasco" target="_blank">GrapheneOS Isn&#x27;t Happy With Google Over Pixel&#x27;s Widening Head Start</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-09-18 14:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17465915/valve-lepton" target="_blank">Valve Quietly Open-Sources Its Android Compatibility Layer</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-09-18 10:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/09/Fortunesweavegun-1280x720.jpg" alt="Guns Are The Best Narrative Thing That Has Ever Happened To Fire Emblem" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/fire-emblem-fortunes-weave-gun-best-narrative-weapons-2000735635" target="_blank">Guns Are The Best Narrative Thing That Has Ever Happened To Fire Emblem</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-18 21:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M2TS91VNG36NBM2NSBF7CRK1/hero-image.png" alt="These Are the Best Smartwatches to Gift in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/the-best-smartwatches-to-gift-in-2026?utm_medium=RSS" target="_blank">These Are the Best Smartwatches to Gift in 2026</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-09-18 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/09/FFVII_Revelation_June_Screenshots_4-1-1280x720.jpg" alt="Final Fantasy VII Revelation Is Gonna Eat Up 200 Gigabytes Of Storage" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -255,29 +275,20 @@
                 <span class="time">2026-09-17 22:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M2QYZGTBF6WPX2M71FRXCFKG/hero-image.jpg" alt="10 Hacks Every Vivaldi Browser User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-vivaldi-browser-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Vivaldi Browser User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-09-17 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/EDU-Unlimited-by-StackSkills.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Gain access to over a thousand courses on IT, design, and coding for just $20 for life" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/09/17/gain-access-to-over-a-thousand-courses-on-it-design-and-coding-for-just-20-for-life.html" target="_blank">Gain access to over a thousand courses on IT, design, and coding for just $20 for life</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-09-17 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/09/18/homecoming" target="_blank">Homecoming</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-09-18 17:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1789607601-20260918.png" alt="Saturday Morning Breakfast Cereal - Citation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -301,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 49 | 📡 Total Sources: 40 | 📸 With Images: 262 |
-        🔄 Last Updated: 19:16 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 45 | 📡 Total Sources: 40 | 📸 With Images: 260 |
+        🔄 Last Updated: 22:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
