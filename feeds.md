@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-09-18 01:58:27 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-18 07:01:27 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, September 18, 2026 - 01:58 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, September 18, 2026 - 07:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -106,6 +103,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/" target="_blank">Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-09-18 00:02</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2268348621-500x500.jpg" alt="RFK Jr. names 8 new members to influential preventive medicine task force" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -150,15 +156,6 @@
                 <span class="time">2026-09-17 17:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/996341/bose-ultra-open-earbuds-second-gen-wireless-sport" target="_blank">Bose’s next open earbuds have more bass, more volume, and more battery life</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-09-17 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,6 +168,15 @@
                 <span class="title"><a href="https://www.phoronix.com/news/OpenCL-3.1.2-Released" target="_blank">OpenCL 3.1.2 Released With cl_khr_command_buffer Promoted</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-09-18 00:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-september-18-2026" target="_blank">Friday Five — September 18, 2026 | Red Hat</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2026-09-18 00:00</span>
             </div>
         </div>
 <div class="story">
@@ -209,15 +215,6 @@
                 <span class="time">2026-09-17 20:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/extending-ubuntu-pro-16-04-coverage" target="_blank">Beyond the 10-year mark: Extending Ubuntu Pro 16.04 LTS security coverage</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-09-17 19:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +234,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/HEc1kF5tMoWSgyCq.jpg?fit=1499%2C829&amp;quality=60&amp;ssl=1" alt="iFixit&#x27;s repair guide for the Steam Machine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/09/17/ifixits-repair-guide-for-the-steam-machine.html" target="_blank">iFixit&#x27;s repair guide for the Steam Machine</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-09-17 23:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/09/diablo-5.jpg" alt="We Asked Blizzard Why Diablo 5 Is Confirmed For PC But StarCraft Is Not" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/diablo-5-pc-starcraft-xbox-confirmed-2000735382" target="_blank">We Asked Blizzard Why Diablo 5 Is Confirmed For PC But StarCraft Is Not</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-17 22:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M2QYZGTBF6WPX2M71FRXCFKG/hero-image.jpg" alt="10 Hacks Every Vivaldi Browser User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-vivaldi-browser-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Vivaldi Browser User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-09-17 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/EDU-Unlimited-by-StackSkills.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Gain access to over a thousand courses on IT, design, and coding for just $20 for life" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,38 +288,20 @@
                 <span class="time">2026-09-17 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/Odyssey-AI2-800x450-1.webp?fit=800%2C450&amp;quality=55&amp;ssl=1" alt="Elon&#x27;s &quot;historically accurate&quot; Grok-generated Odyssey has trouble counting Cyclops eyes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/09/17/musk-odyssey-laughingstock.html" target="_blank">Elon&#x27;s &quot;historically accurate&quot; Grok-generated Odyssey has trouble counting Cyclops eyes</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-09-17 17:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/08/candy-crush.jpg" alt="Candy Crush Developers Are Preparing To Go On Strike Next Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/candy-crush-workers-strike-king-abk-2000735295" target="_blank">Candy Crush Developers Are Preparing To Go On Strike Next Week</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-09-17 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/09/30th-cards-1280x720.jpg" alt="Pokémon TCG’s 30th Celebration Set Has Incredible Pull Rates, And It’s Demolishing Resale Prices" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-tgc-30th-celebration-set-pull-rates-rarity-rgb-mew-2000735250" target="_blank">Pokémon TCG’s 30th Celebration Set Has Incredible Pull Rates, And It’s Demolishing Resale Prices</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-09-17 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.questionablecontent.net/comics/5920.png" alt="Once More With Feeling" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5920" target="_blank">Once More With Feeling</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-09-18 00:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1789607559-20260917.png" alt="Saturday Morning Breakfast Cereal - Waste" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -310,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 52 | 📡 Total Sources: 40 | 📸 With Images: 262 |
-        🔄 Last Updated: 01:58 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 55 | 📡 Total Sources: 40 | 📸 With Images: 261 |
+        🔄 Last Updated: 07:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
