@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-09-17 23:12:38 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-09-18 01:58:27 UTC -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, September 17, 2026 - 23:12 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, September 18, 2026 - 01:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,9 +50,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/18/white-house-withdraws-lance-schroyers-nomination-to-lead-ice?traffic_source=rss" target="_blank">White House withdraws Lance Schroyer’s nomination to lead ICE</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-18 01:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/sep/18/nigeria-deaths-suspected-methanol-alcohol-brew-drink" target="_blank">Almost 50 dead in Nigeria after drinking alcohol suspected to contain methanol</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-09-18 00:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/9/17/aje-onl-nf_medvedenkod-parties_challenge_united_russia-170926?traffic_source=rss" target="_blank">Russia election: Could other parties challenge United Russia?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-09-17 22:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/17/nx-s1-5973271/trump-withdraws-lance-schroyer-a-former-oklahoma-state-trooper-as-his-nominee-to-lead-ice" target="_blank">Trump withdraws Lance Schroyer, a former Oklahoma state trooper, as his nominee to lead ICE</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-17 21:17</span>
             </div>
         </div>
 <div class="story">
@@ -69,38 +100,20 @@
                 <span class="time">2026-09-17 18:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/17/un-fact-finding-mission-says-us-committed-possible-war-crimes-in-iran?traffic_source=rss" target="_blank">UN fact-finding mission says US committed possible war crimes in Iran</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-17 17:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-09/260908-marco-rubio-ch-1243-b613aa.jpg" alt="Rubio takes behind-the-scenes role on Iran war while keeping his options open for the future" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/marco-rubio-role-iran-war-keeping-options-open-future-rcna596618" target="_blank">Rubio takes behind-the-scenes role on Iran war while keeping his options open for the future</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-09-17 16:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-09/260908-marco-rubio-ch-1243-b613aa.jpg" alt="Rubio takes behind-the-scenes role on Iran war, while keeping his options open for the future" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/marco-rubio-role-iran-war-keeping-options-open-future-rcna596618" target="_blank">Rubio takes behind-the-scenes role on Iran war, while keeping his options open for the future</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-09-17 16:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2268348621-500x500.jpg" alt="RFK Jr. names 8 new members to influential preventive medicine task force" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/09/rfk-jr-stacks-another-influential-federal-panel-with-questionable-picks/" target="_blank">RFK Jr. names 8 new members to influential preventive medicine task force</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-09-17 22:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6aab06ffc34fee882b3a156d/master/pass/Uncanny-Valley-Sam-Altman-AI-Risk-Debate-Business-2294955001.jpg" alt="Here’s What the AI Apocalypse Could Look Like" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,20 +159,20 @@
                 <span class="time">2026-09-17 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6aab51d5fb7533563c98fa41/master/pass/GettyImages-2293832395.jpg" alt="Apple Watch Series 12 Review: Finally, a Readiness Score (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/apple-watch-series-12/" target="_blank">Apple Watch Series 12 Review: Finally, a Readiness Score (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-09-17 12:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/OpenCL-3.1.2-Released" target="_blank">OpenCL 3.1.2 Released With cl_khr_command_buffer Promoted</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-18 00:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -190,28 +203,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://openai.com/index/astra-for-law/" target="_blank">Astra for Law</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-17 20:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://ubuntu.com//blog/extending-ubuntu-pro-16-04-coverage" target="_blank">Beyond the 10-year mark: Extending Ubuntu Pro 16.04 LTS security coverage</a></span>
                 <span class="feed">Ubuntu blog</span>
                 <span class="time">2026-09-17 19:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/open-post/lens-screenshots-and-click-by-click-guides-with-no-account-and-no-server-5hbi" target="_blank">Lens: screenshots and click-by-click guides, with no account and no server</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-17 17:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mojo-1.1-Released" target="_blank">Mojo 1.1 Released, Now Accepting Community Contributions To The Compiler</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-17 16:26</span>
             </div>
         </div>
 </div>
@@ -301,22 +305,13 @@
                 <span class="time">2026-09-17 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5919.png" alt="Don&#x27;t Do Imprisonment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5919" target="_blank">Don&#x27;t Do Imprisonment</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-09-17 00:58</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 52 | 📡 Total Sources: 40 | 📸 With Images: 265 |
-        🔄 Last Updated: 23:12 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 52 | 📡 Total Sources: 40 | 📸 With Images: 262 |
+        🔄 Last Updated: 01:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
