@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-09-18 07:01:27 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-09-18 12:25:41 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, September 18, 2026 - 07:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Friday, September 18, 2026 - 12:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Business/Diesel-prices-DB-260918_1789727552275_hpMain_4x3t_384.jpg" alt="Diesel prices at record highs amid Strait of Hormuz disruption, Russia-Ukraine war" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Business/diesel-prices-record-highs-amid-strait-hormuz-disruption/story?id=136552505" target="_blank">Diesel prices at record highs amid Strait of Hormuz disruption, Russia-Ukraine war</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-18 11:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/sep/18/british-woman-kidnapped-malawi-police-shootout" target="_blank">British woman who was kidnapped in Malawi rescued by police after shootout</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-09-18 11:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/09/1920x1080/skynews-nusrat-osman-malawi_7353335.jpg?20260916074049" alt="British woman kidnapped in Malawi &#x27;rescued and reunited with family&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/british-woman-kidnapped-in-malawi-rescued-and-reunited-with-family-13589169" target="_blank">British woman kidnapped in Malawi &#x27;rescued and reunited with family&#x27;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-09-18 05:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -70,38 +98,20 @@
                 <span class="time">2026-09-17 22:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/17/nx-s1-5973271/trump-withdraws-lance-schroyer-a-former-oklahoma-state-trooper-as-his-nominee-to-lead-ice" target="_blank">Trump withdraws Lance Schroyer, a former Oklahoma state trooper, as his nominee to lead ICE</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-17 21:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/17/nx-s1-5973127/ice-agent-court-extradition-minnesota-immigrant-shooting" target="_blank">ICE agent appears in Minnesota court to face charges in the shooting of a Venezuelan immigrant</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-17 20:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/arch-3-ht-gmh-260917._1789660954566_hpMain_4x3t_384.jpg" alt="Trump&#x27;s proposed arch has &#x27;adverse effects,&#x27; administration acknowledges" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trumps-controversial-triumphal-arch-adverse-effects-landscape-administration/story?id=136528237" target="_blank">Trump&#x27;s proposed arch has &#x27;adverse effects,&#x27; administration acknowledges</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-09-17 18:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6aac48c08bcc778670d64ba8/master/pass/The-Best-Gifts-for-Moms,-From-a-Mom-Who-Tests-Gear.jpg" alt="Best Gifts for Mom (2026): E-Readers, Digital Wall Calendar, Smart Bird Feeders" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-gifts-for-moms-2026/" target="_blank">Best Gifts for Mom (2026): E-Readers, Digital Wall Calendar, Smart Bird Feeders</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-18 11:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +157,29 @@
                 <span class="time">2026-09-17 19:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/" target="_blank">Even the King of England has his hesitations about AI</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-09-17 17:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17465915/valve-lepton" target="_blank">Valve Quietly Open-Sources Its Android Compatibility Layer</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-09-18 10:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-26.10-OOM-Adjustments" target="_blank">Ubuntu 26.10 Desktop Adjusting Its Behavior Under Memory Pressure</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-18 10:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,38 +214,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/microsoft-edit-2-0-update" target="_blank">Microsoft’s CLI text editor now does syntax highlighting</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-09-17 22:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pbxqdown/was-bash-the-wrong-language-for-my-agent-4i6l" target="_blank">Was bash the wrong language for my agent?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-17 20:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://openai.com/index/astra-for-law/" target="_blank">Astra for Law</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-17 20:17</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/09/how-candidates-could-use-ai-for-good.html" target="_blank">How Candidates Could Use AI for Good</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-09-17 11:06</span>
             </div>
         </div>
 </div>
@@ -316,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 55 | 📡 Total Sources: 40 | 📸 With Images: 261 |
-        🔄 Last Updated: 07:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 51 | 📡 Total Sources: 40 | 📸 With Images: 262 |
+        🔄 Last Updated: 12:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
