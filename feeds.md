@@ -1,35 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-09-18 16:46:16 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-18 19:16:00 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 26 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 11 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, September 18, 2026 - 16:46 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Friday, September 18, 2026 - 19:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/sep/18/survivor-panic-struggle-breathe-nigeria-prison-cell-died-minna" target="_blank">Survivors recount panic and struggle to breathe in Nigerian prison cell where 37 died</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-09-18 17:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1789748464003_now_current_kapur_ai_lawmakers_proposal_260918_S3_1920x1080-yp3pm8.jpg" alt="Breaking down the proposals lawmakers are considering to regulate AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/breaking-down-the-proposals-lawmakers-are-considering-to-regulate-ai-270113349603" target="_blank">Breaking down the proposals lawmakers are considering to regulate AI</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-09-18 16:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,24 +96,6 @@
                 <span class="time">2026-09-18 11:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/sep/18/british-woman-kidnapped-malawi-police-shootout" target="_blank">British woman who was kidnapped in Malawi rescued by police after shootout</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-09-18 11:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/09/1920x1080/skynews-nusrat-osman-malawi_7353335.jpg?20260916074049" alt="British woman kidnapped in Malawi &#x27;rescued and reunited with family&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/british-woman-kidnapped-in-malawi-rescued-and-reunited-with-family-13589169" target="_blank">British woman kidnapped in Malawi &#x27;rescued and reunited with family&#x27;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-09-18 05:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -108,9 +105,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/" target="_blank">A new kind of AI model from a ChatGPT inventor is thrilling developers</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-09-18 18:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/paramount-water-tower-logo-500x500.jpg" alt="FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/" target="_blank">FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-09-18 17:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/" target="_blank">Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-09-18 16:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6aac35420820a9282b5f1721/master/pass/Security_An%20Undercover%20Google%20Researcher%20Infiltrated%20the%20Gang%20Behind%20the%20Worst-Ever%20Supply%20Chain%20Hacking%20Spree_v1.jpg" alt="An Undercover Google Analyst Infiltrated a Notorious Supply-Chain Hacking Gang" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/" target="_blank">An Undercover Google Analyst Infiltrated a Notorious Supply-Chain Hacking Gang</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-18 16:00</span>
             </div>
         </div>
 <div class="story">
@@ -131,33 +155,6 @@
                 <span class="time">2026-09-18 11:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/" target="_blank">Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-09-18 00:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2268348621-500x500.jpg" alt="RFK Jr. names 8 new members to influential preventive medicine task force" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/09/rfk-jr-stacks-another-influential-federal-panel-with-questionable-picks/" target="_blank">RFK Jr. names 8 new members to influential preventive medicine task force</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-09-17 22:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6aab06ffc34fee882b3a156d/master/pass/Uncanny-Valley-Sam-Altman-AI-Risk-Debate-Business-2294955001.jpg" alt="Here’s What the AI Apocalypse Could Look Like" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/" target="_blank">Here’s What the AI Apocalypse Could Look Like</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-09-17 22:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -166,10 +163,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ghilteras/a-decision-proxy-in-front-of-searxng-speculative-execution-per-engine-circuit-breakers-and-4knj" target="_blank">A decision proxy in front of SearXNG: speculative execution, per-engine circuit breakers, and keyless fallback</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-18 19:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/09/mariadb-13-released/en/headerimage/mediapipe-image-generator-1789754681972.jpeg" alt="MariaDB 13 Expands Oracle Compatibility and Improves Developer Experience and Observability" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/09/mariadb-13-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">MariaDB 13 Expands Oracle Compatibility and Improves Developer Experience and Observability</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-09-18 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Google-Binder-C-Goodbye" target="_blank">Google&#x27;s &quot;Painful To Maintain&quot; Binder C Linux Driver Being Removed In Favor Of Rust</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-09-18 16:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/" target="_blank">Should you read the code, is RAG dead, and did Skills kill MCP?</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-09-18 15:00</span>
             </div>
         </div>
 <div class="story">
@@ -190,38 +214,20 @@
                 <span class="time">2026-09-18 10:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-26.10-OOM-Adjustments" target="_blank">Ubuntu 26.10 Desktop Adjusting Its Behavior Under Memory Pressure</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-18 10:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/OpenCL-3.1.2-Released" target="_blank">OpenCL 3.1.2 Released With cl_khr_command_buffer Promoted</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-18 00:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-september-18-2026" target="_blank">Friday Five — September 18, 2026 | Red Hat</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2026-09-18 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/09/FFVII_Revelation_June_Screenshots_4-1-1280x720.jpg" alt="Final Fantasy VII Revelation Is Gonna Eat Up 200 Gigabytes Of Storage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/final-fantasy-vii-revelation-file-size-200-gigs-2000735639" target="_blank">Final Fantasy VII Revelation Is Gonna Eat Up 200 Gigabytes Of Storage</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-18 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01M2SY8ESB7NE2GEQ27T11AZHW/hero-image.jpg" alt="This New iOS 27 Feature May Save You From Getting Scammed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,15 +273,6 @@
                 <span class="time">2026-09-17 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/09/needle-in-a-haystack-1280x720.jpg" alt="The Proliferation Of Copycats On Steam Makes Discovering Original Games Like Finding A Needle In A Haystack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-proliferation-of-copycats-on-steam-makes-discovering-original-games-like-finding-a-needle-in-a-haystack-2000734794" target="_blank">The Proliferation Of Copycats On Steam Makes Discovering Original Games Like Finding A Needle In A Haystack</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-09-17 20:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -304,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 46 | 📡 Total Sources: 40 | 📸 With Images: 262 |
-        🔄 Last Updated: 16:46 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 49 | 📡 Total Sources: 40 | 📸 With Images: 262 |
+        🔄 Last Updated: 19:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
