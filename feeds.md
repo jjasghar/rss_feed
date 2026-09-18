@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-09-18 12:25:41 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-18 16:46:16 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Generated 10 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Friday, September 18, 2026 - 12:25 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, September 18, 2026 - 16:46 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/sep/18/survivor-panic-struggle-breathe-nigeria-prison-cell-died-minna" target="_blank">Survivor recounts panic and struggle to breathe in Nigerian prison cell where 37 died</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-09-18 15:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72d4/live/9686b940-b360-11f1-8f19-bd786ea30d0b.jpg" alt="Russian hybrid attacks against Europe intensifying, says Macron" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss" target="_blank">Russian hybrid attacks against Europe intensifying, says Macron</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-18 15:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-09/260917-duncan-sheik-3x2-ONETIMEuse-mn-0735-b96926.jpg" alt="Singer-songwriter and Broadway composer Duncan Sheik dies at 56" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/obituaries/singer-songwriter-broadway-composer-duncan-sheik-dead-56-rcna598308" target="_blank">Singer-songwriter and Broadway composer Duncan Sheik dies at 56</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-09-18 14:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Business/Diesel-prices-DB-260918_1789727552275_hpMain_4x3t_384.jpg" alt="Diesel prices at record highs amid Strait of Hormuz disruption, Russia-Ukraine war" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -71,38 +99,29 @@
                 <span class="time">2026-09-18 05:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/18/white-house-withdraws-lance-schroyers-nomination-to-lead-ice?traffic_source=rss" target="_blank">White House withdraws Lance Schroyer’s nomination to lead ICE</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-18 01:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/sep/18/nigeria-deaths-suspected-methanol-alcohol-brew-drink" target="_blank">Almost 50 dead in Nigeria after drinking alcohol suspected to contain methanol</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-09-18 00:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/9/17/aje-onl-nf_medvedenkod-parties_challenge_united_russia-170926?traffic_source=rss" target="_blank">Russia election: Could other parties challenge United Russia?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-17 22:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/" target="_blank">Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-09-18 16:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/nikonTOP-500x500.jpg" alt="Meet the winner of Nikon&#x27;s Small World in Motion video contest" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/09/meet-the-winner-of-nikons-small-world-in-motion-video-contest/" target="_blank">Meet the winner of Nikon&#x27;s Small World in Motion video contest</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-09-18 13:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6aac48c08bcc778670d64ba8/master/pass/The-Best-Gifts-for-Moms,-From-a-Mom-Who-Tests-Gear.jpg" alt="Best Gifts for Mom (2026): E-Readers, Digital Wall Calendar, Smart Bird Feeders" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,29 +158,29 @@
                 <span class="time">2026-09-17 22:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/Google-CC-500x500.png" alt="Google announces new experimental &quot;CC&quot; AI agent for families" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/" target="_blank">Google announces new experimental &quot;CC&quot; AI agent for families</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-09-17 20:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic" target="_blank">The AI Superintelligence Slowdown</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-09-17 19:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Google-Binder-C-Goodbye" target="_blank">Google&#x27;s &quot;Painful To Maintain&quot; Binder C Linux Driver Being Removed In Favor Of Rust</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-18 16:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17466072/grapheneos-android-17-qpr1-fiasco" target="_blank">GrapheneOS Isn&#x27;t Happy With Google Over Pixel&#x27;s Widening Head Start</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-09-18 14:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,29 +217,20 @@
                 <span class="time">2026-09-18 00:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alifar/anthropics-ai-rd-measurements-point-to-a-broader-transparency-model-39m4" target="_blank">Anthropic’s AI R&amp;D Measurements Point to a Broader Transparency Model</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-17 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/09/msedit-v2-406x232.webp" alt="Microsoft’s CLI text editor now does syntax highlighting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/microsoft-edit-2-0-update" target="_blank">Microsoft’s CLI text editor now does syntax highlighting</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-09-17 22:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M2SY8ESB7NE2GEQ27T11AZHW/hero-image.jpg" alt="This New iOS 27 Feature May Save You From Getting Scammed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/this-new-ios-27-feature-may-save-you-from-getting-scammed?utm_medium=RSS" target="_blank">This New iOS 27 Feature May Save You From Getting Scammed</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-09-18 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/HEc1kF5tMoWSgyCq.jpg?fit=1499%2C829&amp;quality=60&amp;ssl=1" alt="iFixit&#x27;s repair guide for the Steam Machine" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,20 +276,20 @@
                 <span class="time">2026-09-17 20:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M2QVX3FHZ3WD5DP3HDXZ51K9/hero-image.png" alt="15 Useful Tech Devices You Can Buy for Under $50" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-tech-devices-under-50-dollars?utm_medium=RSS" target="_blank">15 Useful Tech Devices You Can Buy for Under $50</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-09-17 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1789607601-20260918.png" alt="Saturday Morning Breakfast Cereal - Citation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/citation-2" target="_blank">Saturday Morning Breakfast Cereal - Citation</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-09-18 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.questionablecontent.net/comics/5920.png" alt="Once More With Feeling" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -289,22 +299,13 @@
                 <span class="time">2026-09-18 00:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1789607559-20260917.png" alt="Saturday Morning Breakfast Cereal - Waste" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/waste-2" target="_blank">Saturday Morning Breakfast Cereal - Waste</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-09-17 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 51 | 📡 Total Sources: 40 | 📸 With Images: 262 |
-        🔄 Last Updated: 12:25 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 46 | 📡 Total Sources: 40 | 📸 With Images: 262 |
+        🔄 Last Updated: 16:46 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
