@@ -1,41 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-09-19 21:52:53 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-19 23:44:40 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 32 feeds processed -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, September 19, 2026 - 21:53 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, September 19, 2026 - 23:44 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,12 +49,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-8-gty-gmh-260918_1789760439040_hpMain_4x3t_384.jpg" alt="Trump says he will form new &#x27;AI Force&#x27; but continues to call AI fears a &#x27;hoax&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-form-new-ai-force-continues-call-ai/story?id=136591343" target="_blank">Trump says he will form new &#x27;AI Force&#x27; but continues to call AI fears a &#x27;hoax&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-19 22:43</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/9/19/fulham-vs-manchester-united-premier-league-prediction-teams-lineups?traffic_source=rss" target="_blank">Fulham vs Manchester United: Premier League – prediction, teams, lineups</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-09-19 20:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39c5/live/a0844fe0-b45d-11f1-b213-1db858c3e27c.jpg" alt="Houthis say they targeted Saudi capital with ballistic missiles" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss" target="_blank">Houthis say they targeted Saudi capital with ballistic missiles</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-19 20:16</span>
             </div>
         </div>
 <div class="story">
@@ -85,24 +100,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/09/19/nx-s1-5974854/trump-cnn-msnow-politico-ban" target="_blank">CNN, MS NOW, Politico reporters denied access to White House following Trump ban</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-09-19 15:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/19/nx-s1-5966624/opinion-remembering-annie-dillard-nature-writer" target="_blank">Opinion: Remembering Annie Dillard, nature writer</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-19 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1ad/live/fd353880-b421-11f1-8a8e-d9778c1036bb.jpg" alt="Nato welcomes Greenland deal as Trump says it will give US &#x27;permanent security control&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss" target="_blank">Nato welcomes Greenland deal as Trump says it will give US &#x27;permanent security control&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-19 11:36</span>
             </div>
         </div>
 </div>
@@ -173,6 +170,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pannakoota/i-built-a-transport-independent-foundation-for-json-api-clients-in-perl-1od6" target="_blank">I built a transport-independent foundation for JSON API clients in Perl</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-19 23:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/momolandnacy2del/why-make-an-llm-do-the-grunt-work-after-jev-who-should-handle-an-agents-tool-work-3nm3" target="_blank">Why Make an LLM Do the Grunt Work? After Jev, Who Should Handle an Agent’s Tool Work?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-09-19 16:39</span>
@@ -197,30 +203,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/presentations/linkedin-context-engineering/en/mediumimage/ajay-prakash-medium-1789021803159.jpg" alt="Presentation: Context Engineering at LinkedIn: How We Built an Organizational Context Layer for AI Agents with MCP" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/linkedin-context-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Context Engineering at LinkedIn: How We Built an Organizational Context Layer for AI Agents with MCP</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-09-19 11:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://laya.convaiinnovations.com/" target="_blank">I built non-autoregressive decision models with RL a year ago</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-09-19 10:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://laya.convaiinnovations.com/" target="_blank">Laya the open source version of Jev</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-19 10:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html" target="_blank">Human brain is two separate organs, Stanford Medicine-led research finds</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-19 05:48</span>
             </div>
         </div>
 </div>
@@ -255,15 +252,6 @@
                 <span class="time">2026-09-19 00:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/09/wolverinps5slop-1280x720.jpg" alt="Insomniac Confirms Wolverine Doesn’t Contain AI-Generated Assets After A Weird-Looking Sign Goes Viral" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/insomniac-confirms-wolverine-doesnt-contain-ai-generated-assets-after-a-weird-looking-sign-goes-viral-2000735775" target="_blank">Insomniac Confirms Wolverine Doesn’t Contain AI-Generated Assets After A Weird-Looking Sign Goes Viral</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-09-18 22:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -283,8 +271,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 36 | 📡 Total Sources: 39 | 📸 With Images: 257 |
-        🔄 Last Updated: 21:53 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 35 | 📡 Total Sources: 40 | 📸 With Images: 261 |
+        🔄 Last Updated: 23:44 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
