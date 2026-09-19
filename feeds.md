@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-09-19 13:31:55 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-09-19 16:51:43 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 9 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, September 19, 2026 - 13:32 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Saturday, September 19, 2026 - 16:51 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/19/demonstrators-in-us-form-human-chain-to-protest-kennedy-center-closure-vote?traffic_source=rss" target="_blank">Demonstrators in US form human chain to protest Kennedy Center closure vote</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-19 16:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/19/nx-s1-5974854/trump-cnn-msnow-politico-ban" target="_blank">CNN, MS NOW, Politico reporters denied access to White House following Trump ban</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-19 15:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +102,29 @@
                 <span class="time">2026-09-19 04:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-09/260918-gemini-ai-vsb-1955-63a238.jpg" alt="Google says its AI model gained unauthorized access to three outside systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/tech/tech-news/google-says-ai-model-gained-unauthorized-access-three-systems-rcna598651" target="_blank">Google says its AI model gained unauthorized access to three outside systems</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-09-19 01:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/19/israeli-strike-on-motorcycle-in-gaza-city-kills-one-injures-child?traffic_source=rss" target="_blank">Israeli strike on motorcycle kills Palestinian in Gaza City, injures child</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-19 00:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack" target="_blank">Gemini went rogue, hacked three companies, and Google hid it</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-09-19 15:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/" target="_blank">Petlibro’s new AI-powered feeder is a game changer for multi-cat homes</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-09-19 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2181891613-500x500.jpg" alt="Learning another language may be one of the best ways to keep your brain healthy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -112,6 +132,15 @@
                 <span class="title"><a href="https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/" target="_blank">Learning another language may be one of the best ways to keep your brain healthy</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-09-19 11:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6aada5d618f30d6f17ee2971/master/pass/Kernal-Panic-AI-SlowDown-Wont-Stop-Security-Vulnerability-Explosion-Security.jpg" alt="Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/" target="_blank">Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-19 11:00</span>
             </div>
         </div>
 <div class="story">
@@ -132,38 +161,38 @@
                 <span class="time">2026-09-19 01:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero" target="_blank">OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-09-18 21:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/chinese-cargo-ship-ai-target-500x500.jpg" alt="AI hallucination of Chinese nuclear components almost led to US military attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/" target="_blank">AI hallucination of Chinese nuclear components almost led to US military attack</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-09-18 20:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6aad91660b25c8351b67323b/master/pass/2293832250" alt="Apple Watch Ultra 4 Review: The Series 12 Is Closing the Gap" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/apple-watch-ultra-4/" target="_blank">Apple Watch Ultra 4 Review: The Series 12 Is Closing the Gap</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-09-18 19:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/momolandnacy2del/why-make-an-llm-do-the-grunt-work-after-jev-who-should-handle-an-agents-tool-work-3nm3" target="_blank">Why Make an LLM Do the Grunt Work? After Jev, Who Should Handle an Agent’s Tool Work?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-19 16:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17466927/crowpanel-advanced-hmi-display-review" target="_blank">Elecrow CrowPanel Advanced HMI Display Review: A Tinkerer&#x27;s Touchscreen</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-09-19 14:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://laya.convaiinnovations.com/" target="_blank">Laya the open source version of Jev</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-19 10:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -189,33 +218,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/laser-cd-ripping-app-linux" target="_blank">Laser is a new, modern CD ripper for Linux</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-09-19 03:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gde/gemma-4-on-a-tesla-t4-qat-weights-decode-179x-faster-than-bf16-2fi4" target="_blank">Gemma 4 on a Tesla T4: QAT Weights Decode 1.79x Faster Than bf16</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-18 21:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://code.claude.com/docs/en/changelog" target="_blank">Claude Code now reads AGENTS.md if there is no Claude.md</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-18 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ghilteras/a-decision-proxy-in-front-of-searxng-speculative-execution-per-engine-circuit-breakers-and-4knj" target="_blank">A decision proxy in front of SearXNG: speculative execution, per-engine circuit breakers, and keyless fallback</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-18 19:03</span>
             </div>
         </div>
 </div>
@@ -282,15 +284,6 @@
                 <span class="time">2026-09-18 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M2SY8ESB7NE2GEQ27T11AZHW/hero-image.jpg" alt="This New iOS 27 Feature May Save You From Getting Scammed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/this-new-ios-27-feature-may-save-you-from-getting-scammed?utm_medium=RSS" target="_blank">This New iOS 27 Feature May Save You From Getting Scammed</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-09-18 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -305,22 +298,13 @@
                 <span class="time">2026-09-18 17:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1789607601-20260918.png" alt="Saturday Morning Breakfast Cereal - Citation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/citation-2" target="_blank">Saturday Morning Breakfast Cereal - Citation</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-09-18 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 50 | 📡 Total Sources: 40 | 📸 With Images: 259 |
-        🔄 Last Updated: 13:32 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 45 | 📡 Total Sources: 40 | 📸 With Images: 259 |
+        🔄 Last Updated: 16:51 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
