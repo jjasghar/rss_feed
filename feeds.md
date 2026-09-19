@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-09-18 22:00:24 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-19 00:44:30 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, September 18, 2026 - 22:00 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, September 19, 2026 - 00:44 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/19/israeli-strike-on-motorcycle-in-gaza-city-kills-one-injures-child?traffic_source=rss" target="_blank">Israeli strike on motorcycle kills Palestinian in Gaza City, injures child</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-19 00:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/18/nx-s1-5973938/fat-bear-week-2026-bracket" target="_blank">Alaska&#x27;s salmon-feasting bears face off in biggest Fat Bear Week ever</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-18 21:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/kennedy-ctr-1-gty-gmh-260915_1789504345940_hpMain_4x3t_384.jpg" alt="Protesters plan to form human chain around Kennedy Center amid Trump&#x27;s threats" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -72,30 +89,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ab3/live/011a4280-b380-11f1-b1d1-571ed4d7ff2c.jpg" alt="&#x27;I&#x27;m telling the truth&#x27;: Earl Spencer defends Diana book claims about Charles in BBC interview" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/sep/18/survivor-panic-struggle-breathe-nigeria-prison-cell-died-minna" target="_blank">Survivor recounts panic and struggle to breathe in Nigerian prison cell where 37 died</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-09-18 15:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72d4/live/9686b940-b360-11f1-8f19-bd786ea30d0b.jpg" alt="Russian hybrid attacks against Europe intensifying, says Macron" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss" target="_blank">Russian hybrid attacks against Europe intensifying, says Macron</a></span>
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cmqxvd1drd35o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;I&#x27;m telling the truth&#x27;: Earl Spencer defends Diana book claims about Charles in BBC interview</a></span>
                 <span class="feed">BBC News</span>
-                <span class="time">2026-09-18 15:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-09/260917-duncan-sheik-3x2-ONETIMEuse-mn-0735-b96926.jpg" alt="Singer-songwriter and Broadway composer Duncan Sheik dies at 56" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/obituaries/singer-songwriter-broadway-composer-duncan-sheik-dead-56-rcna598308" target="_blank">Singer-songwriter and Broadway composer Duncan Sheik dies at 56</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-09-18 14:53</span>
+                <span class="time">2026-09-18 15:59</span>
             </div>
         </div>
 </div>
@@ -103,6 +102,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6aad91660b25c8351b67323b/master/pass/2293832250" alt="Apple Watch Ultra 4 Review: The Series 12 Is Closing the Gap" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/apple-watch-ultra-4/" target="_blank">Apple Watch Ultra 4 Review: The Series 12 Is Closing the Gap</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-18 19:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,15 +154,6 @@
                 <span class="title"><a href="https://arstechnica.com/science/2026/09/meet-the-winner-of-nikons-small-world-in-motion-video-contest/" target="_blank">Meet the winner of Nikon&#x27;s Small World in Motion video contest</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-09-18 13:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6aac48c08bcc778670d64ba8/master/pass/The-Best-Gifts-for-Moms,-From-a-Mom-Who-Tests-Gear.jpg" alt="Best Gifts for Mom (2026): E-Readers, Digital Wall Calendar, Smart Bird Feeders" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-gifts-for-moms-2026/" target="_blank">Best Gifts for Mom (2026): E-Readers, Digital Wall Calendar, Smart Bird Feeders</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-09-18 11:07</span>
             </div>
         </div>
 </div>
@@ -208,12 +207,26 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2023/12/calibre-ebook-manager-app-406x232.jpg" alt="Calibre ebook manager adds AI-powered writing game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/calibre-ebook-app-ai-ficton-writing" target="_blank">Calibre ebook manager adds AI-powered writing game</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-09-18 15:35</span>
+            </div>
+        </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
+<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/" target="_blank">Should you read the code, is RAG dead, and did Skills kill MCP?</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-09-18 15:00</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-on-squid-egg-sacs.html" target="_blank">Friday Squid Blogging: On Squid Egg Sacs</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-09-18 21:06</span>
             </div>
         </div>
 </div>
@@ -257,24 +270,6 @@
                 <span class="time">2026-09-18 14:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/HEc1kF5tMoWSgyCq.jpg?fit=1499%2C829&amp;quality=60&amp;ssl=1" alt="iFixit&#x27;s repair guide for the Steam Machine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/09/17/ifixits-repair-guide-for-the-steam-machine.html" target="_blank">iFixit&#x27;s repair guide for the Steam Machine</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-09-17 23:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/09/diablo-5.jpg" alt="We Asked Blizzard Why Diablo 5 Is Confirmed For PC But StarCraft Is Not" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/diablo-5-pc-starcraft-xbox-confirmed-2000735382" target="_blank">We Asked Blizzard Why Diablo 5 Is Confirmed For PC But StarCraft Is Not</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-09-17 22:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -299,6 +294,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/tyrannosaurus.png" alt="Tyrannosaurus" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3300/" target="_blank">Tyrannosaurus</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-09-18 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.questionablecontent.net/comics/5920.png" alt="Once More With Feeling" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -312,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 45 | 📡 Total Sources: 40 | 📸 With Images: 260 |
-        🔄 Last Updated: 22:00 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 40 | 📡 Total Sources: 40 | 📸 With Images: 260 |
+        🔄 Last Updated: 00:44 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
