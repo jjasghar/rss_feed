@@ -1,33 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-09-19 19:01:59 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-09-19 21:52:53 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 6 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, September 19, 2026 - 19:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, September 19, 2026 - 21:53 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/9/19/fulham-vs-manchester-united-premier-league-prediction-teams-lineups?traffic_source=rss" target="_blank">Fulham vs Manchester United: Premier League – prediction, teams, lineups</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-19 20:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/the-picture-show/2026/09/19/g-s1-139752/the-new-lines-of-southern-lebanon" target="_blank">The new lines of southern Lebanon</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-19 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +105,20 @@
                 <span class="time">2026-09-19 11:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/19/eu-urges-us-to-lift-travel-ban-on-palestinian-delegation-for-unga-meeting?traffic_source=rss" target="_blank">EU urges US to lift travel ban on Palestinian delegation for UNGA meeting</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-19 09:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-09/260916-ai-doomer-scenarios-cs-18c146.jpg" alt="What might an AI doomsday look like? Experts have given it some thought" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/tech/tech-news/ai-doomers-human-extinction-rcna597950" target="_blank">What might an AI doomsday look like? Experts have given it some thought</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-09-19 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/" target="_blank">Flock reportedly tries to shrink workforce with employee buyouts</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-09-19 20:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,15 +164,6 @@
                 <span class="time">2026-09-19 05:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/" target="_blank">India forces caller-ID apps to feed spam reports to telcos</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-09-19 01:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -168,6 +176,15 @@
                 <span class="title"><a href="https://dev.to/momolandnacy2del/why-make-an-llm-do-the-grunt-work-after-jev-who-should-handle-an-agents-tool-work-3nm3" target="_blank">Why Make an LLM Do the Grunt Work? After Jev, Who Should Handle an Agent’s Tool Work?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-09-19 16:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.4-Faster-Do-Open" target="_blank">Simple Optimization For Linux 7.4 Can Open Files For Reading ~39% Faster</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-19 16:28</span>
             </div>
         </div>
 <div class="story">
@@ -206,34 +223,20 @@
                 <span class="time">2026-09-19 05:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/forgedgoods/how-to-verify-self-hosted-llm-tool-specs-before-building-242d" target="_blank">How to Verify Self-Hosted LLM Tool Specs Before Building</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-19 05:07</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-on-squid-egg-sacs.html" target="_blank">Friday Squid Blogging: On Squid Egg Sacs</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-09-18 21:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/09/mariopants.jpg" alt="Nintendo Gives Mario Those Little Coin Pockets In Newly Updated Renders" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/nintendo-gives-mario-those-little-coin-pockets-in-newly-updated-renders-2000735891" target="_blank">Nintendo Gives Mario Those Little Coin Pockets In Newly Updated Renders</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-19 20:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/anne-france-dautheville-motorcycle-scaled.jpg?fit=2560%2C2129&amp;quality=60&amp;ssl=1" alt="In 1973 this woman rode a motorcycle around the world solo" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -261,22 +264,18 @@
                 <span class="time">2026-09-18 22:45</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section webcomics-section" id="webcomics">
+<h2 class="section-header">🎨 Daily Comics</h2>
+<div class="stories-container">
 <div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/09/Fortunesweavegun-1280x720.jpg" alt="Guns Are The Best Narrative Thing That Has Ever Happened To Fire Emblem" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1789607640-20260919.png" alt="Saturday Morning Breakfast Cereal - Roach" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/fire-emblem-fortunes-weave-gun-best-narrative-weapons-2000735635" target="_blank">Guns Are The Best Narrative Thing That Has Ever Happened To Fire Emblem</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-09-18 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M2TS91VNG36NBM2NSBF7CRK1/hero-image.png" alt="These Are the Best Smartwatches to Gift in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/the-best-smartwatches-to-gift-in-2026?utm_medium=RSS" target="_blank">These Are the Best Smartwatches to Gift in 2026</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-09-18 21:00</span>
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/roach-2" target="_blank">Saturday Morning Breakfast Cereal - Roach</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-09-19 15:20</span>
             </div>
         </div>
 </div>
@@ -284,8 +283,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 43 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 19:02 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 36 | 📡 Total Sources: 39 | 📸 With Images: 257 |
+        🔄 Last Updated: 21:53 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
