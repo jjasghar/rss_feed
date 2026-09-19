@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-09-19 16:51:43 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-19 19:01:59 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Generated 9 new posts out of 30 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Saturday, September 19, 2026 - 16:51 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, September 19, 2026 - 19:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -76,6 +71,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1ad/live/fd353880-b421-11f1-8a8e-d9778c1036bb.jpg" alt="Nato welcomes Greenland deal as Trump says it will give US &#x27;permanent security control&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss" target="_blank">Nato welcomes Greenland deal as Trump says it will give US &#x27;permanent security control&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-19 11:36</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -91,15 +95,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/tech/tech-news/ai-doomers-human-extinction-rcna597950" target="_blank">What might an AI doomsday look like? Experts have given it some thought</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-09-19 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/19/uk-jails-teen-asylum-seeker-for-steering-overcrowded-channel-migrant-boat?traffic_source=rss" target="_blank">UK jails teen asylum seeker for steering overcrowded Channel migrant boat</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-19 04:57</span>
             </div>
         </div>
 </div>
@@ -188,6 +183,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://laya.convaiinnovations.com/" target="_blank">I built non-autoregressive decision models with RL a year ago</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-19 10:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://laya.convaiinnovations.com/" target="_blank">Laya the open source version of Jev</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-09-19 10:46</span>
@@ -211,15 +215,6 @@
                 <span class="time">2026-09-19 05:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/09/laser-cd-ripper-linux-406x232.webp" alt="Laser is a new, modern CD ripper for Linux" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/laser-cd-ripping-app-linux" target="_blank">Laser is a new, modern CD ripper for Linux</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-09-19 03:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/anne-france-dautheville-motorcycle-scaled.jpg?fit=2560%2C2129&amp;quality=60&amp;ssl=1" alt="In 1973 this woman rode a motorcycle around the world solo" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/09/19/anne-france-dautheville-motorcycle.html" target="_blank">In 1973 this woman rode a motorcycle around the world solo</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-09-19 17:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/WFRtLikZwxW9FuokhwYzP5-1200-80.jpg.webp?fit=1200%2C675&amp;quality=55&amp;ssl=1" alt="Only four countries have humans in space right now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,36 +279,13 @@
                 <span class="time">2026-09-18 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/09/FFVII_Revelation_June_Screenshots_4-1-1280x720.jpg" alt="Final Fantasy VII Revelation Is Gonna Eat Up 200 Gigabytes Of Storage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/final-fantasy-vii-revelation-file-size-200-gigs-2000735639" target="_blank">Final Fantasy VII Revelation Is Gonna Eat Up 200 Gigabytes Of Storage</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-09-18 19:00</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section webcomics-section" id="webcomics">
-<h2 class="section-header">🎨 Daily Comics</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/09/18/homecoming" target="_blank">Homecoming</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-09-18 17:35</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 45 | 📡 Total Sources: 40 | 📸 With Images: 259 |
-        🔄 Last Updated: 16:51 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 43 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 19:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
