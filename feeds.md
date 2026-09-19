@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-09-19 09:51:57 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-09-19 13:31:55 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Saturday, September 19, 2026 - 09:52 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, September 19, 2026 - 13:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,10 +49,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/19/nx-s1-5966624/opinion-remembering-annie-dillard-nature-writer" target="_blank">Opinion: Remembering Annie Dillard, nature writer</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-19 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/9/19/eu-urges-us-to-lift-travel-ban-on-palestinian-delegation-for-unga-meeting?traffic_source=rss" target="_blank">EU urges US to lift travel ban on Palestinian delegation for UNGA meeting</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-09-19 09:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-09/260916-ai-doomer-scenarios-cs-18c146.jpg" alt="What might an AI doomsday look like? Experts have given it some thought" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/tech/tech-news/ai-doomers-human-extinction-rcna597950" target="_blank">What might an AI doomsday look like? Experts have given it some thought</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-09-19 09:00</span>
             </div>
         </div>
 <div class="story">
@@ -85,29 +100,20 @@
                 <span class="time">2026-09-19 00:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-14-ap-gmh-260918_1789762557639_hpMain_4x3t_384.jpg" alt="Trump says US has struck security agreement with Denmark over Greenland" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/trump-us-struck-security-agreement-denmark-greenland/story?id=136572790" target="_blank">Trump says US has struck security agreement with Denmark over Greenland</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-09-18 23:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/us-news/2026/sep/18/us-men-deported-hotel-equatorial-guinea" target="_blank">Men deported from US bound and beaten in Equatorial Guinea detention hotel, lawyers say</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-09-18 23:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2181891613-500x500.jpg" alt="Learning another language may be one of the best ways to keep your brain healthy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/" target="_blank">Learning another language may be one of the best ways to keep your brain healthy</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-09-19 11:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" alt="B&amp;H Photo Promo Codes and Deals This September 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,15 +157,6 @@
                 <span class="title"><a href="https://www.wired.com/review/apple-watch-ultra-4/" target="_blank">Apple Watch Ultra 4 Review: The Series 12 Is Closing the Gap</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-09-18 19:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/" target="_blank">A new kind of AI model from a ChatGPT inventor is thrilling developers</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-09-18 18:49</span>
             </div>
         </div>
 </div>
@@ -322,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 51 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 09:52 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 50 | 📡 Total Sources: 40 | 📸 With Images: 259 |
+        🔄 Last Updated: 13:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
