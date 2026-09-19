@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-09-19 00:44:30 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing 54 RSS feeds at 2026-09-19 05:14:10 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Generated 10 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, September 19, 2026 - 00:44 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Saturday, September 19, 2026 - 05:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,9 +48,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/19/uk-jails-teen-asylum-seeker-for-steering-overcrowded-channel-migrant-boat?traffic_source=rss" target="_blank">UK jails teen asylum seeker for steering overcrowded Channel migrant boat</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-19 04:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/9/19/israeli-strike-on-motorcycle-in-gaza-city-kills-one-injures-child?traffic_source=rss" target="_blank">Israeli strike on motorcycle kills Palestinian in Gaza City, injures child</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-09-19 00:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-14-ap-gmh-260918_1789762557639_hpMain_4x3t_384.jpg" alt="Trump says US has struck security agreement with Denmark over Greenland" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/trump-us-struck-security-agreement-denmark-greenland/story?id=136572790" target="_blank">Trump says US has struck security agreement with Denmark over Greenland</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-18 23:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1d9/live/919d1120-b3ad-11f1-baa2-f576e6b1431d.jpg" alt="US and Denmark reach deal over Greenland after Trump annexation threats" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss" target="_blank">US and Denmark reach deal over Greenland after Trump annexation threats</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-18 22:58</span>
             </div>
         </div>
 <div class="story">
@@ -70,38 +98,38 @@
                 <span class="time">2026-09-18 20:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/sep/18/survivor-panic-struggle-breathe-nigeria-prison-cell-died-minna" target="_blank">Survivors recount panic and struggle to breathe in Nigerian prison cell where 37 died</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-09-18 17:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1789748464003_now_current_kapur_ai_lawmakers_proposal_260918_S3_1920x1080-yp3pm8.jpg" alt="Breaking down the proposals lawmakers are considering to regulate AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/breaking-down-the-proposals-lawmakers-are-considering-to-regulate-ai-270113349603" target="_blank">Breaking down the proposals lawmakers are considering to regulate AI</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-09-18 16:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ab3/live/011a4280-b380-11f1-b1d1-571ed4d7ff2c.jpg" alt="&#x27;I&#x27;m telling the truth&#x27;: Earl Spencer defends Diana book claims about Charles in BBC interview" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cmqxvd1drd35o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;I&#x27;m telling the truth&#x27;: Earl Spencer defends Diana book claims about Charles in BBC interview</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-18 15:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" alt="B&amp;H Photo Promo Codes and Deals This September 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/bh-photo-coupon/" target="_blank">B&amp;H Photo Promo Codes and Deals This September 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-19 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero" target="_blank">OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-09-18 21:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/chinese-cargo-ship-ai-target-500x500.jpg" alt="AI hallucination of Chinese nuclear components almost led to US military attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/" target="_blank">AI hallucination of Chinese nuclear components almost led to US military attack</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-09-18 20:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6aad91660b25c8351b67323b/master/pass/2293832250" alt="Apple Watch Ultra 4 Review: The Series 12 Is Closing the Gap" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -129,38 +157,29 @@
                 <span class="time">2026-09-18 17:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/" target="_blank">Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-09-18 16:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6aac35420820a9282b5f1721/master/pass/Security_An%20Undercover%20Google%20Researcher%20Infiltrated%20the%20Gang%20Behind%20the%20Worst-Ever%20Supply%20Chain%20Hacking%20Spree_v1.jpg" alt="An Undercover Google Analyst Infiltrated a Notorious Supply-Chain Hacking Gang" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/" target="_blank">An Undercover Google Analyst Infiltrated a Notorious Supply-Chain Hacking Gang</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-09-18 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/nikonTOP-500x500.jpg" alt="Meet the winner of Nikon&#x27;s Small World in Motion video contest" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/09/meet-the-winner-of-nikons-small-world-in-motion-video-contest/" target="_blank">Meet the winner of Nikon&#x27;s Small World in Motion video contest</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-09-18 13:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/forgedgoods/how-to-verify-self-hosted-llm-tool-specs-before-building-242d" target="_blank">How to Verify Self-Hosted LLM Tool Specs Before Building</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-19 05:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/09/laser-cd-ripper-linux-406x232.webp" alt="Laser is a new, modern CD ripper for Linux" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/laser-cd-ripping-app-linux" target="_blank">Laser is a new, modern CD ripper for Linux</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-09-19 03:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,24 +216,6 @@
                 <span class="time">2026-09-18 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Google-Binder-C-Goodbye" target="_blank">Google&#x27;s &quot;Painful To Maintain&quot; Binder C Linux Driver Being Removed In Favor Of Rust</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-18 16:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2023/12/calibre-ebook-manager-app-406x232.jpg" alt="Calibre ebook manager adds AI-powered writing game" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/calibre-ebook-app-ai-ficton-writing" target="_blank">Calibre ebook manager adds AI-powered writing game</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-09-18 15:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/WFRtLikZwxW9FuokhwYzP5-1200-80.jpg.webp?fit=1200%2C675&amp;quality=55&amp;ssl=1" alt="Only four countries have humans in space right now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/09/18/only-four-countries-have-humans-in-space-right-now.html" target="_blank">Only four countries have humans in space right now</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-09-19 00:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/09/wolverinps5slop-1280x720.jpg" alt="Insomniac Confirms Wolverine Doesn’t Contain AI-Generated Assets After A Weird-Looking Sign Goes Viral" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/insomniac-confirms-wolverine-doesnt-contain-ai-generated-assets-after-a-weird-looking-sign-goes-viral-2000735775" target="_blank">Insomniac Confirms Wolverine Doesn’t Contain AI-Generated Assets After A Weird-Looking Sign Goes Viral</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-18 22:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/09/Fortunesweavegun-1280x720.jpg" alt="Guns Are The Best Narrative Thing That Has Ever Happened To Fire Emblem" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -293,31 +312,13 @@
                 <span class="time">2026-09-18 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/tyrannosaurus.png" alt="Tyrannosaurus" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3300/" target="_blank">Tyrannosaurus</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-09-18 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5920.png" alt="Once More With Feeling" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5920" target="_blank">Once More With Feeling</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-09-18 00:59</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 40 | 📡 Total Sources: 40 | 📸 With Images: 260 |
-        🔄 Last Updated: 00:44 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 45 | 📡 Total Sources: 40 | 📸 With Images: 261 |
+        🔄 Last Updated: 05:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
