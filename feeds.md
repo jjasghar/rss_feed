@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-09-19 05:14:10 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-09-19 09:51:57 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 26 feeds processed -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, September 19, 2026 - 05:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Saturday, September 19, 2026 - 09:52 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,9 +53,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/19/eu-urges-us-to-lift-travel-ban-on-palestinian-delegation-for-unga-meeting?traffic_source=rss" target="_blank">EU urges US to lift travel ban on Palestinian delegation for UNGA meeting</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-19 09:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/9/19/uk-jails-teen-asylum-seeker-for-steering-overcrowded-channel-migrant-boat?traffic_source=rss" target="_blank">UK jails teen asylum seeker for steering overcrowded Channel migrant boat</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-09-19 04:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-09/260918-gemini-ai-vsb-1955-63a238.jpg" alt="Google says its AI model gained unauthorized access to three outside systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/tech/tech-news/google-says-ai-model-gained-unauthorized-access-three-systems-rcna598651" target="_blank">Google says its AI model gained unauthorized access to three outside systems</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-09-19 01:37</span>
             </div>
         </div>
 <div class="story">
@@ -72,30 +95,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1d9/live/919d1120-b3ad-11f1-baa2-f576e6b1431d.jpg" alt="US and Denmark reach deal over Greenland after Trump annexation threats" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss" target="_blank">US and Denmark reach deal over Greenland after Trump annexation threats</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-18 22:58</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/18/nx-s1-5973938/fat-bear-week-2026-bracket" target="_blank">Alaska&#x27;s salmon-feasting bears face off in biggest Fat Bear Week ever</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-18 21:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/kennedy-ctr-1-gty-gmh-260915_1789504345940_hpMain_4x3t_384.jpg" alt="Protesters plan to form human chain around Kennedy Center amid Trump&#x27;s threats" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/protesters-plan-form-human-chain-kennedy-center-amid/story?id=136558872" target="_blank">Protesters plan to form human chain around Kennedy Center amid Trump&#x27;s threats</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-09-18 20:32</span>
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/us-news/2026/sep/18/us-men-deported-hotel-equatorial-guinea" target="_blank">Men deported from US bound and beaten in Equatorial Guinea detention hotel, lawyers say</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-09-18 23:08</span>
             </div>
         </div>
 </div>
@@ -110,6 +115,15 @@
                 <span class="title"><a href="https://www.wired.com/story/bh-photo-coupon/" target="_blank">B&amp;H Photo Promo Codes and Deals This September 2026</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-09-19 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/" target="_blank">India forces caller-ID apps to feed spam reports to telcos</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-09-19 01:00</span>
             </div>
         </div>
 <div class="story">
@@ -148,20 +162,20 @@
                 <span class="time">2026-09-18 18:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/07/paramount-water-tower-logo-500x500.jpg" alt="FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/" target="_blank">FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-09-18 17:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html" target="_blank">Human brain is two separate organs, Stanford Medicine-led research finds</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-19 05:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +219,6 @@
                 <span class="title"><a href="https://dev.to/ghilteras/a-decision-proxy-in-front-of-searxng-speculative-execution-per-engine-circuit-breakers-and-4knj" target="_blank">A decision proxy in front of SearXNG: speculative execution, per-engine circuit breakers, and keyless fallback</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-09-18 19:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/09/mariadb-13-released/en/headerimage/mediapipe-image-generator-1789754681972.jpeg" alt="MariaDB 13 Expands Oracle Compatibility and Improves Developer Experience and Observability" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/09/mariadb-13-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">MariaDB 13 Expands Oracle Compatibility and Improves Developer Experience and Observability</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-09-18 19:00</span>
             </div>
         </div>
 </div>
@@ -317,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 45 | 📡 Total Sources: 40 | 📸 With Images: 261 |
-        🔄 Last Updated: 05:14 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 51 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 09:52 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
