@@ -1,43 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-09-20 16:36:14 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-20 19:09:26 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 34 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Sunday, September 20, 2026 - 16:36 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Sunday, September 20, 2026 - 19:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f04c/live/5fddaaf0-b506-11f1-91cc-c5691e33b858.png" alt="Key takeaways from BBC interview as Earl Spencer defends claims about King" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cry4z1xykeleo?at_medium=RSS&at_campaign=rss" target="_blank">Key takeaways from BBC interview as Earl Spencer defends claims about King</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-20 15:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -98,20 +99,29 @@
                 <span class="time">2026-09-20 10:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4608/live/c645c2f0-b475-11f1-9fae-2bf33efa8644.jpg" alt="Harry and Meghan&#x27;s media treatment echoes what happened to Diana, Earl Spencer tells BBC" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwj3d7zrgvk1o?at_medium=RSS&at_campaign=rss" target="_blank">Harry and Meghan&#x27;s media treatment echoes what happened to Diana, Earl Spencer tells BBC</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-20 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/" target="_blank">Is the AI industry really ready to slow down?</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-09-20 18:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown" target="_blank">No one is surprised that Nvidia&amp;#8217;s Jensen Huang thinks AI fears are overblown.</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-09-20 18:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,29 +158,38 @@
                 <span class="time">2026-09-20 11:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy" target="_blank">Meta’s Muse is creepy, but maybe not for the reasons you think</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-09-19 20:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/" target="_blank">Flock reportedly tries to shrink workforce with employee buyouts</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-09-19 20:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/baunegaard/why-claude-code-keeps-writing-shell-commands-that-fail-on-your-mac-4bne" target="_blank">Why Claude Code keeps writing shell commands that fail on your Mac</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-20 19:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-rc4-x86-Fixes" target="_blank">Important x86 Fixes Merged Ahead Of Linux 7.3-rc4</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-20 18:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/08/ubuntu-basic-irc-406x232.webp" alt="Ubuntu 26.10 stops low memory from killing your desktop session" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/ubuntu-memory-oomd-changes" target="_blank">Ubuntu 26.10 stops low memory from killing your desktop session</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-09-20 17:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Faul7gxlbwd091g3jy1pr.png" alt="For VS Code lovers, you can have a colored border and more from now..." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -198,33 +217,6 @@
                 <span class="time">2026-09-20 12:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/09/alibaba-opencodereview/en/headerimage/generatedHeaderImage-1789473748016.jpg" alt="Alibaba Open Sources OpenCodeReview for AI-Assisted Code Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/09/alibaba-opencodereview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Alibaba Open Sources OpenCodeReview for AI-Assisted Code Review</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-09-20 11:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/" target="_blank">AI and the Destruction of the Creative Commons</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-20 10:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://notebook.link/blog/the-last-mile-faster-numpy" target="_blank">The last mile of a long road: faster NumPy in the browser</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-09-20 09:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -248,22 +240,13 @@
                 <span class="time">2026-09-19 20:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/anne-france-dautheville-motorcycle-scaled.jpg?fit=2560%2C2129&amp;quality=60&amp;ssl=1" alt="In 1973 this woman rode a motorcycle around the world solo" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/09/19/anne-france-dautheville-motorcycle.html" target="_blank">In 1973 this woman rode a motorcycle around the world solo</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-09-19 17:25</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 21 | 📅 Last 24h: 36 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 16:36 UTC
+        📊 Displayed: 20 | 📅 Last 24h: 39 | 📡 Total Sources: 40 | 📸 With Images: 256 |
+        🔄 Last Updated: 19:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
