@@ -1,36 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-09-21 00:36:42 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-09-21 05:36:29 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Monday, September 21, 2026 - 00:36 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Monday, September 21, 2026 - 05:36 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/austin_1789947213213_hpMain_4x3t_384.jpg" alt="ICE officer shoots and injures DoorDash delivery driver in Austin: Police" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/man-hospitalized-after-ice-involved-shooting-austin-officials/story?id=136604992" target="_blank">ICE officer shoots and injures DoorDash delivery driver in Austin: Police</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-21 05:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/9/21/09-21-aleppo-depot-explosions-reported-mp4?traffic_source=rss" target="_blank">Massive explosions at Syrian army weapons depot near Aleppo</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-21 04:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/zelenskyy_trump_gty_cw_20260920_1789933344390_hpMain_4x3t_384.jpg" alt="&#x27;There is diplomatic momentum&#x27;: Ukraine&#x27;s Zelenskyy says he spoke with Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,24 +102,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/09/20/nx-s1-5975449/trump-washington-dc-arch-military-complex-snipers-drones" target="_blank">Trump says his D.C. arch will serve as &#x27;military complex&#x27; with snipers and drones</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-09-20 15:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1789911317939_mtp_clip_barrassofreepress_260920_S3_1920x1080-33ar65.jpg" alt="John Barrasso says President Trump banning media outlets doesn’t violate the U.S. Constitution" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/john-barrasso-says-president-trump-banning-media-outlets-doesn-t-violate-the-u-s-constitution-270177349901" target="_blank">John Barrasso says President Trump banning media outlets doesn’t violate the U.S. Constitution</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-09-20 13:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/9/20/gazas-children-return-to-classrooms-after-years-of-israeli-attacks?traffic_source=rss" target="_blank">Gaza’s children return to classrooms after years of Israeli attacks</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-20 12:38</span>
             </div>
         </div>
 </div>
@@ -165,6 +169,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dannydoes_2abdf9c/governance-attack-surface-review-okx-5gke" target="_blank">Governance Attack Surface Review: OKX</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-21 05:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://agentexecutor.io" target="_blank">AX – Google’s Open Agentic Orchestrator</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-20 22:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2023/03/steam-snap-406x232.jpg" alt="Steam snap using core26 is now available for testing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/steam-snap-core26-testing" target="_blank">Steam snap using core26 is now available for testing</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-09-20 20:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/09/bun-AI-rewrite-zig-rust-4-months/en/headerimage/generatedHeaderImage-1789932023289.jpg" alt="Bun Rewrites 535K Lines of Zig into Rust in Four Months, Eliminates Numerous Memory Leaks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -189,33 +220,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-rc4-x86-Fixes" target="_blank">Important x86 Fixes Merged Ahead Of Linux 7.3-rc4</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-09-20 18:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/08/ubuntu-basic-irc-406x232.webp" alt="Ubuntu 26.10 stops low memory from killing your desktop session" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/ubuntu-memory-oomd-changes" target="_blank">Ubuntu 26.10 stops low memory from killing your desktop session</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-09-20 17:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Faul7gxlbwd091g3jy1pr.png" alt="For VS Code lovers, you can have a colored border and more from now..." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/van_dang_6bb5eb169b88a3c9/for-vs-code-lovers-you-can-have-a-colored-border-and-more-from-now-2lem" target="_blank">For VS Code lovers, you can have a colored border and more from now...</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-20 16:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jens_harms_c50ccbd4550050/a-one-number-triage-tool-for-c-code-and-a-cheap-feedback-loop-for-llm-output-1eco" target="_blank">A one-number triage tool for C code (and a cheap feedback loop for LLM output)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-20 12:48</span>
             </div>
         </div>
 </div>
@@ -247,6 +251,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.questionablecontent.net/comics/5921.png" alt="Live Long And Prosper" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5921" target="_blank">Live Long And Prosper</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-09-21 01:02</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1789792044-20260920.png" alt="Saturday Morning Breakfast Cereal - Civilization" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -260,8 +273,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 21 | 📅 Last 24h: 37 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 00:36 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 38 | 📡 Total Sources: 40 | 📸 With Images: 259 |
+        🔄 Last Updated: 05:36 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
