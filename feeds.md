@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-09-21 11:19:02 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-21 17:19:31 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: NPR News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
 <!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, September 21, 2026 - 11:19 UTC</div>
+    <div class="newspaper-date">Monday, September 21, 2026 - 17:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/9/21/how-is-europe-dealing-with-hybrid-war?traffic_source=rss" target="_blank">How is Europe dealing with ‘hybrid war’?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-21 17:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/wh-main_1789986894662_hpMain_4x3t_384.jpg" alt="&#x27;Blatant violation&#x27; of rights: News outlets file lawsuit over Trump ban" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/cnn-ms-now-politico-sue-trump-admin-white/story?id=136613147" target="_blank">&#x27;Blatant violation&#x27; of rights: News outlets file lawsuit over Trump ban</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-21 17:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1790004223797_now_current_grumbach_wh_media_lawsuit_260921_S3_1920x1080-8l1ahv.jpg" alt="3 media outlets sue Trump admin. over ban on White House coverage: &#x27;This threatens press freedom&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/3-media-outlets-sue-trump-administration-over-ban-on-white-house-coverage-270222405511" target="_blank">3 media outlets sue Trump admin. over ban on White House coverage: &#x27;This threatens press freedom&#x27;</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-09-21 15:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260107-musk-grok-jg-14a120.jpg" alt="Elon Musk is flying under the radar in the Texas Senate race. Republicans like it that way." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -72,38 +99,20 @@
                 <span class="time">2026-09-21 05:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/us-news/ng-interactive/2026/sep/21/trump-deportation-deals" target="_blank">Banished to alien lands: Trump’s secret deportation deals</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-09-21 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/9/21/09-21-aleppo-depot-explosions-reported-mp4?traffic_source=rss" target="_blank">Massive explosions at Syrian army weapons depot near Aleppo</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-21 04:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/zelenskyy_trump_gty_cw_20260920_1789933344390_hpMain_4x3t_384.jpg" alt="&#x27;There is diplomatic momentum&#x27;: Ukraine&#x27;s Zelenskyy says he spoke with Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/ukrainian-president-zelenskyy-spoke-president-trump/story?id=136603480" target="_blank">&#x27;There is diplomatic momentum&#x27;: Ukraine&#x27;s Zelenskyy says he spoke with Trump</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-09-20 20:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-500x500.jpg" alt="Google confirms Gemini models hacked three companies in May 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/" target="_blank">Google confirms Gemini models hacked three companies in May 2026</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-09-21 16:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6ab0fffcca426ab5b46ef4b4/master/pass/092126-Bensen%20China.jpg" alt="US and China Discuss Alerting Each Other to AI National Security Threats" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,20 +158,29 @@
                 <span class="time">2026-09-20 18:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/09/20/new-california-law-will-penalize-influencers-dont-disclose-political-ads/" target="_blank">New California law will penalize influencers don’t disclose political ads</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-09-20 16:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsninztkonv9xvjbb42v7.png" alt="[quick-revisit]: Event Loop - Browser vs. Node.js" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mittens420/quick-revisit-event-loop-browser-vs-nodejs-3307" target="_blank">[quick-revisit]: Event Loop - Browser vs. Node.js</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-21 17:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/attach-ubuntu-pro-aws-image-builder" target="_blank">Attach an Ubuntu Pro subscription to your AWS Image Builder image</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-09-21 16:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/articles/architecture-enterprise-personalization-relevance-governance/en/headerimage/Beyond-Relevance-A-Governance-First-Architecture-for-Enterprise-Personalization-header-1789730126317.jpg" alt="Article: Beyond Relevance: A Governance-First Architecture for Enterprise Personalization" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -199,22 +217,18 @@
                 <span class="time">2026-09-21 05:31</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://agentexecutor.io" target="_blank">AX – Google’s Open Agentic Orchestrator</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-20 22:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2023/03/steam-snap-406x232.jpg" alt="Steam snap using core26 is now available for testing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/steam-snap-core26-testing" target="_blank">Steam snap using core26 is now available for testing</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-09-20 20:01</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/09/reverse-engineering-flock-cameras.html" target="_blank">Reverse-Engineering Flock Cameras</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-09-21 14:37</span>
             </div>
         </div>
 </div>
@@ -223,21 +237,21 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/marathon-terminals-1280x720.jpg" alt="Marathon Didn’t Reach As Many Players As Bungie ‘Hoped’ And ‘Needs To Evolve’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/marathon-didnt-reach-as-many-players-as-bungie-hoped-and-needs-to-evolve-2000736189" target="_blank">Marathon Didn’t Reach As Many Players As Bungie ‘Hoped’ And ‘Needs To Evolve’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-21 17:07</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/09/theweekndevangelion-1280x719.jpg" alt="Potential Glimpse At Yoko Taro’s Neon Genesis Evangelion Drops At The Weeknd Concert" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/potential-glimpse-at-yoko-taros-neon-genesis-evangelion-drops-at-the-weeknd-concert-2000735972" target="_blank">Potential Glimpse At Yoko Taro’s Neon Genesis Evangelion Drops At The Weeknd Concert</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-09-20 21:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/09/Marvels-Wolverine-Censored-Image-Via-Squeakyyyy-on-Reddit-1280x720.jpg" alt="Marvel’s Wolverine Seemingly Censored In Some Places, Cutting References To Mystique’s Lesbian Relationship" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/marvels-wolverine-seemingly-censored-in-some-places-cutting-references-to-mystiques-lesbian-relationship-2000735943" target="_blank">Marvel’s Wolverine Seemingly Censored In Some Places, Cutting References To Mystique’s Lesbian Relationship</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-09-20 16:35</span>
             </div>
         </div>
 </div>
@@ -263,22 +277,13 @@
                 <span class="time">2026-09-21 01:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1789792044-20260920.png" alt="Saturday Morning Breakfast Cereal - Civilization" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/civilization-2" target="_blank">Saturday Morning Breakfast Cereal - Civilization</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-09-20 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 39 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 11:19 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 33 | 📡 Total Sources: 40 | 📸 With Images: 261 |
+        🔄 Last Updated: 17:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
