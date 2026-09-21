@@ -1,40 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-09-21 05:36:29 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-09-21 11:19:02 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 31 feeds processed -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, September 21, 2026 - 05:36 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, September 21, 2026 - 11:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,12 +46,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260107-musk-grok-jg-14a120.jpg" alt="Elon Musk is flying under the radar in the Texas Senate race. Republicans like it that way." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/elon-musk-texas-senate-race-republicans-rcna596670" target="_blank">Elon Musk is flying under the radar in the Texas Senate race. Republicans like it that way.</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-09-21 09:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/21/nx-s1-5927288/data-center-election-voters-ai" target="_blank">The data center backlash is reshaping American politics — one community at a time</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-21 09:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/austin_1789947213213_hpMain_4x3t_384.jpg" alt="ICE officer shoots and injures DoorDash delivery driver in Austin: Police" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/US/man-hospitalized-after-ice-involved-shooting-austin-officials/story?id=136604992" target="_blank">ICE officer shoots and injures DoorDash delivery driver in Austin: Police</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-09-21 05:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/us-news/ng-interactive/2026/sep/21/trump-deportation-deals" target="_blank">Banished to alien lands: Trump’s secret deportation deals</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-09-21 05:00</span>
             </div>
         </div>
 <div class="story">
@@ -77,38 +99,20 @@
                 <span class="time">2026-09-20 20:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec5d/live/0cb35a40-b539-11f1-9bd0-bb4fc2f94a87.jpg" alt="German Chancellor Merz calls state election a &#x27;disaster&#x27; for his party but vows to stay on" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss" target="_blank">German Chancellor Merz calls state election a &#x27;disaster&#x27; for his party but vows to stay on</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-20 20:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f04c/live/5fddaaf0-b506-11f1-91cc-c5691e33b858.png" alt="Key takeaways from BBC interview as Earl Spencer defends claims about King" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cry4z1xykeleo?at_medium=RSS&at_campaign=rss" target="_blank">Key takeaways from BBC interview as Earl Spencer defends claims about King</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-20 15:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/20/nx-s1-5975449/trump-washington-dc-arch-military-complex-snipers-drones" target="_blank">Trump says his D.C. arch will serve as &#x27;military complex&#x27; with snipers and drones</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-20 15:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6ab0fffcca426ab5b46ef4b4/master/pass/092126-Bensen%20China.jpg" alt="US and China Discuss Alerting Each Other to AI National Security Threats" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/" target="_blank">US and China Discuss Alerting Each Other to AI National Security Threats</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-21 10:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,20 +158,38 @@
                 <span class="time">2026-09-20 16:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar" target="_blank">Trump now says he wants to form an ‘AI Force’</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-09-20 15:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/articles/architecture-enterprise-personalization-relevance-governance/en/headerimage/Beyond-Relevance-A-Governance-First-Architecture-for-Enterprise-Personalization-header-1789730126317.jpg" alt="Article: Beyond Relevance: A Governance-First Architecture for Enterprise Personalization" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/architecture-enterprise-personalization-relevance-governance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Beyond Relevance: A Governance-First Architecture for Enterprise Personalization</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-09-21 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-BC-250-Linux-PSP-Support" target="_blank">AMD BC-250 Continues Being Improved Under Linux With Patches Now Enabling The PSP</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-21 10:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17468373/ubuntu-26-10-oom-policy" target="_blank">Ubuntu Would Rather Kill Your Apps Before It Takes Down The Session</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-09-21 10:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -193,33 +215,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/steam-snap-core26-testing" target="_blank">Steam snap using core26 is now available for testing</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-09-20 20:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/09/bun-AI-rewrite-zig-rust-4-months/en/headerimage/generatedHeaderImage-1789932023289.jpg" alt="Bun Rewrites 535K Lines of Zig into Rust in Four Months, Eliminates Numerous Memory Leaks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/09/bun-AI-rewrite-zig-rust-4-months/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Bun Rewrites 535K Lines of Zig into Rust in Four Months, Eliminates Numerous Memory Leaks</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-09-20 19:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/baunegaard/why-claude-code-keeps-writing-shell-commands-that-fail-on-your-mac-4bne" target="_blank">Why Claude Code keeps writing shell commands that fail on your Mac</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-20 19:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-rc4-x86-Fixes" target="_blank">Important x86 Fixes Merged Ahead Of Linux 7.3-rc4</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-20 18:19</span>
             </div>
         </div>
 </div>
@@ -251,6 +246,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/09/21/casuality" target="_blank">Casuality</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-09-21 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.questionablecontent.net/comics/5921.png" alt="Live Long And Prosper" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -273,8 +277,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 38 | 📡 Total Sources: 40 | 📸 With Images: 259 |
-        🔄 Last Updated: 05:36 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 39 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 11:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
