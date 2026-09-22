@@ -1,30 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-09-22 00:20:42 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-09-22 05:33:33 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 9 new posts out of 22 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, September 22, 2026 - 00:20 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, September 22, 2026 - 05:33 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +38,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e66/live/e66f3610-b646-11f1-bc1f-3f186ca4140c.jpg" alt="Lithuania ready to &#x27;fight back&#x27; but has evacuation plans in face of Russia threats, PM tells BBC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss" target="_blank">Lithuania ready to &#x27;fight back&#x27; but has evacuation plans in face of Russia threats, PM tells BBC</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-22 01:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-09/260921-Trump-aa-150-f1e4b9.jpg" alt="U.S. military leaders divided over action against the Houthis" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,15 +92,6 @@
                 <span class="time">2026-09-21 18:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/9/21/how-is-europe-dealing-with-hybrid-war?traffic_source=rss" target="_blank">How is Europe dealing with ‘hybrid war’?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-21 17:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -115,6 +113,15 @@
                 <span class="title"><a href="https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/" target="_blank">The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-09-21 23:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-500x500.jpg" alt="Muse, Meta&#x27;s extraordinarily privileged AI assistant, has a serious 0-day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/" target="_blank">Muse, Meta&#x27;s extraordinarily privileged AI assistant, has a serious 0-day</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-09-21 22:24</span>
             </div>
         </div>
 <div class="story">
@@ -144,15 +151,6 @@
                 <span class="time">2026-09-21 16:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6ab0fffcca426ab5b46ef4b4/master/pass/092126-Bensen%20China.jpg" alt="US and China Discuss Alerting Each Other to AI National Security Threats" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/" target="_blank">US and China Discuss Alerting Each Other to AI National Security Threats</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-09-21 10:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -165,6 +163,15 @@
                 <span class="title"><a href="https://dev.to/elanatframework/assemblyscript-webassembly-meets-webforms-core-21-31o4" target="_blank">AssemblyScript WebAssembly Meets WebForms Core 2.1</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-09-21 21:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://mimo.xiaomi.com/mimo-v2-6" target="_blank">MiMo v2.6</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-21 20:12</span>
             </div>
         </div>
 <div class="story">
@@ -203,15 +210,6 @@
                 <span class="time">2026-09-21 16:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/attach-ubuntu-pro-aws-image-builder" target="_blank">Attach an Ubuntu Pro subscription to your AWS Image Builder image</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-09-21 16:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,6 +229,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/Apple-iPad.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This refurbished A13 Bionic iPad costs $209.99 and arrives in near-mint condition" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/09/21/this-refurbished-a13-bionic-ipad-costs-209-99-and-arrives-in-near-mint-condition.html" target="_blank">This refurbished A13 Bionic iPad costs $209.99 and arrives in near-mint condition</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-09-21 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01M2R0F6E5EJ9TRBSXWG9M67K1/hero-image.jpg" alt="10 Hacks Every Proton VPN User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,6 +271,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.questionablecontent.net/comics/5922.png" alt="Checkpoint" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5922" target="_blank">Checkpoint</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-09-22 01:02</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -290,22 +306,13 @@
                 <span class="time">2026-09-21 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5921.png" alt="Live Long And Prosper" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5921" target="_blank">Live Long And Prosper</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-09-21 01:02</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 37 | 📡 Total Sources: 40 | 📸 With Images: 262 |
-        🔄 Last Updated: 00:20 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 38 | 📡 Total Sources: 40 | 📸 With Images: 265 |
+        🔄 Last Updated: 05:33 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
