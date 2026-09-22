@@ -1,32 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-09-22 19:20:19 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-09-22 22:28:26 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 11 new posts out of 23 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, September 22, 2026 - 19:20 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, September 22, 2026 - 22:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ce7/live/a35e4ee0-b6a2-11f1-ba3d-1d5c8a47f823.jpg" alt="Trump threatens to &#x27;annihilate&#x27; Iran in UN speech as officials meet on sidelines" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss" target="_blank">Trump threatens to &#x27;annihilate&#x27; Iran in UN speech as officials meet on sidelines</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-22 21:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/22/nx-s1-5977673/questions-remain-after-grand-jury-declines-indictment-in-nolan-wells-death" target="_blank">Questions remain after grand jury declines indictment in Nolan Wells&#x27; death</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-22 21:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/un-22-gty-gmh-260922_1790089574212_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says team met with Iran delegation at UN" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,24 +99,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss" target="_blank">Burnham expects to find &#x27;common ground&#x27; with Trump in first meeting</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-09-22 06:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e66/live/e66f3610-b646-11f1-bc1f-3f186ca4140c.jpg" alt="Lithuania ready to &#x27;fight back&#x27; but has evacuation plans in face of Russia threats, PM tells BBC" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss" target="_blank">Lithuania ready to &#x27;fight back&#x27; but has evacuation plans in face of Russia threats, PM tells BBC</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-22 01:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-09/260921-Trump-aa-150-f1e4b9.jpg" alt="U.S. military leaders divided over action against the Houthis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/national-security/us-military-leaders-divided-action-houthis-rcna599049" target="_blank">U.S. military leaders divided over action against the Houthis</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-09-21 22:35</span>
             </div>
         </div>
 </div>
@@ -147,12 +152,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-500x500.jpg" alt="Muse, Meta&#x27;s extraordinarily privileged AI assistant, has a serious 0-day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="&#x27;Coyote vs. Acme&#x27; Outgrosses All But 3 WB Movies This Year, Heads To Profit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/" target="_blank">Muse, Meta&#x27;s extraordinarily privileged AI assistant, has a serious 0-day</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-09-21 22:24</span>
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://entertainment.slashdot.org/story/26/09/22/0529223/coyote-vs-acme-outgrosses-all-but-3-wb-movies-this-year-heads-to-profit?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">&#x27;Coyote vs. Acme&#x27; Outgrosses All But 3 WB Movies This Year, Heads To Profit</a></span>
+                <span class="feed">Slashdot</span>
+                
             </div>
         </div>
 </div>
@@ -160,6 +165,24 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/cynthizo/automating-android-play-store-releases-part-3-the-storage-quota-wall-2663" target="_blank">Automating Android Play Store Releases, Part 3: The Storage-Quota Wall</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-22 22:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2022/12/openshot-video-editor-logo--406x232.jpg" alt="OpenShot video editor is now available as a snap" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/openshot-video-editor-snap" target="_blank">OpenShot video editor is now available as a snap</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-09-22 22:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,24 +219,6 @@
                 <span class="time">2026-09-22 14:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.cryptocellar.org/bgac/the-mvueh-break.html" target="_blank">OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-22 13:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17469532/raspberry-pi-blocks-ram-upgrades" target="_blank">Raspberry Pi Disallows RAM Upgrades to Fight Fraud, Does it Make Sense?</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-09-22 12:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/09/tapas-1280x720.jpg" alt="Comics Creators And Readers Are Reeling After The News That Tapas Is Shutting Down" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/comics-creators-and-readers-are-reeling-after-the-news-that-tapas-is-shutting-down-2000736552" target="_blank">Comics Creators And Readers Are Reeling After The News That Tapas Is Shutting Down</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-22 22:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2HJ31P2KPHJAH20X2FBKZ5/hero-image.png" alt="Your Fitness Tracker Has No Idea How Many Calories You’re Burning" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/you-cant-trust-your-fitness-tracker-on-calorie-burn?utm_medium=RSS" target="_blank">Your Fitness Tracker Has No Idea How Many Calories You’re Burning</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-09-22 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/09/Star-Wars-Zero-Company.jpg" alt="Star Wars Zero Company Estimated To Have Reached 1 Million Sales Amid Staff Furloughs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,29 +292,20 @@
                 <span class="time">2026-09-22 13:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M34A9GVZMYHBZRRXVXEV28EJ/hero-image.jpg" alt="This Tapo Robot Vacuum and Mop Combo Is $100 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/tapo-robot-vacuum-and-mop-combo-deal-september-2026?utm_medium=RSS" target="_blank">This Tapo Robot Vacuum and Mop Combo Is $100 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-09-22 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/Apple-iPad.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This refurbished A13 Bionic iPad costs $209.99 and arrives in near-mint condition" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/09/21/this-refurbished-a13-bionic-ipad-costs-209-99-and-arrives-in-near-mint-condition.html" target="_blank">This refurbished A13 Bionic iPad costs $209.99 and arrives in near-mint condition</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-09-21 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1789955423-20260922.png" alt="Saturday Morning Breakfast Cereal - Taken" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/taken" target="_blank">Saturday Morning Breakfast Cereal - Taken</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-09-22 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.questionablecontent.net/comics/5922.png" alt="Checkpoint" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -306,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 41 | 📡 Total Sources: 39 | 📸 With Images: 268 |
-        🔄 Last Updated: 19:20 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 38 | 📡 Total Sources: 39 | 📸 With Images: 269 |
+        🔄 Last Updated: 22:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
