@@ -1,26 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-09-22 10:29:19 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-09-22 15:12:48 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 17 feeds processed -->
+<!-- Generated 11 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Tuesday, September 22, 2026 - 10:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, September 22, 2026 - 15:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,12 +47,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/trump_unga_arms-h6ik7m.jpg" alt="World leaders speak at United Nations General Assembly" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/watch-live-world-leaders-speak-at-united-nations-general-assembly-270226501627" target="_blank">World leaders speak at United Nations General Assembly</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-09-22 12:27</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/UKRAINE-PROPAGANDA-MPX-V03-ftboq6.jpg" alt="Filmed in Captivity: Inside Russia’s Prison Propaganda Machine" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
                 <span class="title"><a href="https://www.nbcnews.com/video/forced-confessions-how-russia-s-pow-propaganda-videos-haunt-ukraine-270252613616" target="_blank">Filmed in Captivity: Inside Russia’s Prison Propaganda Machine</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-09-22 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9db6/live/f0a69f40-b670-11f1-b711-df5e4d50c2fd.jpg" alt="Burnham expects to find &#x27;common ground&#x27; with Trump in first meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss" target="_blank">Burnham expects to find &#x27;common ground&#x27; with Trump in first meeting</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-22 06:03</span>
             </div>
         </div>
 <div class="story">
@@ -72,29 +100,20 @@
                 <span class="time">2026-09-21 22:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/trump-xi-1-gty-gmh-260921_1790021863405_hpMain_4x3t_384.jpg" alt="Some lawmakers say Trump should confront Xi over Chinese support for Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/lawmakers-trump-confront-xi-chinese-support-iran/story?id=136621188" target="_blank">Some lawmakers say Trump should confront Xi over Chinese support for Iran</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-09-21 22:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fc4/live/2a039960-b5d0-11f1-b1d1-571ed4d7ff2c.jpg" alt="Airlines criticise air traffic control as second glitch causes more disruption" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss" target="_blank">Airlines criticise air traffic control as second glitch causes more disruption</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-21 20:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2295851553-500x500.jpg" alt="Protests for Germany’s car industry as job losses loom" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/09/protests-for-germanys-car-industry-as-job-losses-loom/" target="_blank">Protests for Germany’s car industry as job losses loom</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-09-22 14:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,20 +159,38 @@
                 <span class="time">2026-09-21 18:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-500x500.jpg" alt="Google confirms Gemini models hacked three companies in May 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/" target="_blank">Google confirms Gemini models hacked three companies in May 2026</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-09-21 16:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/SPECviewperf-15.0.1-Linux" target="_blank">SPEC Releases SPECviewperf 15.0.1 For Linux</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-22 14:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.cryptocellar.org/bgac/the-mvueh-break.html" target="_blank">OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-22 13:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17469532/raspberry-pi-blocks-ram-upgrades" target="_blank">Raspberry Pi Disallows RAM Upgrades to Fight Fraud, Does it Make Sense?</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-09-22 12:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -181,33 +218,6 @@
                 <span class="time">2026-09-22 07:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx3amikxr5lw9b2za28hw.jpg" alt="AssemblyScript WebAssembly Meets WebForms Core 2.1" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/elanatframework/assemblyscript-webassembly-meets-webforms-core-21-31o4" target="_blank">AssemblyScript WebAssembly Meets WebForms Core 2.1</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-21 21:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://mimo.xiaomi.com/mimo-v2-6" target="_blank">MiMo v2.6</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-21 20:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://mimo.xiaomi.com/mimo-v2-6" target="_blank">Xiaomi MiMo v2.6</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-21 20:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -217,9 +227,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/09/reverse-engineering-flock-cameras.html" target="_blank">Reverse-Engineering Flock Cameras</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/09/gpt-6-astra-breaks-an-old-enigma-message.html" target="_blank">GPT-6 Astra Breaks an Old Enigma Message</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2026-09-21 14:37</span>
+                <span class="time">2026-09-22 11:02</span>
             </div>
         </div>
 </div>
@@ -227,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/clavicular-mugshot.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="Looksmaxxer Braden &quot;Clavicular&quot; Peters charged with rape" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/09/22/looksmaxxer-braden-clavicular-peters-charged-with-rape.html" target="_blank">Looksmaxxer Braden &quot;Clavicular&quot; Peters charged with rape</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-09-22 13:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M34A9GVZMYHBZRRXVXEV28EJ/hero-image.jpg" alt="This Tapo Robot Vacuum and Mop Combo Is $100 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/tapo-robot-vacuum-and-mop-combo-deal-september-2026?utm_medium=RSS" target="_blank">This Tapo Robot Vacuum and Mop Combo Is $100 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-09-22 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/Apple-iPad.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This refurbished A13 Bionic iPad costs $209.99 and arrives in near-mint condition" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -300,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 38 | 📡 Total Sources: 40 | 📸 With Images: 266 |
-        🔄 Last Updated: 10:29 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 44 | 📡 Total Sources: 40 | 📸 With Images: 266 |
+        🔄 Last Updated: 15:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
