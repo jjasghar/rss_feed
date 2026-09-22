@@ -1,36 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-09-21 21:19:32 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-22 00:20:42 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Generated 9 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, September 21, 2026 - 21:19 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, September 22, 2026 - 00:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +40,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-09/260921-Trump-aa-150-f1e4b9.jpg" alt="U.S. military leaders divided over action against the Houthis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/national-security/us-military-leaders-divided-action-houthis-rcna599049" target="_blank">U.S. military leaders divided over action against the Houthis</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-09-21 22:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/trump-xi-1-gty-gmh-260921_1790021863405_hpMain_4x3t_384.jpg" alt="Some lawmakers say Trump should confront Xi over Chinese support for Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/lawmakers-trump-confront-xi-chinese-support-iran/story?id=136621188" target="_blank">Some lawmakers say Trump should confront Xi over Chinese support for Iran</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-21 22:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fc4/live/2a039960-b5d0-11f1-b1d1-571ed4d7ff2c.jpg" alt="Airlines criticise air traffic control as second glitch causes more disruption" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss" target="_blank">Airlines criticise air traffic control as second glitch causes more disruption</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-21 20:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,38 +94,29 @@
                 <span class="time">2026-09-21 17:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/wh-main_1789986894662_hpMain_4x3t_384.jpg" alt="&#x27;Blatant violation&#x27; of rights: News outlets file lawsuit over Trump ban" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/cnn-ms-now-politico-sue-trump-admin-white/story?id=136613147" target="_blank">&#x27;Blatant violation&#x27; of rights: News outlets file lawsuit over Trump ban</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-09-21 17:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1790004223797_now_current_grumbach_wh_media_lawsuit_260921_S3_1920x1080-8l1ahv.jpg" alt="3 media outlets sue Trump admin. over ban on White House coverage: &#x27;This threatens press freedom&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/3-media-outlets-sue-trump-administration-over-ban-on-white-house-coverage-270222405511" target="_blank">3 media outlets sue Trump admin. over ban on White House coverage: &#x27;This threatens press freedom&#x27;</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-09-21 15:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260107-musk-grok-jg-14a120.jpg" alt="Elon Musk is flying under the radar in the Texas Senate race. Republicans like it that way." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/elon-musk-texas-senate-race-republicans-rcna596670" target="_blank">Elon Musk is flying under the radar in the Texas Senate race. Republicans like it that way.</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-09-21 09:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us" target="_blank">A cut cable disrupted hundreds of flights across the US</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-09-21 23:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/" target="_blank">The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-09-21 23:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/Ukraine-drone-boat-machine-gun-500x500.jpg" alt="Military milestone: Ukrainian naval drone sinks Russian kamikaze drone boat" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,24 +153,6 @@
                 <span class="time">2026-09-21 10:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/" target="_blank">6 days left to save up to $200 to TechCrunch Disrupt 2026</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-09-20 21:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Are Book Publishers Warming Up to the AI Industry?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://news.slashdot.org/story/26/09/21/0551218/are-book-publishers-warming-up-to-the-ai-industry?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Are Book Publishers Warming Up to the AI Industry?</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,6 +165,15 @@
                 <span class="title"><a href="https://dev.to/elanatframework/assemblyscript-webassembly-meets-webforms-core-21-31o4" target="_blank">AssemblyScript WebAssembly Meets WebForms Core 2.1</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-09-21 21:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://mimo.xiaomi.com/mimo-v2-6" target="_blank">Xiaomi MiMo v2.6</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-21 20:12</span>
             </div>
         </div>
 <div class="story">
@@ -207,15 +210,6 @@
                 <span class="title"><a href="https://ubuntu.com//blog/attach-ubuntu-pro-aws-image-builder" target="_blank">Attach an Ubuntu Pro subscription to your AWS Image Builder image</a></span>
                 <span class="feed">Ubuntu blog</span>
                 <span class="time">2026-09-21 16:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/architecture-enterprise-personalization-relevance-governance/en/headerimage/Beyond-Relevance-A-Governance-First-Architecture-for-Enterprise-Personalization-header-1789730126317.jpg" alt="Article: Beyond Relevance: A Governance-First Architecture for Enterprise Personalization" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/architecture-enterprise-personalization-relevance-governance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Beyond Relevance: A Governance-First Architecture for Enterprise Personalization</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-09-21 11:00</span>
             </div>
         </div>
 </div>
@@ -264,20 +258,29 @@
                 <span class="time">2026-09-21 17:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/09/theweekndevangelion-1280x719.jpg" alt="Potential Glimpse At Yoko Taro’s Neon Genesis Evangelion Drops At The Weeknd Concert" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/potential-glimpse-at-yoko-taros-neon-genesis-evangelion-drops-at-the-weeknd-concert-2000735972" target="_blank">Potential Glimpse At Yoko Taro’s Neon Genesis Evangelion Drops At The Weeknd Concert</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-09-20 21:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/09/21/casuality" target="_blank">Casuality</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-09-21 17:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1789955292-20260921.png" alt="Saturday Morning Breakfast Cereal - In" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/in" target="_blank">Saturday Morning Breakfast Cereal - In</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-09-21 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -301,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 32 | 📡 Total Sources: 40 | 📸 With Images: 264 |
-        🔄 Last Updated: 21:19 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 37 | 📡 Total Sources: 40 | 📸 With Images: 262 |
+        🔄 Last Updated: 00:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
