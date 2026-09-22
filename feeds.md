@@ -1,28 +1,26 @@
-<!-- Processing 54 RSS feeds at 2026-09-22 05:33:33 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-09-22 10:29:19 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 20 feeds processed -->
+<!-- Generated 7 new posts out of 17 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, September 22, 2026 - 05:33 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Tuesday, September 22, 2026 - 10:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +36,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/UKRAINE-PROPAGANDA-MPX-V03-ftboq6.jpg" alt="Filmed in Captivity: Inside Russia’s Prison Propaganda Machine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/forced-confessions-how-russia-s-pow-propaganda-videos-haunt-ukraine-270252613616" target="_blank">Filmed in Captivity: Inside Russia’s Prison Propaganda Machine</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-09-22 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e66/live/e66f3610-b646-11f1-bc1f-3f186ca4140c.jpg" alt="Lithuania ready to &#x27;fight back&#x27; but has evacuation plans in face of Russia threats, PM tells BBC" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -57,6 +64,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/us-news/2026/sep/21/africa-healthcare-aid-program-withdrawl" target="_blank">Healthcare in Africa ‘under growing strain’ after US withdrawal from aid programs, report warns</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-09-21 22:33</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/trump-xi-1-gty-gmh-260921_1790021863405_hpMain_4x3t_384.jpg" alt="Some lawmakers say Trump should confront Xi over Chinese support for Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -72,24 +88,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss" target="_blank">Airlines criticise air traffic control as second glitch causes more disruption</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-09-21 20:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/21/nx-s1-5973179/equinox-henge-sunrise-sunset" target="_blank">What the equinox &#x27;henge&#x27; effect tells us about U.S. cities</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-21 19:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1790016134515_now_daily_b_paramount_warnerbros_aca_merger_260921_S3_1920x1080-mfwbjc.jpg" alt="Paramount reaches deal with states over $110B Warner Bros. merger" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/paramount-reaches-deal-with-states-over-110b-warner-bros-merger-270234693636" target="_blank">Paramount reaches deal with states over $110B Warner Bros. merger</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-09-21 18:42</span>
             </div>
         </div>
 </div>
@@ -157,6 +155,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-sysfs-AMD-SEV-Status" target="_blank">Linux Adding New Interface For Reporting AMD SEV Status</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-22 10:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/lessons-startup-engineering/en/mediumimage/david-medium-1789631290867.jpeg" alt="Presentation: Maximizing Success with Limited Time, Resources, and Energy: Lessons from Startup Engineering" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/lessons-startup-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Maximizing Success with Limited Time, Resources, and Energy: Lessons from Startup Engineering</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-09-22 09:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/09/22/haters-think-ai-can-t-gpu-code-this-ll-rocm/" target="_blank">Haters think AI agents can&#x27;t write GPU code? This&#x27;ll ROCm</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-09-22 07:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx3amikxr5lw9b2za28hw.jpg" alt="AssemblyScript WebAssembly Meets WebForms Core 2.1" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -181,33 +206,6 @@
                 <span class="title"><a href="https://mimo.xiaomi.com/mimo-v2-6" target="_blank">Xiaomi MiMo v2.6</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-09-21 20:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsninztkonv9xvjbb42v7.png" alt="[quick-revisit]: Event Loop - Browser vs. Node.js" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mittens420/quick-revisit-event-loop-browser-vs-nodejs-3307" target="_blank">[quick-revisit]: Event Loop - Browser vs. Node.js</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-21 17:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/09/java-news-roundup-sep14-2026/en/headerimage/java-news-roundup-image-1790009899544.jpg" alt="Java News Roundup: JDK 27, Open J Proxy, A2A Jakarta, Azul Payara, BoxLang, Netflix ja" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/09/java-news-roundup-sep14-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: JDK 27, Open J Proxy, A2A Jakarta, Azul Payara, BoxLang, Netflix ja</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-09-21 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/09/subtlime-text-2026-406x232.webp" alt="Sublime Text gains new C# highlighter, file icon themes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/sublime-text-python-3-14-update" target="_blank">Sublime Text gains new C# highlighter, file icon themes</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-09-21 16:51</span>
             </div>
         </div>
 </div>
@@ -297,22 +295,13 @@
                 <span class="time">2026-09-21 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/09/21/casuality" target="_blank">Casuality</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-09-21 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 38 | 📡 Total Sources: 40 | 📸 With Images: 265 |
-        🔄 Last Updated: 05:33 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 38 | 📡 Total Sources: 40 | 📸 With Images: 266 |
+        🔄 Last Updated: 10:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
