@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-09-22 15:12:48 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-09-22 19:20:19 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 27 feeds processed -->
+<!-- Generated 11 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, September 22, 2026 - 15:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, September 22, 2026 - 19:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/un-22-gty-gmh-260922_1790089574212_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says team met with Iran delegation at UN" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-irgc-ready-counteroffensive-us-attacks/?id=136611503" target="_blank">Iran live updates: Trump says team met with Iran delegation at UN</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-22 18:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/trump_unga_arms-h6ik7m.jpg" alt="World leaders speak at United Nations General Assembly" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,20 +96,29 @@
                 <span class="time">2026-09-21 22:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/us-news/2026/sep/21/africa-healthcare-aid-program-withdrawl" target="_blank">Healthcare in Africa ‘under growing strain’ after US withdrawal from aid programs, report warns</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-09-21 22:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6ab2a6f4d38d5a63a756fca7/master/pass/GettyImages-1683464893%20(1).jpg" alt="How to Claim Your Cut of Apple’s $250 Million Siri Settlement" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-to-claim-your-cut-of-apple-250-million-siri-settlement/" target="_blank">How to Claim Your Cut of Apple’s $250 Million Siri Settlement</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-22 18:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/998824/apple-magic-keyboard-touch-interstellar-4k-blu-ray-deal-sale" target="_blank">Save $30 on Apple’s Magic Keyboard with Touch ID and a numpad</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-09-22 18:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2295851553-500x500.jpg" alt="Protests for Germany’s car industry as job losses loom" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,29 +155,38 @@
                 <span class="time">2026-09-21 22:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/Ukraine-drone-boat-machine-gun-500x500.jpg" alt="Military milestone: Ukrainian naval drone sinks Russian kamikaze drone boat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/09/military-milestone-ukrainian-naval-drone-sinks-russian-kamikaze-drone-boat/" target="_blank">Military milestone: Ukrainian naval drone sinks Russian kamikaze drone boat</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-09-21 21:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6ab15a857fffb9bb745696eb/master/pass/trumpxi.jpg" alt="AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping/" target="_blank">AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-09-21 18:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-Canonical-Did-345M-2025" target="_blank">Ubuntu Linux Maker Canonical Achieved $345M USD In Revenue For 2025</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-22 18:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://openai.com/index/introducing-gpt-6-sol-and-luna/" target="_blank">GPT-6 Sol and Luna</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-22 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!_YFt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c1feff9-3b33-4c9d-a088-ef35a1fb2978_872x607.png" alt="How will AI change operating systems? Part 2: Windows" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/windows-and-ai" target="_blank">How will AI change operating systems? Part 2: Windows</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-09-22 17:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -191,33 +214,6 @@
                 <span class="time">2026-09-22 12:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-sysfs-AMD-SEV-Status" target="_blank">Linux Adding New Interface For Reporting AMD SEV Status</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-22 10:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/lessons-startup-engineering/en/mediumimage/david-medium-1789631290867.jpeg" alt="Presentation: Maximizing Success with Limited Time, Resources, and Energy: Lessons from Startup Engineering" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/lessons-startup-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Maximizing Success with Limited Time, Resources, and Energy: Lessons from Startup Engineering</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-09-22 09:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/09/22/haters-think-ai-can-t-gpu-code-this-ll-rocm/" target="_blank">Haters think AI agents can&#x27;t write GPU code? This&#x27;ll ROCm</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-09-22 07:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +233,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/09/Star-Wars-Zero-Company.jpg" alt="Star Wars Zero Company Estimated To Have Reached 1 Million Sales Amid Staff Furloughs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/star-wars-zero-company-estimated-to-have-reached-1-million-sales-amid-staff-furloughs-2000736532" target="_blank">Star Wars Zero Company Estimated To Have Reached 1 Million Sales Amid Staff Furloughs</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-22 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/green-donuts.jpg?fit=1308%2C812&amp;quality=60&amp;ssl=1" alt="Nancy Grace Roman Space Telescope test images" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/09/22/nancy-grace-roman-space-telescope-test-images.html" target="_blank">Nancy Grace Roman Space Telescope test images</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-09-22 18:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M34ZZ1THSSQTY9NNQ281RV7B/hero-image.png" alt="The Boox Picco Is a Contender for My New Favorite Tiny E-Reader" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/the-boox-picco-is-a-contender-for-your-new-favorite-tiny-e-reader?utm_medium=RSS" target="_blank">The Boox Picco Is a Contender for My New Favorite Tiny E-Reader</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-09-22 17:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/clavicular-mugshot.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="Looksmaxxer Braden &quot;Clavicular&quot; Peters charged with rape" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,33 +287,6 @@
                 <span class="time">2026-09-21 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M2R0F6E5EJ9TRBSXWG9M67K1/hero-image.jpg" alt="10 Hacks Every Proton VPN User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-proton-vpn-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Proton VPN User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-09-21 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/fountain-pen-singapore-readsg-coins.jpg?fit=1600%2C1200&amp;quality=60&amp;ssl=1" alt="Singapore will pay you 2 cents a day to read" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/09/21/fountain-pen-singapore-readsg-coins.html" target="_blank">Singapore will pay you 2 cents a day to read</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-09-21 19:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/marathon-terminals-1280x720.jpg" alt="Marathon Didn’t Reach As Many Players As Bungie ‘Hoped’ And ‘Needs To Evolve’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/marathon-didnt-reach-as-many-players-as-bungie-hoped-and-needs-to-evolve-2000736189" target="_blank">Marathon Didn’t Reach As Many Players As Bungie ‘Hoped’ And ‘Needs To Evolve’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-09-21 17:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -305,31 +301,13 @@
                 <span class="time">2026-09-22 01:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/09/21/casuality" target="_blank">Casuality</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-09-21 17:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1789955292-20260921.png" alt="Saturday Morning Breakfast Cereal - In" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/in" target="_blank">Saturday Morning Breakfast Cereal - In</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-09-21 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 44 | 📡 Total Sources: 40 | 📸 With Images: 266 |
-        🔄 Last Updated: 15:13 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 41 | 📡 Total Sources: 39 | 📸 With Images: 268 |
+        🔄 Last Updated: 19:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
