@@ -1,31 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-09-23 17:32:05 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-09-23 20:47:08 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NPR News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Linux.com -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 8 new posts out of 23 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, September 23, 2026 - 17:32 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, September 23, 2026 - 20:47 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +39,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/23/trump-administration-invites-putin-to-attend-g20-summit-in-miami?traffic_source=rss" target="_blank">Trump administration invites Putin to attend G20 summit in Miami</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-23 20:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/23/nx-s1-5978733/trump-xi-meeting-china" target="_blank">Trump set to greet Xi for high-stakes state visit</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-23 18:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,29 +93,29 @@
                 <span class="time">2026-09-23 13:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/23/g-s1-144536/floods-climate-nepal-himalayas-dams-hydropower" target="_blank">Is Nepal&#x27;s flood a harbinger of what&#x27;s to come in the Himalayas?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-23 11:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1790162234420_tdy_news_7a_haake_wh_ban_suit_260923_S3_1920x1080-pnqpqf.jpg" alt="White House Responds to Suit Filed by 3 News Outlets Over Ban" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/white-house-responds-to-suit-filed-by-3-news-outlets-over-ban-270354501675" target="_blank">White House Responds to Suit Filed by 3 News Outlets Over Ban</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-09-23 11:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/999195/microsoft-surface-pro-12-inch-surface-laptop-13-inch-qualcomm-x2-plus" target="_blank">Microsoft refreshes its smaller Surface Pro and Laptop with Qualcomm’s X2 Plus</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-09-23 20:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/Andurils-fire-retardant-balls-explode-on-fire-target-500x500.jpg" alt="XPRIZE Wildfire winners spotted fires within 10 min—but couldn’t stop them" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/09/xprize-wildfire-winners-spotted-fires-within-10-min-but-couldnt-stop-them/" target="_blank">XPRIZE Wildfire winners spotted fires within 10 min—but couldn’t stop them</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-09-23 20:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -136,29 +152,29 @@
                 <span class="time">2026-09-23 11:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1248375228-500x500.jpg" alt="Small undersea volcanoes may unleash outsized tsunamis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/09/small-undersea-volcanoes-may-unleash-outsized-tsunamis/" target="_blank">Small undersea volcanoes may unleash outsized tsunamis</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-09-23 11:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel" target="_blank">OpenAI wants to consult elite mathematicians about how to not fumble again</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-09-23 00:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.anthropic.com/news/claude-discovers-novel-enzyme-system" target="_blank">Claude discovers a novel enzyme system with CRISPR-like repeats</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-23 18:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/design-engineering-with-maggie-appleton" target="_blank">Design Engineering with Maggie Appleton</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-09-23 17:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,29 +211,20 @@
                 <span class="time">2026-09-23 08:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.nobodywho.ai/posts/jev-in-25-lines/" target="_blank">Jev in 25 Lines of Python</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-23 07:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17470881/local-ai-jargon-test" target="_blank">Local AI Jargon Quiz: Do You Know All These Buzzwords?</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-09-23 06:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/darkwingduck.jpg?fit=480%2C360&amp;quality=60&amp;ssl=1" alt="Let&#x27;s get dangerous again: Darkwing Duck set to return" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/09/23/lets-get-dangerous-again-darkwing-duck-set-to-return.html" target="_blank">Let&#x27;s get dangerous again: Darkwing Duck set to return</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-09-23 19:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/09/endgame2.jpg" alt="Avengers Endgame’s New Footage Has Leaked Online, And Plays Right Into A Popular Conspiracy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -243,33 +250,6 @@
                 <span class="title"><a href="https://lifehacker.com/you-cant-trust-your-fitness-tracker-on-calorie-burn?utm_medium=RSS" target="_blank">Your Fitness Tracker Has No Idea How Many Calories You’re Burning</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-09-22 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/sammy-petrillo-your-time-is-now.jpg?fit=518%2C763&amp;quality=60&amp;ssl=1" alt="New biography of Jerry Lewis look-alike Sammy Petrillo, with a Drew Friedman cover" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/09/22/sammy-petrillo-your-time-is-now.html" target="_blank">New biography of Jerry Lewis look-alike Sammy Petrillo, with a Drew Friedman cover</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-09-22 20:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/09/Star-Wars-Zero-Company.jpg" alt="Star Wars Zero Company Estimated To Have Reached 1 Million Sales Amid Staff Furloughs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/star-wars-zero-company-estimated-to-have-reached-1-million-sales-amid-staff-furloughs-2000736532" target="_blank">Star Wars Zero Company Estimated To Have Reached 1 Million Sales Amid Staff Furloughs</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-09-22 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/green-donuts.jpg?fit=1308%2C812&amp;quality=60&amp;ssl=1" alt="Nancy Grace Roman Space Telescope test images" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/09/22/nancy-grace-roman-space-telescope-test-images.html" target="_blank">Nancy Grace Roman Space Telescope test images</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-09-22 18:08</span>
             </div>
         </div>
 </div>
@@ -300,8 +280,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 47 | 📡 Total Sources: 40 | 📸 With Images: 270 |
-        🔄 Last Updated: 17:32 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 43 | 📡 Total Sources: 40 | 📸 With Images: 269 |
+        🔄 Last Updated: 20:47 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
