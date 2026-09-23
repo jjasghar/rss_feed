@@ -1,43 +1,26 @@
-<!-- Processing 54 RSS feeds at 2026-09-23 01:00:36 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-09-23 06:53:00 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 34 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 18 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, September 23, 2026 - 01:00 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, September 23, 2026 - 06:53 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +36,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/macron-muir-3-abc-gmh-260922_1790102615119_hpMain_4x3t_384.jpg" alt="Macron tells ABC News&#x27; David Muir: &#x27;Hormuz Strait was probably underestimated&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/macron-tells-abcs-david-muir-hormuz-strait-underestimated/story?id=136661829" target="_blank">Macron tells ABC News&#x27; David Muir: &#x27;Hormuz Strait was probably underestimated&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-23 01:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/nolan-xavier-wells-ht-jef-260707_1783428332296_hpMain_4_4x3t_384.jpg" alt="Nolan Wells&#x27; parents make emotional plea for justice after no charges filed in death" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -96,15 +88,6 @@
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-irgc-ready-counteroffensive-us-attacks/?id=136611503" target="_blank">Iran live updates: Trump says team met with Iran delegation at UN</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-09-22 18:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/trump_unga_arms-h6ik7m.jpg" alt="World leaders speak at United Nations General Assembly" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/watch-live-world-leaders-speak-at-united-nations-general-assembly-270226501627" target="_blank">World leaders speak at United Nations General Assembly</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-09-22 12:27</span>
             </div>
         </div>
 </div>
@@ -174,6 +157,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/09/23/multiplayer-ai-why-your-team-and-its-agents-need-a-group-chat/" target="_blank">Multiplayer AI: Why your team (and its agents) need a group chat</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-09-23 04:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Nouveau-Deep-Color-Patches" target="_blank">Open-Source NVIDIA &quot;Nouveau&quot; Driver Sees Patches For HDMI Deep Color Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-23 00:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/cynthizo/automating-android-play-store-releases-part-3-the-storage-quota-wall-2663" target="_blank">Automating Android Play Store Releases, Part 3: The Storage-Quota Wall</a></span>
                 <span class="feed">DEV Community</span>
@@ -205,24 +206,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-Strix-Halo" target="_blank">Linux 7.2 vs. Linux 7.3 Shows A Few Improvements With AMD Strix Halo</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-09-22 19:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-Canonical-Did-345M-2025" target="_blank">Ubuntu Linux Maker Canonical Achieved $345M USD In Revenue For 2025</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-22 18:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://openai.com/index/introducing-gpt-6-sol-and-luna/" target="_blank">GPT-6 Sol and Luna</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-22 18:00</span>
             </div>
         </div>
 </div>
@@ -312,22 +295,13 @@
                 <span class="time">2026-09-22 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5922.png" alt="Checkpoint" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5922" target="_blank">Checkpoint</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-09-22 01:02</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 39 | 📡 Total Sources: 39 | 📸 With Images: 270 |
-        🔄 Last Updated: 01:00 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 40 | 📡 Total Sources: 40 | 📸 With Images: 270 |
+        🔄 Last Updated: 06:53 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
