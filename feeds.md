@@ -1,38 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-09-23 12:23:28 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-09-23 17:32:05 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 15 new posts out of 30 feeds processed -->
+<!-- Generated 8 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, September 23, 2026 - 12:23 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Wednesday, September 23, 2026 - 17:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +44,42 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/9/23/09-23-26-ethiopia-armed-groups-sv-mp4?traffic_source=rss" target="_blank">Ethiopia faces renewed war as armed groups launch offensive</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-23 17:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/un-2-gty-gmh-260923_1790178010469_hpMain_4x3t_384.jpg" alt="Iran live updates: Iranian president pushes back at Trump during UN speech" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-irgc-ready-counteroffensive-us-attacks/?id=136611503" target="_blank">Iran live updates: Iranian president pushes back at Trump during UN speech</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-23 16:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe3f/live/8c85eb50-b766-11f1-b1d1-571ed4d7ff2c.jpg" alt="Iran&#x27;s president tells Trump it will never &#x27;bend the knee&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss" target="_blank">Iran&#x27;s president tells Trump it will never &#x27;bend the knee&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-23 15:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/09/1920x1080/skynews-david-greenhalgh_7359523.jpg?20260923151836" alt="British businessman jailed over illegal arms deals to war zones worth millions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/british-businessman-jailed-over-illegal-arms-deals-to-war-zones-worth-millions-13591072" target="_blank">British businessman jailed over illegal arms deals to war zones worth millions</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-09-23 13:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/09/23/g-s1-144536/floods-climate-nepal-himalayas-dams-hydropower" target="_blank">Is Nepal&#x27;s flood a harbinger of what&#x27;s to come in the Himalayas?</a></span>
                 <span class="feed">NPR Topics: News</span>
@@ -66,47 +95,20 @@
                 <span class="time">2026-09-23 11:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money" target="_blank">Indian billionaire’s payments firm plots biggest London flotation in years</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-09-23 11:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/trump-china-56-ap-gmh-260514._1778752096571_hpMain_4x3t_384.jpg" alt="Trump-Xi meeting comes amid tensions on Iran, Taiwan and trade: What to know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-xi-meeting-amid-tensions-iran-taiwan-trade/story?id=136650648" target="_blank">Trump-Xi meeting comes amid tensions on Iran, Taiwan and trade: What to know</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-09-23 09:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/09/1920x1080/skynews-saps-kwazulu-natal_7359130.jpg?20260923081838" alt="At least 11 dead in mass shooting at house party in South Africa" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/at-least-11-dead-in-mass-shooting-at-house-party-in-south-africa-13590905" target="_blank">At least 11 dead in mass shooting at house party in South Africa</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-09-23 05:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/macron-muir-3-abc-gmh-260922_1790102615119_hpMain_4x3t_384.jpg" alt="Macron tells ABC News&#x27; David Muir: &#x27;Hormuz Strait was probably underestimated&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/macron-tells-abcs-david-muir-hormuz-strait-underestimated/story?id=136661829" target="_blank">Macron tells ABC News&#x27; David Muir: &#x27;Hormuz Strait was probably underestimated&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-09-23 01:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/09/23/zoox-grounds-atlanta-test-fleet-after-workers-report-toxic-gas-exposure-symptoms/" target="_blank">Zoox grounds Atlanta test fleet after workers report toxic gas exposure symptoms</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-09-23 17:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +154,29 @@
                 <span class="time">2026-09-23 00:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2280570746-500x500.jpg" alt="Woman&#x27;s brain worm infection confirmed after eggs grow tails in lab test" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/09/womans-brain-worm-infection-confirmed-after-eggs-grow-tails-in-lab-test/" target="_blank">Woman&#x27;s brain worm infection confirmed after eggs grow tails in lab test</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-09-22 21:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17471348/gravity-linux-launch" target="_blank">Distro With an Expiry Date?Gravity Linux is a New Distro for Apple Silicon</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-09-23 15:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Graphify: Unifying Codebase Context to Streamline Agentic Software Engineering" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/09/graphify-codebase-exploration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Graphify: Unifying Codebase Context to Streamline Agentic Software Engineering</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-09-23 14:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,24 +211,6 @@
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17470881/local-ai-jargon-test" target="_blank">Local AI Jargon Quiz: Do You Know All These Buzzwords?</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2026-09-23 06:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/09/23/multiplayer-ai-why-your-team-and-its-agents-need-a-group-chat/" target="_blank">Multiplayer AI: Why your team (and its agents) need a group chat</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-09-23 04:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Nouveau-Deep-Color-Patches" target="_blank">Open-Source NVIDIA &quot;Nouveau&quot; Driver Sees Patches For HDMI Deep Color Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-23 00:54</span>
             </div>
         </div>
 </div>
@@ -285,6 +278,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/09/23/the-euphemism-treadmill" target="_blank">The Euphemism Treadmill</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-09-23 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.questionablecontent.net/comics/5923.png" alt="Where The Wind Blows" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -293,22 +295,13 @@
                 <span class="time">2026-09-23 01:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1789955423-20260922.png" alt="Saturday Morning Breakfast Cereal - Taken" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/taken" target="_blank">Saturday Morning Breakfast Cereal - Taken</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-09-22 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 49 | 📡 Total Sources: 40 | 📸 With Images: 269 |
-        🔄 Last Updated: 12:23 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 47 | 📡 Total Sources: 40 | 📸 With Images: 270 |
+        🔄 Last Updated: 17:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
