@@ -1,29 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-09-23 20:47:08 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-23 23:16:50 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 21 feeds processed -->
+<!-- Generated 10 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, September 23, 2026 - 20:47 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, September 23, 2026 - 23:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/23/trump-meets-chinas-xi-jinping-at-us-airport-on-arrival-for-three-day-trip?traffic_source=rss" target="_blank">Trump greets China’s Xi Jinping on arrival for three-day US trip</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-23 22:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,20 +94,38 @@
                 <span class="time">2026-09-23 15:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/09/1920x1080/skynews-david-greenhalgh_7359523.jpg?20260923151836" alt="British businessman jailed over illegal arms deals to war zones worth millions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/british-businessman-jailed-over-illegal-arms-deals-to-war-zones-worth-millions-13591072" target="_blank">British businessman jailed over illegal arms deals to war zones worth millions</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-09-23 13:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/" target="_blank">Anthropic says its biology lab has already found something big</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-09-23 22:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-1241447966-500x500.jpeg" alt="RFK Jr.&#x27;s CDC isn’t letting states order COVID-19 shots for kids, blocking access" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/09/rfk-jr-s-cdc-isnt-letting-states-order-covid-19-shots-for-kids-blocking-access/" target="_blank">RFK Jr.&#x27;s CDC isn’t letting states order COVID-19 shots for kids, blocking access</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-09-23 22:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6ab2ef34ade3d66cae78e17b/master/pass/politics_us_china_ai_talk.jpg" alt="A US-China AI Hotline Won&#x27;t Be Ready For a While" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/a-us-china-ai-hotline-wont-be-ready-for-a-while/" target="_blank">A US-China AI Hotline Won&#x27;t Be Ready For a While</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-23 21:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -125,38 +153,38 @@
                 <span class="time">2026-09-23 17:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/09/23/commas-hands-off-driving-tech-under-investigation-after-2-fatal-crashes/" target="_blank">Comma’s hands-off driving tech under investigation after 2 fatal crashes</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-09-23 12:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/999253/xiaomi-18-pro-max-privacy-display-launch-china" target="_blank">Xiaomi’s new 18 Pro phones improve on Samsung’s privacy display</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-09-23 12:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6ab2d5c26c487a05d975772b/master/pass/Samsung%20Galaxy%20S26%20and%20S26+%20SOURCE%20Julian%20Chokkattu.jpg" alt="The Best Samsung Phones of 2026: Ultra, Fold, Budget" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-samsung-phones/" target="_blank">The Best Samsung Phones of 2026: Ultra, Fold, Budget</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-09-23 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/chovy/nightcell-7-when-the-ravens-lied-a-second-throngva-album-made-in-code-5597" target="_blank">NIGHTCELL 7: When the Ravens Lied, a second Þrøngva album made in code</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-23 23:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Debian-Inference-Portal" target="_blank">Debian Inference Portal Launches To Provide Free AI/LLM Inferencing To Debian Developers</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-23 21:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/" target="_blank">Rendering huge pull requests in the GitHub Copilot app</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-09-23 18:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -184,33 +212,6 @@
                 <span class="time">2026-09-23 15:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Graphify: Unifying Codebase Context to Streamline Agentic Software Engineering" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/09/graphify-codebase-exploration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Graphify: Unifying Codebase Context to Streamline Agentic Software Engineering</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-09-23 14:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gilles_stenger_4edfc766fd/devops-agentique-et-si-le-llm-ne-devait-pas-tout-decider--mci" target="_blank">DevOps agentique : Et si le LLM ne devait pas tout décider ?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-23 12:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/scaling-android-development-without-scaling-hardware" target="_blank">Scaling Android™ development without scaling hardware</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-09-23 08:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -234,29 +235,20 @@
                 <span class="time">2026-09-23 11:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/09/tapas-1280x720.jpg" alt="Comics Creators And Readers Are Reeling After The News That Tapas Is Shutting Down" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/comics-creators-and-readers-are-reeling-after-the-news-that-tapas-is-shutting-down-2000736552" target="_blank">Comics Creators And Readers Are Reeling After The News That Tapas Is Shutting Down</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-09-22 22:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2HJ31P2KPHJAH20X2FBKZ5/hero-image.png" alt="Your Fitness Tracker Has No Idea How Many Calories You’re Burning" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/you-cant-trust-your-fitness-tracker-on-calorie-burn?utm_medium=RSS" target="_blank">Your Fitness Tracker Has No Idea How Many Calories You’re Burning</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-09-22 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1790134930-20260923.png" alt="Saturday Morning Breakfast Cereal - Wolf" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/wolf-5" target="_blank">Saturday Morning Breakfast Cereal - Wolf</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-09-23 15:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -280,8 +272,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 43 | 📡 Total Sources: 40 | 📸 With Images: 269 |
-        🔄 Last Updated: 20:47 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 44 | 📡 Total Sources: 40 | 📸 With Images: 268 |
+        🔄 Last Updated: 23:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
