@@ -1,37 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-09-22 22:28:26 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-23 01:00:36 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Generated 8 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, September 22, 2026 - 22:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, September 23, 2026 - 01:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +54,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/nolan-xavier-wells-ht-jef-260707_1783428332296_hpMain_4_4x3t_384.jpg" alt="Nolan Wells&#x27; parents make emotional plea for justice after no charges filed in death" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/nolan-wells-parents-make-plea-justice-after-charges/story?id=136645028" target="_blank">Nolan Wells&#x27; parents make emotional plea for justice after no charges filed in death</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-22 22:44</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ce7/live/a35e4ee0-b6a2-11f1-ba3d-1d5c8a47f823.jpg" alt="Trump threatens to &#x27;annihilate&#x27; Iran in UN speech as officials meet on sidelines" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -63,6 +78,15 @@
                 <span class="title"><a href="https://www.npr.org/2026/09/22/nx-s1-5977673/questions-remain-after-grand-jury-declines-indictment-in-nolan-wells-death" target="_blank">Questions remain after grand jury declines indictment in Nolan Wells&#x27; death</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-09-22 21:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/09/1920x1080/skynews-sri-lanka-colombo-easter_7358968.jpg?20260922212758" alt="Fifteen jailed for life over involvement in Sri Lanka attacks that killed more than 260" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/fifteen-jailed-for-life-over-involvement-in-sri-lanka-bombings-that-killed-more-than-260-13590838" target="_blank">Fifteen jailed for life over involvement in Sri Lanka attacks that killed more than 260</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-09-22 19:42</span>
             </div>
         </div>
 <div class="story">
@@ -83,29 +107,29 @@
                 <span class="time">2026-09-22 12:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/UKRAINE-PROPAGANDA-MPX-V03-ftboq6.jpg" alt="Filmed in Captivity: Inside Russia’s Prison Propaganda Machine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/forced-confessions-how-russia-s-pow-propaganda-videos-haunt-ukraine-270252613616" target="_blank">Filmed in Captivity: Inside Russia’s Prison Propaganda Machine</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-09-22 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9db6/live/f0a69f40-b670-11f1-b711-df5e4d50c2fd.jpg" alt="Burnham expects to find &#x27;common ground&#x27; with Trump in first meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss" target="_blank">Burnham expects to find &#x27;common ground&#x27; with Trump in first meeting</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-22 06:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel" target="_blank">OpenAI wants to consult elite mathematicians about how to not fumble again</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-09-23 00:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2280570746-500x500.jpg" alt="Woman&#x27;s brain worm infection confirmed after eggs grow tails in lab test" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/09/womans-brain-worm-infection-confirmed-after-eggs-grow-tails-in-lab-test/" target="_blank">Woman&#x27;s brain worm infection confirmed after eggs grow tails in lab test</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-09-22 21:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6ab2a6f4d38d5a63a756fca7/master/pass/GettyImages-1683464893%20(1).jpg" alt="How to Claim Your Cut of Apple’s $250 Million Siri Settlement" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -134,28 +158,10 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us" target="_blank">A cut cable disrupted hundreds of flights across the US</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-09-21 23:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/" target="_blank">The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-09-21 23:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="&#x27;Coyote vs. Acme&#x27; Outgrosses All But 3 WB Movies This Year, Heads To Profit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Are Students Suddenly Losing Interest in Computer Science as AI Coding Takes Off?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://entertainment.slashdot.org/story/26/09/22/0529223/coyote-vs-acme-outgrosses-all-but-3-wb-movies-this-year-heads-to-profit?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">&#x27;Coyote vs. Acme&#x27; Outgrosses All But 3 WB Movies This Year, Heads To Profit</a></span>
+                <span class="title"><a href="https://news.slashdot.org/story/26/09/22/0010234/are-students-suddenly-losing-interest-in-computer-science-as-ai-coding-takes-off?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Are Students Suddenly Losing Interest in Computer Science as AI Coding Takes Off?</a></span>
                 <span class="feed">Slashdot</span>
                 
             </div>
@@ -175,12 +181,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/09/openshot-snap-1-406x232.webp" alt="OpenShot video editor is now (officially) available as a snap" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/openshot-video-editor-snap" target="_blank">OpenShot video editor is now (officially) available as a snap</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-09-22 22:09</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2022/12/openshot-video-editor-logo--406x232.jpg" alt="OpenShot video editor is now available as a snap" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/openshot-video-editor-snap" target="_blank">OpenShot video editor is now available as a snap</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-09-22 22:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-Strix-Halo" target="_blank">Linux 7.2 vs. Linux 7.3 Shows A Few Improvements With AMD Strix Halo</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-22 19:23</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +223,6 @@
                 <span class="title"><a href="https://openai.com/index/introducing-gpt-6-sol-and-luna/" target="_blank">GPT-6 Sol and Luna</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-09-22 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!_YFt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c1feff9-3b33-4c9d-a088-ef35a1fb2978_872x607.png" alt="How will AI change operating systems? Part 2: Windows" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/windows-and-ai" target="_blank">How will AI change operating systems? Part 2: Windows</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-09-22 17:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/SPECviewperf-15.0.1-Linux" target="_blank">SPEC Releases SPECviewperf 15.0.1 For Linux</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-22 14:36</span>
             </div>
         </div>
 </div>
@@ -257,6 +263,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/sammy-petrillo-your-time-is-now.jpg?fit=518%2C763&amp;quality=60&amp;ssl=1" alt="New biography of Jerry Lewis look-alike Sammy Petrillo, with a Drew Friedman cover" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/09/22/sammy-petrillo-your-time-is-now.html" target="_blank">New biography of Jerry Lewis look-alike Sammy Petrillo, with a Drew Friedman cover</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-09-22 20:28</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/09/Star-Wars-Zero-Company.jpg" alt="Star Wars Zero Company Estimated To Have Reached 1 Million Sales Amid Staff Furloughs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -281,15 +296,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/the-boox-picco-is-a-contender-for-your-new-favorite-tiny-e-reader?utm_medium=RSS" target="_blank">The Boox Picco Is a Contender for My New Favorite Tiny E-Reader</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-09-22 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/clavicular-mugshot.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="Looksmaxxer Braden &quot;Clavicular&quot; Peters charged with rape" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/09/22/looksmaxxer-braden-clavicular-peters-charged-with-rape.html" target="_blank">Looksmaxxer Braden &quot;Clavicular&quot; Peters charged with rape</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-09-22 13:52</span>
             </div>
         </div>
 </div>
@@ -320,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 38 | 📡 Total Sources: 39 | 📸 With Images: 269 |
-        🔄 Last Updated: 22:28 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 39 | 📡 Total Sources: 39 | 📸 With Images: 270 |
+        🔄 Last Updated: 01:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
