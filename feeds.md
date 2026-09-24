@@ -1,36 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-09-24 20:52:53 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-09-24 23:37:39 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 13 new posts out of 28 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, September 24, 2026 - 20:53 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, September 24, 2026 - 23:37 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +40,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef68/live/531a99b0-b851-11f1-b1d1-571ed4d7ff2c.jpg" alt="Netanyahu defends Israeli military action as delegates walk out before UN speech" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss" target="_blank">Netanyahu defends Israeli military action as delegates walk out before UN speech</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-24 23:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/9/24/turkiye-vs-france-uefa-nations-league-teams-kickoff-time-lineups?traffic_source=rss" target="_blank">Turkiye vs France: UEFA Nations League – teams, kickoff time, lineups</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-24 22:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/24/nx-s1-5973112/long-agenda-short-meeting-trump-and-xi-meet" target="_blank">Long agenda, short meeting: Trump and Xi meet</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-24 22:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,38 +94,20 @@
                 <span class="time">2026-09-24 17:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/09/1920x1080/skynews-macklemore-palestine_7360498.jpg?20260924171214" alt="Macklemore announces Free Palestine Tour after Ed Sheeran controversy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/macklemore-announces-free-palestine-tour-after-ed-sheeran-controversy-13591502" target="_blank">Macklemore announces Free Palestine Tour after Ed Sheeran controversy</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-09-24 15:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army" target="_blank">Rebel offensive against Ethiopian army stokes fears of return to civil war</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-09-24 15:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1790260594570_now_current_wh_gutierrez_xi_trump_press_260924_S3_1920x1080-d6i6kz.jpg" alt="White House still turning away some media outlets despite order" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/white-house-still-turning-away-some-media-outlets-despite-order-270444613581" target="_blank">White House still turning away some media outlets despite order</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-09-24 14:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2271874300-500x500.jpg" alt="CDC opens state ordering for COVID-19 vaccines after unexplained delay" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/09/cdc-opens-state-ordering-for-covid-19-vaccines-after-unexplained-delay/" target="_blank">CDC opens state ordering for COVID-19 vaccines after unexplained delay</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-09-24 22:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/F-Droid2-1-500x500.jpg" alt="F-Droid gets its biggest update in a decade with new UI and smoother app installs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,20 +153,29 @@
                 <span class="time">2026-09-24 12:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/999464/control-resonant-assist-mode" target="_blank">Control Resonant gets tough, but gives you the tools to deal with it</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-09-24 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/09/picker-406x232.webp" alt="Ubuntu 26.10 adds a Windows-style window snapping panel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-tiling" target="_blank">Ubuntu 26.10 adds a Windows-style window snapping panel</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-09-24 22:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/ReactOS-Updated-Wine-DirectX" target="_blank">ReactOS Lands Significant DirectX Stack Update From Wine For Enabling More Games</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-24 21:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi1g7rsnjkm1ermmhc49g.png" alt="From 48M Records to Top 8 Finalists: How We Built an End-to-End Urban Flow AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -200,24 +212,6 @@
                 <span class="time">2026-09-24 16:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17472488/ubuntu-kernel-sru-cycle-update" target="_blank">Ubuntu is Tightening its Kernel SRU Cycle to Two Weeks, and Clankers Are to Blame</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-09-24 16:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.linux.com/featured/docker-commits-to-bringing-the-sandbox-kit-spec-to-the-cncf/" target="_blank">Docker Commits to Bringing the Sandbox Kit Spec to the CNCF</a></span>
-                <span class="feed">Linux.com</span>
-                <span class="time">2026-09-24 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +231,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/09/jensen-huang-CEO-1280x720.jpg" alt="Nvidia CEO Doesn’t Care That Kids Are Forgetting Basic Math Because Of AI: ‘I Actually Don’t Know My Address’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/nvidia-ceo-doesnt-care-that-kids-are-forgetting-basic-math-because-of-ai-i-actually-dont-know-my-address-2000737092" target="_blank">Nvidia CEO Doesn’t Care That Kids Are Forgetting Basic Math Because Of AI: ‘I Actually Don’t Know My Address’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-24 21:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01M3A8Y95ZCAR3DPEGQ03H91VT/hero-image.webp" alt="These Are the Biggest Announcements From Meta Connect 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,24 +276,6 @@
                 <span class="time">2026-09-24 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M382J602FQP4DKQZFJYEPRN6/hero-image.png" alt="I Tried Siri AI on My New Apple Watch, and I&#x27;m Frustrated" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/i-tried-siri-ai-on-the-apple-watch-and-im-frustrated?utm_medium=RSS" target="_blank">I Tried Siri AI on My New Apple Watch, and I&#x27;m Frustrated</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-09-23 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/09/image-2026-09-23T151824.629-1280x720.jpg" alt="The First Ace Combat Game In Seven Years Is Playing For Keeps" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-first-ace-combat-game-in-seven-years-is-playing-for-keeps-2000736801" target="_blank">The First Ace Combat Game In Seven Years Is Playing For Keeps</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-09-23 21:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 58 | 📡 Total Sources: 40 | 📸 With Images: 262 |
-        🔄 Last Updated: 20:53 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 55 | 📡 Total Sources: 40 | 📸 With Images: 262 |
+        🔄 Last Updated: 23:37 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
