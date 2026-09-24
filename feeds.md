@@ -1,38 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-09-24 02:00:28 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-09-24 07:53:35 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 12 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Thursday, September 24, 2026 - 02:00 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Thursday, September 24, 2026 - 07:53 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/24/gaza-watches-israels-election-with-fear-and-antipathy?traffic_source=rss" target="_blank">Gaza watches Israel’s elections with fear and antipathy</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-24 07:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1790231218748_now_brk_judge_media_ban_260923_S3_1920x1080-rr865r.jpg" alt="Judge orders White House to restore access for CNN, MS NOW and Politico" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/judge-orders-white-house-to-restore-access-for-cnn-ms-now-and-politico-270427717662" target="_blank">Judge orders White House to restore access for CNN, MS NOW and Politico</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-09-24 06:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +104,29 @@
                 <span class="time">2026-09-23 22:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abdb/live/d1ce9ed0-b772-11f1-a7b2-f3bdba1cd194.jpg" alt="Blood tests find high level of cancer-causing forever chemical in residents near factory" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o?at_medium=RSS&at_campaign=rss" target="_blank">Blood tests find high level of cancer-causing forever chemical in residents near factory</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-23 21:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/09/1920x1080/skynews-beit-horon-west-bank_7359880.jpg?20260923231154" alt="Son of Israeli ambassador to US &#x27;seriously injured&#x27; in West Bank ramming attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/son-of-israeli-ambassador-to-us-seriously-injured-in-west-bank-ramming-attack-13591205" target="_blank">Son of Israeli ambassador to US &#x27;seriously injured&#x27; in West Bank ramming attack</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-09-23 20:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" alt="Peacock Promo Codes: 40% Off September 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/peacock-promo-code/" target="_blank">Peacock Promo Codes: 40% Off September 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-24 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/" target="_blank">Everything new coming to Meta’s AI agent Muse</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-09-24 01:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,29 +163,38 @@
                 <span class="time">2026-09-23 21:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/999195/microsoft-surface-pro-12-inch-surface-laptop-13-inch-qualcomm-x2-plus" target="_blank">Microsoft refreshes its smaller Surface Pro and Laptop with Qualcomm’s X2 Plus</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-09-23 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/Andurils-fire-retardant-balls-explode-on-fire-target-500x500.jpg" alt="XPRIZE Wildfire winners spotted fires within 10 min—but couldn’t stop them" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/09/xprize-wildfire-winners-spotted-fires-within-10-min-but-couldnt-stop-them/" target="_blank">XPRIZE Wildfire winners spotted fires within 10 min—but couldn’t stop them</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-09-23 20:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/eugeniya_ivanova_4a58eadc/the-portal-said-live-for-a-few-hours-the-page-kept-saying-the-connector-didnt-exist-m11" target="_blank">The portal said &quot;Live.&quot; For a few hours the page kept saying the connector didn&#x27;t exist.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-24 07:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/09/canvas-ui-webgl/en/headerimage/generatedHeaderImage-1790080690608.jpg" alt="Canvas UI Ships 35 HTML-in-Canvas Components That Run WebGL and WebGPU Effects Over Live DOM" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/09/canvas-ui-webgl/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Canvas UI Ships 35 HTML-in-Canvas Components That Run WebGL and WebGPU Effects Over Live DOM</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-09-24 06:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17471831/openkylin-3-0-released" target="_blank">openKylin 3.0 Release Makes it a &quot;AI first&quot; Linux Desktop</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-09-24 02:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -193,31 +222,18 @@
                 <span class="time">2026-09-23 21:08</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/" target="_blank">Rendering huge pull requests in the GitHub Copilot app</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-09-23 18:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.anthropic.com/news/claude-discovers-novel-enzyme-system" target="_blank">Claude discovers a novel enzyme system with CRISPR-like repeats</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-23 18:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/design-engineering-with-maggie-appleton" target="_blank">Design Engineering with Maggie Appleton</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-09-23 17:07</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/09/research-on-models-engaging-in-genie-like-behavior.html" target="_blank">Research on Models Engaging in Genie-Like Behavior</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-09-23 11:03</span>
             </div>
         </div>
 </div>
@@ -284,31 +300,13 @@
                 <span class="time">2026-09-23 15:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/09/23/the-euphemism-treadmill" target="_blank">The Euphemism Treadmill</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-09-23 07:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/voyager_instruments.png" alt="Voyager Instruments" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3302/" target="_blank">Voyager Instruments</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-09-23 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 50 | 📡 Total Sources: 40 | 📸 With Images: 269 |
-        🔄 Last Updated: 02:00 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 52 | 📡 Total Sources: 40 | 📸 With Images: 267 |
+        🔄 Last Updated: 07:53 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
