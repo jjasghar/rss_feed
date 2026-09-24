@@ -1,40 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-09-24 17:43:49 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-24 20:52:53 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 18 new posts out of 31 feeds processed -->
+<!-- Generated 13 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, September 24, 2026 - 17:44 UTC</div>
+    <div class="newspaper-date">Thursday, September 24, 2026 - 20:53 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +47,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/9/24/us-citizen-injured-after-wrongly-arrested-by-ice-in-illinois?traffic_source=rss" target="_blank">US citizen injured after wrongly arrested by ICE in Illinois</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-24 20:23</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/706e/live/5280a470-b821-11f1-9173-8b6ede38f022.jpg" alt="White House restores access to media outlets banned by Trump after judge&#x27;s order" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -66,6 +71,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/9/24/ukrainian-knifeman-kills-one-wounds-four-at-abbey-in-poland?traffic_source=rss" target="_blank">Ukrainian knifeman kills one, wounds four at abbey in Poland</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-09-24 17:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/09/1920x1080/skynews-macklemore-palestine_7360498.jpg?20260924171214" alt="Macklemore announces Free Palestine Tour after Ed Sheeran controversy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/macklemore-announces-free-palestine-tour-after-ed-sheeran-controversy-13591502" target="_blank">Macklemore announces Free Palestine Tour after Ed Sheeran controversy</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-09-24 15:48</span>
             </div>
         </div>
 <div class="story">
@@ -86,29 +100,20 @@
                 <span class="time">2026-09-24 14:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/24/g-s1-144806/trump-rolls-out-red-carpet-for-xi-as-high-stakes-summit-begins" target="_blank">Trump rolls out red carpet for Xi as high-stakes summit begins</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-24 12:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/24/moroccos-elections-fragmentation-disengagement-and-pjds-major-return?traffic_source=rss" target="_blank">Morocco’s elections: Fragmentation, disengagement and PJD’s major return</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-24 12:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/F-Droid2-1-500x500.jpg" alt="F-Droid gets its biggest update in a decade with new UI and smoother app installs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/09/f-droid-gets-its-biggest-update-in-a-decade-with-new-ui-and-smoother-app-installs/" target="_blank">F-Droid gets its biggest update in a decade with new UI and smoother app installs</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-09-24 19:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,20 +159,38 @@
                 <span class="time">2026-09-24 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" alt="Peacock Promo Codes: 40% Off September 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/peacock-promo-code/" target="_blank">Peacock Promo Codes: 40% Off September 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-09-24 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi1g7rsnjkm1ermmhc49g.png" alt="From 48M Records to Top 8 Finalists: How We Built an End-to-End Urban Flow AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/inushathathsara/from-48m-records-to-top-8-finalists-how-we-built-an-end-to-end-urban-flow-ai-53gp" target="_blank">From 48M Records to Top 8 Finalists: How We Built an End-to-End Urban Flow AI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-24 20:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/" target="_blank">When chat is the wrong UI</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-09-24 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/ubuntu-2610-panther-lake" target="_blank">Ubuntu 26.10 Delivers Some Nice Gains For Intel Panther Lake / Framework Laptop 13 Pro</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-24 18:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://substackcdn.com/image/fetch/$s_!7sIY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b1f3030-db5b-4563-9948-4652537fe20d_1456x831.png" alt="The Pulse: RoR creator sparks new “death of coding by hand” debate" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -180,46 +203,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17472488/ubuntu-kernel-sru-cycle-update" target="_blank">Ubuntu is Tightening its Kernel SRU Cycle to Two Weeks, and Clankers Are to Blame</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-09-24 16:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.linux.com/featured/docker-commits-to-bringing-the-sandbox-kit-spec-to-the-cncf/" target="_blank">Docker Commits to Bringing the Sandbox Kit Spec to the CNCF</a></span>
                 <span class="feed">Linux.com</span>
                 <span class="time">2026-09-24 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html" target="_blank">F-Droid 2.0</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-24 15:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/09/high-performing-teams-program/en/headerimage/high-performance-teams-program-1790247868087.jpg" alt="InfoQ Launches High-Performing Teams Certification Program" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/09/high-performing-teams-program/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">InfoQ Launches High-Performing Teams Certification Program</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-09-24 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://pypi.org/project/whatsnewt/" target="_blank">whatsnewt: A TUI text adventure through what&#x27;s new in Python 3.15</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-09-24 12:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-Taint-Forced-Bind" target="_blank">Linux Kernel Introducing New Taint Due To Fuzzing Bots Yielding Impractical Bug Reports</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-24 12:08</span>
             </div>
         </div>
 </div>
@@ -241,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M3A8Y95ZCAR3DPEGQ03H91VT/hero-image.webp" alt="These Are the Biggest Announcements From Meta Connect 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/everything-announced-at-meta-connect-2026?utm_medium=RSS" target="_blank">These Are the Biggest Announcements From Meta Connect 2026</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-09-24 19:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/trump-epstein.jpg?fit=1200%2C828&amp;quality=60&amp;ssl=1" alt="Federal judge tells Trump to turn the press passes back on" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/09/24/trump_press_ban_on_hold.html" target="_blank">Federal judge tells Trump to turn the press passes back on</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-09-24 18:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01M37F4TVVWB95ANYQTVWR7DGM/hero-image.jpg" alt="10 Shows Like &#x27;American Horror Story&#x27; You Should Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,15 +291,6 @@
                 <span class="time">2026-09-23 21:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/darkwingduck.jpg?fit=480%2C360&amp;quality=60&amp;ssl=1" alt="Let&#x27;s get dangerous again: Darkwing Duck set to return" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/09/23/lets-get-dangerous-again-darkwing-duck-set-to-return.html" target="_blank">Let&#x27;s get dangerous again: Darkwing Duck set to return</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-09-23 19:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -309,22 +314,13 @@
                 <span class="time">2026-09-24 00:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/09/23/the-euphemism-treadmill" target="_blank">The Euphemism Treadmill</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-09-23 18:24</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 56 | 📡 Total Sources: 40 | 📸 With Images: 262 |
-        🔄 Last Updated: 17:44 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 58 | 📡 Total Sources: 40 | 📸 With Images: 262 |
+        🔄 Last Updated: 20:53 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
