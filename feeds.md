@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-09-25 18:59:48 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-09-25 22:00:49 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 17 new posts out of 30 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, September 25, 2026 - 19:00 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, September 25, 2026 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,9 +50,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/9/25/netanyahu-calls-al-jazeera-a-toxic-media?traffic_source=rss" target="_blank">Netanyahu calls Al Jazeera a ‘toxic media outlet’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-25 21:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c12/live/66f9a430-b91e-11f1-b1d1-571ed4d7ff2c.jpg" alt="Man City found guilty of majority of 115 financial rule breaches" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss" target="_blank">Man City found guilty of majority of 115 financial rule breaches</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-25 20:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/9/25/iraqi-airports-halt-iranian-flights-after-new-us-aviation-sanctions?traffic_source=rss" target="_blank">Iraqi airports halt Iranian flights after new US aviation sanctions</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-09-25 18:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1790357688793_now_daily_a_noreaster_flood_hurricane_sbr_bka_260925_S3_1920x1080-vq3bxv.jpg" alt="Flood alerts double for 33 million as rare September nor’easter nears" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/flood-alerts-double-for-33-million-as-rare-september-nor-easter-nears-270540869777" target="_blank">Flood alerts double for 33 million as rare September nor’easter nears</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-09-25 17:34</span>
             </div>
         </div>
 <div class="story">
@@ -75,38 +100,20 @@
                 <span class="time">2026-09-25 16:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/9/25/the-trump-xi-summit-exposes-a-us-disadvantage-in-the-global-south?traffic_source=rss" target="_blank">The Trump-Xi summit exposes a US disadvantage in the Global South</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-25 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dff/live/04222c60-b793-11f1-a7dc-51a9fb487fda.jpg" alt="Special agents&#x27; blood and urine test results stolen in FBI hack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss" target="_blank">Special agents&#x27; blood and urine test results stolen in FBI hack</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-25 13:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/rain-nyc-2-gty-gmh-260925_1790339531788_hpMain_4x3t_384.jpg" alt="Tracking the nor&#x27;easter: Your forecast for this weekend" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/tracking-noreaster-millions-brace-weekends-powerful-storm/story?id=136747598" target="_blank">Tracking the nor&#x27;easter: Your forecast for this weekend</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-09-25 13:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6ab6c8393be975e24c8d9909/master/pass/_DSC5425%20(1).jpg" alt="Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/" target="_blank">Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-25 20:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,15 +151,6 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/F-Droid2-1-500x500.jpg" alt="F-Droid gets its biggest update in a decade with new UI and smoother app installs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/09/f-droid-gets-its-biggest-update-in-a-decade-with-new-ui-and-smoother-app-installs/" target="_blank">F-Droid gets its biggest update in a decade with new UI and smoother app installs</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-09-24 19:30</span>
-            </div>
-        </div>
-<div class="story">
             <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Asteroids Named After Tom Lehrer and &#x27;Weird Al&#x27; Yankovic" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-comments"></span>
@@ -166,6 +164,24 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://ollaya.dev/" target="_blank">Ollaya – Ollama for open-source, Jev-style decision models</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-25 18:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/" target="_blank">GitHub Copilot app for Beginners: How to build custom workflows with canvases</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-09-25 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,22 +218,18 @@
                 <span class="time">2026-09-25 12:55</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17473313/netherlands-dawo-initiative" target="_blank">The Netherlands Built a Nix-Basd Linux Desktop Because Microsoft Cut Off the ICC</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-09-25 11:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/NVMe-Apple-M3-Linux-Patches" target="_blank">Patches Posted For Enabling NVMe On All Apple M3 Based SoCs With Linux</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-25 10:27</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-participatory-squid-dissection-in-october-in-tennessee.html" target="_blank">Friday Squid Blogging: Participatory Squid Dissection in October in Tennessee</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-09-25 21:08</span>
             </div>
         </div>
 </div>
@@ -225,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/kent-kubasta-1600x1067-1.jpg?fit=1600%2C1067&amp;quality=60&amp;ssl=1" alt="Pokémon card collector used GPS device to track delivery woman" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/09/25/pokemon-card-collector-used-gps-device-to-track-delivery-woman.html" target="_blank">Pokémon card collector used GPS device to track delivery woman</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-09-25 21:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/09/homegrown-tomato-1280x720.jpg" alt="There Are Only Two Things That Money Can’t Buy: True Love, And Homegrown Tomatoes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/only-two-things-money-cant-buy-true-love-and-homegrown-tomatoes-2000737231" target="_blank">There Are Only Two Things That Money Can’t Buy: True Love, And Homegrown Tomatoes</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-25 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/satyanadella.jpg" alt="Microsoft CEO On Recent Xbox Layoffs: ‘There’s Some Amount Of Streamlining Asha Is Doing…Which Is Great To See’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -252,24 +282,6 @@
                 <span class="time">2026-09-25 00:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/09/jensen-huang-CEO-1280x720.jpg" alt="Nvidia CEO Doesn’t Care That Kids Are Forgetting Basic Math Because Of AI: ‘I Actually Don’t Know My Address’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/nvidia-ceo-doesnt-care-that-kids-are-forgetting-basic-math-because-of-ai-i-actually-dont-know-my-address-2000737092" target="_blank">Nvidia CEO Doesn’t Care That Kids Are Forgetting Basic Math Because Of AI: ‘I Actually Don’t Know My Address’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-09-24 21:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M3A8Y95ZCAR3DPEGQ03H91VT/hero-image.webp" alt="These Are the Biggest Announcements From Meta Connect 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/everything-announced-at-meta-connect-2026?utm_medium=RSS" target="_blank">These Are the Biggest Announcements From Meta Connect 2026</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-09-24 19:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -282,6 +294,15 @@
                 <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/09/25/goerbemisdag" target="_blank">Goerbemisdag</a></span>
                 <span class="feed">Penny Arcade</span>
                 <span class="time">2026-09-25 17:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-pencil"></span>
+                <span class="title"><a href="https://poorlydrawnlines.com/comic/coming-to-life/" target="_blank">Coming to Life</a></span>
+                <span class="feed">Poorly Drawn Lines</span>
+                <span class="time">2026-09-25 16:32</span>
             </div>
         </div>
 <div class="story">
@@ -298,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 47 | 📡 Total Sources: 40 | 📸 With Images: 265 |
-        🔄 Last Updated: 19:00 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 49 | 📡 Total Sources: 40 | 📸 With Images: 263 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
