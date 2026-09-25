@@ -1,36 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-09-25 02:17:10 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-25 08:16:40 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, September 25, 2026 - 02:17 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, September 25, 2026 - 08:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01cc/live/d8062300-b83e-11f1-bc1f-3f186ca4140c.jpg" alt="Victims &#x27;grossly failed&#x27; by sex offender bail decision" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cmwyzrrnn015o?at_medium=RSS&at_campaign=rss" target="_blank">Victims &#x27;grossly failed&#x27; by sex offender bail decision</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-25 08:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/25/pope-leo-heads-to-france-amid-assisted-dying-abuse-debates?traffic_source=rss" target="_blank">Pope Leo heads to France amid assisted dying, abuse debates</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-25 07:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/20251102-trump-xi-jj-1145p-324c8a.jpg" alt="Trump rolls out red carpets for Xi, though he has portrayed China as a global menace" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,29 +95,20 @@
                 <span class="time">2026-09-24 22:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/24/nx-s1-5973112/long-agenda-short-meeting-trump-and-xi-meet" target="_blank">Long agenda, short meeting: Trump and Xi meet</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-24 22:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/9/24/us-citizen-injured-after-wrongly-arrested-by-ice-in-illinois?traffic_source=rss" target="_blank">US citizen injured after wrongly arrested by ICE in Illinois</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-24 20:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/" target="_blank">Lightspeed targets $250M for new India fund, focusing on early-stage AI</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-09-25 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +154,20 @@
                 <span class="time">2026-09-24 17:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6ab39bc8c5e291a8de9a8d12/master/pass/GettyImages-2289664536.jpg" alt="Google’s Gemini Can Now Make Calls for You on Pixel Phones" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/" target="_blank">Google’s Gemini Can Now Make Calls for You on Pixel Phones</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-09-24 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpfmvmxv64ed1ukprwejg.jpg" alt="SWQA Principles &amp; Quality Management Notes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aseelhimeidan/swqa-principles-quality-management-notes-1mcm" target="_blank">SWQA Principles &amp; Quality Management Notes</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-25 08:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +211,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-tiling" target="_blank">Ubuntu 26.10 adds a Windows-style window snapping panel</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-09-24 22:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/ReactOS-Updated-Wine-DirectX" target="_blank">ReactOS Lands Significant DirectX Stack Update From Wine For Enabling More Games</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-24 21:43</span>
             </div>
         </div>
 </div>
@@ -310,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 57 | 📡 Total Sources: 40 | 📸 With Images: 262 |
-        🔄 Last Updated: 02:17 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 55 | 📡 Total Sources: 40 | 📸 With Images: 262 |
+        🔄 Last Updated: 08:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
