@@ -1,31 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-09-25 08:16:40 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-09-25 14:15:22 UTC -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 23 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, September 25, 2026 - 08:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, September 25, 2026 - 14:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/9/25/the-trump-xi-summit-exposes-a-us-disadvantage-in-the-global-south?traffic_source=rss" target="_blank">The Trump-Xi summit exposes a US disadvantage in the Global South</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-25 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/rain-nyc-2-gty-gmh-260925_1790339531788_hpMain_4x3t_384.jpg" alt="Tracking the nor&#x27;easter: Your forecast for this weekend" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/tracking-noreaster-millions-brace-weekends-powerful-storm/story?id=136747598" target="_blank">Tracking the nor&#x27;easter: Your forecast for this weekend</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-25 13:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cb7/live/35a157e0-b35e-11f1-8f19-bd786ea30d0b.jpg" alt="Noah Woods left playground through gap in fence, inquest hears" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqgk54vg053po?at_medium=RSS&at_campaign=rss" target="_blank">Noah Woods left playground through gap in fence, inquest hears</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-25 12:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01cc/live/d8062300-b83e-11f1-bc1f-3f186ca4140c.jpg" alt="Victims &#x27;grossly failed&#x27; by sex offender bail decision" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -66,33 +96,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/trump-rolls-red-carpets-xi-jinping-though-portrayed-china-global-menac-rcna599250" target="_blank">Trump rolls out red carpets for Xi, though he has portrayed China as a global menace</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-09-25 01:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/wh-55-gty-gmh-260924_1790293727208_hpMain_4x3t_384.jpg" alt="Trump welcomes Xi to White House for state dinner" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-greets-xi-white-house-high-stakes-state/story?id=136717468" target="_blank">Trump welcomes Xi to White House for state dinner</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-09-25 00:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef68/live/531a99b0-b851-11f1-b1d1-571ed4d7ff2c.jpg" alt="Netanyahu defends Israeli military action as delegates walk out before UN speech" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss" target="_blank">Netanyahu defends Israeli military action as delegates walk out before UN speech</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-24 23:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/9/24/turkiye-vs-france-uefa-nations-league-teams-kickoff-time-lineups?traffic_source=rss" target="_blank">Turkiye vs France: UEFA Nations League – teams, kickoff time, lineups</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-24 22:55</span>
             </div>
         </div>
 </div>
@@ -160,12 +163,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/NVMe-Apple-M3-Linux-Patches" target="_blank">Patches Posted For Enabling NVMe On All Apple M3 Based SoCs With Linux</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-25 10:27</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpfmvmxv64ed1ukprwejg.jpg" alt="SWQA Principles &amp; Quality Management Notes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/aseelhimeidan/swqa-principles-quality-management-notes-1mcm" target="_blank">SWQA Principles &amp; Quality Management Notes</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-09-25 08:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.dawo.community/en/" target="_blank">Dutch governments builds alternative for Microsoft based on NixOS</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-25 08:06</span>
             </div>
         </div>
 <div class="story">
@@ -190,41 +211,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-september-25-2026-red-hat" target="_blank">Friday Five — September 25, 2026 | Red Hat</a></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-enterprise-linux-10-stig-automation-now-matches-disa-stig-v1r2" target="_blank">Red Hat Enterprise Linux 10 STIG automation now matches DISA STIG V1R2</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-09-25 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/09/picker-406x232.webp" alt="Ubuntu 26.10 adds Windows-style snap layouts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-tiling" target="_blank">Ubuntu 26.10 adds Windows-style snap layouts</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-09-24 22:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/09/picker-406x232.webp" alt="Ubuntu 26.10 adds a Windows-style window snapping panel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-tiling" target="_blank">Ubuntu 26.10 adds a Windows-style window snapping panel</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-09-24 22:01</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/09/malicious-npm-packages-that-evade-defenses.html" target="_blank">Malicious npm Packages That Evade Defenses</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-09-24 11:07</span>
             </div>
         </div>
 </div>
@@ -232,6 +221,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M2NW0JAZ3YK2WD19DETBCEF5/hero-image.png" alt="This Foldable Anker Charger Is 34% Off for October Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/anker-magsafe-3-in-1-charger-early-october-prime-day-2026?utm_medium=RSS" target="_blank">This Foldable Anker Charger Is 34% Off for October Prime Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-09-25 13:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/startrek.jpg?fit=1810%2C1296&amp;quality=60&amp;ssl=1" alt="A chronology of early Star Trek computer games" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,15 +275,6 @@
                 <span class="time">2026-09-24 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/The-Ultimate-Microsoft-Office-Professional-2021-for-Windows.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Set up one PC with Windows 11 Pro and Microsoft Office for $32.97" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/09/24/set-up-one-pc-with-windows-11-pro-and-microsoft-office-for-32-97.html" target="_blank">Set up one PC with Windows 11 Pro and Microsoft Office for $32.97</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-09-24 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -305,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 55 | 📡 Total Sources: 40 | 📸 With Images: 262 |
-        🔄 Last Updated: 08:16 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 50 | 📡 Total Sources: 40 | 📸 With Images: 262 |
+        🔄 Last Updated: 14:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
