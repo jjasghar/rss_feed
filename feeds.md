@@ -1,30 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-09-24 23:37:39 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-09-25 02:17:10 UTC -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 21 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, September 24, 2026 - 23:37 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, September 25, 2026 - 02:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/20251102-trump-xi-jj-1145p-324c8a.jpg" alt="Trump rolls out red carpets for Xi, though he has portrayed China as a global menace" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/trump-rolls-red-carpets-xi-jinping-though-portrayed-china-global-menac-rcna599250" target="_blank">Trump rolls out red carpets for Xi, though he has portrayed China as a global menace</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-09-25 01:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/wh-55-gty-gmh-260924_1790293727208_hpMain_4x3t_384.jpg" alt="Trump welcomes Xi to White House for state dinner" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-greets-xi-white-house-high-stakes-state/story?id=136717468" target="_blank">Trump welcomes Xi to White House for state dinner</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-25 00:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef68/live/531a99b0-b851-11f1-b1d1-571ed4d7ff2c.jpg" alt="Netanyahu defends Israeli military action as delegates walk out before UN speech" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,29 +100,20 @@
                 <span class="time">2026-09-24 20:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/706e/live/5280a470-b821-11f1-9173-8b6ede38f022.jpg" alt="White House restores access to media outlets banned by Trump after judge&#x27;s order" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss" target="_blank">White House restores access to media outlets banned by Trump after judge&#x27;s order</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-24 17:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/24/ukrainian-knifeman-kills-one-wounds-four-at-abbey-in-poland?traffic_source=rss" target="_blank">Ukrainian knifeman kills one, wounds four at abbey in Poland</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-24 17:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/" target="_blank">Waymo is scaling fast. Here’s what the fleet data shows.</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-09-24 23:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2271874300-500x500.jpg" alt="CDC opens state ordering for COVID-19 vaccines after unexplained delay" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,20 +159,47 @@
                 <span class="time">2026-09-24 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/" target="_blank">Australia to investigate if OpenAI hack of government health website broke the law</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-09-24 12:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ruixuan_jiang_663eb75f3fa/jevcases-your-agents-free-text-output-is-an-api-you-never-designed-4jh4" target="_blank">JevCases — Your Agent&#x27;s Free-Text Output Is an API You Never Designed</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-25 02:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-Considers-AGENTS-MD" target="_blank">Linux Kernel Developers Consider Adding AGENTS.md To Help Guide AI/LLM Agents</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-25 00:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-september-25-2026-red-hat" target="_blank">Friday Five — September 25, 2026 | Red Hat</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2026-09-25 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/09/picker-406x232.webp" alt="Ubuntu 26.10 adds Windows-style snap layouts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-tiling" target="_blank">Ubuntu 26.10 adds Windows-style snap layouts</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-09-24 22:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/09/picker-406x232.webp" alt="Ubuntu 26.10 adds a Windows-style window snapping panel" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -174,42 +216,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/ReactOS-Updated-Wine-DirectX" target="_blank">ReactOS Lands Significant DirectX Stack Update From Wine For Enabling More Games</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-09-24 21:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi1g7rsnjkm1ermmhc49g.png" alt="From 48M Records to Top 8 Finalists: How We Built an End-to-End Urban Flow AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/inushathathsara/from-48m-records-to-top-8-finalists-how-we-built-an-end-to-end-urban-flow-ai-53gp" target="_blank">From 48M Records to Top 8 Finalists: How We Built an End-to-End Urban Flow AI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-24 20:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/" target="_blank">When chat is the wrong UI</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-09-24 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/ubuntu-2610-panther-lake" target="_blank">Ubuntu 26.10 Delivers Some Nice Gains For Intel Panther Lake / Framework Laptop 13 Pro</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-24 18:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!7sIY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b1f3030-db5b-4563-9948-4652537fe20d_1456x831.png" alt="The Pulse: RoR creator sparks new “death of coding by hand” debate" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-end-of-coding-by-hand" target="_blank">The Pulse: RoR creator sparks new “death of coding by hand” debate</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-09-24 16:44</span>
             </div>
         </div>
 </div>
@@ -231,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/startrek.jpg?fit=1810%2C1296&amp;quality=60&amp;ssl=1" alt="A chronology of early Star Trek computer games" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/09/24/a-chronology-of-early-star-trek-computer-games.html" target="_blank">A chronology of early Star Trek computer games</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-09-25 00:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/09/jensen-huang-CEO-1280x720.jpg" alt="Nvidia CEO Doesn’t Care That Kids Are Forgetting Basic Math Because Of AI: ‘I Actually Don’t Know My Address’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -290,22 +305,13 @@
                 <span class="time">2026-09-24 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5924.png" alt="No Middle Sliders" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5924" target="_blank">No Middle Sliders</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-09-24 00:48</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 55 | 📡 Total Sources: 40 | 📸 With Images: 262 |
-        🔄 Last Updated: 23:37 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 57 | 📡 Total Sources: 40 | 📸 With Images: 262 |
+        🔄 Last Updated: 02:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
