@@ -1,18 +1,22 @@
-<!-- Processing 54 RSS feeds at 2026-09-25 22:00:49 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2026-09-26 01:01:50 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
@@ -20,17 +24,15 @@
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 27 feeds processed -->
+<!-- Generated 12 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, September 25, 2026 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Saturday, September 26, 2026 - 01:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,10 +51,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/25/nx-s1-5978875/midterms-redistricting-trump-missouri" target="_blank">Supreme Court blocks Trump-backed Missouri congressional map</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-25 22:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-09/260922-missouri-voting-mn-1055-1b838c.jpg" alt="Supreme Court rejects Republicans’ Missouri redistricting push for third time" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/elections/supreme-court-third-time-rejects-republican-redistricting-push-missour-rcna599218" target="_blank">Supreme Court rejects Republicans’ Missouri redistricting push for third time</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-09-25 22:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/9/25/netanyahu-calls-al-jazeera-a-toxic-media?traffic_source=rss" target="_blank">Netanyahu calls Al Jazeera a ‘toxic media outlet’</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-09-25 21:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/09/1920x1080/skynews-oman-strait-of-hormuz_7359212.jpg?20260923100437" alt="Iran says it has given US &#x27;concrete&#x27; seven-day plan to reopen Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/iran-says-it-has-given-us-concrete-seven-day-plan-to-reopen-strait-of-hormuz-13591945" target="_blank">Iran says it has given US &#x27;concrete&#x27; seven-day plan to reopen Strait of Hormuz</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-09-25 20:36</span>
             </div>
         </div>
 <div class="story">
@@ -73,38 +102,29 @@
                 <span class="time">2026-09-25 18:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1790357688793_now_daily_a_noreaster_flood_hurricane_sbr_bka_260925_S3_1920x1080-vq3bxv.jpg" alt="Flood alerts double for 33 million as rare September nor’easter nears" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/flood-alerts-double-for-33-million-as-rare-september-nor-easter-nears-270540869777" target="_blank">Flood alerts double for 33 million as rare September nor’easter nears</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-09-25 17:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44aa/live/02195500-b8fc-11f1-83cd-2998f68d9572.png" alt="I&#x27;m not tempted to call an early election, Burnham says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqwyzz79mdgjo?at_medium=RSS&at_campaign=rss" target="_blank">I&#x27;m not tempted to call an early election, Burnham says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-25 17:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/25/nx-s1-5981154/jay-z-sexual-assault-accuser-claims-false" target="_blank">Woman who accused Jay-Z of sexual assault says her claims were false</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-25 16:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6ab6f36a22f26e9fe871007e/master/pass/Why-Buy-an-Away-When-Quince-Is-Half-the-Price-.jpg" alt="Quince Luggage Is Affordable but Doesn’t Feel Cheap (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/quince-wants-to-be-your-new-away-luggage/" target="_blank">Quince Luggage Is Affordable but Doesn’t Feel Cheap (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-26 00:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/" target="_blank">Crusoe abandons $1.25B plan to use Boom turbines at AI data centers</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-09-25 23:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6ab6c8393be975e24c8d9909/master/pass/_DSC5425%20(1).jpg" alt="Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -133,28 +153,10 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/" target="_blank">Waymo is scaling fast. Here’s what the fleet data shows.</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-09-24 23:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2271874300-500x500.jpg" alt="CDC opens state ordering for COVID-19 vaccines after unexplained delay" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/09/cdc-opens-state-ordering-for-covid-19-vaccines-after-unexplained-delay/" target="_blank">CDC opens state ordering for COVID-19 vaccines after unexplained delay</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-09-24 22:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Asteroids Named After Tom Lehrer and &#x27;Weird Al&#x27; Yankovic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="There&#x27;s a New Way to Break RSA Encryption" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://science.slashdot.org/story/26/09/24/009238/asteroids-named-after-tom-lehrer-and-weird-al-yankovic?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Asteroids Named After Tom Lehrer and &#x27;Weird Al&#x27; Yankovic</a></span>
+                <span class="title"><a href="https://it.slashdot.org/story/26/09/24/1652228/theres-a-new-way-to-break-rsa-encryption?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">There&#x27;s a New Way to Break RSA Encryption</a></span>
                 <span class="feed">Slashdot</span>
                 
             </div>
@@ -164,6 +166,33 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/seolith/building-foxyinvoice-chapter-11-reach-seo-ai-crawlers-and-being-the-machine-readable-answer-24on" target="_blank">Building FoxyInvoice — Chapter 11: Reach — SEO, AI crawlers, and being the machine-readable answer</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-26 00:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/FUTEX-Robust-List2-Syscalls" target="_blank">New FUTEX Syscalls Back To Being Worked On For Helping Valve&#x27;s ARM64 Gaming Ambitions</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-25 22:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-skull"></span>
+                <span class="title"><a href="https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/" target="_blank">If we do not stop to help each other, what do we become?</a></span>
+                <span class="feed">Coding Horror</span>
+                <span class="time">2026-09-25 20:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -191,38 +220,20 @@
                 <span class="time">2026-09-25 16:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/09/banshee-snap-406x232.webp" alt="Banshee music player is back from the dead (well, kinda)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/banshee-music-player-snap-ubuntu" target="_blank">Banshee music player is back from the dead (well, kinda)</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-09-25 15:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/09/cobbledb-perplexity/en/headerimage/headerCobble-1790251452770.jpg" alt="Home Made CobbleDB Replaces DynamoDB at Perplexity to Cut Query Latency 5x and Reduce Cloud Storage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/09/cobbledb-perplexity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Home Made CobbleDB Replaces DynamoDB at Perplexity to Cut Query Latency 5x and Reduce Cloud Storage</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-09-25 14:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.linux.com/contributed/the-impact-of-digital-sovereignty-on-open-source-companies/" target="_blank">The Impact of Digital Sovereignty on Open Source Companies</a></span>
-                <span class="feed">Linux.com</span>
-                <span class="time">2026-09-25 12:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/" target="_blank">U.S. Soldier Gets 70 Months in Prison for AT&amp;T, Verizon Extortions</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2026-09-25 21:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -273,20 +284,20 @@
                 <span class="time">2026-09-25 13:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/startrek.jpg?fit=1810%2C1296&amp;quality=60&amp;ssl=1" alt="A chronology of early Star Trek computer games" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/09/24/a-chronology-of-early-star-trek-computer-games.html" target="_blank">A chronology of early Star Trek computer games</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-09-25 00:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/09/25/my-b-day" target="_blank">My B-Day!</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-09-25 22:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -306,6 +317,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://www.smbc-comics.com/comics/1790197889-20260925.png" alt="Saturday Morning Breakfast Cereal - Suit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/suit-2" target="_blank">Saturday Morning Breakfast Cereal - Suit</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-09-25 15:20</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.questionablecontent.net/comics/5925.png" alt="Color Picker" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -319,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 49 | 📡 Total Sources: 40 | 📸 With Images: 263 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 48 | 📡 Total Sources: 40 | 📸 With Images: 260 |
+        🔄 Last Updated: 01:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
