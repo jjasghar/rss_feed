@@ -1,38 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-09-26 01:01:50 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-09-26 06:46:53 UTC -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 29 feeds processed -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, September 26, 2026 - 01:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, September 26, 2026 - 06:47 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/9/26/nowhere-else-to-go-gaza-families-shelter-in-buildings-that-may-collapse?traffic_source=rss" target="_blank">‘Nowhere else to go’: Gaza families shelter in buildings that may collapse</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-26 05:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/storm-8-ap-gmh-260925_1790370391739_hpMain_4x3t_384.jpg" alt="Tracking the nor&#x27;easter: State of emergency declared in New York City" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/tracking-noreaster-millions-brace-weekends-powerful-storm/story?id=136747598" target="_blank">Tracking the nor&#x27;easter: State of emergency declared in New York City</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-26 02:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,24 +99,6 @@
                 <span class="time">2026-09-25 20:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c12/live/66f9a430-b91e-11f1-b1d1-571ed4d7ff2c.jpg" alt="Man City found guilty of majority of 115 financial rule breaches" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss" target="_blank">Man City found guilty of majority of 115 financial rule breaches</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-25 20:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/25/iraqi-airports-halt-iranian-flights-after-new-us-aviation-sanctions?traffic_source=rss" target="_blank">Iraqi airports halt Iranian flights after new US aviation sanctions</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-25 18:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -126,6 +123,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296270903-500x500.jpg" alt="Can Trump ever be wrong? His pick to lead FDA refused to say." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say/" target="_blank">Can Trump ever be wrong? His pick to lead FDA refused to say.</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-09-25 23:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6ab6c8393be975e24c8d9909/master/pass/_DSC5425%20(1).jpg" alt="Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -144,19 +150,10 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/" target="_blank">Lightspeed targets $250M for new India fund, focusing on early-stage AI</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-09-25 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="There&#x27;s a New Way to Break RSA Encryption" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Meta Made 43M Misleading Statements, New Mexico Jury Finds, Including on Its Cambridge Analytica Response" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://it.slashdot.org/story/26/09/24/1652228/theres-a-new-way-to-break-rsa-encryption?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">There&#x27;s a New Way to Break RSA Encryption</a></span>
+                <span class="title"><a href="https://tech.slashdot.org/story/26/09/26/0042239/meta-made-43m-misleading-statements-new-mexico-jury-finds-including-on-its-cambridge-analytica-response?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Meta Made 43M Misleading Statements, New Mexico Jury Finds, Including on Its Cambridge Analytica Response</a></span>
                 <span class="feed">Slashdot</span>
                 
             </div>
@@ -166,6 +163,15 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/chethan_ramaswamy_773955e/rag-explained-a-beginners-guide-to-retrieval-augmented-generation-2dn9" target="_blank">RAG Explained: A Beginner&#x27;s Guide to Retrieval-Augmented Generation</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-26 06:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -187,6 +193,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://swarmtraces.org/" target="_blank">Revealing the details of how OpenAI agents hacked Hugging Face</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-25 21:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-skull"></span>
                 <span class="title"><a href="https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/" target="_blank">If we do not stop to help each other, what do we become?</a></span>
                 <span class="feed">Coding Horror</span>
@@ -200,24 +215,6 @@
                 <span class="title"><a href="https://ollaya.dev/" target="_blank">Ollaya – Ollama for open-source, Jev-style decision models</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-09-25 18:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/" target="_blank">GitHub Copilot app for Beginners: How to build custom workflows with canvases</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-09-25 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GNU-Debugger-GDB-18.1" target="_blank">GDB 18.1 Debugger Brings Better Windows Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-25 16:47</span>
             </div>
         </div>
 </div>
@@ -325,22 +322,13 @@
                 <span class="time">2026-09-25 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5925.png" alt="Color Picker" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5925" target="_blank">Color Picker</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-09-25 04:02</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 48 | 📡 Total Sources: 40 | 📸 With Images: 260 |
-        🔄 Last Updated: 01:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 50 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 06:47 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
