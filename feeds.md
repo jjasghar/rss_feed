@@ -1,37 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-09-26 11:54:54 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-26 15:17:25 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, September 26, 2026 - 11:55 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, September 26, 2026 - 15:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +52,42 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/26/trump-rejects-irans-seven-day-roadmap-to-reopen-strait-of-hormuz?traffic_source=rss" target="_blank">Trump rejects Iran’s seven-day roadmap to reopen Strait of Hormuz</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-26 14:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/217d/live/4be6b6f0-b9b0-11f1-a430-4d16ee157c41.jpg" alt="Huge crowds greet Pope in Paris for open-air Mass" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss" target="_blank">Huge crowds greet Pope in Paris for open-air Mass</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-26 13:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/new-york-storm-rt-jt-260926_1790428551520_hpMain_4x3t_384.jpg" alt="Nor&#x27;easter brings strong winds, coastal flooding and high waves to East Coast" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/noreaster-brings-strong-winds-coastal-flooding-high-waves/story?id=136777903" target="_blank">Nor&#x27;easter brings strong winds, coastal flooding and high waves to East Coast</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-26 13:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/26/nx-s1-5974096/essay-09-26-26" target="_blank">OPINION: Trump&#x27;s U.N. speech, a stark contrast with past presidents</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-26 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/09/26/g-s1-144667/hiv-crystal-meth-epidemic-fiji" target="_blank">Meth is a key driver in Fiji&#x27;s fast-growing HIV epidemic: 1 in 60 adults are affected</a></span>
                 <span class="feed">NPR Topics: News</span>
@@ -65,47 +103,20 @@
                 <span class="time">2026-09-26 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/9/26/nowhere-else-to-go-gaza-families-shelter-in-buildings-that-may-collapse?traffic_source=rss" target="_blank">‘Nowhere else to go’: Gaza families shelter in buildings that may collapse</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-26 05:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50c9/live/f69f3490-b97f-11f1-8fe1-e102ea0756fc.jpg" alt="Iran offers US deal to reopen Strait of Hormuz in seven days" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss" target="_blank">Iran offers US deal to reopen Strait of Hormuz in seven days</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-26 05:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/storm-8-ap-gmh-260925_1790370391739_hpMain_4x3t_384.jpg" alt="Tracking the nor&#x27;easter: State of emergency declared in New York City" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/tracking-noreaster-millions-brace-weekends-powerful-storm/story?id=136747598" target="_blank">Tracking the nor&#x27;easter: State of emergency declared in New York City</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-09-26 02:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/25/nx-s1-5978875/midterms-redistricting-trump-missouri" target="_blank">Supreme Court blocks Trump-backed Missouri congressional map</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-25 22:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising" target="_blank">Can Cloudflare CEO Matthew Prince save the web from AI?</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-09-26 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6ab6f92958636b7652d67b95/master/pass/Our-Favorite-White-Elephant-Gifts-for-Your-Next-Exchange.jpg" alt="12 Best White Elephant Gifts, Plus a Prank Box to Put Them In (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +162,20 @@
                 <span class="time">2026-09-25 23:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296270903-500x500.jpg" alt="Can Trump ever be wrong? His pick to lead FDA refused to say." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say/" target="_blank">Can Trump ever be wrong? His pick to lead FDA refused to say.</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-09-25 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.4-Refill-Sheaves-Barn" target="_blank">MM Change Slated For Linux 7.4 Yields +22904539.81% In One Metric, More Modest Wins In Others</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-26 15:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/presentations/adaptive-recommendation-systems-architecture/en/mediumimage/mallika-medium-1789632229433.jpeg" alt="Presentation: Adaptive Recommenders in the Real World: Inference, Evals, and System Design" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -172,6 +183,15 @@
                 <span class="title"><a href="https://www.infoq.com/presentations/adaptive-recommendation-systems-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Adaptive Recommenders in the Real World: Inference, Evals, and System Design</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-09-26 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://gultsch.de/posts/breaking-up-with-google-play/" target="_blank">Breaking Up with Google Play: Why Conversations Is Now Free</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-26 10:55</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +219,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/FUTEX-Robust-List2-Syscalls" target="_blank">New FUTEX Syscalls Back To Being Worked On For Helping Valve&#x27;s ARM64 Gaming Ambitions</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-09-25 22:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://swarmtraces.org/" target="_blank">Revealing the details of how OpenAI agents hacked Hugging Face</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-25 21:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-skull"></span>
-                <span class="title"><a href="https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/" target="_blank">If we do not stop to help each other, what do we become?</a></span>
-                <span class="feed">Coding Horror</span>
-                <span class="time">2026-09-25 20:54</span>
             </div>
         </div>
 </div>
@@ -248,6 +250,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-09-25 23:42</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/kent-kubasta-1600x1067-1.jpg?fit=1600%2C1067&amp;quality=60&amp;ssl=1" alt="Pokémon card collector used GPS device to track delivery woman" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -272,15 +283,6 @@
                 <span class="title"><a href="https://kotaku.com/microsoft-ceo-on-recent-xbox-layoffs-theres-some-amount-of-streamlining-asha-is-doing-which-is-great-to-see-2000737217" target="_blank">Microsoft CEO On Recent Xbox Layoffs: ‘There’s Some Amount Of Streamlining Asha Is Doing…Which Is Great To See’</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-09-25 18:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M2NW0JAZ3YK2WD19DETBCEF5/hero-image.png" alt="This Foldable Anker Charger Is 34% Off for October Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/anker-magsafe-3-in-1-charger-early-october-prime-day-2026?utm_medium=RSS" target="_blank">This Foldable Anker Charger Is 34% Off for October Prime Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-09-25 13:35</span>
             </div>
         </div>
 </div>
@@ -329,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 48 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 11:55 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 49 | 📡 Total Sources: 40 | 📸 With Images: 260 |
+        🔄 Last Updated: 15:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
