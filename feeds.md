@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-09-26 15:17:25 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-26 18:47:51 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Generated 10 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, September 26, 2026 - 15:17 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Saturday, September 26, 2026 - 18:48 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb83/live/ca71b050-a6f6-11f1-97e2-55b9ef1865bd.jpg" alt="Heathrow Airport warns third runway could be delayed by four years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss" target="_blank">Heathrow Airport warns third runway could be delayed by four years</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-26 16:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-3-ap-gmh-260923_1790167675477_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump rejects Iran offer to reopen Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-irgc-ready-counteroffensive-us-attacks/?id=136611503" target="_blank">Iran live updates: Trump rejects Iran offer to reopen Strait of Hormuz</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-26 15:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,24 +101,6 @@
                 <span class="time">2026-09-26 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/26/g-s1-144667/hiv-crystal-meth-epidemic-fiji" target="_blank">Meth is a key driver in Fiji&#x27;s fast-growing HIV epidemic: 1 in 60 adults are affected</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-26 11:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-08/260808-germany-aiport-drone-ch-1102-c38853.jpg" alt="Europe frets as the Kremlin pushes the limits of its hybrid warfare" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/europe/europe-frets-kremlin-pushes-limits-hybrid-warfare-rcna599351" target="_blank">Europe frets as the Kremlin pushes the limits of its hybrid warfare</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-09-26 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -111,10 +109,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/" target="_blank">Meta and YouTube say they will run ads for ‘Musk’ documentary after all</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-09-26 17:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section" target="_blank">Kids turned the comment section of an NPR podcast into a group chat</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-09-26 17:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising" target="_blank">Can Cloudflare CEO Matthew Prince save the web from AI?</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-09-26 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6ab58bd2c1b44e18bee51f48/master/pass/Kernel-Panic-Credit-Card-Scams-Security.jpg" alt="Old-School Credit Card Scams Are Far From Dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/kernel-panic-old-timey-credit-card-scams/" target="_blank">Old-School Credit Card Scams Are Far From Dead</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-26 12:00</span>
             </div>
         </div>
 <div class="story">
@@ -135,38 +160,29 @@
                 <span class="time">2026-09-26 07:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/" target="_blank">At Meta Connect, the company’s smart glasses were everywhere</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-09-26 01:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6ab6f36a22f26e9fe871007e/master/pass/Why-Buy-an-Away-When-Quince-Is-Half-the-Price-.jpg" alt="Quince Luggage Is Affordable but Doesn’t Feel Cheap (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/quince-wants-to-be-your-new-away-luggage/" target="_blank">Quince Luggage Is Affordable but Doesn’t Feel Cheap (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-09-26 00:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/" target="_blank">Crusoe abandons $1.25B plan to use Boom turbines at AI data centers</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-09-25 23:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/09/docker-cloud-sandboxes/en/headerimage/dreamer-4-mincraft-agent-1790438799314.jpeg" alt="Docker Cloud Sandboxes Provide a Consistent Sandbox Abstraction Across Laptop and Cloud" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/09/docker-cloud-sandboxes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Docker Cloud Sandboxes Provide a Consistent Sandbox Abstraction Across Laptop and Cloud</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-09-26 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Toolpak" target="_blank">&quot;Toolpak&quot; Being Devised By GNOME OS Developers, Akin To Flatpak For Tools</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-26 16:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,24 +217,6 @@
                 <span class="title"><a href="https://dev.to/chethan_ramaswamy_773955e/rag-explained-a-beginners-guide-to-retrieval-augmented-generation-2dn9" target="_blank">RAG Explained: A Beginner&#x27;s Guide to Retrieval-Augmented Generation</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-09-26 06:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/seolith/building-foxyinvoice-chapter-11-reach-seo-ai-crawlers-and-being-the-machine-readable-answer-24on" target="_blank">Building FoxyInvoice — Chapter 11: Reach — SEO, AI crawlers, and being the machine-readable answer</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-26 00:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/FUTEX-Robust-List2-Syscalls" target="_blank">New FUTEX Syscalls Back To Being Worked On For Helping Valve&#x27;s ARM64 Gaming Ambitions</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-25 22:42</span>
             </div>
         </div>
 </div>
@@ -276,20 +274,20 @@
                 <span class="time">2026-09-25 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/satyanadella.jpg" alt="Microsoft CEO On Recent Xbox Layoffs: ‘There’s Some Amount Of Streamlining Asha Is Doing…Which Is Great To See’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/microsoft-ceo-on-recent-xbox-layoffs-theres-some-amount-of-streamlining-asha-is-doing-which-is-great-to-see-2000737217" target="_blank">Microsoft CEO On Recent Xbox Layoffs: ‘There’s Some Amount Of Streamlining Asha Is Doing…Which Is Great To See’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-09-25 18:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1790197930-20260926.png" alt="Saturday Morning Breakfast Cereal - All Right" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/all-right" target="_blank">Saturday Morning Breakfast Cereal - All Right</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-09-26 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -299,40 +297,13 @@
                 <span class="time">2026-09-25 22:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/09/25/goerbemisdag" target="_blank">Goerbemisdag</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-09-25 17:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-pencil"></span>
-                <span class="title"><a href="https://poorlydrawnlines.com/comic/coming-to-life/" target="_blank">Coming to Life</a></span>
-                <span class="feed">Poorly Drawn Lines</span>
-                <span class="time">2026-09-25 16:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1790197889-20260925.png" alt="Saturday Morning Breakfast Cereal - Suit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/suit-2" target="_blank">Saturday Morning Breakfast Cereal - Suit</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-09-25 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 49 | 📡 Total Sources: 40 | 📸 With Images: 260 |
-        🔄 Last Updated: 15:17 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 45 | 📡 Total Sources: 40 | 📸 With Images: 262 |
+        🔄 Last Updated: 18:48 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
