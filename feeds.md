@@ -1,37 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-09-26 18:47:51 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-26 21:41:05 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 28 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, September 26, 2026 - 18:48 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Saturday, September 26, 2026 - 21:41 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/9/26/yamal-nets-in-spains-3-2-comeback-win-against-england-in-nations-league?traffic_source=rss" target="_blank">Yamal nets in Spain’s 3-2 comeback win against England in Nations League</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-26 21:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1790450364157_now_brk_noreaster_update_260926_S3_1920x1080-sd2yo2.jpg" alt="Powerful nor&#x27;easter lashes parts of the East Coast" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/powerful-nor-easter-lashes-parts-of-the-east-coast-270598213953" target="_blank">Powerful nor&#x27;easter lashes parts of the East Coast</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-09-26 19:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb83/live/ca71b050-a6f6-11f1-97e2-55b9ef1865bd.jpg" alt="Heathrow Airport warns third runway could be delayed by four years" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,29 +105,29 @@
                 <span class="time">2026-09-26 13:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/new-york-storm-rt-jt-260926_1790428551520_hpMain_4x3t_384.jpg" alt="Nor&#x27;easter brings strong winds, coastal flooding and high waves to East Coast" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/noreaster-brings-strong-winds-coastal-flooding-high-waves/story?id=136777903" target="_blank">Nor&#x27;easter brings strong winds, coastal flooding and high waves to East Coast</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-09-26 13:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/26/nx-s1-5974096/essay-09-26-26" target="_blank">OPINION: Trump&#x27;s U.N. speech, a stark contrast with past presidents</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-26 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents" target="_blank">Apple hit with $5.7 billion in damages over haptic patents</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-09-26 21:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/" target="_blank">Insurers claim AI is already increasing healthcare costs</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-09-26 21:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,29 +164,20 @@
                 <span class="time">2026-09-26 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6ab6f92958636b7652d67b95/master/pass/Our-Favorite-White-Elephant-Gifts-for-Your-Next-Exchange.jpg" alt="12 Best White Elephant Gifts, Plus a Prank Box to Put Them In (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-white-elephant-gifts-2026/" target="_blank">12 Best White Elephant Gifts, Plus a Prank Box to Put Them In (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-09-26 11:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox" target="_blank">Can &amp;#8216;eSUV&amp;#8217; e-bikes really go from trail to town?</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-09-26 07:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F70gk0bd2tetpvgwbrxxu.png" alt="Build Your Own Kubernetes: A Small Orchestrator That Teaches the Real System" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/im-shafiqurehman/build-your-own-kubernetes-a-small-orchestrator-that-teaches-the-real-system-1lfn" target="_blank">Build Your Own Kubernetes: A Small Orchestrator That Teaches the Real System</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-26 21:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/09/docker-cloud-sandboxes/en/headerimage/dreamer-4-mincraft-agent-1790438799314.jpeg" alt="Docker Cloud Sandboxes Provide a Consistent Sandbox Abstraction Across Laptop and Cloud" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -210,15 +223,6 @@
                 <span class="time">2026-09-26 10:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/chethan_ramaswamy_773955e/rag-explained-a-beginners-guide-to-retrieval-augmented-generation-2dn9" target="_blank">RAG Explained: A Beginner&#x27;s Guide to Retrieval-Augmented Generation</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-26 06:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,20 +237,20 @@
                 <span class="time">2026-09-25 21:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-participatory-squid-dissection-in-october-in-tennessee.html" target="_blank">Friday Squid Blogging: Participatory Squid Dissection in October in Tennessee</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-09-25 21:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/toxic-crusaders-feature-1.jpg?fit=1200%2C723&amp;quality=60&amp;ssl=1" alt="Matt Bors and Tristan Wright reboot The Toxic Crusaders as an adult comic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/09/26/matt-bors-and-tristan-wright-reboot-the-toxic-crusaders-as-a.html" target="_blank">Matt Bors and Tristan Wright reboot The Toxic Crusaders as an adult comic</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-09-26 16:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -254,24 +258,6 @@
                 <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-09-25 23:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/kent-kubasta-1600x1067-1.jpg?fit=1600%2C1067&amp;quality=60&amp;ssl=1" alt="Pokémon card collector used GPS device to track delivery woman" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/09/25/pokemon-card-collector-used-gps-device-to-track-delivery-woman.html" target="_blank">Pokémon card collector used GPS device to track delivery woman</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-09-25 21:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/09/homegrown-tomato-1280x720.jpg" alt="There Are Only Two Things That Money Can’t Buy: True Love, And Homegrown Tomatoes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/only-two-things-money-cant-buy-true-love-and-homegrown-tomatoes-2000737231" target="_blank">There Are Only Two Things That Money Can’t Buy: True Love, And Homegrown Tomatoes</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-09-25 21:00</span>
             </div>
         </div>
 </div>
@@ -302,8 +288,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 45 | 📡 Total Sources: 40 | 📸 With Images: 262 |
-        🔄 Last Updated: 18:48 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 43 | 📡 Total Sources: 40 | 📸 With Images: 262 |
+        🔄 Last Updated: 21:41 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
