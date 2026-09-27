@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-09-27 15:25:36 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-09-27 19:23:03 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Sunday, September 27, 2026 - 15:25 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Sunday, September 27, 2026 - 19:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/27/at-least-12-dead-and-dozens-missing-after-a-vessel-capsizes-in-drc?traffic_source=rss" target="_blank">At least 12 dead and dozens missing after a vessel capsizes in DRC</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-27 18:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/nolo-prep-ap-jt-260926_1790438481319_hpMain_4x3t_384.jpg" alt="Hurricane Nolo lashes Hawaii as new threat of &#x27;volcanic hail&#x27; arises" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/hawaii-high-alert-hurricane-nolo-closes-islands/story?id=136782145" target="_blank">Hurricane Nolo lashes Hawaii as new threat of &#x27;volcanic hail&#x27; arises</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-27 17:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/27/nx-s1-5982488/south-africa-mass-shootings-killed-38-week" target="_blank">South Africa reels from spate of mass shootings that killed 38 people in a week</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-27 13:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -70,38 +100,29 @@
                 <span class="time">2026-09-27 09:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2f6/live/86e0e040-ba15-11f1-851b-7de4b36a82e3.jpg" alt="Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss" target="_blank">Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-27 07:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a10a/live/8c9d1be0-b91e-11f1-b685-519146636d7f.png" alt="Controversial Orange Order march to go ahead for first time in nearly 30 years after late night drama" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss" target="_blank">Controversial Orange Order march to go ahead for first time in nearly 30 years after late night drama</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-27 03:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/9/26/yamal-nets-in-spains-3-2-comeback-win-against-england-in-nations-league?traffic_source=rss" target="_blank">Yamal nets in Spain’s 3-2 comeback win against England in Nations League</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-26 21:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6ab848991c134ed8817569dd/master/pass/The-Best-Party-Speakers-for-Making-It-Loud.jpg" alt="Best Party Speakers (2026): JBL, Sony, Marshall, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-party-speaker/" target="_blank">Best Party Speakers (2026): JBL, Sony, Marshall, and More</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-27 11:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2287653556-500x500.jpg" alt="How the Smithsonian became the latest front in Trump’s culture war" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/09/how-the-smithsonian-became-the-latest-front-in-trumps-culture-war/" target="_blank">How the Smithsonian became the latest front in Trump’s culture war</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-09-27 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -130,28 +151,10 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/" target="_blank">Meta and YouTube say they will run ads for ‘Musk’ documentary after all</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-09-26 17:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section" target="_blank">Kids turned the comment section of an NPR podcast into a group chat</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-09-26 17:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="New Tin-based Solar Cells Trap Heat 1,000 Times Longer, Could Beat 33% Limit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Waymo Says Its Self-Driving Cars Reduced Injury-Causing Accidents by 82%" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://hardware.slashdot.org/story/26/09/26/0716210/new-tin-based-solar-cells-trap-heat-1000-times-longer-could-beat-33-limit?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">New Tin-based Solar Cells Trap Heat 1,000 Times Longer, Could Beat 33% Limit</a></span>
+                <span class="title"><a href="https://tech.slashdot.org/story/26/09/27/0134224/waymo-says-its-self-driving-cars-reduced-injury-causing-accidents-by-82?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Waymo Says Its Self-Driving Cars Reduced Injury-Causing Accidents by 82%</a></span>
                 <span class="feed">Slashdot</span>
                 
             </div>
@@ -221,21 +224,21 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/09/ss_8ad5c9ab448b43bcc65350898e50ddefcb5c9ad4.1920x1080-1-1280x720.jpg" alt="King Of Dragon Pass Creator Wants You To Get The Crew Together" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/king-of-dragon-pass-creator-wants-you-to-get-the-crew-together-2000733582" target="_blank">King Of Dragon Pass Creator Wants You To Get The Crew Together</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-27 17:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/09/shadowrunanightswork.jpg" alt="UK’s Largest Tabletop Convention Bans AI With Few Exceptions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/uks-largest-tabletop-convention-bans-ai-with-few-exceptions-2000737334" target="_blank">UK’s Largest Tabletop Convention Bans AI With Few Exceptions</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-09-26 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/toxic-crusaders-feature-1.jpg?fit=1200%2C723&amp;quality=60&amp;ssl=1" alt="Matt Bors and Tristan Wright reboot The Toxic Crusaders as an adult comic" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/09/26/matt-bors-and-tristan-wright-reboot-the-toxic-crusaders-as-a.html" target="_blank">Matt Bors and Tristan Wright reboot The Toxic Crusaders as an adult comic</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-09-26 16:13</span>
             </div>
         </div>
 </div>
@@ -257,8 +260,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 21 | 📅 Last 24h: 27 | 📡 Total Sources: 40 | 📸 With Images: 262 |
-        🔄 Last Updated: 15:25 UTC
+        📊 Displayed: 21 | 📅 Last 24h: 25 | 📡 Total Sources: 40 | 📸 With Images: 264 |
+        🔄 Last Updated: 19:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
