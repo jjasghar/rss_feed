@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-09-26 23:59:57 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-27 04:12:44 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 1 new posts out of 27 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Sunday, September 27, 2026 - 00:00 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, September 27, 2026 - 04:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a10a/live/8c9d1be0-b91e-11f1-b685-519146636d7f.png" alt="Controversial Orange Order march to go ahead for first time in nearly 30 years after late night drama" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss" target="_blank">Controversial Orange Order march to go ahead for first time in nearly 30 years after late night drama</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-27 03:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +100,20 @@
                 <span class="time">2026-09-26 15:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/26/trump-rejects-irans-seven-day-roadmap-to-reopen-strait-of-hormuz?traffic_source=rss" target="_blank">Trump rejects Iran’s seven-day roadmap to reopen Strait of Hormuz</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-26 14:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/" target="_blank">PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-09-27 01:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +159,20 @@
                 <span class="time">2026-09-26 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6ab58bd2c1b44e18bee51f48/master/pass/Kernel-Panic-Credit-Card-Scams-Security.jpg" alt="Old-School Credit Card Scams Are Far From Dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/kernel-panic-old-timey-credit-card-scams/" target="_blank">Old-School Credit Card Scams Are Far From Dead</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-09-26 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shaam_ai/agentic-ai-books-2026-gulli-vs-lanham-vs-huyen-2idj" target="_blank">Agentic AI Books 2026: Gulli vs Lanham vs Huyen</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-27 03:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F70gk0bd2tetpvgwbrxxu.png" alt="Build Your Own Kubernetes: A Small Orchestrator That Teaches the Real System" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -201,21 +210,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://res.infoq.com/presentations/adaptive-recommendation-systems-architecture/en/mediumimage/mallika-medium-1789632229433.jpeg" alt="Presentation: Adaptive Recommenders in the Real World: Inference, Evals, and System Design" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/adaptive-recommendation-systems-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Adaptive Recommenders in the Real World: Inference, Evals, and System Design</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-09-26 11:00</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://gultsch.de/posts/breaking-up-with-google-play/" target="_blank">Breaking Up with Google Play: Why Conversations Is Now Free</a></span>
+                <span class="title"><a href="https://antonz.org/go-concurrency-distilled/" target="_blank">Go Concurrency Distilled</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2026-09-26 10:55</span>
+                <span class="time">2026-09-26 14:34</span>
             </div>
         </div>
 </div>
@@ -223,6 +223,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/09/shadowrunanightswork.jpg" alt="UK’s Largest Tabletop Convention Bans AI With Few Exceptions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/uks-largest-tabletop-convention-bans-ai-with-few-exceptions-2000737334" target="_blank">UK’s Largest Tabletop Convention Bans AI With Few Exceptions</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-26 20:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/toxic-crusaders-feature-1.jpg?fit=1200%2C723&amp;quality=60&amp;ssl=1" alt="Matt Bors and Tristan Wright reboot The Toxic Crusaders as an adult comic" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -251,8 +260,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 20 | 📅 Last 24h: 36 | 📡 Total Sources: 40 | 📸 With Images: 263 |
-        🔄 Last Updated: 00:00 UTC
+        📊 Displayed: 21 | 📅 Last 24h: 36 | 📡 Total Sources: 40 | 📸 With Images: 263 |
+        🔄 Last Updated: 04:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
