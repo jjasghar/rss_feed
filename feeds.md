@@ -1,31 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-09-27 10:15:47 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-09-27 15:25:36 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Sunday, September 27, 2026 - 10:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Sunday, September 27, 2026 - 15:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -60,6 +62,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-09/260927-fairford-nd-d2e946.jpg" alt="Bomb squad searching vans near U.S. air base in Britain after five men arrested" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/united-kingdom/men-arrested-suspicion-explosives-offences-us-air-base-britain-rcna600052" target="_blank">Bomb squad searching vans near U.S. air base in Britain after five men arrested</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-09-27 09:17</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2f6/live/86e0e040-ba15-11f1-851b-7de4b36a82e3.jpg" alt="Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -84,15 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/9/26/yamal-nets-in-spains-3-2-comeback-win-against-england-in-nations-league?traffic_source=rss" target="_blank">Yamal nets in Spain’s 3-2 comeback win against England in Nations League</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-09-26 21:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1790450364157_now_brk_noreaster_update_260926_S3_1920x1080-sd2yo2.jpg" alt="Powerful nor&#x27;easter lashes parts of the East Coast" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/powerful-nor-easter-lashes-parts-of-the-east-coast-270598213953" target="_blank">Powerful nor&#x27;easter lashes parts of the East Coast</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-09-26 19:19</span>
             </div>
         </div>
 </div>
@@ -146,12 +148,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="New Tin-based Solar Cells Trap Heat 1,000 Times Longer, Could Beat 33% Limit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising" target="_blank">Can Cloudflare CEO Matthew Prince save the web from AI?</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-09-26 14:00</span>
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://hardware.slashdot.org/story/26/09/26/0716210/new-tin-based-solar-cells-trap-heat-1000-times-longer-could-beat-33-limit?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">New Tin-based Solar Cells Trap Heat 1,000 Times Longer, Could Beat 33% Limit</a></span>
+                <span class="feed">Slashdot</span>
+                
             </div>
         </div>
 </div>
@@ -159,6 +161,42 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/debashish_ghosal/a-certification-that-changes-every-run-is-a-coin-flip-with-a-signature-bj9" target="_blank">A Certification That Changes Every Run Is a Coin Flip With a Signature</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-27 15:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/09/c-rust-rewrite/en/headerimage/generatedHeaderImage-1790493245314.jpg" alt="Google Rewrites Critical C Dependencies to Rust Using AI and Differential Fuzzing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/09/c-rust-rewrite/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Rewrites Critical C Dependencies to Rust Using AI and Differential Fuzzing</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-09-27 14:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-LZ4-Clean-Resync" target="_blank">Linux Kernel&#x27;s LZ4 Compression Code Being Resynced For Better Performance &amp; Cleanliness</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-27 13:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17474965/almalinux-software-certification-launched" target="_blank">AlmaLinux Puts Software Certification in the Hands of Users</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-09-27 05:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -175,42 +213,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.4-Better-RPI-GPU-Reset" target="_blank">Improved GPU Reset Coming For Raspberry Pi Boards With Linux 7.4</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-09-27 00:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F70gk0bd2tetpvgwbrxxu.png" alt="Build Your Own Kubernetes: A Small Orchestrator That Teaches the Real System" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/im-shafiqurehman/build-your-own-kubernetes-a-small-orchestrator-that-teaches-the-real-system-1lfn" target="_blank">Build Your Own Kubernetes: A Small Orchestrator That Teaches the Real System</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-26 21:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/09/docker-cloud-sandboxes/en/headerimage/dreamer-4-mincraft-agent-1790438799314.jpeg" alt="Docker Cloud Sandboxes Provide a Consistent Sandbox Abstraction Across Laptop and Cloud" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/09/docker-cloud-sandboxes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Docker Cloud Sandboxes Provide a Consistent Sandbox Abstraction Across Laptop and Cloud</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-09-26 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Toolpak" target="_blank">&quot;Toolpak&quot; Being Devised By GNOME OS Developers, Akin To Flatpak For Tools</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-26 16:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.4-Refill-Sheaves-Barn" target="_blank">MM Change Slated For Linux 7.4 Yields +22904539.81% In One Metric, More Modest Wins In Others</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-26 15:07</span>
             </div>
         </div>
 </div>
@@ -242,12 +244,12 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
-            <img src="https://www.smbc-comics.com/comics/1790197930-20260926.png" alt="Saturday Morning Breakfast Cereal - All Right" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1790204486-20260927.png" alt="Saturday Morning Breakfast Cereal - Paradox" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/all-right" target="_blank">Saturday Morning Breakfast Cereal - All Right</a></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/paradox-3" target="_blank">Saturday Morning Breakfast Cereal - Paradox</a></span>
                 <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-09-26 15:20</span>
+                <span class="time">2026-09-27 15:20</span>
             </div>
         </div>
 </div>
@@ -255,8 +257,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 21 | 📅 Last 24h: 35 | 📡 Total Sources: 40 | 📸 With Images: 263 |
-        🔄 Last Updated: 10:16 UTC
+        📊 Displayed: 21 | 📅 Last 24h: 27 | 📡 Total Sources: 40 | 📸 With Images: 262 |
+        🔄 Last Updated: 15:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
