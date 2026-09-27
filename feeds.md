@@ -1,36 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-09-27 19:23:03 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-09-27 22:38:38 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Sunday, September 27, 2026 - 19:23 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Sunday, September 27, 2026 - 22:38 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81eb/live/0d9d7aa0-bab4-11f1-bb00-3d60b0ebadb6.jpg" alt="Five arrested as counter-terror police investigate major incident near RAF Fairford" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss" target="_blank">Five arrested as counter-terror police investigate major incident near RAF Fairford</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-27 20:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -67,6 +81,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town" target="_blank">At least 27 dead after two mass shootings in South Africa, police say</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-09-27 13:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/09/27/nx-s1-5982488/south-africa-mass-shootings-killed-38-week" target="_blank">South Africa reels from spate of mass shootings that killed 38 people in a week</a></span>
                 <span class="feed">NPR Topics: News</span>
@@ -82,29 +105,20 @@
                 <span class="time">2026-09-27 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/9/27/plane-carrying-dr-congo-military-delegation-crashes?traffic_source=rss" target="_blank">Plane carrying DR Congo military delegation crashes</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-27 09:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-09/260927-fairford-nd-d2e946.jpg" alt="Bomb squad searching vans near U.S. air base in Britain after five men arrested" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/united-kingdom/men-arrested-suspicion-explosives-offences-us-air-base-britain-rcna600052" target="_blank">Bomb squad searching vans near U.S. air base in Britain after five men arrested</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-09-27 09:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/" target="_blank">Anthropic’s CEO is about to have dinner with President Trump</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-09-27 20:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6ab848991c134ed8817569dd/master/pass/The-Best-Party-Speakers-for-Making-It-Loud.jpg" alt="Best Party Speakers (2026): JBL, Sony, Marshall, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -133,28 +147,19 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents" target="_blank">Apple hit with $5.7 billion in damages over haptic patents</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-09-26 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/" target="_blank">Insurers claim AI is already increasing healthcare costs</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-09-26 21:02</span>
-            </div>
-        </div>
-<div class="story">
             <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Waymo Says Its Self-Driving Cars Reduced Injury-Causing Accidents by 82%" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-comments"></span>
                 <span class="title"><a href="https://tech.slashdot.org/story/26/09/27/0134224/waymo-says-its-self-driving-cars-reduced-injury-causing-accidents-by-82?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Waymo Says Its Self-Driving Cars Reduced Injury-Causing Accidents by 82%</a></span>
+                <span class="feed">Slashdot</span>
+                
+            </div>
+        </div>
+<div class="story">
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="New Tin-based Solar Cells Trap Heat 1,000 Times Longer, Could Beat 33% Limit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://hardware.slashdot.org/story/26/09/26/0716210/new-tin-based-solar-cells-trap-heat-1000-times-longer-could-beat-33-limit?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">New Tin-based Solar Cells Trap Heat 1,000 Times Longer, Could Beat 33% Limit</a></span>
                 <span class="feed">Slashdot</span>
                 
             </div>
@@ -164,6 +169,15 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-rc5-Released" target="_blank">Linux 7.3-rc5 Released: &quot;Another Week, Another Large RC&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-27 21:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,20 +223,29 @@
                 <span class="time">2026-09-27 03:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.4-Better-RPI-GPU-Reset" target="_blank">Improved GPU Reset Coming For Raspberry Pi Boards With Linux 7.4</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-27 00:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/09/residenteviltumbleweed.jpg" alt="Choreographer Shows Acrobatics Behind Resident Evil Film’s Weirdest Monster" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/choreographer-shows-acrobatics-behind-resident-evil-films-weirdest-monster-2000737438" target="_blank">Choreographer Shows Acrobatics Behind Resident Evil Film’s Weirdest Monster</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-27 21:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/Microsoft-Windows-11-Pro-2.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Access the Pro features that Windows 11 Home leaves out for just $10" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/09/27/access-the-pro-features-that-windows-11-home-leaves-out-for-just-10.html" target="_blank">Access the Pro features that Windows 11 Home leaves out for just $10</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-09-27 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/09/ss_8ad5c9ab448b43bcc65350898e50ddefcb5c9ad4.1920x1080-1-1280x720.jpg" alt="King Of Dragon Pass Creator Wants You To Get The Crew Together" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -230,15 +253,6 @@
                 <span class="title"><a href="https://kotaku.com/king-of-dragon-pass-creator-wants-you-to-get-the-crew-together-2000733582" target="_blank">King Of Dragon Pass Creator Wants You To Get The Crew Together</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-09-27 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/09/shadowrunanightswork.jpg" alt="UK’s Largest Tabletop Convention Bans AI With Few Exceptions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/uks-largest-tabletop-convention-bans-ai-with-few-exceptions-2000737334" target="_blank">UK’s Largest Tabletop Convention Bans AI With Few Exceptions</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-09-26 20:30</span>
             </div>
         </div>
 </div>
@@ -260,8 +274,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 21 | 📅 Last 24h: 25 | 📡 Total Sources: 40 | 📸 With Images: 264 |
-        🔄 Last Updated: 19:23 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 26 | 📡 Total Sources: 40 | 📸 With Images: 264 |
+        🔄 Last Updated: 22:38 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
