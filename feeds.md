@@ -1,38 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-09-28 07:52:13 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-09-28 16:10:42 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Generated 12 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Monday, September 28, 2026 - 07:52 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Monday, September 28, 2026 - 16:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/9/28/at-least-33-killed-after-myanmar-military-air-strike-hits-market?traffic_source=rss" target="_blank">At least 33 killed after Myanmar military air strike hits market</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-28 15:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/28/nx-s1-5983418/spacex-starship-first-orbital-flight-14-nasa" target="_blank">SpaceX&#x27;s Starship launches on first orbital mission from Texas</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-28 13:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,30 +87,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81eb/live/0d9d7aa0-bab4-11f1-bb00-3d60b0ebadb6.jpg" alt="Five arrested as counter-terror police investigate major incident near RAF Fairford" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b03e/live/dca633d0-bab6-11f1-aa85-8f10bc212c53.jpg" alt="Inside Yemen&#x27;s front-line city as Houthis battle for control" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss" target="_blank">Five arrested as counter-terror police investigate major incident near RAF Fairford</a></span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss" target="_blank">Inside Yemen&#x27;s front-line city as Houthis battle for control</a></span>
                 <span class="feed">BBC News</span>
-                <span class="time">2026-09-27 20:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/27/at-least-12-dead-and-dozens-missing-after-a-vessel-capsizes-in-drc?traffic_source=rss" target="_blank">At least 12 dead and dozens missing after a vessel capsizes in DRC</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-27 18:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/nolo-prep-ap-jt-260926_1790438481319_hpMain_4x3t_384.jpg" alt="Hurricane Nolo lashes Hawaii as new threat of &#x27;volcanic hail&#x27; arises" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/hawaii-high-alert-hurricane-nolo-closes-islands/story?id=136782145" target="_blank">Hurricane Nolo lashes Hawaii as new threat of &#x27;volcanic hail&#x27; arises</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-09-27 17:23</span>
+                <span class="time">2026-09-27 21:16</span>
             </div>
         </div>
 </div>
@@ -107,6 +100,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/1001418/volkswagen-replaces-id4-id-tiguan-ev" target="_blank">Volkswagen replaces ID.4 with all-electric Tiguan</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-09-28 15:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6ab5b6b48aaba31111432c65/master/pass/GOP-Extremists-Politics.jpg" alt="These Extremists Are Running for Election in November" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/these-extremists-are-running-for-election-in-november/" target="_blank">These Extremists Are Running for Election in November</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-28 14:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -123,24 +134,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/" target="_blank">Anthropic’s CEO is about to have dinner with President Trump</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-09-27 20:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6ab848991c134ed8817569dd/master/pass/The-Best-Party-Speakers-for-Making-It-Loud.jpg" alt="Best Party Speakers (2026): JBL, Sony, Marshall, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-party-speaker/" target="_blank">Best Party Speakers (2026): JBL, Sony, Marshall, and More</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-09-27 11:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2287653556-500x500.jpg" alt="How the Smithsonian became the latest front in Trump’s culture war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/09/how-the-smithsonian-became-the-latest-front-in-trumps-culture-war/" target="_blank">How the Smithsonian became the latest front in Trump’s culture war</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-09-27 11:00</span>
             </div>
         </div>
 <div class="story">
@@ -166,6 +159,33 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Firefox-157-Released" target="_blank">Firefox 157 Now Available With Visual Refresh, WebRTC Hardware AV1 Decode</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-28 14:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/creating-a-private-5g-network" target="_blank">Creating a private 5G network</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-09-28 14:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://git.mills.io/prologic/parley" target="_blank">Parley: Federated, decentralised chat that speaks plain IRC</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-28 10:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/09/linear-stylex-meta/en/headerimage/generatedHeaderImage-1790325003090.jpg" alt="Linear Completes 1,000-PR Migration From styled-components to Meta&#x27;s StyleX" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -193,31 +213,27 @@
                 <span class="time">2026-09-27 22:56</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/09/linux-mint-horizon-makeover-406x232.webp" alt="Give Linux Mint a makeover with Silent Horizon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/linux-mint-silent-horizon-design" target="_blank">Give Linux Mint a makeover with Silent Horizon</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-09-27 22:56</span>
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/" target="_blank">Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2026-09-28 15:08</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-rc5-Released" target="_blank">Linux 7.3-rc5 Released: &quot;Another Week, Another Large RC&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-27 21:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://sancho.bearblog.dev/google-weird/" target="_blank">When did Google get so weird?</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-27 20:12</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/09/new-attack-against-rsa.html" target="_blank">New Attack Against RSA</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-09-28 11:02</span>
             </div>
         </div>
 </div>
@@ -225,6 +241,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/09/main-image-1280x720.jpeg" alt="20 Brilliantly Inventive Cosplay Fits At Dragon Con Atlanta 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/cosplay-gallery-dragon-con-atlanta-buc-ees-barbie-savage-rogue-2000737906" target="_blank">20 Brilliantly Inventive Cosplay Fits At Dragon Con Atlanta 2026</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-28 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/ChatPlayground-AI-1.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Stop juggling AI tabs: Put 20+ models in one place for $55" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/09/28/stop-juggling-ai-tabs-put-20-models-in-one-place-for-55.html" target="_blank">Stop juggling AI tabs: Put 20+ models in one place for $55</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-09-28 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/Boil-off-100-feet-and-we-get-Doggerland-back.jpg?fit=1080%2C686&amp;quality=60&amp;ssl=1" alt="Drain the oceans and flood the land with this sea level simulator" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,22 +309,13 @@
                 <span class="time">2026-09-28 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1790204486-20260927.png" alt="Saturday Morning Breakfast Cereal - Paradox" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/paradox-3" target="_blank">Saturday Morning Breakfast Cereal - Paradox</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-09-27 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 31 | 📡 Total Sources: 40 | 📸 With Images: 266 |
-        🔄 Last Updated: 07:52 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 31 | 📡 Total Sources: 40 | 📸 With Images: 263 |
+        🔄 Last Updated: 16:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
