@@ -1,41 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-09-27 22:38:38 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-28 01:15:57 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 32 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Sunday, September 27, 2026 - 22:38 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Monday, September 28, 2026 - 01:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/27/nx-s1-5982785/nantucket-shipwreck-uncovered-by-noreaster" target="_blank">Nantucket shipwreck uncovered by Nor&#x27;easter</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-28 00:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81eb/live/0d9d7aa0-bab4-11f1-bb00-3d60b0ebadb6.jpg" alt="Five arrested as counter-terror police investigate major incident near RAF Fairford" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,30 +83,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1790517348434_mtp_clip_araghchidoomsday_260927_S3_1920x1080-86m7ut.jpg" alt="Iran foreign minister says Iran prepared for war to resume, even if it becomes ‘doomsday’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/iran-foreign-minister-says-iran-prepared-for-war-to-resume-even-if-it-becomes-doomsday-270618693669" target="_blank">Iran foreign minister says Iran prepared for war to resume, even if it becomes ‘doomsday’</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-09-27 13:55</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-shield"></span>
                 <span class="title"><a href="https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town" target="_blank">At least 27 dead after two mass shootings in South Africa, police say</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2026-09-27 13:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/27/nx-s1-5982488/south-africa-mass-shootings-killed-38-week" target="_blank">South Africa reels from spate of mass shootings that killed 38 people in a week</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-27 13:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/27/nx-s1-5979946/these-democrats-are-running-for-congress-on-christian-faith-will-it-pay-off" target="_blank">These Democrats are running for Congress on Christian faith. Will it pay off?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-27 10:00</span>
             </div>
         </div>
 </div>
@@ -172,10 +167,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nathan_vassallo_635b903d2/every-line-of-my-recovery-code-was-correct-it-failed-every-single-time-published-false-3j72" target="_blank">Every line of my recovery code was correct. It failed every single time.&quot;</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-28 01:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/09/linux-mint-horizon-makeover-406x232.webp" alt="Give Linux Mint a makeover with Silent Horizon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/linux-mint-silent-horizon-design" target="_blank">Give Linux Mint a makeover with Silent Horizon</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-09-27 22:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-rc5-Released" target="_blank">Linux 7.3-rc5 Released: &quot;Another Week, Another Large RC&quot;</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-09-27 21:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://sancho.bearblog.dev/google-weird/" target="_blank">When did Google get so weird?</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-27 20:12</span>
             </div>
         </div>
 <div class="story">
@@ -196,38 +218,20 @@
                 <span class="time">2026-09-27 14:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-LZ4-Clean-Resync" target="_blank">Linux Kernel&#x27;s LZ4 Compression Code Being Resynced For Better Performance &amp; Cleanliness</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-27 13:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17474965/almalinux-software-certification-launched" target="_blank">AlmaLinux Puts Software Certification in the Hands of Users</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-09-27 05:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shaam_ai/agentic-ai-books-2026-gulli-vs-lanham-vs-huyen-2idj" target="_blank">Agentic AI Books 2026: Gulli vs Lanham vs Huyen</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-27 03:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/Boil-off-100-feet-and-we-get-Doggerland-back.jpg?fit=1080%2C686&amp;quality=60&amp;ssl=1" alt="Drain the oceans and flood the land with this sea level simulator" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/09/27/drain-the-oceans-and-flood-the-land-with-this-sea-level-simulator.html" target="_blank">Drain the oceans and flood the land with this sea level simulator</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-09-28 00:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/09/residenteviltumbleweed.jpg" alt="Choreographer Shows Acrobatics Behind Resident Evil Film’s Weirdest Monster" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,8 +278,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 26 | 📡 Total Sources: 40 | 📸 With Images: 264 |
-        🔄 Last Updated: 22:38 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 31 | 📡 Total Sources: 40 | 📸 With Images: 264 |
+        🔄 Last Updated: 01:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
