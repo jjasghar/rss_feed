@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-09-28 01:15:57 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-28 07:52:13 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, September 28, 2026 - 01:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, September 28, 2026 - 07:52 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,10 +51,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/28/rescuers-search-for-12-missing-after-nepal-avalanche-kills-two?traffic_source=rss" target="_blank">Rescuers search for 12 missing after Nepal avalanche kills two</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-28 07:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/09/27/nx-s1-5982785/nantucket-shipwreck-uncovered-by-noreaster" target="_blank">Nantucket shipwreck uncovered by Nor&#x27;easter</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-09-28 00:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/cornell_1790545812977_hpMain_4x3t_384.jpg" alt="District attorney reopens case of alleged Cornell University &#x27;gang rape&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/district-attorney-reopens-case-alleged-cornell-university-gang/story?id=136806149" target="_blank">District attorney reopens case of alleged Cornell University &#x27;gang rape&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-28 00:08</span>
             </div>
         </div>
 <div class="story">
@@ -82,29 +102,20 @@
                 <span class="time">2026-09-27 17:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1790517348434_mtp_clip_araghchidoomsday_260927_S3_1920x1080-86m7ut.jpg" alt="Iran foreign minister says Iran prepared for war to resume, even if it becomes ‘doomsday’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/iran-foreign-minister-says-iran-prepared-for-war-to-resume-even-if-it-becomes-doomsday-270618693669" target="_blank">Iran foreign minister says Iran prepared for war to resume, even if it becomes ‘doomsday’</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-09-27 13:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town" target="_blank">At least 27 dead after two mass shootings in South Africa, police say</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-09-27 13:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review" target="_blank">Out of the Park Baseball lets me enjoy baseball even when the Mets suck</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-09-27 21:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -133,12 +144,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Apple Faces $5.7 Billion Patent Infringement Verdict Over iPhone And Apple Watch Haptics" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/" target="_blank">PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-09-27 01:40</span>
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://apple.slashdot.org/story/26/09/27/0751219/apple-faces-57-billion-patent-infringement-verdict-over-iphone-and-apple-watch-haptics?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Apple Faces $5.7 Billion Patent Infringement Verdict Over iPhone And Apple Watch Haptics</a></span>
+                <span class="feed">Slashdot</span>
+                
             </div>
         </div>
 <div class="story">
@@ -150,20 +161,20 @@
                 
             </div>
         </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="New Tin-based Solar Cells Trap Heat 1,000 Times Longer, Could Beat 33% Limit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://hardware.slashdot.org/story/26/09/26/0716210/new-tin-based-solar-cells-trap-heat-1000-times-longer-could-beat-33-limit?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">New Tin-based Solar Cells Trap Heat 1,000 Times Longer, Could Beat 33% Limit</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/09/linear-stylex-meta/en/headerimage/generatedHeaderImage-1790325003090.jpg" alt="Linear Completes 1,000-PR Migration From styled-components to Meta&#x27;s StyleX" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/09/linear-stylex-meta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Linear Completes 1,000-PR Migration From styled-components to Meta&#x27;s StyleX</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-09-28 06:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -171,6 +182,15 @@
                 <span class="title"><a href="https://dev.to/nathan_vassallo_635b903d2/every-line-of-my-recovery-code-was-correct-it-failed-every-single-time-published-false-3j72" target="_blank">Every line of my recovery code was correct. It failed every single time.&quot;</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-09-28 01:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/09/linux-mint-silent-horizon-406x232.webp" alt="Give Linux Mint a dramatic makeover with this theme pack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/linux-mint-silent-horizon-design" target="_blank">Give Linux Mint a dramatic makeover with this theme pack</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-09-27 22:56</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +218,6 @@
                 <span class="title"><a href="https://sancho.bearblog.dev/google-weird/" target="_blank">When did Google get so weird?</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-09-27 20:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/debashish_ghosal/a-certification-that-changes-every-run-is-a-coin-flip-with-a-signature-bj9" target="_blank">A Certification That Changes Every Run Is a Coin Flip With a Signature</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-27 15:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/09/c-rust-rewrite/en/headerimage/generatedHeaderImage-1790493245314.jpg" alt="Google Rewrites Critical C Dependencies to Rust Using AI and Differential Fuzzing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/09/c-rust-rewrite/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Rewrites Critical C Dependencies to Rust Using AI and Differential Fuzzing</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-09-27 14:14</span>
             </div>
         </div>
 </div>
@@ -265,6 +267,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/09/28/numbers-game" target="_blank">Numbers Game</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-09-28 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1790204486-20260927.png" alt="Saturday Morning Breakfast Cereal - Paradox" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -278,8 +289,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 31 | 📡 Total Sources: 40 | 📸 With Images: 264 |
-        🔄 Last Updated: 01:16 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 31 | 📡 Total Sources: 40 | 📸 With Images: 266 |
+        🔄 Last Updated: 07:52 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
