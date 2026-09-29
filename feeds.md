@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-09-28 22:18:36 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-29 02:21:47 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 15 new posts out of 29 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, September 28, 2026 - 22:18 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, September 29, 2026 - 02:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/29/hungary-lifts-immunity-of-prime-minister-magyar-two-orban-era-ministers?traffic_source=rss" target="_blank">Hungary lifts immunity of Prime Minister Magyar, two Orban-era ministers</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-29 01:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/cornell-2-gty-er-221108_1667941205213_hpMain_3_4x3t_384.jpg" alt="DA defends decision not to prosecute alleged Cornell &#x27;gang rape&#x27; case in 2024" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/da-defends-decision-prosecute-alleged-cornell-gang-rape/story?id=136835936" target="_blank">DA defends decision not to prosecute alleged Cornell &#x27;gang rape&#x27; case in 2024</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-29 00:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,28 +94,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/9/28/at-least-33-killed-after-myanmar-military-air-strike-hits-market?traffic_source=rss" target="_blank">At least 33 killed after Myanmar military air strike hits market</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-28 15:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/28/nx-s1-5983418/spacex-starship-first-orbital-flight-14-nasa" target="_blank">SpaceX&#x27;s Starship launches on first orbital mission from Texas</a></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/28/nx-s1-5983480/cornell-fraternity-rape-chi-phi-case-updates" target="_blank">Prosecutors are reopening a Cornell fraternity rape case. Here&#x27;s what we know</a></span>
                 <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-28 13:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/28/rescuers-search-for-12-missing-after-nepal-avalanche-kills-two?traffic_source=rss" target="_blank">Rescuers search for 12 missing after Nepal avalanche kills two</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-28 07:10</span>
+                <span class="time">2026-09-28 17:14</span>
             </div>
         </div>
 </div>
@@ -106,6 +105,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6aba12206b20363d66df2428/master/pass/Headphone%201%20(Pro)_case.jpg" alt="Nothing’s New Headphone (1) Pro Are Made for the Studio" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/nothings-new-headphone-1-pro-are-made-for-the-studio/" target="_blank">Nothing’s New Headphone (1) Pro Are Made for the Studio</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-29 01:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/09/starliner_thrusters1-500x500.jpg" alt="Boeing &quot;incredibly excited&quot; to serve as nation&#x27;s only astronaut transportation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/09/boeing-incredibly-excited-to-serve-as-nations-only-astronaut-transportation/" target="_blank">Boeing &quot;incredibly excited&quot; to serve as nation&#x27;s only astronaut transportation</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-09-28 22:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,24 +159,6 @@
                 
             </div>
         </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Waymo Says Its Self-Driving Cars Reduced Injury-Causing Accidents by 82%" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://tech.slashdot.org/story/26/09/27/0134224/waymo-says-its-self-driving-cars-reduced-injury-causing-accidents-by-82?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Waymo Says Its Self-Driving Cars Reduced Injury-Causing Accidents by 82%</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="New Tin-based Solar Cells Trap Heat 1,000 Times Longer, Could Beat 33% Limit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://hardware.slashdot.org/story/26/09/26/0716210/new-tin-based-solar-cells-trap-heat-1000-times-longer-could-beat-33-limit?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">New Tin-based Solar Cells Trap Heat 1,000 Times Longer, Could Beat 33% Limit</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -181,6 +180,15 @@
                 <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-Display-Config-Server" target="_blank">NVIDIA Developing &quot;Display Config Server&quot; To Improve Linux/Wayland On Display Walls</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-09-28 19:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/09/artifactory-vulnerabilities/en/headerimage/secretflow-privacy-preserving-1790621168767.jpg" alt="Artifactory Vulnerabilities Under Active Exploitation Enable Authentication Bypass and Admin Access" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/09/artifactory-vulnerabilities/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Artifactory Vulnerabilities Under Active Exploitation Enable Authentication Bypass and Admin Access</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-09-28 19:00</span>
             </div>
         </div>
 <div class="story">
@@ -208,15 +216,6 @@
                 <span class="title"><a href="https://ubuntu.com//blog/creating-a-private-5g-network" target="_blank">Creating a private 5G network</a></span>
                 <span class="feed">Ubuntu blog</span>
                 <span class="time">2026-09-28 14:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/09/firefox-157-1-406x232.webp" alt="Firefox 157 released with ‘biggest visual refresh in years’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/firefox-157-released-nova-theme" target="_blank">Firefox 157 released with ‘biggest visual refresh in years’</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-09-28 11:03</span>
             </div>
         </div>
 </div>
@@ -248,6 +247,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/hegseth.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Everybody hates Pete Hegseth" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/09/28/everybody-hates-pete-hegseth.html" target="_blank">Everybody hates Pete Hegseth</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-09-28 22:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/09/avengers-1280x720.jpg" alt="Avengers: Endgame Encore Viewers Shocked To Find Out One Scene Teasing Doomsday Was Exclusive To IMAX" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -274,20 +282,20 @@
                 <span class="time">2026-09-28 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/Boil-off-100-feet-and-we-get-Doggerland-back.jpg?fit=1080%2C686&amp;quality=60&amp;ssl=1" alt="Drain the oceans and flood the land with this sea level simulator" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/09/27/drain-the-oceans-and-flood-the-land-with-this-sea-level-simulator.html" target="_blank">Drain the oceans and flood the land with this sea level simulator</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-09-28 00:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.questionablecontent.net/comics/5927.png" alt="Feeling Crabby" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5927" target="_blank">Feeling Crabby</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-09-29 01:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -315,22 +323,13 @@
                 <span class="time">2026-09-28 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5926.png" alt="Crisis Resolution" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5926" target="_blank">Crisis Resolution</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-09-28 01:23</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 34 | 📡 Total Sources: 40 | 📸 With Images: 261 |
-        🔄 Last Updated: 22:18 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 34 | 📡 Total Sources: 40 | 📸 With Images: 262 |
+        🔄 Last Updated: 02:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
