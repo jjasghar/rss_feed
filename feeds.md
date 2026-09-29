@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-09-29 02:21:47 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-29 09:12:01 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 28 feeds processed -->
+<!-- Generated 9 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, September 29, 2026 - 02:22 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Tuesday, September 29, 2026 - 09:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/29/nx-s1-5983457/4-ways-to-avoid-getting-ripped-off-according-to-a-pricing-expert" target="_blank">4 ways to avoid getting ripped off, according to a pricing expert</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-29 09:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35c0/live/f2b82180-bb4f-11f1-a071-65d2e11c8f4a.jpg" alt="Lives &#x27;will be lost&#x27; unless UK does more to combat wildfires, committee chairwoman says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6r7dyx2x7pdo?at_medium=RSS&at_campaign=rss" target="_blank">Lives &#x27;will be lost&#x27; unless UK does more to combat wildfires, committee chairwoman says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-29 06:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +97,20 @@
                 <span class="time">2026-09-28 19:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/Cornell-University-Cancels-Friday-Classes-After-St-1762566781-Getty-vsq2vb.jpg" alt="Cornell sexual assault case reopened by district attorney" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/cornell-sexual-assault-case-reopened-by-district-attorney-270659653797" target="_blank">Cornell sexual assault case reopened by district attorney</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-09-28 17:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/28/nx-s1-5983480/cornell-fraternity-rape-chi-phi-case-updates" target="_blank">Prosecutors are reopening a Cornell fraternity rape case. Here&#x27;s what we know</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-28 17:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/1001797/nothings-headphone-1-pro-review" target="_blank">Nothing’s new flagship Headphone 1 Pro put you in the studio</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-09-29 01:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6aba12206b20363d66df2428/master/pass/Headphone%201%20(Pro)_case.jpg" alt="Nothing’s New Headphone (1) Pro Are Made for the Studio" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,20 +156,20 @@
                 <span class="time">2026-09-28 14:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Apple Faces $5.7 Billion Patent Infringement Verdict Over iPhone And Apple Watch Haptics" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://apple.slashdot.org/story/26/09/27/0751219/apple-faces-57-billion-patent-infringement-verdict-over-iphone-and-apple-watch-haptics?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Apple Faces $5.7 Billion Patent Infringement Verdict Over iPhone And Apple Watch Haptics</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Mesa-Shiva-For-Vulkan" target="_blank">&quot;Shiva&quot; Being Developed For Mesa Vulkan Drivers, Akin To Gallium3D</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-29 00:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,19 +209,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Firefox-157-Released" target="_blank">Firefox 157 Now Available With Visual Refresh, WebRTC Hardware AV1 Decode</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-28 14:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/creating-a-private-5g-network" target="_blank">Creating a private 5G network</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-09-28 14:13</span>
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://github.com/frazerpearce/TimeLord" target="_blank">Output-to-seed mappings for CPython&#x27;s PRNG</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-09-28 15:23</span>
             </div>
         </div>
 </div>
@@ -246,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/09/hHZxLduv5ffkEomQFaj2Qd-1280x761.jpg" alt="Control Resonant Director Explains The Game’s Lack Of Yellow Paint: ‘It Was A Conscious Decision, Obviously’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/control-resonant-director-explains-the-games-lack-of-yellow-paint-it-was-a-conscious-decision-obviously-2000738062" target="_blank">Control Resonant Director Explains The Game’s Lack Of Yellow Paint: ‘It Was A Conscious Decision, Obviously’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-28 23:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/hegseth.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Everybody hates Pete Hegseth" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -314,22 +320,13 @@
                 <span class="time">2026-09-28 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/09/28/numbers-game" target="_blank">Numbers Game</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-09-28 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 34 | 📡 Total Sources: 40 | 📸 With Images: 262 |
-        🔄 Last Updated: 02:22 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 38 | 📡 Total Sources: 40 | 📸 With Images: 260 |
+        🔄 Last Updated: 09:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
