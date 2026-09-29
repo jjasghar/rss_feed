@@ -1,46 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-09-29 16:11:20 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-29 21:07:16 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 18 new posts out of 37 feeds processed -->
+<!-- Generated 16 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, September 29, 2026 - 16:11 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, September 29, 2026 - 21:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -59,6 +54,42 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/9/29/what-we-know-about-raf-fairford-bomb?traffic_source=rss" target="_blank">What we know about RAF Fairford ‘bomb plot’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-29 20:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/29/g-s1-145266/supreme-court-trump-third-country-deportations" target="_blank">U.S. Supreme Court sides with Trump administration in third-country deportations</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-29 19:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cae0/live/374a62f0-bc30-11f1-bc1f-3f186ca4140c.jpg" alt="Burnham vows to end existing pension triple lock in 2030 to help fund care" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cve8x724e9ezo?at_medium=RSS&at_campaign=rss" target="_blank">Burnham vows to end existing pension triple lock in 2030 to help fund care</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-29 17:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cc7/live/fb735b70-bbfc-11f1-90b9-913e4354ed35.jpg" alt="Spain announces ban on evictions after protests over 87-year-old woman&#x27;s removal from flat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss" target="_blank">Spain announces ban on evictions after protests over 87-year-old woman&#x27;s removal from flat</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-29 16:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/09/29/nx-s1-5983444/this-years-macarthur-fellows-include-researchers-who-fuse-science-and-justice" target="_blank">This year&#x27;s MacArthur Fellows include researchers who fuse science and justice</a></span>
                 <span class="feed">NPR Topics: News</span>
@@ -74,47 +105,38 @@
                 <span class="time">2026-09-29 15:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/smith_sen_test-b5vl93.jpg" alt="Jack Smith testifies at Senate hearing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/watch-live-jack-smith-testifies-at-senate-hearing-270667333671" target="_blank">Jack Smith testifies at Senate hearing</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-09-29 12:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/29/nx-s1-5983457/4-ways-to-avoid-getting-ripped-off-according-to-a-pricing-expert" target="_blank">4 ways to avoid getting ripped off, according to a pricing expert</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-29 09:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35c0/live/f2b82180-bb4f-11f1-a071-65d2e11c8f4a.jpg" alt="Lives &#x27;will be lost&#x27; unless UK does more to combat wildfires, committee chairwoman says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6r7dyx2x7pdo?at_medium=RSS&at_campaign=rss" target="_blank">Lives &#x27;will be lost&#x27; unless UK does more to combat wildfires, committee chairwoman says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-29 06:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/29/hungary-lifts-immunity-of-prime-minister-magyar-two-orban-era-ministers?traffic_source=rss" target="_blank">Hungary lifts immunity of Prime Minister Magyar, two Orban-era ministers</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-29 01:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/trump-final-battle-ad-500x500-1790710277.jpg" alt="Trump ads paid for by US government allegedly violate anti-propaganda laws" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/09/trump-ads-paid-for-by-us-government-allegedly-violate-anti-propaganda-laws/" target="_blank">Trump ads paid for by US government allegedly violate anti-propaganda laws</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-09-29 20:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/" target="_blank">OpenAI’s latest features take direct aim at the app store model</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-09-29 20:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6abbb935c1a080d8e4e23844/master/pass/GettyImages-2265991617.jpg" alt="OpenAI Gets Sued Over the Hugging Face Hack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/" target="_blank">OpenAI Gets Sued Over the Hugging Face Hack</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-29 19:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,38 +164,29 @@
                 <span class="time">2026-09-29 11:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/1001797/nothings-headphone-1-pro-review" target="_blank">Nothing’s new flagship Headphone 1 Pro put you in the studio</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-09-29 01:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6aba12206b20363d66df2428/master/pass/Headphone%201%20(Pro)_case.jpg" alt="Nothing’s New Headphone (1) Pro Are Made for the Studio" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/nothings-new-headphone-1-pro-are-made-for-the-studio/" target="_blank">Nothing’s New Headphone (1) Pro Are Made for the Studio</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-09-29 01:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/09/starliner_thrusters1-500x500.jpg" alt="Boeing &quot;incredibly excited&quot; to serve as nation&#x27;s only astronaut transportation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/09/boeing-incredibly-excited-to-serve-as-nations-only-astronaut-transportation/" target="_blank">Boeing &quot;incredibly excited&quot; to serve as nation&#x27;s only astronaut transportation</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-09-28 22:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/09/aws-cloudwatchomni-observability/en/headerimage/aws-reliability-dns-1790708319178.jpg" alt="Amazon CloudWatch Omni Extends CloudWatch into the Agent Era" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/09/aws-cloudwatchomni-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Amazon CloudWatch Omni Extends CloudWatch into the Agent Era</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-09-29 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/amd-perfopt" target="_blank">AMD Boosting AI/LLM Performance For Radeon iGPUs As Much As 18~23% With Linux 7.4</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-29 18:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/09/destroy-website-406x232.webp" alt="Destroy any website (browser game, but cathartic)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -181,6 +194,15 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/destroy-any-website-browser-game" target="_blank">Destroy any website (browser game, but cathartic)</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-09-29 16:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!panJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0e81fa2d-ad02-4b51-aca4-62b9a99fcd8b_1394x1284.png" alt="Why has Shopify dropped React Native?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/shopify-native-mobile" target="_blank">Why has Shopify dropped React Native?</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-09-29 15:53</span>
             </div>
         </div>
 <div class="story">
@@ -199,33 +221,6 @@
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17477496/firefox-nova-redesign" target="_blank">Firefox in a New Skin! Nova Redesign Has Become The Default</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2026-09-29 13:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://spectrum.ieee.org/delhi-electricity-loss" target="_blank">How Delhi cut electricity loss from 50 to 5 percent</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-29 12:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/upgrade-your-desktop-ubuntu-26-04-lts" target="_blank">Upgrade your desktop: Ubuntu 26.04.1 LTS is now available</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-09-29 11:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/09/29/your-phone-is-ai-s-newest-hardware/" target="_blank">Your phone is AI’s newest hardware</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-09-29 07:40</span>
             </div>
         </div>
 </div>
@@ -247,6 +242,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/09/witcher-3-blurr.jpg" alt="The Witcher 3 Remastered Players Are Turning Bloom Off To Make It Look Better On PC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-witcher-3-remastered-players-are-turning-bloom-off-to-make-it-look-better-on-pc-2000738434" target="_blank">The Witcher 3 Remastered Players Are Turning Bloom Off To Make It Look Better On PC</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-29 20:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M3Q7XEY097D2TRQDA9MKZDJ5/hero-image.jpg" alt="The Best Deals on FItness Equipment From the October Prime Day Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/best-fitness-equipment-deals-early-october-prime-day-2026?utm_medium=RSS" target="_blank">The Best Deals on FItness Equipment From the October Prime Day Sale</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-09-29 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/fountain-pen-kims-game.jpg?fit=560%2C574&amp;quality=60&amp;ssl=1" alt="A memory game from a Rudyard Kipling novel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/09/29/fountain-pen-kims-game.html" target="_blank">A memory game from a Rudyard Kipling novel</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-09-29 19:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/09/04-dungeons-1280x720.jpg" alt="Minecraft Dungeons II Is A Splendid Step Forward For The Family-Friendly Action-RPG" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,24 +296,6 @@
                 <span class="time">2026-09-28 23:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/hegseth.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Everybody hates Pete Hegseth" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/09/28/everybody-hates-pete-hegseth.html" target="_blank">Everybody hates Pete Hegseth</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-09-28 22:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/09/avengers-1280x720.jpg" alt="Avengers: Endgame Encore Viewers Shocked To Find Out One Scene Teasing Doomsday Was Exclusive To IMAX" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/avengers-endgame-encore-viewers-shocked-to-find-out-one-scene-teasing-doomsday-was-exclusive-to-imax-2000738063" target="_blank">Avengers: Endgame Encore Viewers Shocked To Find Out One Scene Teasing Doomsday Was Exclusive To IMAX</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-09-28 22:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,22 +319,13 @@
                 <span class="time">2026-09-29 01:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/09/28/numbers-game" target="_blank">Numbers Game</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-09-28 18:37</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 38 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 16:11 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 46 | 📡 Total Sources: 40 | 📸 With Images: 261 |
+        🔄 Last Updated: 21:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
