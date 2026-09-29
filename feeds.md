@@ -1,33 +1,46 @@
-<!-- Processing 54 RSS feeds at 2026-09-29 09:12:01 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-29 16:11:20 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 18 new posts out of 37 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Tuesday, September 29, 2026 - 09:12 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, September 29, 2026 - 16:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +56,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/29/nx-s1-5983444/this-years-macarthur-fellows-include-researchers-who-fuse-science-and-justice" target="_blank">This year&#x27;s MacArthur Fellows include researchers who fuse science and justice</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-29 16:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/9/29/the-emperor-is-naked-uefas-ceferin-takes-aim-at-fifa-boss-infantino?traffic_source=rss" target="_blank">‘The emperor is naked’: UEFA’s Ceferin takes aim at FIFA boss Infantino</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-29 15:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/smith_sen_test-b5vl93.jpg" alt="Jack Smith testifies at Senate hearing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/watch-live-jack-smith-testifies-at-senate-hearing-270667333671" target="_blank">Jack Smith testifies at Senate hearing</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-09-29 12:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -70,38 +110,38 @@
                 <span class="time">2026-09-29 01:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/cornell-2-gty-er-221108_1667941205213_hpMain_3_4x3t_384.jpg" alt="DA defends decision not to prosecute alleged Cornell &#x27;gang rape&#x27; case in 2024" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/da-defends-decision-prosecute-alleged-cornell-gang-rape/story?id=136835936" target="_blank">DA defends decision not to prosecute alleged Cornell &#x27;gang rape&#x27; case in 2024</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-09-29 00:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/9/28/gold-falls-amid-rising-oil-prices-and-higher-us-dollar?traffic_source=rss" target="_blank">Gold falls amid rising oil prices and higher US dollar</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-28 21:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b523/live/4b9ddb40-bb6a-11f1-9ecf-8dd029790cef.jpg" alt="Five men arrested in RAF Fairford incident released on police bail" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6e9elmpvglno?at_medium=RSS&at_campaign=rss" target="_blank">Five men arrested in RAF Fairford incident released on police bail</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-28 19:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/" target="_blank">Instinct founder said more than 50% of transactions on the platform are travel-related</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-09-29 15:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2212041468-1-500x500.jpg" alt="This study looks at how and with whom connected cars share your data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/09/connected-car-data-privacy-is-still-abysmal-study-finds/" target="_blank">This study looks at how and with whom connected cars share your data</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-09-29 14:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6abadf00e349019c1a3a4730/master/pass/The-Best-National-Coffee-Day-Deals-to-Grab-Today.jpg" alt="I Found National Coffee Day Deals Worth Making Coffee at Home For (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/national-coffee-day-deals-2026/" target="_blank">I Found National Coffee Day Deals Worth Making Coffee at Home For (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-29 11:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -129,90 +169,63 @@
                 <span class="time">2026-09-28 22:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal" target="_blank">AMD is acquiring AI company World Labs in a deal worth more than $8 billion</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-09-28 21:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/1001418/volkswagen-replaces-id4-id-tiguan-ev" target="_blank">Volkswagen replaces ID.4 with all-electric Tiguan</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-09-28 15:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6ab5b6b48aaba31111432c65/master/pass/GOP-Extremists-Politics.jpg" alt="These Extremists Are Running for Election in November" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/these-extremists-are-running-for-election-in-november/" target="_blank">These Extremists Are Running for Election in November</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-09-28 14:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
-            
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/09/destroy-website-406x232.webp" alt="Destroy any website (browser game, but cathartic)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mesa-Shiva-For-Vulkan" target="_blank">&quot;Shiva&quot; Being Developed For Mesa Vulkan Drivers, Akin To Gallium3D</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-29 00:32</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/destroy-any-website-browser-game" target="_blank">Destroy any website (browser game, but cathartic)</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-09-29 16:03</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alexandrebrt14sys/como-medir-geo-de-forma-reproduzivel-banco-fixo-n-por-pergunta-e-denominador-explicito-l92" target="_blank">Como medir GEO de forma reproduzível: banco fixo, N por pergunta e denominador explícito</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-09-28 22:16</span>
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/" target="_blank">Developer policy update: Transparency, state policy, and what’s ahead</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-09-29 15:00</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-Display-Config-Server" target="_blank">NVIDIA Developing &quot;Display Config Server&quot; To Improve Linux/Wayland On Display Walls</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-28 19:22</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17477496/firefox-nova-redesign" target="_blank">Firefox in a New Skin! Nova Redesign Has Become The Default</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-09-29 13:54</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://res.infoq.com/news/2026/09/artifactory-vulnerabilities/en/headerimage/secretflow-privacy-preserving-1790621168767.jpg" alt="Artifactory Vulnerabilities Under Active Exploitation Enable Authentication Bypass and Admin Access" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/09/artifactory-vulnerabilities/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Artifactory Vulnerabilities Under Active Exploitation Enable Authentication Bypass and Admin Access</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-09-28 19:00</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://spectrum.ieee.org/delhi-electricity-loss" target="_blank">How Delhi cut electricity loss from 50 to 5 percent</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-29 12:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/upgrade-your-desktop-ubuntu-26-04-lts" target="_blank">Upgrade your desktop: Ubuntu 26.04.1 LTS is now available</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-09-29 11:16</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/09/28/is-your-human-in-the-loop-actually-slowing-you-down-here-s-what-we-learned/" target="_blank">Is Your “Human-in-the-Loop” Actually Slowing You Down? Here’s What We Learned</a></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/09/29/your-phone-is-ai-s-newest-hardware/" target="_blank">Your phone is AI’s newest hardware</a></span>
                 <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-09-28 16:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://github.com/frazerpearce/TimeLord" target="_blank">Output-to-seed mappings for CPython&#x27;s PRNG</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-09-28 15:23</span>
+                <span class="time">2026-09-29 07:40</span>
             </div>
         </div>
 </div>
@@ -223,19 +236,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/" target="_blank">Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2026-09-28 15:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/09/new-attack-against-rsa.html" target="_blank">New Attack Against RSA</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/09/using-device-linking-to-eavesdrop-on-whatsapp-and-signal.html" target="_blank">Using Device Linking to Eavesdrop on WhatsApp and Signal</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2026-09-28 11:02</span>
+                <span class="time">2026-09-29 11:02</span>
             </div>
         </div>
 </div>
@@ -243,6 +247,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/09/04-dungeons-1280x720.jpg" alt="Minecraft Dungeons II Is A Splendid Step Forward For The Family-Friendly Action-RPG" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/minecraft-dungeons-2-impressions-review-microsoft-mojang-the-sift-2000738263" target="_blank">Minecraft Dungeons II Is A Splendid Step Forward For The Family-Friendly Action-RPG</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-29 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M32EHJWX5YBV8XAAHT4ZWHQ9/hero-image.jpg" alt="10 Hacks Every Canva User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-canva-hacks?utm_medium=RSS" target="_blank">10 Hacks Every Canva User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-09-29 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/09/hHZxLduv5ffkEomQFaj2Qd-1280x761.jpg" alt="Control Resonant Director Explains The Game’s Lack Of Yellow Paint: ‘It Was A Conscious Decision, Obviously’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,29 +292,20 @@
                 <span class="time">2026-09-28 22:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/09/main-image-1280x720.jpeg" alt="20 Brilliantly Inventive Cosplay Fits At Dragon Con Atlanta 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/cosplay-gallery-dragon-con-atlanta-buc-ees-barbie-savage-rogue-2000737906" target="_blank">20 Brilliantly Inventive Cosplay Fits At Dragon Con Atlanta 2026</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-09-28 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/ChatPlayground-AI-1.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Stop juggling AI tabs: Put 20+ models in one place for $55" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/09/28/stop-juggling-ai-tabs-put-20-models-in-one-place-for-55.html" target="_blank">Stop juggling AI tabs: Put 20+ models in one place for $55</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-09-28 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1790357439-20260929.png" alt="Saturday Morning Breakfast Cereal - Free" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/free-5" target="_blank">Saturday Morning Breakfast Cereal - Free</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-09-29 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.questionablecontent.net/comics/5927.png" alt="Feeling Crabby" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -311,22 +324,13 @@
                 <span class="time">2026-09-28 18:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1790204549-20260928.png" alt="Saturday Morning Breakfast Cereal - Gift" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/gift" target="_blank">Saturday Morning Breakfast Cereal - Gift</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-09-28 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 38 | 📡 Total Sources: 40 | 📸 With Images: 260 |
-        🔄 Last Updated: 09:12 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 38 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 16:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
