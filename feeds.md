@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-09-30 00:49:52 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-30 06:06:12 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 12 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, September 30, 2026 - 00:49 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, September 30, 2026 - 06:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,9 +53,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/30/hegseth-to-cut-number-of-us-general-and-admiral-positions-by-20?traffic_source=rss" target="_blank">Hegseth to cut number of US general and admiral positions by 20%</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-30 05:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/9/30/iran-war-live-trump-claims-war-will-end-very-soon-provides-no-details?traffic_source=rss" target="_blank">Iran war live: Trump claims war will end ‘very soon’, gives no details</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-09-30 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1790723954703_nn_mbr_west_bank_settler_violence_260929_S3_1920x1080-kg7t1b.jpg" alt="Settler violence blocks West Bank homecoming" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/settler-violence-blocks-west-bank-homecoming-270752325835" target="_blank">Settler violence blocks West Bank homecoming</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-09-29 23:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/09/29/nx-s1-5983779/investigating-sexual-abuse-on-campus" target="_blank">The federal law aimed at protecting college students from sexual abuse</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-09-29 21:29</span>
             </div>
         </div>
 <div class="story">
@@ -71,38 +103,29 @@
                 <span class="time">2026-09-29 19:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cae0/live/374a62f0-bc30-11f1-bc1f-3f186ca4140c.jpg" alt="Burnham vows to end existing pension triple lock in 2030 to help fund care" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cve8x724e9ezo?at_medium=RSS&at_campaign=rss" target="_blank">Burnham vows to end existing pension triple lock in 2030 to help fund care</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-29 17:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cc7/live/fb735b70-bbfc-11f1-90b9-913e4354ed35.jpg" alt="Spain announces ban on evictions after protests over 87-year-old woman&#x27;s removal from flat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss" target="_blank">Spain announces ban on evictions after protests over 87-year-old woman&#x27;s removal from flat</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-09-29 16:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/29/nx-s1-5983444/this-years-macarthur-fellows-include-researchers-who-fuse-science-and-justice" target="_blank">This year&#x27;s MacArthur Fellows include researchers who fuse science and justice</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-29 16:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6870914c7df7ab0fb03f65d5/master/pass/The%20Best%20Laptop%20Docking%20Stations%20to%20Supercharge%20Your%20Workstation.png" alt="The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-laptop-docking-stations/" target="_blank">The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-30 05:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety" target="_blank">Sam Altman says OpenAI won’t go public until its models are safe</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-09-30 00:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6aba6196add005d32caeaf5b/master/pass/Range%20Rover%20Sport%20Electric%2027MY%20Front%20300927.jpg" alt="Range Rover Sport Electric: Price, Specs, Availability" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,29 +162,20 @@
                 <span class="time">2026-09-29 19:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/" target="_blank">Instinct founder said more than 50% of transactions on the platform are travel-related</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-09-29 15:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2212041468-1-500x500.jpg" alt="This study looks at how and with whom connected cars share your data" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/09/connected-car-data-privacy-is-still-abysmal-study-finds/" target="_blank">This study looks at how and with whom connected cars share your data</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-09-29 14:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/09/sveltekit-3-vite/en/headerimage/generatedHeaderImage-1790668846660.jpg" alt="SvelteKit 3 Reaches Release Candidate, Moving Config to Vite and Retiring the $lib Alias" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/09/sveltekit-3-vite/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">SvelteKit 3 Reaches Release Candidate, Moving Config to Vite and Retiring the $lib Alias</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-09-30 05:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -169,6 +183,24 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Arch-Linux-Archinstall-4.5" target="_blank">Archinstall 4.5 For Arch Linux Brings AArch64 Improvements, RT Kernel Options</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-09-30 00:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2024/03/vlc-406x232.jpg" alt="VLC makes its ‘biggest security release ever’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/vlc-major-security-update" target="_blank">VLC makes its ‘biggest security release ever’</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-09-29 23:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/ninjahawk/livenerf" target="_blank">Livenerf: Has Opus 5.5 been nerfed yet?</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-29 22:36</span>
             </div>
         </div>
 <div class="story">
@@ -187,33 +219,6 @@
                 <span class="title"><a href="https://www.phoronix.com/review/amd-perfopt" target="_blank">AMD Boosting AI/LLM Performance For Radeon iGPUs As Much As 18~23% With Linux 7.4</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-09-29 18:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/09/destroy-website-406x232.webp" alt="Destroy any website (browser game, but cathartic)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/destroy-any-website-browser-game" target="_blank">Destroy any website (browser game, but cathartic)</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-09-29 16:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!panJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0e81fa2d-ad02-4b51-aca4-62b9a99fcd8b_1394x1284.png" alt="Why has Shopify dropped React Native?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/shopify-native-mobile" target="_blank">Why has Shopify dropped React Native?</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-09-29 15:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/" target="_blank">Developer policy update: Transparency, state policy, and what’s ahead</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-09-29 15:00</span>
             </div>
         </div>
 </div>
@@ -236,12 +241,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2024/11/118b4825e679e993bfabee1b560ccd65.jpg" alt="PS5 Pro Shortage Hits Japan As Sony Limits Console Purchases To Active Playstation Users Ahead Of GTA 6" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ps5-pro-shortage-hits-japan-as-sony-limits-console-purchases-to-active-playstation-users-ahead-of-gta-6-2000737444" target="_blank">PS5 Pro Shortage Hits Japan As Sony Limits Console Purchases To Active Playstation Users Ahead Of GTA 6</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-30 02:32</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/09/witchers-song-past-3-1280x720.jpg" alt="You Can Get A Free Digital Copy Of The Witcher 3 Remastered  On Switch 2 If You Just Borrow An Old Physical Switch Copy Of The RPG" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/you-can-get-a-free-digital-copy-of-the-witcher-3-remastered-on-switch-2-if-you-just-borrow-an-old-physical-switch-copy-of-the-rpg-2000738492" target="_blank">You Can Get A Free Digital Copy Of The Witcher 3 Remastered  On Switch 2 If You Just Borrow An Old Physical Switch Copy Of The RPG</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-09-30 00:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/shutterstock_2315198139-scaled.jpg?fit=2560%2C1625&amp;quality=60&amp;ssl=1" alt="$10m worth of cocaine in evidence turns out to be flour" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/09/29/10m-worth-of-cocaine-in-evidence-turns-out-to-be-flour.html" target="_blank">$10m worth of cocaine in evidence turns out to be flour</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-09-29 22:03</span>
             </div>
         </div>
 <div class="story">
@@ -271,24 +294,6 @@
                 <span class="time">2026-09-29 19:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/09/04-dungeons-1280x720.jpg" alt="Minecraft Dungeons II Is A Splendid Step Forward For The Family-Friendly Action-RPG" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/minecraft-dungeons-2-impressions-review-microsoft-mojang-the-sift-2000738263" target="_blank">Minecraft Dungeons II Is A Splendid Step Forward For The Family-Friendly Action-RPG</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-09-29 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M32EHJWX5YBV8XAAHT4ZWHQ9/hero-image.jpg" alt="10 Hacks Every Canva User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-canva-hacks?utm_medium=RSS" target="_blank">10 Hacks Every Canva User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-09-29 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -303,22 +308,13 @@
                 <span class="time">2026-09-29 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5927.png" alt="Feeling Crabby" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5927" target="_blank">Feeling Crabby</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-09-29 01:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 40 | 📡 Total Sources: 40 | 📸 With Images: 262 |
-        🔄 Last Updated: 00:49 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 47 | 📡 Total Sources: 39 | 📸 With Images: 263 |
+        🔄 Last Updated: 06:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
