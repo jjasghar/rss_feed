@@ -1,41 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-09-29 21:07:16 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-30 00:49:52 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 16 new posts out of 32 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, September 29, 2026 - 21:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, September 30, 2026 - 00:49 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/9/30/iran-war-live-trump-claims-war-will-end-very-soon-provides-no-details?traffic_source=rss" target="_blank">Iran war live: Trump claims war will end ‘very soon’, gives no details</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-30 00:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -96,20 +98,20 @@
                 <span class="time">2026-09-29 16:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/9/29/the-emperor-is-naked-uefas-ceferin-takes-aim-at-fifa-boss-infantino?traffic_source=rss" target="_blank">‘The emperor is naked’: UEFA’s Ceferin takes aim at FIFA boss Infantino</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-29 15:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6aba6196add005d32caeaf5b/master/pass/Range%20Rover%20Sport%20Electric%2027MY%20Front%20300927.jpg" alt="Range Rover Sport Electric: Price, Specs, Availability" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/range-rover-sport-electric-arrives-with-more-for-less/" target="_blank">Range Rover Sport Electric: Price, Specs, Availability</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-29 23:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/trump-final-battle-ad-500x500-1790710277.jpg" alt="Trump ads paid for by US government allegedly violate anti-propaganda laws" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -155,20 +157,20 @@
                 <span class="time">2026-09-29 14:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6abadf00e349019c1a3a4730/master/pass/The-Best-National-Coffee-Day-Deals-to-Grab-Today.jpg" alt="I Found National Coffee Day Deals Worth Making Coffee at Home For (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/national-coffee-day-deals-2026/" target="_blank">I Found National Coffee Day Deals Worth Making Coffee at Home For (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-09-29 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Arch-Linux-Archinstall-4.5" target="_blank">Archinstall 4.5 For Arch Linux Brings AArch64 Improvements, RT Kernel Options</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-30 00:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/09/aws-cloudwatchomni-observability/en/headerimage/aws-reliability-dns-1790708319178.jpg" alt="Amazon CloudWatch Omni Extends CloudWatch into the Agent Era" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -214,15 +216,6 @@
                 <span class="time">2026-09-29 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17477496/firefox-nova-redesign" target="_blank">Firefox in a New Skin! Nova Redesign Has Become The Default</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-09-29 13:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/09/witchers-song-past-3-1280x720.jpg" alt="You Can Get A Free Digital Copy Of The Witcher 3 Remastered  On Switch 2 If You Just Borrow An Old Physical Switch Copy Of The RPG" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/you-can-get-a-free-digital-copy-of-the-witcher-3-remastered-on-switch-2-if-you-just-borrow-an-old-physical-switch-copy-of-the-rpg-2000738492" target="_blank">You Can Get A Free Digital Copy Of The Witcher 3 Remastered  On Switch 2 If You Just Borrow An Old Physical Switch Copy Of The RPG</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-30 00:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/09/witcher-3-blurr.jpg" alt="The Witcher 3 Remastered Players Are Turning Bloom Off To Make It Look Better On PC" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +289,6 @@
                 <span class="time">2026-09-29 15:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/09/hHZxLduv5ffkEomQFaj2Qd-1280x761.jpg" alt="Control Resonant Director Explains The Game’s Lack Of Yellow Paint: ‘It Was A Conscious Decision, Obviously’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/control-resonant-director-explains-the-games-lack-of-yellow-paint-it-was-a-conscious-decision-obviously-2000738062" target="_blank">Control Resonant Director Explains The Game’s Lack Of Yellow Paint: ‘It Was A Conscious Decision, Obviously’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-09-28 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 46 | 📡 Total Sources: 40 | 📸 With Images: 261 |
-        🔄 Last Updated: 21:07 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 40 | 📡 Total Sources: 40 | 📸 With Images: 262 |
+        🔄 Last Updated: 00:49 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
