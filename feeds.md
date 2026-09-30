@@ -1,38 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-09-30 18:39:35 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-09-30 22:41:13 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 19 new posts out of 30 feeds processed -->
+<!-- Generated 11 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, September 30, 2026 - 18:39 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Wednesday, September 30, 2026 - 22:41 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/cornell-frat-abc-bh-280926_1790619105024_hpMain_4x3t_384.jpg" alt="Cornell agrees to outside review of how it handled alleged sexual assault: Governor" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/cornell-agrees-independent-review-handled-fraternity-sexual-assault/story?id=136901598" target="_blank">Cornell agrees to outside review of how it handled alleged sexual assault: Governor</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-30 21:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +94,20 @@
                 <span class="time">2026-09-30 12:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1790767876560_tdy_news_7a_bradley_fly_dubai_plane_260930_S3_1920x1080-nkd3ah.jpg" alt="Violent Incident Between Pilots Forces Israel Flight Diversion" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/israel-bound-flight-diverted-amid-reports-pilot-was-stabbed-270775877830" target="_blank">Violent Incident Between Pilots Forces Israel Flight Diversion</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-09-30 11:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6abbfbe5422fade848ea97c7/master/pass/politics_republicans_midterms_panic.jpg" alt="The White House Is Starting to Panic Over the Midterms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-white-house-is-starting-to-panic-over-the-midterms/" target="_blank">The White House Is Starting to Panic Over the Midterms</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-09-30 21:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +153,29 @@
                 <span class="time">2026-09-30 11:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6870914c7df7ab0fb03f65d5/master/pass/The%20Best%20Laptop%20Docking%20Stations%20to%20Supercharge%20Your%20Workstation.png" alt="The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-laptop-docking-stations/" target="_blank">The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-09-30 05:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alifar/google-releases-gemma-4-while-gemini-4-argon-signals-build-1dd8" target="_blank">Google Releases Gemma 4 While Gemini 4 Argon Signals Build</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-30 22:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Q3-2026-Highlights" target="_blank">More AI In Open-Source, CachyOS, Ryzen AI Halo, Framework Laptop 13 Pro &amp; Other Q3 Hits</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-09-30 18:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,28 +206,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17481812/local-ai-weekly-4" target="_blank">Local AI Weekly #4: The Fine Print of Running AI Locally</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-09-30 15:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17480952/wslc-general-availability" target="_blank">Microsoft Has Made WSL Containers Available to Everyone</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-09-30 12:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/context-as-code-devops-agents/en/mediumimage/patrick-medium-1789632704652.jpeg" alt="Presentation: Context Is the New Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/context-as-code-devops-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Context Is the New Code</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-09-30 11:00</span>
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/distributed-databases-with-peter" target="_blank">Distributed databases with Peter Mattis</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-09-30 16:30</span>
             </div>
         </div>
 </div>
@@ -239,6 +231,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2019/06/py2bydiuzhncpezkr2bz.jpg" alt="Naughty Dog Reportedly Working On A New Uncharted Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/naughty-dog-reportedly-working-on-a-new-uncharted-game-2000738755" target="_blank">Naughty Dog Reportedly Working On A New Uncharted Game</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-30 21:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/scp.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="Rival SCP Foundation movie will have Creative Commons license" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/09/30/rival-scp-foundation-movie-will-have-creative-commons-license.html" target="_blank">Rival SCP Foundation movie will have Creative Commons license</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-09-30 21:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JFDBEY6KYAR6225Q0XFHY06A/hero-image.jpg" alt="Is the Treadmill or Your Watch More Accurate on How Far You&#x27;ve Run?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,29 +285,20 @@
                 <span class="time">2026-09-30 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2024/11/118b4825e679e993bfabee1b560ccd65.jpg" alt="PS5 Pro Shortage Hits Japan As Sony Limits Console Purchases To Active Playstation Users Ahead Of GTA 6" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ps5-pro-shortage-hits-japan-as-sony-limits-console-purchases-to-active-playstation-users-ahead-of-gta-6-2000737444" target="_blank">PS5 Pro Shortage Hits Japan As Sony Limits Console Purchases To Active Playstation Users Ahead Of GTA 6</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-09-30 02:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/09/witchers-song-past-3-1280x720.jpg" alt="You Can Get A Free Digital Copy Of The Witcher 3 Remastered  On Switch 2 If You Just Borrow An Old Physical Switch Copy Of The RPG" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/you-can-get-a-free-digital-copy-of-the-witcher-3-remastered-on-switch-2-if-you-just-borrow-an-old-physical-switch-copy-of-the-rpg-2000738492" target="_blank">You Can Get A Free Digital Copy Of The Witcher 3 Remastered  On Switch 2 If You Just Borrow An Old Physical Switch Copy Of The RPG</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-09-30 00:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/09/30/the-race-galactic" target="_blank">The Race Galactic</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-09-30 18:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -339,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 55 | 📡 Total Sources: 40 | 📸 With Images: 265 |
-        🔄 Last Updated: 18:39 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 50 | 📡 Total Sources: 40 | 📸 With Images: 264 |
+        🔄 Last Updated: 22:41 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
