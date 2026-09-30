@@ -1,41 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-09-30 13:06:57 UTC -->
+<!-- Processing 54 RSS feeds at 2026-09-30 18:39:35 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 15 new posts out of 33 feeds processed -->
+<!-- Generated 19 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, September 30, 2026 - 13:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, September 30, 2026 - 18:39 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/9/30/video-bangladesh-dengue-deaths-surpass-233-in-deadly-outbreak?traffic_source=rss" target="_blank">Video: Bangladesh Dengue deaths surpass 233 in deadly outbreak</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-09-30 18:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/FlyDubai-1-ht-gmh-260930_1790774565565_hpMain_4x3t_384.jpg" alt="Tel Aviv flight passengers sprang into action after pilot stabbed copilot: Officials" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/flight-tel-aviv-diverted-saudi-arabia-after-incident/story?id=136880832" target="_blank">Tel Aviv flight passengers sprang into action after pilot stabbed copilot: Officials</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-09-30 17:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund" target="_blank">Trump administration diverts human rights funds to push far-right agenda abroad</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-09-30 15:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,38 +102,29 @@
                 <span class="time">2026-09-30 11:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/tel-aviv-plane-diverted_1790755899228_hpMain_4x3t_384.jpg" alt="Tel Aviv flight diverted to Saudi Arabia in potential terror incident: Israeli source" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/flight-tel-aviv-diverted-saudi-arabia-after-incident/story?id=136880832" target="_blank">Tel Aviv flight diverted to Saudi Arabia in potential terror incident: Israeli source</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-09-30 11:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/9/30/hegseth-to-cut-number-of-us-general-and-admiral-positions-by-20?traffic_source=rss" target="_blank">Hegseth to cut number of US general and admiral positions by 20%</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-30 05:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/9/30/iran-war-live-trump-claims-war-will-end-very-soon-provides-no-details?traffic_source=rss" target="_blank">Iran war live: Trump claims war will end ‘very soon’, gives no details</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-30 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/" target="_blank">AI voice startup ElevenLabs doubles valuation to $22B</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-09-30 18:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices" target="_blank">The AI Tamagotchis are coming</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-09-30 18:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,29 +161,47 @@
                 <span class="time">2026-09-30 05:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety" target="_blank">Sam Altman says OpenAI won’t go public until its models are safe</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-09-30 00:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6aba6196add005d32caeaf5b/master/pass/Range%20Rover%20Sport%20Electric%2027MY%20Front%20300927.jpg" alt="Range Rover Sport Electric: Price, Specs, Availability" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/range-rover-sport-electric-arrives-with-more-for-less/" target="_blank">Range Rover Sport Electric: Price, Specs, Availability</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-09-29 23:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/godfreysterling9226/image-search-captions-vs-pixels-what-is-actually-available-for-clinical-cropping-j8n" target="_blank">Image Search Captions vs Pixels: What Is Actually Available for Clinical Cropping</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-09-30 18:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/09/onlinecohorts-ai-certifications/en/headerimage/InfoQ-Online-cohorts-AI-Focus-1790780715905.jpg" alt="InfoQ Online Cohorts Address AI Security and Coding Agent Verification" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/09/onlinecohorts-ai-certifications/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">InfoQ Online Cohorts Address AI Security and Coding Agent Verification</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-09-30 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/09/30/organizations-need-decision-grade-knowledge-ai-makes-it-urgent/" target="_blank">Organizations need decision-grade knowledge. AI makes it urgent.</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-09-30 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17481812/local-ai-weekly-4" target="_blank">Local AI Weekly #4: The Fine Print of Running AI Locally</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-09-30 15:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -185,42 +218,6 @@
                 <span class="title"><a href="https://www.infoq.com/presentations/context-as-code-devops-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Context Is the New Code</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-09-30 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/09/sveltekit-3-vite/en/headerimage/generatedHeaderImage-1790668846660.jpg" alt="SvelteKit 3 Reaches Release Candidate, Moving Config to Vite and Retiring the $lib Alias" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/09/sveltekit-3-vite/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">SvelteKit 3 Reaches Release Candidate, Moving Config to Vite and Retiring the $lib Alias</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-09-30 05:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Arch-Linux-Archinstall-4.5" target="_blank">Archinstall 4.5 For Arch Linux Brings AArch64 Improvements, RT Kernel Options</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-09-30 00:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2024/03/vlc-406x232.jpg" alt="VLC makes its ‘biggest security release ever’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/09/vlc-major-security-update" target="_blank">VLC makes its ‘biggest security release ever’</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-09-29 23:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/ninjahawk/livenerf" target="_blank">Livenerf: Has Opus 5.5 been nerfed yet?</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-09-29 22:36</span>
             </div>
         </div>
 </div>
@@ -242,6 +239,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JFDBEY6KYAR6225Q0XFHY06A/hero-image.jpg" alt="Is the Treadmill or Your Watch More Accurate on How Far You&#x27;ve Run?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/which-is-more-accurate-the-treadmill-or-your-watch?utm_medium=RSS" target="_blank">Is the Treadmill or Your Watch More Accurate on How Far You&#x27;ve Run?</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-09-30 18:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/09/wow-forever-road-1280x720.jpg" alt="Blizzard Seems To Be Surveying Players About Adding Demon Hunter, Witch, Tinker, Bard, And More Classes To WoW: Forever" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/blizzard-survey-players-demon-hunter-wow-forever-2000738699" target="_blank">Blizzard Seems To Be Surveying Players About Adding Demon Hunter, Witch, Tinker, Bard, And More Classes To WoW: Forever</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-09-30 18:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01M3RN85MTA41E631ACY4KE4BY/hero-image.jpg" alt="This Versatile Multi-Port Charger Is on Sale for Under $100 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,29 +293,38 @@
                 <span class="time">2026-09-30 00:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/shutterstock_2315198139-scaled.jpg?fit=2560%2C1625&amp;quality=60&amp;ssl=1" alt="$10m worth of cocaine in evidence turns out to be flour" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/09/29/10m-worth-of-cocaine-in-evidence-turns-out-to-be-flour.html" target="_blank">$10m worth of cocaine in evidence turns out to be flour</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-09-29 22:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/09/witcher-3-blurr.jpg" alt="The Witcher 3 Remastered Players Are Turning Bloom Off To Make It Look Better On PC" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-witcher-3-remastered-players-are-turning-bloom-off-to-make-it-look-better-on-pc-2000738434" target="_blank">The Witcher 3 Remastered Players Are Turning Bloom Off To Make It Look Better On PC</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-09-29 20:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-pencil"></span>
+                <span class="title"><a href="https://poorlydrawnlines.com/comic/things-that-can-fly/" target="_blank">Things That Can Fly</a></span>
+                <span class="feed">Poorly Drawn Lines</span>
+                <span class="time">2026-09-30 16:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1790357486-20260930.png" alt="Saturday Morning Breakfast Cereal - Scripture" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/scripture-2" target="_blank">Saturday Morning Breakfast Cereal - Scripture</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-09-30 15:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/09/30/the-race-galactic" target="_blank">The Race Galactic</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-09-30 07:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.questionablecontent.net/comics/5928.png" alt="A Wrench In The System" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -310,22 +334,13 @@
                 <span class="time">2026-09-30 00:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1790357439-20260929.png" alt="Saturday Morning Breakfast Cereal - Free" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/free-5" target="_blank">Saturday Morning Breakfast Cereal - Free</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-09-29 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 52 | 📡 Total Sources: 40 | 📸 With Images: 268 |
-        🔄 Last Updated: 13:07 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 55 | 📡 Total Sources: 40 | 📸 With Images: 265 |
+        🔄 Last Updated: 18:39 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
