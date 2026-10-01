@@ -1,30 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-09-30 22:41:13 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-10-01 01:38:56 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Hacker News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 21 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Wednesday, September 30, 2026 - 22:41 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Thursday, October 01, 2026 - 01:39 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,12 +45,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/10/1/iraq-celebrates-sovereignty-day-as-us-troops-complete-withdrawal?traffic_source=rss" target="_blank">Iraq celebrates Sovereignty Day as US troops complete withdrawal</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-01 01:11</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/cornell-frat-abc-bh-280926_1790619105024_hpMain_4x3t_384.jpg" alt="Cornell agrees to outside review of how it handled alleged sexual assault: Governor" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/US/cornell-agrees-independent-review-handled-fraternity-sexual-assault/story?id=136901598" target="_blank">Cornell agrees to outside review of how it handled alleged sexual assault: Governor</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-09-30 21:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49ac/live/21ee8c40-bcff-11f1-babe-4199b0e7ccea.jpg" alt="&#x27;Hero&#x27; pilot stabbed by other pilot on Israel-bound plane, Israeli PM says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Hero&#x27; pilot stabbed by other pilot on Israel-bound plane, Israeli PM says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-09-30 21:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/09/1920x1080/skynews-hardelot-france-dinghy_7359295.jpg?20260923113340" alt="UK-France &#x27;one in, one out&#x27; migrant deal scrapped" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/uk-france-one-in-one-out-migrant-deal-scrapped-13593740" target="_blank">UK-France &#x27;one in, one out&#x27; migrant deal scrapped</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-09-30 21:21</span>
             </div>
         </div>
 <div class="story">
@@ -67,38 +98,29 @@
                 <span class="time">2026-09-30 17:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund" target="_blank">Trump administration diverts human rights funds to push far-right agenda abroad</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-09-30 15:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/us-news/2026/sep/30/burundi-third-country-deportations-trump-immigration" target="_blank">Burundi agrees to receive ‘third-country’ migrant deportees from US</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-09-30 12:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/09/30/nx-s1-5985202/fbi-hack-shinyhunters" target="_blank">FBI hunting the hackers who stole its employees&#x27; sensitive data</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-09-30 12:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/1003037/paramount-david-ellison-co-ceo-ynon-kriez" target="_blank">The new and huger Paramount has a new co-CEO</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-09-30 23:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1042124682-500x500.jpg" alt="Dinosaur-killing impact crater might have been teeming with life" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/09/dinosaur-killing-impact-crater-might-have-been-teeming-with-life/" target="_blank">Dinosaur-killing impact crater might have been teeming with life</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-09-30 21:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6abbfbe5422fade848ea97c7/master/pass/politics_republicans_midterms_panic.jpg" alt="The White House Is Starting to Panic Over the Midterms" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -135,24 +157,6 @@
                 <span class="time">2026-09-30 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6abc28200532d5d813ae2f5c/master/pass/The-Best-Gifts-for-Book-Lovers,-According-to-an-Avid-Reader.jpg" alt="The Best Gifts for Book Lovers (2026): E-Readers, Handy Accessories, Book Sets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/gifts-for-book-lovers/" target="_blank">The Best Gifts for Book Lovers (2026): E-Readers, Handy Accessories, Book Sets</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-09-30 11:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/https-500x500-1772240635.jpg" alt="Cloudflare plans to issue quantum-safe TLS certificates" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/" target="_blank">Cloudflare plans to issue quantum-safe TLS certificates</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-09-30 11:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -165,6 +169,15 @@
                 <span class="title"><a href="https://dev.to/alifar/google-releases-gemma-4-while-gemini-4-argon-signals-build-1dd8" target="_blank">Google Releases Gemma 4 While Gemini 4 Argon Signals Build</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-09-30 22:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/" target="_blank">Gemini 4 Argon</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-09-30 20:04</span>
             </div>
         </div>
 <div class="story">
@@ -203,15 +216,6 @@
                 <span class="time">2026-09-30 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/distributed-databases-with-peter" target="_blank">Distributed databases with Peter Mattis</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-09-30 16:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,6 +235,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/09/sonicfortnite-1280x718.jpeg" alt="Giving Sonic A Gun In Fortnite Has Been A Huge Success, With Players Killing Dr. Eggman 14 Million Times" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/giving-sonic-a-gun-in-fortnite-has-been-a-huge-success-with-players-killing-dr-eggman-14-million-times-2000737447" target="_blank">Giving Sonic A Gun In Fortnite Has Been A Huge Success, With Players Killing Dr. Eggman 14 Million Times</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-01 01:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/vintage-bloomberg-financial-keyboard-terminal-with-built-in-speaker-and-market-function-keys.webp?fit=1200%2C900&amp;quality=55&amp;ssl=1" alt="Bloomberg Terminals in repose" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/09/30/bloomberg-terminals-in-repose.html" target="_blank">Bloomberg Terminals in repose</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-10-01 00:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M3PX51TQP71GWQEJES9XHCTC/hero-image.jpg" alt="10 Hacks Every &#x27;YNAB&#x27; User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-ynab-hacks?utm_medium=RSS" target="_blank">10 Hacks Every &#x27;YNAB&#x27; User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-09-30 22:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2019/06/py2bydiuzhncpezkr2bz.jpg" alt="Naughty Dog Reportedly Working On A New Uncharted Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -256,33 +287,6 @@
                 <span class="title"><a href="https://lifehacker.com/health/which-is-more-accurate-the-treadmill-or-your-watch?utm_medium=RSS" target="_blank">Is the Treadmill or Your Watch More Accurate on How Far You&#x27;ve Run?</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-09-30 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/09/wow-forever-road-1280x720.jpg" alt="Blizzard Seems To Be Surveying Players About Adding Demon Hunter, Witch, Tinker, Bard, And More Classes To WoW: Forever" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/blizzard-survey-players-demon-hunter-wow-forever-2000738699" target="_blank">Blizzard Seems To Be Surveying Players About Adding Demon Hunter, Witch, Tinker, Bard, And More Classes To WoW: Forever</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-09-30 18:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M3RN85MTA41E631ACY4KE4BY/hero-image.jpg" alt="This Versatile Multi-Port Charger Is on Sale for Under $100 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/ad/tech/gitryin-140w-multi-port-charger-deal-september-2026?utm_medium=RSS" target="_blank">This Versatile Multi-Port Charger Is on Sale for Under $100 Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-09-30 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/1804-TEASER1200-lil-lucky-duckette-armaggeddog.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Tom the Dancing Bug: What was the cause of the global armaggeddon?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/09/30/tom-the-dancing-bug-what-was-the-cause-of-the-global-armaggeddon.html" target="_blank">Tom the Dancing Bug: What was the cause of the global armaggeddon?</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-09-30 12:00</span>
             </div>
         </div>
 </div>
@@ -326,22 +330,13 @@
                 <span class="time">2026-09-30 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5928.png" alt="A Wrench In The System" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5928" target="_blank">A Wrench In The System</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-09-30 00:47</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 50 | 📡 Total Sources: 40 | 📸 With Images: 264 |
-        🔄 Last Updated: 22:41 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 50 | 📡 Total Sources: 40 | 📸 With Images: 266 |
+        🔄 Last Updated: 01:39 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
