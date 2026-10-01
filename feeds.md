@@ -1,34 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-10-01 19:59:16 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-10-01 23:41:48 UTC -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: WIRED -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DZone -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 26 feeds processed -->
+<!-- Generated 9 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, October 01, 2026 - 19:59 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, October 01, 2026 - 23:42 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +38,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/doctor-main-ht-jt-261001_1790883882828_hpMain_4x3t_384.jpg" alt="FlyDubai flight passenger details treating wounded pilot after tying up suspect" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/tel-aviv-flight-passenger-details-treating-wounded-pilot/story?id=136929137" target="_blank">FlyDubai flight passenger details treating wounded pilot after tying up suspect</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-01 22:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/1/brazilian-government-calls-for-probe-into-us-funding-of-far-right-causes?traffic_source=rss" target="_blank">Brazilian government calls for probe into US funding of far-right causes</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-01 22:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/10/01/nx-s1-5986224/renee-good-ice-lawsuit-minneapolis" target="_blank">The family of Renee Good files lawsuits over her death during Minneapolis ICE raids</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-10-01 20:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,38 +92,29 @@
                 <span class="time">2026-10-01 19:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/christa-pike-gty-jef-260930_1790781840090_hpMain_4x3t_384.jpg" alt="Christa Pike in critical condition after botched Tennessee execution, attorneys say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/execution-lone-woman-tennessees-death-row-paused-federal/story?id=136893331" target="_blank">Christa Pike in critical condition after botched Tennessee execution, attorneys say</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-01 19:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260113-renee-good-mn-0945-0ef138.jpg" alt="Renee Good’s family sues government, top Trump officials and ICE officer who shot her" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/renee-goods-family-sues-us-government-rcna600897" target="_blank">Renee Good’s family sues government, top Trump officials and ICE officer who shot her</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-10-01 14:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/01/nx-s1-5928148/pearly-king-peckham-george-major-london-cockney" target="_blank">What a Pearly King taught me about Cockney rhyming slang and East London history</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-01 14:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/1003877/apple-security-camera-no-video" target="_blank">Apple’s reportedly developing a smart home camera that doesn’t record video</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-10-01 22:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/" target="_blank">Lyft is paying $272.5M to settle lawsuit over how it classified drivers</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-10-01 21:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6abd2a92aa33d10785588652/master/pass/WIRED-West-Bank-Interactive-Site-Image-Lina-Jaradat-01.jpg" alt="Experience What It’s Like to Travel in the Occupied West Bank" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,24 +151,6 @@
                 <span class="time">2026-10-01 11:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/" target="_blank">Google releases Gemini 4 Argon, called its most powerful model yet</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-09-30 23:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/1003037/paramount-david-ellison-co-ceo-ynon-kriez" target="_blank">The new and huger Paramount has a new co-CEO</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-09-30 23:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -181,6 +175,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/09/stonking-stingray-406x232.webp" alt="Ubuntu 26.10 Beta released with Linux 7.3 &amp; GNOME 51" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/ubuntu-2610-beta-released" target="_blank">Ubuntu 26.10 Beta released with Linux 7.3 &amp; GNOME 51</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-10-01 19:10</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://substackcdn.com/image/fetch/$s_!x424!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F35f9d9c1-b804-486f-ba75-5c00156da944_1674x1194.png" alt="The Pulse: Firebase’s global outage &amp; poor response" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-wrench"></span>
@@ -201,19 +204,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://www.datadoghq.com/blog/engineering/async-python-profiler/" target="_blank">How we built an async-aware Python profiler</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-10-01 15:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/saravanan_cn_183fcba7cc7a/day-12-learning-anonymous-functions-arrow-functions-key-value-pairs-2235" target="_blank">Day 12: Learning Anonymous Functions, Arrow Functions &amp; Key-Value Pairs 🚀</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-01 14:55</span>
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/" target="_blank">10 technical talks I’m excited about at GitHub Universe 2026</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-10-01 15:07</span>
             </div>
         </div>
 </div>
@@ -280,15 +274,6 @@
                 <span class="time">2026-10-01 00:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M3PX51TQP71GWQEJES9XHCTC/hero-image.jpg" alt="10 Hacks Every &#x27;YNAB&#x27; User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-ynab-hacks?utm_medium=RSS" target="_blank">10 Hacks Every &#x27;YNAB&#x27; User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-09-30 22:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -317,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 48 | 📡 Total Sources: 40 | 📸 With Images: 262 |
-        🔄 Last Updated: 19:59 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 44 | 📡 Total Sources: 40 | 📸 With Images: 259 |
+        🔄 Last Updated: 23:42 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
