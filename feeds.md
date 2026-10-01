@@ -1,34 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-10-01 01:38:56 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-10-01 07:56:09 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Generated 7 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, October 01, 2026 - 01:39 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, October 01, 2026 - 07:56 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +41,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b6b/live/4ce5c930-bd5a-11f1-babe-4199b0e7ccea.jpg" alt="US death row inmate survives execution attempt after two lethal injections" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss" target="_blank">US death row inmate survives execution attempt after two lethal injections</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-01 07:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/10/01/nx-s1-5986822/tennessee-governor-halts-executions" target="_blank">Tennessee governor halts executions after Christa Gail Pike survives lethal injection</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-10-01 05:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/cornell-frat-abc-bh-280926_1790619105024_hpMain_4x3t_384.jpg" alt="&#x27;I felt like bait,&quot; Jane Doe said at 2025 Cornell University hearing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/cornell-agrees-independent-review-handled-fraternity-sexual-assault/story?id=136901598" target="_blank">&#x27;I felt like bait,&quot; Jane Doe said at 2025 Cornell University hearing</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-01 04:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,38 +95,20 @@
                 <span class="time">2026-09-30 21:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/09/1920x1080/skynews-hardelot-france-dinghy_7359295.jpg?20260923113340" alt="UK-France &#x27;one in, one out&#x27; migrant deal scrapped" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/uk-france-one-in-one-out-migrant-deal-scrapped-13593740" target="_blank">UK-France &#x27;one in, one out&#x27; migrant deal scrapped</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-09-30 21:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/9/30/video-bangladesh-dengue-deaths-surpass-233-in-deadly-outbreak?traffic_source=rss" target="_blank">Video: Bangladesh Dengue deaths surpass 233 in deadly outbreak</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-09-30 18:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/FlyDubai-1-ht-gmh-260930_1790774565565_hpMain_4x3t_384.jpg" alt="Tel Aviv flight passengers sprang into action after pilot stabbed copilot: Officials" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/flight-tel-aviv-diverted-saudi-arabia-after-incident/story?id=136880832" target="_blank">Tel Aviv flight passengers sprang into action after pilot stabbed copilot: Officials</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-09-30 17:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/" target="_blank">Google releases Gemini 4 Argon, called its most powerful model yet</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-09-30 23:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +154,29 @@
                 <span class="time">2026-09-30 18:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/streaming/1002597/amazon-fire-tv-stick-4k-direct-power" target="_blank">Amazon&amp;#8217;s new Fire TV Stick 4K can pull power directly from your TV</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-09-30 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/artifilog/how-to-prevent-llm-hallucinations-with-guardrails-2026-48an" target="_blank">How to Prevent LLM Hallucinations with Guardrails (2026)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-01 07:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/10/typesafe-ai-jev-released/en/headerimage/generatedHeaderImage-1790670999799.jpg" alt="TypeSafe AI Releases Jev: A Decision-Only Model That Returns Typed Probabilities Instead of Text" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/10/typesafe-ai-jev-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">TypeSafe AI Releases Jev: A Decision-Only Model That Returns Typed Probabilities Instead of Text</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-10-01 06:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,24 +211,6 @@
                 <span class="title"><a href="https://dev.to/godfreysterling9226/image-search-captions-vs-pixels-what-is-actually-available-for-clinical-cropping-j8n" target="_blank">Image Search Captions vs Pixels: What Is Actually Available for Clinical Cropping</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-09-30 18:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/09/onlinecohorts-ai-certifications/en/headerimage/InfoQ-Online-cohorts-AI-Focus-1790780715905.jpg" alt="InfoQ Online Cohorts Address AI Security and Coding Agent Verification" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/09/onlinecohorts-ai-certifications/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">InfoQ Online Cohorts Address AI Security and Coding Agent Verification</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-09-30 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/09/30/organizations-need-decision-grade-knowledge-ai-makes-it-urgent/" target="_blank">Organizations need decision-grade knowledge. AI makes it urgent.</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-09-30 17:00</span>
             </div>
         </div>
 </div>
@@ -321,22 +318,13 @@
                 <span class="time">2026-09-30 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/09/30/the-race-galactic" target="_blank">The Race Galactic</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-09-30 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 50 | 📡 Total Sources: 40 | 📸 With Images: 266 |
-        🔄 Last Updated: 01:39 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 50 | 📡 Total Sources: 40 | 📸 With Images: 266 |
+        🔄 Last Updated: 07:56 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
