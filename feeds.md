@@ -1,31 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-10-02 09:12:42 UTC -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-10-02 16:00:17 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 23 feeds processed -->
+<!-- Generated 12 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, October 02, 2026 - 09:12 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, October 02, 2026 - 16:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2026/10/2/live-france-vs-italy-uefa-nations-league?traffic_source=rss" target="_blank">LIVE: France vs Italy – UEFA Nations League</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-02 15:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/USA-CRIME-CORNELL-10-1_1790900849363_hpMain_4x3t_384.jpg" alt="Cornell frat brother apologized to Jane Doe after alleged rape, texts show" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/cornells-jane-doe-felt-sex-doll-after-alleged/story?id=136944644" target="_blank">Cornell frat brother apologized to Jane Doe after alleged rape, texts show</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-02 13:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8316/live/441b8c40-be3b-11f1-a64c-550be9e3c66b.jpg" alt="&#x27;I was not going to let others die&#x27; - pilot of Flydubai flight describes cockpit attack by co-pilot" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -60,6 +81,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-narendra-modi-smit-machchhar_7366288.png?20261002081625" alt="Hero captain describes fight to open cockpit door while being attacked by co-pilot" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/flydubai-captain-says-he-fought-to-open-cockpit-door-while-still-being-attacked-13594247" target="_blank">Hero captain describes fight to open cockpit door while being attacked by co-pilot</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-10-02 07:14</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -68,38 +98,20 @@
                 <span class="time">2026-10-02 02:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-09/260929-jd-vance-ew-126p-dc183f.jpg" alt="Vance talks 2028, Ted Cruz and a tough midterm climate that could affect his future" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/jd-vance/vance-2028-ted-cruz-midterm-climate-future-rcna600312" target="_blank">Vance talks 2028, Ted Cruz and a tough midterm climate that could affect his future</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-10-02 01:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc74/live/877de1e0-bdaa-11f1-babe-4199b0e7ccea.png" alt="Crypto thieves attack man in home and threaten to kill pregnant wife&#x27;s baby in &#x27;horrific&#x27; robbery" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss" target="_blank">Crypto thieves attack man in home and threaten to kill pregnant wife&#x27;s baby in &#x27;horrific&#x27; robbery</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-01 23:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/doctor-main-ht-jt-261001_1790883882828_hpMain_4x3t_384.jpg" alt="FlyDubai flight passenger details treating wounded pilot after tying up suspect" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/tel-aviv-flight-passenger-details-treating-wounded-pilot/story?id=136929137" target="_blank">FlyDubai flight passenger details treating wounded pilot after tying up suspect</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-01 22:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/Shield-10-yrs-1-500x500.jpg" alt="The 7-year-old Nvidia Shield TV is now $100 more expensive thanks to AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/" target="_blank">The 7-year-old Nvidia Shield TV is now $100 more expensive thanks to AI</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-10-02 14:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" alt="Uber Eats Promo Codes: $15 Off│October 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,20 +157,29 @@
                 <span class="time">2026-10-01 22:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/" target="_blank">Lyft is paying $272.5M to settle lawsuit over how it classified drivers</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-10-01 21:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/" target="_blank">AI is rewriting the developer career ladder. Here’s how to stand out.</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-10-02 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.home-assistant.io/blog/2026/10/02/big-tech-ruined-the-cloud-so-were-renaming-ours/" target="_blank">Big Tech ruined the cloud, so we&#x27;re renaming ours</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-10-02 14:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,24 +216,6 @@
                 <span class="time">2026-10-01 19:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://earendil.com/posts/pi-1-0/" target="_blank">Pi 1.0</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-10-01 19:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/09/stonking-stingray-406x232.webp" alt="Ubuntu 26.10 Beta released with Linux 7.3 &amp; GNOME 51" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/ubuntu-2610-beta-released" target="_blank">Ubuntu 26.10 Beta released with Linux 7.3 &amp; GNOME 51</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-10-01 19:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -222,9 +225,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/10/connected-cars-are-a-surveillance-platform.html" target="_blank">Connected Cars Are a Surveillance Platform</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/10/unidentified-flock-cameras-in-florida.html" target="_blank">Unidentified Flock Cameras in Florida</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2026-10-01 11:06</span>
+                <span class="time">2026-10-02 14:52</span>
             </div>
         </div>
 </div>
@@ -232,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/aloSIM-Travelers-Mobile-Data-Plan.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="Pay $70 and get $150 in travel data with this lifetime eSIM" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/10/02/pay-70-and-get-150-in-travel-data-with-this-lifetime-esim.html" target="_blank">Pay $70 and get $150 in travel data with this lifetime eSIM</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-10-02 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/1789422459_IMG_2826231.jpg?fit=1000%2C704&amp;quality=60&amp;ssl=1" alt="Instax Pal 2: fun but pricey pocket toy camera" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -259,29 +271,29 @@
                 <span class="time">2026-10-01 19:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M3TYS4EG9EN8YZWPGRN32W91/hero-image.png" alt="These Are the Best Cordless Power Tools on Sale at Home Depot, Ahead of October Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/home/best-cordless-power-tools-deals-at-home-depot-early-october-prime-day-2026?utm_medium=RSS" target="_blank">These Are the Best Cordless Power Tools on Sale at Home Depot, Ahead of October Prime Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-10-01 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/freckle1.webp?fit=1919%2C1279&amp;quality=55&amp;ssl=1" alt="Freckle is a kid&#x27;s phone that sends them on real-world quests" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/10/01/freckle-is-a-kids-phone-that-sends-them-on-real-world-quests.html" target="_blank">Freckle is a kid&#x27;s phone that sends them on real-world quests</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-10-01 10:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1790818588-20261002.png" alt="Saturday Morning Breakfast Cereal - Interesting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/interesting-5" target="_blank">Saturday Morning Breakfast Cereal - Interesting</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-10-02 15:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/10/02/world-of-warcraft-never" target="_blank">World of Warcraft Never</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-10-02 07:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.questionablecontent.net/comics/5930.png" alt="Slow News Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -291,22 +303,13 @@
                 <span class="time">2026-10-02 01:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1790818238-20261001.png" alt="Saturday Morning Breakfast Cereal - Equations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/equations" target="_blank">Saturday Morning Breakfast Cereal - Equations</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-10-01 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 49 | 📡 Total Sources: 40 | 📸 With Images: 263 |
-        🔄 Last Updated: 09:12 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 40 | 📡 Total Sources: 40 | 📸 With Images: 260 |
+        🔄 Last Updated: 16:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
