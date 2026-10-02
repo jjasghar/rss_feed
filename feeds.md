@@ -1,28 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-10-01 23:41:48 UTC -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-10-02 02:56:36 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 9 new posts out of 20 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, October 01, 2026 - 23:42 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Friday, October 02, 2026 - 02:56 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/10/2/everything-you-need-to-know-about-brazils-tight-presidential-race?traffic_source=rss" target="_blank">Everything you need to know about Brazil’s tight presidential race</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-02 02:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/doctor-main-ht-jt-261001_1790883882828_hpMain_4x3t_384.jpg" alt="FlyDubai flight passenger details treating wounded pilot after tying up suspect" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,15 +95,6 @@
                 <span class="time">2026-10-01 19:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-09/260930-christa-pike-mn-1010-64aac6.jpg" alt="Christa Pike is in critical condition after a failed execution in Tennessee, her lawyers say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/christa-pike-critical-condition-failed-execution-tennessee-lawyers-say-rcna600992" target="_blank">Christa Pike is in critical condition after a failed execution in Tennessee, her lawyers say</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-10-01 19:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -100,10 +103,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/" target="_blank">Robotaxi operators will face fines for blocking first responders</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-10-02 00:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/1003877/apple-security-camera-no-video" target="_blank">Apple’s reportedly developing a smart home camera that doesn’t record video</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-10-01 22:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-500x500-1790890738.jpeg" alt="Venus&#x27; mysterious haze is actually cosmic dust" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/10/venus-mysterious-haze-is-actually-cosmic-dust/" target="_blank">Venus&#x27; mysterious haze is actually cosmic dust</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-10-01 22:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6abd667878587a545496ec2f/master/pass/Model-Behavior-Trump-AI-Business.jpg" alt="Whatever AI Safety Is, It’s Not This" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/" target="_blank">Whatever AI Safety Is, It’s Not This</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-10-01 22:10</span>
             </div>
         </div>
 <div class="story">
@@ -124,38 +154,29 @@
                 <span class="time">2026-10-01 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle" target="_blank">OpenAI’s new agent is a shot at Meta — but can it compete with free?</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-10-01 14:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/" target="_blank">Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-10-01 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-8.12.38-PM-500x500-1790813725.png" alt="PS5 emulation is suddenly making big strides on PC" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2026/10/ps5-emulation-is-suddenly-making-big-strides-on-pc/" target="_blank">PS5 emulation is suddenly making big strides on PC</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-10-01 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Siemens-Ends-OpenRadioss" target="_blank">Siemens Slams The Door Shut On Promising Open-Source Radioss Project</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-02 01:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/10/lrr-sept-26-406x232.webp" alt="Linux App Release Roundup (September 2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/linux-app-release-roundup-september-2026" target="_blank">Linux App Release Roundup (September 2026)</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-10-01 22:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -190,24 +211,6 @@
                 <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-firebases-global-outage" target="_blank">The Pulse: Firebase’s global outage &amp; poor response</a></span>
                 <span class="feed">The Pragmatic Engineer</span>
                 <span class="time">2026-10-01 16:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17483251/yt-dlp-ifpi-piracy-watchlist" target="_blank">YT-DLP is Being Treated as a Piracy Tool By The IFPI</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-10-01 15:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/" target="_blank">10 technical talks I’m excited about at GitHub Universe 2026</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-10-01 15:07</span>
             </div>
         </div>
 </div>
@@ -256,24 +259,6 @@
                 <span class="time">2026-10-01 10:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/09/sonicfortnite-1280x718.jpeg" alt="Giving Sonic A Gun In Fortnite Has Been A Huge Success, With Players Killing Dr. Eggman 14 Million Times" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/giving-sonic-a-gun-in-fortnite-has-been-a-huge-success-with-players-killing-dr-eggman-14-million-times-2000737447" target="_blank">Giving Sonic A Gun In Fortnite Has Been A Huge Success, With Players Killing Dr. Eggman 14 Million Times</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-01 01:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/09/vintage-bloomberg-financial-keyboard-terminal-with-built-in-speaker-and-market-function-keys.webp?fit=1200%2C900&amp;quality=55&amp;ssl=1" alt="Bloomberg Terminals in repose" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/09/30/bloomberg-terminals-in-repose.html" target="_blank">Bloomberg Terminals in repose</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-10-01 00:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -288,22 +273,13 @@
                 <span class="time">2026-10-01 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5929.png" alt="The Fruits Of Success" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5929" target="_blank">The Fruits Of Success</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-10-01 01:05</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 44 | 📡 Total Sources: 40 | 📸 With Images: 259 |
-        🔄 Last Updated: 23:42 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 45 | 📡 Total Sources: 40 | 📸 With Images: 259 |
+        🔄 Last Updated: 02:56 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
