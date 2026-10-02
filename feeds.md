@@ -1,31 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-10-02 02:56:36 UTC -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-10-02 09:12:42 UTC -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 23 feeds processed -->
+<!-- Generated 10 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Friday, October 02, 2026 - 02:56 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, October 02, 2026 - 09:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,12 +42,48 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8316/live/441b8c40-be3b-11f1-a64c-550be9e3c66b.jpg" alt="&#x27;I was not going to let others die&#x27; - pilot of Flydubai flight describes cockpit attack by co-pilot" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;I was not going to let others die&#x27; - pilot of Flydubai flight describes cockpit attack by co-pilot</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-02 09:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/wirestory_6da544bf2d9b236a94e9a9d51bb19b77_4x3_384.jpg" alt="‘I was fighting for my life’: Pilot hailed as hero recalls FlyDubai cockpit attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/wireStory/fighting-life-indian-pilot-hailed-hero-recalls-flydubai-136942539" target="_blank">‘I was fighting for my life’: Pilot hailed as hero recalls FlyDubai cockpit attack</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-02 08:37</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/10/2/everything-you-need-to-know-about-brazils-tight-presidential-race?traffic_source=rss" target="_blank">Everything you need to know about Brazil’s tight presidential race</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-10-02 02:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-09/260929-jd-vance-ew-126p-dc183f.jpg" alt="Vance talks 2028, Ted Cruz and a tough midterm climate that could affect his future" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/jd-vance/vance-2028-ted-cruz-midterm-climate-future-rcna600312" target="_blank">Vance talks 2028, Ted Cruz and a tough midterm climate that could affect his future</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-10-02 01:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc74/live/877de1e0-bdaa-11f1-babe-4199b0e7ccea.png" alt="Crypto thieves attack man in home and threaten to kill pregnant wife&#x27;s baby in &#x27;horrific&#x27; robbery" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss" target="_blank">Crypto thieves attack man in home and threaten to kill pregnant wife&#x27;s baby in &#x27;horrific&#x27; robbery</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-01 23:45</span>
             </div>
         </div>
 <div class="story">
@@ -59,47 +95,20 @@
                 <span class="time">2026-10-01 22:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/1/brazilian-government-calls-for-probe-into-us-funding-of-far-right-causes?traffic_source=rss" target="_blank">Brazilian government calls for probe into US funding of far-right causes</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-01 22:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/01/nx-s1-5986224/renee-good-ice-lawsuit-minneapolis" target="_blank">The family of Renee Good files lawsuits over her death during Minneapolis ICE raids</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-01 20:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/editorial/2026/10/1/cornell-rape-allegations-renew-push-to-change-new-york-sexual-assault-law?traffic_source=rss" target="_blank">Cornell rape allegations renew push to change New York sexual assault law</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-01 19:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b57d/live/614446e0-bdb9-11f1-b7d8-31573a2bd831.jpg" alt="UK-Iranian dual national arrested over RAF Fairford incident, police say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cmdx5xw36492o?at_medium=RSS&at_campaign=rss" target="_blank">UK-Iranian dual national arrested over RAF Fairford incident, police say</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-01 19:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" alt="Uber Eats Promo Codes: $15 Off│October 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/uber-eats-promo-code/" target="_blank">Uber Eats Promo Codes: $15 Off│October 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-10-02 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,15 +154,6 @@
                 <span class="time">2026-10-01 21:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6abd2a92aa33d10785588652/master/pass/WIRED-West-Bank-Interactive-Site-Image-Lina-Jaradat-01.jpg" alt="Experience What It’s Like to Travel in the Occupied West Bank" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/experience-what-its-like-to-travel-in-the-occupied-west-bank/" target="_blank">Experience What It’s Like to Travel in the Occupied West Bank</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-10-01 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -166,6 +166,15 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Siemens-Ends-OpenRadioss" target="_blank">Siemens Slams The Door Shut On Promising Open-Source Radioss Project</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-10-02 01:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-october-2-2026-red-hat" target="_blank">Friday Five — October 2, 2026 | Red Hat</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2026-10-02 00:00</span>
             </div>
         </div>
 <div class="story">
@@ -204,15 +213,6 @@
                 <span class="time">2026-10-01 19:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!x424!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F35f9d9c1-b804-486f-ba75-5c00156da944_1674x1194.png" alt="The Pulse: Firebase’s global outage &amp; poor response" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-firebases-global-outage" target="_blank">The Pulse: Firebase’s global outage &amp; poor response</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-10-01 16:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +232,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/1789422459_IMG_2826231.jpg?fit=1000%2C704&amp;quality=60&amp;ssl=1" alt="Instax Pal 2: fun but pricey pocket toy camera" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/10/01/instax-pal-2-fun-but-pricey-pocket-toy-camera.html" target="_blank">Instax Pal 2: fun but pricey pocket toy camera</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-10-02 02:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/10/PUBG-black-market-1280x720.jpg" alt="PUBG Extraction Shooter Canceled Less Than A Year After Getting Revealed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pubg-extraction-shooter-canceled-less-than-a-year-after-getting-revealed-2000739106" target="_blank">PUBG Extraction Shooter Canceled Less Than A Year After Getting Revealed</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-02 00:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01HN0ZP8S1KSR9CY579D4F5JF6/hero-image.png" alt="Amazon Prime Members Can Get Two Free E-Books in October" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,6 +283,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.questionablecontent.net/comics/5930.png" alt="Slow News Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5930" target="_blank">Slow News Day</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-10-02 01:04</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1790818238-20261001.png" alt="Saturday Morning Breakfast Cereal - Equations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -278,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 45 | 📡 Total Sources: 40 | 📸 With Images: 259 |
-        🔄 Last Updated: 02:56 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 49 | 📡 Total Sources: 40 | 📸 With Images: 263 |
+        🔄 Last Updated: 09:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
