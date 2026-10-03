@@ -1,41 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-10-03 14:58:45 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-10-03 18:32:22 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 13 new posts out of 33 feeds processed -->
+<!-- Generated 9 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, October 03, 2026 - 14:58 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Saturday, October 03, 2026 - 18:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/cornell-2-gty-er-221108_1667941205213_hpMain_3_4x3t_384.jpg" alt="DA&#x27;s office declined to review additional material on Cornell &#x27;gang rape&#x27; probe: Docs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/tompkins-county-das-office-declined-review-additional-material/story?id=136973934" target="_blank">DA&#x27;s office declined to review additional material on Cornell &#x27;gang rape&#x27; probe: Docs</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-03 18:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5d3/live/7d12d1b0-bf45-11f1-babe-4199b0e7ccea.jpg" alt="Tennessee prison chief to resign after Christa Pike&#x27;s failed execution" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss" target="_blank">Tennessee prison chief to resign after Christa Pike&#x27;s failed execution</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-03 17:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,24 +94,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/10/03/nx-s1-5981300/opinion-a-hawk-is-not-the-same-as-a-hawkeye" target="_blank">Opinion: A Hawk is not the same as a Hawkeye</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-10-03 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b53/live/fc7bdb70-bf15-11f1-9947-0584c244b963.jpg" alt="UK-Iranian dual national arrested over RAF Fairford released on bail" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss" target="_blank">UK-Iranian dual national arrested over RAF Fairford released on bail</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-03 10:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/10/3/what-is-fc-barcelonas-negreira-case-and-what-are-the-charges?traffic_source=rss" target="_blank">What is FC Barcelona’s Negreira case, and what are the charges?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-03 10:12</span>
             </div>
         </div>
 </div>
@@ -170,6 +161,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/onlineproxy_io/setting-up-a-socks5-proxy-server-for-automation-a-deep-dive-into-layer-5-osi-advantages-2ll9" target="_blank">Setting Up a SOCKS5 Proxy Server for Automation: A Deep Dive into Layer 5 OSI Advantages</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-03 18:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-Latency-Short-Slice-Tasks" target="_blank">Linux Patches Show Promising Results For Lower Latency Of Short Slice Tasks</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-03 17:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/10/gitlab-critical-vulnerabilities/en/headerimage/gitlab-cloud-seed-preview-1791042234130.jpeg" alt="GitLab Vulnerability Under Active Exploitation Enables Unauthenticated Data Exfiltration" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/10/gitlab-critical-vulnerabilities/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">GitLab Vulnerability Under Active Exploitation Enables Unauthenticated Data Exfiltration</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-10-03 16:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flt87njyng8w1s7f8lcxh.png" alt="Vertical Slices: Rethinking Software Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -196,33 +214,6 @@
                 <span class="time">2026-10-03 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-74-RPi-10-Touch-Display-2" target="_blank">Linux 7.4 To Support The Raspberry Pi 10-Inch Touch Display 2</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-10-03 10:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://blog.python.org/2026/09/language-summit-2026-rust-for-cpython/" target="_blank">Rust for CPython (Python Language Summit 2026)</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-10-03 09:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/10/istio-1-31-agentgateway/en/headerimage/header-1790887193946.jpeg" alt="Istio 1.31 Adds Agentgateway Waypoints and Moves Release Artifacts off Google Cloud" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/10/istio-1-31-agentgateway/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Istio 1.31 Adds Agentgateway Waypoints and Moves Release Artifacts off Google Cloud</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-10-03 08:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +233,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/cloud-1-1280x720.jpg" alt="Final Fantasy 7 Revelation Director Says It Was ‘Absolutely Essential’ Not To Turn The Remake Into ‘My Own Personal Fan Project’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/final-fantasy-vii-revelation-director-says-it-was-absolutely-essential-not-to-turn-the-remake-into-my-own-personal-fan-project-2000739591" target="_blank">Final Fantasy 7 Revelation Director Says It Was ‘Absolutely Essential’ Not To Turn The Remake Into ‘My Own Personal Fan Project’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-03 18:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/Microsoft-Visual-Studio-Professional-2026.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Get professional coding tools and AI assistance for just $30 with this Microsoft deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/10/03/get-professional-coding-tools-and-ai-assistance-for-just-30-with-this-microsoft-deal.html" target="_blank">Get professional coding tools and AI assistance for just $30 with this Microsoft deal</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-10-03 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/10/on-the-boat-1280x720.jpg" alt="5 Big Things That Just Changed In The World Of Warcraft: Forever Beta" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,36 +287,18 @@
                 <span class="time">2026-10-02 19:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/aloSIM-Travelers-Mobile-Data-Plan.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="Pay $70 and get $150 in travel data with this lifetime eSIM" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/10/02/pay-70-and-get-150-in-travel-data-with-this-lifetime-esim.html" target="_blank">Pay $70 and get $150 in travel data with this lifetime eSIM</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-10-02 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/10/02/world-of-warcraft-never" target="_blank">World of Warcraft Never</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-10-02 17:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1790818588-20261002.png" alt="Saturday Morning Breakfast Cereal - Interesting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1790818643-20261003.png" alt="Saturday Morning Breakfast Cereal - Specify" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/interesting-5" target="_blank">Saturday Morning Breakfast Cereal - Interesting</a></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/specify" target="_blank">Saturday Morning Breakfast Cereal - Specify</a></span>
                 <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-10-02 15:20</span>
+                <span class="time">2026-10-03 15:20</span>
             </div>
         </div>
 </div>
@@ -315,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 50 | 📡 Total Sources: 40 | 📸 With Images: 261 |
-        🔄 Last Updated: 14:58 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 51 | 📡 Total Sources: 40 | 📸 With Images: 263 |
+        🔄 Last Updated: 18:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
