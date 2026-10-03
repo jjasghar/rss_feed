@@ -1,30 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-10-03 05:53:09 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-10-03 10:45:54 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 22 feeds processed -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, October 03, 2026 - 05:53 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, October 03, 2026 - 10:46 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/10/3/what-is-fc-barcelonas-negreira-case-and-what-are-the-charges?traffic_source=rss" target="_blank">What is FC Barcelona’s Negreira case, and what are the charges?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-03 10:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/oct/03/libyan-unity-talks-warlord-son-linked-drone-attack-khalifa-haftar" target="_blank">Libyan unity talks upended as warlord’s son linked to drone attacks on fuel facilities</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-10-03 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-hamam-al-hammami-flydubai_7367101.jpg?20261003101834" alt="Flydubai co-pilot who &#x27;attacked pilot with axe in suspected terrorist attack&#x27; pictured" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/flydubai-co-pilot-attacked-pilot-with-axe-in-suspected-terrorist-attack-uae-says-13594565" target="_blank">Flydubai co-pilot who &#x27;attacked pilot with axe in suspected terrorist attack&#x27; pictured</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-10-03 06:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -67,38 +98,20 @@
                 <span class="time">2026-10-02 23:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/02/nx-s1-5985789/trump-arch-protest-veterans-midterms" target="_blank">As Trump&#x27;s proposed arch looms over D.C., protesters pin their hopes on the midterms</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-02 21:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3808/live/888bd6f0-be90-11f1-9f15-2f9dbc671f7d.png" alt="Widdecombe suspect charged with planning terror act against Farage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko?at_medium=RSS&at_campaign=rss" target="_blank">Widdecombe suspect charged with planning terror act against Farage</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-02 21:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c16/live/be292300-be89-11f1-babe-4199b0e7ccea.jpg" alt="G7 to release 100 million barrels of oil and diesel after Trump export ban threat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss" target="_blank">G7 to release 100 million barrels of oil and diesel after Trump export ban threat</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-02 20:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/" target="_blank">Meta wants your next gadget to be Muse-infused</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-10-03 00:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-500x500.jpg" alt="Apple changes full-disk access permissions to curb abuse from AI agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,20 +157,29 @@
                 <span class="time">2026-10-02 19:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/Shield-10-yrs-1-500x500.jpg" alt="The 7-year-old Nvidia Shield TV is now $100 more expensive thanks to AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/" target="_blank">The 7-year-old Nvidia Shield TV is now $100 more expensive thanks to AI</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-10-02 14:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-74-RPi-10-Touch-Display-2" target="_blank">Linux 7.4 To Support The Raspberry Pi 10-Inch Touch Display 2</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-03 10:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/10/istio-1-31-agentgateway/en/headerimage/header-1790887193946.jpeg" alt="Istio 1.31 Adds Agentgateway Waypoints and Moves Release Artifacts off Google Cloud" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/10/istio-1-31-agentgateway/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Istio 1.31 Adds Agentgateway Waypoints and Moves Release Artifacts off Google Cloud</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-10-03 08:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -192,24 +214,6 @@
                 <span class="title"><a href="https://dev.to/bobbyhalljr/cloudflare-launched-clef-lets-build-a-tiny-decision-gate-in-typescript-can" target="_blank">Cloudflare Launched Clef. Let&#x27;s Build a Tiny Decision Gate in TypeScript.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-10-02 20:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://developer.apple.com/pass-designer/" target="_blank">Apple Pass Designer</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-10-02 19:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/02/pi-price-increase-406x232.jpg" alt="A 2GB Raspberry Pi 4 now costs 50% more than it did at launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/raspberry-pi-2gb-costs-how-much-now" target="_blank">A 2GB Raspberry Pi 4 now costs 50% more than it did at launch</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-10-02 16:15</span>
             </div>
         </div>
 </div>
@@ -308,22 +312,13 @@
                 <span class="time">2026-10-02 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/10/02/world-of-warcraft-never" target="_blank">World of Warcraft Never</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-10-02 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 42 | 📡 Total Sources: 40 | 📸 With Images: 260 |
-        🔄 Last Updated: 05:53 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 42 | 📡 Total Sources: 40 | 📸 With Images: 261 |
+        🔄 Last Updated: 10:46 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
