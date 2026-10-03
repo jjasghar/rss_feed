@@ -1,38 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-10-02 20:26:30 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-03 00:02:55 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Error processing https://kotaku.com/rss: The read operation timed out -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 13 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 15 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Friday, October 02, 2026 - 20:26 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Saturday, October 03, 2026 - 00:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +51,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/10/02/nx-s1-5985789/trump-arch-protest-veterans-midterms" target="_blank">As Trump&#x27;s proposed arch looms over D.C., protesters pin their hopes on the midterms</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-10-02 21:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3808/live/888bd6f0-be90-11f1-9f15-2f9dbc671f7d.png" alt="Widdecombe suspect charged with planning terror act against Farage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko?at_medium=RSS&at_campaign=rss" target="_blank">Widdecombe suspect charged with planning terror act against Farage</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-02 21:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c16/live/be292300-be89-11f1-babe-4199b0e7ccea.jpg" alt="G7 to release 100 million barrels of oil and diesel after Trump export ban threat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss" target="_blank">G7 to release 100 million barrels of oil and diesel after Trump export ban threat</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-02 20:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/christa-pike-gty-jef-260930_1790781840090_hpMain_4x3t_384.jpg" alt="Christa Pike unconscious and on ventilator after botched execution: Attorneys" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -75,38 +105,29 @@
                 <span class="time">2026-10-02 17:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2026/10/2/live-france-vs-italy-uefa-nations-league?traffic_source=rss" target="_blank">LIVE: France vs Italy – UEFA Nations League</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-02 15:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/USA-CRIME-CORNELL-10-1_1790900849363_hpMain_4x3t_384.jpg" alt="Cornell frat brother apologized to Jane Doe after alleged rape, texts show" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/cornells-jane-doe-felt-sex-doll-after-alleged/story?id=136944644" target="_blank">Cornell frat brother apologized to Jane Doe after alleged rape, texts show</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-02 13:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8316/live/441b8c40-be3b-11f1-a64c-550be9e3c66b.jpg" alt="&#x27;I was not going to let others die&#x27; - pilot of Flydubai flight describes cockpit attack by co-pilot" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;I was not going to let others die&#x27; - pilot of Flydubai flight describes cockpit attack by co-pilot</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-02 09:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-500x500.jpg" alt="Apple changes full-disk access permissions to curb abuse from AI agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/" target="_blank">Apple changes full-disk access permissions to curb abuse from AI agents</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-10-02 23:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link" target="_blank">Meta open sources code to let you make Muse AI gadgets</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-10-02 21:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,29 +164,29 @@
                 <span class="time">2026-10-02 14:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" alt="Uber Eats Promo Codes: $15 Off│October 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/uber-eats-promo-code/" target="_blank">Uber Eats Promo Codes: $15 Off│October 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-10-02 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/" target="_blank">Robotaxi operators will face fines for blocking first responders</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-10-02 00:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/susumun/queues-and-thread-pools-why-submission-order-and-completion-order-arent-the-same-1ch6" target="_blank">Queues and Thread Pools — Why Submission Order and Completion Order Aren&#x27;t the Same</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-03 00:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.4-Apple-Device-Trees" target="_blank">Linux 7.4 To Introduce Initial Device Trees For Apple M4, A18 Pro For MacBook Neo</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-02 20:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,27 +218,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/" target="_blank">AI is rewriting the developer career ladder. Here’s how to stand out.</a></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/" target="_blank">AI is changing developer work. Here are three skills to strengthen.</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2026-10-02 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.home-assistant.io/blog/2026/10/02/big-tech-ruined-the-cloud-so-were-renaming-ours/" target="_blank">Big Tech ruined the cloud, so we&#x27;re renaming ours</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-10-02 14:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/10/uber-eats-search-latency/en/headerimage/generatedHeaderImage-1789856971928.jpg" alt="Uber Eats Rebuilds Search Pipeline to Cut End-to-End Latency by 50%" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/10/uber-eats-search-latency/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Uber Eats Rebuilds Search Pipeline to Cut End-to-End Latency by 50%</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-10-02 14:22</span>
             </div>
         </div>
 </div>
@@ -239,6 +242,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/fountain-pen-gary-wolf-quantified-self-la.jpg?fit=900%2C1348&amp;quality=60&amp;ssl=1" alt="Quantified Self cofounder Gary Wolf brings his new book to Los Angeles" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/10/02/fountain-pen-gary-wolf-quantified-self-la.html" target="_blank">Quantified Self cofounder Gary Wolf brings his new book to Los Angeles</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-10-02 22:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M3Z3J0Z9JBFZ7C64EX06VQPN/hero-image.png" alt="The Top 10 TV Series Right Now, According to Streaming Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/the-top-10-streaming-series-september-2026?utm_medium=RSS" target="_blank">The Top 10 TV Series Right Now, According to Streaming Data</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-10-02 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01M3YYMTCM11QRQ0Q2J3NQCXF4/hero-image.jpg" alt="Changing This Setting May Extend Your Battery Life on iOS 27" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,15 +285,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/10/01/instax-pal-2-fun-but-pricey-pocket-toy-camera.html" target="_blank">Instax Pal 2: fun but pricey pocket toy camera</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-10-02 02:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/10/PUBG-black-market-1280x720.jpg" alt="PUBG Extraction Shooter Canceled Less Than A Year After Getting Revealed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pubg-extraction-shooter-canceled-less-than-a-year-after-getting-revealed-2000739106" target="_blank">PUBG Extraction Shooter Canceled Less Than A Year After Getting Revealed</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-02 00:00</span>
             </div>
         </div>
 </div>
@@ -308,6 +320,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/accelerator_energies.png" alt="Accelerator Energies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3306/" target="_blank">Accelerator Energies</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-10-02 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.questionablecontent.net/comics/5930.png" alt="Slow News Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -321,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 42 | 📡 Total Sources: 40 | 📸 With Images: 260 |
-        🔄 Last Updated: 20:26 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 43 | 📡 Total Sources: 40 | 📸 With Images: 261 |
+        🔄 Last Updated: 00:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
