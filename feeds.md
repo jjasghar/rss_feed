@@ -1,41 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-10-03 00:02:55 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-03 05:53:09 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 15 new posts out of 32 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Saturday, October 03, 2026 - 00:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, October 03, 2026 - 05:53 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +40,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2026/10/3/india-vs-pakistan-live-asian-games-cricket-final?traffic_source=rss" target="_blank">India vs Pakistan live: Asian Games cricket final</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-03 05:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261002-cornell-university-ww-1252-1220bc.jpg" alt="DA did not review witness statements and other evidence Cornell police collected in alleged gang rape of student" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/da-not-review-additional-evidence-cornell-police-collected-alleged-gan-rcna601252" target="_blank">DA did not review witness statements and other evidence Cornell police collected in alleged gang rape of student</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-10-03 04:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/flydubai-gty-er-261001_1790876310085_hpMain_4x3t_384.jpg" alt="Suspect in FlyDubai incident was previously identified as security risk: Officials" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/suspect-flydubai-incident-previously-identified-security-risk-officials/story?id=136960488" target="_blank">Suspect in FlyDubai incident was previously identified as security risk: Officials</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-02 23:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,33 +92,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss" target="_blank">G7 to release 100 million barrels of oil and diesel after Trump export ban threat</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-10-02 20:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/christa-pike-gty-jef-260930_1790781840090_hpMain_4x3t_384.jpg" alt="Christa Pike unconscious and on ventilator after botched execution: Attorneys" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/execution-lone-woman-tennessees-death-row-paused-federal/story?id=136893331" target="_blank">Christa Pike unconscious and on ventilator after botched execution: Attorneys</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-02 20:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/02/g-s1-146108/germany-politics-center-afd-die-linke-cdu-merz" target="_blank">Germany&#x27;s political center fights for relevance after far-right and far-left gains</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-02 19:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/061e/live/ef36beb0-be8b-11f1-888b-4d28ea12c7e2.jpg" alt="Riot police clash with students as education protests rage in France" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss" target="_blank">Riot police clash with students as education protests rage in France</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-02 17:43</span>
             </div>
         </div>
 </div>
@@ -173,6 +162,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/revanzart/a-comeback-tab-instead-of-a-streak-that-resets-3b5k" target="_blank">A Comeback Tab Instead of a Streak That Resets</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-03 05:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/susumun/queues-and-thread-pools-why-submission-order-and-completion-order-arent-the-same-1ch6" target="_blank">Queues and Thread Pools — Why Submission Order and Completion Order Aren&#x27;t the Same</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-10-03 00:02</span>
@@ -214,20 +212,20 @@
                 <span class="time">2026-10-02 16:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/" target="_blank">AI is changing developer work. Here are three skills to strengthen.</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-10-02 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-eu-is-trying-to-fight-unregulated-squid-fishing.html" target="_blank">Friday Squid Blogging: EU is Trying to Fight Unregulated Squid Fishing</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-10-02 21:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -242,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/10/on-the-boat-1280x720.jpg" alt="5 Big Things That Just Changed In The World Of Warcraft: Forever Beta" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/5-big-things-world-of-warcraft-forever-beta-2000739404" target="_blank">5 Big Things That Just Changed In The World Of Warcraft: Forever Beta</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-03 00:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/fountain-pen-gary-wolf-quantified-self-la.jpg?fit=900%2C1348&amp;quality=60&amp;ssl=1" alt="Quantified Self cofounder Gary Wolf brings his new book to Los Angeles" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +285,6 @@
                 <span class="time">2026-10-02 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/1789422459_IMG_2826231.jpg?fit=1000%2C704&amp;quality=60&amp;ssl=1" alt="Instax Pal 2: fun but pricey pocket toy camera" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/10/01/instax-pal-2-fun-but-pricey-pocket-toy-camera.html" target="_blank">Instax Pal 2: fun but pricey pocket toy camera</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-10-02 02:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,31 +317,13 @@
                 <span class="time">2026-10-02 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/accelerator_energies.png" alt="Accelerator Energies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3306/" target="_blank">Accelerator Energies</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-10-02 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5930.png" alt="Slow News Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5930" target="_blank">Slow News Day</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-10-02 01:04</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 43 | 📡 Total Sources: 40 | 📸 With Images: 261 |
-        🔄 Last Updated: 00:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 42 | 📡 Total Sources: 40 | 📸 With Images: 260 |
+        🔄 Last Updated: 05:53 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
