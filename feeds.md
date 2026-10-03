@@ -1,32 +1,48 @@
-<!-- Processing 54 RSS feeds at 2026-10-03 18:32:22 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-03 21:53:34 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 39 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Saturday, October 03, 2026 - 18:32 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Saturday, October 03, 2026 - 21:53 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +58,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af6b/live/df056910-bf62-11f1-ad02-314830f7a5f6.jpg" alt="Tories pledge to scrap £100,000 childcare &#x27;cliff edge&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss" target="_blank">Tories pledge to scrap £100,000 childcare &#x27;cliff edge&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-03 21:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/cornell-2-gty-er-221108_1667941205213_hpMain_3_4x3t_384.jpg" alt="DA&#x27;s office declined to review additional material on Cornell &#x27;gang rape&#x27; probe: Docs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,20 +112,38 @@
                 <span class="time">2026-10-03 13:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/03/nx-s1-5981300/opinion-a-hawk-is-not-the-same-as-a-hawkeye" target="_blank">Opinion: A Hawk is not the same as a Hawkeye</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-03 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/" target="_blank">Federal judge calls Flock ‘indiscriminate mass surveillance’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-10-03 19:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6ac00d9bc910b804171a679e/master/pass/GettyImages-474968764.jpg" alt="The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/" target="_blank">The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-10-03 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/1004418/capcom-ai-game-development" target="_blank">Capcom is preparing for a ‘future where we create games together with AI’</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-10-03 16:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -128,38 +171,38 @@
                 <span class="time">2026-10-03 11:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/" target="_blank">Meta wants your next gadget to be Muse-infused</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-10-03 00:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-500x500.jpg" alt="Apple changes full-disk access permissions to curb abuse from AI agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/" target="_blank">Apple changes full-disk access permissions to curb abuse from AI agents</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-10-02 23:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link" target="_blank">Meta open sources code to let you make Muse AI gadgets</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-10-02 21:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/edchapman/why-word-counters-disagree-about-the-same-text-39lb" target="_blank">Why word counters disagree about the same text</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-03 21:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/09/kagi-orion-beta-linux-406x232.webp" alt="Development has ended on Orion for Linux" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/orion-linux-browser-development-ended" target="_blank">Development has ended on Orion for Linux</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-10-03 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU" target="_blank">The Amazing Work By Valve&#x27;s Timur Kristóf On Improving Old AMD GPUs On Linux</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-03 18:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -172,60 +215,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://notoriousbfg.com/hole-punch/" target="_blank">Hole Punch: Sling your spaceship around gravitational fields</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-10-03 18:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-Latency-Short-Slice-Tasks" target="_blank">Linux Patches Show Promising Results For Lower Latency Of Short Slice Tasks</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-10-03 17:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/10/gitlab-critical-vulnerabilities/en/headerimage/gitlab-cloud-seed-preview-1791042234130.jpeg" alt="GitLab Vulnerability Under Active Exploitation Enables Unauthenticated Data Exfiltration" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/10/gitlab-critical-vulnerabilities/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">GitLab Vulnerability Under Active Exploitation Enables Unauthenticated Data Exfiltration</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-10-03 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flt87njyng8w1s7f8lcxh.png" alt="Vertical Slices: Rethinking Software Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/andr_nakamura_1328696fd1/vertical-slices-rethinking-software-architecture-1eeh" target="_blank">Vertical Slices: Rethinking Software Architecture</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-03 14:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GNOME-Moose-Local-AI" target="_blank">Moose: GNOME Gains Another Local AI App Option</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-10-03 11:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/doordash-genai-platform-architecture/en/mediumimage/SiddharthKodwaniSwaroopChitlur-medium-1790246592519.jpg" alt="Presentation: Building GenAI Platform at DoorDash" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/doordash-genai-platform-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Building GenAI Platform at DoorDash</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-10-03 11:00</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-eu-is-trying-to-fight-unregulated-squid-fishing.html" target="_blank">Friday Squid Blogging: EU is Trying to Fight Unregulated Squid Fishing</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-10-02 21:02</span>
             </div>
         </div>
 </div>
@@ -278,15 +280,6 @@
                 <span class="time">2026-10-02 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M3YYMTCM11QRQ0Q2J3NQCXF4/hero-image.jpg" alt="Changing This Setting May Extend Your Battery Life on iOS 27" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/changing-this-setting-may-save-you-battery-life-on-ios-27?utm_medium=RSS" target="_blank">Changing This Setting May Extend Your Battery Life on iOS 27</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-10-02 19:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -306,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 51 | 📡 Total Sources: 40 | 📸 With Images: 263 |
-        🔄 Last Updated: 18:32 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 46 | 📡 Total Sources: 40 | 📸 With Images: 263 |
+        🔄 Last Updated: 21:53 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
