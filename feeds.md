@@ -1,48 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-10-03 21:53:34 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-04 00:12:15 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 39 feeds processed -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Saturday, October 03, 2026 - 21:53 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Sunday, October 04, 2026 - 00:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -58,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/3/air-ambulance-missing-on-flight-from-bermuda-to-boston?traffic_source=rss" target="_blank">Air ambulance missing on flight from Bermuda to Boston</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-03 23:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/1791068535293_wnn_vca_cornell_rape_investigation_saturday_261003_S3_1920x1080-dzsmon.jpg" alt="New revelations in Cornell rape investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/new-revelations-in-cornell-rape-investigation-270969925874" target="_blank">New revelations in Cornell rape investigation</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-10-03 23:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/10/03/g-s1-146338/plane-missing-coast-guard-search-massachusetts" target="_blank">Coast Guard searching for missing medical plane carrying 6 people</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-10-03 22:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af6b/live/df056910-bf62-11f1-ad02-314830f7a5f6.jpg" alt="Tories pledge to scrap £100,000 childcare &#x27;cliff edge&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,33 +97,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss" target="_blank">Tennessee prison chief to resign after Christa Pike&#x27;s failed execution</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-10-03 17:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/3/at-least-17-people-mostly-pilgrims-killed-in-kenya-road-crash?traffic_source=rss" target="_blank">At least 17 people, mostly pilgrims, killed in Kenya road crash</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-03 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2448/live/1043b780-befe-11f1-bc2e-018d645d8d21.jpg" alt="Flydubai co-pilot attacked captain with axe, UAE official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss" target="_blank">Flydubai co-pilot attacked captain with axe, UAE official says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-03 14:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-spain-housing-protest_7367262.jpg?20261003145210" alt="Tens of thousands protest against Spain&#x27;s housing crisis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/tens-of-thousands-protest-against-spains-housing-crisis-following-eviction-of-87-year-old-woman-13594689" target="_blank">Tens of thousands protest against Spain&#x27;s housing crisis</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-10-03 13:42</span>
             </div>
         </div>
 </div>
@@ -236,6 +223,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/10/starcraftAI.jpg" alt="OpenAI’s GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead-2000739607" target="_blank">OpenAI’s GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-03 21:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/The-All-in-One-Microsoft-Office-Pro-2019-for-Windows.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Give your PC a makeover with MS Office Pro Plus 2019 and Windows 11 Pro for just $26" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/10/03/give-your-pc-a-makeover-with-ms-office-pro-plus-2019-and-windows-11-pro-for-just-26.html" target="_blank">Give your PC a makeover with MS Office Pro Plus 2019 and Windows 11 Pro for just $26</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-10-03 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/cloud-1-1280x720.jpg" alt="Final Fantasy 7 Revelation Director Says It Was ‘Absolutely Essential’ Not To Turn The Remake Into ‘My Own Personal Fan Project’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -251,33 +256,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/10/03/get-professional-coding-tools-and-ai-assistance-for-just-30-with-this-microsoft-deal.html" target="_blank">Get professional coding tools and AI assistance for just $30 with this Microsoft deal</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-10-03 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/10/on-the-boat-1280x720.jpg" alt="5 Big Things That Just Changed In The World Of Warcraft: Forever Beta" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/5-big-things-world-of-warcraft-forever-beta-2000739404" target="_blank">5 Big Things That Just Changed In The World Of Warcraft: Forever Beta</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-03 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/fountain-pen-gary-wolf-quantified-self-la.jpg?fit=900%2C1348&amp;quality=60&amp;ssl=1" alt="Quantified Self cofounder Gary Wolf brings his new book to Los Angeles" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/10/02/fountain-pen-gary-wolf-quantified-self-la.html" target="_blank">Quantified Self cofounder Gary Wolf brings his new book to Los Angeles</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-10-02 22:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M3Z3J0Z9JBFZ7C64EX06VQPN/hero-image.png" alt="The Top 10 TV Series Right Now, According to Streaming Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/the-top-10-streaming-series-september-2026?utm_medium=RSS" target="_blank">The Top 10 TV Series Right Now, According to Streaming Data</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-10-02 22:00</span>
             </div>
         </div>
 </div>
@@ -299,8 +277,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 46 | 📡 Total Sources: 40 | 📸 With Images: 263 |
-        🔄 Last Updated: 21:53 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 45 | 📡 Total Sources: 40 | 📸 With Images: 264 |
+        🔄 Last Updated: 00:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
