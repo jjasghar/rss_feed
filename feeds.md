@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-10-04 20:36:03 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-04 23:41:21 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Sunday, October 04, 2026 - 20:36 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, October 04, 2026 - 23:41 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +104,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks" target="_blank">The new Fitbit Edge leaks</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-10-04 21:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/" target="_blank">Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions</a></span>
                 <span class="feed">TechCrunch</span>
@@ -150,20 +155,29 @@
                 <span class="time">2026-10-04 12:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68563692fd268ad4c81d6dc3/master/pass/The%2014%20Best%20Office%20Chairs.png" alt="15 Best Office Chairs of 2026—We Tested 70 to Pick Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-office-chairs/" target="_blank">15 Best Office Chairs of 2026—We Tested 70 to Pick Them</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-10-04 11:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/imapphelp/my-url-to-markdown-extractor-returned-a-cookie-banner-as-the-article-body-text-density-has-no-f4k" target="_blank">My URL-to-Markdown extractor returned a cookie banner as the article body — text density has no taste</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-04 23:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-rc6-Released" target="_blank">Linux 7.3-rc6 Released: Normal For The New &quot;AI Normal&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-04 21:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fre2rxamljtpjsz7j13sk.png" alt="CiteTutor: a local Gemma tutor that verifies before it answers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -200,24 +214,6 @@
                 <span class="time">2026-10-04 12:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/10/pizza-bot-ai-agents/en/headerimage/generatedHeaderImage-1790332896027.jpg" alt="Pizza Bot: Open-Source Inbox for Background AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/10/pizza-bot-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Pizza Bot: Open-Source Inbox for Background AI Agents</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-10-04 06:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yasser_alariqi_98794255c/why-i-built-a-zero-backend-developer-utility-suite-using-nextjs-and-web-workers-40m3" target="_blank">Why I built a zero-backend developer utility suite using Next.js and Web Workers</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-04 06:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -241,24 +237,6 @@
                 <span class="time">2026-10-04 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/10/starcraftAI.jpg" alt="OpenAI’s GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead-2000739607" target="_blank">OpenAI’s GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-03 21:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/The-All-in-One-Microsoft-Office-Pro-2019-for-Windows.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Give your PC a makeover with MS Office Pro Plus 2019 and Windows 11 Pro for just $26" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/10/03/give-your-pc-a-makeover-with-ms-office-pro-plus-2019-and-windows-11-pro-for-just-26.html" target="_blank">Give your PC a makeover with MS Office Pro Plus 2019 and Windows 11 Pro for just $26</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-10-03 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -278,8 +256,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 40 | 📡 Total Sources: 40 | 📸 With Images: 269 |
-        🔄 Last Updated: 20:36 UTC
+        📊 Displayed: 21 | 📅 Last 24h: 33 | 📡 Total Sources: 40 | 📸 With Images: 267 |
+        🔄 Last Updated: 23:41 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
