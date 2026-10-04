@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-10-04 17:11:14 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-04 20:36:03 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Sunday, October 04, 2026 - 17:11 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Sunday, October 04, 2026 - 20:36 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/southern-california-heatwave-gty-bh-100426_1791118728128_hpMain_4x3t_384.jpg" alt="October heat wave continues to bake California, breaking multiple temperature records" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/37-million-people-alert-dangerous-temperatures-october-heat/story?id=136984812" target="_blank">October heat wave continues to bake California, breaking multiple temperature records</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-04 19:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +100,29 @@
                 <span class="time">2026-10-04 12:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/4/russian-strike-hits-kyiv-bridge-as-german-chancellor-visits-ukraine?traffic_source=rss" target="_blank">Russia hits Kyiv bridge as Germany’s Merz visits Ukraine’s capital</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-04 11:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/" target="_blank">Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-10-04 20:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review" target="_blank">Prick’s theatrical industrial punk is perfect for spooky season</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-10-04 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,29 +159,20 @@
                 <span class="time">2026-10-04 11:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/news-100326a-lg-500x500.jpg" alt="Milt Windler, NASA flight director who helped save Apollo 13, dies at 94" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/" target="_blank">Milt Windler, NASA flight director who helped save Apollo 13, dies at 94</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-10-03 19:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/" target="_blank">Federal judge calls Flock ‘indiscriminate mass surveillance’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-10-03 19:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fre2rxamljtpjsz7j13sk.png" alt="CiteTutor: a local Gemma tutor that verifies before it answers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/arywk40hue/citetutor-a-local-gemma-tutor-that-verifies-before-it-answers-2okd" target="_blank">CiteTutor: a local Gemma tutor that verifies before it answers</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-04 20:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/10/android-security-state-libs/en/headerimage/coder-agents-self-hosted-ai-1791130673838.jpeg" alt="Google&#x27;s Android Security State Libraries Enable Component-Level Security Verification" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -209,20 +218,20 @@
                 <span class="time">2026-10-04 06:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://news.ycombinator.com/item?id=49949438" target="_blank">Tell HN: Bob Cringely has died</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-10-04 00:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/cookie.jpg" alt="Players Who Registered Rare Japanese PC Game Invited To Secret Party Over 25 Years Later" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/players-who-registered-rare-japanese-pc-game-invited-to-secret-party-over-25-years-later-2000739658" target="_blank">Players Who Registered Rare Japanese PC Game Invited To Secret Party Over 25 Years Later</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-04 19:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/Internxt-Cloud-Storage-Lifetime-Subscription.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="One and done—get 10TB of cloud storage for a one-time $359.99 payment" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -250,13 +259,18 @@
                 <span class="time">2026-10-03 21:00</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section webcomics-section" id="webcomics">
+<h2 class="section-header">🎨 Daily Comics</h2>
+<div class="stories-container">
 <div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/cloud-1-1280x720.jpg" alt="Final Fantasy 7 Revelation Director Says It Was ‘Absolutely Essential’ Not To Turn The Remake Into ‘My Own Personal Fan Project’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1791080192-20261004.png" alt="Saturday Morning Breakfast Cereal - A" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/final-fantasy-vii-revelation-director-says-it-was-absolutely-essential-not-to-turn-the-remake-into-my-own-personal-fan-project-2000739591" target="_blank">Final Fantasy 7 Revelation Director Says It Was ‘Absolutely Essential’ Not To Turn The Remake Into ‘My Own Personal Fan Project’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-03 18:15</span>
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/a-2" target="_blank">Saturday Morning Breakfast Cereal - A</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-10-04 15:20</span>
             </div>
         </div>
 </div>
@@ -264,8 +278,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 43 | 📡 Total Sources: 40 | 📸 With Images: 267 |
-        🔄 Last Updated: 17:11 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 40 | 📡 Total Sources: 40 | 📸 With Images: 269 |
+        🔄 Last Updated: 20:36 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
