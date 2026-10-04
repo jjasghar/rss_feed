@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-10-04 12:55:41 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-04 17:11:14 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 23 feeds processed -->
+<!-- Generated 11 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Sunday, October 04, 2026 - 12:55 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Sunday, October 04, 2026 - 17:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,12 +47,48 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/4/mass-protests-demanding-poll-chief-resignation-shake-india-for-third-day?traffic_source=rss" target="_blank">Mass protests demanding poll chief resignation shake India for third day</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-04 16:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed59/live/6d89be10-bfdc-11f1-b4e6-d96c2bf27b65.jpg" alt="Green Party members back &#x27;Zionism is racism&#x27; motion" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss" target="_blank">Green Party members back &#x27;Zionism is racism&#x27; motion</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-04 16:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/10/04/nx-s1-5990789/cornell-president-calls-gang-rape-allegations-deeply-disturbing" target="_blank">Cornell president calls gang rape allegations &#x27;deeply disturbing&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-10-04 15:41</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/AP25063447148819_1791092465941_hpMain_4x3t_384.jpg" alt="US Marine arrested on suspicion of murder after &#x27;brutal and heinous&#x27; death in Japan" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/International/us-marine-detained-connection-death-japan-us-officials/story?id=136982210" target="_blank">US Marine arrested on suspicion of murder after &#x27;brutal and heinous&#x27; death in Japan</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-10-04 12:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9749/live/fb482ba0-c000-11f1-babe-4199b0e7ccea.jpg" alt="Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss" target="_blank">Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-04 12:09</span>
             </div>
         </div>
 <div class="story">
@@ -60,47 +100,29 @@
                 <span class="time">2026-10-04 11:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/04/nx-s1-5737621/fox-news-ukraine-deaths" target="_blank">She died covering war for Fox News. Her parents blame the network — and a star reporter</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-04 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/10/4/west-indies-beat-india-in-record-chase-as-hope-hit-162-in-third-odi?traffic_source=rss" target="_blank">West Indies beat India in record chase as Hope hits 162 in third ODI</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-04 05:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/875b/live/13cc5cb0-bf38-11f1-88b2-23b6d574e863.jpg" alt="Burnham scraps controversial plans to curb jury trials" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss" target="_blank">Burnham scraps controversial plans to curb jury trials</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-04 03:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261001-president-trump-vsb-2142-1bfbd1.jpg" alt="Trump, campaigning in Ohio, says the midterms will bring a ‘big surprise’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/trump-campaigning-ohio-says-midterms-will-bring-big-surprise-rcna601150" target="_blank">Trump, campaigning in Ohio, says the midterms will bring a ‘big surprise’</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-10-04 02:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/" target="_blank">TechCrunch Mobility: Reining in robotaxis</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-10-04 16:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/africa3-500x500-1791057200.jpg" alt="Lions and cheetahs and chimps, oh my: a spotlight on Africa&#x27;s diverse wildlife" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/10/lions-and-cheetahs-and-chimps-oh-my-a-spotlight-on-africas-diverse-wildlife/" target="_blank">Lions and cheetahs and chimps, oh my: a spotlight on Africa&#x27;s diverse wildlife</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-10-04 15:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,29 +159,29 @@
                 <span class="time">2026-10-03 19:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6ac00d9bc910b804171a679e/master/pass/GettyImages-474968764.jpg" alt="The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/" target="_blank">The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-10-03 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/1004418/capcom-ai-game-development" target="_blank">Capcom is preparing for a ‘future where we create games together with AI’</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-10-03 16:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/10/android-security-state-libs/en/headerimage/coder-agents-self-hosted-ai-1791130673838.jpeg" alt="Google&#x27;s Android Security State Libraries Enable Component-Level Security Verification" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/10/android-security-state-libs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google&#x27;s Android Security State Libraries Enable Component-Level Security Verification</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-10-04 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/Niko1221/Strata" target="_blank">Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-10-04 12:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,29 +218,20 @@
                 <span class="time">2026-10-04 00:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/ARM64-Linux-TLBI-Domains" target="_blank">Arm Working On &quot;TLBID&quot; For Linux To Increase Performance On High Core Count CPUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-10-04 00:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/10/open-APPA-zero-security-breach/en/headerimage/generatedHeaderImage-1791068760274.jpg" alt="New Archestra&#x27;s OpenAPPA Saturates Two Major Security Benchmarks with a 0% Attack Success Rate" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/10/open-APPA-zero-security-breach/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">New Archestra&#x27;s OpenAPPA Saturates Two Major Security Benchmarks with a 0% Attack Success Rate</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-10-03 23:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/Internxt-Cloud-Storage-Lifetime-Subscription.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="One and done—get 10TB of cloud storage for a one-time $359.99 payment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/10/04/one-and-done-get-10tb-of-cloud-storage-for-a-one-time-359-99-payment.html" target="_blank">One and done—get 10TB of cloud storage for a one-time $359.99 payment</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-10-04 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/10/starcraftAI.jpg" alt="OpenAI’s GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -246,36 +259,13 @@
                 <span class="time">2026-10-03 18:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/Microsoft-Visual-Studio-Professional-2026.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Get professional coding tools and AI assistance for just $30 with this Microsoft deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/10/03/get-professional-coding-tools-and-ai-assistance-for-just-30-with-this-microsoft-deal.html" target="_blank">Get professional coding tools and AI assistance for just $30 with this Microsoft deal</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-10-03 15:00</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section webcomics-section" id="webcomics">
-<h2 class="section-header">🎨 Daily Comics</h2>
-<div class="stories-container">
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1790818643-20261003.png" alt="Saturday Morning Breakfast Cereal - Specify" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/specify" target="_blank">Saturday Morning Breakfast Cereal - Specify</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-10-03 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 44 | 📡 Total Sources: 40 | 📸 With Images: 269 |
-        🔄 Last Updated: 12:55 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 43 | 📡 Total Sources: 40 | 📸 With Images: 267 |
+        🔄 Last Updated: 17:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
