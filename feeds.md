@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-10-04 00:12:15 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-04 06:31:25 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, October 04, 2026 - 00:12 UTC</div>
+    <div class="newspaper-date">Sunday, October 04, 2026 - 06:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/10/4/west-indies-beat-india-in-record-chase-as-hope-hit-162-in-third-odi?traffic_source=rss" target="_blank">West Indies beat India in record chase as Hope hits 162 in third ODI</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-04 05:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/875b/live/13cc5cb0-bf38-11f1-88b2-23b6d574e863.jpg" alt="Burnham scraps controversial plans to curb jury trials" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss" target="_blank">Burnham scraps controversial plans to curb jury trials</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-04 03:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/cornell-2-gty-er-221108_1667941205213_hpMain_3_4x3t_384.jpg" alt="Cornell president speaks out, says &#x27;defining moment&#x27; for university" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/tompkins-county-das-office-declined-review-additional-material/story?id=136973934" target="_blank">Cornell president speaks out, says &#x27;defining moment&#x27; for university</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-04 00:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,38 +102,20 @@
                 <span class="time">2026-10-03 22:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af6b/live/df056910-bf62-11f1-ad02-314830f7a5f6.jpg" alt="Tories pledge to scrap £100,000 childcare &#x27;cliff edge&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss" target="_blank">Tories pledge to scrap £100,000 childcare &#x27;cliff edge&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-03 21:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/cornell-2-gty-er-221108_1667941205213_hpMain_3_4x3t_384.jpg" alt="DA&#x27;s office declined to review additional material on Cornell &#x27;gang rape&#x27; probe: Docs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/tompkins-county-das-office-declined-review-additional-material/story?id=136973934" target="_blank">DA&#x27;s office declined to review additional material on Cornell &#x27;gang rape&#x27; probe: Docs</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-03 18:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5d3/live/7d12d1b0-bf45-11f1-babe-4199b0e7ccea.jpg" alt="Tennessee prison chief to resign after Christa Pike&#x27;s failed execution" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss" target="_blank">Tennessee prison chief to resign after Christa Pike&#x27;s failed execution</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-03 17:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/news-100326a-lg-500x500.jpg" alt="Milt Windler, NASA flight director who helped save Apollo 13, dies at 94" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/" target="_blank">Milt Windler, NASA flight director who helped save Apollo 13, dies at 94</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-10-03 19:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +161,47 @@
                 <span class="time">2026-10-03 14:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2261904940-500x500.jpg" alt="The dawn of the age of the exoskeleton" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/" target="_blank">The dawn of the age of the exoskeleton</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-10-03 11:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yasser_alariqi_98794255c/why-i-built-a-zero-backend-developer-utility-suite-using-nextjs-and-web-workers-40m3" target="_blank">Why I built a zero-backend developer utility suite using Next.js and Web Workers</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-04 06:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://news.ycombinator.com/item?id=49949438" target="_blank">Tell HN: Bob Cringely has died</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-10-04 00:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/ARM64-Linux-TLBI-Domains" target="_blank">Arm Working On &quot;TLBID&quot; For Linux To Increase Performance On High Core Count CPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-04 00:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/10/open-APPA-zero-security-breach/en/headerimage/generatedHeaderImage-1791068760274.jpg" alt="New Archestra&#x27;s OpenAPPA Saturates Two Major Security Benchmarks with a 0% Attack Success Rate" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/10/open-APPA-zero-security-breach/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">New Archestra&#x27;s OpenAPPA Saturates Two Major Security Benchmarks with a 0% Attack Success Rate</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-10-03 23:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -179,42 +218,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/orion-linux-browser-development-ended" target="_blank">Development has ended on Orion for Linux</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-10-03 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU" target="_blank">The Amazing Work By Valve&#x27;s Timur Kristóf On Improving Old AMD GPUs On Linux</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-10-03 18:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/onlineproxy_io/setting-up-a-socks5-proxy-server-for-automation-a-deep-dive-into-layer-5-osi-advantages-2ll9" target="_blank">Setting Up a SOCKS5 Proxy Server for Automation: A Deep Dive into Layer 5 OSI Advantages</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-03 18:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://notoriousbfg.com/hole-punch/" target="_blank">Hole Punch: Sling your spaceship around gravitational fields</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-10-03 18:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-Latency-Short-Slice-Tasks" target="_blank">Linux Patches Show Promising Results For Lower Latency Of Short Slice Tasks</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-10-03 17:25</span>
             </div>
         </div>
 </div>
@@ -277,8 +280,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 45 | 📡 Total Sources: 40 | 📸 With Images: 264 |
-        🔄 Last Updated: 00:12 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 47 | 📡 Total Sources: 40 | 📸 With Images: 266 |
+        🔄 Last Updated: 06:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
