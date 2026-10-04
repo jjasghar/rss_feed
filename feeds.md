@@ -1,38 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-10-04 06:31:25 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-04 12:55:41 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Slashdot -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Generated 9 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, October 04, 2026 - 06:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Sunday, October 04, 2026 - 12:55 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +42,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/AP25063447148819_1791092465941_hpMain_4x3t_384.jpg" alt="US Marine arrested on suspicion of murder after &#x27;brutal and heinous&#x27; death in Japan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/us-marine-detained-connection-death-japan-us-officials/story?id=136982210" target="_blank">US Marine arrested on suspicion of murder after &#x27;brutal and heinous&#x27; death in Japan</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-04 12:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/4/russian-strike-hits-kyiv-bridge-as-german-chancellor-visits-ukraine?traffic_source=rss" target="_blank">Russia hits Kyiv bridge as Germany’s Merz visits Ukraine’s capital</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-04 11:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/10/04/nx-s1-5737621/fox-news-ukraine-deaths" target="_blank">She died covering war for Fox News. Her parents blame the network — and a star reporter</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-10-04 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -67,39 +88,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/US/cornell-2-gty-er-221108_1667941205213_hpMain_3_4x3t_384.jpg" alt="Cornell president speaks out, says &#x27;defining moment&#x27; for university" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/tompkins-county-das-office-declined-review-additional-material/story?id=136973934" target="_blank">Cornell president speaks out, says &#x27;defining moment&#x27; for university</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-04 00:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/3/air-ambulance-missing-on-flight-from-bermuda-to-boston?traffic_source=rss" target="_blank">Air ambulance missing on flight from Bermuda to Boston</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-03 23:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/1791068535293_wnn_vca_cornell_rape_investigation_saturday_261003_S3_1920x1080-dzsmon.jpg" alt="New revelations in Cornell rape investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261001-president-trump-vsb-2142-1bfbd1.jpg" alt="Trump, campaigning in Ohio, says the midterms will bring a ‘big surprise’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/new-revelations-in-cornell-rape-investigation-270969925874" target="_blank">New revelations in Cornell rape investigation</a></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/trump-campaigning-ohio-says-midterms-will-bring-big-surprise-rcna601150" target="_blank">Trump, campaigning in Ohio, says the midterms will bring a ‘big surprise’</a></span>
                 <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-10-03 23:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/03/g-s1-146338/plane-missing-coast-guard-search-massachusetts" target="_blank">Coast Guard searching for missing medical plane carrying 6 people</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-03 22:31</span>
+                <span class="time">2026-10-04 02:22</span>
             </div>
         </div>
 </div>
@@ -107,6 +101,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale" target="_blank">The MacBook Air M5 is $200 off for the first time in months</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-10-04 12:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68563692fd268ad4c81d6dc3/master/pass/The%2014%20Best%20Office%20Chairs.png" alt="15 Best Office Chairs of 2026—We Tested 70 to Pick Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-office-chairs/" target="_blank">15 Best Office Chairs of 2026—We Tested 70 to Pick Them</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-10-04 11:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/news-100326a-lg-500x500.jpg" alt="Milt Windler, NASA flight director who helped save Apollo 13, dies at 94" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,29 +155,29 @@
                 <span class="time">2026-10-03 16:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/" target="_blank">Vessev built an electric ferry that almost flies</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-10-03 14:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm" target="_blank">An OpenAI safety employee has quit and is sounding the alarm</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-10-03 14:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17486309/orico-x50-review" target="_blank">ORICO X50 Review: A Sleek Thunderbolt 5 SSD Enclosure</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-10-04 12:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/10/pizza-bot-ai-agents/en/headerimage/generatedHeaderImage-1790332896027.jpg" alt="Pizza Bot: Open-Source Inbox for Background AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/10/pizza-bot-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Pizza Bot: Open-Source Inbox for Background AI Agents</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-10-04 06:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,24 +212,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/10/open-APPA-zero-security-breach/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">New Archestra&#x27;s OpenAPPA Saturates Two Major Security Benchmarks with a 0% Attack Success Rate</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-10-03 23:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/edchapman/why-word-counters-disagree-about-the-same-text-39lb" target="_blank">Why word counters disagree about the same text</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-03 21:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/09/kagi-orion-beta-linux-406x232.webp" alt="Development has ended on Orion for Linux" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/orion-linux-browser-development-ended" target="_blank">Development has ended on Orion for Linux</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-10-03 21:00</span>
             </div>
         </div>
 </div>
@@ -280,8 +274,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 47 | 📡 Total Sources: 40 | 📸 With Images: 266 |
-        🔄 Last Updated: 06:31 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 44 | 📡 Total Sources: 40 | 📸 With Images: 269 |
+        🔄 Last Updated: 12:55 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
