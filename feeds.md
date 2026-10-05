@@ -1,37 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-10-05 02:49:29 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-10-05 09:45:09 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 28 feeds processed -->
+<!-- Generated 7 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Monday, October 05, 2026 - 02:49 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Monday, October 05, 2026 - 09:45 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/supreme-1-er-260925_1790351593061_hpMain_4x3t_384.jpg" alt="As election looms, Supreme Court reconvenes to new wave of Trump cases" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/election-looms-supreme-court-reconvenes-new-wave-trump/story?id=136871786" target="_blank">As election looms, Supreme Court reconvenes to new wave of Trump cases</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-05 09:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/science/2026/oct/05/skull-fractures-suggest-servants-of-egypts-ancient-kings-were-sacrificed" target="_blank">Skull fractures suggest servants of Egypt’s ancient kings were sacrificed</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-10-05 04:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -66,6 +78,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/1791155160544_wnn_vca_cornell_rape_investigation_sunday_261004_S3_1920x1080-w0m2c4.jpg" alt="Cornell University police made drug arrest hours before alleged sexual assault" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/cornell-university-police-made-drug-arrest-hours-before-alleged-sexual-assault-270989893939" target="_blank">Cornell University police made drug arrest hours before alleged sexual assault</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-10-04 23:06</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc8f/live/fbf333b0-c037-11f1-86a1-ad5985eac783.jpg" alt="US removes all bombers from RAF Fairford base" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -74,38 +95,20 @@
                 <span class="time">2026-10-04 21:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/southern-california-heatwave-gty-bh-100426_1791118728128_hpMain_4x3t_384.jpg" alt="October heat wave continues to bake California, breaking multiple temperature records" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/37-million-people-alert-dangerous-temperatures-october-heat/story?id=136984812" target="_blank">October heat wave continues to bake California, breaking multiple temperature records</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-04 19:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/4/mass-protests-demanding-poll-chief-resignation-shake-india-for-third-day?traffic_source=rss" target="_blank">Mass protests demanding poll chief resignation shake India for third day</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-04 16:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed59/live/6d89be10-bfdc-11f1-b4e6-d96c2bf27b65.jpg" alt="Green Party members back &#x27;Zionism is racism&#x27; motion" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss" target="_blank">Green Party members back &#x27;Zionism is racism&#x27; motion</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-04 16:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6abe92d983ce388ebf1665d3/master/pass/Business_The%20Dumbest%20Prediction%20Market%20Yet%20Is%20Here,%20and%20It%20Lets%20You%20Bet%20on%20Things%20That%20Have%20Already%20Happened_v1.jpg" alt="A Prediction Market About the Past? Sure, Why Not!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/a-prediction-market-about-the-past-sure-why-not/" target="_blank">A Prediction Market About the Past? Sure, Why Not!</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-10-05 09:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +154,20 @@
                 <span class="time">2026-10-04 15:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale" target="_blank">The MacBook Air M5 is $200 off for the first time in months</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-10-04 12:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement" target="_blank">Huawei and Qualcomm Announce Broad Patent License Agreement</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-10-05 07:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,20 +213,20 @@
                 <span class="time">2026-10-04 21:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fre2rxamljtpjsz7j13sk.png" alt="CiteTutor: a local Gemma tutor that verifies before it answers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/arywk40hue/citetutor-a-local-gemma-tutor-that-verifies-before-it-answers-2okd" target="_blank">CiteTutor: a local Gemma tutor that verifies before it answers</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-04 20:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/10/skydance-1280x746.jpg" alt="Warner Bros. And Paramount Unveil New Name As Both Studios Restructure" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/warner-bros-and-paramount-unveil-new-name-as-both-studios-restructure-2000739662" target="_blank">Warner Bros. And Paramount Unveil New Name As Both Studios Restructure</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-04 21:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/cookie.jpg" alt="Players Who Registered Rare Japanese PC Game Invited To Secret Party Over 25 Years Later" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -248,6 +251,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/10/05/limited-time-offer" target="_blank">Limited-Time Offer</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-10-05 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.questionablecontent.net/comics/5931.png" alt="Priorities In Order" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -270,8 +282,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 38 | 📡 Total Sources: 40 | 📸 With Images: 266 |
-        🔄 Last Updated: 02:49 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 40 | 📡 Total Sources: 40 | 📸 With Images: 266 |
+        🔄 Last Updated: 09:45 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
