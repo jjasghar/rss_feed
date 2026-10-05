@@ -1,32 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-10-04 23:41:21 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-10-05 02:49:29 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Generated 10 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, October 04, 2026 - 23:41 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Monday, October 05, 2026 - 02:49 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/5/brazils-presidential-race-three-key-takeaways-from-the-first-round?traffic_source=rss" target="_blank">Brazil’s presidential race: Three key takeaways from the first round</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-05 01:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/10/04/nx-s1-5981181/brazil-presidential-lula-bolsonaro" target="_blank">Brazil&#x27;s presidential race heads to Lula–Bolsonaro run-off as right gains ground</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-10-05 00:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc8f/live/fbf333b0-c037-11f1-86a1-ad5985eac783.jpg" alt="US removes all bombers from RAF Fairford base" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss" target="_blank">US removes all bombers from RAF Fairford base</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-04 21:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/southern-california-heatwave-gty-bh-100426_1791118728128_hpMain_4x3t_384.jpg" alt="October heat wave continues to bake California, breaking multiple temperature records" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -67,33 +99,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss" target="_blank">Green Party members back &#x27;Zionism is racism&#x27; motion</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-10-04 16:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/04/nx-s1-5990789/cornell-president-calls-gang-rape-allegations-deeply-disturbing" target="_blank">Cornell president calls gang rape allegations &#x27;deeply disturbing&#x27;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-04 15:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/AP25063447148819_1791092465941_hpMain_4x3t_384.jpg" alt="US Marine arrested on suspicion of murder after &#x27;brutal and heinous&#x27; death in Japan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/us-marine-detained-connection-death-japan-us-officials/story?id=136982210" target="_blank">US Marine arrested on suspicion of murder after &#x27;brutal and heinous&#x27; death in Japan</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-04 12:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9749/live/fb482ba0-c000-11f1-babe-4199b0e7ccea.jpg" alt="Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss" target="_blank">Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-04 12:09</span>
             </div>
         </div>
 </div>
@@ -164,9 +169,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/deja_ilands/im-an-ilands-agent-i-fact-checked-the-agent-spam-backlash-against-its-own-primary-sources-8f7" target="_blank">I&#x27;m an iLands agent. I fact-checked the &#x27;agent spam&#x27; backlash against its own primary sources.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-05 02:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/" target="_blank">Powerless F1 drivers frustrated by Bahrain F1 software glitch</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-10-05 01:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/imapphelp/my-url-to-markdown-extractor-returned-a-cookie-banner-as-the-article-body-text-density-has-no-f4k" target="_blank">My URL-to-Markdown extractor returned a cookie banner as the article body — text density has no taste</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-10-04 23:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/10/roblox-linux-tux-sober-logo-406x232.webp" alt="Play Roblox on Linux without Wine, using Sober" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/play-roblox-linux-sober" target="_blank">Play Roblox on Linux without Wine, using Sober</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-10-04 22:59</span>
             </div>
         </div>
 <div class="story">
@@ -185,33 +217,6 @@
                 <span class="title"><a href="https://dev.to/arywk40hue/citetutor-a-local-gemma-tutor-that-verifies-before-it-answers-2okd" target="_blank">CiteTutor: a local Gemma tutor that verifies before it answers</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-10-04 20:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/10/android-security-state-libs/en/headerimage/coder-agents-self-hosted-ai-1791130673838.jpeg" alt="Google&#x27;s Android Security State Libraries Enable Component-Level Security Verification" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/10/android-security-state-libs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google&#x27;s Android Security State Libraries Enable Component-Level Security Verification</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-10-04 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/Niko1221/Strata" target="_blank">Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-10-04 12:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17486309/orico-x50-review" target="_blank">ORICO X50 Review: A Sleek Thunderbolt 5 SSD Enclosure</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-10-04 12:03</span>
             </div>
         </div>
 </div>
@@ -243,6 +248,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.questionablecontent.net/comics/5931.png" alt="Priorities In Order" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5931" target="_blank">Priorities In Order</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-10-05 00:55</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1791080192-20261004.png" alt="Saturday Morning Breakfast Cereal - A" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -256,8 +270,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 21 | 📅 Last 24h: 33 | 📡 Total Sources: 40 | 📸 With Images: 267 |
-        🔄 Last Updated: 23:41 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 38 | 📡 Total Sources: 40 | 📸 With Images: 266 |
+        🔄 Last Updated: 02:49 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
