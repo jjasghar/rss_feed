@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-10-06 19:14:02 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-10-06 23:25:33 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 13 new posts out of 24 feeds processed -->
+<!-- Generated 12 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, October 06, 2026 - 19:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, October 06, 2026 - 23:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/10/06/462030457/eva-marie-saint-on-the-waterfront-dead-102" target="_blank">Actress Eva Marie Saint, who won an Oscar for &#x27;On the Waterfront,&#x27; dies at 102</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-10-06 22:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/226c/live/7221efd0-c1c9-11f1-b8a9-47f21beea0a3.jpg" alt="US death row inmate Christa Pike awake and speaking after failed execution, lawyers say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss" target="_blank">US death row inmate Christa Pike awake and speaking after failed execution, lawyers say</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-06 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aed/live/289aad70-c1ab-11f1-8fa2-19a1e9b6288f.jpg" alt="Tear gas in Paris and Marseille as school protests grow across France" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,29 +100,29 @@
                 <span class="time">2026-10-06 13:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-plague-yersinia-pestis_7368625.jpg?20261005110731" alt="Plague risk to UK &#x27;very low&#x27;, officials say after Russian woman&#x27;s death" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/ukhsa-says-risk-of-plague-very-low-after-russian-laboratory-worker-dies-of-suspected-pneumonic-plague-13595782" target="_blank">Plague risk to UK &#x27;very low&#x27;, officials say after Russian woman&#x27;s death</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-10-06 12:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/06/g-s1-146636/what-to-know-about-nationwide-protests-in-india-over-voter-list-changes" target="_blank">What to know about nationwide protests in India over voter list changes</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-06 11:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/" target="_blank">How to find out if Amazon thinks you have ‘flat buttocks’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-10-06 22:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights" target="_blank">Xbox has secured exclusive GTA 6 streaming rights</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-10-06 22:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,24 +159,6 @@
                 <span class="time">2026-10-06 13:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" alt="Nomad Goods Promo Codes: Get 25% Off in October 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/nomad-discount-code/" target="_blank">Nomad Goods Promo Codes: Get 25% Off in October 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-10-06 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="OpenAI Is Adding Text Watermarking In ChatGPT and Codex" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://slashdot.org/story/26/10/06/0443237/openai-is-adding-text-watermarking-in-chatgpt-and-codex?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">OpenAI Is Adding Text Watermarking In ChatGPT and Codex</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -164,10 +167,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://openai.com/index/sharing-ai-progress-in-mathematics/" target="_blank">Sharing AI Progress in Mathematics</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-10-06 22:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/" target="_blank">Building Git infrastructure for agent-scale development</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-10-06 20:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Boost-Recently-Busy-CPUs" target="_blank">Meta Engineer&#x27;s Linux Patches For Boosting AMD P-State / Steam Deck Gaming Performance</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-10-06 18:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/10/06/tales-from-the-2026-developer-survey-results/" target="_blank">Tales from the 2026 Developer Survey results</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-10-06 17:00</span>
             </div>
         </div>
 <div class="story">
@@ -186,33 +216,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/scrcpy-hardware-decoding-added" target="_blank">Scrcpy 5.0 adds hardware decoding for Android mirroring</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-10-06 15:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmog35jepg2b18yc1fqjo.png" alt="Side Quests: The Outdoor Tracker" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/farhan2026/side-quests-the-outdoor-tracker-25j6" target="_blank">Side Quests: The Outdoor Tracker</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-06 13:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/IBM-Red-Hat-Java-400-Vulns" target="_blank">IBM &amp; Red Hat Find More Than 400 New Vulnerabilities In Popular Java Code</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-10-06 13:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://mistral.ai/news/mistral-large-4/\" target="_blank">Mistral Large 4</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-10-06 13:15</span>
             </div>
         </div>
 </div>
@@ -235,6 +238,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/09/Jason_and_Lucia_03.15z--1280x720.jpg" alt="Xbox Lands Exclusive Streaming Rights For GTA 6 At Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/xbox-lands-exclusive-streaming-rights-for-gta-6-at-launch-2000741146" target="_blank">Xbox Lands Exclusive Streaming Rights For GTA 6 At Launch</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-06 22:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/flowkey-Piano-Learning-App-e1791221854480.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Pay $68 for 5 years of piano lessons, right on your phone or computer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/10/06/pay-68-for-5-years-of-piano-lessons-right-on-your-phone-or-computer.html" target="_blank">Pay $68 for 5 years of piano lessons, right on your phone or computer</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-10-06 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KVZW945Z82EF3WTNQZKPR0FP/hero-image.jpg" alt="Adjustable Dumbbells Are My Favorite Home Gym Upgrade, and These Sets Are up to 36% Off for October Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -250,24 +271,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/bose-smart-ultra-soundbar-sale-october-prime-day-2026?utm_medium=RSS" target="_blank">Bose&#x27;s Premium Smart Ultra Soundbar Is Over $300 Off for October Prime Day</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-10-06 13:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/10/Ai-comedian-steal-jkokes-1280x720.jpg" alt="Viral AI-Generated Comedian Steals Jokes And Is Rewarded With Millions Of Views" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/viral-ai-generated-comedian-steals-jokes-and-is-rewarded-with-millions-of-views-2000740077" target="_blank">Viral AI-Generated Comedian Steals Jokes And Is Rewarded With Millions Of Views</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-05 22:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/FastestVPN-PRO.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Stream globally and securely with this $30 lifetime VPN" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/10/05/stream-globally-and-securely-with-this-30-lifetime-vpn.html" target="_blank">Stream globally and securely with this $30 lifetime VPN</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-10-05 21:00</span>
             </div>
         </div>
 </div>
@@ -293,22 +296,13 @@
                 <span class="time">2026-10-06 01:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/10/05/limited-time-offer" target="_blank">Limited-Time Offer</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-10-05 19:30</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 37 | 📡 Total Sources: 39 | 📸 With Images: 265 |
-        🔄 Last Updated: 19:14 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 43 | 📡 Total Sources: 39 | 📸 With Images: 263 |
+        🔄 Last Updated: 23:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
