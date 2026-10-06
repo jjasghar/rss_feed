@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-10-05 18:56:01 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-06 00:29:03 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 26 feeds processed -->
+<!-- Generated 12 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, October 05, 2026 - 18:56 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, October 06, 2026 - 00:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7744/live/83f27ce0-c0fa-11f1-812d-715b1c9a79e7.jpg" alt="Trump says &#x27;threat&#x27; led US to pull bombers from RAF Fairford" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss" target="_blank">Trump says &#x27;threat&#x27; led US to pull bombers from RAF Fairford</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-05 21:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -64,6 +75,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2026/oct/05/guardian-readers-fundraising-somalian-boy-injured-in-us-strike-surgery-abdiqadir-salah" target="_blank">Guardian readers fund life-changing surgery for Somali boy injured in US airstrike</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-10-05 12:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/cornell_1790545812977_hpMain_4x3t_384.jpg" alt="Phone calls, records suggest some Cornell students tried to contain rape allegations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -73,30 +93,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/Politics/supreme-1-er-260925_1790351593061_hpMain_4x3t_384.jpg" alt="As election looms, Supreme Court reconvenes to new wave of Trump cases" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-plague-yersinia-pestis_7368625.jpg?20261005110731" alt="US &#x27;closely monitoring&#x27; after Russian lab worker &#x27;dies of suspected plague&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/election-looms-supreme-court-reconvenes-new-wave-trump/story?id=136871786" target="_blank">As election looms, Supreme Court reconvenes to new wave of Trump cases</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-05 09:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/science/2026/oct/05/skull-fractures-suggest-servants-of-egypts-ancient-kings-were-sacrificed" target="_blank">Skull fractures suggest servants of Egypt’s ancient kings were sacrificed</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-10-05 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/5/brazils-presidential-race-three-key-takeaways-from-the-first-round?traffic_source=rss" target="_blank">Brazil’s presidential race: Three key takeaways from the first round</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-05 01:55</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/russian-laboratory-worker-dies-of-suspected-pneumonic-plague-as-200-under-medical-observation-13595297" target="_blank">US &#x27;closely monitoring&#x27; after Russian lab worker &#x27;dies of suspected plague&#x27;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-10-05 09:48</span>
             </div>
         </div>
 </div>
@@ -132,30 +134,30 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Researcher At Russian Plague Laboratory Dies of &#x27;Unknown&#x27; Infection" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks" target="_blank">The new Fitbit Edge leaks</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-10-04 21:02</span>
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://science.slashdot.org/story/26/10/05/0146222/researcher-at-russian-plague-laboratory-dies-of-unknown-infection?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Researcher At Russian Plague Laboratory Dies of &#x27;Unknown&#x27; Infection</a></span>
+                <span class="feed">Slashdot</span>
+                
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="How Python Will Test Adding Rust Into CPython" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/" target="_blank">Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-10-04 20:31</span>
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://developers.slashdot.org/story/26/10/04/2034229/how-python-will-test-adding-rust-into-cpython?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">How Python Will Test Adding Rust Into CPython</a></span>
+                <span class="feed">Slashdot</span>
+                
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="San Francisco&#x27;s Car Crime Has Plunged. How Much Credit Does Flock Deserve?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review" target="_blank">Prick’s theatrical industrial punk is perfect for spooky season</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-10-04 20:00</span>
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://yro.slashdot.org/story/26/10/03/0553234/san-franciscos-car-crime-has-plunged-how-much-credit-does-flock-deserve?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">San Francisco&#x27;s Car Crime Has Plunged. How Much Credit Does Flock Deserve?</a></span>
+                <span class="feed">Slashdot</span>
+                
             </div>
         </div>
 </div>
@@ -166,6 +168,42 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/TrueNAS-27-RC.1-Release" target="_blank">TrueNAS 27 RC.1 Released: LInux 6.18 LTS + OpenZFS 2.4</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-06 00:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jaxmonroe3187/cron-monitoring-explained-3-healthchecks-and-custom-metrics-api-trade-offs-4bj7" target="_blank">Cron Monitoring Explained: 3 Healthchecks and Custom Metrics API Trade-offs</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-06 00:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/10/hykli-email-client-gnome-406x232.webp" alt="Hylki is a modern, Rust-based email client for GNOME" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/hylki-email-client-for-gnome" target="_blank">Hylki is a modern, Rust-based email client for GNOME</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-10-05 21:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.linux.com/news/oct26-training-promo/" target="_blank">📦 Prime Day is here. Save up to 75% for 2 days only!</a></span>
+                <span class="feed">Linux.com</span>
+                <span class="time">2026-10-05 21:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/2colours/is-generative-ai-killing-or-saving-raku-37ai" target="_blank">Is generative AI killing or saving Raku?</a></span>
                 <span class="feed">DEV Community</span>
@@ -173,48 +211,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://res.infoq.com/news/2026/10/java-news-roundup-sep28-2026/en/headerimage/java-news-roundup-image-1791219262766.jpg" alt="Java News Roundup: JobRunr 9, OpenXava 8, Quarkus, LangChain4j, JNoSQL, Introducing Lathe" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Auto-CPUFreq-3.2" target="_blank">Auto-CPUFreq 3.2 Adds Configurable HWP Dynamic Boost, Platform Profile Reporting</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-10-05 15:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement" target="_blank">Huawei and Qualcomm Announce Broad Patent License Agreement</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-10-05 07:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/deja_ilands/im-an-ilands-agent-i-fact-checked-the-agent-spam-backlash-against-its-own-primary-sources-8f7" target="_blank">I&#x27;m an iLands agent. I fact-checked the &#x27;agent spam&#x27; backlash against its own primary sources.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-05 02:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/" target="_blank">Powerless F1 drivers frustrated by Bahrain F1 software glitch</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-10-05 01:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gitlab"></span>
-                <span class="title"><a href="https://about.gitlab.com/blog/module-level-access-in-a-django-grc-app/" target="_blank">Two front doors: Module-level access in a Django GRC app</a></span>
-                <span class="feed">GitLab</span>
-                <span class="time">2026-10-05 00:00</span>
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/10/java-news-roundup-sep28-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: JobRunr 9, OpenXava 8, Quarkus, LangChain4j, JNoSQL, Introducing Lathe</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-10-05 17:00</span>
             </div>
         </div>
 </div>
@@ -237,6 +239,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/FastestVPN-PRO.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Stream globally and securely with this $30 lifetime VPN" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/10/05/stream-globally-and-securely-with-this-30-lifetime-vpn.html" target="_blank">Stream globally and securely with this $30 lifetime VPN</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-10-05 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/10/overwatch-1280x720.jpg" alt="Overwatch’s Latest China Exclusive Has Fans Ready To Crash Out: ‘I Still Don’t Know How People Defend Blizzard For This’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -245,29 +256,20 @@
                 <span class="time">2026-10-05 18:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/10/skydance-1280x746.jpg" alt="Warner Bros. And Paramount Unveil New Name As Both Studios Restructure" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/warner-bros-and-paramount-unveil-new-name-as-both-studios-restructure-2000739662" target="_blank">Warner Bros. And Paramount Unveil New Name As Both Studios Restructure</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-04 21:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/cookie.jpg" alt="Players Who Registered Rare Japanese PC Game Invited To Secret Party Over 25 Years Later" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/players-who-registered-rare-japanese-pc-game-invited-to-secret-party-over-25-years-later-2000739658" target="_blank">Players Who Registered Rare Japanese PC Game Invited To Secret Party Over 25 Years Later</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-04 19:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1791080290-20261005.png" alt="Saturday Morning Breakfast Cereal - Birds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/birds" target="_blank">Saturday Morning Breakfast Cereal - Birds</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-10-05 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -291,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 33 | 📡 Total Sources: 40 | 📸 With Images: 262 |
-        🔄 Last Updated: 18:56 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 29 | 📡 Total Sources: 40 | 📸 With Images: 263 |
+        🔄 Last Updated: 00:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
