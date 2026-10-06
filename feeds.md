@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-10-06 13:56:07 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-06 19:14:02 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 14 new posts out of 28 feeds processed -->
+<!-- Generated 13 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, October 06, 2026 - 13:56 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, October 06, 2026 - 19:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aed/live/289aad70-c1ab-11f1-8fa2-19a1e9b6288f.jpg" alt="Tear gas in Paris and Marseille as school protests grow across France" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss" target="_blank">Tear gas in Paris and Marseille as school protests grow across France</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-06 18:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/384f/live/df1099d0-c169-11f1-a003-8be783290413.jpg" alt="Asos confirms hackers sent &#x27;unauthorised&#x27; notification to app users" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss" target="_blank">Asos confirms hackers sent &#x27;unauthorised&#x27; notification to app users</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-06 17:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/trump-nebraska-arrival_1791268968033_hpMain_4x3t_384.jpg" alt="Trump suggests Iran could &#x27;take out&#x27; LA and San Diego if it develops nuclear weapons" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -66,6 +80,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-plague-yersinia-pestis_7368625.jpg?20261005110731" alt="Plague risk to UK &#x27;very low&#x27;, officials say after Russian woman&#x27;s death" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/ukhsa-says-risk-of-plague-very-low-after-russian-laboratory-worker-dies-of-suspected-pneumonic-plague-13595782" target="_blank">Plague risk to UK &#x27;very low&#x27;, officials say after Russian woman&#x27;s death</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-10-06 12:45</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -74,38 +97,29 @@
                 <span class="time">2026-10-06 11:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/1791285284477_tdy_news_7a_gabe_trump_261006_S3_1920x1080-p1do1g.jpg" alt="Trump Hits 4 States in 5 Days in Final Push to November Midterms" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/trump-calls-iran-war-a-small-price-to-pay-drawing-backlash-271104069846" target="_blank">Trump Hits 4 States in 5 Days in Final Push to November Midterms</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-10-06 11:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ff2/live/9164de70-c174-11f1-babe-4199b0e7ccea.jpg" alt="Former German spy chief arrested for espionage and treason" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss" target="_blank">Former German spy chief arrested for espionage and treason</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-06 10:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/10/6/cristiano-ronaldo-portugal-nations-league-jorge-jesus?traffic_source=rss" target="_blank">Will Cristiano Ronaldo play for Portugal after a row with coach Jesus?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-06 06:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/1006092/playstation-portal-oled-wi-fi-alliance-certifications" target="_blank">Two mystery PlayStation products have leaked — one is might be a PlayStation Portal OLED</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-10-06 19:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/" target="_blank">Hark releases an AI personal assistant with a focus on privacy</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-10-06 18:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -134,24 +148,6 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/" target="_blank">Instinct brings its AI agent to group chats, even for friends without an account</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-10-05 18:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2212760356-500x500.jpg" alt="Controlling the brain with light earns a physiology Nobel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/10/controlling-the-brain-with-light-earns-a-physiology-nobel/" target="_blank">Controlling the brain with light earns a physiology Nobel</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-10-05 17:59</span>
-            </div>
-        </div>
-<div class="story">
             <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="OpenAI Is Adding Text Watermarking In ChatGPT and Codex" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-comments"></span>
@@ -165,6 +161,33 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Boost-Recently-Busy-CPUs" target="_blank">Meta Engineer&#x27;s Linux Patches For Boosting AMD P-State / Steam Deck Gaming Performance</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-06 18:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!wmBO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F55ac4f75-983e-45c6-bde0-40307f3bcd03_2048x1366.jpeg" alt="The state of the tech industry in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-state-of-the-tech-industry-in" target="_blank">The state of the tech industry in 2026</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-10-06 16:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/05/scrcpy-keep-awake-406x232.webp" alt="Scrcpy 5.0 adds hardware decoding for Android mirroring" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/scrcpy-hardware-decoding-added" target="_blank">Scrcpy 5.0 adds hardware decoding for Android mirroring</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-10-06 15:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmog35jepg2b18yc1fqjo.png" alt="Side Quests: The Outdoor Tracker" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -186,37 +209,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/TrueNAS-27-RC.1-Release" target="_blank">TrueNAS 27 RC.1 Released: LInux 6.18 LTS + OpenZFS 2.4</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-10-06 00:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jaxmonroe3187/cron-monitoring-explained-3-healthchecks-and-custom-metrics-api-trade-offs-4bj7" target="_blank">Cron Monitoring Explained: 3 Healthchecks and Custom Metrics API Trade-offs</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-06 00:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.cloudinary.com/about-gitlab-com/image/upload/v1791198870/smilnde9xskkyon7rzyn.jpg" alt="Dependency Firewall: Block risky packages before the build" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gitlab"></span>
-                <span class="title"><a href="https://about.gitlab.com/blog/transcend-dependency-firewall/" target="_blank">Dependency Firewall: Block risky packages before the build</a></span>
-                <span class="feed">GitLab</span>
-                <span class="time">2026-10-06 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/10/hykli-email-client-gnome-406x232.webp" alt="Hylki is a modern, Rust-based email client for GNOME" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/hylki-email-client-for-gnome" target="_blank">Hylki is a modern, Rust-based email client for GNOME</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-10-05 21:59</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://mistral.ai/news/mistral-large-4/\" target="_blank">Mistral Large 4</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-10-06 13:15</span>
             </div>
         </div>
 </div>
@@ -238,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KVZW945Z82EF3WTNQZKPR0FP/hero-image.jpg" alt="Adjustable Dumbbells Are My Favorite Home Gym Upgrade, and These Sets Are up to 36% Off for October Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/best-adjustable-dumbbell-deals-october-prime-day-2026?utm_medium=RSS" target="_blank">Adjustable Dumbbells Are My Favorite Home Gym Upgrade, and These Sets Are up to 36% Off for October Prime Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-10-06 18:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KV5AF54TWEK1TF8QP2A6FMX5/hero-image.png" alt="Bose&#x27;s Premium Smart Ultra Soundbar Is Over $300 Off for October Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,20 +270,29 @@
                 <span class="time">2026-10-05 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/10/overwatch-1280x720.jpg" alt="Overwatch’s Latest China Exclusive Has Fans Ready To Crash Out: ‘I Still Don’t Know How People Defend Blizzard For This’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/overwatch-china-exclusive-shion-kiriko-reaper-dmon-2000740030" target="_blank">Overwatch’s Latest China Exclusive Has Fans Ready To Crash Out: ‘I Still Don’t Know How People Defend Blizzard For This’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-05 18:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1791080404-20261006.png" alt="Saturday Morning Breakfast Cereal - Cardamom" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/cardamom" target="_blank">Saturday Morning Breakfast Cereal - Cardamom</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-10-06 15:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.questionablecontent.net/comics/5932.png" alt="NYT Bestseller" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5932" target="_blank">NYT Bestseller</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-10-06 01:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -288,22 +302,13 @@
                 <span class="time">2026-10-05 19:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1791080290-20261005.png" alt="Saturday Morning Breakfast Cereal - Birds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/birds" target="_blank">Saturday Morning Breakfast Cereal - Birds</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-10-05 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 35 | 📡 Total Sources: 39 | 📸 With Images: 263 |
-        🔄 Last Updated: 13:56 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 37 | 📡 Total Sources: 39 | 📸 With Images: 265 |
+        🔄 Last Updated: 19:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
