@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-10-06 00:29:03 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-06 06:59:10 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 28 feeds processed -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, October 06, 2026 - 00:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, October 06, 2026 - 06:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/10/6/cristiano-ronaldo-portugal-nations-league-jorge-jesus?traffic_source=rss" target="_blank">Will Cristiano Ronaldo play for Portugal after a row with coach Jesus?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-06 06:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2026/oct/06/ethiopia-tigray-conflict-tplf-rebels-forcibly-recruit-boys-war-crimes" target="_blank">Tigray rebel groups ‘forcibly recruiting boys as young as 15’ as fighting spreads</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-10-06 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-4-rt-er-261005_1791237122920_hpMain_4x3t_384.jpg" alt="Trump says his super PAC will now pay for controversial taxpayer-funded promo ads" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-super-pac-pay-controversial-promotional-ad-campaign/story?id=137019187" target="_blank">Trump says his super PAC will now pay for controversial taxpayer-funded promo ads</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-06 03:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7744/live/83f27ce0-c0fa-11f1-812d-715b1c9a79e7.jpg" alt="Trump says &#x27;threat&#x27; led US to pull bombers from RAF Fairford" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -74,38 +101,20 @@
                 <span class="time">2026-10-05 18:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2026/oct/05/guardian-readers-fundraising-somalian-boy-injured-in-us-strike-surgery-abdiqadir-salah" target="_blank">Guardian readers fund life-changing surgery for Somali boy injured in US airstrike</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-10-05 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/cornell_1790545812977_hpMain_4x3t_384.jpg" alt="Phone calls, records suggest some Cornell students tried to contain rape allegations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/damage-control-phone-calls-records-suggest-cornell-frat/story?id=136987960" target="_blank">Phone calls, records suggest some Cornell students tried to contain rape allegations</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-05 11:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-plague-yersinia-pestis_7368625.jpg?20261005110731" alt="US &#x27;closely monitoring&#x27; after Russian lab worker &#x27;dies of suspected plague&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/russian-laboratory-worker-dies-of-suspected-pneumonic-plague-as-200-under-medical-observation-13595297" target="_blank">US &#x27;closely monitoring&#x27; after Russian lab worker &#x27;dies of suspected plague&#x27;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-10-05 09:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" alt="Nomad Goods Promo Codes: Get 25% Off in October 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/nomad-discount-code/" target="_blank">Nomad Goods Promo Codes: Get 25% Off in October 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-10-06 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -134,28 +143,19 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Texas City Demands $2 Million For Public Records On Flock Usage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://news.slashdot.org/story/26/10/06/0010236/texas-city-demands-2-million-for-public-records-on-flock-usage?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Texas City Demands $2 Million For Public Records On Flock Usage</a></span>
+                <span class="feed">Slashdot</span>
+                
+            </div>
+        </div>
+<div class="story">
             <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Researcher At Russian Plague Laboratory Dies of &#x27;Unknown&#x27; Infection" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-comments"></span>
                 <span class="title"><a href="https://science.slashdot.org/story/26/10/05/0146222/researcher-at-russian-plague-laboratory-dies-of-unknown-infection?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Researcher At Russian Plague Laboratory Dies of &#x27;Unknown&#x27; Infection</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="How Python Will Test Adding Rust Into CPython" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://developers.slashdot.org/story/26/10/04/2034229/how-python-will-test-adding-rust-into-cpython?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">How Python Will Test Adding Rust Into CPython</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="San Francisco&#x27;s Car Crime Has Plunged. How Much Credit Does Flock Deserve?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://yro.slashdot.org/story/26/10/03/0553234/san-franciscos-car-crime-has-plunged-how-much-credit-does-flock-deserve?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">San Francisco&#x27;s Car Crime Has Plunged. How Much Credit Does Flock Deserve?</a></span>
                 <span class="feed">Slashdot</span>
                 
             </div>
@@ -239,6 +239,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/10/Ai-comedian-steal-jkokes-1280x720.jpg" alt="Viral AI-Generated Comedian Steals Jokes And Is Rewarded With Millions Of Views" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/viral-ai-generated-comedian-steals-jokes-and-is-rewarded-with-millions-of-views-2000740077" target="_blank">Viral AI-Generated Comedian Steals Jokes And Is Rewarded With Millions Of Views</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-05 22:33</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/FastestVPN-PRO.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Stream globally and securely with this $30 lifetime VPN" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -279,22 +288,13 @@
                 <span class="time">2026-10-05 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5931.png" alt="Priorities In Order" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5931" target="_blank">Priorities In Order</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-10-05 00:55</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 29 | 📡 Total Sources: 40 | 📸 With Images: 263 |
-        🔄 Last Updated: 00:29 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 30 | 📡 Total Sources: 40 | 📸 With Images: 263 |
+        🔄 Last Updated: 06:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
