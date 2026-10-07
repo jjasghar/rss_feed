@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-10-07 03:06:47 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-07 10:39:48 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 13 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, October 07, 2026 - 03:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, October 07, 2026 - 10:40 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,42 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f978/live/c4645470-c239-11f1-be2f-0fbd447d6e43.png" alt="Man admits sexually assaulting woman drugged by husband" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cr3wvp34v460o?at_medium=RSS&at_campaign=rss" target="_blank">Man admits sexually assaulting woman drugged by husband</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-07 10:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/planet-money/2026/10/07/g-s1-146828/who-will-win-the-2026-nobel-prize-in-economics" target="_blank">Who will win the 2026 Nobel Prize in economics?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-10-07 10:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b147/live/114ad2c0-c229-11f1-babe-4199b0e7ccea.jpg" alt="France halts use of stun grenades after boy&#x27;s hand blown off in student protests" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss" target="_blank">France halts use of stun grenades after boy&#x27;s hand blown off in student protests</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-07 10:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-vance-gty-jt-261006_1791300538710_hpMain_4x3t_384.jpg" alt="As Trump touts his economic record, Vance acknowledges Americans’ concerns" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/depends-trump-vance-offer-slightly-takes-economy/story?id=137010597" target="_blank">As Trump touts his economic record, Vance acknowledges Americans’ concerns</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-07 09:29</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -55,48 +91,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261002-collins-jackson-maine-split-ww-1744-b894ef.jpg" alt="Susan Collins and Troy Jackson clash over Trump and seniority in Maine’s first Senate debate" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-lionel-messi-argentina_7370107.jpg?20261007021912" alt="Messi scores in emotional farewell game for Argentina" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/susan-collins-troy-jackson-clash-trump-seniority-maines-first-senate-d-rcna601346" target="_blank">Susan Collins and Troy Jackson clash over Trump and seniority in Maine’s first Senate debate</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-10-07 00:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/David-Rush-ap-gmh-261006_1791322184738_hpMain_4x3t_384.jpg" alt="Former CIA officer pleads guilty to stealing nearly $200M in gold bar case" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/plea-hearing-set-former-cia-officer-allegedly-gold/story?id=137015337" target="_blank">Former CIA officer pleads guilty to stealing nearly $200M in gold bar case</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-07 00:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/06/462030457/eva-marie-saint-on-the-waterfront-dead-102" target="_blank">Actress Eva Marie Saint, who won an Oscar for &#x27;On the Waterfront,&#x27; dies at 102</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-06 22:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/226c/live/7221efd0-c1c9-11f1-b8a9-47f21beea0a3.jpg" alt="US death row inmate Christa Pike awake and speaking after failed execution, lawyers say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss" target="_blank">US death row inmate Christa Pike awake and speaking after failed execution, lawyers say</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-06 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3e2/live/b7bad510-c1a7-11f1-8fa2-19a1e9b6288f.jpg" alt="Three arrested after raid on gang accused of helping migrants pretend to be gay to get asylum" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cmp3gnd1e4gyo?at_medium=RSS&at_campaign=rss" target="_blank">Three arrested after raid on gang accused of helping migrants pretend to be gay to get asylum</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-06 19:25</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/messi-scores-in-emotional-farewell-game-for-argentina-13595970" target="_blank">Messi scores in emotional farewell game for Argentina</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-10-07 01:17</span>
             </div>
         </div>
 </div>
@@ -104,6 +104,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/" target="_blank">Spotify expands audiobooks to over 180 markets</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-10-07 07:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6abed71a8fdae86eaab61be4/master/pass/Amazon%20Prime%20Day%20Top%20Art%20102026%20Prime%20Day%20Tech%20Deals%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg" alt="I Found the 20 Best Prime Day Tech and Gadget Deals (October 2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,20 +158,29 @@
                 <span class="time">2026-10-06 19:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/" target="_blank">Hark releases an AI personal assistant with a focus on privacy</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-10-06 18:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/binbuilds0/how-to-import-your-pocket-export-into-notion-and-keep-your-tags-1i89" target="_blank">How to import your Pocket export into Notion (and keep your tags)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-07 10:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/XMFS-Linux-File-System" target="_blank">XMFS: Experimental File-System Being Worked On By Huawei For Modern Linux Servers</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-07 10:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,24 +217,6 @@
                 <span class="time">2026-10-06 18:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/10/06/tales-from-the-2026-developer-survey-results/" target="_blank">Tales from the 2026 Developer Survey results</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-10-06 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17490619/red-hat-lightwell-status-update" target="_blank">Red Hat&#x27;s Lightwell Doesn&#x27;t Wait for Upstream Maintainers to Act</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-10-06 16:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M45H1FRGZ0NANEMQ9X754ZX4/hero-image.png" alt="The Best Samsung Tech Deals for October Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-samsung-tech-deals-october-prime-day-2026?utm_medium=RSS" target="_blank">The Best Samsung Tech Deals for October Prime Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-10-07 09:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/09/Jason_and_Lucia_03.15z--1280x720.jpg" alt="Update: Xbox Denies Report It Has Exclusive Streaming Rights For GTA 6 At Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/xbox-lands-exclusive-streaming-rights-for-gta-6-at-launch-2000741146" target="_blank">Update: Xbox Denies Report It Has Exclusive Streaming Rights For GTA 6 At Launch</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-06 22:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/09/Jason_and_Lucia_03.15z--1280x720.jpg" alt="Xbox Lands Exclusive Streaming Rights For GTA 6 At Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,6 +296,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/10/07/man-made-horrors-part-one" target="_blank">Man-Made Horrors, Part One</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-10-07 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1791080404-20261006.png" alt="Saturday Morning Breakfast Cereal - Cardamom" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -291,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 45 | 📡 Total Sources: 40 | 📸 With Images: 262 |
-        🔄 Last Updated: 03:07 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 52 | 📡 Total Sources: 40 | 📸 With Images: 262 |
+        🔄 Last Updated: 10:40 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
