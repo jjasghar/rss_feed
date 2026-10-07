@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-10-06 23:25:33 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2026-10-07 03:06:47 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 28 feeds processed -->
+<!-- Generated 10 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, October 06, 2026 - 23:25 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Wednesday, October 07, 2026 - 03:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/10/7/explosion-shutters-venezuelas-second-largest-oil-refinery?traffic_source=rss" target="_blank">Explosion shutters Venezuela’s second-largest oil refinery</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-07 02:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261002-collins-jackson-maine-split-ww-1744-b894ef.jpg" alt="Susan Collins and Troy Jackson clash over Trump and seniority in Maine’s first Senate debate" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/susan-collins-troy-jackson-clash-trump-seniority-maines-first-senate-d-rcna601346" target="_blank">Susan Collins and Troy Jackson clash over Trump and seniority in Maine’s first Senate debate</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-10-07 00:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/David-Rush-ap-gmh-261006_1791322184738_hpMain_4x3t_384.jpg" alt="Former CIA officer pleads guilty to stealing nearly $200M in gold bar case" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/plea-hearing-set-former-cia-officer-allegedly-gold/story?id=137015337" target="_blank">Former CIA officer pleads guilty to stealing nearly $200M in gold bar case</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-07 00:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -65,39 +91,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aed/live/289aad70-c1ab-11f1-8fa2-19a1e9b6288f.jpg" alt="Tear gas in Paris and Marseille as school protests grow across France" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss" target="_blank">Tear gas in Paris and Marseille as school protests grow across France</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-06 18:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/384f/live/df1099d0-c169-11f1-a003-8be783290413.jpg" alt="Asos confirms hackers sent &#x27;unauthorised&#x27; notification to app users" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3e2/live/b7bad510-c1a7-11f1-8fa2-19a1e9b6288f.jpg" alt="Three arrested after raid on gang accused of helping migrants pretend to be gay to get asylum" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss" target="_blank">Asos confirms hackers sent &#x27;unauthorised&#x27; notification to app users</a></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cmp3gnd1e4gyo?at_medium=RSS&at_campaign=rss" target="_blank">Three arrested after raid on gang accused of helping migrants pretend to be gay to get asylum</a></span>
                 <span class="feed">BBC News</span>
-                <span class="time">2026-10-06 17:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/trump-nebraska-arrival_1791268968033_hpMain_4x3t_384.jpg" alt="Trump suggests Iran could &#x27;take out&#x27; LA and San Diego if it develops nuclear weapons" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-suggests-iran-los-angeles-san-diego/story?id=137024894" target="_blank">Trump suggests Iran could &#x27;take out&#x27; LA and San Diego if it develops nuclear weapons</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-06 13:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/6/demonstrators-clash-with-riot-police-in-france-as-education-protests-mount?traffic_source=rss" target="_blank">Demonstrators clash with riot police in France as education protests mount</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-06 13:28</span>
+                <span class="time">2026-10-06 19:25</span>
             </div>
         </div>
 </div>
@@ -105,6 +104,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6abed71a8fdae86eaab61be4/master/pass/Amazon%20Prime%20Day%20Top%20Art%20102026%20Prime%20Day%20Tech%20Deals%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg" alt="I Found the 20 Best Prime Day Tech and Gadget Deals (October 2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-prime-day-tech-deals-10-06-2026/" target="_blank">I Found the 20 Best Prime Day Tech and Gadget Deals (October 2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-10-07 00:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -121,6 +129,15 @@
                 <span class="title"><a href="https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights" target="_blank">Xbox has secured exclusive GTA 6 streaming rights</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-10-06 22:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Drone-strikes-on-grain-cargo-ships-near-Odesa-500x500.jpg" alt="Drones sink ships near NATO countries in “unacceptable” attacks, EU says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/10/drone-strikes-likely-russian-sink-ships-in-nato-countries-economic-zones/" target="_blank">Drones sink ships near NATO countries in “unacceptable” attacks, EU says</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-10-06 21:31</span>
             </div>
         </div>
 <div class="story">
@@ -141,29 +158,20 @@
                 <span class="time">2026-10-06 18:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/1005480/paramount-warner-bros-discovey-merger-closed" target="_blank">Paramount and Warner Bros. Discovery complete $110 billion media megamerger</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-10-06 13:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/10/06/glimpse-wants-to-give-hardware-companies-an-x-ray-view-of-every-critical-part/" target="_blank">Glimpse wants to give hardware companies an X-ray view of every critical part</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-10-06 13:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://openai.com/index/sharing-ai-progress-in-mathematics/" target="_blank">Sharing AI progress in mathematics</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-10-06 22:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,21 +209,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!wmBO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F55ac4f75-983e-45c6-bde0-40307f3bcd03_2048x1366.jpeg" alt="The state of the tech industry in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-state-of-the-tech-industry-in" target="_blank">The state of the tech industry in 2026</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-10-06 16:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/05/scrcpy-keep-awake-406x232.webp" alt="Scrcpy 5.0 adds hardware decoding for Android mirroring" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/scrcpy-hardware-decoding-added" target="_blank">Scrcpy 5.0 adds hardware decoding for Android mirroring</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-10-06 15:24</span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17490619/red-hat-lightwell-status-update" target="_blank">Red Hat&#x27;s Lightwell Doesn&#x27;t Wait for Upstream Maintainers to Act</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-10-06 16:43</span>
             </div>
         </div>
 </div>
@@ -287,22 +286,13 @@
                 <span class="time">2026-10-06 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5932.png" alt="NYT Bestseller" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5932" target="_blank">NYT Bestseller</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-10-06 01:02</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 43 | 📡 Total Sources: 39 | 📸 With Images: 263 |
-        🔄 Last Updated: 23:25 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 45 | 📡 Total Sources: 40 | 📸 With Images: 262 |
+        🔄 Last Updated: 03:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
