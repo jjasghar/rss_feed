@@ -1,39 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-10-07 17:35:21 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-10-07 22:23:14 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 15 new posts out of 30 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Generated 12 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, October 07, 2026 - 17:35 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, October 07, 2026 - 22:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +42,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9ee/live/06010330-c283-11f1-98ea-35e6bf307fc9.jpg" alt="Spanish pensioner whose eviction sparked nationwide protests dies, union says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss" target="_blank">Spanish pensioner whose eviction sparked nationwide protests dies, union says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-07 21:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/10/7/pro-palestine-university-groups-march-in-london-on-october-7-anniversary?traffic_source=rss" target="_blank">Pro-Palestine university groups march in London on October 7 anniversary</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-07 21:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-maricarmen-abascal_7370907.jpg?20261007204923" alt="The 87-year-old woman evicted from her home in Spain has died" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/woman-87-whose-eviction-triggered-snap-election-in-spain-following-housing-protests-has-died-13596292" target="_blank">The 87-year-old woman evicted from her home in Spain has died</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-10-07 18:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfc8/live/ac877ba0-c26d-11f1-b278-615cdfb74f16.png" alt="Badenoch says Tories would scrap inheritance tax on family homes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,38 +96,29 @@
                 <span class="time">2026-10-07 10:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/planet-money/2026/10/07/g-s1-146828/who-will-win-the-2026-nobel-prize-in-economics" target="_blank">Who will win the 2026 Nobel Prize in economics?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-07 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b147/live/114ad2c0-c229-11f1-babe-4199b0e7ccea.jpg" alt="France halts use of stun grenades after boy&#x27;s hand blown off in student protests" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss" target="_blank">France halts use of stun grenades after boy&#x27;s hand blown off in student protests</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-07 10:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/trump-vance-gty-jt-261006_1791300538710_hpMain_4x3t_384.jpg" alt="As Trump touts his economic record, Vance acknowledges Americans’ concerns" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/depends-trump-vance-offer-slightly-takes-economy/story?id=137010597" target="_blank">As Trump touts his economic record, Vance acknowledges Americans’ concerns</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-07 09:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/greatwave-500x500-1791408830.webp" alt="“Software is over”: Bold AI developer takes aim at Adobe with open source clones" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/" target="_blank">“Software is over”: Bold AI developer takes aim at Adobe with open source clones</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-10-07 21:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/" target="_blank">Nous Research confirms it hit $1.5B valuation, launches AI agents for business users</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-10-07 20:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,29 +155,47 @@
                 <span class="time">2026-10-07 07:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6abed71a8fdae86eaab61be4/master/pass/Amazon%20Prime%20Day%20Top%20Art%20102026%20Prime%20Day%20Tech%20Deals%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg" alt="I Found the 20 Best Prime Day Tech and Gadget Deals (October 2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-prime-day-tech-deals-10-06-2026/" target="_blank">I Found the 20 Best Prime Day Tech and Gadget Deals (October 2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-10-07 00:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/" target="_blank">How to find out if Amazon thinks you have ‘flat buttocks’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-10-06 22:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/donnnnn14/the-python-developer-workbench-and-workflow-orchestrator-that-looks-like-call-of-duty-3ldo" target="_blank">The Python Developer Workbench and Workflow Orchestrator That Looks Like Call of Duty</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-07 22:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/FEX-2610-Released" target="_blank">FEX 2610 Released With Handling For AVX-VNNI, Disk Cache Improvements</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-07 21:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.anthropic.com/claude-haiku-5-5" target="_blank">Claude Haiku 5.5</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-10-07 18:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://tech.daniellbastos.com.br/posts/python-memory-management/" target="_blank">First Steps into Memory Management in Python</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-10-07 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -183,42 +212,6 @@
                 <span class="title"><a href="https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees" target="_blank">Visa, Mastercard, Major Banks Facing New Litigation over &#x27;Anticompetitive&#x27; Fees</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-10-07 15:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17491352/vinix-overview" target="_blank">Vinix is Not a Linux Distro, But it Can Run Games, Docker, and QEMU</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-10-07 13:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/binbuilds0/how-to-import-your-pocket-export-into-notion-and-keep-your-tags-1i89" target="_blank">How to import your Pocket export into Notion (and keep your tags)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-07 10:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/XMFS-Linux-File-System" target="_blank">XMFS: Experimental File-System Being Worked On By Huawei For Modern Linux Servers</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-10-07 10:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/3-reasons-to-attend-red-hat-summit-connect" target="_blank">3 reasons to attend Red Hat Summit:Connect 2026</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2026-10-07 00:00</span>
             </div>
         </div>
 </div>
@@ -249,6 +242,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M3W7EHRTPEVYEEB563W0BDSW/hero-image.png" alt="The Best Last-Minute Deals on Outdoor Home Maintenance Power Tools Before October Prime Day Ends Tonight" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/home/last-minute-best-outdoor-home-maintenance-tools-october-prime-day-2026?utm_medium=RSS" target="_blank">The Best Last-Minute Deals on Outdoor Home Maintenance Power Tools Before October Prime Day Ends Tonight</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-10-07 22:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/10/DD2-review-top-reb-1-1280x720.jpg" alt="Dragon’s Dogma 2: Dark Arisen – The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/dragons-dogma-2-dark-arisen-the-kotaku-review-2000741106" target="_blank">Dragon’s Dogma 2: Dark Arisen – The Kotaku Review</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-07 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/trump-epstein.jpg?fit=1200%2C828&amp;quality=60&amp;ssl=1" alt="Trump wants to turn his private golf club into a presidential retreat" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,29 +296,20 @@
                 <span class="time">2026-10-06 22:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/flowkey-Piano-Learning-App-e1791221854480.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Pay $68 for 5 years of piano lessons, right on your phone or computer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/10/06/pay-68-for-5-years-of-piano-lessons-right-on-your-phone-or-computer.html" target="_blank">Pay $68 for 5 years of piano lessons, right on your phone or computer</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-10-06 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KVZW945Z82EF3WTNQZKPR0FP/hero-image.jpg" alt="Adjustable Dumbbells Are My Favorite Home Gym Upgrade, and These Sets Are up to 36% Off for October Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/best-adjustable-dumbbell-deals-october-prime-day-2026?utm_medium=RSS" target="_blank">Adjustable Dumbbells Are My Favorite Home Gym Upgrade, and These Sets Are up to 36% Off for October Prime Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-10-06 18:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/10/07/man-made-horrors-part-one" target="_blank">Man-Made Horrors, Part One</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-10-07 21:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1791333455-20261007.png" alt="Saturday Morning Breakfast Cereal - Woops" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -349,8 +351,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 47 | 📡 Total Sources: 40 | 📸 With Images: 262 |
-        🔄 Last Updated: 17:35 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 45 | 📡 Total Sources: 40 | 📸 With Images: 259 |
+        🔄 Last Updated: 22:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
