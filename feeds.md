@@ -1,30 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-10-08 09:39:48 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-10-08 17:03:27 UTC -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Error processing https://ubuntu.com/blog/feed: The read operation timed out -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 22 feeds processed -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, October 08, 2026 - 09:40 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Thursday, October 08, 2026 - 17:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +44,42 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fbb/live/79288160-c325-11f1-9981-cf94ea240e40.jpg" alt="Warrants used to search Andrew&#x27;s homes were unlawful, court says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cr1exlvpzylvo?at_medium=RSS&at_campaign=rss" target="_blank">Warrants used to search Andrew&#x27;s homes were unlawful, court says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-08 16:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/10/8/man-city-must-stick-together-after-premier-league-charges-says-haaland?traffic_source=rss" target="_blank">Man City must ‘stick together’ after Premier League charges, says Haaland</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-08 16:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-maduro-flores_7371468.jpg?20261008164255" alt="Venezuela&#x27;s Nicolas Maduro and wife face new charges" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/venezuelas-nicolas-maduro-and-wife-facing-torture-charges-13596583" target="_blank">Venezuela&#x27;s Nicolas Maduro and wife face new charges</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-10-08 15:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/1791459455994_tdy_news_7a_kube_uss_lincoln_261008_S3_1920x1080-e310sd.jpg" alt="USS Lincoln Set to Port in San Diego After Record Deployment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/uss-lincoln-set-to-port-in-san-diego-after-record-deployment-271244357608" target="_blank">USS Lincoln Set to Port in San Diego After Record Deployment</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-10-08 11:37</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/26/10/1920x1080/skynews-met-police-london_7371047.jpg?20261008080127" alt="Royal Navy serviceman accused of spying for foreign power" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
@@ -56,42 +95,6 @@
                 <span class="title"><a href="https://abcnews.com/Politics/hegseth-greets-uss-abraham-lincoln-end-record-long/story?id=137067054" target="_blank">Hegseth greets USS Abraham Lincoln near the end of record long deployment</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-10-07 23:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20df/live/ce1f37a0-c284-11f1-98ea-35e6bf307fc9.png" alt="Burnham to hold security talks with German chancellor in Berlin" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cmwyq34qexdzo?at_medium=RSS&at_campaign=rss" target="_blank">Burnham to hold security talks with German chancellor in Berlin</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-07 23:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261005-presiident-trump-vsb-2203-59f5f4.jpg" alt="DNC sues administration over taxpayer-funded pro-Trump TV ads" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/dnc-sues-administration-taxpayer-funded-trump-tv-ads-rcna602156" target="_blank">DNC sues administration over taxpayer-funded pro-Trump TV ads</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-10-07 21:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9ee/live/06010330-c283-11f1-98ea-35e6bf307fc9.jpg" alt="Spanish pensioner whose eviction sparked nationwide protests dies, union says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss" target="_blank">Spanish pensioner whose eviction sparked nationwide protests dies, union says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-07 21:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/10/7/pro-palestine-university-groups-march-in-london-on-october-7-anniversary?traffic_source=rss" target="_blank">Pro-Palestine university groups march in London on October 7 anniversary</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-07 21:33</span>
             </div>
         </div>
 </div>
@@ -159,6 +162,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fcdn.sanity.io%2Fimages%2F3oa2omis%2Fproduction%2F1a7660cb29d461af30d06de5f9b5a5ce46b3af79-1760x1012.png" alt="Qwen3.8 Flash vs Max Prime: Forge app benchmark" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mihai_leanzero/qwen38-flash-vs-max-prime-forge-app-benchmark-304l" target="_blank">Qwen3.8 Flash vs Max Prime: Forge app benchmark</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-08 17:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frs48a9kr8stumh10wpl9.png" alt="Claude Code read a file listed in .claudeignore 12 of 12 times; a Read deny rule blocked every read except grep -r" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -177,6 +189,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.cloudinary.com/about-gitlab-com/image/upload/v1790167851/bujr5fgc20p2uf8uag1z.png" alt="Track organization-wide security risk in one dashboard" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gitlab"></span>
+                <span class="title"><a href="https://about.gitlab.com/blog/security-risk-in-one-dashboard/" target="_blank">Track organization-wide security risk in one dashboard</a></span>
+                <span class="feed">GitLab</span>
+                <span class="time">2026-10-08 00:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/10/weather-2-406x232.webp" alt="A pair of flashy-looking weather extensions for GNOME Shell" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -192,47 +213,6 @@
                 <span class="title"><a href="https://dev.to/donnnnn14/the-python-developer-workbench-and-workflow-orchestrator-that-looks-like-call-of-duty-3ldo" target="_blank">The Python Developer Workbench and Workflow Orchestrator That Looks Like Call of Duty</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-10-07 22:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/FEX-2610-Released" target="_blank">FEX 2610 Released With Handling For AVX-VNNI, Disk Cache Improvements</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-10-07 21:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.anthropic.com/claude-haiku-5-5" target="_blank">Claude Haiku 5.5</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-10-07 18:01</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/" target="_blank">ShinyHunters Extorted Boeing Spin-off Prior to Arrests</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2026-10-07 13:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/10/apples-verified-photography-system.html" target="_blank">Apple’s Verified Photography System</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-10-07 11:07</span>
             </div>
         </div>
 </div>
@@ -299,22 +279,13 @@
                 <span class="time">2026-10-07 21:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1791333455-20261007.png" alt="Saturday Morning Breakfast Cereal - Woops" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/woops" target="_blank">Saturday Morning Breakfast Cereal - Woops</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-10-07 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 42 | 📡 Total Sources: 40 | 📸 With Images: 261 |
-        🔄 Last Updated: 09:40 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 33 | 📡 Total Sources: 40 | 📸 With Images: 265 |
+        🔄 Last Updated: 17:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
