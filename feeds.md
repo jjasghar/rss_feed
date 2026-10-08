@@ -1,32 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-10-08 02:20:47 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-08 09:39:48 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Generated 8 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, October 08, 2026 - 02:20 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, October 08, 2026 - 09:40 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-met-police-london_7371047.jpg?20261008080127" alt="Royal Navy serviceman accused of spying for foreign power" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/royal-navy-serviceman-charged-with-national-security-act-offences-13596375" target="_blank">Royal Navy serviceman accused of spying for foreign power</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-10-08 06:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/hegseth-1-abc-er-261007_1791410860616_hpMain_4x3t_384.jpg" alt="Hegseth greets USS Abraham Lincoln near the end of record long deployment" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,15 +94,6 @@
                 <span class="time">2026-10-07 21:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-maricarmen-abascal_7370907.jpg?20261007204923" alt="The 87-year-old woman evicted from her home in Spain has died" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/woman-87-whose-eviction-triggered-snap-election-in-spain-following-housing-protests-has-died-13596292" target="_blank">The 87-year-old woman evicted from her home in Spain has died</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-10-07 18:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -108,6 +106,15 @@
                 <span class="title"><a href="https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/" target="_blank">Robot data startup Mecka AI nabs $60M from Sequoia</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-10-07 23:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/1006837/bmw-ix4-ev-range-price-specs-tesla-china" target="_blank">BMW’s iX4 SUV is a 428-mile defensive weapon against China’s EV takeover</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-10-07 22:01</span>
             </div>
         </div>
 <div class="story">
@@ -146,15 +153,6 @@
                 <span class="time">2026-10-07 17:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/1006806/apple-watch-series-12-prime-day-deal-sale" target="_blank">The Apple Watch Series 12 is a good deal at $50 off</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-10-07 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,6 +165,24 @@
                 <span class="title"><a href="https://dev.to/rulestack/claude-code-read-a-file-listed-in-claudeignore-12-of-12-times-a-read-deny-rule-blocked-every-read-ijf" target="_blank">Claude Code read a file listed in .claudeignore 12 of 12 times; a Read deny rule blocked every read except grep -r</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-10-08 02:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Steam-Beta-Use-Proton-Default" target="_blank">Steam Beta Now Defaults Non-Steam Windows Binaries To Using Proton</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-08 01:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/10/weather-2-406x232.webp" alt="A pair of flashy-looking weather extensions for GNOME Shell" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/modern-gnome-weather-extensions" target="_blank">A pair of flashy-looking weather extensions for GNOME Shell</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-10-07 23:33</span>
             </div>
         </div>
 <div class="story">
@@ -194,24 +210,6 @@
                 <span class="title"><a href="https://www.anthropic.com/claude-haiku-5-5" target="_blank">Claude Haiku 5.5</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-10-07 18:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://tech.daniellbastos.com.br/posts/python-memory-management/" target="_blank">First Steps into Memory Management in Python</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-10-07 16:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/star-labs-starfighter" target="_blank">Star Labs StarFighter Ultra: A Modern High-End Linux Laptop With Coreboot</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-10-07 16:00</span>
             </div>
         </div>
 </div>
@@ -278,20 +276,20 @@
                 <span class="time">2026-10-07 17:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M45H1FRGZ0NANEMQ9X754ZX4/hero-image.png" alt="The Best Samsung Tech Deals for October Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-samsung-tech-deals-october-prime-day-2026?utm_medium=RSS" target="_blank">The Best Samsung Tech Deals for October Prime Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-10-07 09:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.questionablecontent.net/comics/5934.png" alt="Main Character Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5934" target="_blank">Main Character Again</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-10-08 00:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -310,31 +308,13 @@
                 <span class="time">2026-10-07 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/10/07/man-made-horrors-part-one" target="_blank">Man-Made Horrors, Part One</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-10-07 07:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/juice.png" alt="Juice" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3308/" target="_blank">Juice</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-10-07 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 41 | 📡 Total Sources: 40 | 📸 With Images: 262 |
-        🔄 Last Updated: 02:20 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 42 | 📡 Total Sources: 40 | 📸 With Images: 261 |
+        🔄 Last Updated: 09:40 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
