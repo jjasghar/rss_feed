@@ -1,33 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-10-08 17:03:27 UTC -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-10-08 22:36:09 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Error processing https://ubuntu.com/blog/feed: The read operation timed out -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 23 feeds processed -->
+<!-- Generated 15 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, October 08, 2026 - 17:03 UTC</div>
+    <div class="newspaper-date">Thursday, October 08, 2026 - 22:36 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +42,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/hasan-ap-er-261008_1791492476826_hpMain_4x3t_384.jpg" alt="Hegseth says Hasan execution will be public" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/hegseth-hasan-execution-public/story?id=137110734" target="_blank">Hegseth says Hasan execution will be public</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-08 21:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/1791491347350_now_mtp_clip_lincoln_261008_S3_1920x1080-feiinp.jpg" alt="USS Lincoln docks in San Diego after 10-month deployment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/uss-lincoln-docks-in-san-diego-after-10-month-deployment-271285829735" target="_blank">USS Lincoln docks in San Diego after 10-month deployment</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-10-08 20:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/10/08/nx-s1-5963905/suicide-black-americans-discussion-analysis" target="_blank">Suicide is up among Black Americans. We need to talk about it.</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-10-08 18:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fbb/live/79288160-c325-11f1-9981-cf94ea240e40.jpg" alt="Warrants used to search Andrew&#x27;s homes were unlawful, court says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -70,38 +96,38 @@
                 <span class="time">2026-10-08 15:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/1791459455994_tdy_news_7a_kube_uss_lincoln_261008_S3_1920x1080-e310sd.jpg" alt="USS Lincoln Set to Port in San Diego After Record Deployment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/uss-lincoln-set-to-port-in-san-diego-after-record-deployment-271244357608" target="_blank">USS Lincoln Set to Port in San Diego After Record Deployment</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-10-08 11:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-met-police-london_7371047.jpg?20261008080127" alt="Royal Navy serviceman accused of spying for foreign power" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/royal-navy-serviceman-charged-with-national-security-act-offences-13596375" target="_blank">Royal Navy serviceman accused of spying for foreign power</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-10-08 06:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/hegseth-1-abc-er-261007_1791410860616_hpMain_4x3t_384.jpg" alt="Hegseth greets USS Abraham Lincoln near the end of record long deployment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/hegseth-greets-uss-abraham-lincoln-end-record-long/story?id=137067054" target="_blank">Hegseth greets USS Abraham Lincoln near the end of record long deployment</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-07 23:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/1008530/us-government-livestream-execution-firing-squad-fort-hood" target="_blank">US plans livestream of execution by firing squad</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-10-08 22:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/starshipflight14_deploy-500x500.jpg" alt="SpaceX calls for better coordination in orbit after near-misses with Starlink" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/" target="_blank">SpaceX calls for better coordination in orbit after near-misses with Starlink</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-10-08 21:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6ac6cf6962b0c903a0cf2363/master/pass/Uncanny-Valley-Elon-Spending-Business-2297775036.jpg" alt="Inside Elon Musk’s Midterm Spending Spree" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-inside-elon-musks-midterm-spending-spree/" target="_blank">Inside Elon Musk’s Midterm Spending Spree</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-10-08 21:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -112,48 +138,21 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Emmy Awards Leave Broadcast TV For Prime Video" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/1006837/bmw-ix4-ev-range-price-specs-tesla-china" target="_blank">BMW’s iX4 SUV is a 428-mile defensive weapon against China’s EV takeover</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-10-07 22:01</span>
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://slashdot.org/story/26/10/07/043218/emmy-awards-leave-broadcast-tv-for-prime-video?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Emmy Awards Leave Broadcast TV For Prime Video</a></span>
+                <span class="feed">Slashdot</span>
+                
             </div>
         </div>
 <div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/greatwave-500x500-1791408830.webp" alt="“Software is over”: Bold AI developer takes aim at Adobe with open source clones" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="OpenAI Unleashes Hundreds More Math Results Upon a Field Already In Shock" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/" target="_blank">“Software is over”: Bold AI developer takes aim at Adobe with open source clones</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-10-07 21:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/" target="_blank">Nous Research confirms it hit $1.5B valuation, launches AI agents for business users</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-10-07 20:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/10/07/greenairy-is-building-smart-plant-towers-to-clean-the-air-in-your-office/" target="_blank">Greenairy is building smart plant towers to clean the air in your office</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-10-07 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6ac3ef9c649b084becf0e2b4/master/pass/Amazon%20Prime%20Day%20Top%20Art%20102026%20Absolute%20Best%20Prime%20Day%20Deals%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg" alt="115 Best Prime Day Deals We’re Shopping This October (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-07-2026/" target="_blank">115 Best Prime Day Deals We’re Shopping This October (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-10-07 17:17</span>
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://science.slashdot.org/story/26/10/07/1653233/openai-unleashes-hundreds-more-math-results-upon-a-field-already-in-shock?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">OpenAI Unleashes Hundreds More Math Results Upon a Field Already In Shock</a></span>
+                <span class="feed">Slashdot</span>
+                
             </div>
         </div>
 </div>
@@ -161,6 +160,24 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/EXT4-Deprecates-Journal-Mode" target="_blank">EXT4 Deprecates Its Journaled &quot;data=journal&quot; Mode</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-08 17:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/" target="_blank">How one bug bounty researcher chooses the features they investigate</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-10-08 17:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fcdn.sanity.io%2Fimages%2F3oa2omis%2Fproduction%2F1a7660cb29d461af30d06de5f9b5a5ce46b3af79-1760x1012.png" alt="Qwen3.8 Flash vs Max Prime: Forge app benchmark" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -171,48 +188,30 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frs48a9kr8stumh10wpl9.png" alt="Claude Code read a file listed in .claudeignore 12 of 12 times; a Read deny rule blocked every read except grep -r" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rulestack/claude-code-read-a-file-listed-in-claudeignore-12-of-12-times-a-read-deny-rule-blocked-every-read-ijf" target="_blank">Claude Code read a file listed in .claudeignore 12 of 12 times; a Read deny rule blocked every read except grep -r</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-08 02:17</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://cactuscompute.com/blog/whistle" target="_blank">Whistle: Speech to Text in 16.9 MB</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-10-08 16:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!u_p9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F41ad4d5f-4218-458f-863e-7cab93aa8741_1440x900.png" alt="The Pulse: new trend of building “internal vibe-coding apps” at tech companies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-new-trend-of-building-internal" target="_blank">The Pulse: new trend of building “internal vibe-coding apps” at tech companies</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-10-08 16:55</span>
             </div>
         </div>
 <div class="story">
             
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Steam-Beta-Use-Proton-Default" target="_blank">Steam Beta Now Defaults Non-Steam Windows Binaries To Using Proton</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-10-08 01:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.cloudinary.com/about-gitlab-com/image/upload/v1790167851/bujr5fgc20p2uf8uag1z.png" alt="Track organization-wide security risk in one dashboard" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gitlab"></span>
-                <span class="title"><a href="https://about.gitlab.com/blog/security-risk-in-one-dashboard/" target="_blank">Track organization-wide security risk in one dashboard</a></span>
-                <span class="feed">GitLab</span>
-                <span class="time">2026-10-08 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/10/weather-2-406x232.webp" alt="A pair of flashy-looking weather extensions for GNOME Shell" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/modern-gnome-weather-extensions" target="_blank">A pair of flashy-looking weather extensions for GNOME Shell</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-10-07 23:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/donnnnn14/the-python-developer-workbench-and-workflow-orchestrator-that-looks-like-call-of-duty-3ldo" target="_blank">The Python Developer Workbench and Workflow Orchestrator That Looks Like Call of Duty</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-07 22:21</span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17492189/foss-weekly-26-41" target="_blank">FOSS Weekly #26.41: Open Source Trouble, More Rust in Ubuntu, Adobe Photoshop&#x27;s Linux Clone, Rich CLI Tool and More</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-10-08 15:27</span>
             </div>
         </div>
 </div>
@@ -221,39 +220,12 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/06/217361ffc60d494bdd0baaecebe6dc44-1280x720.jpg" alt="It’s Going To Be A Long Time Before We Get A New Halo Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/its-going-to-be-a-long-time-before-we-get-a-new-halo-game-2000742022" target="_blank">It’s Going To Be A Long Time Before We Get A New Halo Game</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-07 22:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M3W7EHRTPEVYEEB563W0BDSW/hero-image.png" alt="The Best Last-Minute Deals on Outdoor Home Maintenance Power Tools Before October Prime Day Ends Tonight" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://lifehacker.com/imagery/articles/01M49FCHBVZKZEE380VFQ24MBY/hero-image.png" alt="This DeWalt Drill and Driver Combo Is Still 38% Off After Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/home/last-minute-best-outdoor-home-maintenance-tools-october-prime-day-2026?utm_medium=RSS" target="_blank">The Best Last-Minute Deals on Outdoor Home Maintenance Power Tools Before October Prime Day Ends Tonight</a></span>
+                <span class="title"><a href="https://lifehacker.com/home/last-minute-dewalt-drill-and-driver-combo-deal-october-prime-day-2026?utm_medium=RSS" target="_blank">This DeWalt Drill and Driver Combo Is Still 38% Off After Prime Day</a></span>
                 <span class="feed">Lifehacker</span>
-                <span class="time">2026-10-07 22:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/10/DD2-review-top-reb-1-1280x720.jpg" alt="Dragon’s Dogma 2: Dark Arisen – The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/dragons-dogma-2-dark-arisen-the-kotaku-review-2000741106" target="_blank">Dragon’s Dogma 2: Dark Arisen – The Kotaku Review</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-07 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/trump-epstein.jpg?fit=1200%2C828&amp;quality=60&amp;ssl=1" alt="Trump wants to turn his private golf club into a presidential retreat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/10/07/trump-new-camp-david-golf-club.html" target="_blank">Trump wants to turn his private golf club into a presidential retreat</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-10-07 17:04</span>
+                <span class="time">2026-10-08 20:41</span>
             </div>
         </div>
 </div>
@@ -270,22 +242,13 @@
                 <span class="time">2026-10-08 00:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/10/07/man-made-horrors-part-one" target="_blank">Man-Made Horrors, Part One</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-10-07 21:13</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 33 | 📡 Total Sources: 40 | 📸 With Images: 265 |
-        🔄 Last Updated: 17:03 UTC
+        📊 Displayed: 20 | 📅 Last 24h: 28 | 📡 Total Sources: 40 | 📸 With Images: 266 |
+        🔄 Last Updated: 22:36 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
