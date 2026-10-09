@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-10-09 09:45:46 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-09 16:41:15 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 15 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 12 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Friday, October 09, 2026 - 09:46 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, October 09, 2026 - 16:41 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -75,6 +74,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261007-west-virginia-hunger-cover-ew-544p-af63ee.jpg" alt="Food pantries overwhelmed by Trump cuts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/west-virginia-hunger-trump-cuts-food-stamps-gas-prices-iran-rcna601637" target="_blank">Food pantries overwhelmed by Trump cuts</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-10-09 09:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261007-west-virginia-hunger-cover-ew-544p-af63ee.jpg" alt="Hunger grips a rural community hit by Trump’s cuts" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
@@ -92,20 +100,38 @@
                 <span class="time">2026-10-09 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Isaias-ht-gmh-261008_1791467738196_hpMain_4x3t_384.jpg" alt="Hurricane Isaias latest: Storm strengthens to Category 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/tropical-storm-isaias-forecast-make-landfall-hurricane-friday/story?id=137059483" target="_blank">Hurricane Isaias latest: Storm strengthens to Category 2</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-09 08:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6ac8ddd09e3491cd7012831f/master/pass/Cassidy%20Hutchinson.jpg" alt="The DOJ Is Weighing Perjury Charges Against Cassidy Hutchinson" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-doj-is-weighing-perjury-charges-against-cassidy-hutchinson/" target="_blank">The DOJ Is Weighing Perjury Charges Against Cassidy Hutchinson</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-10-09 16:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/streaming/1008722/youtube-meta-twitch-government-execution-livestream" target="_blank">YouTube, Meta, and Twitch won&amp;#8217;t say if they&amp;#8217;ll allow the US government to livestream an execution</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-10-09 15:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2019/04/microsoft-logo-lights-500x500.jpg" alt="Microsoft barred from sponsoring foreign workers for US residency" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/10/trump-administration-targets-microsoft-in-new-immigration-crackdown/" target="_blank">Microsoft barred from sponsoring foreign workers for US residency</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-10-09 13:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6abd1e80dae3985b8f0ee44b/master/pass/093926-New%20Mexico%20Missle.jpg" alt="A New Mexico Community Was a Place to Build a Life. Then a Hypersonic Missile Factory Showed Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -133,38 +159,38 @@
                 <span class="time">2026-10-08 22:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/starshipflight14_deploy-500x500.jpg" alt="SpaceX calls for better coordination in orbit after near-misses with Starlink" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/" target="_blank">SpaceX calls for better coordination in orbit after near-misses with Starlink</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-10-08 21:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6ac6cf6962b0c903a0cf2363/master/pass/Uncanny-Valley-Elon-Spending-Business-2297775036.jpg" alt="Inside Elon Musk’s Midterm Spending Spree" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-inside-elon-musks-midterm-spending-spree/" target="_blank">Inside Elon Musk’s Midterm Spending Spree</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-10-08 21:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Apollo Software Pioneer Margaret Hamilton Dies at 90" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://science.slashdot.org/story/26/10/08/1923206/apollo-software-pioneer-margaret-hamilton-dies-at-90?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Apollo Software Pioneer Margaret Hamilton Dies at 90</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Shopify Upgrades Checkout Blocks to Polaris Web Components, Cutting Bundle Sizes up to 85%" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/10/shopify-web-components/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Shopify Upgrades Checkout Blocks to Polaris Web Components, Cutting Bundle Sizes up to 85%</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-10-09 15:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Python-3.15-Released" target="_blank">Python 3.15 Released With Experimental JIT Compiler Running Faster</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-09 14:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://deno.com/blog/cloudflare" target="_blank">Deno Is Joining Cloudflare</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-10-09 13:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fco4u5gf1hg2mrzqrk6vs.jpg" alt="Virtual PLC Lab: Ladder Logic Control of a Filling Tank with Factory I/O and OpenPLC over Modbus TCP" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -184,53 +210,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/10/not-photoshop-406x232.webp" alt="PhotoCraft is an open-source, AI-built clone of Photoshop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/artcraft-free-photoshop-ai-clone" target="_blank">PhotoCraft is an open-source, AI-built clone of Photoshop</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-10-08 19:25</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/EXT4-Deprecates-Journal-Mode" target="_blank">EXT4 Deprecates Its Journaled &quot;data=journal&quot; Mode</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-10-08 17:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/" target="_blank">How one bug bounty researcher chooses the features they investigate</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-10-08 17:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fcdn.sanity.io%2Fimages%2F3oa2omis%2Fproduction%2F1a7660cb29d461af30d06de5f9b5a5ce46b3af79-1760x1012.png" alt="Qwen3.8 Flash vs Max Prime: Forge app benchmark" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mihai_leanzero/qwen38-flash-vs-max-prime-forge-app-benchmark-304l" target="_blank">Qwen3.8 Flash vs Max Prime: Forge app benchmark</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-08 17:00</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/10/how-technology-empowers-and-imperils-dictators.html" target="_blank">How Technology Empowers—and Imperils—Dictators</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-10-08 11:07</span>
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/why-secure-design-new-standard-open-source" target="_blank">Why &quot;secure by design&quot; is the new standard for open source</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2026-10-09 00:00</span>
             </div>
         </div>
 </div>
@@ -238,6 +223,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/02-crimson-desert-1280x723.jpg" alt="Crimson Desert Exec Explains The Gulf Between The Mid Review Scores And The 7 Million Sales" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/crimson-desert-exec-explains-the-gulf-between-the-mid-review-scores-and-the-7-million-sales-2000743258" target="_blank">Crimson Desert Exec Explains The Gulf Between The Mid Review Scores And The 7 Million Sales</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-09 16:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2HAA4EPN6RTQFW5EHG8HX0/hero-image.png" alt="You Can Use Your iPhone As an ID in These 16 States" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/you-can-use-your-iphone-as-an-id-in-these-states?utm_medium=RSS" target="_blank">You Can Use Your iPhone As an ID in These 16 States</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-10-09 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/Screenshot-Yin-Yang-III.12.A%CE%B1.jpg?fit=1080%2C818&amp;quality=60&amp;ssl=1" alt="An atlas of periodic solutions to the three-body problem" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/10/09/an-atlas-of-periodic-solutions-to-the-three-body-problem.html" target="_blank">An atlas of periodic solutions to the three-body problem</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-10-09 14:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/vermeer.jpg?fit=1002%2C799&amp;quality=60&amp;ssl=1" alt="The FBI&#x27;s online gallery of stolen art" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,22 +300,13 @@
                 <span class="time">2026-10-09 00:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1791335436-20261008.png" alt="Saturday Morning Breakfast Cereal - Prompt" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/prompt-3" target="_blank">Saturday Morning Breakfast Cereal - Prompt</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-10-08 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 42 | 📡 Total Sources: 40 | 📸 With Images: 271 |
-        🔄 Last Updated: 09:46 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 45 | 📡 Total Sources: 40 | 📸 With Images: 273 |
+        🔄 Last Updated: 16:41 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
