@@ -1,32 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-10-08 22:36:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-09 02:38:33 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 15 new posts out of 24 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, October 08, 2026 - 22:36 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, October 09, 2026 - 02:38 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +45,42 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffe4/live/9e47b8d0-c370-11f1-b66b-bbfeb0feb741.jpg" alt="Polanski failed to show leadership over Zionism motion, ex-Green leader says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cm2d6x11l6pko?at_medium=RSS&at_campaign=rss" target="_blank">Polanski failed to show leadership over Zionism motion, ex-Green leader says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-09 02:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-09/260925-Abdul-El-Sayed-Mike-Rogers-ch-1407-504a74.jpg" alt="Sparks fly as Abdul El-Sayed and Mike Rogers face off in first Michigan Senate debate" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/sparks-fly-abdul-el-sayed-mike-rogers-first-michigan-senate-debate-rcna599866" target="_blank">Sparks fly as Abdul El-Sayed and Mike Rogers face off in first Michigan Senate debate</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-10-09 00:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/10/08/nx-s1-5995576/openai-russia-iran-influence-operations-chatgpt" target="_blank">OpenAI caught Russians and Iranians using ChatGPT for influence campaigns</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-10-09 00:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/hasan-ap-er-261008_1791492476826_hpMain_4x3t_384.jpg" alt="Hasan execution will be live-streamed, Pentagon official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/hegseth-hasan-execution-public/story?id=137110734" target="_blank">Hasan execution will be live-streamed, Pentagon official says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-09 00:12</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/Politics/hasan-ap-er-261008_1791492476826_hpMain_4x3t_384.jpg" alt="Hegseth says Hasan execution will be public" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -58,42 +96,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/uss-lincoln-docks-in-san-diego-after-10-month-deployment-271285829735" target="_blank">USS Lincoln docks in San Diego after 10-month deployment</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-10-08 20:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/08/nx-s1-5963905/suicide-black-americans-discussion-analysis" target="_blank">Suicide is up among Black Americans. We need to talk about it.</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-08 18:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fbb/live/79288160-c325-11f1-9981-cf94ea240e40.jpg" alt="Warrants used to search Andrew&#x27;s homes were unlawful, court says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cr1exlvpzylvo?at_medium=RSS&at_campaign=rss" target="_blank">Warrants used to search Andrew&#x27;s homes were unlawful, court says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-08 16:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/10/8/man-city-must-stick-together-after-premier-league-charges-says-haaland?traffic_source=rss" target="_blank">Man City must ‘stick together’ after Premier League charges, says Haaland</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-08 16:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-maduro-flores_7371468.jpg?20261008164255" alt="Venezuela&#x27;s Nicolas Maduro and wife face new charges" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/venezuelas-nicolas-maduro-and-wife-facing-torture-charges-13596583" target="_blank">Venezuela&#x27;s Nicolas Maduro and wife face new charges</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-10-08 15:29</span>
             </div>
         </div>
 </div>
@@ -129,15 +131,6 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/" target="_blank">Robot data startup Mecka AI nabs $60M from Sequoia</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-10-07 23:36</span>
-            </div>
-        </div>
-<div class="story">
             <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Emmy Awards Leave Broadcast TV For Prime Video" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-comments"></span>
@@ -155,11 +148,38 @@
                 
             </div>
         </div>
+<div class="story">
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Google, Unity Launch Platform To Create Video Games From Prompts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://games.slashdot.org/story/26/10/07/1640219/google-unity-launch-platform-to-create-video-games-from-prompts?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Google, Unity Launch Platform To Create Video Games From Prompts</a></span>
+                <span class="feed">Slashdot</span>
+                
+            </div>
+        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4x3sokh851rgw8a78272.jpg" alt="Server State vs Client State in React: Why TanStack Query Changes Everything" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devanshu_patil/server-state-vs-client-state-in-react-why-tanstack-query-changes-everything-bci" target="_blank">Server State vs Client State in React: Why TanStack Query Changes Everything</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-09 02:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/10/not-photoshop-406x232.webp" alt="PhotoCraft is an open-source, AI-built clone of Photoshop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/artcraft-free-photoshop-ai-clone" target="_blank">PhotoCraft is an open-source, AI-built clone of Photoshop</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-10-08 19:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,22 +216,18 @@
                 <span class="time">2026-10-08 16:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!u_p9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F41ad4d5f-4218-458f-863e-7cab93aa8741_1440x900.png" alt="The Pulse: new trend of building “internal vibe-coding apps” at tech companies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-new-trend-of-building-internal" target="_blank">The Pulse: new trend of building “internal vibe-coding apps” at tech companies</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-10-08 16:55</span>
-            </div>
-        </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17492189/foss-weekly-26-41" target="_blank">FOSS Weekly #26.41: Open Source Trouble, More Rust in Ubuntu, Adobe Photoshop&#x27;s Linux Clone, Rich CLI Tool and More</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-10-08 15:27</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/10/how-technology-empowers-and-imperils-dictators.html" target="_blank">How Technology Empowers—and Imperils—Dictators</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-10-08 11:07</span>
             </div>
         </div>
 </div>
@@ -219,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/10/image-265-1280x720.jpg" alt="Damn, This GTA 6 Screenshot Looks So Good People Don’t Believe It’s Real" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/damn-this-gta-6-screenshot-looks-so-good-people-dont-believe-its-real-2000742750" target="_blank">Damn, This GTA 6 Screenshot Looks So Good People Don’t Believe It’s Real</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-08 21:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01M49FCHBVZKZEE380VFQ24MBY/hero-image.png" alt="This DeWalt Drill and Driver Combo Is Still 38% Off After Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -234,12 +259,12 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
-            <img src="https://www.questionablecontent.net/comics/5934.png" alt="Main Character Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1791335436-20261008.png" alt="Saturday Morning Breakfast Cereal - Prompt" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5934" target="_blank">Main Character Again</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-10-08 00:59</span>
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/prompt-3" target="_blank">Saturday Morning Breakfast Cereal - Prompt</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-10-08 15:20</span>
             </div>
         </div>
 </div>
@@ -247,8 +272,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 20 | 📅 Last 24h: 28 | 📡 Total Sources: 40 | 📸 With Images: 266 |
-        🔄 Last Updated: 22:36 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 30 | 📡 Total Sources: 40 | 📸 With Images: 268 |
+        🔄 Last Updated: 02:38 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
