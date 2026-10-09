@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-10-09 02:38:33 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing 54 RSS feeds at 2026-10-09 09:45:46 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 15 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, October 09, 2026 - 02:38 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Friday, October 09, 2026 - 09:46 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,57 +48,57 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffe4/live/9e47b8d0-c370-11f1-b66b-bbfeb0feb741.jpg" alt="Polanski failed to show leadership over Zionism motion, ex-Green leader says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0816/live/4b8745c0-c35c-11f1-8787-a95282cfe51d.jpg" alt="Firing squad execution to be livestreamed, Pentagon says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cm2d6x11l6pko?at_medium=RSS&at_campaign=rss" target="_blank">Polanski failed to show leadership over Zionism motion, ex-Green leader says</a></span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss" target="_blank">Firing squad execution to be livestreamed, Pentagon says</a></span>
                 <span class="feed">BBC News</span>
-                <span class="time">2026-10-09 02:16</span>
+                <span class="time">2026-10-09 09:29</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-09/260925-Abdul-El-Sayed-Mike-Rogers-ch-1407-504a74.jpg" alt="Sparks fly as Abdul El-Sayed and Mike Rogers face off in first Michigan Senate debate" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/10/9/navi-pillay-wins-nobel-peace-prize?traffic_source=rss" target="_blank">Navi Pillay wins Nobel Peace Prize</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-09 09:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-navi-pillay-human-rights_7371876.jpg?20261009100818" alt="Former UN human rights chief Navi Pillay wins the Nobel Peace Prize" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/former-un-human-rights-chief-navi-pillay-wins-the-nobel-peace-prize-13596724" target="_blank">Former UN human rights chief Navi Pillay wins the Nobel Peace Prize</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-10-09 09:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261007-west-virginia-hunger-cover-ew-544p-af63ee.jpg" alt="Hunger grips a rural community hit by Trump’s cuts" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/sparks-fly-abdul-el-sayed-mike-rogers-first-michigan-senate-debate-rcna599866" target="_blank">Sparks fly as Abdul El-Sayed and Mike Rogers face off in first Michigan Senate debate</a></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/west-virginia-hunger-trump-cuts-food-stamps-gas-prices-iran-rcna601637" target="_blank">Hunger grips a rural community hit by Trump’s cuts</a></span>
                 <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-10-09 00:42</span>
+                <span class="time">2026-10-09 09:00</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/08/nx-s1-5995576/openai-russia-iran-influence-operations-chatgpt" target="_blank">OpenAI caught Russians and Iranians using ChatGPT for influence campaigns</a></span>
+                <span class="title"><a href="https://www.npr.org/2026/10/09/nx-s1-5993805/third-country-deportations-cuba" target="_blank">In Central African Republic, deported immigrants find themselves in limbo</a></span>
                 <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-09 00:25</span>
+                <span class="time">2026-10-09 09:00</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/Politics/hasan-ap-er-261008_1791492476826_hpMain_4x3t_384.jpg" alt="Hasan execution will be live-streamed, Pentagon official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://s.abcnews.com/images/US/Isaias-ht-gmh-261008_1791467738196_hpMain_4x3t_384.jpg" alt="Hurricane Isaias latest: Storm strengthens to Category 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/hegseth-hasan-execution-public/story?id=137110734" target="_blank">Hasan execution will be live-streamed, Pentagon official says</a></span>
+                <span class="title"><a href="https://abcnews.com/US/tropical-storm-isaias-forecast-make-landfall-hurricane-friday/story?id=137059483" target="_blank">Hurricane Isaias latest: Storm strengthens to Category 2</a></span>
                 <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-09 00:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/hasan-ap-er-261008_1791492476826_hpMain_4x3t_384.jpg" alt="Hegseth says Hasan execution will be public" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/hegseth-hasan-execution-public/story?id=137110734" target="_blank">Hegseth says Hasan execution will be public</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-08 21:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/1791491347350_now_mtp_clip_lincoln_261008_S3_1920x1080-feiinp.jpg" alt="USS Lincoln docks in San Diego after 10-month deployment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/uss-lincoln-docks-in-san-diego-after-10-month-deployment-271285829735" target="_blank">USS Lincoln docks in San Diego after 10-month deployment</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-10-08 20:29</span>
+                <span class="time">2026-10-09 08:24</span>
             </div>
         </div>
 </div>
@@ -103,6 +106,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6abd1e80dae3985b8f0ee44b/master/pass/093926-New%20Mexico%20Missle.jpg" alt="A New Mexico Community Was a Place to Build a Life. Then a Hypersonic Missile Factory Showed Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/a-new-mexico-community-was-a-place-to-build-a-life-then-a-hypersonic-missile-factory-showed-up/" target="_blank">A New Mexico Community Was a Place to Build a Life. Then a Hypersonic Missile Factory Showed Up</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-10-09 09:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/1008581/microsoft-365-family-premium-shared-ai-features-storage-changes" target="_blank">Microsoft 365 Family subscribers will finally be able to share AI benefits</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-10-09 07:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -131,28 +152,10 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Emmy Awards Leave Broadcast TV For Prime Video" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Apollo Software Pioneer Margaret Hamilton Dies at 90" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://slashdot.org/story/26/10/07/043218/emmy-awards-leave-broadcast-tv-for-prime-video?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Emmy Awards Leave Broadcast TV For Prime Video</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="OpenAI Unleashes Hundreds More Math Results Upon a Field Already In Shock" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://science.slashdot.org/story/26/10/07/1653233/openai-unleashes-hundreds-more-math-results-upon-a-field-already-in-shock?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">OpenAI Unleashes Hundreds More Math Results Upon a Field Already In Shock</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Google, Unity Launch Platform To Create Video Games From Prompts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://games.slashdot.org/story/26/10/07/1640219/google-unity-launch-platform-to-create-video-games-from-prompts?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Google, Unity Launch Platform To Create Video Games From Prompts</a></span>
+                <span class="title"><a href="https://science.slashdot.org/story/26/10/08/1923206/apollo-software-pioneer-margaret-hamilton-dies-at-90?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Apollo Software Pioneer Margaret Hamilton Dies at 90</a></span>
                 <span class="feed">Slashdot</span>
                 
             </div>
@@ -162,6 +165,15 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fco4u5gf1hg2mrzqrk6vs.jpg" alt="Virtual PLC Lab: Ladder Logic Control of a Filling Tank with Factory I/O and OpenPLC over Modbus TCP" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/almahmudkhalif/virtual-plc-lab-ladder-logic-control-of-a-filling-tank-with-factory-io-and-openplc-over-modbus-tcp-4m6e" target="_blank">Virtual PLC Lab: Ladder Logic Control of a Filling Tank with Factory I/O and OpenPLC over Modbus TCP</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-09 09:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4x3sokh851rgw8a78272.jpg" alt="Server State vs Client State in React: Why TanStack Query Changes Everything" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -207,15 +219,6 @@
                 <span class="time">2026-10-08 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://cactuscompute.com/blog/whistle" target="_blank">Whistle: Speech to Text in 16.9 MB</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-10-08 16:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/vermeer.jpg?fit=1002%2C799&amp;quality=60&amp;ssl=1" alt="The FBI&#x27;s online gallery of stolen art" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/10/08/the-fbis-online-gallery-of-stolen-art.html" target="_blank">The FBI&#x27;s online gallery of stolen art</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-10-08 22:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/10/image-265-1280x720.jpg" alt="Damn, This GTA 6 Screenshot Looks So Good People Don’t Believe It’s Real" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -259,6 +271,24 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/10/09/man-made-horrors-part-two" target="_blank">Man-Made Horrors, Part Two</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-10-09 07:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.questionablecontent.net/comics/5935.png" alt="The Take Factory" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5935" target="_blank">The Take Factory</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-10-09 00:57</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1791335436-20261008.png" alt="Saturday Morning Breakfast Cereal - Prompt" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -272,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 30 | 📡 Total Sources: 40 | 📸 With Images: 268 |
-        🔄 Last Updated: 02:38 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 42 | 📡 Total Sources: 40 | 📸 With Images: 271 |
+        🔄 Last Updated: 09:46 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
