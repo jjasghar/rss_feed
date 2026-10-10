@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-10-10 14:03:55 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-10 19:01:59 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Generated 13 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, October 10, 2026 - 14:04 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, October 10, 2026 - 19:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +45,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/10/10/palestinians-still-being-killed-in-gaza-one-year-into?traffic_source=rss" target="_blank">Palestinians still being killed in Gaza, one year into ‘ceasefire’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-10 18:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99c5/live/3203eb90-c4d2-11f1-a64c-550be9e3c66b.jpg" alt="&#x27;Time for Ukraine to get new president,&#x27; says Trump after Zelensky condemns diesel deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Time for Ukraine to get new president,&#x27; says Trump after Zelensky condemns diesel deal</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-10 18:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a351/live/9ceda390-c4cf-11f1-92df-35160a6c9392.png" alt="Man dies after tiger attack at wildlife park" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss" target="_blank">Man dies after tiger attack at wildlife park</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-10 18:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/1791649209112_now_spec_isaias_death_toll_261010_S3_1920x1080-p351tk.jpg" alt="Hurricane Isaias leaves at least two people dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/hurricane-isaias-leaves-at-least-two-people-dead-271390277531" target="_blank">Hurricane Isaias leaves at least two people dead</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-10-10 16:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/isaias-109_1791593790983_hpMain_4x3t_384.jpg" alt="Hurricane Isaias updates: Isaias downgraded to post-tropical cyclone" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -61,47 +99,20 @@
                 <span class="time">2026-10-10 07:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-india-demonstation_7372655.jpg?20261010081526" alt="Founder of India&#x27;s &#x27;Cockroach&#x27; movement among hundreds detained amid mass protest" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/indias-cockroach-movement-founder-detained-along-with-scores-of-protesters-13597121" target="_blank">Founder of India&#x27;s &#x27;Cockroach&#x27; movement among hundreds detained amid mass protest</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-10-10 06:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/10/10/dual-quakes-devastate-southern-panama?traffic_source=rss" target="_blank">Dual quakes devastate southern Panama</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-10 00:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/09/nx-s1-5996683/kalshi-fbi-sean-fern-money-laundering" target="_blank">Kalshi taps former FBI agent to fight against money laundering</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-09 22:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-jake-callum-robinson_7372589.jpg?20261010002747" alt="Three men found guilty of killing Australian brothers and their American friend" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/three-found-guilty-of-killing-australian-brothers-and-american-friend-on-mexico-surf-trip-13597092" target="_blank">Three men found guilty of killing Australian brothers and their American friend</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-10-09 22:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6ac7e488d45774a31ff822a9/master/pass/Kernel-Panic-AI-Getting-Really-Good-Fucking-With-Cybercriminals-Security.jpg" alt="AI Is Getting Really Good at Messing With Cybercriminals" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/" target="_blank">AI Is Getting Really Good at Messing With Cybercriminals</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-10-10 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1308927414-500x500.jpg" alt="One with the world? A new look at brains transformed by psychedelics." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,20 +158,29 @@
                 <span class="time">2026-10-09 20:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/1008991/ohio-blogger-harassment-shrek-nude" target="_blank">Ohio blogger found guilty of harassment for sending Shrek nude to senator</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-10-09 19:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/geminate_solutions_9b6035/on-prem-to-cloud-migration-rehost-replatform-or-refactor-per-app-2195" target="_blank">On-Prem to Cloud Migration: Rehost, Replatform or Refactor per App</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-10 18:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.thomas-huehn.com/knuth-reward-check" target="_blank">Knuth Reward Check</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-10-10 15:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="StrideCast" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -197,29 +217,20 @@
                 <span class="time">2026-10-10 07:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/SQLite-3.54-Released" target="_blank">SQLite 3.54 Released With Faster Performance, Drops Windows XP Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-10-10 00:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://rea.tools/" target="_blank">REA Reverse – Engineer Anything</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-10-10 00:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/" target="_blank">FBI Arrests Executive at Ransomware Negotiation Firm</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2026-10-10 00:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -243,6 +254,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/10/amandatheadventurer.jpg" alt="MatPat And Blumhouse Productions Collaborating On Amanda The Adventurer Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/matpat-and-blumhouse-productions-collaborating-on-amanda-the-adventurer-movie-2000743782" target="_blank">MatPat And Blumhouse Productions Collaborating On Amanda The Adventurer Movie</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-10 17:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/Glooin-Starter-Plan-e1791566684488.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="This Loom alternative lets you record and share your screen instantly for $25" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/10/10/this-loom-alternative-lets-you-record-and-share-your-screen-instantly-for-25.html" target="_blank">This Loom alternative lets you record and share your screen instantly for $25</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-10-10 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/picture-10.jpg?fit=394%2C352&amp;quality=60&amp;ssl=1" alt="Vectorbeam Doom" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,45 +299,18 @@
                 <span class="time">2026-10-09 19:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/02-crimson-desert-1280x723.jpg" alt="Crimson Desert Exec Explains The Gulf Between The Mid Review Scores And The 7 Million Sales" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/crimson-desert-exec-explains-the-gulf-between-the-mid-review-scores-and-the-7-million-sales-2000743258" target="_blank">Crimson Desert Exec Explains The Gulf Between The Mid Review Scores And The 7 Million Sales</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-09 16:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2HAA4EPN6RTQFW5EHG8HX0/hero-image.png" alt="You Can Use Your iPhone As an ID in These 16 States" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/you-can-use-your-iphone-as-an-id-in-these-states?utm_medium=RSS" target="_blank">You Can Use Your iPhone As an ID in These 16 States</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-10-09 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/Screenshot-Yin-Yang-III.12.A%CE%B1.jpg?fit=1080%2C818&amp;quality=60&amp;ssl=1" alt="An atlas of periodic solutions to the three-body problem" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/10/09/an-atlas-of-periodic-solutions-to-the-three-body-problem.html" target="_blank">An atlas of periodic solutions to the three-body problem</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-10-09 14:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
-            <img src="https://www.smbc-comics.com/comics/1791409897-20261009.png" alt="Saturday Morning Breakfast Cereal - Bet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1791563668-20261010.png" alt="Saturday Morning Breakfast Cereal - Relative" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/bet-2" target="_blank">Saturday Morning Breakfast Cereal - Bet</a></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/relative" target="_blank">Saturday Morning Breakfast Cereal - Relative</a></span>
                 <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-10-09 15:20</span>
+                <span class="time">2026-10-10 15:20</span>
             </div>
         </div>
 </div>
@@ -316,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 46 | 📡 Total Sources: 39 | 📸 With Images: 270 |
-        🔄 Last Updated: 14:04 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 44 | 📡 Total Sources: 39 | 📸 With Images: 271 |
+        🔄 Last Updated: 19:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
