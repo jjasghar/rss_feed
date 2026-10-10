@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-10-10 01:22:40 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-10-10 07:51:45 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 13 new posts out of 30 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, October 10, 2026 - 01:23 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Saturday, October 10, 2026 - 07:51 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +47,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eba8/live/d744ba50-c41c-11f1-a175-8928617a734f.jpg" alt="NI secretary intervenes to ban Drumcree parade" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cw23dn0xven7o?at_medium=RSS&at_campaign=rss" target="_blank">NI secretary intervenes to ban Drumcree parade</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-10 07:49</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -65,6 +71,15 @@
                 <span class="title"><a href="https://www.npr.org/2026/10/09/nx-s1-5996683/kalshi-fbi-sean-fern-money-laundering" target="_blank">Kalshi taps former FBI agent to fight against money laundering</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-10-09 22:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-jake-callum-robinson_7372589.jpg?20261010002747" alt="Three men found guilty of killing Australian brothers and their American friend" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/three-found-guilty-of-killing-australian-brothers-and-american-friend-on-mexico-surf-trip-13597092" target="_blank">Three men found guilty of killing Australian brothers and their American friend</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-10-09 22:20</span>
             </div>
         </div>
 <div class="story">
@@ -85,29 +100,20 @@
                 <span class="time">2026-10-09 21:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Isaias-26-gty-gmh-261009_1791571918657_hpMain_4x3t_384.jpg" alt="Hurricane Isaias: Life-threatening storm surge, devastating winds forecasted" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/live-updates/hurricane-isaias-updates-isaias-strengthens-category-3/?id=137128637" target="_blank">Hurricane Isaias: Life-threatening storm surge, devastating winds forecasted</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-09 20:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f10d/live/a324f3e0-c3de-11f1-a64c-550be9e3c66b.jpg" alt="Polanski vows to stay as Green leader as he faces criticism after by-election defeat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss" target="_blank">Polanski vows to stay as Green leader as he faces criticism after by-election defeat</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-09 19:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too" target="_blank">My brief romance with an AI bird feeder</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-10-10 07:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,20 +159,20 @@
                 <span class="time">2026-10-09 16:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/streaming/1008722/youtube-meta-twitch-government-execution-livestream" target="_blank">YouTube, Meta, and Twitch won&amp;#8217;t say if they&amp;#8217;ll allow the US government to livestream an execution</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-10-09 15:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft5pcm740nxlgur5pf8ar.png" alt="TrailSnack 🫐 a trail companion that runs Gemma with zero bars, and never says &quot;eat this&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aaronstark1/trailsnack-a-trail-companion-that-runs-gemma-with-zero-bars-and-never-says-eat-this-pig" target="_blank">TrailSnack 🫐 a trail companion that runs Gemma with zero bars, and never says &quot;eat this&quot;</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-10 07:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,28 +203,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ziizium/security-news-weekly-round-up-9th-october-2026-333g" target="_blank">Security news weekly round-up - 9th October 2026</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-09 21:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/10/the-document-foundation-new-logo-406x232.jpg" alt="The Document Foundation gets its own logo after 16 years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/document-foundation-new-logo" target="_blank">The Document Foundation gets its own logo after 16 years</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-10-09 20:04</span>
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://github.com/Facebook/lifeguard" target="_blank">Lifeguard: A static analyzer for Python lazy imports compatibility</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-10-09 21:44</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://borretti.me/article/no-man-is-an-island" target="_blank">No Man Is an Island</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-10-09 20:04</span>
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ziizium/security-news-weekly-round-up-9th-october-2026-333g" target="_blank">Security news weekly round-up - 9th October 2026</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-09 21:22</span>
             </div>
         </div>
 </div>
@@ -226,6 +223,15 @@
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/" target="_blank">FBI Arrests Founder of Ransomware Negotiation Firm</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2026-10-10 00:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.schneier.com/wp-content/uploads/2026/10/IMG_5299-300w.jpg" alt="Friday Squid Blogging: I Caught a Squid" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -300,21 +306,12 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
-            
+            <img src="https://www.smbc-comics.com/comics/1791409897-20261009.png" alt="Saturday Morning Breakfast Cereal - Bet" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/10/09/man-made-horrors-part-two" target="_blank">Man-Made Horrors, Part Two</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-10-09 07:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/dogcatcher.png" alt="Dogcatcher" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3309/" target="_blank">Dogcatcher</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-10-09 04:00</span>
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/bet-2" target="_blank">Saturday Morning Breakfast Cereal - Bet</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-10-09 15:20</span>
             </div>
         </div>
 </div>
@@ -322,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 49 | 📡 Total Sources: 40 | 📸 With Images: 271 |
-        🔄 Last Updated: 01:23 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 50 | 📡 Total Sources: 40 | 📸 With Images: 270 |
+        🔄 Last Updated: 07:51 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
