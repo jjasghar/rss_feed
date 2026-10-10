@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-10-10 19:01:59 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-10 23:02:31 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 13 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Saturday, October 10, 2026 - 19:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, October 10, 2026 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/florida-trees-power-lines-ap-jt-261010_1791644015301_hpMain_4x3t_384.jpg" alt="Hurricane Isaias updates: At least 4 dead as Isaias downgraded" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/live-updates/hurricane-isaias-updates-isaias-strengthens-category-3/?id=137128637" target="_blank">Hurricane Isaias updates: At least 4 dead as Isaias downgraded</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-10 21:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +97,29 @@
                 <span class="time">2026-10-10 13:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eba8/live/d744ba50-c41c-11f1-a175-8928617a734f.jpg" alt="NI secretary intervenes to ban Drumcree parade" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cw23dn0xven7o?at_medium=RSS&at_campaign=rss" target="_blank">NI secretary intervenes to ban Drumcree parade</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-10 07:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised" target="_blank">Satya Nadella says we should assume all AI models are ‘compromised’</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-10-10 22:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/" target="_blank">Microsoft’s Satya Nadella says AI models need an ‘emergency brake’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-10-10 21:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6ac7e488d45774a31ff822a9/master/pass/Kernel-Panic-AI-Getting-Really-Good-Fucking-With-Cybercriminals-Security.jpg" alt="AI Is Getting Really Good at Messing With Cybercriminals" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,24 +154,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/" target="_blank">Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-10-10 00:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-500x500.png" alt="Neanderthal wooden tools from Spain found preserved in stone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/" target="_blank">Neanderthal wooden tools from Spain found preserved in stone</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-10-09 22:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6ac9386f3122e744c08a4121/master/pass/GettyImages-1228358583.jpg" alt="Tesla’s ‘Full Self-Driving’ Becomes ‘Assisted Driving’ in Europe" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/tesla-full-self-driving-becomes-assisted-driving-in-europe/" target="_blank">Tesla’s ‘Full Self-Driving’ Becomes ‘Assisted Driving’ in Europe</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-10-09 20:18</span>
             </div>
         </div>
 </div>
@@ -240,20 +238,20 @@
                 <span class="time">2026-10-10 00:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.schneier.com/wp-content/uploads/2026/10/IMG_5299-300w.jpg" alt="Friday Squid Blogging: I Caught a Squid" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-i-caught-a-squid.html" target="_blank">Friday Squid Blogging: I Caught a Squid</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-10-09 20:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/Microsoft-Windows-11-Pro-e1791566641524.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Windows 11 Pro: Access advanced professional tools for $8" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/10/10/windows-11-pro-access-advanced-professional-tools-for-8.html" target="_blank">Windows 11 Pro: Access advanced professional tools for $8</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-10-10 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/10/amandatheadventurer.jpg" alt="MatPat And Blumhouse Productions Collaborating On Amanda The Adventurer Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,24 +279,6 @@
                 <span class="time">2026-10-09 23:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/10/Vibecoded-Call-of-Duty-Black-Ops-web-browser-port-Kotaku-1280x720.jpg" alt="We Might Be Cooked, As These Vibe-Coded Web Browser Ports Of Halo, The Simpsons: Hit And Run, And GTA: Vice City Seem To Work Perfectly" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300" target="_blank">We Might Be Cooked, As These Vibe-Coded Web Browser Ports Of Halo, The Simpsons: Hit And Run, And GTA: Vice City Seem To Work Perfectly</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-09 21:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M4GZ2V33ZMYH0SEKEHNAY31Q/hero-image.jpg" alt="Five New Features Coming to Your iPhone in iOS 27.2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/new-features-coming-to-iphone-ios-272?utm_medium=RSS" target="_blank">Five New Features Coming to Your iPhone in iOS 27.2</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-10-09 19:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 44 | 📡 Total Sources: 39 | 📸 With Images: 271 |
-        🔄 Last Updated: 19:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 31 | 📡 Total Sources: 40 | 📸 With Images: 271 |
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
