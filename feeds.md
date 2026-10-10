@@ -1,33 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-10-09 21:23:49 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-10 01:22:40 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 15 new posts out of 25 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 13 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, October 09, 2026 - 21:24 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, October 10, 2026 - 01:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/10/10/dual-quakes-devastate-southern-panama?traffic_source=rss" target="_blank">Dual quakes devastate southern Panama</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-10 00:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/10/09/nx-s1-5996683/kalshi-fbi-sean-fern-money-laundering" target="_blank">Kalshi taps former FBI agent to fight against money laundering</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-10-09 22:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/Isaias-11-abc-gmh-261009_1791558602736_hpMain_4x3t_384.jpg" alt="LIVE:  Tracking Hurricane Isaias: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  Tracking Hurricane Isaias: ABC News Live</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-09 21:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -70,38 +103,29 @@
                 <span class="time">2026-10-09 19:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/09/nx-s1-5996529/firing-squad-livestream-execution-fort-hood-shooter" target="_blank">The U.S. last held a public execution in the 1930s. The Pentagon wants to change that</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-09 18:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize" target="_blank">ICJ judge Navi Pillay wins Nobel peace prize for promoting international law</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-10-09 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0816/live/4b8745c0-c35c-11f1-8787-a95282cfe51d.jpg" alt="Firing squad execution to be livestreamed, Pentagon says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss" target="_blank">Firing squad execution to be livestreamed, Pentagon says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-09 09:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/" target="_blank">Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-10-10 00:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-500x500.png" alt="Neanderthal wooden tools from Spain found preserved in stone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/" target="_blank">Neanderthal wooden tools from Spain found preserved in stone</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-10-09 22:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6ac9386f3122e744c08a4121/master/pass/GettyImages-1228358583.jpg" alt="Tesla’s ‘Full Self-Driving’ Becomes ‘Assisted Driving’ in Europe" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,29 +162,38 @@
                 <span class="time">2026-10-09 15:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2019/04/microsoft-logo-lights-500x500.jpg" alt="Microsoft barred from sponsoring foreign workers for US residency" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/10/trump-administration-targets-microsoft-in-new-immigration-crackdown/" target="_blank">Microsoft barred from sponsoring foreign workers for US residency</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-10-09 13:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6abd1e80dae3985b8f0ee44b/master/pass/093926-New%20Mexico%20Missle.jpg" alt="A New Mexico Community Was a Place to Build a Life. Then a Hypersonic Missile Factory Showed Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/a-new-mexico-community-was-a-place-to-build-a-life-then-a-hypersonic-missile-factory-showed-up/" target="_blank">A New Mexico Community Was a Place to Build a Life. Then a Hypersonic Missile Factory Showed Up</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-10-09 09:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/SQLite-3.54-Released" target="_blank">SQLite 3.54 Released With Faster Performance, Drops Windows XP Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-10 00:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://rea.tools/" target="_blank">REA Reverse – Engineer Anything</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-10-10 00:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2025/07/ESWIN-EBC77-RISC-V-single-board-computer-406x232.jpg" alt="Ubuntu now has official desktop images for RISC-V" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/ubuntu-desktop-riscv-iso" target="_blank">Ubuntu now has official desktop images for RISC-V</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-10-10 00:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -188,33 +221,6 @@
                 <span class="time">2026-10-09 20:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/10/android-bench-2/en/headerimage/cloudflare-computer-agents-1791561634896.jpeg" alt="Android Bench 2 Adds Support for Long-Horizon Tasks, Agentic Evaluation, and Continuous Scoring" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/10/android-bench-2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Android Bench 2 Adds Support for Long-Horizon Tasks, Agentic Evaluation, and Continuous Scoring</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-10-09 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/developer-skills/career-growth/hack-the-world-why-hackathons-are-still-the-best-place-to-learn-to-build/" target="_blank">Hack the World: Why hackathons are still the best place to learn to build</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-10-09 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Shopify Upgrades Checkout Blocks to Polaris Web Components, Cutting Bundle Sizes up to 85%" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/10/shopify-web-components/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Shopify Upgrades Checkout Blocks to Polaris Web Components, Cutting Bundle Sizes up to 85%</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-10-09 15:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +240,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/picture-10.jpg?fit=394%2C352&amp;quality=60&amp;ssl=1" alt="Vectorbeam Doom" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/10/09/vectorbeam-doom.html" target="_blank">Vectorbeam Doom</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-10-09 23:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/10/Vibecoded-Call-of-Duty-Black-Ops-web-browser-port-Kotaku-1280x720.jpg" alt="We Might Be Cooked, As These Vibe-Coded Web Browser Ports Of Halo, The Simpsons: Hit And Run, And GTA: Vice City Seem To Work Perfectly" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300" target="_blank">We Might Be Cooked, As These Vibe-Coded Web Browser Ports Of Halo, The Simpsons: Hit And Run, And GTA: Vice City Seem To Work Perfectly</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-09 21:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01M4GZ2V33ZMYH0SEKEHNAY31Q/hero-image.jpg" alt="Five New Features Coming to Your iPhone in iOS 27.2" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,24 +294,6 @@
                 <span class="time">2026-10-09 14:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/vermeer.jpg?fit=1002%2C799&amp;quality=60&amp;ssl=1" alt="The FBI&#x27;s online gallery of stolen art" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/10/08/the-fbis-online-gallery-of-stolen-art.html" target="_blank">The FBI&#x27;s online gallery of stolen art</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-10-08 22:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/10/image-265-1280x720.jpg" alt="Damn, This GTA 6 Screenshot Looks So Good People Don’t Believe It’s Real" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/damn-this-gta-6-screenshot-looks-so-good-people-dont-believe-its-real-2000742750" target="_blank">Damn, This GTA 6 Screenshot Looks So Good People Don’t Believe It’s Real</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-08 21:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -303,12 +309,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://www.questionablecontent.net/comics/5935.png" alt="The Take Factory" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://imgs.xkcd.com/comics/dogcatcher.png" alt="Dogcatcher" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5935" target="_blank">The Take Factory</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-10-09 00:57</span>
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3309/" target="_blank">Dogcatcher</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-10-09 04:00</span>
             </div>
         </div>
 </div>
@@ -316,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 46 | 📡 Total Sources: 40 | 📸 With Images: 272 |
-        🔄 Last Updated: 21:24 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 49 | 📡 Total Sources: 40 | 📸 With Images: 271 |
+        🔄 Last Updated: 01:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
