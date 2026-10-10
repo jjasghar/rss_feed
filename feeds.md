@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-10-10 07:51:45 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-10 14:03:55 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Saturday, October 10, 2026 - 07:51 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Saturday, October 10, 2026 - 14:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,12 +44,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/isaias-109_1791593790983_hpMain_4x3t_384.jpg" alt="Hurricane Isaias updates: Isaias downgraded to post-tropical cyclone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/live-updates/hurricane-isaias-updates-isaias-strengthens-category-3/?id=137128637" target="_blank">Hurricane Isaias updates: Isaias downgraded to post-tropical cyclone</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-10 13:21</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eba8/live/d744ba50-c41c-11f1-a175-8928617a734f.jpg" alt="NI secretary intervenes to ban Drumcree parade" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/cw23dn0xven7o?at_medium=RSS&at_campaign=rss" target="_blank">NI secretary intervenes to ban Drumcree parade</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-10-10 07:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-india-demonstation_7372655.jpg?20261010081526" alt="Founder of India&#x27;s &#x27;Cockroach&#x27; movement among hundreds detained amid mass protest" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/indias-cockroach-movement-founder-detained-along-with-scores-of-protesters-13597121" target="_blank">Founder of India&#x27;s &#x27;Cockroach&#x27; movement among hundreds detained amid mass protest</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-10-10 06:57</span>
             </div>
         </div>
 <div class="story">
@@ -82,29 +97,20 @@
                 <span class="time">2026-10-09 22:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Isaias-11-abc-gmh-261009_1791558602736_hpMain_4x3t_384.jpg" alt="LIVE:  Tracking Hurricane Isaias: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  Tracking Hurricane Isaias: ABC News Live</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-09 21:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/10/9/manchester-united-vs-tottenham-premier-league-teams-prediction-lineups?traffic_source=rss" target="_blank">Manchester United vs Tottenham: Premier League – teams, prediction, lineups</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-09 21:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1308927414-500x500.jpg" alt="One with the world? A new look at brains transformed by psychedelics." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/" target="_blank">One with the world? A new look at brains transformed by psychedelics.</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-10-10 11:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +156,29 @@
                 <span class="time">2026-10-09 19:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6ac8ddd09e3491cd7012831f/master/pass/Cassidy%20Hutchinson.jpg" alt="The DOJ Is Weighing Perjury Charges Against Cassidy Hutchinson" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-doj-is-weighing-perjury-charges-against-cassidy-hutchinson/" target="_blank">The DOJ Is Weighing Perjury Charges Against Cassidy Hutchinson</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-10-09 16:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="StrideCast" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/krishna_bharadwaj_bd2818d/stridecast-3nj" target="_blank">StrideCast</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-10 13:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/" target="_blank">`123456&#x27; password used in Danish CPR data breach</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-10-10 09:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft5pcm740nxlgur5pf8ar.png" alt="TrailSnack 🫐 a trail companion that runs Gemma with zero bars, and never says &quot;eat this&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -171,6 +186,15 @@
                 <span class="title"><a href="https://dev.to/aaronstark1/trailsnack-a-trail-companion-that-runs-gemma-with-zero-bars-and-never-says-eat-this-pig" target="_blank">TrailSnack 🫐 a trail companion that runs Gemma with zero bars, and never says &quot;eat this&quot;</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-10-10 07:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/10/cloudflare-traces-open-beta/en/headerimage/generatedHeaderImage-1791443919168.jpg" alt="Cloudflare Traces Turns the Proxy Layer into OpenTelemetry Spans, with New Volume-Based Pricing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/10/cloudflare-traces-open-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Traces Turns the Proxy Layer into OpenTelemetry Spans, with New Volume-Based Pricing</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-10-10 07:12</span>
             </div>
         </div>
 <div class="story">
@@ -189,33 +213,6 @@
                 <span class="title"><a href="https://rea.tools/" target="_blank">REA Reverse – Engineer Anything</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-10-10 00:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2025/07/ESWIN-EBC77-RISC-V-single-board-computer-406x232.jpg" alt="Ubuntu now has official desktop images for RISC-V" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/ubuntu-desktop-riscv-iso" target="_blank">Ubuntu now has official desktop images for RISC-V</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-10-10 00:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://github.com/Facebook/lifeguard" target="_blank">Lifeguard: A static analyzer for Python lazy imports compatibility</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-10-09 21:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ziizium/security-news-weekly-round-up-9th-october-2026-333g" target="_blank">Security news weekly round-up - 9th October 2026</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-09 21:22</span>
             </div>
         </div>
 </div>
@@ -319,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 50 | 📡 Total Sources: 40 | 📸 With Images: 270 |
-        🔄 Last Updated: 07:51 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 46 | 📡 Total Sources: 39 | 📸 With Images: 270 |
+        🔄 Last Updated: 14:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
