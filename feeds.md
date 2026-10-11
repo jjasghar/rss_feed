@@ -1,33 +1,26 @@
-<!-- Processing 54 RSS feeds at 2026-10-10 23:02:31 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-10-11 02:40:30 UTC -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Sky News World -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 18 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, October 10, 2026 - 23:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Sunday, October 11, 2026 - 02:40 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +37,42 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/11/world-condemns-deadly-houthi-attack-on-saudi-arabias-riyadh-airport?traffic_source=rss" target="_blank">World condemns deadly Houthi attack on Saudi Arabia’s Riyadh airport</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-11 02:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/GettyImages-2295446276_1791677222354_hpMain_2_4x3t_384.jpg" alt="Iran live updates: Houthis blamed for Saudi strike that killed 12, including American" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trump-us-attack-iran-ahead/?id=137063637" target="_blank">Iran live updates: Houthis blamed for Saudi strike that killed 12, including American</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-11 01:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say" target="_blank">Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-10-10 23:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/1791670232987_nbc_spec_isaias_latest_update_261010_S3_1920x1080-0upxwc.jpg" alt="Hurricane Isaias kills at least four people as millions are still under threat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/hurricane-isaias-kills-at-least-four-people-as-millions-are-still-under-threat-271395909614" target="_blank">Hurricane Isaias kills at least four people as millions are still under threat</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-10-10 22:10</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/florida-trees-power-lines-ap-jt-261010_1791644015301_hpMain_4x3t_384.jpg" alt="Hurricane Isaias updates: At least 4 dead as Isaias downgraded" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -59,42 +88,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/10/10/palestinians-still-being-killed-in-gaza-one-year-into?traffic_source=rss" target="_blank">Palestinians still being killed in Gaza, one year into ‘ceasefire’</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-10-10 18:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99c5/live/3203eb90-c4d2-11f1-a64c-550be9e3c66b.jpg" alt="&#x27;Time for Ukraine to get new president,&#x27; says Trump after Zelensky condemns diesel deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Time for Ukraine to get new president,&#x27; says Trump after Zelensky condemns diesel deal</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-10 18:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a351/live/9ceda390-c4cf-11f1-92df-35160a6c9392.png" alt="Man dies after tiger attack at wildlife park" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss" target="_blank">Man dies after tiger attack at wildlife park</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-10 18:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/1791649209112_now_spec_isaias_death_toll_261010_S3_1920x1080-p351tk.jpg" alt="Hurricane Isaias leaves at least two people dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/hurricane-isaias-leaves-at-least-two-people-dead-271390277531" target="_blank">Hurricane Isaias leaves at least two people dead</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-10-10 16:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/isaias-109_1791593790983_hpMain_4x3t_384.jpg" alt="Hurricane Isaias updates: Isaias downgraded to post-tropical cyclone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/live-updates/hurricane-isaias-updates-isaias-strengthens-category-3/?id=137128637" target="_blank">Hurricane Isaias updates: Isaias downgraded to post-tropical cyclone</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-10 13:21</span>
             </div>
         </div>
 </div>
@@ -148,12 +141,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Meta Developing Compressed RAM &#x27;CRAM&#x27; For Linux: Better Than ZRAM and Zswap?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/" target="_blank">Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-10-10 00:18</span>
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://hardware.slashdot.org/story/26/10/10/0631257/meta-developing-compressed-ram-cram-for-linux-better-than-zram-and-zswap?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Meta Developing Compressed RAM &#x27;CRAM&#x27; For Linux: Better Than ZRAM and Zswap?</a></span>
+                <span class="feed">Slashdot</span>
+                
             </div>
         </div>
 </div>
@@ -217,32 +210,18 @@
         </div>
 </div>
 </div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/" target="_blank">FBI Arrests Executive at Ransomware Negotiation Firm</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2026-10-10 00:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/" target="_blank">FBI Arrests Founder of Ransomware Negotiation Firm</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2026-10-10 00:17</span>
-            </div>
-        </div>
-</div>
-</div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/10/solomondeadlock.jpg" alt="New Deadlock Hero’s Reload Animations Based On Famous Chess Matches" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/new-deadlock-heros-reload-animations-based-on-famous-chess-matches-2000743806" target="_blank">New Deadlock Hero’s Reload Animations Based On Famous Chess Matches</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-10 21:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/Microsoft-Windows-11-Pro-e1791566641524.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Windows 11 Pro: Access advanced professional tools for $8" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,15 +249,6 @@
                 <span class="time">2026-10-10 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/picture-10.jpg?fit=394%2C352&amp;quality=60&amp;ssl=1" alt="Vectorbeam Doom" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/10/09/vectorbeam-doom.html" target="_blank">Vectorbeam Doom</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-10-09 23:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -298,8 +268,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 31 | 📡 Total Sources: 40 | 📸 With Images: 271 |
-        🔄 Last Updated: 23:02 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 28 | 📡 Total Sources: 40 | 📸 With Images: 274 |
+        🔄 Last Updated: 02:40 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
