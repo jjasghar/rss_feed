@@ -1,26 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-10-11 02:40:30 UTC -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-10-11 09:25:21 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 18 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Sunday, October 11, 2026 - 02:40 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Sunday, October 11, 2026 - 09:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -36,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/10/11/nx-s1-5968691/midterm-elections-washington-congressional-district" target="_blank">In one of the country&#x27;s most competitive districts, a Democrat tries to keep her seat</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-10-11 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/10/11/manchester-city-financial-breach-liverpool-fans-anfield?traffic_source=rss" target="_blank">What can Man City expect against Liverpool at Anfield on Sunday?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-11 08:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,29 +103,20 @@
                 <span class="time">2026-10-10 22:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/florida-trees-power-lines-ap-jt-261010_1791644015301_hpMain_4x3t_384.jpg" alt="Hurricane Isaias updates: At least 4 dead as Isaias downgraded" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/live-updates/hurricane-isaias-updates-isaias-strengthens-category-3/?id=137128637" target="_blank">Hurricane Isaias updates: At least 4 dead as Isaias downgraded</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-10 21:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/10/10/palestinians-still-being-killed-in-gaza-one-year-into?traffic_source=rss" target="_blank">Palestinians still being killed in Gaza, one year into ‘ceasefire’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-10 18:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6ac8bfc343102e19d08d1486/master/pass/GettyImages-2271228456.jpg" alt="California’s Tallest and Most Iconic Trees Are Getting Heatstroke" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/californias-tallest-and-most-iconic-trees-are-getting-heat-stroke/" target="_blank">California’s Tallest and Most Iconic Trees Are Getting Heatstroke</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-10-11 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -132,15 +154,6 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too" target="_blank">My brief romance with an AI bird feeder</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-10-10 07:00</span>
-            </div>
-        </div>
-<div class="story">
             <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Meta Developing Compressed RAM &#x27;CRAM&#x27; For Linux: Better Than ZRAM and Zswap?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-comments"></span>
@@ -154,6 +167,24 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yashpawar/drishtipath-offline-ai-navigation-through-what-you-see-57gm" target="_blank">DrishtiPath: Offline AI Navigation Through What You See</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-11 09:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/10/gremlin-foresight-ai/en/headerimage/generatedHeaderImage-1791653267864.jpg" alt="Foresight AI Brings Gremlin Agents to Reliability Engineering" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/10/gremlin-foresight-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Foresight AI Brings Gremlin Agents to Reliability Engineering</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-10-11 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -173,39 +204,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Rolling-Releases-GenAI-Era" target="_blank">Rolling Release Distros Superior To LTS Distros In The Patch-Heavy GenAI Era?</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-10 15:27</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="StrideCast" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/krishna_bharadwaj_bd2818d/stridecast-3nj" target="_blank">StrideCast</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-10-10 13:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/" target="_blank">`123456&#x27; password used in Danish CPR data breach</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-10-10 09:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft5pcm740nxlgur5pf8ar.png" alt="TrailSnack 🫐 a trail companion that runs Gemma with zero bars, and never says &quot;eat this&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aaronstark1/trailsnack-a-trail-companion-that-runs-gemma-with-zero-bars-and-never-says-eat-this-pig" target="_blank">TrailSnack 🫐 a trail companion that runs Gemma with zero bars, and never says &quot;eat this&quot;</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-10 07:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/10/cloudflare-traces-open-beta/en/headerimage/generatedHeaderImage-1791443919168.jpg" alt="Cloudflare Traces Turns the Proxy Layer into OpenTelemetry Spans, with New Volume-Based Pricing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/10/cloudflare-traces-open-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Traces Turns the Proxy Layer into OpenTelemetry Spans, with New Volume-Based Pricing</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-10-10 07:12</span>
             </div>
         </div>
 </div>
@@ -268,8 +281,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 28 | 📡 Total Sources: 40 | 📸 With Images: 274 |
-        🔄 Last Updated: 02:40 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 29 | 📡 Total Sources: 40 | 📸 With Images: 272 |
+        🔄 Last Updated: 09:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
