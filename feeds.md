@@ -1,39 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-10-11 09:25:21 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-11 16:00:53 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Generated 14 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Sunday, October 11, 2026 - 09:25 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, October 11, 2026 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +53,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/zelenskyy-2-abc-gmh-261011_1791723289193_hpMain_4x3t_384.jpg" alt="Zelenskyy: &#x27;We will stop&#x27; strikes on Russian diesel if Russia pauses attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/president-zelenskyy-defends-attacks-russian-oil-refineries-ukrainians/story?id=137171763" target="_blank">Zelenskyy: &#x27;We will stop&#x27; strikes on Russian diesel if Russia pauses attacks</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-11 15:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/10/11/power-bank-fire-forces-plane-to-emergency-land-in-india?traffic_source=rss" target="_blank">Power bank fire forces plane to emergency land in India</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-11 15:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261010-Riyadh-airport-ch-1122-493857.jpg" alt="Major attack on Saudi airport kills 12 and leads Trump to weigh joining fight" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/middle-east/saudi-airport-attack-trump-us-join-fight-houthis-rcna602744" target="_blank">Major attack on Saudi airport kills 12 and leads Trump to weigh joining fight</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-10-11 10:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-bab-el-mandeb-yemen_7373917.jpg?20261011113957" alt="At least 139 dead and 84 missing after boat capsizes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/109-dead-after-ship-sinks-off-coast-of-djibouti-un-agency-says-13597707" target="_blank">At least 139 dead and 84 missing after boat capsizes</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-10-11 10:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -67,47 +107,38 @@
                 <span class="time">2026-10-11 08:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/11/world-condemns-deadly-houthi-attack-on-saudi-arabias-riyadh-airport?traffic_source=rss" target="_blank">World condemns deadly Houthi attack on Saudi Arabia’s Riyadh airport</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-11 02:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/GettyImages-2295446276_1791677222354_hpMain_2_4x3t_384.jpg" alt="Iran live updates: Houthis blamed for Saudi strike that killed 12, including American" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trump-us-attack-iran-ahead/?id=137063637" target="_blank">Iran live updates: Houthis blamed for Saudi strike that killed 12, including American</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-11 01:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say" target="_blank">Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-10 23:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/1791670232987_nbc_spec_isaias_latest_update_261010_S3_1920x1080-0upxwc.jpg" alt="Hurricane Isaias kills at least four people as millions are still under threat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/hurricane-isaias-kills-at-least-four-people-as-millions-are-still-under-threat-271395909614" target="_blank">Hurricane Isaias kills at least four people as millions are still under threat</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-10-10 22:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/" target="_blank">Dawn Myers is making it easier to style, detangle, and care for curly hair</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-10-11 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/science/1009379/nasa-800gb-artemis-ii-data" target="_blank">NASA dumped over 800GB of Artemis II data online</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-10-11 15:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/NYCC1-500x500-1791729989.jpg" alt="Prime Video unveils Blade Runner 2099 full trailer at NYCC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc/" target="_blank">Prime Video unveils Blade Runner 2099 full trailer at NYCC</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-10-11 14:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6ac8bfc343102e19d08d1486/master/pass/GettyImages-2271228456.jpg" alt="California’s Tallest and Most Iconic Trees Are Getting Heatstroke" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -135,38 +166,29 @@
                 <span class="time">2026-10-10 21:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6ac7e488d45774a31ff822a9/master/pass/Kernel-Panic-AI-Getting-Really-Good-Fucking-With-Cybercriminals-Security.jpg" alt="AI Is Getting Really Good at Messing With Cybercriminals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/" target="_blank">AI Is Getting Really Good at Messing With Cybercriminals</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-10-10 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1308927414-500x500.jpg" alt="One with the world? A new look at brains transformed by psychedelics." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/" target="_blank">One with the world? A new look at brains transformed by psychedelics.</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-10-10 11:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Meta Developing Compressed RAM &#x27;CRAM&#x27; For Linux: Better Than ZRAM and Zswap?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://hardware.slashdot.org/story/26/10/10/0631257/meta-developing-compressed-ram-cram-for-linux-better-than-zram-and-zswap?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Meta Developing Compressed RAM &#x27;CRAM&#x27; For Linux: Better Than ZRAM and Zswap?</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/" target="_blank">Internal files add to evidence of an ExxonMobil climate deception campaign</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-10-11 14:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-WA-TLBI-Erratum-1718" target="_blank">Linux Landing Kernel Workaround For AMD TLBI Erratum #1718</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-11 13:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,28 +219,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.thomas-huehn.com/knuth-reward-check" target="_blank">Knuth Reward Check</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-10-10 15:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Rolling-Releases-GenAI-Era" target="_blank">Rolling Release Distros Superior To LTS Distros In The Patch-Heavy GenAI Era?</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-10-10 15:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="StrideCast" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/krishna_bharadwaj_bd2818d/stridecast-3nj" target="_blank">StrideCast</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-10 13:58</span>
+                <span class="fa fa-fw fa-server"></span>
+                <span class="title"><a href="https://distrowatch.com/12976" target="_blank">Distribution Release: ZEPHIX 9</a></span>
+                <span class="feed">DistroWatch.com: News</span>
+                
             </div>
         </div>
 </div>
@@ -226,6 +230,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/The-Ultimate-Microsoft-Office-Professional-2021-for-Windows-e1791566728483.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Today only: Get Microsoft Office and Windows 11 Pro for life for $35" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/10/11/today-only-get-microsoft-office-and-windows-11-pro-for-life-for-35.html" target="_blank">Today only: Get Microsoft Office and Windows 11 Pro for life for $35</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-10-11 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/10/solomondeadlock.jpg" alt="New Deadlock Hero’s Reload Animations Based On Famous Chess Matches" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -253,27 +266,18 @@
                 <span class="time">2026-10-10 17:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/Glooin-Starter-Plan-e1791566684488.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="This Loom alternative lets you record and share your screen instantly for $25" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/10/10/this-loom-alternative-lets-you-record-and-share-your-screen-instantly-for-25.html" target="_blank">This Loom alternative lets you record and share your screen instantly for $25</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-10-10 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
-            <img src="https://www.smbc-comics.com/comics/1791563668-20261010.png" alt="Saturday Morning Breakfast Cereal - Relative" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1791677050-20261011.png" alt="Saturday Morning Breakfast Cereal - Blog" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/relative" target="_blank">Saturday Morning Breakfast Cereal - Relative</a></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/blog" target="_blank">Saturday Morning Breakfast Cereal - Blog</a></span>
                 <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-10-10 15:20</span>
+                <span class="time">2026-10-11 15:20</span>
             </div>
         </div>
 </div>
@@ -281,8 +285,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 29 | 📡 Total Sources: 40 | 📸 With Images: 272 |
-        🔄 Last Updated: 09:25 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 31 | 📡 Total Sources: 40 | 📸 With Images: 270 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
