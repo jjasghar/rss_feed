@@ -1,43 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-10-11 16:00:53 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-10-11 20:40:12 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 14 new posts out of 34 feeds processed -->
+<!-- Generated 6 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Sunday, October 11, 2026 - 16:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Sunday, October 11, 2026 - 20:40 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +38,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-health-minister-visits-survivors-of-deadly-riyadh-airport-attack?traffic_source=rss" target="_blank">Saudi health minister visits survivors of deadly Riyadh airport attack</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-11 19:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/kharkiv-russian-strike-ukraine-gty-bh-101126_1791739682873_hpMain_4x3t_384.jpg" alt="Russia strikes power plant in Ukraine after Trump announces energy ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/russia-strikes-power-plant-ukraine-after-trump-announces/story?id=137178264" target="_blank">Russia strikes power plant in Ukraine after Trump announces energy ceasefire</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-11 18:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/zelenskyy-2-abc-gmh-261011_1791723289193_hpMain_4x3t_384.jpg" alt="Zelenskyy: &#x27;We will stop&#x27; strikes on Russian diesel if Russia pauses attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,29 +92,29 @@
                 <span class="time">2026-10-11 10:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/11/nx-s1-5968691/midterm-elections-washington-congressional-district" target="_blank">In one of the country&#x27;s most competitive districts, a Democrat tries to keep her seat</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-11 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/10/11/manchester-city-financial-breach-liverpool-fans-anfield?traffic_source=rss" target="_blank">What can Man City expect against Liverpool at Anfield on Sunday?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-11 08:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras" target="_blank">A college in Illinois tried to cancel its Flock contact and it refused</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-10-11 20:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/musk3-500x500.jpg" alt="Review: 4-hour Musk documentary feels like two different films" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films/" target="_blank">Review: 4-hour Musk documentary feels like two different films</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-10-11 18:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,29 +151,29 @@
                 <span class="time">2026-10-11 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised" target="_blank">Satya Nadella says we should assume all AI models are ‘compromised’</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-10-10 22:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/" target="_blank">Microsoft’s Satya Nadella says AI models need an ‘emergency brake’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-10-10 21:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2024/06/app-center-406x232.jpg" alt="Ubuntu’s App Center makes it easy to install missing media codecs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/ubuntu-app-center-add-ons-media" target="_blank">Ubuntu’s App Center makes it easy to install missing media codecs</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-10-11 19:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://nanolathe.gg" target="_blank">Total Annihilation, rebuilt for modern computers</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-10-11 18:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,24 +210,6 @@
                 <span class="time">2026-10-11 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/geminate_solutions_9b6035/on-prem-to-cloud-migration-rehost-replatform-or-refactor-per-app-2195" target="_blank">On-Prem to Cloud Migration: Rehost, Replatform or Refactor per App</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-10 18:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-server"></span>
-                <span class="title"><a href="https://distrowatch.com/12976" target="_blank">Distribution Release: ZEPHIX 9</a></span>
-                <span class="feed">DistroWatch.com: News</span>
-                
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -257,15 +242,6 @@
                 <span class="time">2026-10-10 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/10/amandatheadventurer.jpg" alt="MatPat And Blumhouse Productions Collaborating On Amanda The Adventurer Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/matpat-and-blumhouse-productions-collaborating-on-amanda-the-adventurer-movie-2000743782" target="_blank">MatPat And Blumhouse Productions Collaborating On Amanda The Adventurer Movie</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-10 17:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -285,8 +261,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 31 | 📡 Total Sources: 40 | 📸 With Images: 270 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 31 | 📡 Total Sources: 40 | 📸 With Images: 269 |
+        🔄 Last Updated: 20:40 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
