@@ -1,35 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-10-12 16:14:42 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-12 23:19:01 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 26 feeds processed -->
+<!-- Generated 16 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, October 12, 2026 - 16:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, October 12, 2026 - 23:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbda/live/375348b0-c659-11f1-8600-efb62b613ab5.jpg" alt="Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss" target="_blank">Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-12 21:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/riyadh-airport-rt-gmh-261012_1791811868443_hpMain_4x3t_384.jpg" alt="Iran live updates: At least 20 killed in week of attacks on Saudi airports" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,21 +96,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/618f/live/1e0d2180-c601-11f1-a64c-550be9e3c66b.jpg" alt="Rejecting closer EU ties would be dereliction of duty, PM to say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6lyk8e3lxz0o?at_medium=RSS&at_campaign=rss" target="_blank">Rejecting closer EU ties would be dereliction of duty, PM to say</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-12 05:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261011-Trump-aa-747-87fee2.jpg" alt="Federal judge orders pro-Trump TV ads funded by taxpayers off air immediately" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/1791804437285_tdy_news_7a_haake_russian_oil_deal_261012_S3_1920x1080-a2yt2h.jpg" alt="Trump Faces Intense Bipartisan Backlash Over Russian Oil Deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/federal-judge-orders-trump-tv-ads-funded-taxpayers-air-immediately-rcna602879" target="_blank">Federal judge orders pro-Trump TV ads funded by taxpayers off air immediately</a></span>
+                <span class="title"><a href="https://www.today.com/video/trump-s-russian-oil-deal-draws-strong-bipartisan-backlash-271429189814" target="_blank">Trump Faces Intense Bipartisan Backlash Over Russian Oil Deal</a></span>
                 <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-10-12 00:48</span>
+                <span class="time">2026-10-12 11:27</span>
             </div>
         </div>
 </div>
@@ -104,6 +109,42 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-930111236-500x500.jpeg" alt="39-year-old unvaccinated woman becomes 6th measles death in Pennsylvania" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/10/39-year-old-unvaccinated-woman-becomes-6th-measles-death-in-pennsylvania/" target="_blank">39-year-old unvaccinated woman becomes 6th measles death in Pennsylvania</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-10-12 21:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/1009630/social-reckoning-box-office-other-mommy" target="_blank">The Social Reckoning is flopping at the box office</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-10-12 21:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6acceab31cb30cd3ed00af79/master/pass/101226-Meta%20Muse%20Sexual%20Content.jpg" alt="I Got My Muse AI Agent to Sext Me—and Meta Says That’s Totally Fine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/i-got-my-muse-ai-agent-to-sext-me-and-meta-says-thats-totally-fine/" target="_blank">I Got My Muse AI Agent to Sext Me—and Meta Says That’s Totally Fine</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-10-12 20:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/" target="_blank">Meta releases its first frontier model, Muse Wonder</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-10-12 17:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/ptpc-500x500.png" alt="Long-lost horror gaming cult classic P.T. gets a much-needed PC port" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -122,42 +163,6 @@
                 <span class="time">2026-10-12 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras" target="_blank">A college in Illinois tried to cancel its Flock contact and it refused</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-10-11 20:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/musk3-500x500.jpg" alt="Review: 4-hour Musk documentary feels like two different films" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films/" target="_blank">Review: 4-hour Musk documentary feels like two different films</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-10-11 18:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Amazon In Talks To Buy AI Startup Decart For Around $7 Billion" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://hardware.slashdot.org/story/26/10/12/0059238/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Amazon In Talks To Buy AI Startup Decart For Around $7 Billion</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Research Firm Calls Anthropic&#x27;s Upcoming IPO &#x27;Unprecedented Test of Investor Gullibity&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://slashdot.org/story/26/10/11/2355238/research-firm-calls-anthropics-upcoming-ipo-unprecedented-test-of-investor-gullibity?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Research Firm Calls Anthropic&#x27;s Upcoming IPO &#x27;Unprecedented Test of Investor Gullibity&#x27;</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,54 +172,54 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/darwa_4dee344cd0344de9fc1/darwa-vs-railway-render-vercel-heroku-and-flyio-which-is-best-for-ai-apps-16nn" target="_blank">Darwa vs Railway, Render, Vercel, Heroku, and Fly.io: Which Is Best for AI Apps?</a></span>
+                <span class="title"><a href="https://dev.to/dannydoes_2abdf9c/smart-contract-vulnerability-surface-analysis-gauntlet-m6e" target="_blank">Smart Contract Vulnerability Surface Analysis: Gauntlet</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2026-10-12 16:14</span>
+                <span class="time">2026-10-12 23:08</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://radar.cloudflare.com/bots/as13238?dateRange=7d#bot-traffic" target="_blank">Yandex bot traffic down 99% after data center attack</a></span>
+                <span class="title"><a href="https://yyhh.org/blog/2026/10/ai-is-a-tool/" target="_blank">AI Is a Tool. Using It Well Takes Skill.</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2026-10-12 04:54</span>
+                <span class="time">2026-10-12 21:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/10/nexphone-collage-406x232.jpg" alt="NexPhone, the multi-OS smartphone, delayed until 2027" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/nexphone-delay-march-2027" target="_blank">NexPhone, the multi-OS smartphone, delayed until 2027</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-10-12 20:47</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linus-Torvalds-Claude-Code" target="_blank">Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-10-12 00:16</span>
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/" target="_blank">GitHub Copilot app for Beginners: How to teach Copilot about your codebase</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-10-12 17:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/myna-speech-to-text-technology-preview-available" target="_blank">Myna speech-to-text is now available as a technology preview</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-10-12 16:44</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hacksgr/what-is-the-real-difference-between-megabits-and-megabytes-i23" target="_blank">What is the real difference between megabits and megabytes?</a></span>
+                <span class="title"><a href="https://dev.to/darwa_4dee344cd0344de9fc1/darwa-vs-railway-render-vercel-heroku-and-flyio-which-is-best-for-ai-apps-16nn" target="_blank">Darwa vs Railway, Render, Vercel, Heroku, and Fly.io: Which Is Best for AI Apps?</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2026-10-11 23:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2024/06/app-center-406x232.jpg" alt="Ubuntu’s App Center makes it easy to install missing media codecs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/ubuntu-app-center-add-ons-media" target="_blank">Ubuntu’s App Center makes it easy to install missing media codecs</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-10-11 19:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://nanolathe.gg" target="_blank">Total Annihilation, rebuilt for modern computers</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-10-11 18:04</span>
+                <span class="time">2026-10-12 16:14</span>
             </div>
         </div>
 </div>
@@ -254,15 +259,6 @@
                 <span class="time">2026-10-12 14:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/10/Lucia-.jpg" alt="GTA 6 Leaker Posts Grainy Footage Of Lucia Skydiving Naked To Sell Crypto" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/gta-6-leaker-posts-lucia-skydiving-naked-to-sell-crypto-2000744175" target="_blank">GTA 6 Leaker Posts Grainy Footage Of Lucia Skydiving Naked To Sell Crypto</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-11 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -275,6 +271,24 @@
                 <span class="title"><a href="https://www.smbc-comics.com/comic/random" target="_blank">Saturday Morning Breakfast Cereal - Random</a></span>
                 <span class="feed">Saturday Morning Breakfast Cereal</span>
                 <span class="time">2026-10-12 15:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/10/12/man-made-horrors-part-three" target="_blank">Man-Made Horrors, Part Three</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-10-12 07:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/rejected_space_mission_profiles.png" alt="Rejected Space Mission Profiles" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3310/" target="_blank">Rejected Space Mission Profiles</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-10-12 04:00</span>
             </div>
         </div>
 <div class="story">
@@ -291,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 30 | 📡 Total Sources: 40 | 📸 With Images: 271 |
-        🔄 Last Updated: 16:15 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 35 | 📡 Total Sources: 40 | 📸 With Images: 273 |
+        🔄 Last Updated: 23:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
