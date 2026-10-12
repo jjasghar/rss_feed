@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-10-12 06:42:03 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-12 16:14:42 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 30 feeds processed -->
+<!-- Generated 12 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Monday, October 12, 2026 - 06:42 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Monday, October 12, 2026 - 16:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +45,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/riyadh-airport-rt-gmh-261012_1791811868443_hpMain_4x3t_384.jpg" alt="Iran live updates: At least 20 killed in week of attacks on Saudi airports" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trump-us-attack-iran-ahead/?id=137063637" target="_blank">Iran live updates: At least 20 killed in week of attacks on Saudi airports</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-12 16:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/10/12/nx-s1-5998831/india-opposition-protests" target="_blank">India&#x27;s opposition parties march to top court as protests over voter lists escalate</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-10-12 16:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/12/france-school-shooting-police-detain-pupil-after-two-injured?traffic_source=rss" target="_blank">France school shooting: Police detain pupil after two injured</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-12 15:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5cd/live/32979870-c303-11f1-bc2e-018d645d8d21.jpg" alt="Britain won&#x27;t tolerate threats on our soil, Miliband says as he summons Iran ambassador" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6gr82ekqewyo?at_medium=RSS&at_campaign=rss" target="_blank">Britain won&#x27;t tolerate threats on our soil, Miliband says as he summons Iran ambassador</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-12 15:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/618f/live/1e0d2180-c601-11f1-a64c-550be9e3c66b.jpg" alt="Rejecting closer EU ties would be dereliction of duty, PM to say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -67,47 +99,29 @@
                 <span class="time">2026-10-12 00:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/11/nx-s1-5998124/tropical-storm-rachel-downgraded-as-high-winds-and-rain-turn-inward" target="_blank">Tropical Storm Rachel downgraded as high winds and rain turn inward</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-11 23:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistani-national-killed-second-houthi-strike-riyadh-airport?traffic_source=rss" target="_blank">Pakistani national killed in second Houthi strike on Riyadh airport</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-11 23:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16d8/live/4817e400-c58a-11f1-bc2e-018d645d8d21.jpg" alt="Zelensky backs Trump&#x27;s &#x27;energy ceasefire&#x27; but says Russia continues to hit power plants" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky backs Trump&#x27;s &#x27;energy ceasefire&#x27; but says Russia continues to hit power plants</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-11 21:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16d8/live/4817e400-c58a-11f1-bc2e-018d645d8d21.jpg" alt="Trump&#x27;s &#x27;energy ceasefire&#x27; claim welcomed by Zelensky but Russia silent" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss" target="_blank">Trump&#x27;s &#x27;energy ceasefire&#x27; claim welcomed by Zelensky but Russia silent</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-11 21:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/ptpc-500x500.png" alt="Long-lost horror gaming cult classic P.T. gets a much-needed PC port" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2026/10/long-lost-horror-gaming-cult-classic-p-t-gets-a-much-needed-pc-port/" target="_blank">Long-lost horror gaming cult classic P.T. gets a much-needed PC port</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-10-12 16:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6ac567af1421696ee3c3b7c5/master/pass/NewsFeature_Theywar-gameddimmingthesun.Itwentevenwo-ezgif.com-video-to-gif-converter%20(2).gif" alt="They War-Gamed Dimming the Sun. It Went Even Worse Than You Think" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/" target="_blank">They War-Gamed Dimming the Sun. It Went Even Worse Than You Think</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-10-12 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -127,39 +141,21 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Amazon In Talks To Buy AI Startup Decart For Around $7 Billion" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/" target="_blank">Dawn Myers is making it easier to style, detangle, and care for curly hair</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-10-11 16:00</span>
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://hardware.slashdot.org/story/26/10/12/0059238/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Amazon In Talks To Buy AI Startup Decart For Around $7 Billion</a></span>
+                <span class="feed">Slashdot</span>
+                
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Research Firm Calls Anthropic&#x27;s Upcoming IPO &#x27;Unprecedented Test of Investor Gullibity&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/science/1009379/nasa-800gb-artemis-ii-data" target="_blank">NASA dumped over 800GB of Artemis II data online</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-10-11 15:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/NYCC1-500x500-1791729989.jpg" alt="Prime Video unveils Blade Runner 2099 full trailer at NYCC" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc/" target="_blank">Prime Video unveils Blade Runner 2099 full trailer at NYCC</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-10-11 14:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6ac967401dd8a2ab2e331c51/master/pass/Google-Playground-Gear-PG_THUMBNAIL_BLOG%20(1).png" alt="I Made Terrible Games With Google’s AI Playground" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/" target="_blank">I Made Terrible Games With Google’s AI Playground</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-10-11 11:30</span>
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://slashdot.org/story/26/10/11/2355238/research-firm-calls-anthropics-upcoming-ipo-unprecedented-test-of-investor-gullibity?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Research Firm Calls Anthropic&#x27;s Upcoming IPO &#x27;Unprecedented Test of Investor Gullibity&#x27;</a></span>
+                <span class="feed">Slashdot</span>
+                
             </div>
         </div>
 </div>
@@ -167,6 +163,15 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/darwa_4dee344cd0344de9fc1/darwa-vs-railway-render-vercel-heroku-and-flyio-which-is-best-for-ai-apps-16nn" target="_blank">Darwa vs Railway, Render, Vercel, Heroku, and Fly.io: Which Is Best for AI Apps?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-12 16:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -212,13 +217,18 @@
                 <span class="time">2026-10-11 18:04</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/" target="_blank">Internal files add to evidence of an ExxonMobil climate deception campaign</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-10-11 14:28</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/10/fbi-arrests-suspect-in-fbi-hacking-case.html" target="_blank">FBI Arrests Suspect in FBI-Hacking Case</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-10-12 15:01</span>
             </div>
         </div>
 </div>
@@ -226,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/AdGuard-VPN-e1791566788507.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="For the next 3 days, this $360 VPN is only $35" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/10/12/for-the-next-3-days-this-360-vpn-is-only-35.html" target="_blank">For the next 3 days, this $360 VPN is only $35</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-10-12 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M4R776GS0D1EC7SZV1B5SYME/hero-image.jpg" alt="I Tried &#x27;PhotoCraft,&#x27; the AI Clone of Photoshop, and It&#x27;s Almost Exactly Like the Real Thing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/i-tried-photocraft-the-ai-clone-of-photoshop?utm_medium=RSS" target="_blank">I Tried &#x27;PhotoCraft,&#x27; the AI Clone of Photoshop, and It&#x27;s Almost Exactly Like the Real Thing</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-10-12 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/10/Lucia-.jpg" alt="GTA 6 Leaker Posts Grainy Footage Of Lucia Skydiving Naked To Sell Crypto" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -235,20 +263,20 @@
                 <span class="time">2026-10-11 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/The-Ultimate-Microsoft-Office-Professional-2021-for-Windows-e1791566728483.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Today only: Get Microsoft Office and Windows 11 Pro for life for $35" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/10/11/today-only-get-microsoft-office-and-windows-11-pro-for-life-for-35.html" target="_blank">Today only: Get Microsoft Office and Windows 11 Pro for life for $35</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-10-11 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1791677099-20261012.png" alt="Saturday Morning Breakfast Cereal - Random" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/random" target="_blank">Saturday Morning Breakfast Cereal - Random</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-10-12 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.questionablecontent.net/comics/5936.png" alt="Anh In Time Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -258,22 +286,13 @@
                 <span class="time">2026-10-12 01:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1791677050-20261011.png" alt="Saturday Morning Breakfast Cereal - Blog" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/blog" target="_blank">Saturday Morning Breakfast Cereal - Blog</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-10-11 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 37 | 📡 Total Sources: 40 | 📸 With Images: 271 |
-        🔄 Last Updated: 06:42 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 30 | 📡 Total Sources: 40 | 📸 With Images: 271 |
+        🔄 Last Updated: 16:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
