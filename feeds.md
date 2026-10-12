@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-10-12 00:03:39 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-12 06:42:03 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, October 12, 2026 - 00:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Monday, October 12, 2026 - 06:42 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +50,33 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/618f/live/1e0d2180-c601-11f1-a64c-550be9e3c66b.jpg" alt="Rejecting closer EU ties would be dereliction of duty, PM to say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6lyk8e3lxz0o?at_medium=RSS&at_campaign=rss" target="_blank">Rejecting closer EU ties would be dereliction of duty, PM to say</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-12 05:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261011-Trump-aa-747-87fee2.jpg" alt="Federal judge orders pro-Trump TV ads funded by taxpayers off air immediately" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/federal-judge-orders-trump-tv-ads-funded-taxpayers-air-immediately-rcna602879" target="_blank">Federal judge orders pro-Trump TV ads funded by taxpayers off air immediately</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-10-12 00:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/10/11/nx-s1-5998124/tropical-storm-rachel-downgraded-as-high-winds-and-rain-turn-inward" target="_blank">Tropical Storm Rachel downgraded as high winds and rain turn inward</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-10-11 23:54</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -56,48 +86,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16d8/live/4817e400-c58a-11f1-bc2e-018d645d8d21.jpg" alt="Zelensky backs Trump&#x27;s &#x27;energy ceasefire&#x27; but says Russia continues to hit power plants" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky backs Trump&#x27;s &#x27;energy ceasefire&#x27; but says Russia continues to hit power plants</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-11 21:36</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16d8/live/4817e400-c58a-11f1-bc2e-018d645d8d21.jpg" alt="Trump&#x27;s &#x27;energy ceasefire&#x27; claim welcomed by Zelensky but Russia silent" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss" target="_blank">Trump&#x27;s &#x27;energy ceasefire&#x27; claim welcomed by Zelensky but Russia silent</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-10-11 21:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-trump-putin-zelenskyy_7372513.jpg?20261009212745" alt="Putin has already broken Trump&#x27;s &#x27;energy ceasefire&#x27; with attack on power plant, says Zelenskyy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/putin-has-already-broken-trumps-energy-ceasefire-with-attack-on-power-plant-says-zelenskyy-13597989" target="_blank">Putin has already broken Trump&#x27;s &#x27;energy ceasefire&#x27; with attack on power plant, says Zelenskyy</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-10-11 20:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-health-minister-visits-survivors-of-deadly-riyadh-airport-attack?traffic_source=rss" target="_blank">Saudi health minister visits survivors of deadly Riyadh airport attack</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-11 19:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/kharkiv-russian-strike-ukraine-gty-bh-101126_1791739682873_hpMain_4x3t_384.jpg" alt="Russia strikes power plant in Ukraine after Trump announces energy ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/russia-strikes-power-plant-ukraine-after-trump-announces/story?id=137178264" target="_blank">Russia strikes power plant in Ukraine after Trump announces energy ceasefire</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-11 18:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b37c/live/b4b0e8c0-c57e-11f1-80f2-5bd1e5df7ada.jpg" alt="PM says it is &#x27;clear&#x27; Russia interfered with Brexit vote" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6jdm3zggl0ko?at_medium=RSS&at_campaign=rss" target="_blank">PM says it is &#x27;clear&#x27; Russia interfered with Brexit vote</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-11 18:00</span>
             </div>
         </div>
 </div>
@@ -151,12 +154,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media.wired.com/photos/6ac8bfc343102e19d08d1486/master/pass/GettyImages-2271228456.jpg" alt="California’s Tallest and Most Iconic Trees Are Getting Heatstroke" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media.wired.com/photos/6ac967401dd8a2ab2e331c51/master/pass/Google-Playground-Gear-PG_THUMBNAIL_BLOG%20(1).png" alt="I Made Terrible Games With Google’s AI Playground" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/californias-tallest-and-most-iconic-trees-are-getting-heat-stroke/" target="_blank">California’s Tallest and Most Iconic Trees Are Getting Heatstroke</a></span>
+                <span class="title"><a href="https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/" target="_blank">I Made Terrible Games With Google’s AI Playground</a></span>
                 <span class="feed">WIRED</span>
-                <span class="time">2026-10-11 09:00</span>
+                <span class="time">2026-10-11 11:30</span>
             </div>
         </div>
 </div>
@@ -164,6 +167,24 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://radar.cloudflare.com/bots/as13238?dateRange=7d#bot-traffic" target="_blank">Yandex bot traffic down 99% after data center attack</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-10-12 04:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linus-Torvalds-Claude-Code" target="_blank">Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-12 00:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,24 +221,6 @@
                 <span class="time">2026-10-11 14:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-WA-TLBI-Erratum-1718" target="_blank">Linux Landing Kernel Workaround For AMD TLBI Erratum #1718</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-10-11 13:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yashpawar/drishtipath-offline-ai-navigation-through-what-you-see-57gm" target="_blank">DrishtiPath: Offline AI Navigation Through What You See</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-11 09:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -247,6 +250,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.questionablecontent.net/comics/5936.png" alt="Anh In Time Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5936" target="_blank">Anh In Time Out</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-10-12 01:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1791677050-20261011.png" alt="Saturday Morning Breakfast Cereal - Blog" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -260,8 +272,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 21 | 📅 Last 24h: 30 | 📡 Total Sources: 40 | 📸 With Images: 269 |
-        🔄 Last Updated: 00:03 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 37 | 📡 Total Sources: 40 | 📸 With Images: 271 |
+        🔄 Last Updated: 06:42 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
