@@ -1,28 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-10-11 20:40:12 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-12 00:03:39 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 20 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Sunday, October 11, 2026 - 20:40 UTC</div>
+    <div class="newspaper-date">Monday, October 12, 2026 - 00:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +50,33 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistani-national-killed-second-houthi-strike-riyadh-airport?traffic_source=rss" target="_blank">Pakistani national killed in second Houthi strike on Riyadh airport</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-11 23:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16d8/live/4817e400-c58a-11f1-bc2e-018d645d8d21.jpg" alt="Trump&#x27;s &#x27;energy ceasefire&#x27; claim welcomed by Zelensky but Russia silent" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss" target="_blank">Trump&#x27;s &#x27;energy ceasefire&#x27; claim welcomed by Zelensky but Russia silent</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-11 21:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-trump-putin-zelenskyy_7372513.jpg?20261009212745" alt="Putin has already broken Trump&#x27;s &#x27;energy ceasefire&#x27; with attack on power plant, says Zelenskyy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/putin-has-already-broken-trumps-energy-ceasefire-with-attack-on-power-plant-says-zelenskyy-13597989" target="_blank">Putin has already broken Trump&#x27;s &#x27;energy ceasefire&#x27; with attack on power plant, says Zelenskyy</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-10-11 20:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-health-minister-visits-survivors-of-deadly-riyadh-airport-attack?traffic_source=rss" target="_blank">Saudi health minister visits survivors of deadly Riyadh airport attack</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-10-11 19:59</span>
@@ -57,39 +92,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/US/zelenskyy-2-abc-gmh-261011_1791723289193_hpMain_4x3t_384.jpg" alt="Zelenskyy: &#x27;We will stop&#x27; strikes on Russian diesel if Russia pauses attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b37c/live/b4b0e8c0-c57e-11f1-80f2-5bd1e5df7ada.jpg" alt="PM says it is &#x27;clear&#x27; Russia interfered with Brexit vote" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/president-zelenskyy-defends-attacks-russian-oil-refineries-ukrainians/story?id=137171763" target="_blank">Zelenskyy: &#x27;We will stop&#x27; strikes on Russian diesel if Russia pauses attacks</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-11 15:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/10/11/power-bank-fire-forces-plane-to-emergency-land-in-india?traffic_source=rss" target="_blank">Power bank fire forces plane to emergency land in India</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-11 15:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261010-Riyadh-airport-ch-1122-493857.jpg" alt="Major attack on Saudi airport kills 12 and leads Trump to weigh joining fight" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/middle-east/saudi-airport-attack-trump-us-join-fight-houthis-rcna602744" target="_blank">Major attack on Saudi airport kills 12 and leads Trump to weigh joining fight</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-10-11 10:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-bab-el-mandeb-yemen_7373917.jpg?20261011113957" alt="At least 139 dead and 84 missing after boat capsizes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/109-dead-after-ship-sinks-off-coast-of-djibouti-un-agency-says-13597707" target="_blank">At least 139 dead and 84 missing after boat capsizes</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-10-11 10:08</span>
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6jdm3zggl0ko?at_medium=RSS&at_campaign=rss" target="_blank">PM says it is &#x27;clear&#x27; Russia interfered with Brexit vote</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-11 18:00</span>
             </div>
         </div>
 </div>
@@ -157,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hacksgr/what-is-the-real-difference-between-megabits-and-megabytes-i23" target="_blank">What is the real difference between megabits and megabytes?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-11 23:58</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2024/06/app-center-406x232.jpg" alt="Ubuntu’s App Center makes it easy to install missing media codecs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -201,20 +218,20 @@
                 <span class="time">2026-10-11 09:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/10/gremlin-foresight-ai/en/headerimage/generatedHeaderImage-1791653267864.jpg" alt="Foresight AI Brings Gremlin Agents to Reliability Engineering" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/10/gremlin-foresight-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Foresight AI Brings Gremlin Agents to Reliability Engineering</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-10-11 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/10/Lucia-.jpg" alt="GTA 6 Leaker Posts Grainy Footage Of Lucia Skydiving Naked To Sell Crypto" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/gta-6-leaker-posts-lucia-skydiving-naked-to-sell-crypto-2000744175" target="_blank">GTA 6 Leaker Posts Grainy Footage Of Lucia Skydiving Naked To Sell Crypto</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-11 21:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/The-Ultimate-Microsoft-Office-Professional-2021-for-Windows-e1791566728483.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Today only: Get Microsoft Office and Windows 11 Pro for life for $35" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -222,24 +239,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/10/11/today-only-get-microsoft-office-and-windows-11-pro-for-life-for-35.html" target="_blank">Today only: Get Microsoft Office and Windows 11 Pro for life for $35</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-10-11 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/10/solomondeadlock.jpg" alt="New Deadlock Hero’s Reload Animations Based On Famous Chess Matches" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/new-deadlock-heros-reload-animations-based-on-famous-chess-matches-2000743806" target="_blank">New Deadlock Hero’s Reload Animations Based On Famous Chess Matches</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-10 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/Microsoft-Windows-11-Pro-e1791566641524.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Windows 11 Pro: Access advanced professional tools for $8" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/10/10/windows-11-pro-access-advanced-professional-tools-for-8.html" target="_blank">Windows 11 Pro: Access advanced professional tools for $8</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-10-10 21:00</span>
             </div>
         </div>
 </div>
@@ -261,8 +260,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 31 | 📡 Total Sources: 40 | 📸 With Images: 269 |
-        🔄 Last Updated: 20:40 UTC
+        📊 Displayed: 21 | 📅 Last 24h: 30 | 📡 Total Sources: 40 | 📸 With Images: 269 |
+        🔄 Last Updated: 00:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
