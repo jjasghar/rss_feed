@@ -1,30 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-10-13 04:20:01 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-13 12:16:32 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 22 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, October 13, 2026 - 04:20 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, October 13, 2026 - 12:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0a1/live/0de07f70-c6db-11f1-9a39-31b474234113.jpg" alt="MI5 tackling more state threats than during Cold War, warns intelligence chief" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss" target="_blank">MI5 tackling more state threats than during Cold War, warns intelligence chief</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-13 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/1791890536585_tdy_news_7a_odonnell_ilhan_omar_search_261013_S3_1920x1080-3kue6f.jpg" alt="Rep. Omar Reacts to Feds&#x27; Home Search: &#x27;I Will Not Be Silenced&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/rep-omar-reacts-to-feds-home-search-i-will-not-be-silenced-271483461837" target="_blank">Rep. Omar Reacts to Feds&#x27; Home Search: &#x27;I Will Not Be Silenced&#x27;</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-10-13 11:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-waterford-fire_7375735.jpg?20261013104935" alt="Murder investigation launched after man, woman and two children killed in house fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/number-of-people-dead-after-house-fire-in-waterford-13598691" target="_blank">Murder investigation launched after man, woman and two children killed in house fire</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-10-13 09:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/Christa-Pike-2-ap-gmh-261003_1791047245169_hpMain_4x3t_384.jpg" alt="Newly released 911 calls capture confusion after Christa Pike&#x27;s botched execution" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -67,38 +103,20 @@
                 <span class="time">2026-10-12 16:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/12/nx-s1-5998831/india-opposition-protests" target="_blank">India&#x27;s opposition parties march to top court as protests over voter lists escalate</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-12 16:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/12/france-school-shooting-police-detain-pupil-after-two-injured?traffic_source=rss" target="_blank">France school shooting: Police detain pupil after two injured</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-12 15:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5cd/live/32979870-c303-11f1-bc2e-018d645d8d21.jpg" alt="Britain won&#x27;t tolerate threats on our soil, Miliband says as he summons Iran ambassador" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6gr82ekqewyo?at_medium=RSS&at_campaign=rss" target="_blank">Britain won&#x27;t tolerate threats on our soil, Miliband says as he summons Iran ambassador</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-12 15:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney" target="_blank">Character.AI files for bankruptcy</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-10-13 10:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-930111236-500x500.jpeg" alt="39-year-old unvaccinated woman becomes 6th measles death in Pennsylvania" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,20 +162,29 @@
                 <span class="time">2026-10-12 16:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6ac567af1421696ee3c3b7c5/master/pass/NewsFeature_Theywar-gameddimmingthesun.Itwentevenwo-ezgif.com-video-to-gif-converter%20(2).gif" alt="They War-Gamed Dimming the Sun. It Went Even Worse Than You Think" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/" target="_blank">They War-Gamed Dimming the Sun. It Went Even Worse Than You Think</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-10-12 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/10/qcon-ai-newyork-2026-sessionsv2/en/headerimage/qcon-ai-new-york-2026-1791875885339.jpg" alt="Production Patterns for Agents, Evals, and LLM Costs: QCon AI New York 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/10/qcon-ai-newyork-2026-sessionsv2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Production Patterns for Agents, Evals, and LLM Costs: QCon AI New York 2026</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-10-13 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/10/13/keep-calm-and-call-clone-with-rust/" target="_blank">Keep calm and call clone with Rust</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-10-13 07:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -192,24 +219,6 @@
                 <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/" target="_blank">GitHub Copilot app for Beginners: How to teach Copilot about your codebase</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2026-10-12 17:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/myna-speech-to-text-technology-preview-available" target="_blank">Myna speech-to-text is now available as a technology preview</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-10-12 16:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/darwa_4dee344cd0344de9fc1/darwa-vs-railway-render-vercel-heroku-and-flyio-which-is-best-for-ai-apps-16nn" target="_blank">Darwa vs Railway, Render, Vercel, Heroku, and Fly.io: Which Is Best for AI Apps?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-12 16:14</span>
             </div>
         </div>
 </div>
@@ -299,22 +308,13 @@
                 <span class="time">2026-10-12 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/10/12/man-made-horrors-part-three" target="_blank">Man-Made Horrors, Part Three</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-10-12 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 33 | 📡 Total Sources: 40 | 📸 With Images: 273 |
-        🔄 Last Updated: 04:20 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 35 | 📡 Total Sources: 40 | 📸 With Images: 271 |
+        🔄 Last Updated: 12:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
