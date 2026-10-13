@@ -1,40 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-10-12 23:19:01 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-13 04:20:01 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 16 new posts out of 31 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, October 12, 2026 - 23:19 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, October 13, 2026 - 04:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/Christa-Pike-2-ap-gmh-261003_1791047245169_hpMain_4x3t_384.jpg" alt="Newly released 911 calls capture confusion after Christa Pike&#x27;s botched execution" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/911-calls-released-christa-pikes-botched-execution-person/story?id=137206702" target="_blank">Newly released 911 calls capture confusion after Christa Pike&#x27;s botched execution</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-13 02:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbda/live/375348b0-c659-11f1-8600-efb62b613ab5.jpg" alt="Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -93,15 +92,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6gr82ekqewyo?at_medium=RSS&at_campaign=rss" target="_blank">Britain won&#x27;t tolerate threats on our soil, Miliband says as he summons Iran ambassador</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-10-12 15:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/1791804437285_tdy_news_7a_haake_russian_oil_deal_261012_S3_1920x1080-a2yt2h.jpg" alt="Trump Faces Intense Bipartisan Backlash Over Russian Oil Deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/trump-s-russian-oil-deal-draws-strong-bipartisan-backlash-271429189814" target="_blank">Trump Faces Intense Bipartisan Backlash Over Russian Oil Deal</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-10-12 11:27</span>
             </div>
         </div>
 </div>
@@ -242,6 +232,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/Microsoft-Office-2024-Professional-Plus-for-Windows-1-e1791827413273.jpg?fit=768%2C511&amp;quality=60&amp;ssl=1" alt="Turn Word, Excel, PowerPoint, Outlook, OneNote, and Access into a one-time $50 purchase" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/10/12/turn-word-excel-powerpoint-outlook-onenote-and-access-into-a-one-time-50-purchase.html" target="_blank">Turn Word, Excel, PowerPoint, Outlook, OneNote, and Access into a one-time $50 purchase</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-10-12 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M4RW43V2P35YJQH7W5D1V310/hero-image.jpg" alt="This High-Capacity Anker Power Station Is 46% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/anker-power-station-deal-october-2026?utm_medium=RSS" target="_blank">This High-Capacity Anker Power Station Is 46% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-10-12 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/AdGuard-VPN-e1791566788507.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="For the next 3 days, this $360 VPN is only $35" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -265,6 +273,24 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/10/13/23-years-of-child-s-play" target="_blank">23 years of Child&#x27;s Play!</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-10-13 03:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.questionablecontent.net/comics/5937.png" alt="Listening And Learning" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5937" target="_blank">Listening And Learning</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-10-13 01:03</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1791677099-20261012.png" alt="Saturday Morning Breakfast Cereal - Random" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -282,31 +308,13 @@
                 <span class="time">2026-10-12 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/rejected_space_mission_profiles.png" alt="Rejected Space Mission Profiles" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3310/" target="_blank">Rejected Space Mission Profiles</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-10-12 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5936.png" alt="Anh In Time Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5936" target="_blank">Anh In Time Out</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-10-12 01:15</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 35 | 📡 Total Sources: 40 | 📸 With Images: 273 |
-        🔄 Last Updated: 23:19 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 33 | 📡 Total Sources: 40 | 📸 With Images: 273 |
+        🔄 Last Updated: 04:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
