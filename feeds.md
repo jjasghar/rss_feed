@@ -1,42 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-10-14 14:07:49 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-14 19:00:34 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 20 new posts out of 34 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 15 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, October 14, 2026 - 14:08 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, October 14, 2026 - 19:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -83,6 +78,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/10/14/nx-s1-6000593/inflation-consumer-prices-cpi-social-security-benefits" target="_blank">Inflation sizzled in September — and Social Security benefits will get a boost</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-10-14 13:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/10/14/nx-s1-6000593/inflation-consumer-prices-cpi-social-security-benefits" target="_blank">Inflation sizzled in September -- and Social Security benefits will get a boost</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-10-14 13:33</span>
@@ -97,20 +101,47 @@
                 <span class="time">2026-10-14 13:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0ee/live/d48bf4b0-c7c6-11f1-9a39-31b474234113.jpg" alt="Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss" target="_blank">Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-14 13:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/10/14/hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear/" target="_blank">Hiyd is a health tracker that attaches to the watch you already wear</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-10-14 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy" target="_blank">Now that Character.AI is going bankrupt, what happens to all of its users&amp;#8217; data?</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-10-14 18:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6ace87bed95d506835d511b4/master/pass/AI-Lab-AI-Coming-for-Other-Areas-of-Science-Businesspsd.jpg" alt="AI Came for Math. Now It’s Chasing the Rest of Science" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/" target="_blank">AI Came for Math. Now It’s Chasing the Rest of Science</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-10-14 18:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298087641-500x500-1791994331.jpg" alt="Researchers use AI to design proteins that cut up other proteins" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/" target="_blank">Researchers use AI to design proteins that cut up other proteins</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-10-14 17:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -129,42 +160,6 @@
                 <span class="time">2026-10-14 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6aceab66cc5b61e4cd2bfb17/master/pass/Man-Arrested-for-Listening-Device-in-OpenAI-Office-Security.jpg" alt="An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/" target="_blank">An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-10-13 23:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/" target="_blank">Science Corporation implants its vision-restoring chip in its first Stargardt disease patient</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-10-13 23:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction" target="_blank">Apple’s HomeView ad is confusing to everyone except parents</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-10-13 22:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Anthropic Reinvents Source Control As Claude Floods the World With Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://developers.slashdot.org/story/26/10/14/0244248/anthropic-reinvents-source-control-as-claude-floods-the-world-with-code?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Anthropic Reinvents Source Control As Claude Floods the World With Code</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,10 +168,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Apple-Clang-SSAF-Driver" target="_blank">Apple Contributes SSAF Driver To LLVM Clang For Source Code Transformations</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-14 18:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/curl-vulnerabilities-fixes-available" target="_blank">Fixes available for CVE-2026-92392 and other curl vulnerabilities</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-10-14 16:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/etairos/ledger-finds-lte-seed-stealing-implant-in-wallets-sold-by-cryptobilis-86m-drained-2jd2" target="_blank">Ledger Finds LTE Seed-Stealing Implant in Wallets Sold by CryptoBilis, $86M Drained</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-10-14 14:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/10/meta-private-process-ai-glasses/en/headerimage/generatedHeaderImage-1790823797609.jpg" alt="Meta Extends Confidential Computing to AI Glasses with Private Processing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/10/meta-private-process-ai-glasses/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Meta Extends Confidential Computing to AI Glasses with Private Processing</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-10-14 13:57</span>
             </div>
         </div>
 <div class="story">
@@ -197,38 +219,20 @@
                 <span class="time">2026-10-14 13:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17496977/strata-file-manager" target="_blank">This Rust File Manager Was Designed for Omarchy, but Arch Users Can Run it Too</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-10-14 03:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/top-5-operators-red-hat-openshift" target="_blank">Top 5 operators for Red Hat OpenShift</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2026-10-14 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/silviutech/agentes-llm-un-buzon-con-contrato-de-consumo-4cgo" target="_blank">Agentes LLM: un buzón con contrato de consumo</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-13 23:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/" target="_blank">U.K. Sanctions Cryptomus for RU Money Laundering</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2026-10-14 14:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -243,6 +247,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/10/Tom-Cruise-staring-down-Eren-Yeager-Mappa-Warner-Bros-1280x853.jpeg" alt="Something About Tom Cruise Meeting Attack On Titan’s Eren Yeager Feels So Wrong, Yet So Right" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/something-about-tom-cruise-meeting-eren-yeager-feels-so-wrong-yet-so-right-2000746011" target="_blank">Something About Tom Cruise Meeting Attack On Titan’s Eren Yeager Feels So Wrong, Yet So Right</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-14 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M4XSXBHARYXTD4AR9R7KC435/hero-image.jpg" alt="The Best OLED TV for Most People Is $400 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-s90h-oled-tv-sale-october-2026?utm_medium=RSS" target="_blank">The Best OLED TV for Most People Is $400 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-10-14 18:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/10/Enshrouded_1.0-Featured-Image_KEYART_16x9_4k-1280x720.jpg" alt="Enshrouded Is A Survival Adventure Perfected To A Form Of Art By Its Players" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,20 +301,20 @@
                 <span class="time">2026-10-13 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/Screenshot-weather.theojaffee.net_.jpg?fit=1080%2C519&amp;quality=60&amp;ssl=1" alt="Interactive weather atlas shows where in the world you&#x27;d love to live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/10/13/interactive-weather-atlas-shows-where-in-the-world-youd-love-to-live.html" target="_blank">Interactive weather atlas shows where in the world you&#x27;d love to live</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-10-13 20:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1791942559-20261014.png" alt="Saturday Morning Breakfast Cereal - Break" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/break" target="_blank">Saturday Morning Breakfast Cereal - Break</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-10-14 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -311,22 +333,13 @@
                 <span class="time">2026-10-14 01:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1791677157-20261013.png" alt="Saturday Morning Breakfast Cereal - Long" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/long-2" target="_blank">Saturday Morning Breakfast Cereal - Long</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-10-13 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 45 | 📡 Total Sources: 40 | 📸 With Images: 268 |
-        🔄 Last Updated: 14:08 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 51 | 📡 Total Sources: 40 | 📸 With Images: 269 |
+        🔄 Last Updated: 19:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
