@@ -1,30 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-10-14 08:07:06 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-10-14 14:07:49 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 22 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 20 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, October 14, 2026 - 08:07 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, October 14, 2026 - 14:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,57 +53,57 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
-            
+            <img src="https://s.abcnews.com/images/Business/social-security-1-as-gmh-261013_1791919374095_hpMain_4x3t_384.jpg" alt="Social Security Administration says cost-of-living adjustment will rise 3.6% in 2027" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/10/14/palestinians-say-israels-democracy-is-a?traffic_source=rss" target="_blank">Palestinians say Israel’s democracy ‘is a joke’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-14 07:41</span>
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Business/social-security-administration-cost-living-adjustment-rise-36/story?id=137234823" target="_blank">Social Security Administration says cost-of-living adjustment will rise 3.6% in 2027</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-14 13:45</span>
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a64/live/28983df0-c7b5-11f1-bc2e-018d645d8d21.jpg" alt="Russell Brand was a &#x27;sexual predator&#x27;, says prosecution as rape trial begins" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/14/nx-s1-6001398/white-house-media-ban" target="_blank">CNN, MS NOW and Politico prevail against White House — for now</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-14 07:16</span>
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c3qjn45pepx1o?at_medium=RSS&at_campaign=rss" target="_blank">Russell Brand was a &#x27;sexual predator&#x27;, says prosecution as rape trial begins</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-14 13:42</span>
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/10/14/pakistan-khyber-pakhtunkhwa-protests-emergency-rule?traffic_source=rss" target="_blank">Violence in Pakistan over emergency rule in Imran Khan stronghold</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-14 01:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261013-Jon-Ossoff-aa-826-903da9.jpg" alt="In heated Georgia Senate debate, Jon Ossoff says he won’t run for president in 2028" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261013-Grocery-aa-630-46f888.jpg" alt="Social Security recipients will receive a 3.6% cost-of-living increase in 2027" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/heated-georgia-senate-debate-jon-ossoff-says-wont-run-president-2028-rcna603300" target="_blank">In heated Georgia Senate debate, Jon Ossoff says he won’t run for president in 2028</a></span>
+                <span class="title"><a href="https://www.nbcnews.com/business/personal-finance/social-security-cola-2027-increase-rcna603284" target="_blank">Social Security recipients will receive a 3.6% cost-of-living increase in 2027</a></span>
                 <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-10-14 01:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/10/13/manchester-uniteds-martinez-blasts-boards-lack-of-investment?traffic_source=rss" target="_blank">Manchester United’s Martinez blasts board’s lack of investment</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-13 22:57</span>
+                <span class="time">2026-10-14 13:35</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/13/g-s1-147968/pope-leo-has-lung-cancer-vatican-announces" target="_blank">Pope Leo has lung cancer, the Vatican announces after surgery</a></span>
+                <span class="title"><a href="https://www.npr.org/2026/10/14/nx-s1-6000593/inflation-consumer-prices-cpi-social-security-benefits" target="_blank">Inflation sizzled in September -- and Social Security benefits will get a boost</a></span>
                 <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-13 22:29</span>
+                <span class="time">2026-10-14 13:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/10/14/uk-restaurateur-claims-losses-after-video-calling-for-gaza-destruction?traffic_source=rss" target="_blank">UK restaurateur claims losses after video calling for Gaza destruction</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-14 13:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0ee/live/d48bf4b0-c7c6-11f1-9a39-31b474234113.jpg" alt="Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss" target="_blank">Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-14 13:11</span>
             </div>
         </div>
 </div>
@@ -99,6 +111,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/1010433/jason-jones-ai-novel-halo-destiny" target="_blank">Halo&amp;#8217;s co-creator wrote a novel about AI taking over the world</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-10-14 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/10/14/ntangible-bets-it-can-predict-how-athletes-will-perform-under-pressure/" target="_blank">NTangible bets it can predict how athletes will perform under pressure</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-10-14 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6aceab66cc5b61e4cd2bfb17/master/pass/Man-Arrested-for-Listening-Device-in-OpenAI-Office-Security.jpg" alt="An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -127,28 +157,10 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney" target="_blank">Character.AI files for bankruptcy</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-10-13 10:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="GTA 6 Is Reportedly Coming to PC In Early 2027" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Anthropic Reinvents Source Control As Claude Floods the World With Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://games.slashdot.org/story/26/10/13/204232/gta-6-is-reportedly-coming-to-pc-in-early-2027?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">GTA 6 Is Reportedly Coming to PC In Early 2027</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Anthropic Bans Cruelty Toward Claude" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://slashdot.org/story/26/10/13/1857238/anthropic-bans-cruelty-toward-claude?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Anthropic Bans Cruelty Toward Claude</a></span>
+                <span class="title"><a href="https://developers.slashdot.org/story/26/10/14/0244248/anthropic-reinvents-source-control-as-claude-floods-the-world-with-code?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Anthropic Reinvents Source Control As Claude Floods the World With Code</a></span>
                 <span class="feed">Slashdot</span>
                 
             </div>
@@ -162,54 +174,54 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/silviutech/agentes-llm-un-buzon-con-contrato-de-consumo-4cgo" target="_blank">Agentes LLM: un buzón con contrato de consumo</a></span>
+                <span class="title"><a href="https://dev.to/etairos/ledger-finds-lte-seed-stealing-implant-in-wallets-sold-by-cryptobilis-86m-drained-2jd2" target="_blank">Ledger Finds LTE Seed-Stealing Implant in Wallets Sold by CryptoBilis, $86M Drained</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2026-10-13 23:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-ISPC-1.32-Released" target="_blank">Intel ISPC 1.32 Released With AVX10.2 &amp; APX Support, Even AMD Zen 6 Too</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-10-13 20:57</span>
+                <span class="time">2026-10-14 14:04</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/" target="_blank">OpenAI engineer arrested in bugging of executive conference room</a></span>
+                <span class="title"><a href="https://www.admin.ch/en/newnsb/NMn5s24l8NjQ" target="_blank">Switzerland proposes banning profiling-based ads to minors</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2026-10-13 20:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2025/10/onlyoffice-logo-hero-406x232.jpg" alt="ONLYOFFICE 10.0 is a ‘fully rebuilt app’ with expanded AI tools" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/onlyoffice-10-expands-ai-tools" target="_blank">ONLYOFFICE 10.0 is a ‘fully rebuilt app’ with expanded AI tools</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-10-13 18:16</span>
+                <span class="time">2026-10-14 13:20</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/" target="_blank">GitHub’s model for secret detection: Finding more secrets with less noise</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-10-13 17:56</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/HP-EliteBook-6-Q1q-Linux-Patch" target="_blank">HP EliteBook 6 G1q Powered By Snapdragon X1 Plus Sees Linux Patches</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-14 13:10</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17496630/firefox-enterprise" target="_blank">With an Eye on Europe, Mozilla Launches Firefox Enterprise With Self-Hosted Browser Management</a></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17496977/strata-file-manager" target="_blank">This Rust File Manager Was Designed for Omarchy, but Arch Users Can Run it Too</a></span>
                 <span class="feed">It's FOSS</span>
-                <span class="time">2026-10-13 17:16</span>
+                <span class="time">2026-10-14 03:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/top-5-operators-red-hat-openshift" target="_blank">Top 5 operators for Red Hat OpenShift</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2026-10-14 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/silviutech/agentes-llm-un-buzon-con-contrato-de-consumo-4cgo" target="_blank">Agentes LLM: un buzón con contrato de consumo</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-13 23:22</span>
             </div>
         </div>
 </div>
@@ -231,6 +243,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/10/Enshrouded_1.0-Featured-Image_KEYART_16x9_4k-1280x720.jpg" alt="Enshrouded Is A Survival Adventure Perfected To A Form Of Art By Its Players" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/enshrouded-is-a-survival-game-evolved-into-an-art-form-by-its-players-2000728929" target="_blank">Enshrouded Is A Survival Adventure Perfected To A Form Of Art By Its Players</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-14 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M4W4GS5GZYX26QCSRR358TT1/hero-image.jpg" alt="The AirPods Max 2 Are $120 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/apple-airpods-max-2-sale-october-2026?utm_medium=RSS" target="_blank">The AirPods Max 2 Are $120 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-10-14 12:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/10/levelord-1280x720.jpg" alt="Famous And Innovative Duke Nukem, Quake Level Designer ‘Levelord’ Has Died" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,6 +294,24 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/10/14/grand-admiral-pron" target="_blank">Grand Admiral Pron</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-10-14 07:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.questionablecontent.net/comics/5938.png" alt="This Is The Way It Goes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5938" target="_blank">This Is The Way It Goes</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-10-14 01:03</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1791677157-20261013.png" alt="Saturday Morning Breakfast Cereal - Long" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -277,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 32 | 📡 Total Sources: 40 | 📸 With Images: 267 |
-        🔄 Last Updated: 08:07 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 45 | 📡 Total Sources: 40 | 📸 With Images: 268 |
+        🔄 Last Updated: 14:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
