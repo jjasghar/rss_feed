@@ -1,37 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-10-14 19:00:34 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-10-14 22:47:00 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 15 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 15 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, October 14, 2026 - 19:00 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, October 14, 2026 - 22:47 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +49,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/10/14/real-madrid-come-from-3-1-down-to-beat-roma-on-champions-league-travels?traffic_source=rss" target="_blank">Real Madrid come from 3-1 down to beat Roma on Champions League travels</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-14 21:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/10/14/nx-s1-6001592/arctic-sea-change-rana-foroohar" target="_blank">Aboard an icebreaker, a writer got a closer look at the Arctic&#x27;s &#x27;Sea Change&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-10-14 19:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story" target="_blank">Zimbabwean author Simbarashe Kundizeza denies using AI to write prize-winning story</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-10-14 19:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af54/live/088f5d80-c7d9-11f1-9a39-31b474234113.jpg" alt="Russell Brand was a &#x27;sexual predator&#x27;, prosecution alleges as rape trial begins" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c3qjn45pepx1o?at_medium=RSS&at_campaign=rss" target="_blank">Russell Brand was a &#x27;sexual predator&#x27;, prosecution alleges as rape trial begins</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-14 17:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Business/social-security-1-as-gmh-261013_1791919374095_hpMain_4x3t_384.jpg" alt="Social Security Administration says cost-of-living adjustment will rise 3.6% in 2027" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -65,47 +103,38 @@
                 <span class="time">2026-10-14 13:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261013-Grocery-aa-630-46f888.jpg" alt="Social Security recipients will receive a 3.6% cost-of-living increase in 2027" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/business/personal-finance/social-security-cola-2027-increase-rcna603284" target="_blank">Social Security recipients will receive a 3.6% cost-of-living increase in 2027</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-10-14 13:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/14/nx-s1-6000593/inflation-consumer-prices-cpi-social-security-benefits" target="_blank">Inflation sizzled in September — and Social Security benefits will get a boost</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-14 13:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/14/nx-s1-6000593/inflation-consumer-prices-cpi-social-security-benefits" target="_blank">Inflation sizzled in September -- and Social Security benefits will get a boost</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-14 13:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/10/14/uk-restaurateur-claims-losses-after-video-calling-for-gaza-destruction?traffic_source=rss" target="_blank">UK restaurateur claims losses after video calling for Gaza destruction</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-14 13:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature" target="_blank">The best feature of Apple’s HomeView might be its simplicity</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-10-14 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/" target="_blank">CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-10-14 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6ace7cf375ef8eec0d5b4a47/master/pass/politics_white_house_midterms_trump.jpg" alt="Trump Aides Admit the House Is a Lost Cause" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/trump-aides-admit-the-house-is-a-lost-cause/" target="_blank">Trump Aides Admit the House Is a Lost Cause</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-10-14 21:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -133,33 +162,6 @@
                 <span class="time">2026-10-14 18:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298087641-500x500-1791994331.jpg" alt="Researchers use AI to design proteins that cut up other proteins" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/" target="_blank">Researchers use AI to design proteins that cut up other proteins</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-10-14 17:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/1010433/jason-jones-ai-novel-halo-destiny" target="_blank">Halo&amp;#8217;s co-creator wrote a novel about AI taking over the world</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-10-14 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/10/14/ntangible-bets-it-can-predict-how-athletes-will-perform-under-pressure/" target="_blank">NTangible bets it can predict how athletes will perform under pressure</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-10-14 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -168,10 +170,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17497690/open-productivity-opendesk-joint-venture" target="_blank">A Joint Venture of Open Source Proportions! Open Productivity is Here</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-10-14 20:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Apple-Clang-SSAF-Driver" target="_blank">Apple Contributes SSAF Driver To LLVM Clang For Source Code Transformations</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-10-14 18:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/ubers-ai-infra-from-the-inside" target="_blank">Uber’s AI infra, from the inside</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-10-14 17:06</span>
             </div>
         </div>
 <div class="story">
@@ -201,29 +221,20 @@
                 <span class="time">2026-10-14 13:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.admin.ch/en/newnsb/NMn5s24l8NjQ" target="_blank">Switzerland proposes banning profiling-based ads to minors</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-10-14 13:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/HP-EliteBook-6-Q1q-Linux-Patch" target="_blank">HP EliteBook 6 G1q Powered By Snapdragon X1 Plus Sees Linux Patches</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-10-14 13:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/10/upcoming-speaking-engagements-61.html" target="_blank">Upcoming Speaking Engagements</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-10-14 16:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -247,6 +258,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/10/peely.jpg" alt="Epic Dunks On Steam With Vibe-Coded Storefront And Gets Roasted: ‘This Launcher Is So F*cking Vibeslopped Its Funny’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/epic-dunks-on-steam-with-vibe-coded-storefront-and-gets-roasted-this-launcher-is-so-fucking-vibeslopped-its-funny-2000746031" target="_blank">Epic Dunks On Steam With Vibe-Coded Storefront And Gets Roasted: ‘This Launcher Is So F*cking Vibeslopped Its Funny’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-14 21:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-10-14 21:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/The-Ultimate-Microsoft-Office-Professional-2021-for-Windows-1.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Upgrade your PC for just $35 with Office 2021 and Windows 11 Pro" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/10/14/upgrade-your-pc-for-just-35-with-office-2021-and-windows-11-pro.html" target="_blank">Upgrade your PC for just $35 with Office 2021 and Windows 11 Pro</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-10-14 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/10/Tom-Cruise-staring-down-Eren-Yeager-Mappa-Warner-Bros-1280x853.jpeg" alt="Something About Tom Cruise Meeting Attack On Titan’s Eren Yeager Feels So Wrong, Yet So Right" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,38 +312,20 @@
                 <span class="time">2026-10-14 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M4W4GS5GZYX26QCSRR358TT1/hero-image.jpg" alt="The AirPods Max 2 Are $120 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/apple-airpods-max-2-sale-october-2026?utm_medium=RSS" target="_blank">The AirPods Max 2 Are $120 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-10-14 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/10/levelord-1280x720.jpg" alt="Famous And Innovative Duke Nukem, Quake Level Designer ‘Levelord’ Has Died" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/famous-and-innovative-duke-nukem-quake-level-designer-levelord-has-died-2000745380" target="_blank">Famous And Innovative Duke Nukem, Quake Level Designer ‘Levelord’ Has Died</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-13 21:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M4VENM929QDR255FWTEBC7NT/hero-image.jpg" alt="Four Ways the Fitbit Edge Is Better Than the Charge 6, and Two Ways It Isn’t" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/fitbit-edge-vs-charge-6?utm_medium=RSS" target="_blank">Four Ways the Fitbit Edge Is Better Than the Charge 6, and Two Ways It Isn’t</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-10-13 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/10/14/grand-admiral-pron" target="_blank">Grand Admiral Pron</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-10-14 20:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1791942559-20261014.png" alt="Saturday Morning Breakfast Cereal - Break" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -338,8 +358,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 51 | 📡 Total Sources: 40 | 📸 With Images: 269 |
-        🔄 Last Updated: 19:00 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 56 | 📡 Total Sources: 40 | 📸 With Images: 263 |
+        🔄 Last Updated: 22:47 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
