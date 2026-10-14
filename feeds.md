@@ -1,42 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-10-13 23:28:34 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-10-14 02:30:36 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 14 new posts out of 33 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, October 13, 2026 - 23:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, October 14, 2026 - 02:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/10/14/pakistan-khyber-pakhtunkhwa-protests-emergency-rule?traffic_source=rss" target="_blank">Violence in Pakistan over emergency rule in Imran Khan stronghold</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-14 01:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261013-Jon-Ossoff-aa-826-903da9.jpg" alt="In heated Georgia Senate debate, Jon Ossoff says he won’t run for president in 2028" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/heated-georgia-senate-debate-jon-ossoff-says-wont-run-president-2028-rcna603300" target="_blank">In heated Georgia Senate debate, Jon Ossoff says he won’t run for president in 2028</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-10-14 01:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,24 +97,6 @@
                 <span class="time">2026-10-13 20:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/13/trump-says-houthis-trying-to-increase-oil-prices-before-us-elections?traffic_source=rss" target="_blank">Trump says Houthis trying to increase oil prices before US elections</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-13 19:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-popeleo-pope_7376183.jpg?20261013192537" alt="Cancer found after Pope had part of his lung removed during &#x27;successful&#x27; surgery" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/popes-lung-surgery-was-successful-and-went-as-planned-vatican-says-13598965" target="_blank">Cancer found after Pope had part of his lung removed during &#x27;successful&#x27; surgery</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-10-13 18:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -133,6 +124,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction" target="_blank">Apple’s HomeView ad is confusing to everyone except parents</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-10-13 22:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney" target="_blank">Character.AI files for bankruptcy</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-10-13 10:32</span>
@@ -152,15 +152,6 @@
             <div class="story-content">
                 <span class="fa fa-fw fa-comments"></span>
                 <span class="title"><a href="https://slashdot.org/story/26/10/13/1857238/anthropic-bans-cruelty-toward-claude?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Anthropic Bans Cruelty Toward Claude</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="After a 10-Year Redemption Arc, No Man&#x27;s Sky Is Coming to the iPhone and iPad" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://games.slashdot.org/story/26/10/13/0435236/after-a-10-year-redemption-arc-no-mans-sky-is-coming-to-the-iphone-and-ipad?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">After a 10-Year Redemption Arc, No Man&#x27;s Sky Is Coming to the iPhone and iPad</a></span>
                 <span class="feed">Slashdot</span>
                 
             </div>
@@ -198,6 +189,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2025/10/onlyoffice-logo-hero-406x232.jpg" alt="ONLYOFFICE 10.0 is a ‘fully rebuilt app’ with expanded AI tools" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/onlyoffice-10-expands-ai-tools" target="_blank">ONLYOFFICE 10.0 is a ‘fully rebuilt app’ with expanded AI tools</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-10-13 18:16</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-github"></span>
@@ -209,19 +209,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/10/13/why-your-sandbox-never-quite-matches-production-and-why-that-s-fine/" target="_blank">Why Your Sandbox Never Quite Matches Production (And Why That&#x27;s Fine)</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-10-13 16:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!P4Ph!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fad7aee47-aa20-4fc7-8e43-ae2bf2360782_1320x716.png" alt="Building resilient AI-powered software, and planning for when things go wrong" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/building-resilient-systems" target="_blank">Building resilient AI-powered software, and planning for when things go wrong</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-10-13 16:03</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17496630/firefox-enterprise" target="_blank">With an Eye on Europe, Mozilla Launches Firefox Enterprise With Self-Hosted Browser Management</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-10-13 17:16</span>
             </div>
         </div>
 </div>
@@ -247,6 +238,15 @@
                 <span class="time">2026-10-13 21:30</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/Screenshot-weather.theojaffee.net_.jpg?fit=1080%2C519&amp;quality=60&amp;ssl=1" alt="Interactive weather atlas shows where in the world you&#x27;d love to live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/10/13/interactive-weather-atlas-shows-where-in-the-world-youd-love-to-live.html" target="_blank">Interactive weather atlas shows where in the world you&#x27;d love to live</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-10-13 20:11</span>
+            </div>
+        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -270,22 +270,13 @@
                 <span class="time">2026-10-13 03:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5937.png" alt="Listening And Learning" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5937" target="_blank">Listening And Learning</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-10-13 01:03</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 29 | 📡 Total Sources: 40 | 📸 With Images: 272 |
-        🔄 Last Updated: 23:28 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 31 | 📡 Total Sources: 40 | 📸 With Images: 269 |
+        🔄 Last Updated: 02:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
