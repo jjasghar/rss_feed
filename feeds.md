@@ -1,39 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-10-15 06:39:07 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-10-15 12:14:09 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 31 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 15 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, October 15, 2026 - 06:39 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, October 15, 2026 - 12:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +54,42 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88a4/live/d60d4d30-c879-11f1-a64c-550be9e3c66b.jpg" alt="Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss" target="_blank">Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-15 12:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/15/us-iran-stalemate-what-are-trumps-next-military-options?traffic_source=rss" target="_blank">US-Iran stalemate: What are Trump’s next military options?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-15 11:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/935c/live/1c24f8c0-22eb-11f1-abe1-05da6de99c2b.png" alt="UK threatens to ban Eritreans over migrant return policy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c30rl1q1j200o?at_medium=RSS&at_campaign=rss" target="_blank">UK threatens to ban Eritreans over migrant return policy</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-15 09:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch" target="_blank">LGBTQ+ people go into hiding in Senegal as hundreds are arrested</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-10-15 08:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -59,48 +99,12 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/15/costa-rica-opens-mega-prison-as-bukele-model-embraced-across-latin-america?traffic_source=rss" target="_blank">Costa Rica opens mega-prison as Bukele model embraced across Latin America</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-15 00:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/1792019902243_nn_tll_michigan_midterm_battle_261014_S3_1920x1080-7jf5e3.jpg" alt="Inside Michigan’s critical midterm Senate battle" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261014-trump-montana-vsb-2157-f2e9d9.jpg" alt="Trump touts booming economy at Montana rally, but supporters feel the pinch" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/inside-michigan-s-critical-midterm-senate-battle-271594053925" target="_blank">Inside Michigan’s critical midterm Senate battle</a></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/trump-touts-booming-economy-montana-rally-supporters-feel-pinch-rcna603000" target="_blank">Trump touts booming economy at Montana rally, but supporters feel the pinch</a></span>
                 <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-10-14 23:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/10/14/real-madrid-come-from-3-1-down-to-beat-roma-on-champions-league-travels?traffic_source=rss" target="_blank">Real Madrid come from 3-1 down to beat Roma on Champions League travels</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-14 21:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a29b/live/2b9027f0-c807-11f1-aff0-65f8bbf884f7.jpg" alt="Musk says US government may be behind slowdown of Ukraine drone speeds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss" target="_blank">Musk says US government may be behind slowdown of Ukraine drone speeds</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-14 20:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/14/nx-s1-6001592/arctic-sea-change-rana-foroohar" target="_blank">Aboard an icebreaker, a writer got a closer look at the Arctic&#x27;s &#x27;Sea Change&#x27;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-14 19:42</span>
+                <span class="time">2026-10-15 05:20</span>
             </div>
         </div>
 </div>
@@ -108,6 +112,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/" target="_blank">Amazon’s Bee launches two new personal AI devices, starting at $75</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-10-15 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6acfb4b1bca2b73e26f409dc/master/pass/Kids-Content-Deeply-Broken-Culture-Mockup_Gradient_Channels.jpg" alt="Kids’ Content Is Deeply Broken. A New Platform Wants to Fix It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/maka-streaming-platform-for-kids-fighting-against-ai-slop/" target="_blank">Kids’ Content Is Deeply Broken. A New Platform Wants to Fix It</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-10-15 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png" alt="Lenovo Coupon Codes: 15% Off in October 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,29 +166,38 @@
                 <span class="time">2026-10-14 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/mass-fridge-hack-500x500-1792011300.jpg" alt="Fridge hack costing millions and sparking fires stemmed from poor security" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/" target="_blank">Fridge hack costing millions and sparking fires stemmed from poor security</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-10-14 21:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6ace7cf375ef8eec0d5b4a47/master/pass/politics_white_house_midterms_trump.jpg" alt="Trump Aides Admit the House Is a Lost Cause" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/trump-aides-admit-the-house-is-a-lost-cause/" target="_blank">Trump Aides Admit the House Is a Lost Cause</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-10-14 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/wapgrowai_org/your-whatsapp-ai-agent-works-in-a-demo-heres-what-breaks-in-production-45nn" target="_blank">Your WhatsApp AI Agent Works in a Demo. Here&#x27;s What Breaks in Production.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-15 12:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/10/optimize-software-workflow/en/headerimage/header-1791282094936.jpg" alt="Optimizing Software Workflow: Exploring Fundamental Impacts in Technology" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/10/optimize-software-workflow/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Optimizing Software Workflow: Exploring Fundamental Impacts in Technology</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-10-15 11:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-26.10-Released" target="_blank">Ubuntu 26.10 Released With Linux 7.3 + GNOME 51, Rust Coreutils Migration Complete</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-15 11:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -192,33 +223,6 @@
                 <span class="title"><a href="https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/" target="_blank">Things to know when you get cancer</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-10-14 19:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/" target="_blank">Things to know when you get cancer – 2026 Edition</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-10-14 19:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Framework-More-CachyOS" target="_blank">Framework Computers Triples Their Financial Support To CachyOS</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-10-14 19:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Apple-Clang-SSAF-Driver" target="_blank">Apple Contributes SSAF Driver To LLVM Clang For Source Code Transformations</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-10-14 18:45</span>
             </div>
         </div>
 </div>
@@ -249,6 +253,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/10/anno-1280x720.jpg" alt="The Ubisoft Carnage Continues, With One In Six German Staff Asked To Voluntarily Resign" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ubisoft-job-losses-germany-anno-rayman-prince-of-persia-layoffs-2000746312" target="_blank">The Ubisoft Carnage Continues, With One In Six German Staff Asked To Voluntarily Resign</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-15 11:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/10/peely.jpg" alt="Epic Dunks On Steam With Vibe-Coded Storefront And Gets Roasted: ‘This Launcher Is So F*cking Vibeslopped Its Funny’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -294,20 +307,20 @@
                 <span class="time">2026-10-14 18:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/10/Enshrouded_1.0-Featured-Image_KEYART_16x9_4k-1280x720.jpg" alt="Enshrouded Is A Survival Adventure Perfected To A Form Of Art By Its Players" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/enshrouded-is-a-survival-game-evolved-into-an-art-form-by-its-players-2000728929" target="_blank">Enshrouded Is A Survival Adventure Perfected To A Form Of Art By Its Players</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-14 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.questionablecontent.net/comics/5939.png" alt="Holistic Medicine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5939" target="_blank">Holistic Medicine</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-10-15 02:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -326,22 +339,13 @@
                 <span class="time">2026-10-14 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/10/14/grand-admiral-pron" target="_blank">Grand Admiral Pron</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-10-14 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 58 | 📡 Total Sources: 40 | 📸 With Images: 263 |
-        🔄 Last Updated: 06:39 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 68 | 📡 Total Sources: 40 | 📸 With Images: 265 |
+        🔄 Last Updated: 12:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
