@@ -1,40 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-10-15 20:38:28 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-15 23:22:51 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 16 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Thursday, October 15, 2026 - 20:38 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, October 15, 2026 - 23:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/silver-rail-6-rt-er-261015_1792104446762_hpMain_4x3t_384.jpg" alt="At least 3 dead in Oregon elementary school shooting, sources say; suspect also dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/multiple-people-injured-shooting-oregon-elementary-school-suspect/story?id=137303119" target="_blank">At least 3 dead in Oregon elementary school shooting, sources say; suspect also dead</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-15 22:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,20 +105,38 @@
                 <span class="time">2026-10-15 16:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5a5/live/e6dbe1a0-81f0-11f1-b6ff-e9b8db4416d1.jpg" alt="Former DUP leader Donaldson sentenced to 15 years in prison for child sex abuse" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwdr8grnykrlo?at_medium=RSS&at_campaign=rss" target="_blank">Former DUP leader Donaldson sentenced to 15 years in prison for child sex abuse</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-15 15:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/1012541/valve-steam-achievement-sets" target="_blank">Steam can now show game achievements in separate ‘sets’</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-10-15 23:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/KDE_Birthday_30th_Laptop-500x500.png" alt="KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/10/kde-turns-30-with-plasma-6-8-remote-upgrades-and-an-x11-farewell/" target="_blank">KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-10-15 22:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6acff05076c17d102a553f12/master/pass/Uncanny-Valley-Meta-Sexting-Business-2296314651.jpg" alt="We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/" target="_blank">We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-10-15 21:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -136,38 +164,20 @@
                 <span class="time">2026-10-15 16:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/" target="_blank">Amazon’s Bee launches two new personal AI devices, starting at $75</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-10-15 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6acfb4b1bca2b73e26f409dc/master/pass/Kids-Content-Deeply-Broken-Culture-Mockup_Gradient_Channels.jpg" alt="Kids’ Content Is Deeply Broken. A New Platform Wants to Fix It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/maka-streaming-platform-for-kids-fighting-against-ai-slop/" target="_blank">Kids’ Content Is Deeply Broken. A New Platform Wants to Fix It</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-10-15 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png" alt="Lenovo Coupon Codes: 15% Off in October 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/lenovo-coupon-code/" target="_blank">Lenovo Coupon Codes: 15% Off in October 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-10-15 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/timevolt/rate-limiting-like-gandalf-building-a-distributed-cache-with-redis-4a28" target="_blank">Rate Limiting Like Gandalf: Building a Distributed Cache with Redis</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-15 23:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -213,13 +223,18 @@
                 <span class="time">2026-10-15 17:24</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!I8Qf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F722b7b9e-4a5d-412c-9aa3-22019bcf0c2d_2048x1444.png" alt="The Pulse: OpenAI software engineer accused of spying" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-openai-software-engineer" target="_blank">The Pulse: OpenAI software engineer accused of spying</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-10-15 16:55</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/10/measuring-human-cryptanalysis-effort.html" target="_blank">Measuring Human Cryptanalysis Effort</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-10-15 16:24</span>
             </div>
         </div>
 </div>
@@ -227,6 +242,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/10/street-fighter-movie.jpg" alt="The New Street Fighter Movie Gets Savaged By Critics, But Not Everyone Hates It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-new-street-fighter-movie-gets-savaged-by-critics-but-not-everyone-hates-it-2000746464" target="_blank">The New Street Fighter Movie Gets Savaged By Critics, But Not Everyone Hates It</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-15 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/Hostdeal-Domain-Names-Lifetime-Subscriptions.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Lock in six website domains for life for just $30" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/10/15/lock-in-six-website-domains-for-life-for-just-30.html" target="_blank">Lock in six website domains for life for just $30</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-10-15 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/10/soulbound-1280x721.jpg" alt="Whoa, This Minecraft Mod Turns The Game Into A Deltarune-Style Turn-Based RPG" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -263,29 +296,20 @@
                 <span class="time">2026-10-15 11:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/10/peely.jpg" alt="Epic Dunks On Steam With Vibe-Coded Storefront And Gets Roasted: ‘This Launcher Is So F*cking Vibeslopped Its Funny’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/epic-dunks-on-steam-with-vibe-coded-storefront-and-gets-roasted-this-launcher-is-so-fucking-vibeslopped-its-funny-2000746031" target="_blank">Epic Dunks On Steam With Vibe-Coded Storefront And Gets Roasted: ‘This Launcher Is So F*cking Vibeslopped Its Funny’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-14 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-10-14 21:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1791942607-20261015.png" alt="Saturday Morning Breakfast Cereal - Toad" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/toad" target="_blank">Saturday Morning Breakfast Cereal - Toad</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-10-15 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.questionablecontent.net/comics/5939.png" alt="Holistic Medicine" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -300,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 52 | 📡 Total Sources: 40 | 📸 With Images: 265 |
-        🔄 Last Updated: 20:38 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 51 | 📡 Total Sources: 40 | 📸 With Images: 267 |
+        🔄 Last Updated: 23:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
