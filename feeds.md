@@ -1,40 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-10-15 17:26:31 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-15 20:38:28 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 14 new posts out of 31 feeds processed -->
+<!-- Generated 16 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, October 15, 2026 - 17:26 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Thursday, October 15, 2026 - 20:38 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +50,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/10/15/nx-s1-6003857/suspicious-mailings-election-congressional-offices" target="_blank">Suspicious mailings to election officials, congressional offices under investigation</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-10-15 19:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261014-ice-houston-mn-1340-f67ac5.jpg" alt="ICE agent driving vehicle that struck, injured Houston man is placed on administrative leave" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/ice-agent-driving-vehicle-struck-injured-houston-man-placed-administra-rcna603716" target="_blank">ICE agent driving vehicle that struck, injured Houston man is placed on administrative leave</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-10-15 19:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/cornell-2-gty-gmh-261014_1792011265164_hpMain_4x3t_384.jpg" alt="Cornell president defends response to Jane Doe allegations in heated faculty meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/cornell-president-defends-response-jane-doe-allegations-heated/story?id=137290283" target="_blank">Cornell president defends response to Jane Doe allegations in heated faculty meeting</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-15 19:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/Nidal-Hasan-gty-gmh-261015_1792074004084_hpMain_4x3t_384.jpg" alt="Trump announces Nidal Hasan execution &#x27;will not be streamed&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -75,33 +102,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwdr8grnykrlo?at_medium=RSS&at_campaign=rss" target="_blank">Former DUP leader Donaldson sentenced to 15 years in prison for child sex abuse</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-10-15 15:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/1792075796422_now_current_engel_ukraine_strikes_261015_S3_1920x1080-xcklqy.jpg" alt="Ukraine resumes strikes on Russia&#x27;s oil refineries" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/ukraine-resumes-strikes-on-russia-s-oil-refineries-271626309767" target="_blank">Ukraine resumes strikes on Russia&#x27;s oil refineries</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-10-15 14:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88a4/live/d60d4d30-c879-11f1-a64c-550be9e3c66b.jpg" alt="Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss" target="_blank">Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-15 12:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/15/us-iran-stalemate-what-are-trumps-next-military-options?traffic_source=rss" target="_blank">US-Iran stalemate: What are Trump’s next military options?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-15 11:41</span>
             </div>
         </div>
 </div>
@@ -172,6 +172,42 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dannydoes_2abdf9c/cross-chain-bridge-risk-assessment-mexc-ang" target="_blank">Cross-Chain Bridge Risk Assessment: MEXC</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-15 20:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/" target="_blank">The next developer interface is ambient intelligence</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-10-15 19:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/lpddr5-5467-6400-7467" target="_blank">LPDDR5 5467 vs. 6400 vs. 7467 MT/s Memory Performance Benchmarks For Laptops</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-15 19:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://research.meta.ai/blog/muse-spark-open" target="_blank">Muse Spark Open</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-10-15 17:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/skill123/the-one-line-in-your-skillmd-that-decides-whether-your-skill-ever-fires-4dhp" target="_blank">The one line in your SKILL.md that decides whether your skill ever fires</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-10-15 17:24</span>
@@ -186,47 +222,29 @@
                 <span class="time">2026-10-15 16:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/10/instagram-compose-migration/en/headerimage/aws-reliability-dns-1792077775251.jpg" alt="Instagram Modernized Its UI with an AI-Native Architecture, Cutting Token Costs by 33%" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/10/instagram-compose-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Instagram Modernized Its UI with an AI-Native Architecture, Cutting Token Costs by 33%</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-10-15 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Dasharo-0.9-ASRock-SPC741D8" target="_blank">3mdeb Releases Updated Dasharo/Coreboot Firmware For ASRock Rack SPC741D8-2L2T</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-10-15 14:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17498285/ubuntu-26-10-release" target="_blank">Ubuntu 26.10 Has Come Out as a Rust-Packed Interim Release</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-10-15 14:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/wapgrowai_org/your-whatsapp-ai-agent-works-in-a-demo-heres-what-breaks-in-production-45nn" target="_blank">Your WhatsApp AI Agent Works in a Demo. Here&#x27;s What Breaks in Production.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-15 12:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/10/soulbound-1280x721.jpg" alt="Whoa, This Minecraft Mod Turns The Game Into A Deltarune-Style Turn-Based RPG" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/whoa-this-minecraft-mod-turns-the-game-into-a-deltarune-style-turn-based-rpg-2000746024" target="_blank">Whoa, This Minecraft Mod Turns The Game Into A Deltarune-Style Turn-Based RPG</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-15 20:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/11/matt-gaetz.jpg?fit=1500%2C1122&amp;quality=60&amp;ssl=1" alt="Trump&#x27;s almost-attorney general Matt Gaetz is now a defendant in a sex-trafficking lawsuit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/10/15/trumps-almost-attorney-general-matt-gaetz-is-now-a-defendant-in-a-sex-trafficking-lawsuit.html" target="_blank">Trump&#x27;s almost-attorney general Matt Gaetz is now a defendant in a sex-trafficking lawsuit</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-10-15 18:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K86BAKHX97TF4RK3FTKDRF49/hero-image.png" alt="My Favorite Earbuds for Sleep Are $60 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -263,24 +281,6 @@
                 <span class="time">2026-10-14 21:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/The-Ultimate-Microsoft-Office-Professional-2021-for-Windows-1.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Upgrade your PC for just $35 with Office 2021 and Windows 11 Pro" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/10/14/upgrade-your-pc-for-just-35-with-office-2021-and-windows-11-pro.html" target="_blank">Upgrade your PC for just $35 with Office 2021 and Windows 11 Pro</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-10-14 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/10/Tom-Cruise-staring-down-Eren-Yeager-Mappa-Warner-Bros-1280x853.jpeg" alt="Something About Tom Cruise Meeting Attack On Titan’s Eren Yeager Feels So Wrong, Yet So Right" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/something-about-tom-cruise-meeting-eren-yeager-feels-so-wrong-yet-so-right-2000746011" target="_blank">Something About Tom Cruise Meeting Attack On Titan’s Eren Yeager Feels So Wrong, Yet So Right</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-14 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -295,22 +295,13 @@
                 <span class="time">2026-10-15 02:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/10/14/grand-admiral-pron" target="_blank">Grand Admiral Pron</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-10-14 20:29</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 55 | 📡 Total Sources: 40 | 📸 With Images: 264 |
-        🔄 Last Updated: 17:26 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 52 | 📡 Total Sources: 40 | 📸 With Images: 265 |
+        🔄 Last Updated: 20:38 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
