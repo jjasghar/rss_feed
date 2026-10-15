@@ -1,39 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-10-14 22:47:00 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-15 01:02:47 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 15 new posts out of 30 feeds processed -->
+<!-- Generated 9 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Wednesday, October 14, 2026 - 22:47 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Thursday, October 15, 2026 - 01:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,9 +55,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/15/costa-rica-opens-mega-prison-as-bukele-model-embraced-across-latin-america?traffic_source=rss" target="_blank">Costa Rica opens mega-prison as Bukele model embraced across Latin America</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-15 00:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/1792019902243_nn_tll_michigan_midterm_battle_261014_S3_1920x1080-7jf5e3.jpg" alt="Inside Michigan’s critical midterm Senate battle" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/inside-michigan-s-critical-midterm-senate-battle-271594053925" target="_blank">Inside Michigan’s critical midterm Senate battle</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-10-14 23:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/10/14/real-madrid-come-from-3-1-down-to-beat-roma-on-champions-league-travels?traffic_source=rss" target="_blank">Real Madrid come from 3-1 down to beat Roma on Champions League travels</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-10-14 21:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a29b/live/2b9027f0-c807-11f1-aff0-65f8bbf884f7.jpg" alt="Musk says US government may be behind slowdown of Ukraine drone speeds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss" target="_blank">Musk says US government may be behind slowdown of Ukraine drone speeds</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-14 20:55</span>
             </div>
         </div>
 <div class="story">
@@ -74,33 +103,6 @@
                 <span class="title"><a href="https://www.theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story" target="_blank">Zimbabwean author Simbarashe Kundizeza denies using AI to write prize-winning story</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2026-10-14 19:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af54/live/088f5d80-c7d9-11f1-9a39-31b474234113.jpg" alt="Russell Brand was a &#x27;sexual predator&#x27;, prosecution alleges as rape trial begins" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c3qjn45pepx1o?at_medium=RSS&at_campaign=rss" target="_blank">Russell Brand was a &#x27;sexual predator&#x27;, prosecution alleges as rape trial begins</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-14 17:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Business/social-security-1-as-gmh-261013_1791919374095_hpMain_4x3t_384.jpg" alt="Social Security Administration says cost-of-living adjustment will rise 3.6% in 2027" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Business/social-security-administration-cost-living-adjustment-rise-36/story?id=137234823" target="_blank">Social Security Administration says cost-of-living adjustment will rise 3.6% in 2027</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-14 13:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a64/live/28983df0-c7b5-11f1-bc2e-018d645d8d21.jpg" alt="Russell Brand was a &#x27;sexual predator&#x27;, says prosecution as rape trial begins" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c3qjn45pepx1o?at_medium=RSS&at_campaign=rss" target="_blank">Russell Brand was a &#x27;sexual predator&#x27;, says prosecution as rape trial begins</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-14 13:42</span>
             </div>
         </div>
 </div>
@@ -124,6 +126,15 @@
                 <span class="title"><a href="https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/" target="_blank">CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-10-14 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/mass-fridge-hack-500x500-1792011300.jpg" alt="Fridge hack costing millions and sparking fires stemmed from poor security" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/" target="_blank">Fridge hack costing millions and sparking fires stemmed from poor security</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-10-14 21:35</span>
             </div>
         </div>
 <div class="story">
@@ -153,15 +164,6 @@
                 <span class="time">2026-10-14 18:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6ace87bed95d506835d511b4/master/pass/AI-Lab-AI-Coming-for-Other-Areas-of-Science-Businesspsd.jpg" alt="AI Came for Math. Now It’s Chasing the Rest of Science" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/" target="_blank">AI Came for Math. Now It’s Chasing the Rest of Science</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-10-14 18:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -179,6 +181,33 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/news-insights/company-news/github-availability-report-september-2026/" target="_blank">GitHub availability report: September 2026</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-10-14 20:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/" target="_blank">Things to know when you get cancer – 2026 Edition</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-10-14 19:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Framework-More-CachyOS" target="_blank">Framework Computers Triples Their Financial Support To CachyOS</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-14 19:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Apple-Clang-SSAF-Driver" target="_blank">Apple Contributes SSAF Driver To LLVM Clang For Source Code Transformations</a></span>
                 <span class="feed">Phoronix</span>
@@ -188,37 +217,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/ubers-ai-infra-from-the-inside" target="_blank">Uber’s AI infra, from the inside</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-10-14 17:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/curl-vulnerabilities-fixes-available" target="_blank">Fixes available for CVE-2026-92392 and other curl vulnerabilities</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-10-14 16:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/etairos/ledger-finds-lte-seed-stealing-implant-in-wallets-sold-by-cryptobilis-86m-drained-2jd2" target="_blank">Ledger Finds LTE Seed-Stealing Implant in Wallets Sold by CryptoBilis, $86M Drained</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-14 14:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/10/meta-private-process-ai-glasses/en/headerimage/generatedHeaderImage-1790823797609.jpg" alt="Meta Extends Confidential Computing to AI Glasses with Private Processing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/10/meta-private-process-ai-glasses/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Meta Extends Confidential Computing to AI Glasses with Private Processing</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-10-14 13:57</span>
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/10/14/your-next-job-doesn-t-have-a-title-yet-emerging-role-skills-q-and-a-with-corey-hymel-of-andela/" target="_blank">Your next job doesn’t have a title yet: Emerging role skills Q&amp;A with Corey Hymel of Andela</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-10-14 17:12</span>
             </div>
         </div>
 </div>
@@ -242,15 +244,6 @@
                 <span class="title"><a href="https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/" target="_blank">U.K. Sanctions Cryptomus for RU Money Laundering</a></span>
                 <span class="feed">Krebs on Security</span>
                 <span class="time">2026-10-14 14:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/" target="_blank">Microsoft Patches More Than 1,400 Security Flaws</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2026-10-13 23:24</span>
             </div>
         </div>
 </div>
@@ -345,6 +338,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/planet_database.png" alt="Planet Database" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3311/" target="_blank">Planet Database</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-10-14 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.questionablecontent.net/comics/5938.png" alt="This Is The Way It Goes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -358,8 +360,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 56 | 📡 Total Sources: 40 | 📸 With Images: 263 |
-        🔄 Last Updated: 22:47 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 58 | 📡 Total Sources: 40 | 📸 With Images: 264 |
+        🔄 Last Updated: 01:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
