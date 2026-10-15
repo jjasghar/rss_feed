@@ -1,43 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-10-15 12:14:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-15 17:26:31 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 15 new posts out of 35 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 14 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, October 15, 2026 - 12:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, October 15, 2026 - 17:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +50,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/Nidal-Hasan-gty-gmh-261015_1792074004084_hpMain_4x3t_384.jpg" alt="Trump announces Nidal Hasan execution &#x27;will not be streamed&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-announces-nidal-hasan-execution-streamed/story?id=137288098" target="_blank">Trump announces Nidal Hasan execution &#x27;will not be streamed&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-15 17:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81e4/live/8ba6bbd0-c8b2-11f1-ba4a-9b4af5820384.jpg" alt="Trump calls off livestream of Fort Hood attacker&#x27;s execution by firing squad" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss" target="_blank">Trump calls off livestream of Fort Hood attacker&#x27;s execution by firing squad</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-15 16:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5a5/live/e6dbe1a0-81f0-11f1-b6ff-e9b8db4416d1.jpg" alt="Former DUP leader Donaldson sentenced to 15 years in prison for child sex abuse" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwdr8grnykrlo?at_medium=RSS&at_campaign=rss" target="_blank">Former DUP leader Donaldson sentenced to 15 years in prison for child sex abuse</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-15 15:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/1792075796422_now_current_engel_ukraine_strikes_261015_S3_1920x1080-xcklqy.jpg" alt="Ukraine resumes strikes on Russia&#x27;s oil refineries" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/ukraine-resumes-strikes-on-russia-s-oil-refineries-271626309767" target="_blank">Ukraine resumes strikes on Russia&#x27;s oil refineries</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-10-15 14:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88a4/live/d60d4d30-c879-11f1-a64c-550be9e3c66b.jpg" alt="Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -71,47 +104,38 @@
                 <span class="time">2026-10-15 11:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/935c/live/1c24f8c0-22eb-11f1-abe1-05da6de99c2b.png" alt="UK threatens to ban Eritreans over migrant return policy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c30rl1q1j200o?at_medium=RSS&at_campaign=rss" target="_blank">UK threatens to ban Eritreans over migrant return policy</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-15 09:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch" target="_blank">LGBTQ+ people go into hiding in Senegal as hundreds are arrested</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-10-15 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/10/15/g20-finance-ministers-central-bankers-gather-amid-fallout-from-iran-war?traffic_source=rss" target="_blank">G20 finance ministers, central bankers gather amid fallout from Iran war</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-15 06:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261014-trump-montana-vsb-2157-f2e9d9.jpg" alt="Trump touts booming economy at Montana rally, but supporters feel the pinch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/trump-touts-booming-economy-montana-rally-supporters-feel-pinch-rcna603000" target="_blank">Trump touts booming economy at Montana rally, but supporters feel the pinch</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-10-15 05:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/1012206/google-ai-mode-overview-inline-links" target="_blank">Google is making inline links more prominent in AI responses</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-10-15 17:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6acfbfe28180da3345611aef/master/pass/GettyImages-2299988078.jpg" alt="White House Press Secretary Katie Zacharia Was an Affiliate Marketer for a Fitness MLM" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/white-house-press-secretary-katie-zacharia-was-an-affiliate-marketer-for-a-fitness-mlm/" target="_blank">White House Press Secretary Katie Zacharia Was an Affiliate Marketer for a Fitness MLM</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-10-15 17:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us/" target="_blank">SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-10-15 16:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,33 +163,6 @@
                 <span class="time">2026-10-15 05:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/1011654/mckinsey-ai-client-interview" target="_blank">McKinsey is making job applicants spar with a fake AI client</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-10-14 22:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature" target="_blank">The best feature of Apple’s HomeView might be its simplicity</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-10-14 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/" target="_blank">CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-10-14 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -175,77 +172,54 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/wapgrowai_org/your-whatsapp-ai-agent-works-in-a-demo-heres-what-breaks-in-production-45nn" target="_blank">Your WhatsApp AI Agent Works in a Demo. Here&#x27;s What Breaks in Production.</a></span>
+                <span class="title"><a href="https://dev.to/skill123/the-one-line-in-your-skillmd-that-decides-whether-your-skill-ever-fires-4dhp" target="_blank">The one line in your SKILL.md that decides whether your skill ever fires</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2026-10-15 12:12</span>
+                <span class="time">2026-10-15 17:24</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://res.infoq.com/news/2026/10/optimize-software-workflow/en/headerimage/header-1791282094936.jpg" alt="Optimizing Software Workflow: Exploring Fundamental Impacts in Technology" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://substackcdn.com/image/fetch/$s_!I8Qf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F722b7b9e-4a5d-412c-9aa3-22019bcf0c2d_2048x1444.png" alt="The Pulse: OpenAI software engineer accused of spying" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-openai-software-engineer" target="_blank">The Pulse: OpenAI software engineer accused of spying</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-10-15 16:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/10/instagram-compose-migration/en/headerimage/aws-reliability-dns-1792077775251.jpg" alt="Instagram Modernized Its UI with an AI-Native Architecture, Cutting Token Costs by 33%" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/10/optimize-software-workflow/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Optimizing Software Workflow: Exploring Fundamental Impacts in Technology</a></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/10/instagram-compose-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Instagram Modernized Its UI with an AI-Native Architecture, Cutting Token Costs by 33%</a></span>
                 <span class="feed">InfoQ</span>
-                <span class="time">2026-10-15 11:33</span>
+                <span class="time">2026-10-15 16:00</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-26.10-Released" target="_blank">Ubuntu 26.10 Released With Linux 7.3 + GNOME 51, Rust Coreutils Migration Complete</a></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Dasharo-0.9-ASRock-SPC741D8" target="_blank">3mdeb Releases Updated Dasharo/Coreboot Firmware For ASRock Rack SPC741D8-2L2T</a></span>
                 <span class="feed">Phoronix</span>
-                <span class="time">2026-10-15 11:19</span>
+                <span class="time">2026-10-15 14:56</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17497690/open-productivity-opendesk-joint-venture" target="_blank">A Joint Venture of Open Source Proportions! Open Productivity is Here</a></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17498285/ubuntu-26-10-release" target="_blank">Ubuntu 26.10 Has Come Out as a Rust-Packed Interim Release</a></span>
                 <span class="feed">It's FOSS</span>
-                <span class="time">2026-10-14 20:12</span>
+                <span class="time">2026-10-15 14:34</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/news-insights/company-news/github-availability-report-september-2026/" target="_blank">GitHub availability report: September 2026</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-10-14 20:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/" target="_blank">Things to know when you get cancer</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-10-14 19:26</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/10/upcoming-speaking-engagements-61.html" target="_blank">Upcoming Speaking Engagements</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-10-14 16:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/" target="_blank">U.K. Sanctions Cryptomus for RU Money Laundering</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2026-10-14 14:22</span>
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/wapgrowai_org/your-whatsapp-ai-agent-works-in-a-demo-heres-what-breaks-in-production-45nn" target="_blank">Your WhatsApp AI Agent Works in a Demo. Here&#x27;s What Breaks in Production.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-15 12:12</span>
             </div>
         </div>
 </div>
@@ -253,6 +227,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K86BAKHX97TF4RK3FTKDRF49/hero-image.png" alt="My Favorite Earbuds for Sleep Are $60 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/soundcore-sleep-a30-earbuds-deal-october-2026?utm_medium=RSS" target="_blank">My Favorite Earbuds for Sleep Are $60 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-10-15 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/10/anno-1280x720.jpg" alt="The Ubisoft Carnage Continues, With One In Six German Staff Asked To Voluntarily Resign" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -298,15 +281,6 @@
                 <span class="time">2026-10-14 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M4XSXBHARYXTD4AR9R7KC435/hero-image.jpg" alt="The Best OLED TV for Most People Is $400 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-s90h-oled-tv-sale-october-2026?utm_medium=RSS" target="_blank">The Best OLED TV for Most People Is $400 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-10-14 18:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -330,22 +304,13 @@
                 <span class="time">2026-10-14 20:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1791942559-20261014.png" alt="Saturday Morning Breakfast Cereal - Break" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/break" target="_blank">Saturday Morning Breakfast Cereal - Break</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-10-14 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 68 | 📡 Total Sources: 40 | 📸 With Images: 265 |
-        🔄 Last Updated: 12:14 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 55 | 📡 Total Sources: 40 | 📸 With Images: 264 |
+        🔄 Last Updated: 17:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
