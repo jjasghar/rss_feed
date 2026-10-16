@@ -1,43 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-10-16 17:02:07 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-10-16 20:11:08 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 18 new posts out of 34 feeds processed -->
+<!-- Generated 10 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Friday, October 16, 2026 - 17:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, October 16, 2026 - 20:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/10/16/trump-told-new-press-secretary-to-reconsider-role?traffic_source=rss" target="_blank">Trump told new press secretary to ‘reconsider’ role</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-16 19:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/10/16/nx-s1-6005317/trump-casts-doubt-on-press-secretarys-future" target="_blank">Katie Zacharia is &#x27;transitioning out&#x27; as press secretary, White House says</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-10-16 18:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,29 +103,29 @@
                 <span class="time">2026-10-16 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca70/live/ee811780-c945-11f1-94af-5f148d758fe7.jpg" alt="Dad fined after son, 2, died in Cyprus hotel fall" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss" target="_blank">Dad fined after son, 2, died in Cyprus hotel fall</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-16 14:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-pope-leo_7378341.jpg?20261016174546" alt="What the Pope said to Putin in call days after lung cancer surgery" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/pope-leo-pictured-for-first-time-since-cancer-surgery-as-he-holds-mass-from-hospital-13599944" target="_blank">What the Pope said to Putin in call days after lung cancer surgery</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-10-16 12:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6ad24f19ed303ecbe8441980/master/pass/GettyImages-2299989251.jpg" alt="Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/" target="_blank">Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-10-16 20:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Torres-headshot-500x500.jpg" alt="US Rep proposes bill to give video game buyers &quot;ownership,&quot; not &quot;a license&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/" target="_blank">US Rep proposes bill to give video game buyers &quot;ownership,&quot; not &quot;a license&quot;</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-10-16 19:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6ad23cf9596e9f773d31db35/master/pass/Roadster_94.jpg" alt="Here’s Exactly How Tesla Made Its New 230-Mph Car ‘Fly’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,29 +162,20 @@
                 <span class="time">2026-10-16 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6ad17aff2217e219989feddb/master/pass/TeslaScreenshot.jpg" alt="The Tesla Roadster 2 Is Here—and It Flies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/tesla-roadster-2-launch/" target="_blank">The Tesla Roadster 2 Is Here—and It Flies</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-10-16 01:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/" target="_blank">Tesla reveals SpaceX-powered Roadster that flies and falls with style</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-10-16 01:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/10/envharness-self-evolving-agents/en/headerimage/cloudflare-writeguard-1792176346559.jpeg" alt="Google EnvHarness Enables Self-Evolving Agents to Learn in Dynamics Environments" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/10/envharness-self-evolving-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google EnvHarness Enables Self-Evolving Agents to Learn in Dynamics Environments</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-10-16 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,19 +215,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/LLVMpipe-AVX-512-MR" target="_blank">AI Resurrects AVX-512 Support For Mesa&#x27;s LLVMpipe Software Driver</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-10-16 10:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/lower-android-development-cost" target="_blank">How to lower Android™ development costs by removing hardware from the critical path</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-10-16 09:50</span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17498835/steam-linux-64-bit-client" target="_blank">Valve’s Steam Client for Linux Goes 64-bit in Beta and Moves Into a Container</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-10-16 11:21</span>
             </div>
         </div>
 </div>
@@ -326,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 56 | 📡 Total Sources: 40 | 📸 With Images: 270 |
-        🔄 Last Updated: 17:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 53 | 📡 Total Sources: 40 | 📸 With Images: 268 |
+        🔄 Last Updated: 20:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
