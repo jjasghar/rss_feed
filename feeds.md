@@ -1,41 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-10-15 23:22:51 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-10-16 02:02:16 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 32 feeds processed -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, October 15, 2026 - 23:23 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Friday, October 16, 2026 - 02:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/16/as-war-rages-myanmars-coup-leader-turned-president-wins-back-neighbours?traffic_source=rss" target="_blank">Myanmar’s coup leader-turned-president wins back neighbours despite war</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-16 01:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/silver-rail-6-rt-er-261015_1792104446762_hpMain_4x3t_384.jpg" alt="Oregon elementary school shooting: 3 children, 1 teacher killed; teen suspect dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/multiple-people-injured-shooting-oregon-elementary-school-suspect/story?id=137303119" target="_blank">Oregon elementary school shooting: 3 children, 1 teacher killed; teen suspect dead</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-16 01:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-bend-oregon-school_7377941.jpg?20261016001653" alt="Four dead, including three children, after school shooting in Oregon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/multiple-fatalities-after-school-shooting-in-oregon-nbc-news-reports-13599795" target="_blank">Four dead, including three children, after school shooting in Oregon</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-10-15 23:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/silver-rail-6-rt-er-261015_1792104446762_hpMain_4x3t_384.jpg" alt="At least 3 dead in Oregon elementary school shooting, sources say; suspect also dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -78,38 +98,29 @@
                 <span class="time">2026-10-15 19:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/cornell-2-gty-gmh-261014_1792011265164_hpMain_4x3t_384.jpg" alt="Cornell president defends response to Jane Doe allegations in heated faculty meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/cornell-president-defends-response-jane-doe-allegations-heated/story?id=137290283" target="_blank">Cornell president defends response to Jane Doe allegations in heated faculty meeting</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-15 19:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Nidal-Hasan-gty-gmh-261015_1792074004084_hpMain_4x3t_384.jpg" alt="Trump announces Nidal Hasan execution &#x27;will not be streamed&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-announces-nidal-hasan-execution-streamed/story?id=137288098" target="_blank">Trump announces Nidal Hasan execution &#x27;will not be streamed&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-15 17:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81e4/live/8ba6bbd0-c8b2-11f1-ba4a-9b4af5820384.jpg" alt="Trump calls off livestream of Fort Hood attacker&#x27;s execution by firing squad" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss" target="_blank">Trump calls off livestream of Fort Hood attacker&#x27;s execution by firing squad</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-15 16:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6ad17aff2217e219989feddb/master/pass/TeslaScreenshot.jpg" alt="The Tesla Roadster 2 Is Here—and It Flies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/tesla-roadster-2-launch/" target="_blank">The Tesla Roadster 2 Is Here—and It Flies</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-10-16 01:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/" target="_blank">Tesla reveals SpaceX-powered Roadster that flies and falls with style</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-10-16 01:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,29 +157,20 @@
                 <span class="time">2026-10-15 17:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6acfbfe28180da3345611aef/master/pass/GettyImages-2299988078.jpg" alt="White House Press Secretary Katie Zacharia Was an Affiliate Marketer for a Fitness MLM" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/white-house-press-secretary-katie-zacharia-was-an-affiliate-marketer-for-a-fitness-mlm/" target="_blank">White House Press Secretary Katie Zacharia Was an Affiliate Marketer for a Fitness MLM</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-10-15 17:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us/" target="_blank">SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-10-15 16:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/10/linux-microsoft-defender-406x232.webp" alt="Microsoft Defender is now available on Linux desktops" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/microsoft-defender-linux-desktop" target="_blank">Microsoft Defender is now available on Linux desktops</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-10-16 00:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -212,15 +214,6 @@
                 <span class="title"><a href="https://research.meta.ai/blog/muse-spark-open" target="_blank">Muse Spark Open</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-10-15 17:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/skill123/the-one-line-in-your-skillmd-that-decides-whether-your-skill-ever-fires-4dhp" target="_blank">The one line in your SKILL.md that decides whether your skill ever fires</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-15 17:24</span>
             </div>
         </div>
 </div>
@@ -324,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 51 | 📡 Total Sources: 40 | 📸 With Images: 267 |
-        🔄 Last Updated: 23:23 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 57 | 📡 Total Sources: 40 | 📸 With Images: 270 |
+        🔄 Last Updated: 02:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
