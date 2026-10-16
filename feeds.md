@@ -1,34 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-10-16 07:36:27 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-10-16 12:47:29 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, October 16, 2026 - 07:36 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, October 16, 2026 - 12:47 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/10/16/nx-s1-6004838/sally-rooney-books-uk-palestinian-action-support" target="_blank">Sally Rooney&#x27;s books will no longer be sold in U.K. after Palestinian Action support</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-10-16 11:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/1792149297898_tdy_news_7a_oregon_school_shooting_261016_S3_1920x1080-ad0nm4.jpg" alt="16-Year-Old Opens Fire at Elementary School, Killing 4" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/16-year-old-opens-fire-at-elementary-school-killing-4-271679557734" target="_blank">16-Year-Old Opens Fire at Elementary School, Killing 4</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-10-16 11:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +94,20 @@
                 <span class="time">2026-10-16 01:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/1792111331263_now_staytuned_bend_or_mike_krantz_presser_261015_S3_1920x1080-wsdwdm.jpg" alt="Oregon police say four victims dead, including three children, in school shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/oregon-police-say-four-victims-dead-including-three-children-in-school-shooting-271665733617" target="_blank">Oregon police say four victims dead, including three children, in school shooting</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-10-16 00:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-bend-oregon-school_7377941.jpg?20261016001653" alt="Four dead, including three children, after school shooting in Oregon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/multiple-fatalities-after-school-shooting-in-oregon-nbc-news-reports-13599795" target="_blank">Four dead, including three children, after school shooting in Oregon</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-10-15 23:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/MS_Surface_Laptop_Ultra_Feature-500x500.jpg" alt="The Surface Laptop Ultra delivers on most of Microsoft&#x27;s promises" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/reviews/2026/10/the-surface-laptop-ultra-delivers-on-most-of-microsofts-promises/" target="_blank">The Surface Laptop Ultra delivers on most of Microsoft&#x27;s promises</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-10-16 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6ad17aff2217e219989feddb/master/pass/TeslaScreenshot.jpg" alt="The Tesla Roadster 2 Is Here—and It Flies" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,20 +153,29 @@
                 <span class="time">2026-10-15 21:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/1012206/google-ai-mode-overview-inline-links" target="_blank">Google is making inline links more prominent in AI responses</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-10-15 17:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/10/grafana-slo-ai-agent/en/headerimage/generatedHeaderImage-1791475262295.jpg" alt="Grafana Applies SLOs and Error Budgets to AI Agent Behaviour" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/10/grafana-slo-ai-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Grafana Applies SLOs and Error Budgets to AI Agent Behaviour</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-10-16 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/LLVMpipe-AVX-512-MR" target="_blank">AI Resurrects AVX-512 Support For Mesa&#x27;s LLVMpipe Software Driver</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-16 10:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/10/azure-maia-300/en/headerimage/generatedHeaderImage-1791943943820.jpg" alt="Microsoft Commits Maia to Multi-Gigawatt Inference, and Its Efficiency Metric Draws Questions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -198,24 +212,6 @@
                 <span class="time">2026-10-15 23:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dannydoes_2abdf9c/cross-chain-bridge-risk-assessment-mexc-ang" target="_blank">Cross-Chain Bridge Risk Assessment: MEXC</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-15 20:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/" target="_blank">The next developer interface is ambient intelligence</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-10-15 19:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +231,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M51AM74GXXAEHXSN7KHDSJX7/hero-image.jpg" alt="This LG Ultragear OLED Gaming Monitor Is $400 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/lg-ultragear-oled-gaming-monitor-sale-october-2026?utm_medium=RSS" target="_blank">This LG Ultragear OLED Gaming Monitor Is $400 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-10-16 12:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/10/street-fighter-movie.jpg" alt="The New Street Fighter Movie Gets Savaged By Critics, But Not Everyone Hates It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +285,6 @@
                 <span class="time">2026-10-15 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/10/anno-1280x720.jpg" alt="The Ubisoft Carnage Continues, With One In Six German Staff Asked To Voluntarily Resign" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ubisoft-job-losses-germany-anno-rayman-prince-of-persia-layoffs-2000746312" target="_blank">The Ubisoft Carnage Continues, With One In Six German Staff Asked To Voluntarily Resign</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-15 11:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -326,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 59 | 📡 Total Sources: 40 | 📸 With Images: 270 |
-        🔄 Last Updated: 07:36 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 53 | 📡 Total Sources: 40 | 📸 With Images: 270 |
+        🔄 Last Updated: 12:47 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
