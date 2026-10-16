@@ -1,30 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-10-16 12:47:29 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-10-16 17:02:07 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 21 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 18 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, October 16, 2026 - 12:47 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, October 16, 2026 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,55 +56,55 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/16/nx-s1-6004838/sally-rooney-books-uk-palestinian-action-support" target="_blank">Sally Rooney&#x27;s books will no longer be sold in U.K. after Palestinian Action support</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-16 11:30</span>
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/10/16/irans-president-condemns-environmental-impact-of-war-in-middle-eas?traffic_source=rss" target="_blank">Iran’s president condemns environmental impact of war in Middle East</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-16 16:45</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/1792149297898_tdy_news_7a_oregon_school_shooting_261016_S3_1920x1080-ad0nm4.jpg" alt="16-Year-Old Opens Fire at Elementary School, Killing 4" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/10/16/g-s1-148404/public-opinion-execution-death-penalty" target="_blank">Amid talk of public execution, public opinion on death penalty is split</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-10-16 16:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/1792167566551_now_daily_a_coldiron_winter_bend_school_suspect_261016_S3_1920x1080-h343v4.jpg" alt="Police identify 16-year-old suspect in deadly Oregon school shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/16-year-old-opens-fire-at-elementary-school-killing-4-271679557734" target="_blank">16-Year-Old Opens Fire at Elementary School, Killing 4</a></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/police-identify-16-year-old-suspect-in-deadly-oregon-school-shooting-271699013510" target="_blank">Police identify 16-year-old suspect in deadly Oregon school shooting</a></span>
                 <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-10-16 11:15</span>
+                <span class="time">2026-10-16 16:19</span>
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/10/16/how-israels-elections-will-affect-palestinians?traffic_source=rss" target="_blank">How Israel’s elections will affect Palestinians</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-16 07:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff29/live/cc0232d0-c90d-11f1-bc2e-018d645d8d21.jpg" alt="Three children and teacher killed in US primary school shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e40/live/404f3fb0-c978-11f1-80fc-ab418b149008.jpg" alt="Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss" target="_blank">Three children and teacher killed in US primary school shooting</a></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss" target="_blank">Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role</a></span>
                 <span class="feed">BBC News</span>
-                <span class="time">2026-10-16 03:45</span>
+                <span class="time">2026-10-16 16:00</span>
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca70/live/ee811780-c945-11f1-94af-5f148d758fe7.jpg" alt="Dad fined after son, 2, died in Cyprus hotel fall" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/16/as-war-rages-myanmars-coup-leader-turned-president-wins-back-neighbours?traffic_source=rss" target="_blank">Myanmar’s coup leader-turned-president wins back neighbours despite war</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-16 01:34</span>
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss" target="_blank">Dad fined after son, 2, died in Cyprus hotel fall</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-16 14:21</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/US/silver-rail-6-rt-er-261015_1792104446762_hpMain_4x3t_384.jpg" alt="Oregon elementary school shooting: 3 children, 1 teacher killed; teen suspect dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-pope-leo_7378341.jpg?20261016174546" alt="What the Pope said to Putin in call days after lung cancer surgery" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/multiple-people-injured-shooting-oregon-elementary-school-suspect/story?id=137303119" target="_blank">Oregon elementary school shooting: 3 children, 1 teacher killed; teen suspect dead</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-16 01:34</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/pope-leo-pictured-for-first-time-since-cancer-surgery-as-he-holds-mass-from-hospital-13599944" target="_blank">What the Pope said to Putin in call days after lung cancer surgery</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-10-16 12:22</span>
             </div>
         </div>
 </div>
@@ -99,6 +112,33 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6ad23cf9596e9f773d31db35/master/pass/Roadster_94.jpg" alt="Here’s Exactly How Tesla Made Its New 230-Mph Car ‘Fly’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-tesla-made-its-new-230-mph-car-fly/" target="_blank">Here’s Exactly How Tesla Made Its New 230-Mph Car ‘Fly’</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-10-16 16:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/" target="_blank">A Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-10-16 16:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2296621320-500x500.jpg" alt="Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/" target="_blank">Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-10-16 15:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/MS_Surface_Laptop_Ultra_Feature-500x500.jpg" alt="The Surface Laptop Ultra delivers on most of Microsoft&#x27;s promises" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -126,38 +166,38 @@
                 <span class="time">2026-10-16 01:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/1012541/valve-steam-achievement-sets" target="_blank">Steam can now show game achievements in separate ‘sets’</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-10-15 23:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/KDE_Birthday_30th_Laptop-500x500.png" alt="KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/10/kde-turns-30-with-plasma-6-8-remote-upgrades-and-an-x11-farewell/" target="_blank">KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-10-15 22:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6acff05076c17d102a553f12/master/pass/Uncanny-Valley-Meta-Sexting-Business-2296314651.jpg" alt="We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/" target="_blank">We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-10-15 21:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://reinout.vanrees.org/weblog/2026/10/15/4-software-architecture.html" target="_blank">Practical software architecture for Python developers notes</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-10-16 16:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation" target="_blank">America&#x27;s Wumao: Inside Polymarket&#x27;s Paid Quote-Retweet Esports Program</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-10-16 15:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/10/zod-schema-compliation/en/headerimage/generatedHeaderImage-1792163115814.jpg" alt="Zod Brings In-Process Schema Compilation and a 9x Cut in Memory Footprint" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/10/zod-schema-compliation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Zod Brings In-Process Schema Compilation and a 9x Cut in Memory Footprint</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-10-16 15:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/10/grafana-slo-ai-agent/en/headerimage/generatedHeaderImage-1791475262295.jpg" alt="Grafana Applies SLOs and Error Budgets to AI Agent Behaviour" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -177,39 +217,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://res.infoq.com/news/2026/10/azure-maia-300/en/headerimage/generatedHeaderImage-1791943943820.jpg" alt="Microsoft Commits Maia to Multi-Gigawatt Inference, and Its Efficiency Metric Draws Questions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/10/azure-maia-300/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Microsoft Commits Maia to Multi-Gigawatt Inference, and Its Efficiency Metric Draws Questions</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-10-16 06:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/10/linux-microsoft-defender-406x232.webp" alt="Microsoft Defender is now available on Linux desktops" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/microsoft-defender-linux-desktop" target="_blank">Microsoft Defender is now available on Linux desktops</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-10-16 00:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-october-16-2026-red-hat" target="_blank">Friday Five — October 16, 2026 | Red Hat</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2026-10-16 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/timevolt/rate-limiting-like-gandalf-building-a-distributed-cache-with-redis-4a28" target="_blank">Rate Limiting Like Gandalf: Building a Distributed Cache with Redis</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-15 23:13</span>
+                <span class="title"><a href="https://ubuntu.com//blog/lower-android-development-cost" target="_blank">How to lower Android™ development costs by removing hardware from the critical path</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-10-16 09:50</span>
             </div>
         </div>
 </div>
@@ -221,9 +234,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/10/measuring-human-cryptanalysis-effort.html" target="_blank">Measuring Human Cryptanalysis Effort</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html" target="_blank">Backdooring Open-Weight AI Models</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2026-10-15 16:24</span>
+                <span class="time">2026-10-16 11:04</span>
             </div>
         </div>
 </div>
@@ -231,6 +244,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/10/series-c-1280x720.jpg" alt="Pokémon TCG Pocket Is Finally Fixing One Of Its Most Frustrating Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-tcg-pocket-mobile-dena-trading-immersive-cards-series-c-2000746788" target="_blank">Pokémon TCG Pocket Is Finally Fixing One Of Its Most Frustrating Features</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-16 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M50DRGVCFWTW0KR037W4JJ5W/hero-image.jpg" alt="This Anker Portable Power Station Is 40% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/anker-solix-c2000-gen-2-portable-power-station-sale-october-2026?utm_medium=RSS" target="_blank">This Anker Portable Power Station Is 40% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-10-16 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01M51AM74GXXAEHXSN7KHDSJX7/hero-image.jpg" alt="This LG Ultragear OLED Gaming Monitor Is $400 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,24 +298,6 @@
                 <span class="time">2026-10-15 20:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/11/matt-gaetz.jpg?fit=1500%2C1122&amp;quality=60&amp;ssl=1" alt="Trump&#x27;s almost-attorney general Matt Gaetz is now a defendant in a sex-trafficking lawsuit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/10/15/trumps-almost-attorney-general-matt-gaetz-is-now-a-defendant-in-a-sex-trafficking-lawsuit.html" target="_blank">Trump&#x27;s almost-attorney general Matt Gaetz is now a defendant in a sex-trafficking lawsuit</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-10-15 18:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K86BAKHX97TF4RK3FTKDRF49/hero-image.png" alt="My Favorite Earbuds for Sleep Are $60 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/soundcore-sleep-a30-earbuds-deal-october-2026?utm_medium=RSS" target="_blank">My Favorite Earbuds for Sleep Are $60 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-10-15 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -308,22 +321,13 @@
                 <span class="time">2026-10-16 01:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1791942607-20261015.png" alt="Saturday Morning Breakfast Cereal - Toad" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/toad" target="_blank">Saturday Morning Breakfast Cereal - Toad</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-10-15 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 53 | 📡 Total Sources: 40 | 📸 With Images: 270 |
-        🔄 Last Updated: 12:47 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 56 | 📡 Total Sources: 40 | 📸 With Images: 270 |
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
