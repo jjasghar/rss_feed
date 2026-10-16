@@ -1,28 +1,27 @@
-<!-- Processing 54 RSS feeds at 2026-10-16 20:11:08 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-16 23:05:24 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
@@ -30,10 +29,12 @@
 <!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 10 new posts out of 30 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 11 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, October 16, 2026 - 20:11 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Friday, October 16, 2026 - 23:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/bend-14-ap-gmh-261016_1792165253418_hpMain_4x3t_384.jpg" alt="Bend, Oregon, shooting: Suspect ID&#x27;d, previously attended elem. school, police say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/multiple-people-injured-shooting-oregon-elementary-school-suspect/story?id=137303119" target="_blank">Bend, Oregon, shooting: Suspect ID&#x27;d, previously attended elem. school, police say</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-16 22:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +104,29 @@
                 <span class="time">2026-10-16 16:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e40/live/404f3fb0-c978-11f1-80fc-ab418b149008.jpg" alt="Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss" target="_blank">Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-16 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/" target="_blank">Replit is no longer working with Anthropic, CEO says</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-10-16 21:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-500x500.jpg" alt="OpenAI models hacked a crypto wallet and breached more websites" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/" target="_blank">OpenAI models hacked a crypto wallet and breached more websites</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-10-16 20:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6ad24f19ed303ecbe8441980/master/pass/GettyImages-2299989251.jpg" alt="Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,29 +163,20 @@
                 <span class="time">2026-10-16 16:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2296621320-500x500.jpg" alt="Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/" target="_blank">Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-10-16 15:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/MS_Surface_Laptop_Ultra_Feature-500x500.jpg" alt="The Surface Laptop Ultra delivers on most of Microsoft&#x27;s promises" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/reviews/2026/10/the-surface-laptop-ultra-delivers-on-most-of-microsofts-promises/" target="_blank">The Surface Laptop Ultra delivers on most of Microsoft&#x27;s promises</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-10-16 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/17-Vulnerabilities-Xorg-Libs" target="_blank">17 More Security Vulnerabilities Made Public For X.Org Libraries</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-16 19:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/10/envharness-self-evolving-agents/en/headerimage/cloudflare-writeguard-1792176346559.jpeg" alt="Google EnvHarness Enables Self-Evolving Agents to Learn in Dynamics Environments" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -174,6 +184,15 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/10/envharness-self-evolving-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google EnvHarness Enables Self-Evolving Agents to Learn in Dynamics Environments</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-10-16 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2024/05/Ubuntu-Flavors-406x232.jpg" alt="What’s new in the Ubuntu 26.10 flavours?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/ubuntu-2610-flavours-overview" target="_blank">What’s new in the Ubuntu 26.10 flavours?</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-10-16 17:07</span>
             </div>
         </div>
 <div class="story">
@@ -203,24 +222,6 @@
                 <span class="time">2026-10-16 15:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/10/grafana-slo-ai-agent/en/headerimage/generatedHeaderImage-1791475262295.jpg" alt="Grafana Applies SLOs and Error Budgets to AI Agent Behaviour" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/10/grafana-slo-ai-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Grafana Applies SLOs and Error Budgets to AI Agent Behaviour</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-10-16 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17498835/steam-linux-64-bit-client" target="_blank">Valve’s Steam Client for Linux Goes 64-bit in Beta and Moves Into a Container</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-10-16 11:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +241,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/10/Grand-Theft-Auto-6-Launch-Trailer-image-Rockstar-Games-1280x720.jpg" alt="Fans Are Comparing Grand Theft Auto 6′s Latest Trailer To Its First And Complaining That It’s A Blurry ‘Downgrade’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/fans-are-comparing-grand-theft-auto-6s-latest-trailer-to-its-first-and-complaining-that-its-a-blurry-downgrade-2000746855" target="_blank">Fans Are Comparing Grand Theft Auto 6′s Latest Trailer To Its First And Complaining That It’s A Blurry ‘Downgrade’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-16 21:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/08/shutterstock_2139034583-1-scaled-e1792184480500.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Trump wants Ukraine to stop hitting Russian refineries. The White House throttled the wrong drones" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/10/16/white-house-ukraine-starshield-throttle.html" target="_blank">Trump wants Ukraine to stop hitting Russian refineries. The White House throttled the wrong drones</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-10-16 21:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/10/series-c-1280x720.jpg" alt="Pokémon TCG Pocket Is Finally Fixing One Of Its Most Frustrating Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,33 +286,6 @@
                 <span class="time">2026-10-16 12:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/10/street-fighter-movie.jpg" alt="The New Street Fighter Movie Gets Savaged By Critics, But Not Everyone Hates It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-new-street-fighter-movie-gets-savaged-by-critics-but-not-everyone-hates-it-2000746464" target="_blank">The New Street Fighter Movie Gets Savaged By Critics, But Not Everyone Hates It</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-15 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/Hostdeal-Domain-Names-Lifetime-Subscriptions.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Lock in six website domains for life for just $30" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/10/15/lock-in-six-website-domains-for-life-for-just-30.html" target="_blank">Lock in six website domains for life for just $30</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-10-15 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/10/soulbound-1280x721.jpg" alt="Whoa, This Minecraft Mod Turns The Game Into A Deltarune-Style Turn-Based RPG" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/whoa-this-minecraft-mod-turns-the-game-into-a-deltarune-style-turn-based-rpg-2000746024" target="_blank">Whoa, This Minecraft Mod Turns The Game Into A Deltarune-Style Turn-Based RPG</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-15 20:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -303,9 +295,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/10/16/hexacon" target="_blank">Hexacon</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-10-16 21:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1792033762-20261016.png" alt="Saturday Morning Breakfast Cereal - Hun" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/hun" target="_blank">Saturday Morning Breakfast Cereal - Hun</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-10-16 15:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://www.penny-arcade.com/comic/2026/10/16/hexacon" target="_blank">Hexacon</a></span>
                 <span class="feed">Penny Arcade</span>
                 <span class="time">2026-10-16 07:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/momentum_demonstration.png" alt="Momentum Demonstration" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3312/" target="_blank">Momentum Demonstration</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-10-16 04:00</span>
             </div>
         </div>
 <div class="story">
@@ -322,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 53 | 📡 Total Sources: 40 | 📸 With Images: 268 |
-        🔄 Last Updated: 20:11 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 56 | 📡 Total Sources: 40 | 📸 With Images: 272 |
+        🔄 Last Updated: 23:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
