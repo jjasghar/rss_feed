@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-10-16 02:02:16 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-10-16 07:36:27 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Friday, October 16, 2026 - 02:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, October 16, 2026 - 07:36 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +48,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/10/16/how-israels-elections-will-affect-palestinians?traffic_source=rss" target="_blank">How Israel’s elections will affect Palestinians</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-16 07:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff29/live/cc0232d0-c90d-11f1-bc2e-018d645d8d21.jpg" alt="Three children and teacher killed in US primary school shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss" target="_blank">Three children and teacher killed in US primary school shooting</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-16 03:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/10/16/as-war-rages-myanmars-coup-leader-turned-president-wins-back-neighbours?traffic_source=rss" target="_blank">Myanmar’s coup leader-turned-president wins back neighbours despite war</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-10-16 01:34</span>
@@ -63,39 +81,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/1792111331263_now_staytuned_bend_or_mike_krantz_presser_261015_S3_1920x1080-wsdwdm.jpg" alt="Oregon police say four victims dead, including three children, in school shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/oregon-police-say-four-victims-dead-including-three-children-in-school-shooting-271665733617" target="_blank">Oregon police say four victims dead, including three children, in school shooting</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-10-16 00:42</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/26/10/1920x1080/skynews-bend-oregon-school_7377941.jpg?20261016001653" alt="Four dead, including three children, after school shooting in Oregon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
                 <span class="title"><a href="https://news.sky.com/story/multiple-fatalities-after-school-shooting-in-oregon-nbc-news-reports-13599795" target="_blank">Four dead, including three children, after school shooting in Oregon</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-10-15 23:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/silver-rail-6-rt-er-261015_1792104446762_hpMain_4x3t_384.jpg" alt="At least 3 dead in Oregon elementary school shooting, sources say; suspect also dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/multiple-people-injured-shooting-oregon-elementary-school-suspect/story?id=137303119" target="_blank">At least 3 dead in Oregon elementary school shooting, sources say; suspect also dead</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-15 22:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/15/nx-s1-6003857/suspicious-mailings-election-congressional-offices" target="_blank">Suspicious mailings to election officials, congressional offices under investigation</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-15 19:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261014-ice-houston-mn-1340-f67ac5.jpg" alt="ICE agent driving vehicle that struck, injured Houston man is placed on administrative leave" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/ice-agent-driving-vehicle-struck-injured-houston-man-placed-administra-rcna603716" target="_blank">ICE agent driving vehicle that struck, injured Houston man is placed on administrative leave</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-10-15 19:20</span>
             </div>
         </div>
 </div>
@@ -163,12 +163,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/10/azure-maia-300/en/headerimage/generatedHeaderImage-1791943943820.jpg" alt="Microsoft Commits Maia to Multi-Gigawatt Inference, and Its Efficiency Metric Draws Questions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/10/azure-maia-300/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Microsoft Commits Maia to Multi-Gigawatt Inference, and Its Efficiency Metric Draws Questions</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-10-16 06:02</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/10/linux-microsoft-defender-406x232.webp" alt="Microsoft Defender is now available on Linux desktops" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/microsoft-defender-linux-desktop" target="_blank">Microsoft Defender is now available on Linux desktops</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-10-16 00:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-october-16-2026-red-hat" target="_blank">Friday Five — October 16, 2026 | Red Hat</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2026-10-16 00:00</span>
             </div>
         </div>
 <div class="story">
@@ -196,24 +214,6 @@
                 <span class="title"><a href="https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/" target="_blank">The next developer interface is ambient intelligence</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2026-10-15 19:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/lpddr5-5467-6400-7467" target="_blank">LPDDR5 5467 vs. 6400 vs. 7467 MT/s Memory Performance Benchmarks For Laptops</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-10-15 19:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://research.meta.ai/blog/muse-spark-open" target="_blank">Muse Spark Open</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-10-15 17:47</span>
             </div>
         </div>
 </div>
@@ -295,6 +295,24 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/10/16/hexacon" target="_blank">Hexacon</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-10-16 07:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.questionablecontent.net/comics/5940.png" alt="Helpful Reminder" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5940" target="_blank">Helpful Reminder</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-10-16 01:56</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1791942607-20261015.png" alt="Saturday Morning Breakfast Cereal - Toad" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -303,22 +321,13 @@
                 <span class="time">2026-10-15 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5939.png" alt="Holistic Medicine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5939" target="_blank">Holistic Medicine</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-10-15 02:09</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 57 | 📡 Total Sources: 40 | 📸 With Images: 270 |
-        🔄 Last Updated: 02:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 59 | 📡 Total Sources: 40 | 📸 With Images: 270 |
+        🔄 Last Updated: 07:36 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
