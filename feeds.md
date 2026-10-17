@@ -1,40 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-10-16 23:05:24 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-10-17 01:56:39 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 11 new posts out of 32 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, October 16, 2026 - 23:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, October 17, 2026 - 01:56 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/bend-14-ap-gmh-261016_1792165253418_hpMain_4x3t_384.jpg" alt="Bend, Oregon, shooting: Suspect ID&#x27;d, had attended elementary school, police say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/multiple-people-injured-shooting-oregon-elementary-school-suspect/story?id=137303119" target="_blank">Bend, Oregon, shooting: Suspect ID&#x27;d, had attended elementary school, police say</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-17 00:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/bend-14-ap-gmh-261016_1792165253418_hpMain_4x3t_384.jpg" alt="Bend, Oregon, shooting: Suspect ID&#x27;d, previously attended elem. school, police say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -95,20 +97,29 @@
                 <span class="time">2026-10-16 16:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/1792167566551_now_daily_a_coldiron_winter_bend_school_suspect_261016_S3_1920x1080-h343v4.jpg" alt="Police identify 16-year-old suspect in deadly Oregon school shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/police-identify-16-year-old-suspect-in-deadly-oregon-school-shooting-271699013510" target="_blank">Police identify 16-year-old suspect in deadly Oregon school shooting</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-10-16 16:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements" target="_blank">All the news about the iPhone Duo</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-10-16 23:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6ad26223a56495c621c70456/master/pass/Science_PourOneOutfortheLeapSecond-ezgif.com-video-to-gif-converter.gif" alt="The Leap Second Is No More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/leap-second-is-abolished-bipm-says/" target="_blank">The Leap Second Is No More</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-10-16 21:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,24 +154,6 @@
                 <span class="title"><a href="https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/" target="_blank">US Rep proposes bill to give video game buyers &quot;ownership,&quot; not &quot;a license&quot;</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-10-16 19:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6ad23cf9596e9f773d31db35/master/pass/Roadster_94.jpg" alt="Here’s Exactly How Tesla Made Its New 230-Mph Car ‘Fly’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/how-tesla-made-its-new-230-mph-car-fly/" target="_blank">Here’s Exactly How Tesla Made Its New 230-Mph Car ‘Fly’</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-10-16 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/" target="_blank">A Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-10-16 16:30</span>
             </div>
         </div>
 </div>
@@ -242,6 +235,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/trumpvandal.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Dementia Don discovers Abdul El-Sayed&#x27;s middle name is Mohamed and declares victory over &quot;a jihadist&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/10/16/trump-abdul-el-sayed-mohamed-middle-name.html" target="_blank">Dementia Don discovers Abdul El-Sayed&#x27;s middle name is Mohamed and declares victory over &quot;a jihadist&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-10-16 23:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JVZABKMFK8VHA1KJ8C41P3B1/hero-image.jpg" alt="I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS" target="_blank">I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-10-16 21:41</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/10/Grand-Theft-Auto-6-Launch-Trailer-image-Rockstar-Games-1280x720.jpg" alt="Fans Are Comparing Grand Theft Auto 6′s Latest Trailer To Its First And Complaining That It’s A Blurry ‘Downgrade’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -275,15 +286,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/anker-solix-c2000-gen-2-portable-power-station-sale-october-2026?utm_medium=RSS" target="_blank">This Anker Portable Power Station Is 40% Off Right Now</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-10-16 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M51AM74GXXAEHXSN7KHDSJX7/hero-image.jpg" alt="This LG Ultragear OLED Gaming Monitor Is $400 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/lg-ultragear-oled-gaming-monitor-sale-october-2026?utm_medium=RSS" target="_blank">This LG Ultragear OLED Gaming Monitor Is $400 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-10-16 12:30</span>
             </div>
         </div>
 </div>
@@ -327,22 +329,13 @@
                 <span class="time">2026-10-16 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5940.png" alt="Helpful Reminder" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5940" target="_blank">Helpful Reminder</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-10-16 01:56</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 56 | 📡 Total Sources: 40 | 📸 With Images: 272 |
-        🔄 Last Updated: 23:05 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 48 | 📡 Total Sources: 40 | 📸 With Images: 273 |
+        🔄 Last Updated: 01:56 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
