@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-10-17 01:56:39 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-17 06:25:25 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, October 17, 2026 - 01:56 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Saturday, October 17, 2026 - 06:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e30/live/12a9fde0-c9da-11f1-a64c-550be9e3c66b.jpg" alt="Third runway at Heathrow Airport would drive growth, Healey says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cw0k07d2nj43o?at_medium=RSS&at_campaign=rss" target="_blank">Third runway at Heathrow Airport would drive growth, Healey says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-17 03:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43ab/live/8511edf0-c9be-11f1-ae9f-bf0ab88aba90.jpg" alt="Brazil sees record fall in Amazon deforestation as key election looms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss" target="_blank">Brazil sees record fall in Amazon deforestation as key election looms</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-17 02:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/bend-14-ap-gmh-261016_1792165253418_hpMain_4x3t_384.jpg" alt="Bend, Oregon, shooting: Suspect ID&#x27;d, had attended elementary school, police say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -62,39 +82,21 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/1792186813160_now_brk_teacher_tackled_suspected_shooter_261016_S3_1920x1080-3tp28v.jpg" alt="Oregon police say teacher tackled suspected shooter, who previously attended Silver Rail Elementary" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/10/16/trump-told-new-press-secretary-to-reconsider-role?traffic_source=rss" target="_blank">Trump told new press secretary to ‘reconsider’ role</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-16 19:41</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/oregon-police-say-teacher-tackled-suspected-shooter-who-previously-attended-silver-rail-elementary-271718469831" target="_blank">Oregon police say teacher tackled suspected shooter, who previously attended Silver Rail Elementary</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-10-16 21:40</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/16/nx-s1-6005317/trump-casts-doubt-on-press-secretarys-future" target="_blank">Katie Zacharia is &#x27;transitioning out&#x27; as press secretary, White House says</a></span>
+                <span class="title"><a href="https://www.npr.org/2026/10/16/nx-s1-6005302/katie-zacharia-is-out-as-press-secretary-white-house-says" target="_blank">Katie Zacharia is out as press secretary, White House says</a></span>
                 <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-16 18:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/10/16/irans-president-condemns-environmental-impact-of-war-in-middle-eas?traffic_source=rss" target="_blank">Iran’s president condemns environmental impact of war in Middle East</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-16 16:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/16/g-s1-148404/public-opinion-execution-death-penalty" target="_blank">Amid talk of public execution, public opinion on death penalty is split</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-16 16:28</span>
+                <span class="time">2026-10-16 20:29</span>
             </div>
         </div>
 </div>
@@ -102,6 +104,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/" target="_blank">Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-10-17 02:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +158,20 @@
                 <span class="time">2026-10-16 20:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Torres-headshot-500x500.jpg" alt="US Rep proposes bill to give video game buyers &quot;ownership,&quot; not &quot;a license&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/" target="_blank">US Rep proposes bill to give video game buyers &quot;ownership,&quot; not &quot;a license&quot;</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-10-16 19:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="I Made Gemma Grade Its Own Homework (So I Don&#x27;t Have to Trust It Blindly)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/javier_tan_e14a8bfb02864e/i-made-gemma-grade-its-own-homework-so-i-dont-have-to-trust-it-blindly-p5i" target="_blank">I Made Gemma Grade Its Own Homework (So I Don&#x27;t Have to Trust It Blindly)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-17 06:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,15 +215,6 @@
                 <span class="title"><a href="https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation" target="_blank">America&#x27;s Wumao: Inside Polymarket&#x27;s Paid Quote-Retweet Esports Program</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-10-16 15:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/10/zod-schema-compliation/en/headerimage/generatedHeaderImage-1792163115814.jpg" alt="Zod Brings In-Process Schema Compilation and a 9x Cut in Memory Footprint" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/10/zod-schema-compliation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Zod Brings In-Process Schema Compilation and a 9x Cut in Memory Footprint</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-10-16 15:22</span>
             </div>
         </div>
 </div>
@@ -320,22 +322,13 @@
                 <span class="time">2026-10-16 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/momentum_demonstration.png" alt="Momentum Demonstration" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3312/" target="_blank">Momentum Demonstration</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-10-16 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 48 | 📡 Total Sources: 40 | 📸 With Images: 273 |
-        🔄 Last Updated: 01:56 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 51 | 📡 Total Sources: 40 | 📸 With Images: 272 |
+        🔄 Last Updated: 06:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
