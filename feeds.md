@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-10-17 17:35:16 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-10-17 19:47:18 UTC -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, October 17, 2026 - 17:35 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Saturday, October 17, 2026 - 19:47 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/17/albanian-police-fire-rubber-bullets-as-protests-against-rama-escalate?traffic_source=rss" target="_blank">Albanian police fire rubber bullets as protests against Rama escalate</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-17 19:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/cornell-logo_1791370268301_hpMain_3_4x3t_384.jpg" alt="Judge denies gag order request in Cornell sex assault civil case" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -66,6 +74,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france" target="_blank">Scuffles and fires break out as protesters rally across France, joining students</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-10-17 15:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/10/17/nottingham-forest-vs-arsenal-premier-league-preview-teams?traffic_source=rss" target="_blank">Nottingham Forest vs Arsenal: Premier League – preview, teams, prediction</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
@@ -81,29 +98,29 @@
                 <span class="time">2026-10-17 11:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/10/17/sally-rooneys-books-pulled-from-uk-over-palestine-action-support-2?traffic_source=rss" target="_blank">Sally Rooney’s books pulled from UK over Palestine Action support</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-17 10:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-jake-callum-robinson_7372589.jpg?20261010002747" alt="Three men sentenced to more than 158 years in jail for murders of surfers​" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/three-men-sentenced-to-more-than-158-years-in-prison-for-murders-of-australian-and-us-surfers-13600108" target="_blank">Three men sentenced to more than 158 years in jail for murders of surfers​</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-10-17 07:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary" target="_blank">TikTok bans Musk documentary account</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-10-17 19:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/" target="_blank">Replit is no longer working with Anthropic, CEO says</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-10-17 18:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,29 +157,20 @@
                 <span class="time">2026-10-17 02:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements" target="_blank">All the news about the iPhone Duo</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-10-16 23:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6ad26223a56495c621c70456/master/pass/Science_PourOneOutfortheLeapSecond-ezgif.com-video-to-gif-converter.gif" alt="The Leap Second Is No More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/leap-second-is-abolished-bipm-says/" target="_blank">The Leap Second Is No More</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-10-16 21:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dd8888/solid-glass-adds-an-ai-ui-theme-to-shadcnui-projects-hj3" target="_blank">Solid Glass Adds an AI UI Theme to shadcn/ui Projects</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-17 19:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +216,6 @@
                 <span class="time">2026-10-17 10:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017" target="_blank">DeepSeek: DeepSeek v4.1 Flash 1017</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-10-17 08:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/Microsoft-Windows-11-Pro-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Windows 11 Pro costs less than lunch right now at $9.97" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/10/17/windows-11-pro-costs-less-than-lunch-right-now-at-9-97.html" target="_blank">Windows 11 Pro costs less than lunch right now at $9.97</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-10-17 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/trumpvandal.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Dementia Don discovers Abdul El-Sayed&#x27;s middle name is Mohamed and declares victory over &quot;a jihadist&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -291,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 40 | 📡 Total Sources: 39 | 📸 With Images: 270 |
-        🔄 Last Updated: 17:35 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 42 | 📡 Total Sources: 40 | 📸 With Images: 269 |
+        🔄 Last Updated: 19:47 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
