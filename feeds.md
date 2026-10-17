@@ -1,30 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-10-17 21:49:36 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-17 23:35:32 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, October 17, 2026 - 21:49 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, October 17, 2026 - 23:35 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/gallery/2026/10/17/photos-no-kings-rallies-in-us-urge-midterm-voters-to-cast-ballots-early?traffic_source=rss" target="_blank">Photos: No Kings rallies in US urge midterm voters to cast ballots early</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-17 21:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6ac/live/03c510f0-ca5a-11f1-852c-2b93a8fc4799.jpg" alt="Violent clashes, looting and buildings ablaze as hundreds arrested after France protests" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,15 +97,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france" target="_blank">Scuffles and fires break out as protesters rally across France, joining students</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-10-17 15:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/10/17/nottingham-forest-vs-arsenal-premier-league-preview-teams?traffic_source=rss" target="_blank">Nottingham Forest vs Arsenal: Premier League – preview, teams, prediction</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-17 14:06</span>
             </div>
         </div>
 </div>
@@ -162,6 +167,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/iamthedev/5-ai-travel-product-failure-cases-they-all-died-in-the-same-place-39ok" target="_blank">5 AI Travel Product Failure Cases: They All Died in the Same Place</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-17 23:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/renato_marinho/hardening-emergency-protocols-moving-beyond-static-documentation-via-mcp-3cea" target="_blank">Hardening Emergency Protocols: Moving Beyond Static Documentation via MCP</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-10-17 21:39</span>
@@ -203,20 +217,20 @@
                 <span class="time">2026-10-17 14:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17499437/open-source-non-linux-os" target="_blank">Not Every Open Source OS Needs to Be Based on Linux, and These Six Aren’t</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-10-17 13:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/10/mortuaryassistantmovie.jpg" alt="The Mortuary Assistant Film Director Jeremiah Kipp Passes Away" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-mortuary-assistant-film-director-jeremiah-kipp-passes-away-2000747075" target="_blank">The Mortuary Assistant Film Director Jeremiah Kipp Passes Away</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-17 21:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/Microsoft-Windows-11-Pro-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Windows 11 Pro costs less than lunch right now at $9.97" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -226,13 +240,18 @@
                 <span class="time">2026-10-17 15:00</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section webcomics-section" id="webcomics">
+<h2 class="section-header">🎨 Daily Comics</h2>
+<div class="stories-container">
 <div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/06/trumpvandal.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Dementia Don discovers Abdul El-Sayed&#x27;s middle name is Mohamed and declares victory over &quot;a jihadist&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1792200079-20261018.png" alt="Saturday Morning Breakfast Cereal - Chip" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/10/16/trump-abdul-el-sayed-mohamed-middle-name.html" target="_blank">Dementia Don discovers Abdul El-Sayed&#x27;s middle name is Mohamed and declares victory over &quot;a jihadist&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-10-16 23:25</span>
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/chip" target="_blank">Saturday Morning Breakfast Cereal - Chip</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-10-17 15:20</span>
             </div>
         </div>
 </div>
@@ -240,8 +259,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 20 | 📅 Last 24h: 34 | 📡 Total Sources: 40 | 📸 With Images: 270 |
-        🔄 Last Updated: 21:49 UTC
+        📊 Displayed: 21 | 📅 Last 24h: 36 | 📡 Total Sources: 40 | 📸 With Images: 270 |
+        🔄 Last Updated: 23:35 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
