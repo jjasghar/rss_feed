@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-10-17 06:25:25 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-17 11:14:24 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, October 17, 2026 - 06:25 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, October 17, 2026 - 11:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/10/17/sally-rooneys-books-pulled-from-uk-over-palestine-action-support-2?traffic_source=rss" target="_blank">Sally Rooney’s books pulled from UK over Palestine Action support</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-17 10:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e30/live/12a9fde0-c9da-11f1-a64c-550be9e3c66b.jpg" alt="Third runway at Heathrow Airport would drive growth, Healey says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,15 +98,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/video/oregon-police-say-teacher-tackled-suspected-shooter-who-previously-attended-silver-rail-elementary-271718469831" target="_blank">Oregon police say teacher tackled suspected shooter, who previously attended Silver Rail Elementary</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-10-16 21:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/16/nx-s1-6005302/katie-zacharia-is-out-as-press-secretary-white-house-says" target="_blank">Katie Zacharia is out as press secretary, White House says</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-16 20:29</span>
             </div>
         </div>
 </div>
@@ -164,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017" target="_blank">DeepSeek: DeepSeek v4.1 Flash 1017</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-10-17 08:37</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="I Made Gemma Grade Its Own Homework (So I Don&#x27;t Have to Trust It Blindly)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -208,15 +218,6 @@
                 <span class="time">2026-10-16 16:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation" target="_blank">America&#x27;s Wumao: Inside Polymarket&#x27;s Paid Quote-Retweet Esports Program</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-10-16 15:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -226,9 +227,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html" target="_blank">Backdooring Open-Weight AI Models</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-squid-before-the-chicxulub-meteor-impact.html" target="_blank">Friday Squid Blogging: Squid Before the Chicxulub Meteor Impact</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2026-10-16 11:04</span>
+                <span class="time">2026-10-16 21:06</span>
             </div>
         </div>
 </div>
@@ -313,22 +314,13 @@
                 <span class="time">2026-10-16 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/10/16/hexacon" target="_blank">Hexacon</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-10-16 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 51 | 📡 Total Sources: 40 | 📸 With Images: 272 |
-        🔄 Last Updated: 06:25 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 48 | 📡 Total Sources: 39 | 📸 With Images: 273 |
+        🔄 Last Updated: 11:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
