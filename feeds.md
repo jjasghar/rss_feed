@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-10-17 11:14:24 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-10-17 14:34:02 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, October 17, 2026 - 11:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Saturday, October 17, 2026 - 14:34 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,9 +51,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/10/17/nottingham-forest-vs-arsenal-premier-league-preview-teams?traffic_source=rss" target="_blank">Nottingham Forest vs Arsenal: Premier League – preview, teams, prediction</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-17 14:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg" alt="Trump waives several Russia sanctions as row with Zelensky intensifies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss" target="_blank">Trump waives several Russia sanctions as row with Zelensky intensifies</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-17 11:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/10/17/sally-rooneys-books-pulled-from-uk-over-palestine-action-support-2?traffic_source=rss" target="_blank">Sally Rooney’s books pulled from UK over Palestine Action support</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-10-17 10:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-jake-callum-robinson_7372589.jpg?20261010002747" alt="Three men sentenced to more than 158 years in jail for murders of surfers​" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/three-men-sentenced-to-more-than-158-years-in-prison-for-murders-of-australian-and-us-surfers-13600108" target="_blank">Three men sentenced to more than 158 years in jail for murders of surfers​</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-10-17 07:23</span>
             </div>
         </div>
 <div class="story">
@@ -73,38 +101,20 @@
                 <span class="time">2026-10-17 02:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/bend-14-ap-gmh-261016_1792165253418_hpMain_4x3t_384.jpg" alt="Bend, Oregon, shooting: Suspect ID&#x27;d, had attended elementary school, police say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/multiple-people-injured-shooting-oregon-elementary-school-suspect/story?id=137303119" target="_blank">Bend, Oregon, shooting: Suspect ID&#x27;d, had attended elementary school, police say</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-17 00:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/bend-14-ap-gmh-261016_1792165253418_hpMain_4x3t_384.jpg" alt="Bend, Oregon, shooting: Suspect ID&#x27;d, previously attended elem. school, police say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/multiple-people-injured-shooting-oregon-elementary-school-suspect/story?id=137303119" target="_blank">Bend, Oregon, shooting: Suspect ID&#x27;d, previously attended elem. school, police say</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-16 22:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/1792186813160_now_brk_teacher_tackled_suspected_shooter_261016_S3_1920x1080-3tp28v.jpg" alt="Oregon police say teacher tackled suspected shooter, who previously attended Silver Rail Elementary" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/oregon-police-say-teacher-tackled-suspected-shooter-who-previously-attended-silver-rail-elementary-271718469831" target="_blank">Oregon police say teacher tackled suspected shooter, who previously attended Silver Rail Elementary</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-10-16 21:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6ad14bcb1efa7811b4f5a5a5/master/pass/Kernel-Panic-Encription-Being-Squeezed-to-Death-Security.jpg" alt="Encryption Is Getting Squeezed From All Sides" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/kernel-panic-encryption-is-getting-squeezed-from-all-sides/" target="_blank">Encryption Is Getting Squeezed From All Sides</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-10-17 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +160,38 @@
                 <span class="time">2026-10-16 20:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6ad24f19ed303ecbe8441980/master/pass/GettyImages-2299989251.jpg" alt="Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/" target="_blank">Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-10-16 20:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lunarbreeze4173085/python-retrieval-architecture-evaluation-sets-for-a-restaurant-menu-assistant-2ejd" target="_blank">Python Retrieval Architecture — Evaluation Sets for a Restaurant Menu Assistant</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-17 14:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17499437/open-source-non-linux-os" target="_blank">Not Every Open Source OS Needs to Be Based on Linux, and These Six Aren’t</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-10-17 13:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-KThreads-NBCON" target="_blank">Linux Lands Fix for Rare, Varying SMP Boot Hangs Affecting Kernels Since 2024</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-17 10:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -189,33 +217,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/17-Vulnerabilities-Xorg-Libs" target="_blank">17 More Security Vulnerabilities Made Public For X.Org Libraries</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-10-16 19:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/10/envharness-self-evolving-agents/en/headerimage/cloudflare-writeguard-1792176346559.jpeg" alt="Google EnvHarness Enables Self-Evolving Agents to Learn in Dynamics Environments" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/10/envharness-self-evolving-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google EnvHarness Enables Self-Evolving Agents to Learn in Dynamics Environments</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-10-16 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2024/05/Ubuntu-Flavors-406x232.jpg" alt="What’s new in the Ubuntu 26.10 flavours?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/ubuntu-2610-flavours-overview" target="_blank">What’s new in the Ubuntu 26.10 flavours?</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-10-16 17:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://reinout.vanrees.org/weblog/2026/10/15/4-software-architecture.html" target="_blank">Practical software architecture for Python developers notes</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-10-16 16:45</span>
             </div>
         </div>
 </div>
@@ -282,15 +283,6 @@
                 <span class="time">2026-10-16 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M50DRGVCFWTW0KR037W4JJ5W/hero-image.jpg" alt="This Anker Portable Power Station Is 40% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/anker-solix-c2000-gen-2-portable-power-station-sale-october-2026?utm_medium=RSS" target="_blank">This Anker Portable Power Station Is 40% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-10-16 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 48 | 📡 Total Sources: 39 | 📸 With Images: 273 |
-        🔄 Last Updated: 11:14 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 46 | 📡 Total Sources: 39 | 📸 With Images: 271 |
+        🔄 Last Updated: 14:34 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
