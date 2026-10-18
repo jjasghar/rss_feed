@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-10-18 01:55:38 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-18 06:47:00 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, October 18, 2026 - 01:55 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Sunday, October 18, 2026 - 06:47 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/18/guatemalan-former-prosecutor-shot-dead-at-sports-centre?traffic_source=rss" target="_blank">Guatemalan former prosecutor shot dead at sports centre</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-18 05:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,15 +98,6 @@
                 <span class="title"><a href="https://abcnews.com/Politics/trump-signs-order-waiving-graham-act-sanctions-russia/story?id=137341529" target="_blank">Trump waives Graham Act sanctions on Russia, drawing backlash from some lawmakers</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-10-17 19:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/17/albanian-police-fire-rubber-bullets-as-protests-against-rama-escalate?traffic_source=rss" target="_blank">Albanian police fire rubber bullets as protests against Rama escalate</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-17 19:26</span>
             </div>
         </div>
 </div>
@@ -164,6 +167,33 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lauppv/what-i-learned-building-an-ai-tutor-that-helps-you-learn-programming-2i0k" target="_blank">What I learned building an AI tutor that helps you learn Programming</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-18 06:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/10/aws-sovereign-cloud-exercise/en/headerimage/generatedHeaderImage-1791945895599.jpg" alt="AWS Will Run Its European Sovereign Cloud Without the Global Backbone for Several Hours" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/10/aws-sovereign-cloud-exercise/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Will Run Its European Sovereign Cloud Without the Global Backbone for Several Hours</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-10-18 05:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/10/nowplaying-card-2-406x232.webp" alt="Now Playing Card shows media info for multiple apps at a time" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/gnome-now-playing-card-extension" target="_blank">Now Playing Card shows media info for multiple apps at a time</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-10-18 02:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day" target="_blank">Zuckerberg&#x27;s Meta Takes Down No Kings Instagram During Protest Day</a></span>
                 <span class="feed">Hacker News</span>
@@ -173,46 +203,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Synchronous-VirtIO-FS" target="_blank">Synchronous Queues For VirtIO-FS Show Huge Performance Potential</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-18 00:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/iamthedev/5-ai-travel-product-failure-cases-they-all-died-in-the-same-place-39ok" target="_blank">5 AI Travel Product Failure Cases: They All Died in the Same Place</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-10-17 23:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/renato_marinho/hardening-emergency-protocols-moving-beyond-static-documentation-via-mcp-3cea" target="_blank">Hardening Emergency Protocols: Moving Beyond Static Documentation via MCP</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-17 21:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dd8888/solid-glass-adds-an-ai-ui-theme-to-shadcnui-projects-hj3" target="_blank">Solid Glass Adds an AI UI Theme to shadcn/ui Projects</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-17 19:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/haopengai/my-79-fixed-price-n8n-builds-are-one-config-file-how-i-ship-custom-workflows-without-rewriting-3cmh" target="_blank">My $79 Fixed-Price n8n Builds Are One Config File: How I Ship Custom Workflows Without Rewriting Them</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-17 17:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/MeshXFS-XFS-Clustered" target="_blank">MeshXFS: AI Adapts XFS Into A Clustered File-System</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-10-17 17:02</span>
             </div>
         </div>
 </div>
@@ -257,8 +260,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 21 | 📅 Last 24h: 38 | 📡 Total Sources: 40 | 📸 With Images: 271 |
-        🔄 Last Updated: 01:55 UTC
+        📊 Displayed: 21 | 📅 Last 24h: 37 | 📡 Total Sources: 40 | 📸 With Images: 269 |
+        🔄 Last Updated: 06:47 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
