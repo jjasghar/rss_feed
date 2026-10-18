@@ -1,44 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-10-18 18:20:05 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-18 21:08:42 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 35 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, October 18, 2026 - 18:20 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, October 18, 2026 - 21:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3671/live/56f97410-cb35-11f1-9e57-a506a0943bb2.jpg" alt="Macron calls for &#x27;calm and order&#x27; after riots across France" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss" target="_blank">Macron calls for &#x27;calm and order&#x27; after riots across France</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-18 20:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/10/18/nx-s1-6007382/ukraine-us-starshield-starlink-what-to-know-trump" target="_blank">Ukraine and the U.S. are at odds over Starshield. Here&#x27;s what to know</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-10-18 18:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,29 +101,20 @@
                 <span class="time">2026-10-18 14:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261016-nbc-news-poll-trump-approval-2x1-social-jg-d2d5e3.jpg" alt="Poll: Americans are anxious, pessimistic and deeply unhappy with Trump ahead of the midterms" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/poll-americans-anxious-pessimistic-deeply-unhappy-trump-ahead-midterms-rcna603064" target="_blank">Poll: Americans are anxious, pessimistic and deeply unhappy with Trump ahead of the midterms</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-10-18 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/18/funeral-held-for-75-palestinians-after-remains-recovered-from-gaza-ruins?traffic_source=rss" target="_blank">Funeral held for 75 Palestinians after remains recovered from Gaza ruins</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-18 11:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review" target="_blank">Mister Organ is one of the most unsettling documentaries I’ve ever seen</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-10-18 19:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/claudebyanthropic-500x500.jpg" alt="Anthropic gives outside AI watchdog “employee-like” access" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,21 +143,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Researchers Discover How To Lead Dying Coral Reefs To a &#x27;Fast And Full Recovery&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary" target="_blank">TikTok bans Musk documentary account</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-10-17 19:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/" target="_blank">Replit is no longer working with Anthropic, CEO says</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-10-17 18:48</span>
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://science.slashdot.org/story/26/10/18/2016240/researchers-discover-how-to-lead-dying-coral-reefs-to-a-fast-and-full-recovery?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Researchers Discover How To Lead Dying Coral Reefs To a &#x27;Fast And Full Recovery&#x27;</a></span>
+                <span class="feed">Slashdot</span>
+                
             </div>
         </div>
 <div class="story">
@@ -176,9 +169,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tiandu-tech/monitor-your-competitors-chrome-extension-reviews-with-a-scheduled-scraper-3663" target="_blank">Monitor your competitors&#x27; Chrome extension reviews with a scheduled scraper</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-18 21:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/vishal9032/how-we-built-an-autonomous-company-brain-multi-agent-memory-engine-with-falkordb-2687" target="_blank">How We Built an Autonomous Company Brain &amp; Multi-Agent Memory Engine with FalkorDB</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-10-18 18:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/10/linux-mint-system-monitor-new-406x232.webp" alt="Linux Mint’s new system monitor does more than you’d expect" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/linux-mint-new-system-monitor" target="_blank">Linux Mint’s new system monitor does more than you’d expect</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-10-18 16:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/10/google-pyrefly-python/en/headerimage/qodana-php-taint-analysis-1792333929462.jpeg" alt="Google Adopts Pyrefly for Faster, More Accurate Python Type Checking" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/10/google-pyrefly-python/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Adopts Pyrefly for Faster, More Accurate Python Type Checking</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-10-18 15:00</span>
             </div>
         </div>
 <div class="story">
@@ -197,33 +217,6 @@
                 <span class="title"><a href="https://github.com/VikOlliver/RepRapMicron/wiki" target="_blank">RepRapMicron</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-10-18 13:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lauppv/what-i-learned-building-an-ai-tutor-that-helps-you-learn-programming-2i0k" target="_blank">What I learned building an AI tutor that helps you learn Programming</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-18 06:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/10/aws-sovereign-cloud-exercise/en/headerimage/generatedHeaderImage-1791945895599.jpg" alt="AWS Will Run Its European Sovereign Cloud Without the Global Backbone for Several Hours" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/10/aws-sovereign-cloud-exercise/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Will Run Its European Sovereign Cloud Without the Global Backbone for Several Hours</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-10-18 05:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/10/nowplaying-card-2-406x232.webp" alt="Now Playing Card shows media info for multiple apps at a time" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/gnome-now-playing-card-extension" target="_blank">Now Playing Card shows media info for multiple apps at a time</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-10-18 02:55</span>
             </div>
         </div>
 </div>
@@ -258,15 +251,6 @@
                 <span class="time">2026-10-17 21:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/AnyToSpeech.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Turn any of your content into a podcast in minutes with this $40 lifetime purchase" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/10/17/turn-any-of-your-content-into-a-podcast-in-minutes-with-this-40-lifetime-purchase.html" target="_blank">Turn any of your content into a podcast in minutes with this $40 lifetime purchase</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-10-17 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -286,8 +270,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 39 | 📡 Total Sources: 40 | 📸 With Images: 269 |
-        🔄 Last Updated: 18:20 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 36 | 📡 Total Sources: 40 | 📸 With Images: 270 |
+        🔄 Last Updated: 21:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
