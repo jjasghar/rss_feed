@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-10-18 06:47:00 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-18 11:50:59 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Sunday, October 18, 2026 - 06:47 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Sunday, October 18, 2026 - 11:51 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,54 +46,54 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/18/funeral-held-for-75-palestinians-after-remains-recovered-from-gaza-ruins?traffic_source=rss" target="_blank">Funeral held for 75 Palestinians after remains recovered from Gaza ruins</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-18 11:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de1f/live/a4d8c560-cae4-11f1-bc2e-018d645d8d21.jpg" alt="Polanski says he will not overturn Green Party&#x27;s &#x27;Zionism is racism&#x27; motion" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss" target="_blank">Polanski says he will not overturn Green Party&#x27;s &#x27;Zionism is racism&#x27; motion</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-18 11:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d285/live/4704a830-cacd-11f1-b5ff-6fb710f59c84.jpg" alt="Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss" target="_blank">Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-18 10:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/oct/18/lagos-hypemen-redefining-afrobeats-music-afrohype" target="_blank">Hilarious quips and ‘100,000-volt’ energy: the hypemen (and women) redefining Afrobeats music</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-10-18 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/10/18/nx-s1-5978762/maria-elvira-salazar-immigration-trump" target="_blank">With an ad aimed at Trump, this Republican exposed GOP angst about Latino voters</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-10-18 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/10/18/guatemalan-former-prosecutor-shot-dead-at-sports-centre?traffic_source=rss" target="_blank">Guatemalan former prosecutor shot dead at sports centre</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-10-18 05:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/10/18/buildings-burn-as-french-protests-go-into-the-night?traffic_source=rss" target="_blank">Buildings burn as French protests go into the night</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-18 01:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2026/10/17/photos-no-kings-rallies-in-us-urge-midterm-voters-to-cast-ballots-early?traffic_source=rss" target="_blank">Photos: No Kings rallies in US urge midterm voters to cast ballots early</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-17 21:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/287a/live/339305e0-ca4a-11f1-81dd-07b2258f847d.jpg" alt="Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss" target="_blank">Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-17 20:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6ac/live/03c510f0-ca5a-11f1-852c-2b93a8fc4799.jpg" alt="Violent clashes, looting and buildings ablaze as hundreds arrested after France protests" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss" target="_blank">Violent clashes, looting and buildings ablaze as hundreds arrested after France protests</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-17 20:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-1-gty-gmh-261016_1792171828302_hpMain_4x3t_384.jpg" alt="Trump waives Graham Act sanctions on Russia, drawing backlash from some lawmakers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-signs-order-waiving-graham-act-sanctions-russia/story?id=137341529" target="_blank">Trump waives Graham Act sanctions on Russia, drawing backlash from some lawmakers</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-17 19:28</span>
             </div>
         </div>
 </div>
@@ -151,12 +147,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/meetingboredom-500x500.jpg" alt="Science says your boss should talk less in meetings" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="FSF Criticizes Raspberry Pi DRM Blocking RAM Upgrades" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/" target="_blank">Science says your boss should talk less in meetings</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-10-17 11:15</span>
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://news.slashdot.org/story/26/10/18/0632229/fsf-criticizes-raspberry-pi-drm-blocking-ram-upgrades?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">FSF Criticizes Raspberry Pi DRM Blocking RAM Upgrades</a></span>
+                <span class="feed">Slashdot</span>
+                
             </div>
         </div>
 </div>
@@ -260,8 +256,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 21 | 📅 Last 24h: 37 | 📡 Total Sources: 40 | 📸 With Images: 269 |
-        🔄 Last Updated: 06:47 UTC
+        📊 Displayed: 21 | 📅 Last 24h: 38 | 📡 Total Sources: 40 | 📸 With Images: 268 |
+        🔄 Last Updated: 11:51 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
