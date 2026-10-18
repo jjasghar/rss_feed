@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-10-18 21:08:42 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-10-18 23:46:06 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, October 18, 2026 - 21:08 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Sunday, October 18, 2026 - 23:46 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,6 +108,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband" target="_blank">A Savannah police officer gave her Flock login to her ICE agent husband</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-10-18 22:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review" target="_blank">Mister Organ is one of the most unsettling documentaries I’ve ever seen</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-10-18 19:30</span>
@@ -134,12 +141,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="New Video Game Law Proposed: &#x27;If You Pay For It, You Own It&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/" target="_blank">Meta removes language that raised scraping and AI training concerns</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-10-17 21:31</span>
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://news.slashdot.org/story/26/10/18/235244/new-video-game-law-proposed-if-you-pay-for-it-you-own-it?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">New Video Game Law Proposed: &#x27;If You Pay For It, You Own It&#x27;</a></span>
+                <span class="feed">Slashdot</span>
+                
             </div>
         </div>
 <div class="story">
@@ -151,20 +158,20 @@
                 
             </div>
         </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="More Details on Arrested Saudi OpenAI Employee, Who is Seeking Release on Bail" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://yro.slashdot.org/story/26/10/18/0318232/more-details-on-arrested-saudi-openai-employee-who-is-seeking-release-on-bail?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">More Details on Arrested Saudi OpenAI Employee, Who is Seeking Release on Bail</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2024/06/tiling-shell-bw-406x232.jpg" alt="Tiling Shell now supports mouse button layout activation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/tiling-shell-right-mouse-button-activation" target="_blank">Tiling Shell now supports mouse button layout activation</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-10-18 22:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,20 +217,20 @@
                 <span class="time">2026-10-18 13:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/VikOlliver/RepRapMicron/wiki" target="_blank">RepRapMicron</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-10-18 13:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/10/ball2-1280x790.jpg" alt="MrBeast Joins Shark Tank, Invests Quarter Million In AI-Powered ‘Ball 2’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/mrbeast-joins-shark-tank-invests-quarter-million-in-ai-powered-ball-2-2000747308" target="_blank">MrBeast Joins Shark Tank, Invests Quarter Million In AI-Powered ‘Ball 2’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-18 22:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/10/astrobotflower.jpg" alt="The PlayStation 6’s Memory Components Alone Could Cost More Than $700" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -240,15 +247,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/10/18/microsoft-office-is-under-30-right-now.html" target="_blank">Microsoft Office is under $30, right now</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-10-18 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/10/mortuaryassistantmovie.jpg" alt="The Mortuary Assistant Film Director Jeremiah Kipp Passes Away" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-mortuary-assistant-film-director-jeremiah-kipp-passes-away-2000747075" target="_blank">The Mortuary Assistant Film Director Jeremiah Kipp Passes Away</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-17 21:10</span>
             </div>
         </div>
 </div>
@@ -270,8 +268,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 36 | 📡 Total Sources: 40 | 📸 With Images: 270 |
-        🔄 Last Updated: 21:08 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 35 | 📡 Total Sources: 40 | 📸 With Images: 270 |
+        🔄 Last Updated: 23:46 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
