@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-10-17 23:35:32 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-18 01:55:38 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Saturday, October 17, 2026 - 23:35 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, October 18, 2026 - 01:55 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,9 +47,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/10/18/buildings-burn-as-french-protests-go-into-the-night?traffic_source=rss" target="_blank">Buildings burn as French protests go into the night</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-18 01:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/gallery/2026/10/17/photos-no-kings-rallies-in-us-urge-midterm-voters-to-cast-ballots-early?traffic_source=rss" target="_blank">Photos: No Kings rallies in US urge midterm voters to cast ballots early</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-10-17 21:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/287a/live/339305e0-ca4a-11f1-81dd-07b2258f847d.jpg" alt="Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss" target="_blank">Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-17 20:52</span>
             </div>
         </div>
 <div class="story">
@@ -64,39 +80,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-1-gty-gmh-261016_1792171828302_hpMain_4x3t_384.jpg" alt="Trump waives Graham Act sanctions on Russia, drawing backlash from some lawmakers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-signs-order-waiving-graham-act-sanctions-russia/story?id=137341529" target="_blank">Trump waives Graham Act sanctions on Russia, drawing backlash from some lawmakers</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-17 19:28</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/10/17/albanian-police-fire-rubber-bullets-as-protests-against-rama-escalate?traffic_source=rss" target="_blank">Albanian police fire rubber bullets as protests against Rama escalate</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-10-17 19:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/cornell-logo_1791370268301_hpMain_3_4x3t_384.jpg" alt="Judge denies gag order request in Cornell sex assault civil case" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/judge-denies-gag-order-request-cornell-sex-assault/story?id=137338006" target="_blank">Judge denies gag order request in Cornell sex assault civil case</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-17 16:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42a7/live/0ba95eb0-8762-11f1-b2ab-0dd01740f9f6.jpg" alt="More NHS staff sacked over attacks victims&#x27; records" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss" target="_blank">More NHS staff sacked over attacks victims&#x27; records</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-17 16:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france" target="_blank">Scuffles and fires break out as protesters rally across France, joining students</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-17 15:57</span>
             </div>
         </div>
 </div>
@@ -166,6 +164,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day" target="_blank">Zuckerberg&#x27;s Meta Takes Down No Kings Instagram During Protest Day</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-10-18 01:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/iamthedev/5-ai-travel-product-failure-cases-they-all-died-in-the-same-place-39ok" target="_blank">5 AI Travel Product Failure Cases: They All Died in the Same Place</a></span>
                 <span class="feed">DEV Community</span>
@@ -206,15 +213,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/MeshXFS-XFS-Clustered" target="_blank">MeshXFS: AI Adapts XFS Into A Clustered File-System</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-10-17 17:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lunarbreeze4173085/python-retrieval-architecture-evaluation-sets-for-a-restaurant-menu-assistant-2ejd" target="_blank">Python Retrieval Architecture — Evaluation Sets for a Restaurant Menu Assistant</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-17 14:33</span>
             </div>
         </div>
 </div>
@@ -259,8 +257,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 21 | 📅 Last 24h: 36 | 📡 Total Sources: 40 | 📸 With Images: 270 |
-        🔄 Last Updated: 23:35 UTC
+        📊 Displayed: 21 | 📅 Last 24h: 38 | 📡 Total Sources: 40 | 📸 With Images: 271 |
+        🔄 Last Updated: 01:55 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
