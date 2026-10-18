@@ -1,39 +1,44 @@
-<!-- Processing 54 RSS feeds at 2026-10-18 15:01:25 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-18 18:20:05 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Generated 9 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Sunday, October 18, 2026 - 15:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, October 18, 2026 - 18:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +54,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/10/18/tiger-shroff-mumbai-shooting-salman-khan?traffic_source=rss" target="_blank">Indian Bollywood superstar Tiger Shroff allegedly shot at by gunmen</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-18 17:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/ThisWeek/Josh-York_1792289293266_hpMain_4x3t_384.jpg" alt="Midterm vote is about &#x27;what&#x27;s best for my family&#x27;: Voters talk 2026 midterms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/midterm-vote-whats-best-family-voters-talk-2026/story?id=137355210" target="_blank">Midterm vote is about &#x27;what&#x27;s best for my family&#x27;: Voters talk 2026 midterms</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-18 16:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/26/08/1920x1080/skynews-breakingnews-uk_7322499.jpg?20260826125921" alt="Trump endorses Netanyahu ahead of Israeli elections, calling him &#x27;great warrior prime minister&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,29 +108,20 @@
                 <span class="time">2026-10-18 11:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de1f/live/a4d8c560-cae4-11f1-bc2e-018d645d8d21.jpg" alt="Polanski says he will not overturn Green Party&#x27;s &#x27;Zionism is racism&#x27; motion" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss" target="_blank">Polanski says he will not overturn Green Party&#x27;s &#x27;Zionism is racism&#x27; motion</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-18 11:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d285/live/4704a830-cacd-11f1-b5ff-6fb710f59c84.jpg" alt="Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss" target="_blank">Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-18 10:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/claudebyanthropic-500x500.jpg" alt="Anthropic gives outside AI watchdog “employee-like” access" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/" target="_blank">Anthropic gives outside AI watchdog “employee-like” access</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-10-18 16:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6ad2adfc85712117ad7fac60/master/pass/The%20Best%20Gifts%20for%20Men,%20Manly%20Men,%20and%20Menly%20Man%20Men%20top%20art%20SOURCE%20Amazon-Home%20Depot.jpg" alt="20 Best Gifts for Men, Manly Men, and Manly Man Men (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,19 +159,10 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/" target="_blank">Ember’s new temperature-controlled mug makes my nightly tea ritual even better</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-10-17 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="FSF Criticizes Raspberry Pi DRM Blocking RAM Upgrades" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="More Details on Arrested Saudi OpenAI Employee, Who is Seeking Release on Bail" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://news.slashdot.org/story/26/10/18/0632229/fsf-criticizes-raspberry-pi-drm-blocking-ram-upgrades?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">FSF Criticizes Raspberry Pi DRM Blocking RAM Upgrades</a></span>
+                <span class="title"><a href="https://yro.slashdot.org/story/26/10/18/0318232/more-details-on-arrested-saudi-openai-employee-who-is-seeking-release-on-bail?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">More Details on Arrested Saudi OpenAI Employee, Who is Seeking Release on Bail</a></span>
                 <span class="feed">Slashdot</span>
                 
             </div>
@@ -170,10 +175,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vishal9032/how-we-built-an-autonomous-company-brain-multi-agent-memory-engine-with-falkordb-2687" target="_blank">How We Built an Autonomous Company Brain &amp; Multi-Agent Memory Engine with FalkorDB</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-18 18:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-TDX-Less-Cache-Flushing" target="_blank">It Turns Out Intel TDX Doesn&#x27;t Need So Much Cache Flushing</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-10-18 13:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/VikOlliver/RepRapMicron/wiki" target="_blank">RepRapMicron</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-10-18 13:48</span>
             </div>
         </div>
 <div class="story">
@@ -203,29 +226,29 @@
                 <span class="time">2026-10-18 02:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day" target="_blank">Zuckerberg&#x27;s Meta Takes Down No Kings Instagram During Protest Day</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-10-18 01:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Synchronous-VirtIO-FS" target="_blank">Synchronous Queues For VirtIO-FS Show Huge Performance Potential</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-10-18 00:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/10/astrobotflower.jpg" alt="The PlayStation 6’s Memory Components Alone Could Cost More Than $700" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-playstation-6s-memory-components-alone-could-cost-more-than-700-2000747289" target="_blank">The PlayStation 6’s Memory Components Alone Could Cost More Than $700</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-18 16:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/Microsoft-Office-Professional-2021-for-Windows.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Microsoft Office is under $30, right now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/10/18/microsoft-office-is-under-30-right-now.html" target="_blank">Microsoft Office is under $30, right now</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-10-18 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/10/mortuaryassistantmovie.jpg" alt="The Mortuary Assistant Film Director Jeremiah Kipp Passes Away" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -250,12 +273,12 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
-            <img src="https://www.smbc-comics.com/comics/1792200079-20261018.png" alt="Saturday Morning Breakfast Cereal - Chip" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1792283872-20261018.png" alt="Saturday Morning Breakfast Cereal - Reactions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/chip" target="_blank">Saturday Morning Breakfast Cereal - Chip</a></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/reactions" target="_blank">Saturday Morning Breakfast Cereal - Reactions</a></span>
                 <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-10-17 15:20</span>
+                <span class="time">2026-10-18 15:20</span>
             </div>
         </div>
 </div>
@@ -263,8 +286,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 21 | 📅 Last 24h: 38 | 📡 Total Sources: 40 | 📸 With Images: 269 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 39 | 📡 Total Sources: 40 | 📸 With Images: 269 |
+        🔄 Last Updated: 18:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
