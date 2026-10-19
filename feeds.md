@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-10-18 23:46:06 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-10-19 02:12:34 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Sunday, October 18, 2026 - 23:46 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Monday, October 19, 2026 - 02:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,12 +45,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/International/Canada-military-base-fire-one-ap-bh-101826_1792326712093_hpMain_4x3t_384.jpg" alt="Multiple people dead in explosion during live-fire military training exercise" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/multiple-people-killed-dozens-injured-explosion-canadian-military/story?id=137359465" target="_blank">Multiple people dead in explosion during live-fire military training exercise</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-18 22:13</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3671/live/56f97410-cb35-11f1-9e57-a506a0943bb2.jpg" alt="Macron calls for &#x27;calm and order&#x27; after riots across France" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss" target="_blank">Macron calls for &#x27;calm and order&#x27; after riots across France</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-10-18 20:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-austrian-airlines_7380328.jpg?20261018232444" alt="Flight from Tel Aviv to Vienna makes emergency landing after bomb threat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/flight-from-tel-aviv-to-vienna-makes-emergency-landing-after-bomb-threat-13600784" target="_blank">Flight from Tel Aviv to Vienna makes emergency landing after bomb threat</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-10-18 19:45</span>
             </div>
         </div>
 <div class="story">
@@ -81,24 +98,6 @@
                 <span class="time">2026-10-18 16:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-breakingnews-uk_7322499.jpg?20260826125921" alt="Trump endorses Netanyahu ahead of Israeli elections, calling him &#x27;great warrior prime minister&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trump-endorses-netanyahu-ahead-of-israeli-elections-calling-him-great-warrior-prime-minister-13600658" target="_blank">Trump endorses Netanyahu ahead of Israeli elections, calling him &#x27;great warrior prime minister&#x27;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-10-18 14:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/wright-1-abc-gmh-261018_1792328633572_hpMain_4x3t_384.jpg" alt="Energy secretary defends waiving sanctions on Russia: &#x27;It’s not an economic lifeline&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/energy-secretary-defends-waiving-new-sanctions-russia-economic/story?id=137359849" target="_blank">Energy secretary defends waiving sanctions on Russia: &#x27;It’s not an economic lifeline&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-18 14:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -111,6 +110,15 @@
                 <span class="title"><a href="https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband" target="_blank">A Savannah police officer gave her Flock login to her ICE agent husband</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-10-18 22:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/" target="_blank">No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-10-18 21:00</span>
             </div>
         </div>
 <div class="story">
@@ -149,20 +157,20 @@
                 
             </div>
         </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Researchers Discover How To Lead Dying Coral Reefs To a &#x27;Fast And Full Recovery&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://science.slashdot.org/story/26/10/18/2016240/researchers-discover-how-to-lead-dying-coral-reefs-to-a-fast-and-full-recovery?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Researchers Discover How To Lead Dying Coral Reefs To a &#x27;Fast And Full Recovery&#x27;</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.3-Released" target="_blank">Linux 7.3 Released With Faster I/O Performance, AMD Zen 6 Preparations &amp; More</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-18 23:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2024/06/tiling-shell-bw-406x232.jpg" alt="Tiling Shell now supports mouse button layout activation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -184,6 +192,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://arxiv.org/abs/2610.18861" target="_blank">Hybrid Reasoning Agents: LLM agents that think in latent space, act through text</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-10-18 20:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/vishal9032/how-we-built-an-autonomous-company-brain-multi-agent-memory-engine-with-falkordb-2687" target="_blank">How We Built an Autonomous Company Brain &amp; Multi-Agent Memory Engine with FalkorDB</a></span>
                 <span class="feed">DEV Community</span>
@@ -197,24 +214,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/linux-mint-new-system-monitor" target="_blank">Linux Mint’s new system monitor does more than you’d expect</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-10-18 16:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/10/google-pyrefly-python/en/headerimage/qodana-php-taint-analysis-1792333929462.jpeg" alt="Google Adopts Pyrefly for Faster, More Accurate Python Type Checking" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/10/google-pyrefly-python/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Adopts Pyrefly for Faster, More Accurate Python Type Checking</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-10-18 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-TDX-Less-Cache-Flushing" target="_blank">It Turns Out Intel TDX Doesn&#x27;t Need So Much Cache Flushing</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-10-18 13:53</span>
             </div>
         </div>
 </div>
@@ -268,8 +267,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 35 | 📡 Total Sources: 40 | 📸 With Images: 270 |
-        🔄 Last Updated: 23:46 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 37 | 📡 Total Sources: 40 | 📸 With Images: 268 |
+        🔄 Last Updated: 02:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
