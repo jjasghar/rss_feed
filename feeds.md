@@ -1,39 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-10-19 15:58:19 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-10-19 20:51:46 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 13 new posts out of 30 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 15 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, October 19, 2026 - 15:58 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, October 19, 2026 - 20:52 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +52,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_ukrainian-soldier-rescued-in-drone-evacuation-191026?traffic_source=rss" target="_blank">Injured Ukrainian soldier rescued in first-ever drone evacuation mission</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-19 20:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/1792430349326_now_mnn_kansas_midterms_gosk_affordability_261019_S3_1920x1080-ox09di.jpg" alt="Kansas voters stress affordability as key issue in competitive Senate race" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/kansas-voters-stress-affordability-as-key-issue-in-competitive-senate-race-271824453567" target="_blank">Kansas voters stress affordability as key issue in competitive Senate race</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-10-19 17:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db0a/live/41394270-cba5-11f1-9ee2-f74dfb8e54e5.jpg" alt="Four arrested after police officer injured in shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6073pdxpvjvo?at_medium=RSS&at_campaign=rss" target="_blank">Four arrested after police officer injured in shooting</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-19 15:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c1d/live/efe61500-cbd2-11f1-9a39-31b474234113.jpg" alt="Australian MP critically injured after being hit by car in apparent attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,38 +106,29 @@
                 <span class="time">2026-10-19 11:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/10/19/losing-cuba-the-global-trickster?traffic_source=rss" target="_blank">Losing Cuba, the global trickster</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-19 07:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-wargame-defence-insider_7380344.jpg?20261019041342" alt="Wargame with a difference as Russia faces dilemma" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/sky-news-defence-insider-gets-exclusive-access-to-staged-kaliningrad-crisis-simulation-13600825" target="_blank">Wargame with a difference as Russia faces dilemma</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-10-19 04:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Canada-military-base-fire-one-ap-bh-101826_1792326712093_hpMain_4x3t_384.jpg" alt="Multiple people dead in explosion during live-fire military training exercise" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/multiple-people-killed-dozens-injured-explosion-canadian-military/story?id=137359465" target="_blank">Multiple people dead in explosion during live-fire military training exercise</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-18 22:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/" target="_blank">Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-10-19 20:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/1013911/sonys-best-noise-canceling-earbuds-are-nearly-100-off-today-only" target="_blank">Sony’s best noise-canceling earbuds are nearly $100 off today only</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-10-19 18:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,29 +165,20 @@
                 <span class="time">2026-10-18 22:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/" target="_blank">No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-10-18 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review" target="_blank">Mister Organ is one of the most unsettling documentaries I’ve ever seen</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-10-18 19:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/10/19/production-grade-llms-and-agents-a-field-guide/" target="_blank">Production-grade LLMs and agents: a field guide</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-10-19 15:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2025/05/nordvpn-stacked-logo-406x232.jpg" alt="NordVPN 6.0 for Linux will feature ‘breaking changes’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -212,13 +224,18 @@
                 <span class="time">2026-10-19 02:56</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/10/linux-kernel-7.3-feature-hero-406x232.webp" alt="Linux 7.3 is out, speeds up ext4 and low-VRAM AMD GPUs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/linux-7-3-features" target="_blank">Linux 7.3 is out, speeds up ext4 and low-VRAM AMD GPUs</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-10-19 02:28</span>
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/" target="_blank">Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2026-10-19 13:48</span>
             </div>
         </div>
 </div>
@@ -226,6 +243,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/10/podcasts-1280x649.jpg" alt="As IGN Retreats From Podcasts, Fired Hosts Start Their Own" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/as-ign-retreats-from-podcasts-fired-hosts-start-their-own-2000747616" target="_blank">As IGN Retreats From Podcasts, Fired Hosts Start Their Own</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-19 20:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/fountain-pen-skeleton-netsuke-franks.jpg?fit=926%2C1000&amp;quality=60&amp;ssl=1" alt="A tiny 19th-century ivory skeleton tries to lift a boulder" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/10/19/fountain-pen-skeleton-netsuke-franks.html" target="_blank">A tiny 19th-century ivory skeleton tries to lift a boulder</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-10-19 19:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M5AQ6RDBTN0W9PKPWYNTTN0W/hero-image.png" alt="These Sennheiser Wireless Headphones Are 32% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/sennheiser-momentum-4-headphones-sale-october-2026?utm_medium=RSS" target="_blank">These Sennheiser Wireless Headphones Are 32% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-10-19 19:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01M4XG4NJ1XKQ8NQR4AYECYXS0/hero-image.jpg" alt="10 Hacks Every AllTrails User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -253,38 +297,20 @@
                 <span class="time">2026-10-19 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/10/ball2-1280x790.jpg" alt="MrBeast Joins Shark Tank, Invests Quarter Million In AI-Powered ‘Ball 2’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/mrbeast-joins-shark-tank-invests-quarter-million-in-ai-powered-ball-2-2000747308" target="_blank">MrBeast Joins Shark Tank, Invests Quarter Million In AI-Powered ‘Ball 2’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-18 22:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/The-All-in-One-Microsoft-Office-Pro-2019-for-Windows-1-1.jpg?fit=1200%2C901&amp;quality=60&amp;ssl=1" alt="Under $20: Windows 11 Pro and Microsoft Office with no subscription" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/10/18/under-20-windows-11-pro-and-microsoft-office-with-no-subscription.html" target="_blank">Under $20: Windows 11 Pro and Microsoft Office with no subscription</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-10-18 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/10/astrobotflower.jpg" alt="The PlayStation 6’s Memory Components Alone Could Cost More Than $700" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-playstation-6s-memory-components-alone-could-cost-more-than-700-2000747289" target="_blank">The PlayStation 6’s Memory Components Alone Could Cost More Than $700</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-18 16:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/10/19/arc-resort" target="_blank">ARC Resort</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-10-19 19:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1792283936-20261019.png" alt="Saturday Morning Breakfast Cereal - Cells" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -317,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 39 | 📡 Total Sources: 39 | 📸 With Images: 268 |
-        🔄 Last Updated: 15:58 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 42 | 📡 Total Sources: 39 | 📸 With Images: 267 |
+        🔄 Last Updated: 20:52 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
