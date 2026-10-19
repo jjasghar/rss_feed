@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-10-19 02:12:34 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-10-19 08:12:42 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 10 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, October 19, 2026 - 02:12 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, October 19, 2026 - 08:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/10/19/losing-cuba-the-global-trickster?traffic_source=rss" target="_blank">Losing Cuba, the global trickster</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-19 07:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-wargame-defence-insider_7380344.jpg?20261019041342" alt="Wargame with a difference as Russia faces dilemma" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/sky-news-defence-insider-gets-exclusive-access-to-staged-kaliningrad-crisis-simulation-13600825" target="_blank">Wargame with a difference as Russia faces dilemma</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-10-19 04:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Canada-military-base-fire-one-ap-bh-101826_1792326712093_hpMain_4x3t_384.jpg" alt="Multiple people dead in explosion during live-fire military training exercise" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,29 +101,20 @@
                 <span class="time">2026-10-18 18:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/10/18/tiger-shroff-mumbai-shooting-salman-khan?traffic_source=rss" target="_blank">Indian Bollywood superstar Tiger Shroff allegedly shot at by gunmen</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-18 17:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/ThisWeek/Josh-York_1792289293266_hpMain_4x3t_384.jpg" alt="Midterm vote is about &#x27;what&#x27;s best for my family&#x27;: Voters talk 2026 midterms" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/midterm-vote-whats-best-family-voters-talk-2026/story?id=137355210" target="_blank">Midterm vote is about &#x27;what&#x27;s best for my family&#x27;: Voters talk 2026 midterms</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-18 16:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/" target="_blank">Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-10-19 07:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +160,47 @@
                 <span class="time">2026-10-18 11:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="New Video Game Law Proposed: &#x27;If You Pay For It, You Own It&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://news.slashdot.org/story/26/10/18/235244/new-video-game-law-proposed-if-you-pay-for-it-you-own-it?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">New Video Game Law Proposed: &#x27;If You Pay For It, You Own It&#x27;</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sikamikanikobg/patzer-v719-the-tactic-trainer-that-shows-your-move-and-explains-why-the-better-one-wins-50jn" target="_blank">Patzer v7.19: the tactic trainer that shows your move and explains why the better one wins</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-19 08:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://lwn.net/Articles/1101143/" target="_blank">Linux 7.3 Released</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-10-19 07:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17500485/linux-kernel-7-3-release" target="_blank">Linux Kernel 7.3 Release is Good News For Gamers Short on VRAM</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-10-19 02:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/10/linux-kernel-7.3-feature-hero-406x232.webp" alt="Linux 7.3 is out, speeds up ext4 and low-VRAM AMD GPUs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/linux-7-3-features" target="_blank">Linux 7.3 is out, speeds up ext4 and low-VRAM AMD GPUs</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-10-19 02:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -180,47 +219,20 @@
                 <span class="time">2026-10-18 22:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tiandu-tech/monitor-your-competitors-chrome-extension-reviews-with-a-scheduled-scraper-3663" target="_blank">Monitor your competitors&#x27; Chrome extension reviews with a scheduled scraper</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-18 21:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://arxiv.org/abs/2610.18861" target="_blank">Hybrid Reasoning Agents: LLM agents that think in latent space, act through text</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-10-18 20:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vishal9032/how-we-built-an-autonomous-company-brain-multi-agent-memory-engine-with-falkordb-2687" target="_blank">How We Built an Autonomous Company Brain &amp; Multi-Agent Memory Engine with FalkorDB</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-18 18:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/10/linux-mint-system-monitor-new-406x232.webp" alt="Linux Mint’s new system monitor does more than you’d expect" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/linux-mint-new-system-monitor" target="_blank">Linux Mint’s new system monitor does more than you’d expect</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-10-18 16:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/10/roman-1280x719.jpg" alt="Cyberpunk: Edgerunners II: The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/cyberpunk-edgerunners-season-2-review-netflix-studio-trigger-2000746849" target="_blank">Cyberpunk: Edgerunners II: The Kotaku Review</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-19 07:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/10/ball2-1280x790.jpg" alt="MrBeast Joins Shark Tank, Invests Quarter Million In AI-Powered ‘Ball 2’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -254,6 +266,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/10/19/arc-resort" target="_blank">ARC Resort</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-10-19 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1792283872-20261018.png" alt="Saturday Morning Breakfast Cereal - Reactions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -267,8 +288,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 37 | 📡 Total Sources: 40 | 📸 With Images: 268 |
-        🔄 Last Updated: 02:12 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 41 | 📡 Total Sources: 40 | 📸 With Images: 266 |
+        🔄 Last Updated: 08:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
