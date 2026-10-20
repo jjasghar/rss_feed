@@ -1,42 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-10-19 20:51:46 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-20 00:00:57 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Error processing https://www.smbc-comics.com/rss.php: The read operation timed out -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 15 new posts out of 33 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 17 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, October 19, 2026 - 20:52 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, October 20, 2026 - 00:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,12 +50,48 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/vote-4-gty-gmh-261019_1792414804974_hpMain_4x3t_384.jpg" alt="DOJ charges 28 with unlawful voting, other election-related offenses in California" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/doj-charges-28-unlawful-voting-election-related-offenses/story?id=137384589" target="_blank">DOJ charges 28 with unlawful voting, other election-related offenses in California</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-19 23:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan" target="_blank">US grants deportation reprieve to migrants from Ukraine and Sudan</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-10-19 22:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/10/19/nx-s1-6007746/golf-course-potomac-white-house-tree-removal" target="_blank">Judge chastises Trump administration plan to push ahead overhaul of DC golf course</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-10-19 21:56</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_ukrainian-soldier-rescued-in-drone-evacuation-191026?traffic_source=rss" target="_blank">Injured Ukrainian soldier rescued in first-ever drone evacuation mission</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-10-19 20:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-japan-space_7381131.jpg?20261019212508" alt="Japan launches mission to Mars to bring back samples from its moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/japan-launches-mission-to-mars-to-bring-back-samples-from-one-of-its-moons-13601139" target="_blank">Japan launches mission to Mars to bring back samples from its moon</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-10-19 20:04</span>
             </div>
         </div>
 <div class="story">
@@ -70,47 +103,20 @@
                 <span class="time">2026-10-19 17:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db0a/live/41394270-cba5-11f1-9ee2-f74dfb8e54e5.jpg" alt="Four arrested after police officer injured in shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6073pdxpvjvo?at_medium=RSS&at_campaign=rss" target="_blank">Four arrested after police officer injured in shooting</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-19 15:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c1d/live/efe61500-cbd2-11f1-9a39-31b474234113.jpg" alt="Australian MP critically injured after being hit by car in apparent attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss" target="_blank">Australian MP critically injured after being hit by car in apparent attack</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-19 14:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/19/g-s1-148737/australia-lawmaker-critically-injured" target="_blank">Australian prime minister says lawmaker critically injured by car is &#x27;no accident&#x27;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-19 11:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/1792409099411_tdy_news_7a_raf_france_protests_261019_S3_1920x1080-38toaj.jpg" alt="Violent Protests Spread Across France Over Rising Cost of Living" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/violent-protests-spread-across-france-over-rising-cost-of-living-271806021629" target="_blank">Violent Protests Spread Across France Over Rising Cost of Living</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-10-19 11:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/10/GettyImages-509481102-scaled-500x500-1729196863.jpg" alt="Pennsylvania issues alert on congenital measles—something US hasn&#x27;t seen for decades" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/10/pennsylvania-issues-alert-on-congenital-measles-something-us-hasnt-seen-for-decades/" target="_blank">Pennsylvania issues alert on congenital measles—something US hasn&#x27;t seen for decades</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-10-19 22:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -156,15 +162,6 @@
                 <span class="time">2026-10-19 07:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband" target="_blank">A Savannah police officer gave her Flock login to her ICE agent husband</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-10-18 22:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,55 +170,55 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/10/19/production-grade-llms-and-agents-a-field-guide/" target="_blank">Production-grade LLMs and agents: a field guide</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-10-19 15:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2025/05/nordvpn-stacked-logo-406x232.jpg" alt="NordVPN 6.0 for Linux will feature ‘breaking changes’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/nordvpn-6-0-linux-cli-changes" target="_blank">NordVPN 6.0 for Linux will feature ‘breaking changes’</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-10-19 15:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://marc.info/?l=openbsd-ports&m=179236125692175" target="_blank">Wine Ported to OpenBSD</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-10-19 13:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sikamikanikobg/patzer-v719-the-tactic-trainer-that-shows-your-move-and-explains-why-the-better-one-wins-50jn" target="_blank">Patzer v7.19: the tactic trainer that shows your move and explains why the better one wins</a></span>
+                <span class="title"><a href="https://dev.to/isabelle_dubuis_d858453d7/do-not-ship-an-ai-transcript-until-it-passes-an-acceptance-pipeline-2kfe" target="_blank">Do Not Ship an AI Transcript Until It Passes an Acceptance Pipeline</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2026-10-19 08:06</span>
+                <span class="time">2026-10-19 23:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2025/05/bleachbit-logo-on-graphic-406x232.jpg" alt="BleachBit 6.0.6 released with fixes for admin cleaning on Linux" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/bleachbit-606-update-speed-boost" target="_blank">BleachBit 6.0.6 released with fixes for admin cleaning on Linux</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-10-19 23:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.4-EDAC" target="_blank">Linux 7.4 Sunsetting Old EDAC Drivers Due To &quot;AI Generated Fixes Frenzy&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-19 21:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/10/java-news-roundup-oct12-2026/en/headerimage/java-news-roundup-image-1792439632913.jpg" alt="Java News Roundup: JEPs for JDK 28, Azul Payara, Gatherers4j, Google ADK, Yupiik, Apache Camel CVEs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/10/java-news-roundup-oct12-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: JEPs for JDK 28, Azul Payara, Gatherers4j, Google ADK, Yupiik, Apache Camel CVEs</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-10-19 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/" target="_blank">How to continue a GitHub Copilot app session in VS Code</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-10-19 18:47</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://lwn.net/Articles/1101143/" target="_blank">Linux 7.3 Released</a></span>
+                <span class="title"><a href="https://www.minimax.io/blog/minimax-m31f" target="_blank">MiniMax M3.1 Flash</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2026-10-19 07:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17500485/linux-kernel-7-3-release" target="_blank">Linux Kernel 7.3 Release is Good News For Gamers Short on VRAM</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-10-19 02:56</span>
+                <span class="time">2026-10-19 16:39</span>
             </div>
         </div>
 </div>
@@ -238,11 +235,38 @@
                 <span class="time">2026-10-19 13:48</span>
             </div>
         </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/10/training-ais-to-solve-captchas.html" target="_blank">Training AIs to Solve CAPTCHAs</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-10-19 11:07</span>
+            </div>
+        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/Image-Merlin-Entertainments-Mojang.jpg?fit=1080%2C678&amp;quality=60&amp;ssl=1" alt="First Minecraft hotel to open with London theme park in 2027" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/10/19/first-minecraft-hotel-to-open-with-london-theme-park-in-2027.html" target="_blank">First Minecraft hotel to open with London theme park in 2027</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-10-19 23:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/10/battlefront-1280x640.jpg" alt="A Star Wars Battlefront 3 Made By Bungie Would Probably Be Great But Also A Waste" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/a-star-wars-battlefront-3-made-by-bungie-would-probably-be-great-but-also-a-waste-2000747640" target="_blank">A Star Wars Battlefront 3 Made By Bungie Would Probably Be Great But Also A Waste</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-19 23:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/10/podcasts-1280x649.jpg" alt="As IGN Retreats From Podcasts, Fired Hosts Start Their Own" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,24 +301,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/hacks-every-alltrails-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every AllTrails User Should Know</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-10-19 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/10/revamp1-1280x720.jpg" alt="AI Cloning Threatens To End Public Playtests For Video Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/revamp-public-playtest-cancelled-digital-sun-claude-ai-clones-2000747558" target="_blank">AI Cloning Threatens To End Public Playtests For Video Games</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-19 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/10/roman-1280x719.jpg" alt="Cyberpunk: Edgerunners II: The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/cyberpunk-edgerunners-season-2-review-netflix-studio-trigger-2000746849" target="_blank">Cyberpunk: Edgerunners II: The Kotaku Review</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-19 07:01</span>
             </div>
         </div>
 </div>
@@ -343,8 +349,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 42 | 📡 Total Sources: 39 | 📸 With Images: 267 |
-        🔄 Last Updated: 20:52 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 47 | 📡 Total Sources: 40 | 📸 With Images: 266 |
+        🔄 Last Updated: 00:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
