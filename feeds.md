@@ -1,32 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-10-20 15:25:22 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-20 19:41:56 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, October 20, 2026 - 15:25 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, October 20, 2026 - 19:42 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,12 +45,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de9d/live/8c042fe0-cca9-11f1-8789-fd6bb060c3f9.jpg" alt="Two re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqm26z110vzko?at_medium=RSS&at_campaign=rss" target="_blank">Two re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-20 18:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/stephen-hubbard-01-ap-jt-261020_1792515206298_hpMain_4x3t_384.jpg" alt="US nearing deal with Russia to free multiple jailed Americans: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/us-nearing-deal-russia-free-multiple-jailed-americans/story?id=137415614" target="_blank">US nearing deal with Russia to free multiple jailed Americans: Sources</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-20 17:32</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1411/live/d0cca190-cc8e-11f1-bc2e-018d645d8d21.jpg" alt="Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-10-20 13:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a834/live/7aae38a0-cc89-11f1-bed8-c51b95c602ec.jpg" alt="Marseille braces for more unrest after protests give way to &#x27;apocalyptic&#x27; disorder" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss" target="_blank">Marseille braces for more unrest after protests give way to &#x27;apocalyptic&#x27; disorder</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-20 12:08</span>
             </div>
         </div>
 <div class="story">
@@ -69,38 +98,29 @@
                 <span class="time">2026-10-20 09:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-helen-haines-australia_7380471.jpg?20261019092518" alt="Man charged after Australian MP struck by vehicle" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/man-charged-after-australian-mp-struck-by-vehicle-13601264" target="_blank">Man charged after Australian MP struck by vehicle</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-10-20 09:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4edf/live/fff77fe0-cc56-11f1-a64c-550be9e3c66b.jpg" alt="Suspect arrested after historic town hall set alight during disorder - French media" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss" target="_blank">Suspect arrested after historic town hall set alight during disorder - French media</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-20 08:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/20/us-supreme-court-to-hear-case-on-race-in-school-admissions?traffic_source=rss" target="_blank">US Supreme Court to hear case on race in school admissions</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-20 04:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/tp-link-routers-500x500.jpg" alt="TP-Link tries to appease Trump admin with pledge to assemble routers in US" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/10/tp-link-tries-to-appease-trump-admin-with-pledge-to-assemble-routers-in-us/" target="_blank">TP-Link tries to appease Trump admin with pledge to assemble routers in US</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-10-20 19:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6ad772c1fca8f52b99e9eedc/master/pass/GettyImages-2300075055.jpg" alt="French Government Calls Emergency Meetings With Platforms Over Protests" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/" target="_blank">French Government Calls Emergency Meetings With Platforms Over Protests</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-10-20 17:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/HERO_The-anatomy-of-performance-18-500x500.jpg" alt="Polestar tries to quantify what it’s like to drive a performance car" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -137,29 +157,38 @@
                 <span class="time">2026-10-20 02:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/10/GettyImages-509481102-scaled-500x500-1729196863.jpg" alt="Pennsylvania issues alert on congenital measles—something US hasn&#x27;t seen for decades" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/10/pennsylvania-issues-alert-on-congenital-measles-something-us-hasnt-seen-for-decades/" target="_blank">Pennsylvania issues alert on congenital measles—something US hasn&#x27;t seen for decades</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-10-19 22:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/" target="_blank">Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-10-19 20:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://permit.petercai.com/" target="_blank">SimCity, but with Permits</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-10-20 18:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.4-XFS-Checksumming" target="_blank">Improved Performance &amp; Resource Usage For XFS Checksumming With Linux 7.4</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-20 17:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/" target="_blank">How 3 Java Champions are using GitHub Copilot for increased productivity</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-10-20 16:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -187,31 +216,18 @@
                 <span class="time">2026-10-20 07:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="SlothMate: The Slow &amp; Steady Open-Source AI Agent Harness That Rewards Pure Laziness" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tummuri_sairam/slothmate-the-slow-steady-open-source-ai-agent-harness-that-rewards-pure-laziness-9e" target="_blank">SlothMate: The Slow &amp; Steady Open-Source AI Agent Harness That Rewards Pure Laziness</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-20 05:23</span>
-            </div>
-        </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.openbsd.org/80.html" target="_blank">OpenBSD 8.0</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-10-20 02:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.cloudinary.com/about-gitlab-com/image/upload/v1790265004/jadfgmjgjrdomp0liolj.png" alt="Redesign how your team ships software with AI agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gitlab"></span>
-                <span class="title"><a href="https://about.gitlab.com/blog/redesign-how-your-team-ships-software-with-ai-agents/" target="_blank">Redesign how your team ships software with AI agents</a></span>
-                <span class="feed">GitLab</span>
-                <span class="time">2026-10-20 00:00</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/10/possible-new-cellebrite-iphone-radio-zero-day.html" target="_blank">Possible new Cellebrite iPhone Radio Zero-Day</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-10-20 11:03</span>
             </div>
         </div>
 </div>
@@ -279,6 +295,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.smbc-comics.com/comics/1792283984-20261020.png" alt="Saturday Morning Breakfast Cereal - Funeral" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/funeral" target="_blank">Saturday Morning Breakfast Cereal - Funeral</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-10-20 15:20</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.questionablecontent.net/comics/5942.png" alt="Purposes Of Insurance" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -287,22 +312,13 @@
                 <span class="time">2026-10-20 00:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/10/19/arc-resort" target="_blank">ARC Resort</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-10-19 19:42</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 48 | 📡 Total Sources: 40 | 📸 With Images: 264 |
-        🔄 Last Updated: 15:25 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 47 | 📡 Total Sources: 39 | 📸 With Images: 266 |
+        🔄 Last Updated: 19:42 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
