@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-10-20 10:33:30 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-10-20 15:25:22 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Tuesday, October 20, 2026 - 10:33 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, October 20, 2026 - 15:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1411/live/d0cca190-cc8e-11f1-bc2e-018d645d8d21.jpg" alt="Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-20 13:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +96,29 @@
                 <span class="time">2026-10-20 04:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95e7/live/6cd357a0-cc17-11f1-b7d0-7f346cefa9a9.jpg" alt="Chancellor rejects calls to raise Capital Gains Tax in Budget" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss" target="_blank">Chancellor rejects calls to raise Capital Gains Tax in Budget</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-20 01:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/HERO_The-anatomy-of-performance-18-500x500.jpg" alt="Polestar tries to quantify what it’s like to drive a performance car" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/10/polestar-tries-to-quantify-what-its-like-to-drive-a-performance-car/" target="_blank">Polestar tries to quantify what it’s like to drive a performance car</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-10-20 14:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/1014276/professional-sports-authenticator-psa-stolen-graded-sports-pokemon-cards-fedex" target="_blank">Over $963,000 worth of graded Pokémon and sports cards were stolen from Fedex</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-10-20 14:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" alt="Adorama Camera Coupon Codes &amp; Promo Codes: October 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -137,24 +155,6 @@
                 <span class="time">2026-10-19 20:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/1013911/sonys-best-noise-canceling-earbuds-are-nearly-100-off-today-only" target="_blank">Sony’s best noise-canceling earbuds are nearly $100 off today only</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-10-19 18:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/" target="_blank">Nvidia launches new open models to run agents in the enterprise and on PCs</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-10-19 15:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -163,10 +163,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/ubuntu-2610-arrow-lake" target="_blank">Intel Core Ultra 9 Arrow Lake On Star Labs StarFighter Shows Nice Gains On Ubuntu 26.10</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-20 14:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17501229/microsoft-scope-self-hosted-agent-testing" target="_blank">Microsoft’s AI Coding Agent Testing Tool Has Been Open-Sourced</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2026-10-20 08:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/10/20/don-t-forget-about-the-ui-for-ai/" target="_blank">Don&#x27;t forget about the UI for AI</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-10-20 07:40</span>
             </div>
         </div>
 <div class="story">
@@ -188,53 +206,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://res.cloudinary.com/about-gitlab-com/image/upload/v1790265004/jadfgmjgjrdomp0liolj.png" alt="Redesign how your team ships software with AI agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/isabelle_dubuis_d858453d7/do-not-ship-an-ai-transcript-until-it-passes-an-acceptance-pipeline-2kfe" target="_blank">Do Not Ship an AI Transcript Until It Passes an Acceptance Pipeline</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-19 23:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2025/05/bleachbit-logo-on-graphic-406x232.jpg" alt="BleachBit 6.0.6 released with fixes for admin cleaning on Linux" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/bleachbit-606-update-speed-boost" target="_blank">BleachBit 6.0.6 released with fixes for admin cleaning on Linux</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-10-19 23:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/from-personas-to-archetypes" target="_blank">From personas to archetypes: a living, shared understanding of the people we build for (Part 1 of 2)</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-10-19 23:07</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/" target="_blank">Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2026-10-19 13:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/10/training-ais-to-solve-captchas.html" target="_blank">Training AIs to Solve CAPTCHAs</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-10-19 11:07</span>
+                <span class="fa fa-fw fa-gitlab"></span>
+                <span class="title"><a href="https://about.gitlab.com/blog/redesign-how-your-team-ships-software-with-ai-agents/" target="_blank">Redesign how your team ships software with AI agents</a></span>
+                <span class="feed">GitLab</span>
+                <span class="time">2026-10-20 00:00</span>
             </div>
         </div>
 </div>
@@ -242,6 +219,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M5BM6XQMDXGBH917PQQW4RDF/hero-image.jpg" alt="How to Lock Your Phone Number Against eSIM Hijacking on Verizon, T-Mobile, and AT&amp;T" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/how-to-lock-your-phone-number-against-sim-swaps-and-esim-hijacking?utm_medium=RSS" target="_blank">How to Lock Your Phone Number Against eSIM Hijacking on Verizon, T-Mobile, and AT&amp;T</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-10-20 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/flamigo.jpg?fit=1300%2C730&amp;quality=60&amp;ssl=1" alt="Flamingo kidnapper convicted in Vegas" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/10/20/flamingo-kidnapper-convicted-in-vegas.html" target="_blank">Flamingo kidnapper convicted in Vegas</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-10-20 13:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/Image-Merlin-Entertainments-Mojang.jpg?fit=1080%2C678&amp;quality=60&amp;ssl=1" alt="First Minecraft hotel to open with London theme park in 2027" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,24 +273,6 @@
                 <span class="time">2026-10-19 19:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M5AQ6RDBTN0W9PKPWYNTTN0W/hero-image.png" alt="These Sennheiser Wireless Headphones Are 32% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/sennheiser-momentum-4-headphones-sale-october-2026?utm_medium=RSS" target="_blank">These Sennheiser Wireless Headphones Are 32% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-10-19 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M4XG4NJ1XKQ8NQR4AYECYXS0/hero-image.jpg" alt="10 Hacks Every AllTrails User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/hacks-every-alltrails-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every AllTrails User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-10-19 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,22 +296,13 @@
                 <span class="time">2026-10-19 19:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1792283936-20261019.png" alt="Saturday Morning Breakfast Cereal - Cells" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/cells" target="_blank">Saturday Morning Breakfast Cereal - Cells</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-10-19 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 50 | 📡 Total Sources: 40 | 📸 With Images: 264 |
-        🔄 Last Updated: 10:33 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 48 | 📡 Total Sources: 40 | 📸 With Images: 264 |
+        🔄 Last Updated: 15:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
