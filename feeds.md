@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-10-20 00:00:57 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-20 05:28:59 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Error processing https://www.smbc-comics.com/rss.php: The read operation timed out -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 17 new posts out of 30 feeds processed -->
+<!-- Generated 11 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Tuesday, October 20, 2026 - 00:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, October 20, 2026 - 05:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/20/us-supreme-court-to-hear-case-on-race-in-school-admissions?traffic_source=rss" target="_blank">US Supreme Court to hear case on race in school admissions</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-20 04:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95e7/live/6cd357a0-cc17-11f1-b7d0-7f346cefa9a9.jpg" alt="Chancellor rejects calls to raise Capital Gains Tax in Budget" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss" target="_blank">Chancellor rejects calls to raise Capital Gains Tax in Budget</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-20 01:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/vote-4-gty-gmh-261019_1792414804974_hpMain_4x3t_384.jpg" alt="DOJ charges 28 with unlawful voting, other election-related offenses in California" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,30 +92,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4a4/live/f9b4b1d0-cc1e-11f1-94fe-b94794c2a157.jpg" alt="Curfew imposed in parts of central Paris and other cities after rioting across France" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_ukrainian-soldier-rescued-in-drone-evacuation-191026?traffic_source=rss" target="_blank">Injured Ukrainian soldier rescued in first-ever drone evacuation mission</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-19 20:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-japan-space_7381131.jpg?20261019212508" alt="Japan launches mission to Mars to bring back samples from its moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/japan-launches-mission-to-mars-to-bring-back-samples-from-one-of-its-moons-13601139" target="_blank">Japan launches mission to Mars to bring back samples from its moon</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-10-19 20:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/1792430349326_now_mnn_kansas_midterms_gosk_affordability_261019_S3_1920x1080-ox09di.jpg" alt="Kansas voters stress affordability as key issue in competitive Senate race" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/kansas-voters-stress-affordability-as-key-issue-in-competitive-senate-race-271824453567" target="_blank">Kansas voters stress affordability as key issue in competitive Senate race</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-10-19 17:19</span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss" target="_blank">Curfew imposed in parts of central Paris and other cities after rioting across France</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-19 21:14</span>
             </div>
         </div>
 </div>
@@ -108,6 +105,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" alt="Adorama Camera Coupon Codes &amp; Promo Codes: October 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/adorama-promo-code/" target="_blank">Adorama Camera Coupon Codes &amp; Promo Codes: October 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-10-20 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/" target="_blank">Walmart’s Flipkart is quietly building a food delivery challenger in India</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-10-20 02:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/10/GettyImages-509481102-scaled-500x500-1729196863.jpg" alt="Pennsylvania issues alert on congenital measles—something US hasn&#x27;t seen for decades" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,29 +159,29 @@
                 <span class="time">2026-10-19 15:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2018/06/getty-disney-500x500.jpg" alt="Disney found a way to buy Character.AI without buying its lawsuits" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/" target="_blank">Disney found a way to buy Character.AI without buying its lawsuits</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-10-19 14:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/" target="_blank">Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-10-19 07:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="SlothMate: The Slow &amp; Steady Open-Source AI Agent Harness That Rewards Pure Laziness" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tummuri_sairam/slothmate-the-slow-steady-open-source-ai-agent-harness-that-rewards-pure-laziness-9e" target="_blank">SlothMate: The Slow &amp; Steady Open-Source AI Agent Harness That Rewards Pure Laziness</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-20 05:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.openbsd.org/80.html" target="_blank">OpenBSD 8.0</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-10-20 02:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -188,37 +203,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/from-personas-to-archetypes" target="_blank">From personas to archetypes: a living, shared understanding of the people we build for (Part 1 of 2)</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-10-19 23:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.4-EDAC" target="_blank">Linux 7.4 Sunsetting Old EDAC Drivers Due To &quot;AI Generated Fixes Frenzy&quot;</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-10-19 21:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/10/java-news-roundup-oct12-2026/en/headerimage/java-news-roundup-image-1792439632913.jpg" alt="Java News Roundup: JEPs for JDK 28, Azul Payara, Gatherers4j, Google ADK, Yupiik, Apache Camel CVEs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/10/java-news-roundup-oct12-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: JEPs for JDK 28, Azul Payara, Gatherers4j, Google ADK, Yupiik, Apache Camel CVEs</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-10-19 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/" target="_blank">How to continue a GitHub Copilot app session in VS Code</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-10-19 18:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.minimax.io/blog/minimax-m31f" target="_blank">MiniMax M3.1 Flash</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-10-19 16:39</span>
             </div>
         </div>
 </div>
@@ -309,6 +306,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.questionablecontent.net/comics/5942.png" alt="Purposes Of Insurance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5942" target="_blank">Purposes Of Insurance</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-10-20 00:57</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -335,22 +341,13 @@
                 <span class="time">2026-10-19 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/fusion_device.png" alt="Fusion Device" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3313/" target="_blank">Fusion Device</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-10-19 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 47 | 📡 Total Sources: 40 | 📸 With Images: 266 |
-        🔄 Last Updated: 00:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 52 | 📡 Total Sources: 40 | 📸 With Images: 264 |
+        🔄 Last Updated: 05:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
