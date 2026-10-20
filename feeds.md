@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-10-20 05:28:59 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-20 10:33:30 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, October 20, 2026 - 05:29 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, October 20, 2026 - 10:33 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +46,42 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/20/zelenskyy-to-hold-peace-talks-in-oslo-with-witkoff-kushner-attending?traffic_source=rss" target="_blank">Zelenskyy to hold talks on Russia-Ukraine war with Witkoff, Europeans</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-20 10:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/Trump-Kansas-DB-261020_1792486346743_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says US is winning war, &#x27;can leave right now&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates/?id=137370653" target="_blank">Iran live updates: Trump says US is winning war, &#x27;can leave right now&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-20 09:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-helen-haines-australia_7380471.jpg?20261019092518" alt="Man charged after Australian MP struck by vehicle" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/man-charged-after-australian-mp-struck-by-vehicle-13601264" target="_blank">Man charged after Australian MP struck by vehicle</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-10-20 09:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4edf/live/fff77fe0-cc56-11f1-a64c-550be9e3c66b.jpg" alt="Suspect arrested after historic town hall set alight during disorder - French media" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss" target="_blank">Suspect arrested after historic town hall set alight during disorder - French media</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-20 08:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/10/20/us-supreme-court-to-hear-case-on-race-in-school-admissions?traffic_source=rss" target="_blank">US Supreme Court to hear case on race in school admissions</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-10-20 04:38</span>
@@ -62,42 +94,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss" target="_blank">Chancellor rejects calls to raise Capital Gains Tax in Budget</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-10-20 01:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/vote-4-gty-gmh-261019_1792414804974_hpMain_4x3t_384.jpg" alt="DOJ charges 28 with unlawful voting, other election-related offenses in California" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/doj-charges-28-unlawful-voting-election-related-offenses/story?id=137384589" target="_blank">DOJ charges 28 with unlawful voting, other election-related offenses in California</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-19 23:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan" target="_blank">US grants deportation reprieve to migrants from Ukraine and Sudan</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-10-19 22:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/19/nx-s1-6007746/golf-course-potomac-white-house-tree-removal" target="_blank">Judge chastises Trump administration plan to push ahead overhaul of DC golf course</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-19 21:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4a4/live/f9b4b1d0-cc1e-11f1-94fe-b94794c2a157.jpg" alt="Curfew imposed in parts of central Paris and other cities after rioting across France" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss" target="_blank">Curfew imposed in parts of central Paris and other cities after rioting across France</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-19 21:14</span>
             </div>
         </div>
 </div>
@@ -165,6 +161,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17501229/microsoft-scope-self-hosted-agent-testing" target="_blank">Microsoft’s AI Coding Agent Testing Tool Has Been Open-Sourced</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-10-20 08:13</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="SlothMate: The Slow &amp; Steady Open-Source AI Agent Harness That Rewards Pure Laziness" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -207,15 +212,6 @@
                 <span class="title"><a href="https://ubuntu.com//blog/from-personas-to-archetypes" target="_blank">From personas to archetypes: a living, shared understanding of the people we build for (Part 1 of 2)</a></span>
                 <span class="feed">Ubuntu blog</span>
                 <span class="time">2026-10-19 23:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.4-EDAC" target="_blank">Linux 7.4 Sunsetting Old EDAC Drivers Due To &quot;AI Generated Fixes Frenzy&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-10-19 21:38</span>
             </div>
         </div>
 </div>
@@ -332,22 +328,13 @@
                 <span class="time">2026-10-19 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/10/19/arc-resort" target="_blank">ARC Resort</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-10-19 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 52 | 📡 Total Sources: 40 | 📸 With Images: 264 |
-        🔄 Last Updated: 05:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 50 | 📡 Total Sources: 40 | 📸 With Images: 264 |
+        🔄 Last Updated: 10:33 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
