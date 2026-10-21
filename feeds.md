@@ -1,29 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-10-21 17:44:01 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-21 20:58:38 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 11 new posts out of 20 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 11 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Wednesday, October 21, 2026 - 17:44 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Wednesday, October 21, 2026 - 20:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,12 +40,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261021-jd-vance-mn-1315-5dd36b.jpg" alt="Vance says Republicans should ‘stop whining’ about Vivek Ramaswamy’s attack ad if they want to win" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/vance-republicans-stop-whining-vivek-ramaswamy-attack-ad-amy-acton-rcna604817" target="_blank">Vance says Republicans should ‘stop whining’ about Vivek Ramaswamy’s attack ad if they want to win</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-10-21 17:51</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/808c/live/f0408560-cd64-11f1-bc2e-018d645d8d21.jpg" alt="Russia says it is ready to resume talks with Ukraine and US to end war" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss" target="_blank">Russia says it is ready to resume talks with Ukraine and US to end war</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-10-21 17:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2643/live/6503a5b0-cd58-11f1-bc2e-018d645d8d21.jpg" alt="Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cy4zdgk081eo?at_medium=RSS&at_campaign=rss" target="_blank">Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-21 15:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-ha-hacker-computer_7382912.jpg?20261021145111" alt="Websites around the world taken down - as critical software update issued" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/websites-warned-to-install-critical-php-software-update-or-go-offline-13601917" target="_blank">Websites around the world taken down - as critical software update issued</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-10-21 13:28</span>
             </div>
         </div>
 <div class="story">
@@ -66,38 +93,20 @@
                 <span class="time">2026-10-21 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/stephen-hubbard-ap-jt-261020_1792515347978_hpMain_4x3t_384.jpg" alt="Detained American Stephen Hubbard released by Russia as Witkoff meets Putin" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/witkoff-arrives-st-petersburg-putin-talks-kremlin-aide/story?id=137438106" target="_blank">Detained American Stephen Hubbard released by Russia as Witkoff meets Putin</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-21 11:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/putin_witkoff-d9iqep.jpg" alt="Witkoff thanks Putin after release of Stephen Hubbard" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/witkoff-thanks-putin-after-release-of-stephen-hubbard-271955525713" target="_blank">Witkoff thanks Putin after release of Stephen Hubbard</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-10-21 10:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-sudan-southsudan_7382655.jpg?20261021095804" alt="At least 153 people killed in drone strike on disputed Sudan-South Sudan region" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/at-least-153-people-killed-in-drone-strike-on-disputed-sudan-south-sudan-region-13601817" target="_blank">At least 153 people killed in drone strike on disputed Sudan-South Sudan region</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-10-21 08:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6ad79880a4cc6513f80c0b7c/master/pass/GettyImages-2258686448.jpg" alt="Trump Isn’t Even Good at TV Anymore" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/trump-isnt-even-good-at-tv-anymore/" target="_blank">Trump Isn’t Even Good at TV Anymore</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-10-21 20:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,20 +152,29 @@
                 <span class="time">2026-10-20 22:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6ad7d2fa4d0edca385d0d9e6/master/pass/Rocco%20The%20Essential%20sale%20102026%20top%20art%20SOURCE%20Rocco.jpg" alt="A New Rocco Smart Fridge Just Dropped. So Did the Prices (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/rocco-sale-october-2026/" target="_blank">A New Rocco Smart Fridge Just Dropped. So Did the Prices (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-10-20 20:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.4-Crypto-Library" target="_blank">Linux 7.4 Kernel Crypto Library Enjoying Optimized AES Implementations On x86 &amp; RISC-V</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-21 20:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17502193/brax-wink-pre-order" target="_blank">You Can Reserve This Small-Factor, De-Googled Phone for $30</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-10-21 17:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -193,29 +211,20 @@
                 <span class="time">2026-10-21 12:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.4-Sync-Close-Files" target="_blank">Linux 7.4 To Close Files Synchronously For close_range, exec &amp; exit</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-10-21 11:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/agentic-ai-architecture-article-series/en/headerimage/agentic-ai-architecture-article-series-header-image-1792490151960.jpg" alt="Article Series: Agentic AI Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/agentic-ai-architecture-article-series/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article Series: Agentic AI Architecture</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-10-21 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/" target="_blank">Widespread PHP Flaw May Cause Many Site Outages Today</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2026-10-21 15:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -230,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/fountain-pen-daiso.jpg?fit=573%2C1600&amp;quality=60&amp;ssl=1" alt="Japan&#x27;s Daiso is like a dollar store, except a thousand times better" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/10/21/fountain-pen-daiso.html" target="_blank">Japan&#x27;s Daiso is like a dollar store, except a thousand times better</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-10-21 19:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/10/the-guzzler-1280x720.jpg" alt="Yes, We All Know Nun With A Gun, But Have You Heard About Our Other Fortune’s Weave Lord And Savior, The Guzzler?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,20 +293,29 @@
                 <span class="time">2026-10-20 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KJTE978192TEP6VZ84NT4RXA/hero-image.jpg" alt="This Super Fast ASUS OLED Gaming Monitor Is $100 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/asus-oled-gaming-monitor-deal-october-2026?utm_medium=RSS" target="_blank">This Super Fast ASUS OLED Gaming Monitor Is $100 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-10-20 20:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/10/21/child-s-play-auction-item" target="_blank">Child&#x27;s Play Auction Item</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-10-21 16:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1792546663-20261021.png" alt="Saturday Morning Breakfast Cereal - Future" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/future-5" target="_blank">Saturday Morning Breakfast Cereal - Future</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-10-21 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://imgs.xkcd.com/comics/vulnerability.png" alt="Vulnerability" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -312,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 47 | 📡 Total Sources: 40 | 📸 With Images: 268 |
-        🔄 Last Updated: 17:44 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 48 | 📡 Total Sources: 40 | 📸 With Images: 267 |
+        🔄 Last Updated: 20:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
