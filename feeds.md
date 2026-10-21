@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-10-21 06:43:00 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-10-21 12:31:22 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Linux.com -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 13 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, October 21, 2026 - 06:43 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, October 21, 2026 - 12:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +43,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a22e/live/83914ac0-8497-11ef-bf4c-1f355eb87d3c.jpg" alt="US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss" target="_blank">US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-21 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/stephen-hubbard-ap-jt-261020_1792515347978_hpMain_4x3t_384.jpg" alt="Detained American Stephen Hubbard released by Russia as Witkoff meets Putin" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/witkoff-arrives-st-petersburg-putin-talks-kremlin-aide/story?id=137438106" target="_blank">Detained American Stephen Hubbard released by Russia as Witkoff meets Putin</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-21 11:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/putin_witkoff-d9iqep.jpg" alt="Witkoff thanks Putin after release of Stephen Hubbard" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/witkoff-thanks-putin-after-release-of-stephen-hubbard-271955525713" target="_blank">Witkoff thanks Putin after release of Stephen Hubbard</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-10-21 10:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-sudan-southsudan_7382655.jpg?20261021095804" alt="At least 153 people killed in drone strike on disputed Sudan-South Sudan region" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/at-least-153-people-killed-in-drone-strike-on-disputed-sudan-south-sudan-region-13601817" target="_blank">At least 153 people killed in drone strike on disputed Sudan-South Sudan region</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-10-21 08:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -66,47 +97,20 @@
                 <span class="time">2026-10-21 05:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/cornell-1-rt-gmh-261015_1792082316866_hpMain_4x3t_384.jpg" alt="Jane Doe says she felt &#x27;unsupported and disbelieved&#x27; by Cornell president" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/jane-doe-felt-unsupported-disbelieved-cornell-president/story?id=137427708" target="_blank">Jane Doe says she felt &#x27;unsupported and disbelieved&#x27; by Cornell president</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-21 00:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/21/why-former-fdlr-fighters-are-returning-to-rwanda?traffic_source=rss" target="_blank">Why former FDLR fighters are returning to Rwanda</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-21 00:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest" target="_blank">Nigeria confirms Ebola case as outbreak spreads into western Africa</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-10-21 00:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Business/spacex-gty-jef-261020_1792509002319_hpMain_4x3t_384.jpg" alt="Elon Musk-led SpaceX revenue soars 161%" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Business/spacex-revenue-soars-161-ai-business-grows/story?id=137408509" target="_blank">Elon Musk-led SpaceX revenue soars 161%</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-20 22:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6ad7940031b157a7a885ace4/master/pass/DSC_9923.jpg" alt="Apple iPhone Duo Review: Is It Worth It?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/apple-iphone-duo/" target="_blank">Apple iPhone Duo Review: Is It Worth It?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-10-21 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" alt="TurboTax Full Service Coupons This October 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -114,6 +118,15 @@
                 <span class="title"><a href="https://www.wired.com/story/turbotax-coupon/" target="_blank">TurboTax Full Service Coupons This October 2026</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-10-21 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/" target="_blank">Anthropic pitches AI safety bill that may block a model if 50+ people could be killed</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-10-20 23:01</span>
             </div>
         </div>
 <div class="story">
@@ -143,29 +156,47 @@
                 <span class="time">2026-10-20 19:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6ad772c1fca8f52b99e9eedc/master/pass/GettyImages-2300075055.jpg" alt="French Government Calls Emergency Meetings With Platforms Over Protests" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/" target="_blank">French Government Calls Emergency Meetings With Platforms Over Protests</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-10-20 17:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/HERO_The-anatomy-of-performance-18-500x500.jpg" alt="Polestar tries to quantify what it’s like to drive a performance car" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/10/polestar-tries-to-quantify-what-its-like-to-drive-a-performance-car/" target="_blank">Polestar tries to quantify what it’s like to drive a performance car</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-10-20 14:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/usehive/product-vs-service-two-different-questions-hive-is-exploring-4j5d" target="_blank">Product vs service: two different questions HIVE is exploring</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-21 12:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.4-Sync-Close-Files" target="_blank">Linux 7.4 To Close Files Synchronously For close_range, exec &amp; exit</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-21 11:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/articles/agentic-ai-architecture-article-series/en/headerimage/agentic-ai-architecture-article-series-header-image-1792490151960.jpg" alt="Article Series: Agentic AI Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/agentic-ai-architecture-article-series/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article Series: Agentic AI Architecture</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-10-21 11:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/" target="_blank">Eight Bits of Trust; eMudhra&#x27;s CA keys cracked in milliseconds</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-10-21 09:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -184,42 +215,6 @@
                 <span class="time">2026-10-21 01:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-74-Intel-TDX-Dynamic-PAMT" target="_blank">Dynamic PAMT Merged For Linux 7.4 To Help Intel Servers Save Precious RAM</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-10-21 00:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/panthpatel/10-typescript-files-5-sdk-artefacts-typed-in-node-and-deno-2j6d" target="_blank">10 TypeScript files, 5 SDK artefacts: typed in Node and Deno</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-20 22:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://permit.petercai.com/" target="_blank">SimCity, but with Permits</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-10-20 18:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!hu5Y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F10fd6c73-8cd3-4d75-8cd1-07df134a9b78_1600x1040.png" alt="What’s the ROI of software engineers’ spending on AI?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/whats-the-roi-of-software-engineers" target="_blank">What’s the ROI of software engineers’ spending on AI?</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-10-20 17:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -229,9 +224,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/10/possible-new-cellebrite-iphone-radio-zero-day.html" target="_blank">Possible new Cellebrite iPhone Radio Zero-Day</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/10/workshop-on-economics-and-information-security-weis-archive.html" target="_blank">Workshop on Economics and Information Security (WEIS) Archive</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2026-10-20 11:03</span>
+                <span class="time">2026-10-21 11:02</span>
             </div>
         </div>
 </div>
@@ -321,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 48 | 📡 Total Sources: 40 | 📸 With Images: 270 |
-        🔄 Last Updated: 06:43 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 51 | 📡 Total Sources: 40 | 📸 With Images: 267 |
+        🔄 Last Updated: 12:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
