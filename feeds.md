@@ -1,30 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-10-21 01:05:00 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-10-21 06:43:00 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 22 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Wednesday, October 21, 2026 - 01:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, October 21, 2026 - 06:43 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/10/21/nx-s1-6010350/lebron-knicks-76ers" target="_blank">LeBron James talks smack with Knicks fans in victorious 76ers debut</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-10-21 06:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f00/live/823692f0-cca9-11f1-bc2e-018d645d8d21.jpg" alt="Lawyer caught offering to make illegal-worker fine go away" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c30rln4pz58xo?at_medium=RSS&at_campaign=rss" target="_blank">Lawyer caught offering to make illegal-worker fine go away</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-21 05:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/cornell-1-rt-gmh-261015_1792082316866_hpMain_4x3t_384.jpg" alt="Jane Doe says she felt &#x27;unsupported and disbelieved&#x27; by Cornell president" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -59,6 +85,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest" target="_blank">Nigeria confirms Ebola case as outbreak spreads into western Africa</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-10-21 00:14</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/Business/spacex-gty-jef-261020_1792509002319_hpMain_4x3t_384.jpg" alt="Elon Musk-led SpaceX revenue soars 161%" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -67,38 +102,20 @@
                 <span class="time">2026-10-20 22:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/20/i-dont-care-how-its-done-trump-pressures-ukraine-to-cut-peace-deal?traffic_source=rss" target="_blank">‘I don’t care how it’s done’: Trump pressures Ukraine to cut peace deal</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-20 22:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261020-uchicago-campus-sjr-1221-f52268.jpg" alt="Woman sexually assaulted at fraternity near University of Chicago, lawsuit alleges" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/woman-sexually-assaulted-fraternity-university-chicago-lawsuit-alleges-rcna604607" target="_blank">Woman sexually assaulted at fraternity near University of Chicago, lawsuit alleges</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-10-20 22:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case" target="_blank">Nigeria confirms an Ebola case in Abuja as a woman arriving from Uganda tests positive</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-20 20:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" alt="TurboTax Full Service Coupons This October 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/turbotax-coupon/" target="_blank">TurboTax Full Service Coupons This October 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-10-21 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,20 +161,29 @@
                 <span class="time">2026-10-20 14:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/1014276/professional-sports-authenticator-psa-stolen-graded-sports-pokemon-cards-fedex" target="_blank">Over $963,000 worth of graded Pokémon and sports cards were stolen from Fedex</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-10-20 14:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rudra_sarker/adalatai-ai-assisted-court-workflow-where-the-ai-never-convicts-and-never-sentences-5ejm" target="_blank">AdalatAI — AI-Assisted Court Workflow Where the AI Never Convicts and Never Sentences</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-21 06:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/04/ps5-linux-406x232.webp" alt="PS5 Linux hack now supports (some) newer firmware versions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/ps5-linux-hack-newer-firmware" target="_blank">PS5 Linux hack now supports (some) newer firmware versions</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-10-21 01:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -186,30 +212,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://substackcdn.com/image/fetch/$s_!hu5Y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F10fd6c73-8cd3-4d75-8cd1-07df134a9b78_1600x1040.png" alt="What’s the ROI of software engineers’ spending on AI?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.4-XFS-Checksumming" target="_blank">Improved Performance &amp; Resource Usage For XFS Checksumming With Linux 7.4</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-10-20 17:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/" target="_blank">How 3 Java Champions are using GitHub Copilot for increased productivity</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-10-20 16:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/ubuntu-2610-arrow-lake" target="_blank">Intel Core Ultra 9 Arrow Lake On Star Labs StarFighter Shows Nice Gains On Ubuntu 26.10</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-10-20 14:25</span>
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/whats-the-roi-of-software-engineers" target="_blank">What’s the ROI of software engineers’ spending on AI?</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-10-20 17:34</span>
             </div>
         </div>
 </div>
@@ -231,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/10/fallbearers-1280x720.jpg" alt="Mix ‘Coffin Flop’ With QWOP And You’ve Got A Game That’s At The Top Of My Steam Next Fest List" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/mix-coffin-flop-with-qwop-and-youve-got-a-game-thats-at-the-top-of-my-steam-next-fest-list-2000746058" target="_blank">Mix ‘Coffin Flop’ With QWOP And You’ve Got A Game That’s At The Top Of My Steam Next Fest List</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-20 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/HR-Block-Tax-Software-Deluxe.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Still haven&#x27;t filed your 2025 taxes? This $30 software asks the questions for you" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,6 +299,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.questionablecontent.net/comics/5943.png" alt="Honest To A Fault" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5943" target="_blank">Honest To A Fault</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-10-21 00:59</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1792283984-20261020.png" alt="Saturday Morning Breakfast Cereal - Funeral" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -295,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 45 | 📡 Total Sources: 40 | 📸 With Images: 267 |
-        🔄 Last Updated: 01:05 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 48 | 📡 Total Sources: 40 | 📸 With Images: 270 |
+        🔄 Last Updated: 06:43 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
