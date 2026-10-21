@@ -1,29 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-10-21 20:58:38 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-21 23:53:32 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 21 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, October 21, 2026 - 20:58 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, October 21, 2026 - 23:53 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/21/pope-leo-needs-no-further-treatment-after-cancer-surgery-doctors-say?traffic_source=rss" target="_blank">Pope Leo needs no further treatment after cancer surgery, doctors say</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-21 23:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abac/live/5ed152f0-cd8f-11f1-b1e7-39558e114359.jpg" alt="Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss" target="_blank">Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-21 21:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261021-jd-vance-mn-1315-5dd36b.jpg" alt="Vance says Republicans should ‘stop whining’ about Vivek Ramaswamy’s attack ad if they want to win" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -67,30 +92,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-ha-hacker-computer_7382912.jpg?20261021145111" alt="Websites around the world taken down - as critical software update issued" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-ha-hacker-computer_7382912.jpg?20261021145111" alt="Websites around the world taken down after AI detects &#x27;critical&#x27; flaw" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/websites-warned-to-install-critical-php-software-update-or-go-offline-13601917" target="_blank">Websites around the world taken down - as critical software update issued</a></span>
+                <span class="title"><a href="https://news.sky.com/story/websites-warned-to-install-critical-php-software-update-or-go-offline-13601917" target="_blank">Websites around the world taken down after AI detects &#x27;critical&#x27; flaw</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-10-21 13:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261021-hubbard-2-rs-194079.jpg" alt="Who is Stephen Hubbard, the retired American teacher freed by Russia?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/ukraine/stephen-hubbard-retired-american-teacher-freed-russia-rcna604735" target="_blank">Who is Stephen Hubbard, the retired American teacher freed by Russia?</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-10-21 13:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a22e/live/83914ac0-8497-11ef-bf4c-1f355eb87d3c.jpg" alt="US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss" target="_blank">US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-21 12:00</span>
             </div>
         </div>
 </div>
@@ -98,6 +105,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos" target="_blank">YouTube says it isn’t testing hiding the dislike button</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-10-21 23:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6ad79880a4cc6513f80c0b7c/master/pass/GettyImages-2258686448.jpg" alt="Trump Isn’t Even Good at TV Anymore" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -135,21 +151,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Microsoft Reportedly Projects $1,200 To $1,800 Price For Next-Gen Xbox" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/" target="_blank">Anthropic pitches AI safety bill that may block a model if 50+ people could be killed</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-10-20 23:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/" target="_blank">Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-10-20 22:24</span>
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://games.slashdot.org/story/26/10/21/180214/microsoft-reportedly-projects-1200-to-1800-price-for-next-gen-xbox?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Microsoft Reportedly Projects $1,200 To $1,800 Price For Next-Gen Xbox</a></span>
+                <span class="feed">Slashdot</span>
+                
             </div>
         </div>
 </div>
@@ -157,6 +164,15 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://elonlit.com/scrivings/how-to-run-turing-complete-malware-in-pytorchs-backward-pass/" target="_blank">How to Run Turing-Complete Malware in PyTorch&#x27;s Backward Pass</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-10-21 21:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -187,28 +203,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/" target="_blank">The bridge to agent-scale Git infrastructure</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-10-21 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/review/snapdragon-x2-linux" target="_blank">Snapdragon X2 Performance On Linux Exceeding Expectations In Initial Benchmarks</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-10-21 14:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17502091/local-ai-weekly-6" target="_blank">Local AI Weekly #6: If You Can Reverse Engineer It, It&#x27;s Open Source!</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-10-21 14:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/usehive/product-vs-service-two-different-questions-hive-is-exploring-4j5d" target="_blank">Product vs service: two different questions HIVE is exploring</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-21 12:27</span>
             </div>
         </div>
 </div>
@@ -239,6 +246,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/10/GTA-launch-trailer_0007_Brightness_Contrast-7-1280x720.jpg" alt="GTA 6‘s First TV Ad Cuts The Spicy Shower Scenes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/gta-6s-first-tv-ad-cuts-the-spicy-shower-scenes-2000748474" target="_blank">GTA 6‘s First TV Ad Cuts The Spicy Shower Scenes</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-21 23:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/fountain-pen-daiso.jpg?fit=573%2C1600&amp;quality=60&amp;ssl=1" alt="Japan&#x27;s Daiso is like a dollar store, except a thousand times better" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,24 +289,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/10/21/ai-written-disney-guidebooks-send-tourists-to-rides-that-don.html" target="_blank">AI-written Disney guidebooks send tourists to rides that don&#x27;t exist</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-10-21 16:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/10/fallbearers-1280x720.jpg" alt="Mix ‘Coffin Flop’ With QWOP And You’ve Got A Game That’s At The Top Of My Steam Next Fest List" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/mix-coffin-flop-with-qwop-and-youve-got-a-game-thats-at-the-top-of-my-steam-next-fest-list-2000746058" target="_blank">Mix ‘Coffin Flop’ With QWOP And You’ve Got A Game That’s At The Top Of My Steam Next Fest List</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-20 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/HR-Block-Tax-Software-Deluxe.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Still haven&#x27;t filed your 2025 taxes? This $30 software asks the questions for you" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/10/20/still-havent-filed-your-2025-taxes-this-30-software-asks-the-questions-for-you.html" target="_blank">Still haven&#x27;t filed your 2025 taxes? This $30 software asks the questions for you</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-10-20 21:00</span>
             </div>
         </div>
 </div>
@@ -339,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 48 | 📡 Total Sources: 40 | 📸 With Images: 267 |
-        🔄 Last Updated: 20:58 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 50 | 📡 Total Sources: 40 | 📸 With Images: 267 |
+        🔄 Last Updated: 23:53 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
