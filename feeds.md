@@ -1,34 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-10-20 22:46:00 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-21 01:05:00 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 26 feeds processed -->
+<!-- Generated 8 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, October 20, 2026 - 22:46 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Wednesday, October 21, 2026 - 01:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/cornell-1-rt-gmh-261015_1792082316866_hpMain_4x3t_384.jpg" alt="Jane Doe says she felt &#x27;unsupported and disbelieved&#x27; by Cornell president" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/jane-doe-felt-unsupported-disbelieved-cornell-president/story?id=137427708" target="_blank">Jane Doe says she felt &#x27;unsupported and disbelieved&#x27; by Cornell president</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-21 00:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/21/why-former-fdlr-fighters-are-returning-to-rwanda?traffic_source=rss" target="_blank">Why former FDLR fighters are returning to Rwanda</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-21 00:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Business/spacex-gty-jef-261020_1792509002319_hpMain_4x3t_384.jpg" alt="Elon Musk-led SpaceX revenue soars 161%" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -63,39 +77,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261020-uchicago-campus-sjr-1221-f52268.jpg" alt="Woman sexually assaulted at fraternity near University of Chicago, lawsuit alleges" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/woman-sexually-assaulted-fraternity-university-chicago-lawsuit-alleges-rcna604607" target="_blank">Woman sexually assaulted at fraternity near University of Chicago, lawsuit alleges</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-10-20 22:03</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case" target="_blank">Nigeria confirms an Ebola case in Abuja as a woman arriving from Uganda tests positive</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-10-20 20:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/oct/20/rfk-jr-vaccine-researchers-offices-raided-guinea-bissau" target="_blank">RFK Jr’s ‘deities of vaccine research’ raided by police in Guinea-Bissau</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-10-20 19:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de9d/live/8c042fe0-cca9-11f1-8789-fd6bb060c3f9.jpg" alt="Two men re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqm26z110vzko?at_medium=RSS&at_campaign=rss" target="_blank">Two men re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-20 18:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de9d/live/8c042fe0-cca9-11f1-8789-fd6bb060c3f9.jpg" alt="Two re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqm26z110vzko?at_medium=RSS&at_campaign=rss" target="_blank">Two re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-20 18:32</span>
             </div>
         </div>
 </div>
@@ -110,6 +106,15 @@
                 <span class="title"><a href="https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/" target="_blank">Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-10-20 22:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6ad7d2fa4d0edca385d0d9e6/master/pass/Rocco%20The%20Essential%20sale%20102026%20top%20art%20SOURCE%20Rocco.jpg" alt="A New Rocco Smart Fridge Just Dropped. So Did the Prices (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/rocco-sale-october-2026/" target="_blank">A New Rocco Smart Fridge Just Dropped. So Did the Prices (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-10-20 20:47</span>
             </div>
         </div>
 <div class="story">
@@ -148,20 +153,20 @@
                 <span class="time">2026-10-20 14:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" alt="Adorama Camera Coupon Codes &amp; Promo Codes: October 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/adorama-promo-code/" target="_blank">Adorama Camera Coupon Codes &amp; Promo Codes: October 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-10-20 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-74-Intel-TDX-Dynamic-PAMT" target="_blank">Dynamic PAMT Merged For Linux 7.4 To Help Intel Servers Save Precious RAM</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-21 00:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +212,6 @@
                 <span class="time">2026-10-20 14:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17501229/microsoft-scope-self-hosted-agent-testing" target="_blank">Microsoft’s AI Coding Agent Testing Tool Has Been Open-Sourced</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-10-20 08:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +231,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/HR-Block-Tax-Software-Deluxe.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Still haven&#x27;t filed your 2025 taxes? This $30 software asks the questions for you" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/10/20/still-havent-filed-your-2025-taxes-this-30-software-asks-the-questions-for-you.html" target="_blank">Still haven&#x27;t filed your 2025 taxes? This $30 software asks the questions for you</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-10-20 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KJTE978192TEP6VZ84NT4RXA/hero-image.jpg" alt="This Super Fast ASUS OLED Gaming Monitor Is $100 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,24 +276,6 @@
                 <span class="time">2026-10-20 13:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/Image-Merlin-Entertainments-Mojang.jpg?fit=1080%2C678&amp;quality=60&amp;ssl=1" alt="First Minecraft hotel to open with London theme park in 2027" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/10/19/first-minecraft-hotel-to-open-with-london-theme-park-in-2027.html" target="_blank">First Minecraft hotel to open with London theme park in 2027</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-10-19 23:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/10/battlefront-1280x640.jpg" alt="A Star Wars Battlefront 3 Made By Bungie Would Probably Be Great But Also A Waste" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/a-star-wars-battlefront-3-made-by-bungie-would-probably-be-great-but-also-a-waste-2000747640" target="_blank">A Star Wars Battlefront 3 Made By Bungie Would Probably Be Great But Also A Waste</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-19 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -303,22 +290,13 @@
                 <span class="time">2026-10-20 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5942.png" alt="Purposes Of Insurance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5942" target="_blank">Purposes Of Insurance</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-10-20 00:57</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 48 | 📡 Total Sources: 39 | 📸 With Images: 266 |
-        🔄 Last Updated: 22:46 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 45 | 📡 Total Sources: 40 | 📸 With Images: 267 |
+        🔄 Last Updated: 01:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
