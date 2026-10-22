@@ -1,29 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-10-22 14:10:32 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-22 18:55:27 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 21 feeds processed -->
+<!-- Generated 17 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, October 22, 2026 - 14:10 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Thursday, October 22, 2026 - 18:55 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/22/israel-frees-suspects-in-two-settler-attacks-as-west-bank-pogroms-intensify?traffic_source=rss" target="_blank">Israel frees suspects in two settler attacks as West Bank pogroms intensify</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-22 18:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/867f/live/90056bb0-ce3c-11f1-a64c-550be9e3c66b.jpg" alt="Prepare for supply chain disruption from cyber or climate emergencies, Streeting warns" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwd094x57p32o?at_medium=RSS&at_campaign=rss" target="_blank">Prepare for supply chain disruption from cyber or climate emergencies, Streeting warns</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-22 17:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f6f/live/0c562b60-ce2d-11f1-9f18-490cec60aa0f.jpg" alt="Newborn twins fight for survival as conflict fuels Yemen&#x27;s hunger crisis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss" target="_blank">Newborn twins fight for survival as conflict fuels Yemen&#x27;s hunger crisis</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-22 15:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d20/live/5fb48ff0-622b-11f0-8e4a-613b923287ab.jpg" alt="Barclays cutting 5,000 jobs as it increases reliance on AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -66,38 +102,47 @@
                 <span class="time">2026-10-22 13:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/22/meta-faces-australian-lawsuit-over-alleged-social-media-harm-to-children?traffic_source=rss" target="_blank">Meta faces Australian lawsuit over alleged social media harm to children</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-22 07:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/AP26293696164182_1792632926606_hpMain_4x3t_384.jpg" alt="Democrats sue Trump administration over alleged election pressure campaign" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/democrats-sue-trump-administration-alleged-election-pressure-campaign/story?id=137463447" target="_blank">Democrats sue Trump administration over alleged election pressure campaign</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-22 03:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45c7/live/488b8820-cdb3-11f1-bc2e-018d645d8d21.jpg" alt="UK&#x27;s gaps in Arctic defence leave it open to Russian attacks, committee warns" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cmj471wgpky7o?at_medium=RSS&at_campaign=rss" target="_blank">UK&#x27;s gaps in Arctic defence leave it open to Russian attacks, committee warns</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-22 02:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Galaxy-Z8-1-500x500-1792692078.jpg" alt="Samsung all but confirms iPhone Duo is goosing Galaxy Z8 sales" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/10/samsung-all-but-confirms-iphone-duo-is-goosing-galaxy-z8-sales/" target="_blank">Samsung all but confirms iPhone Duo is goosing Galaxy Z8 sales</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-10-22 18:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/1016792/amazon-fire-tv-stick-4k-2026-deal-sale" target="_blank">The new Fire TV Stick 4K is already half off</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-10-22 18:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/" target="_blank">Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-10-22 18:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6ada4bc4d53570f6403f714a/master/pass/Soundcore%20by%20Anker%20Space%202%20deal%20102026%20top%20art%20SOURCE%20Amazon.jpg" alt="Anker Soundcore Space 2 Are Their Lowest Price Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/anker-soundcore-space-2-deal-october-2026/" target="_blank">Anker Soundcore Space 2 Are Their Lowest Price Ever</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-10-22 18:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/OnStar-AI-Assistant-500x500.jpg" alt="Forget &quot;Malaise 2.0,&quot; GM says it&#x27;s still all-in on EVs and autonomy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -116,42 +161,6 @@
                 <span class="time">2026-10-22 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos" target="_blank">YouTube says it isn’t testing hiding the dislike button</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-10-21 23:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6ad9408768bf72427a051c89/master/pass/WIRED_Business_Mark-Z_CA.jpg" alt="Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/" target="_blank">Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-10-21 22:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/12/trump-carr-500x500-1734382753.jpg" alt="FCC chair warns media not to run the &quot;fake polls&quot; Trump keeps complaining about" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/10/fcc-chair-warns-media-not-to-run-the-fake-polls-trump-keeps-complaining-about/" target="_blank">FCC chair warns media not to run the &quot;fake polls&quot; Trump keeps complaining about</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-10-21 22:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6ad79880a4cc6513f80c0b7c/master/pass/GettyImages-2258686448.jpg" alt="Trump Isn’t Even Good at TV Anymore" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/trump-isnt-even-good-at-tv-anymore/" target="_blank">Trump Isn’t Even Good at TV Anymore</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-10-21 20:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -161,68 +170,54 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bukestudio/one-image-66-shoe-panels-the-geometry-and-four-silent-bugs-behind-a-canvas-cutting-pipeline-4490" target="_blank">One image, 66 shoe panels: the geometry (and four silent bugs) behind a canvas cutting pipeline</a></span>
+                <span class="title"><a href="https://dev.to/chrysostomhayes8537/online-course-retrieval-architecture-tutor-index-economics-and-why-i-chose-one-ecc" target="_blank">Online Course Retrieval Architecture: Tutor Index Economics (and Why I Chose One)</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2026-10-22 14:06</span>
+                <span class="time">2026-10-22 18:47</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-Kernel-Shadow-Stacks" target="_blank">x86 Kernel Shadow Stacks Being Worked On For Linux As Powerful Control Flow Protection</a></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Modular-MAX-Complete-Open" target="_blank">Modular&#x27;s MAX Source Code Now Fully Opened, Under New MAX License</a></span>
                 <span class="feed">Phoronix</span>
-                <span class="time">2026-10-22 13:22</span>
+                <span class="time">2026-10-22 18:32</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17502758/foss-weekly-26-43" target="_blank">FOSS Weekly #26.43: Kernel 7.3, Non-Linux OS, de-Googled Phone, DuxOS, Podcasts, De-bloating TVs, KDE Dock and More</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-10-22 13:19</span>
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/" target="_blank">How bug bounty sharpens one researcher’s security skills</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-10-22 17:21</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://nvd.nist.gov/vuln/detail/cve-2026-111943" target="_blank">CVE-2026-111943: Compromised Intermediate Certificate Authority</a></span>
+                <span class="title"><a href="https://quad9.net/news/blog/au-revoir-france/" target="_blank">Quad9 (DNS Resolver) to Exit France</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2026-10-22 08:51</span>
+                <span class="time">2026-10-22 14:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!8eqB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9c999ba8-0113-4a00-9290-f982c315a286_1246x1254.png" alt="The Pulse: Time to rethink software security because of AI?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-do-we-need-to-rethink-software" target="_blank">The Pulse: Time to rethink software security because of AI?</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-10-22 14:08</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/stakenshake/a-30-day-old-note-was-obeyed-exactly-as-hard-as-a-7-year-old-one-4l8g" target="_blank">A 30-day-old note was obeyed exactly as hard as a 7-year-old one</a></span>
+                <span class="title"><a href="https://dev.to/bukestudio/one-image-66-shoe-panels-the-geometry-and-four-silent-bugs-behind-a-canvas-cutting-pipeline-4490" target="_blank">One image, 66 shoe panels: the geometry (and four silent bugs) behind a canvas cutting pipeline</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2026-10-22 08:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Developer Behind the AI-Built Adobe Clones Says They Are “Not Anywhere Close to Ready" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/10/photocraft-adobe-parity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Developer Behind the AI-Built Adobe Clones Says They Are “Not Anywhere Close to Ready</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-10-22 07:41</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/" target="_blank">Widespread PHP Flaw May Cause Many Site Outages Today</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2026-10-21 15:26</span>
+                <span class="time">2026-10-22 14:06</span>
             </div>
         </div>
 </div>
@@ -230,6 +225,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/06/bfb725166a99ccabb7cd25ed810a4e8e-1280x720.jpg" alt="Here’s Three Actors In The Final Running For James Bond And They’re All Aggressively  Fine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/heres-three-actors-in-the-final-running-for-james-bond-and-theyre-all-aggressively-fine-2000748875" target="_blank">Here’s Three Actors In The Final Running For James Bond And They’re All Aggressively  Fine</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-22 18:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/uncensoredlibrary.jpg?fit=1280%2C720&amp;quality=60&amp;ssl=1" alt="Uncensored Library hides forbidden literature inside Minecraft" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/10/22/uncensored-library-hides-forbidden-literature-inside-minecraft.html" target="_blank">Uncensored Library hides forbidden literature inside Minecraft</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-10-22 15:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01M5G96TB4CQW2Y4HX5EPNGGJD/hero-image.jpg" alt="You Should Enable This Chrome Feature That Flags Suspicious Websites" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -257,33 +270,6 @@
                 <span class="time">2026-10-21 19:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/10/the-guzzler-1280x720.jpg" alt="Yes, We All Know Nun With A Gun, But Have You Heard About Our Other Fortune’s Weave Lord And Savior, The Guzzler?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/yes-we-all-know-nun-with-a-gun-but-have-you-heard-about-our-other-fortunes-weave-lord-and-savior-the-guzzler-2000748328" target="_blank">Yes, We All Know Nun With A Gun, But Have You Heard About Our Other Fortune’s Weave Lord And Savior, The Guzzler?</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-21 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JSCCEQAXDEY2SKGT5VJHH23D/hero-image.png" alt="The Best Apple Watch for Most People Is Over $100 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/apple-watch-series-10-deal-october-2026?utm_medium=RSS" target="_blank">The Best Apple Watch for Most People Is Over $100 Off</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-10-21 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/ai-written-disney-guidebooks-send-tourists-to-rides-that-don.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="AI-written Disney guidebooks send tourists to rides that don&#x27;t exist" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/10/21/ai-written-disney-guidebooks-send-tourists-to-rides-that-don.html" target="_blank">AI-written Disney guidebooks send tourists to rides that don&#x27;t exist</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-10-21 16:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -293,27 +279,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/10/21/the-tri-fold-augur" target="_blank">The Tri-Fold Augur</a></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/10/22/bride-of-spooktactular-ooo-from-l99-games" target="_blank">Bride of Spooktactular (OoO) from L99 Games</a></span>
                 <span class="feed">Penny Arcade</span>
-                <span class="time">2026-10-21 20:41</span>
+                <span class="time">2026-10-22 18:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1792532851-20261022.png" alt="Saturday Morning Breakfast Cereal - Revenge" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/revenge" target="_blank">Saturday Morning Breakfast Cereal - Revenge</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-10-22 15:20</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/10/21/child-s-play-auction-item" target="_blank">Child&#x27;s Play Auction Item</a></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/10/21/the-tri-fold-augur" target="_blank">The Tri-Fold Augur</a></span>
                 <span class="feed">Penny Arcade</span>
-                <span class="time">2026-10-21 16:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1792546663-20261021.png" alt="Saturday Morning Breakfast Cereal - Future" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/future-5" target="_blank">Saturday Morning Breakfast Cereal - Future</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-10-21 15:20</span>
+                <span class="time">2026-10-21 20:41</span>
             </div>
         </div>
 </div>
@@ -321,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 49 | 📡 Total Sources: 40 | 📸 With Images: 264 |
-        🔄 Last Updated: 14:10 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 48 | 📡 Total Sources: 40 | 📸 With Images: 264 |
+        🔄 Last Updated: 18:55 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
