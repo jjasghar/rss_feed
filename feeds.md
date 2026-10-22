@@ -1,33 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-10-22 08:03:02 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-10-22 14:10:32 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 24 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 11 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, October 22, 2026 - 08:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, October 22, 2026 - 14:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +39,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d20/live/5fb48ff0-622b-11f0-8e4a-613b923287ab.jpg" alt="Barclays cutting 5,000 jobs as it increases reliance on AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss" target="_blank">Barclays cutting 5,000 jobs as it increases reliance on AI</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-22 14:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/10/22/g-s1-148553/argentina-brazil-iguazu-falls-waterfalls-super-el-nino" target="_blank">Greetings from the Brazil-Argentina border, where waterfalls are flowing at near-record rates</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-10-22 13:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/10/22/yemenis-face-severe-shortages-in-taiz-amid-houthi-blockade?traffic_source=rss" target="_blank">Yemenis face severe shortages in Taiz amid Houthi blockade</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-22 13:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -70,38 +93,29 @@
                 <span class="time">2026-10-22 02:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/22/qatar-france-call-for-opening-of-hormuz-and-gaza-ceasefire-implementation?traffic_source=rss" target="_blank">Qatar, France call for opening of Hormuz and Gaza ceasefire implementation</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-22 01:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/clancy-rt-gmh-261021_1792615971386_hpMain_4x3t_384.jpg" alt="Lindsay Clancy murder trial: Judge denies request to question holdout juror" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/lindsay-clancy-murder-trial-judge-denies-request-question/story?id=137458266" target="_blank">Lindsay Clancy murder trial: Judge denies request to question holdout juror</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-21 23:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/21/pope-leo-needs-no-further-treatment-after-cancer-surgery-doctors-say?traffic_source=rss" target="_blank">Pope Leo needs no further treatment after cancer surgery, doctors say</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-21 23:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/OnStar-AI-Assistant-500x500.jpg" alt="Forget &quot;Malaise 2.0,&quot; GM says it&#x27;s still all-in on EVs and autonomy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/10/forget-malaise-2-0-gm-says-its-still-all-in-on-evs-and-autonomy/" target="_blank">Forget &quot;Malaise 2.0,&quot; GM says it&#x27;s still all-in on EVs and autonomy</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-10-22 13:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6ad73249e71bc9cefa5d514d/master/pass/OKA_MORI_Companion_EveningWorkAtLaptop.jpg" alt="Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/" target="_blank">Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-10-22 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,29 +152,47 @@
                 <span class="time">2026-10-21 20:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/1015568/samsung-the-frame-tv-2026-deal-sale" target="_blank">Samsung’s latest 55-inch Frame TV is down to its lowest price yet</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-10-21 17:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6ad7940031b157a7a885ace4/master/pass/DSC_9923.jpg" alt="Apple iPhone Duo Review: Is It Worth It?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/apple-iphone-duo/" target="_blank">Apple iPhone Duo Review: Is It Worth It?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-10-21 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/bukestudio/one-image-66-shoe-panels-the-geometry-and-four-silent-bugs-behind-a-canvas-cutting-pipeline-4490" target="_blank">One image, 66 shoe panels: the geometry (and four silent bugs) behind a canvas cutting pipeline</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-22 14:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-Kernel-Shadow-Stacks" target="_blank">x86 Kernel Shadow Stacks Being Worked On For Linux As Powerful Control Flow Protection</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-22 13:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17502758/foss-weekly-26-43" target="_blank">FOSS Weekly #26.43: Kernel 7.3, Non-Linux OS, de-Googled Phone, DuxOS, Podcasts, De-bloating TVs, KDE Dock and More</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-10-22 13:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://nvd.nist.gov/vuln/detail/cve-2026-111943" target="_blank">CVE-2026-111943: Compromised Intermediate Certificate Authority</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-10-22 08:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -179,42 +211,6 @@
                 <span class="time">2026-10-22 07:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.4-Kbuild" target="_blank">Linux 7.4 Begins Landing Patches To Speed Up The Kernel Build Process</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-10-22 00:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://elonlit.com/scrivings/how-to-run-turing-complete-malware-in-pytorchs-backward-pass/" target="_blank">How to Run Turing-Complete Malware in PyTorch&#x27;s Backward Pass</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-10-21 21:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.4-Crypto-Library" target="_blank">Linux 7.4 Kernel Crypto Library Enjoying Optimized AES Implementations On x86 &amp; RISC-V</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-10-21 20:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/10/emudhra-ca-compromise/en/headerimage/weak-link-1792602361259.jpeg" alt="eMudhra Intermediate CA Compromise" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/10/emudhra-ca-compromise/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">eMudhra Intermediate CA Compromise</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-10-21 17:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -229,20 +225,20 @@
                 <span class="time">2026-10-21 15:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/10/workshop-on-economics-and-information-security-weis-archive.html" target="_blank">Workshop on Economics and Information Security (WEIS) Archive</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-10-21 11:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M5G96TB4CQW2Y4HX5EPNGGJD/hero-image.jpg" alt="You Should Enable This Chrome Feature That Flags Suspicious Websites" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/you-should-enable-this-chrome-feature-that-flags-suspicious-websites?utm_medium=RSS" target="_blank">You Should Enable This Chrome Feature That Flags Suspicious Websites</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-10-22 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/10/GTA-launch-trailer_0007_Brightness_Contrast-7-1280x720.jpg" alt="GTA 6‘s First TV Ad Cuts The Spicy Shower Scenes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -325,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 53 | 📡 Total Sources: 40 | 📸 With Images: 265 |
-        🔄 Last Updated: 08:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 49 | 📡 Total Sources: 40 | 📸 With Images: 264 |
+        🔄 Last Updated: 14:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
