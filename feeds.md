@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-10-22 02:16:15 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-22 08:03:02 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 27 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, October 22, 2026 - 02:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Thursday, October 22, 2026 - 08:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +43,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/22/meta-faces-australian-lawsuit-over-alleged-social-media-harm-to-children?traffic_source=rss" target="_blank">Meta faces Australian lawsuit over alleged social media harm to children</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-22 07:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/AP26293696164182_1792632926606_hpMain_4x3t_384.jpg" alt="Democrats sue Trump administration over alleged election pressure campaign" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/democrats-sue-trump-administration-alleged-election-pressure-campaign/story?id=137463447" target="_blank">Democrats sue Trump administration over alleged election pressure campaign</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-22 03:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45c7/live/488b8820-cdb3-11f1-bc2e-018d645d8d21.jpg" alt="UK&#x27;s gaps in Arctic defence leave it open to Russian attacks, committee warns" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cmj471wgpky7o?at_medium=RSS&at_campaign=rss" target="_blank">UK&#x27;s gaps in Arctic defence leave it open to Russian attacks, committee warns</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-22 02:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,33 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/10/21/pope-leo-needs-no-further-treatment-after-cancer-surgery-doctors-say?traffic_source=rss" target="_blank">Pope Leo needs no further treatment after cancer surgery, doctors say</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-10-21 23:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/1792631115639_nn_tll_iowa_senate_race_261021_S3_1920x1080-7g67ps.jpg" alt="Inside Iowa’s critical midterm Senate race" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/inside-iowa-s-critical-midterm-senate-race-272005189528" target="_blank">Inside Iowa’s critical midterm Senate race</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-10-21 23:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abac/live/5ed152f0-cd8f-11f1-b1e7-39558e114359.jpg" alt="Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss" target="_blank">Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-21 21:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261021-jd-vance-mn-1315-5dd36b.jpg" alt="Vance says Republicans should ‘stop whining’ about Vivek Ramaswamy’s attack ad if they want to win" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/vance-republicans-stop-whining-vivek-ramaswamy-attack-ad-amy-acton-rcna604817" target="_blank">Vance says Republicans should ‘stop whining’ about Vivek Ramaswamy’s attack ad if they want to win</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-10-21 17:51</span>
             </div>
         </div>
 </div>
@@ -167,6 +164,33 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/stakenshake/a-30-day-old-note-was-obeyed-exactly-as-hard-as-a-7-year-old-one-4l8g" target="_blank">A 30-day-old note was obeyed exactly as hard as a 7-year-old one</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-22 08:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Developer Behind the AI-Built Adobe Clones Says They Are “Not Anywhere Close to Ready" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/10/photocraft-adobe-parity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Developer Behind the AI-Built Adobe Clones Says They Are “Not Anywhere Close to Ready</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-10-22 07:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.4-Kbuild" target="_blank">Linux 7.4 Begins Landing Patches To Speed Up The Kernel Build Process</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-22 00:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-staff-snake"></span>
                 <span class="title"><a href="https://elonlit.com/scrivings/how-to-run-turing-complete-malware-in-pytorchs-backward-pass/" target="_blank">How to Run Turing-Complete Malware in PyTorch&#x27;s Backward Pass</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
@@ -189,33 +213,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/10/emudhra-ca-compromise/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">eMudhra Intermediate CA Compromise</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-10-21 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17502193/brax-wink-pre-order" target="_blank">You Can Reserve This Small-Factor, De-Googled Phone for $30</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-10-21 17:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-revised-rules-of-engineering" target="_blank">The revised rules of engineering management with Will Larson</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-10-21 16:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/10/21/building-immersive-virtual-economies-an-introduction-to-kursarscript-kspl/" target="_blank">Building Immersive Virtual Economies: An Introduction to KursarScript (KSPL)</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-10-21 16:26</span>
             </div>
         </div>
 </div>
@@ -323,22 +320,13 @@
                 <span class="time">2026-10-21 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/vulnerability.png" alt="Vulnerability" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3314/" target="_blank">Vulnerability</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-10-21 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 50 | 📡 Total Sources: 40 | 📸 With Images: 266 |
-        🔄 Last Updated: 02:16 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 53 | 📡 Total Sources: 40 | 📸 With Images: 265 |
+        🔄 Last Updated: 08:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
