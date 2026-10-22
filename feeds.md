@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-10-21 23:53:32 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-10-22 02:16:15 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 28 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, October 21, 2026 - 23:53 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, October 22, 2026 - 02:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,9 +50,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/22/qatar-france-call-for-opening-of-hormuz-and-gaza-ceasefire-implementation?traffic_source=rss" target="_blank">Qatar, France call for opening of Hormuz and Gaza ceasefire implementation</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-22 01:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/clancy-rt-gmh-261021_1792615971386_hpMain_4x3t_384.jpg" alt="Lindsay Clancy murder trial: Judge denies request to question holdout juror" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/lindsay-clancy-murder-trial-judge-denies-request-question/story?id=137458266" target="_blank">Lindsay Clancy murder trial: Judge denies request to question holdout juror</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-21 23:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/10/21/pope-leo-needs-no-further-treatment-after-cancer-surgery-doctors-say?traffic_source=rss" target="_blank">Pope Leo needs no further treatment after cancer surgery, doctors say</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-10-21 23:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/1792631115639_nn_tll_iowa_senate_race_261021_S3_1920x1080-7g67ps.jpg" alt="Inside Iowa’s critical midterm Senate race" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/inside-iowa-s-critical-midterm-senate-race-272005189528" target="_blank">Inside Iowa’s critical midterm Senate race</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-10-21 23:15</span>
             </div>
         </div>
 <div class="story">
@@ -73,33 +100,6 @@
                 <span class="time">2026-10-21 17:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/808c/live/f0408560-cd64-11f1-bc2e-018d645d8d21.jpg" alt="Russia says it is ready to resume talks with Ukraine and US to end war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss" target="_blank">Russia says it is ready to resume talks with Ukraine and US to end war</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-21 17:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2643/live/6503a5b0-cd58-11f1-bc2e-018d645d8d21.jpg" alt="Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cy4zdgk081eo?at_medium=RSS&at_campaign=rss" target="_blank">Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-21 15:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-ha-hacker-computer_7382912.jpg?20261021145111" alt="Websites around the world taken down after AI detects &#x27;critical&#x27; flaw" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/websites-warned-to-install-critical-php-software-update-or-go-offline-13601917" target="_blank">Websites around the world taken down after AI detects &#x27;critical&#x27; flaw</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-10-21 13:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -112,6 +112,24 @@
                 <span class="title"><a href="https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos" target="_blank">YouTube says it isn’t testing hiding the dislike button</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-10-21 23:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6ad9408768bf72427a051c89/master/pass/WIRED_Business_Mark-Z_CA.jpg" alt="Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/" target="_blank">Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-10-21 22:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/12/trump-carr-500x500-1734382753.jpg" alt="FCC chair warns media not to run the &quot;fake polls&quot; Trump keeps complaining about" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/10/fcc-chair-warns-media-not-to-run-the-fake-polls-trump-keeps-complaining-about/" target="_blank">FCC chair warns media not to run the &quot;fake polls&quot; Trump keeps complaining about</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-10-21 22:17</span>
             </div>
         </div>
 <div class="story">
@@ -141,24 +159,6 @@
                 <span class="time">2026-10-21 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" alt="TurboTax Full Service Coupons This October 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/turbotax-coupon/" target="_blank">TurboTax Full Service Coupons This October 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-10-21 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Microsoft Reportedly Projects $1,200 To $1,800 Price For Next-Gen Xbox" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://games.slashdot.org/story/26/10/21/180214/microsoft-reportedly-projects-1200-to-1800-price-for-next-gen-xbox?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Microsoft Reportedly Projects $1,200 To $1,800 Price For Next-Gen Xbox</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -183,6 +183,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/10/emudhra-ca-compromise/en/headerimage/weak-link-1792602361259.jpeg" alt="eMudhra Intermediate CA Compromise" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/10/emudhra-ca-compromise/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">eMudhra Intermediate CA Compromise</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-10-21 17:30</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -194,28 +203,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-revised-rules-of-engineering" target="_blank">The revised rules of engineering management with Will Larson</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-10-21 16:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
                 <span class="title"><a href="https://stackoverflow.blog/2026/10/21/building-immersive-virtual-economies-an-introduction-to-kursarscript-kspl/" target="_blank">Building Immersive Virtual Economies: An Introduction to KursarScript (KSPL)</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2026-10-21 16:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/" target="_blank">The bridge to agent-scale Git infrastructure</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-10-21 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/snapdragon-x2-linux" target="_blank">Snapdragon X2 Performance On Linux Exceeding Expectations In Initial Benchmarks</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-10-21 14:50</span>
             </div>
         </div>
 </div>
@@ -300,6 +300,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/10/21/the-tri-fold-augur" target="_blank">The Tri-Fold Augur</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-10-21 20:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/10/21/child-s-play-auction-item" target="_blank">Child&#x27;s Play Auction Item</a></span>
                 <span class="feed">Penny Arcade</span>
                 <span class="time">2026-10-21 16:54</span>
@@ -323,22 +332,13 @@
                 <span class="time">2026-10-21 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5943.png" alt="Honest To A Fault" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5943" target="_blank">Honest To A Fault</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-10-21 00:59</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 50 | 📡 Total Sources: 40 | 📸 With Images: 267 |
-        🔄 Last Updated: 23:53 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 50 | 📡 Total Sources: 40 | 📸 With Images: 266 |
+        🔄 Last Updated: 02:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
