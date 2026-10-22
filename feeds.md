@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-10-22 18:55:27 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-10-22 21:58:41 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
 <!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 17 new posts out of 29 feeds processed -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Thursday, October 22, 2026 - 18:55 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, October 22, 2026 - 21:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/22/magnitude-7-earthquake-kills-16-people-in-chinas-tibet-xinhua-reports?traffic_source=rss" target="_blank">Magnitude 7 earthquake kills 16 people in China’s Tibet, Xinhua reports</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-22 21:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +102,20 @@
                 <span class="time">2026-10-22 13:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/10/22/yemenis-face-severe-shortages-in-taiz-amid-houthi-blockade?traffic_source=rss" target="_blank">Yemenis face severe shortages in Taiz amid Houthi blockade</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-22 13:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6ada2a91587bb57d09e564bf/master/pass/The%20Google%20Home%20Speaker%20Bug%20Is%20Gobbling%20Up%20Wi-Fi%20102026%20top%20art%20SOURCE%20Google.jpg" alt="The Google Home Speaker Has Been Secretly Eating My Wi-Fi Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/google-home-speaker-bug-oct-2026/" target="_blank">The Google Home Speaker Has Been Secretly Eating My Wi-Fi Data</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-10-22 20:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Galaxy-Z8-1-500x500-1792692078.jpg" alt="Samsung all but confirms iPhone Duo is goosing Galaxy Z8 sales" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,20 +161,29 @@
                 <span class="time">2026-10-22 13:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6ad73249e71bc9cefa5d514d/master/pass/OKA_MORI_Companion_EveningWorkAtLaptop.jpg" alt="Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/" target="_blank">Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-10-22 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Fedora-45-Second-NO-GO" target="_blank">Fedora 45 Hits A Second NO-GO: Not Releasing Until November</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-22 21:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/10/22/the-regression-tests-nobody-writes-capturing-how-software-actually-behaves/" target="_blank">The Regression Tests Nobody Writes: Capturing How Software Actually Behaves</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-10-22 19:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,29 +220,20 @@
                 <span class="time">2026-10-22 14:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!8eqB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9c999ba8-0113-4a00-9290-f982c315a286_1246x1254.png" alt="The Pulse: Time to rethink software security because of AI?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-do-we-need-to-rethink-software" target="_blank">The Pulse: Time to rethink software security because of AI?</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-10-22 14:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bukestudio/one-image-66-shoe-panels-the-geometry-and-four-silent-bugs-behind-a-canvas-cutting-pipeline-4490" target="_blank">One image, 66 shoe panels: the geometry (and four silent bugs) behind a canvas cutting pipeline</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-22 14:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/mass-effect-5-trailer-leaks-the-day-after-studio-closes.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Mass Effect 5 trailer leaks the day after studio closes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/10/22/mass-effect-5-trailer-leaks-the-day-after-studio-closes.html" target="_blank">Mass Effect 5 trailer leaks the day after studio closes</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-10-22 19:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/06/bfb725166a99ccabb7cd25ed810a4e8e-1280x720.jpg" alt="Here’s Three Actors In The Final Running For James Bond And They’re All Aggressively  Fine" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -261,15 +270,6 @@
                 <span class="time">2026-10-21 23:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/fountain-pen-daiso.jpg?fit=573%2C1600&amp;quality=60&amp;ssl=1" alt="Japan&#x27;s Daiso is like a dollar store, except a thousand times better" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/10/21/fountain-pen-daiso.html" target="_blank">Japan&#x27;s Daiso is like a dollar store, except a thousand times better</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-10-21 19:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -294,12 +294,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://www.questionablecontent.net/comics/5944.png" alt="Lollygagging" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/10/21/the-tri-fold-augur" target="_blank">The Tri-Fold Augur</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-10-21 20:41</span>
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5944" target="_blank">Lollygagging</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-10-22 01:04</span>
             </div>
         </div>
 </div>
@@ -307,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 48 | 📡 Total Sources: 40 | 📸 With Images: 264 |
-        🔄 Last Updated: 18:55 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 50 | 📡 Total Sources: 40 | 📸 With Images: 266 |
+        🔄 Last Updated: 21:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
