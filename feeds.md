@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-10-23 10:38:43 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-10-23 15:30:50 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 11 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, October 23, 2026 - 10:39 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Friday, October 23, 2026 - 15:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/23/what-to-know-as-brazil-prepares-for-tense-presidential-run-off?traffic_source=rss" target="_blank">What to know as Brazil prepares for tense presidential run-off</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-23 14:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/10/23/nx-s1-6009527/monkey-macaque-germs-virus-outbreak" target="_blank">Will a macaque eat a grape sitting on a pile of poo? A study on germaphobia</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-10-23 14:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread" target="_blank">Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-10-23 13:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bc9/live/06fdad80-ceca-11f1-bed9-e3a2c35dfdd6.jpg" alt="Meghan says she was informed about &#x27;disturbing allegations&#x27; against her father in 2018" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -75,38 +100,38 @@
                 <span class="time">2026-10-23 09:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261023-isr-soldiers-rs-0a6576.jpg" alt="Israel orders ‘full lockdown’ of West Bank after military kills 2 accused of attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/middle-east/israel-orders-west-bank-lockdown-hebron-shooting-attack-rcna605176" target="_blank">Israel orders ‘full lockdown’ of West Bank after military kills 2 accused of attack</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-10-23 08:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/23/grenade-exercise-sparked-deadly-fire-at-canada-military-base-army-says?traffic_source=rss" target="_blank">Grenade exercise sparked deadly fire at Canada military base, army says</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-23 04:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/10/23/trump-hints-new-strikes-says-us-knocked-hell-out-of-iran?traffic_source=rss" target="_blank">Iran war live: Trump hints new strikes, says US knocked ‘hell out’ of Iran</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-23 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/1017435/nhtsa-autonomous-vehicle-cyan-lighting-fmvss" target="_blank">Feds want robotaxis to signal ‘I’m driving’ with cyan-colored lights</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-10-23 15:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/" target="_blank">Lab testing giant Quest Diagnostics confirms patients’ personal and health data was compromised during breach</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-10-23 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/palisades-nuke-500x500.jpg" alt="The reactor meant to showcase nuclear’s comeback keeps hitting problems" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/10/safety-concerns-cloud-americas-flagship-nuclear-restart/" target="_blank">The reactor meant to showcase nuclear’s comeback keeps hitting problems</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-10-23 13:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -134,38 +159,29 @@
                 <span class="time">2026-10-22 23:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/switch2hack-500x500-1792704893.png" alt="Switch 2 security takes a hit as hackers unlock homebrew access" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/" target="_blank">Switch 2 security takes a hit as hackers unlock homebrew access</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-10-22 22:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6ada2a91587bb57d09e564bf/master/pass/The%20Google%20Home%20Speaker%20Bug%20Is%20Gobbling%20Up%20Wi-Fi%20102026%20top%20art%20SOURCE%20Google.jpg" alt="The Google Home Speaker Has Been Secretly Eating My Wi-Fi Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/google-home-speaker-bug-oct-2026/" target="_blank">The Google Home Speaker Has Been Secretly Eating My Wi-Fi Data</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-10-22 20:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Galaxy-Z8-1-500x500-1792692078.jpg" alt="Samsung all but confirms iPhone Duo is goosing Galaxy Z8 sales" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/10/samsung-all-but-confirms-iphone-duo-is-goosing-galaxy-z8-sales/" target="_blank">Samsung all but confirms iPhone Duo is goosing Galaxy Z8 sales</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-10-22 18:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="CSIRO Uses Serverless Architecture to Query 100x More Genomic Variants on AWS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/10/csiro-serverless-genomic-variant/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">CSIRO Uses Serverless Architecture to Query 100x More Genomic Variants on AWS</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-10-23 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/oneDNN-3.14-Released" target="_blank">oneDNN 3.14 Released With ACE Support, Initial AMD Zen Optimizations</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-23 14:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,43 +218,20 @@
                 <span class="time">2026-10-23 01:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-october-23-2026-red-hat" target="_blank">Friday Five — October 23, 2026 | Red Hat</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2026-10-23 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://codeandcake.dev/posts/2026-10-22-docker-is-weird" target="_blank">Docker is weird</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-10-22 23:45</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html" target="_blank">New Serious PHP Vulnerabilities Released and Patched</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-10-22 13:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/10/carrie-06-1-1280x720.jpg" alt="Amazon Prime’s Carrie Has Flaws, But Makes Wonderful Additions To Stephen King’s Original" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/carrie-amazon-prime-review-mike-flanagan-stephen-king-tv-series-2000749086" target="_blank">Amazon Prime’s Carrie Has Flaws, But Makes Wonderful Additions To Stephen King’s Original</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-23 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/Oops-The-busted-relic-in-a-photo-obtained-by-T.jpg?fit=1280%2C1232&amp;quality=60&amp;ssl=1" alt="Priceless Eisenhower globe broken after Hegseth orders it moved to his office" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +268,6 @@
                 <span class="time">2026-10-22 18:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/uncensoredlibrary.jpg?fit=1280%2C720&amp;quality=60&amp;ssl=1" alt="Uncensored Library hides forbidden literature inside Minecraft" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/10/22/uncensored-library-hides-forbidden-literature-inside-minecraft.html" target="_blank">Uncensored Library hides forbidden literature inside Minecraft</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-10-22 15:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M5G96TB4CQW2Y4HX5EPNGGJD/hero-image.jpg" alt="You Should Enable This Chrome Feature That Flags Suspicious Websites" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/you-should-enable-this-chrome-feature-that-flags-suspicious-websites?utm_medium=RSS" target="_blank">You Should Enable This Chrome Feature That Flags Suspicious Websites</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-10-22 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -302,18 +277,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/10/22/bride-of-spooktactular-ooo-from-l99-games" target="_blank">Bride of Spooktactular (OoO) from L99 Games</a></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/10/23/devil-dogs" target="_blank">Devil Dogs</a></span>
                 <span class="feed">Penny Arcade</span>
-                <span class="time">2026-10-22 18:05</span>
+                <span class="time">2026-10-23 07:01</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://www.smbc-comics.com/comics/1792532851-20261022.png" alt="Saturday Morning Breakfast Cereal - Revenge" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.questionablecontent.net/comics/5945.png" alt="Impingement" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/revenge" target="_blank">Saturday Morning Breakfast Cereal - Revenge</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-10-22 15:20</span>
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5945" target="_blank">Impingement</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-10-23 01:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/10/22/bride-of-spooktactular-ooo-from-l99-games" target="_blank">Bride of Spooktactular (OoO) from L99 Games</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-10-22 18:05</span>
             </div>
         </div>
 </div>
@@ -321,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 56 | 📡 Total Sources: 40 | 📸 With Images: 269 |
-        🔄 Last Updated: 10:39 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 52 | 📡 Total Sources: 40 | 📸 With Images: 271 |
+        🔄 Last Updated: 15:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
