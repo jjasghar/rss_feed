@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-10-23 05:31:52 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-23 10:38:43 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
 <!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, October 23, 2026 - 05:32 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Friday, October 23, 2026 - 10:39 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +48,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bc9/live/06fdad80-ceca-11f1-bed9-e3a2c35dfdd6.jpg" alt="Meghan says she was informed about &#x27;disturbing allegations&#x27; against her father in 2018" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss" target="_blank">Meghan says she was informed about &#x27;disturbing allegations&#x27; against her father in 2018</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-23 10:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/23/south-korea-invites-north-for-military-talks-over-border?traffic_source=rss" target="_blank">South Korea invites North for military talks over border</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-23 10:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/bodnar-buttigieg-ap-jt-261022_1792700028207_hpMain_4x3t_384.jpg" alt="Buttigieg endorses independent over Democratic nominee in Montana Senate race" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/buttigieg-endorses-independent-democratic-nominee-montana-senate-race/story?id=137486260" target="_blank">Buttigieg endorses independent over Democratic nominee in Montana Senate race</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-23 09:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261023-isr-soldiers-rs-0a6576.jpg" alt="Israel orders ‘full lockdown’ of West Bank after military kills 2 accused of attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/middle-east/israel-orders-west-bank-lockdown-hebron-shooting-attack-rcna605176" target="_blank">Israel orders ‘full lockdown’ of West Bank after military kills 2 accused of attack</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-10-23 08:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -65,47 +102,20 @@
                 <span class="time">2026-10-23 00:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6bf/live/fa5ffcb0-ce31-11f1-bc2e-018d645d8d21.jpg" alt="Hospitals deliberately targeted by Sudan&#x27;s RSF fighters, BBC investigation finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss" target="_blank">Hospitals deliberately targeted by Sudan&#x27;s RSF fighters, BBC investigation finds</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-22 23:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261020-elections-ch-1031-ca81ff.jpg" alt="Supreme Court says New Hampshire student IDs can’t be used to vote in November" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/supreme-court/new-hampshire-student-ids-cannot-used-vote-november-midterm-elections-rcna604570" target="_blank">Supreme Court says New Hampshire student IDs can’t be used to vote in November</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-10-22 22:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix" target="_blank">Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-10-22 21:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/22/magnitude-7-earthquake-kills-16-people-in-chinas-tibet-xinhua-reports?traffic_source=rss" target="_blank">Magnitude 7 earthquake kills 16 people in China’s Tibet, Xinhua reports</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-22 21:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/" target="_blank">Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-10-23 04:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +161,29 @@
                 <span class="time">2026-10-22 18:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/1016792/amazon-fire-tv-stick-4k-2026-deal-sale" target="_blank">The new Fire TV Stick 4K is already half off</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-10-22 18:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/christopher-dutra/the-10-minute-race-designing-email-verification-that-doesnt-frustrate-users-2hn7" target="_blank">The 10-Minute Race: Designing Email Verification That Doesn&#x27;t Frustrate Users</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-23 10:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/10/anthropic-oss-security-scanner/en/headerimage/generatedHeaderImage-1792523938215.jpg" alt="Anthropic Adds Opt-In Security Scanning for Critical Open-Source Projects" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/10/anthropic-oss-security-scanner/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Anthropic Adds Opt-In Security Scanning for Critical Open-Source Projects</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-10-23 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/10/ubuntu-ai-launcher-2-406x232.webp" alt="Canonical dev mocks up an Ubuntu launcher that uses AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -186,37 +205,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-october-23-2026-red-hat" target="_blank">Friday Five — October 23, 2026 | Red Hat</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2026-10-23 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://codeandcake.dev/posts/2026-10-22-docker-is-weird" target="_blank">Docker is weird</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-10-22 23:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Fedora-45-Second-NO-GO" target="_blank">Fedora 45 Hits A Second NO-GO: Not Releasing Until November</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-10-22 21:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/10/22/the-regression-tests-nobody-writes-capturing-how-software-actually-behaves/" target="_blank">The Regression Tests Nobody Writes: Capturing How Software Actually Behaves</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-10-22 19:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/chrysostomhayes8537/online-course-retrieval-architecture-tutor-index-economics-and-why-i-chose-one-ecc" target="_blank">Online Course Retrieval Architecture: Tutor Index Economics (and Why I Chose One)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-22 18:47</span>
             </div>
         </div>
 </div>
@@ -320,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 53 | 📡 Total Sources: 40 | 📸 With Images: 269 |
-        🔄 Last Updated: 05:32 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 56 | 📡 Total Sources: 40 | 📸 With Images: 269 |
+        🔄 Last Updated: 10:39 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
