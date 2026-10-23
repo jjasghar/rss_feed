@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-10-23 00:23:28 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-23 05:31:52 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 11 new posts out of 28 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, October 23, 2026 - 00:23 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, October 23, 2026 - 05:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/23/grenade-exercise-sparked-deadly-fire-at-canada-military-base-army-says?traffic_source=rss" target="_blank">Grenade exercise sparked deadly fire at Canada military base, army says</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-23 04:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,28 +86,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix" target="_blank">Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-10-22 21:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/10/22/magnitude-7-earthquake-kills-16-people-in-chinas-tibet-xinhua-reports?traffic_source=rss" target="_blank">Magnitude 7 earthquake kills 16 people in China’s Tibet, Xinhua reports</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-10-22 21:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/22/981035400/tom-skerritt-dead" target="_blank">Actor Tom Skerritt, who played dads, cops and commanding officers, has died</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-22 20:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/22/israel-frees-suspects-in-two-settler-attacks-as-west-bank-pogroms-intensify?traffic_source=rss" target="_blank">Israel frees suspects in two settler attacks as West Bank pogroms intensify</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-22 18:17</span>
             </div>
         </div>
 </div>
@@ -112,6 +113,15 @@
                 <span class="title"><a href="https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/" target="_blank">Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-10-22 23:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6ada855face4f27f64bac623/master/pass/Business_Palmer%20Luckey%20Says%20He%E2%80%99s%20Making%20Cyborg%20Death%20Dogs_v1.jpg" alt="Palmer Luckey Made a Genetically Modified Military Dog Startup" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/cool-cool-cool-palmer-luckey-made-a-genetically-modified-military-dog-startup/" target="_blank">Palmer Luckey Made a Genetically Modified Military Dog Startup</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-10-22 23:15</span>
             </div>
         </div>
 <div class="story">
@@ -150,20 +160,38 @@
                 <span class="time">2026-10-22 18:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/" target="_blank">Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-10-22 18:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/10/ubuntu-ai-launcher-2-406x232.webp" alt="Canonical dev mocks up an Ubuntu launcher that uses AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/ubuntu-ai-launcher-prototype" target="_blank">Canonical dev mocks up an Ubuntu launcher that uses AI</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-10-23 04:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://alexsci.com/blog/uuidv7-is-weird/" target="_blank">UUIDv7 doesn&#x27;t have the properties you think it does</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-10-23 01:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://codeandcake.dev/posts/2026-10-22-docker-is-weird" target="_blank">Docker is weird</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-10-22 23:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -191,31 +219,18 @@
                 <span class="time">2026-10-22 18:47</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Modular-MAX-Complete-Open" target="_blank">Modular&#x27;s MAX Source Code Now Fully Opened, Under New MAX License</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-10-22 18:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17502941/red-hat-lf-research-ai-slop-report" target="_blank">Red Hat Funded a Report That Found a Quarter of Incoming Pull Requests May Be AI Slop</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-10-22 17:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/" target="_blank">How bug bounty sharpens one researcher’s security skills</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-10-22 17:21</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html" target="_blank">New Serious PHP Vulnerabilities Released and Patched</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-10-22 13:26</span>
             </div>
         </div>
 </div>
@@ -230,6 +245,15 @@
                 <span class="title"><a href="https://boingboing.net/2026/10/22/priceless-wwii-globe-hegseth-wanted-in-office-broken-during-move-there.html" target="_blank">Priceless Eisenhower globe broken after Hegseth orders it moved to his office</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-10-22 23:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/10/sony-4kuhd-1-1280x720.jpg" alt="Sony Continues Its March Towards An All-Digital Future As It Reportedly Kills Off Its Last 4K UHD Player" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/sony-continues-its-march-towards-an-all-digital-future-as-it-reportedly-kills-off-its-last-4k-uhd-player-2000748873" target="_blank">Sony Continues Its March Towards An All-Digital Future As It Reportedly Kills Off Its Last 4K UHD Player</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-22 20:41</span>
             </div>
         </div>
 <div class="story">
@@ -291,22 +315,13 @@
                 <span class="time">2026-10-22 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5944.png" alt="Lollygagging" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5944" target="_blank">Lollygagging</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-10-22 01:04</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 50 | 📡 Total Sources: 40 | 📸 With Images: 270 |
-        🔄 Last Updated: 00:23 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 53 | 📡 Total Sources: 40 | 📸 With Images: 269 |
+        🔄 Last Updated: 05:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
