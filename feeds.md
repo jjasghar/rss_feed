@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-10-23 15:30:50 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-23 19:36:44 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Generated 11 new posts out of 27 feeds processed -->
+<!-- Generated 10 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, October 23, 2026 - 15:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, October 23, 2026 - 19:36 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69ed/live/357e0110-ceec-11f1-bdca-23c64447299f.jpg" alt="Storm Austen brings power cuts and travel disruption as more wind and rain forecast" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss" target="_blank">Storm Austen brings power cuts and travel disruption as more wind and rain forecast</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-23 18:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/10/23/nx-s1-6012809/ohio-senate-governor-election-rural-voters" target="_blank">Ohio could decide control of the Senate. Its rural voters might decide the winner</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-10-23 18:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-08/260818-dan-sullivan-alaksa-mn-1250-eebf1e.jpg" alt="DOJ sues to block Alaska Senate certification if GOP’s Dan Sullivan loses" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/trump-justice-department-lawsuit-alaska-senate-rcna605229" target="_blank">DOJ sues to block Alaska Senate certification if GOP’s Dan Sullivan loses</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-10-23 16:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,38 +99,20 @@
                 <span class="time">2026-10-23 13:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bc9/live/06fdad80-ceca-11f1-bed9-e3a2c35dfdd6.jpg" alt="Meghan says she was informed about &#x27;disturbing allegations&#x27; against her father in 2018" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss" target="_blank">Meghan says she was informed about &#x27;disturbing allegations&#x27; against her father in 2018</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-23 10:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/23/south-korea-invites-north-for-military-talks-over-border?traffic_source=rss" target="_blank">South Korea invites North for military talks over border</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-23 10:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/bodnar-buttigieg-ap-jt-261022_1792700028207_hpMain_4x3t_384.jpg" alt="Buttigieg endorses independent over Democratic nominee in Montana Senate race" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/buttigieg-endorses-independent-democratic-nominee-montana-senate-race/story?id=137486260" target="_blank">Buttigieg endorses independent over Democratic nominee in Montana Senate race</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-23 09:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6adba57525db5ec905073c5e/master/pass/New%20Revival%20Birthday%20Sale%20102026%20top%20art%20SOURCE%20Revival.jpg" alt="Revival Rugs Birthday Sale: 20 Percent Off Sitewide Through Sunday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/revival-rugs-birthday-sale-october-2026/" target="_blank">Revival Rugs Birthday Sale: 20 Percent Off Sitewide Through Sunday</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-10-23 18:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +158,29 @@
                 <span class="time">2026-10-22 23:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6ada855face4f27f64bac623/master/pass/Business_Palmer%20Luckey%20Says%20He%E2%80%99s%20Making%20Cyborg%20Death%20Dogs_v1.jpg" alt="Palmer Luckey Made a Genetically Modified Military Dog Startup" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/cool-cool-cool-palmer-luckey-made-a-genetically-modified-military-dog-startup/" target="_blank">Palmer Luckey Made a Genetically Modified Military Dog Startup</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-10-22 23:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17505238/projects-keeping-x11-alive" target="_blank">These Projects are Keeping X11 Dream Alive on Linux</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-10-23 17:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/HPFS-For-Linux-Removal" target="_blank">HPFS Is The Latest File-System Slated For Removal On Linux</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-23 16:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="CSIRO Uses Serverless Architecture to Query 100x More Genomic Variants on AWS" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -200,29 +217,29 @@
                 <span class="time">2026-10-23 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/10/ubuntu-ai-launcher-2-406x232.webp" alt="Canonical dev mocks up an Ubuntu launcher that uses AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/ubuntu-ai-launcher-prototype" target="_blank">Canonical dev mocks up an Ubuntu launcher that uses AI</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-10-23 04:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://alexsci.com/blog/uuidv7-is-weird/" target="_blank">UUIDv7 doesn&#x27;t have the properties you think it does</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-10-23 01:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/10/imresizer-resize-table-tennis-1280x720.jpg" alt="Table Tennis Beast Lucía Has Returned To Torment Players Again In Switch Sports Resort" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/table-tennis-beast-lucia-has-returned-to-torment-players-again-in-switch-sports-resort-2000749121" target="_blank">Table Tennis Beast Lucía Has Returned To Torment Players Again In Switch Sports Resort</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-23 19:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M5N2H0W59JTTP65DQWR68Z6T/hero-image.webp" alt="The Garmin Cirqa Finally Got a Much-Needed Feature" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/garmin-cirqa-new-feature-update?utm_medium=RSS" target="_blank">The Garmin Cirqa Finally Got a Much-Needed Feature</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-10-23 19:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/10/carrie-06-1-1280x720.jpg" alt="Amazon Prime’s Carrie Has Flaws, But Makes Wonderful Additions To Stephen King’s Original" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -259,20 +276,20 @@
                 <span class="time">2026-10-22 19:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/06/bfb725166a99ccabb7cd25ed810a4e8e-1280x720.jpg" alt="Here’s Three Actors In The Final Running For James Bond And They’re All Aggressively  Fine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/heres-three-actors-in-the-final-running-for-james-bond-and-theyre-all-aggressively-fine-2000748875" target="_blank">Here’s Three Actors In The Final Running For James Bond And They’re All Aggressively  Fine</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-22 18:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1792736918-20261023.png" alt="Saturday Morning Breakfast Cereal - Alignment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/alignment-2" target="_blank">Saturday Morning Breakfast Cereal - Alignment</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-10-23 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -291,22 +308,13 @@
                 <span class="time">2026-10-23 01:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/10/22/bride-of-spooktactular-ooo-from-l99-games" target="_blank">Bride of Spooktactular (OoO) from L99 Games</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-10-22 18:05</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 52 | 📡 Total Sources: 40 | 📸 With Images: 271 |
-        🔄 Last Updated: 15:31 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 47 | 📡 Total Sources: 40 | 📸 With Images: 271 |
+        🔄 Last Updated: 19:36 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
