@@ -1,35 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-10-23 19:36:44 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-23 22:43:08 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Generated 10 new posts out of 27 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, October 23, 2026 - 19:36 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, October 23, 2026 - 22:43 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +41,42 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/10/23/why-is-israel-increasing-its-presence-in-the-balkans?traffic_source=rss" target="_blank">Why is Israel increasing its presence in the Balkans?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-23 22:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/dan-sullivan-2-gty-gmh-261023_1792770749742_hpMain_4x3t_384.jpg" alt="Trump told DOJ to sue to block Alaska Senate results if Republican narrowly loses" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/doj-preemptively-sues-block-alaska-senate-results-republican/story?id=137512876" target="_blank">Trump told DOJ to sue to block Alaska Senate results if Republican narrowly loses</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-23 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c59/live/b8966750-cef5-11f1-a701-fddedf244c16.jpg" alt="Deadly shooting near Paris is a &#x27;racist terrorist attack&#x27;, Macron says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss" target="_blank">Deadly shooting near Paris is a &#x27;racist terrorist attack&#x27;, Macron says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-23 19:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/10/23/nx-s1-6012296/ai-department-of-defense-war" target="_blank">The Pentagon&#x27;s guidelines for &quot;responsible AI&quot; aren&#x27;t always followed, report shows</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-10-23 19:31</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69ed/live/357e0110-ceec-11f1-bdca-23c64447299f.jpg" alt="Storm Austen brings power cuts and travel disruption as more wind and rain forecast" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -61,42 +92,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/10/23/nx-s1-6012809/ohio-senate-governor-election-rural-voters" target="_blank">Ohio could decide control of the Senate. Its rural voters might decide the winner</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-10-23 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-08/260818-dan-sullivan-alaksa-mn-1250-eebf1e.jpg" alt="DOJ sues to block Alaska Senate certification if GOP’s Dan Sullivan loses" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/trump-justice-department-lawsuit-alaska-senate-rcna605229" target="_blank">DOJ sues to block Alaska Senate certification if GOP’s Dan Sullivan loses</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-10-23 16:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/23/what-to-know-as-brazil-prepares-for-tense-presidential-run-off?traffic_source=rss" target="_blank">What to know as Brazil prepares for tense presidential run-off</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-23 14:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/23/nx-s1-6009527/monkey-macaque-germs-virus-outbreak" target="_blank">Will a macaque eat a grape sitting on a pile of poo? A study on germaphobia</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-23 14:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread" target="_blank">Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-10-23 13:57</span>
             </div>
         </div>
 </div>
@@ -219,9 +214,41 @@
         </div>
 </div>
 </div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-increasing-squid-populations.html" target="_blank">Friday Squid Blogging: Increasing Squid Populations</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-10-23 21:00</span>
+            </div>
+        </div>
+</div>
+</div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/10/rosebelmont-1280x720.jpg" alt="Belmont’s Curse Taught Me An Important Lesson About Parrying, Namely I Should Do It More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/belmonts-curse-taught-me-an-important-lesson-about-parrying-namely-i-should-do-it-more-2000749181" target="_blank">Belmont’s Curse Taught Me An Important Lesson About Parrying, Namely I Should Do It More</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-23 21:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/fountain-pen-kurokawa-onsen-cat-1.jpg?fit=1200%2C1600&amp;quality=60&amp;ssl=1" alt="Kurokawa Onsen has 25 hot springs, but I&#x27;d go back just for this cat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/10/23/fountain-pen-kurokawa-onsen-cat.html" target="_blank">Kurokawa Onsen has 25 hot springs, but I&#x27;d go back just for this cat</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-10-23 20:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/10/imresizer-resize-table-tennis-1280x720.jpg" alt="Table Tennis Beast Lucía Has Returned To Torment Players Again In Switch Sports Resort" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -256,24 +283,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/10/22/priceless-wwii-globe-hegseth-wanted-in-office-broken-during-move-there.html" target="_blank">Priceless Eisenhower globe broken after Hegseth orders it moved to his office</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-10-22 23:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/10/sony-4kuhd-1-1280x720.jpg" alt="Sony Continues Its March Towards An All-Digital Future As It Reportedly Kills Off Its Last 4K UHD Player" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/sony-continues-its-march-towards-an-all-digital-future-as-it-reportedly-kills-off-its-last-4k-uhd-player-2000748873" target="_blank">Sony Continues Its March Towards An All-Digital Future As It Reportedly Kills Off Its Last 4K UHD Player</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-22 20:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/mass-effect-5-trailer-leaks-the-day-after-studio-closes.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Mass Effect 5 trailer leaks the day after studio closes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/10/22/mass-effect-5-trailer-leaks-the-day-after-studio-closes.html" target="_blank">Mass Effect 5 trailer leaks the day after studio closes</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-10-22 19:38</span>
             </div>
         </div>
 </div>
@@ -313,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 47 | 📡 Total Sources: 40 | 📸 With Images: 271 |
-        🔄 Last Updated: 19:36 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 45 | 📡 Total Sources: 40 | 📸 With Images: 272 |
+        🔄 Last Updated: 22:43 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
