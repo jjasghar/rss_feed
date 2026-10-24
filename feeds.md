@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-10-24 01:12:56 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-24 06:37:35 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, October 24, 2026 - 01:13 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Saturday, October 24, 2026 - 06:37 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -65,6 +61,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43e7/live/343404d0-cf00-11f1-accf-3309656ad0bb.jpg" alt="UK to invest £100m in &#x27;world first&#x27; AI Biosecurity Lab" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss" target="_blank">UK to invest £100m in &#x27;world first&#x27; AI Biosecurity Lab</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-24 00:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/1792799421073_now_hallie_pth_ramaswamy_ad_261023_S3_1920x1080-357o83.jpg" alt="Ramaswamy says ad featuring Acton’s mother had nothing to do with allegations of sexual abuse" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/ramaswamy-says-ad-featuring-acton-s-mother-had-nothing-to-do-with-allegations-of-sexual-abuse-272145989925" target="_blank">Ramaswamy says ad featuring Acton’s mother had nothing to do with allegations of sexual abuse</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-10-23 23:50</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -82,24 +96,6 @@
                 <span class="time">2026-10-23 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c59/live/b8966750-cef5-11f1-a701-fddedf244c16.jpg" alt="Deadly shooting near Paris is a &#x27;racist terrorist attack&#x27;, Macron says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss" target="_blank">Deadly shooting near Paris is a &#x27;racist terrorist attack&#x27;, Macron says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-23 19:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/23/nx-s1-6012296/ai-department-of-defense-war" target="_blank">The Pentagon&#x27;s guidelines for &quot;responsible AI&quot; aren&#x27;t always followed, report shows</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-23 19:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -112,6 +108,15 @@
                 <span class="title"><a href="https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/" target="_blank">Startups don’t need to go viral to win customers</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-10-23 23:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/centaur-500x500.jpg" alt="NASA updates lander plans for Moon landings, finally solves long-festering Orion issue" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/" target="_blank">NASA updates lander plans for Moon landings, finally solves long-festering Orion issue</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-10-23 22:48</span>
             </div>
         </div>
 <div class="story">
@@ -148,15 +153,6 @@
                 <span class="title"><a href="https://arstechnica.com/tech-policy/2026/10/safety-concerns-cloud-americas-flagship-nuclear-restart/" target="_blank">The reactor meant to showcase nuclear’s comeback keeps hitting problems</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-10-23 13:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/" target="_blank">Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-10-23 04:22</span>
             </div>
         </div>
 </div>
@@ -314,22 +310,13 @@
                 <span class="time">2026-10-23 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/forms_of_water.png" alt="Forms of Water" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3315/" target="_blank">Forms of Water</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-10-23 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 44 | 📡 Total Sources: 40 | 📸 With Images: 268 |
-        🔄 Last Updated: 01:13 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 42 | 📡 Total Sources: 40 | 📸 With Images: 270 |
+        🔄 Last Updated: 06:37 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
