@@ -1,33 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-10-24 11:42:05 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-24 14:59:37 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 25 feeds processed -->
+<!-- Generated 3 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Saturday, October 24, 2026 - 11:42 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, October 24, 2026 - 14:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +38,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb37/live/1f328a50-cfa7-11f1-aadb-297fd0a130b9.jpg" alt="Met Police says letter with claims about Meghan&#x27;s father not shared with other law enforcement" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss" target="_blank">Met Police says letter with claims about Meghan&#x27;s father not shared with other law enforcement</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-24 12:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6049/live/9c0d0c10-cf9a-11f1-b441-2b33b063138f.jpg" alt="Ukraine says Starlink connection &#x27;now stable&#x27; after network limits" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,20 +92,20 @@
                 <span class="time">2026-10-24 00:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43e7/live/343404d0-cf00-11f1-accf-3309656ad0bb.jpg" alt="UK to invest £100m in &#x27;world first&#x27; AI Biosecurity Lab" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss" target="_blank">UK to invest £100m in &#x27;world first&#x27; AI Biosecurity Lab</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-24 00:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/marscloud-500x500.jpg" alt="A 1,000-mile cloud on Mars may reveal physics never seen in nature" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/" target="_blank">A 1,000-mile cloud on Mars may reveal physics never seen in nature</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-10-24 11:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +151,20 @@
                 <span class="time">2026-10-23 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/palisades-nuke-500x500.jpg" alt="The reactor meant to showcase nuclear’s comeback keeps hitting problems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/10/safety-concerns-cloud-americas-flagship-nuclear-restart/" target="_blank">The reactor meant to showcase nuclear’s comeback keeps hitting problems</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-10-23 13:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.4-memblock" target="_blank">Linux&#x27;s Early Boot-Time Physical Memory Allocator Sees Big Speed-Up: ~268s To ~50ms</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-24 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,15 +208,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/KDE-Plasma-6.9-Wayland-PiP" target="_blank">KDE Plasma 6.9 Stabilizes KWin&#x27;s Wayland Picture-In-Picture Support</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-10-24 00:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17505238/projects-keeping-x11-alive" target="_blank">These Projects are Keeping X11 Dream Alive on Linux</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-10-23 17:14</span>
             </div>
         </div>
 </div>
@@ -316,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 42 | 📡 Total Sources: 40 | 📸 With Images: 268 |
-        🔄 Last Updated: 11:42 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 39 | 📡 Total Sources: 40 | 📸 With Images: 269 |
+        🔄 Last Updated: 14:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
