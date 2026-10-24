@@ -1,30 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-10-23 22:43:08 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-24 01:12:56 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 22 feeds processed -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Friday, October 23, 2026 - 22:43 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, October 24, 2026 - 01:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/10/23/nx-s1-6014742/flooding-weather-four-corners" target="_blank">Severe flooding hits Four Corners region, more expected through the weekend</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-10-24 00:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/24/who-announces-start-of-ebola-vaccine-clinical-trial-in-dr-congo?traffic_source=rss" target="_blank">WHO announces start of Ebola vaccine clinical trial in DR Congo</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-24 00:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,29 +100,20 @@
                 <span class="time">2026-10-23 19:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69ed/live/357e0110-ceec-11f1-bdca-23c64447299f.jpg" alt="Storm Austen brings power cuts and travel disruption as more wind and rain forecast" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss" target="_blank">Storm Austen brings power cuts and travel disruption as more wind and rain forecast</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-23 18:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/23/nx-s1-6012809/ohio-senate-governor-election-rural-voters" target="_blank">Ohio could decide control of the Senate. Its rural voters might decide the winner</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-23 18:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/" target="_blank">Startups don’t need to go viral to win customers</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-10-23 23:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6adba57525db5ec905073c5e/master/pass/New%20Revival%20Birthday%20Sale%20102026%20top%20art%20SOURCE%20Revival.jpg" alt="Revival Rugs Birthday Sale: 20 Percent Off Sitewide Through Sunday" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,15 +159,6 @@
                 <span class="time">2026-10-23 04:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/" target="_blank">Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-10-22 23:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -161,10 +167,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/KDE-Plasma-6.9-Wayland-PiP" target="_blank">KDE Plasma 6.9 Stabilizes KWin&#x27;s Wayland Picture-In-Picture Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-24 00:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17505238/projects-keeping-x11-alive" target="_blank">These Projects are Keeping X11 Dream Alive on Linux</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2026-10-23 17:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.kimi.ai/blog/kimi-k3-1-pro" target="_blank">Kimi K3.1 Pro and K3.1 Pro Highspeed</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-10-23 16:59</span>
             </div>
         </div>
 <div class="story">
@@ -192,24 +216,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/oneDNN-3.14-Released" target="_blank">oneDNN 3.14 Released With ACE Support, Initial AMD Zen Optimizations</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-10-23 14:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/christopher-dutra/the-10-minute-race-designing-email-verification-that-doesnt-frustrate-users-2hn7" target="_blank">The 10-Minute Race: Designing Email Verification That Doesn&#x27;t Frustrate Users</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-23 10:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/10/anthropic-oss-security-scanner/en/headerimage/generatedHeaderImage-1792523938215.jpg" alt="Anthropic Adds Opt-In Security Scanning for Critical Open-Source Projects" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/10/anthropic-oss-security-scanner/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Anthropic Adds Opt-In Security Scanning for Critical Open-Source Projects</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-10-23 09:00</span>
             </div>
         </div>
 </div>
@@ -276,20 +282,20 @@
                 <span class="time">2026-10-23 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/Oops-The-busted-relic-in-a-photo-obtained-by-T.jpg?fit=1280%2C1232&amp;quality=60&amp;ssl=1" alt="Priceless Eisenhower globe broken after Hegseth orders it moved to his office" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/10/22/priceless-wwii-globe-hegseth-wanted-in-office-broken-during-move-there.html" target="_blank">Priceless Eisenhower globe broken after Hegseth orders it moved to his office</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-10-22 23:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/10/24/desrt-bus" target="_blank">Desert Bus!</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-10-24 00:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1792736918-20261023.png" alt="Saturday Morning Breakfast Cereal - Alignment" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -309,12 +315,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://www.questionablecontent.net/comics/5945.png" alt="Impingement" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://imgs.xkcd.com/comics/forms_of_water.png" alt="Forms of Water" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5945" target="_blank">Impingement</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-10-23 01:04</span>
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3315/" target="_blank">Forms of Water</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-10-23 04:00</span>
             </div>
         </div>
 </div>
@@ -322,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 45 | 📡 Total Sources: 40 | 📸 With Images: 272 |
-        🔄 Last Updated: 22:43 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 44 | 📡 Total Sources: 40 | 📸 With Images: 268 |
+        🔄 Last Updated: 01:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
