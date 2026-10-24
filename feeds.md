@@ -1,39 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-10-24 17:53:47 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-10-24 19:56:04 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Saturday, October 24, 2026 - 17:53 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, October 24, 2026 - 19:56 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss" target="_blank">Thousands of Israelis rally against Netanyahu gov’t days before election</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-24 19:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions" target="_blank">Ukraine says Starlink is back to normal after disruptions</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-10-24 17:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/starlink-ukraine-rt-jt-261016_1792179710209_hpMain_4x3t_384.jpg" alt="Ukraine says Starlink satellite access is fully back after weeklong disruption" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,29 +105,20 @@
                 <span class="time">2026-10-24 11:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/24/german-police-detain-suspect-after-fire-engulfs-hitlers-eagles-nest?traffic_source=rss" target="_blank">German police detain suspect after fire engulfs Hitler’s Eagle’s Nest</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-24 11:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261021-voting-scenarios-midterms-blue-wave-cs-1ace49.jpg" alt="How Democrats could win the House, how the GOP could hang on, and where to look for a wave" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/house-majority-math-democrats-win-republicans-scenarios-rcna604404" target="_blank">How Democrats could win the House, how the GOP could hang on, and where to look for a wave</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-10-24 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/" target="_blank">The AI graveyard: a running list of projects and startups that didn’t make it</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-10-24 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,15 +156,6 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media.wired.com/photos/6adba57525db5ec905073c5e/master/pass/New%20Revival%20Birthday%20Sale%20102026%20top%20art%20SOURCE%20Revival.jpg" alt="Revival Rugs Birthday Sale: 20 Percent Off Sitewide Through Sunday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/revival-rugs-birthday-sale-october-2026/" target="_blank">Revival Rugs Birthday Sale: 20 Percent Off Sitewide Through Sunday</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-10-23 18:27</span>
-            </div>
-        </div>
-<div class="story">
             <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Singapore Boffins Weave a GUI Into Fabric" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-comments"></span>
@@ -174,6 +176,24 @@
                 <span class="title"><a href="https://blog.roku.com/developer/gitlab-move" target="_blank">Roku developer repositories moved from GitHub to GitLab</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-10-24 16:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/10/google-argon-optimizes-adk/en/headerimage/functiongemma-1792855681633.jpeg" alt="Google Optimizes Agent Development Kit&#x27;s 200K-line Python Codebase Overnight with Gemini 4 Argon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/10/google-argon-optimizes-adk/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Optimizes Agent Development Kit&#x27;s 200K-line Python Codebase Overnight with Gemini 4 Argon</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-10-24 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://astral.sh/blog/uv-ty-integration" target="_blank">Bringing uv and ty together</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-10-24 15:27</span>
             </div>
         </div>
 <div class="story">
@@ -203,24 +223,6 @@
                 <span class="time">2026-10-24 08:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17505795/raid-calculator" target="_blank">RAID Calculator</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-10-24 06:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/10/shader-effects-split-screen-406x232.webp" alt="Shader Effects is the coolest GNOME extension you’ll try this weekend" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/shader-effect-gnome-extension" target="_blank">Shader Effects is the coolest GNOME extension you’ll try this weekend</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-10-24 03:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +242,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/10/breathofthewildmastersword.jpg" alt="Legend Of Zelda Producer Eiji Aonuma Knighted By French Ministry Of Culture" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/legend-of-zelda-producer-eiji-aonuma-knighted-by-french-ministry-of-culture-2000749331" target="_blank">Legend Of Zelda Producer Eiji Aonuma Knighted By French Ministry Of Culture</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-24 19:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/toysrus.jpg?fit=1200%2C858&amp;quality=60&amp;ssl=1" alt="The haunted Toys R Us is now an unhaunted REI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/10/24/the-haunted-toys-r-us-is-now-an-unhaunted-rei.html" target="_blank">The haunted Toys R Us is now an unhaunted REI</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-10-24 15:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/10/rosebelmont-1280x720.jpg" alt="Belmont’s Curse Taught Me An Important Lesson About Parrying, Namely I Should Do It More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,24 +285,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/10/23/fountain-pen-kurokawa-onsen-cat.html" target="_blank">Kurokawa Onsen has 25 hot springs, but I&#x27;d go back just for this cat</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-10-23 20:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/10/imresizer-resize-table-tennis-1280x720.jpg" alt="Table Tennis Beast Lucía Has Returned To Torment Players Again In Switch Sports Resort" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/table-tennis-beast-lucia-has-returned-to-torment-players-again-in-switch-sports-resort-2000749121" target="_blank">Table Tennis Beast Lucía Has Returned To Torment Players Again In Switch Sports Resort</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-23 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M5N2H0W59JTTP65DQWR68Z6T/hero-image.webp" alt="The Garmin Cirqa Finally Got a Much-Needed Feature" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/garmin-cirqa-new-feature-update?utm_medium=RSS" target="_blank">The Garmin Cirqa Finally Got a Much-Needed Feature</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-10-23 19:30</span>
             </div>
         </div>
 </div>
@@ -313,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 37 | 📡 Total Sources: 40 | 📸 With Images: 271 |
-        🔄 Last Updated: 17:53 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 37 | 📡 Total Sources: 40 | 📸 With Images: 268 |
+        🔄 Last Updated: 19:56 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
