@@ -1,28 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-10-24 14:59:37 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-24 17:53:47 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DZone -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 19 feeds processed -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, October 24, 2026 - 14:59 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Saturday, October 24, 2026 - 17:53 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/starlink-ukraine-rt-jt-261016_1792179710209_hpMain_4x3t_384.jpg" alt="Ukraine says Starlink satellite access is fully back after weeklong disruption" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/ukraine-starlink-satellite-access-fully-back-after-weeklong/story?id=137538401" target="_blank">Ukraine says Starlink satellite access is fully back after weeklong disruption</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-24 17:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-volodymyr-zelenskyy_7385610.jpg?20261024144157" alt="Starlink back to &#x27;the level ⁠we need&#x27; in Ukraine, Zelenskyy says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/starlink-back-to-the-level-we-need-in-ukraine-president-zelenskyy-says-13603095" target="_blank">Starlink back to &#x27;the level ⁠we need&#x27; in Ukraine, Zelenskyy says</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-10-24 13:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb37/live/1f328a50-cfa7-11f1-aadb-297fd0a130b9.jpg" alt="Met Police says letter with claims about Meghan&#x27;s father not shared with other law enforcement" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -66,30 +95,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-fire-nazi_7385230.png?20261024055752" alt="Suspect arrested after fire at Hitler&#x27;s &#x27;Eagle&#x27;s Nest&#x27; retreat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261021-voting-scenarios-midterms-blue-wave-cs-1ace49.jpg" alt="How Democrats could win the House, how the GOP could hang on, and where to look for a wave" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/suspect-arrested-after-fire-at-nazis-wwii-eagles-nest-mountain-retreat-13602938" target="_blank">Suspect arrested after fire at Hitler&#x27;s &#x27;Eagle&#x27;s Nest&#x27; retreat</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-10-24 04:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/23/nx-s1-6014742/flooding-weather-four-corners" target="_blank">Severe flooding hits Four Corners region, more expected through the weekend</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-24 00:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/24/who-announces-start-of-ebola-vaccine-clinical-trial-in-dr-congo?traffic_source=rss" target="_blank">WHO announces start of Ebola vaccine clinical trial in DR Congo</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-24 00:27</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/house-majority-math-democrats-win-republicans-scenarios-rcna604404" target="_blank">How Democrats could win the House, how the GOP could hang on, and where to look for a wave</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-10-24 09:00</span>
             </div>
         </div>
 </div>
@@ -97,6 +108,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview" target="_blank">Fielded is obsessed with scammers and unhinged Japanese cyberpunk</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-10-24 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/marscloud-500x500.jpg" alt="A 1,000-mile cloud on Mars may reveal physics never seen in nature" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -134,21 +154,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Singapore Boffins Weave a GUI Into Fabric" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/1017435/nhtsa-autonomous-vehicle-cyan-lighting-fmvss" target="_blank">Feds want robotaxis to signal ‘I’m driving’ with cyan-colored lights</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-10-23 15:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/" target="_blank">Lab testing giant Quest Diagnostics confirms patients’ personal and health data was compromised during breach</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-10-23 15:00</span>
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://tech.slashdot.org/story/26/10/23/2048215/singapore-boffins-weave-a-gui-into-fabric?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Singapore Boffins Weave a GUI Into Fabric</a></span>
+                <span class="feed">Slashdot</span>
+                
             </div>
         </div>
 </div>
@@ -156,6 +167,15 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.roku.com/developer/gitlab-move" target="_blank">Roku developer repositories moved from GitHub to GitLab</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-10-24 16:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,15 +219,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/shader-effect-gnome-extension" target="_blank">Shader Effects is the coolest GNOME extension you’ll try this weekend</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-10-24 03:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/KDE-Plasma-6.9-Wayland-PiP" target="_blank">KDE Plasma 6.9 Stabilizes KWin&#x27;s Wayland Picture-In-Picture Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-10-24 00:56</span>
             </div>
         </div>
 </div>
@@ -274,20 +285,20 @@
                 <span class="time">2026-10-23 19:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/10/carrie-06-1-1280x720.jpg" alt="Amazon Prime’s Carrie Has Flaws, But Makes Wonderful Additions To Stephen King’s Original" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/carrie-amazon-prime-review-mike-flanagan-stephen-king-tv-series-2000749086" target="_blank">Amazon Prime’s Carrie Has Flaws, But Makes Wonderful Additions To Stephen King’s Original</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-23 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1792794277-20261024.png" alt="Saturday Morning Breakfast Cereal - Watch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/watch-2" target="_blank">Saturday Morning Breakfast Cereal - Watch</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-10-24 15:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -297,22 +308,13 @@
                 <span class="time">2026-10-24 00:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1792736918-20261023.png" alt="Saturday Morning Breakfast Cereal - Alignment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/alignment-2" target="_blank">Saturday Morning Breakfast Cereal - Alignment</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-10-23 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 39 | 📡 Total Sources: 40 | 📸 With Images: 269 |
-        🔄 Last Updated: 14:59 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 37 | 📡 Total Sources: 40 | 📸 With Images: 271 |
+        🔄 Last Updated: 17:53 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
