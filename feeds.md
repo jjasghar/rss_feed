@@ -1,9 +1,6 @@
-<!-- Processing 54 RSS feeds at 2026-10-24 19:56:04 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2026-10-24 22:07:21 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
@@ -13,29 +10,27 @@
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 32 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, October 24, 2026 - 19:56 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, October 24, 2026 - 22:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +50,42 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/24/brazils-lula-bolsonaro-draw-thousands-to-election-eve-rallies?traffic_source=rss" target="_blank">Brazil’s Lula, Bolsonaro draw thousands to election-eve rallies</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-24 21:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6090/live/bf46ec40-cfe6-11f1-93e1-3b657b665bcf.jpg" alt="Almost 1,000 arrested as clashes follow another day of mass protests across France" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss" target="_blank">Almost 1,000 arrested as clashes follow another day of mass protests across France</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-24 21:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-09/260928-former-president-barack-obama-vsb-1816-909d6c.jpg" alt="Obama describes Trump as an agent of ‘chaos and cruelty’ in midterm elections pitch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/obama-trump-chaos-cruelty-midterm-election-pitch-acton-ramaswamy-rcna605223" target="_blank">Obama describes Trump as an agent of ‘chaos and cruelty’ in midterm elections pitch</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-10-24 20:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7559/live/33cbd240-cfb2-11f1-9012-0172b9f73a72.jpg" alt="Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss" target="_blank">Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-24 20:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss" target="_blank">Thousands of Israelis rally against Netanyahu gov’t days before election</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-10-24 19:11</span>
@@ -69,47 +100,20 @@
                 <span class="time">2026-10-24 17:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/starlink-ukraine-rt-jt-261016_1792179710209_hpMain_4x3t_384.jpg" alt="Ukraine says Starlink satellite access is fully back after weeklong disruption" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/ukraine-starlink-satellite-access-fully-back-after-weeklong/story?id=137538401" target="_blank">Ukraine says Starlink satellite access is fully back after weeklong disruption</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-24 17:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-volodymyr-zelenskyy_7385610.jpg?20261024144157" alt="Starlink back to &#x27;the level ⁠we need&#x27; in Ukraine, Zelenskyy says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/starlink-back-to-the-level-we-need-in-ukraine-president-zelenskyy-says-13603095" target="_blank">Starlink back to &#x27;the level ⁠we need&#x27; in Ukraine, Zelenskyy says</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-10-24 13:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb37/live/1f328a50-cfa7-11f1-aadb-297fd0a130b9.jpg" alt="Met Police says letter with claims about Meghan&#x27;s father not shared with other law enforcement" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss" target="_blank">Met Police says letter with claims about Meghan&#x27;s father not shared with other law enforcement</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-24 12:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6049/live/9c0d0c10-cf9a-11f1-b441-2b33b063138f.jpg" alt="Ukraine says Starlink connection &#x27;now stable&#x27; after network limits" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine says Starlink connection &#x27;now stable&#x27; after network limits</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-24 11:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/" target="_blank">Starlink seems to be working normally again in Ukraine</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-10-24 20:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -155,20 +159,20 @@
                 <span class="time">2026-10-23 22:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Singapore Boffins Weave a GUI Into Fabric" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://tech.slashdot.org/story/26/10/23/2048215/singapore-boffins-weave-a-gui-into-fabric?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Singapore Boffins Weave a GUI Into Fabric</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://stealmybitcoin.com/" target="_blank">Steal My Bitcoin</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-10-24 20:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -214,29 +218,6 @@
                 <span class="time">2026-10-24 09:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Google’s Data Agent Kit Hits GA, Splitting Agent Guardrails Between Skills and IAM" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/10/data-agent-kit-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google’s Data Agent Kit Hits GA, Splitting Agent Guardrails Between Skills and IAM</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-10-24 08:34</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-increasing-squid-populations.html" target="_blank">Friday Squid Blogging: Increasing Squid Populations</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-10-23 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -258,33 +239,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/10/24/the-haunted-toys-r-us-is-now-an-unhaunted-rei.html" target="_blank">The haunted Toys R Us is now an unhaunted REI</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-10-24 15:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/10/rosebelmont-1280x720.jpg" alt="Belmont’s Curse Taught Me An Important Lesson About Parrying, Namely I Should Do It More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/belmonts-curse-taught-me-an-important-lesson-about-parrying-namely-i-should-do-it-more-2000749181" target="_blank">Belmont’s Curse Taught Me An Important Lesson About Parrying, Namely I Should Do It More</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-23 21:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-10-23 21:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/fountain-pen-kurokawa-onsen-cat-1.jpg?fit=1200%2C1600&amp;quality=60&amp;ssl=1" alt="Kurokawa Onsen has 25 hot springs, but I&#x27;d go back just for this cat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/10/23/fountain-pen-kurokawa-onsen-cat.html" target="_blank">Kurokawa Onsen has 25 hot springs, but I&#x27;d go back just for this cat</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-10-23 20:15</span>
             </div>
         </div>
 </div>
@@ -315,8 +269,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 37 | 📡 Total Sources: 40 | 📸 With Images: 268 |
-        🔄 Last Updated: 19:56 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 37 | 📡 Total Sources: 40 | 📸 With Images: 270 |
+        🔄 Last Updated: 22:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
