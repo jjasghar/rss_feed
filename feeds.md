@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-10-24 22:07:21 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-10-25 00:38:52 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
 <!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, October 24, 2026 - 22:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Sunday, October 25, 2026 - 00:39 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-sv-europe-protests-wrap?traffic_source=rss" target="_blank">Violence breaks out across Europe after another day of protests</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-25 00:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/10/24/nx-s1-6015522/new-york-archdiocese-settlement-agreement" target="_blank">Archdiocese of New York agrees to $800 million settlement over sexual abuse claims</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-10-24 22:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +99,20 @@
                 <span class="time">2026-10-24 20:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss" target="_blank">Thousands of Israelis rally against Netanyahu gov’t days before election</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-24 19:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions" target="_blank">Ukraine says Starlink is back to normal after disruptions</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-24 17:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai" target="_blank">Blue Planet III is keeping the rough edges in the age of AI</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-10-24 21:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -133,6 +141,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/6adbb8a7e6d0c133525c3e7c/master/pass/KernelPanic_The%20PHP%20Meltdown%20Shows%20How%20AI%20Makes%20Bugs%20More%20Exploitable.jpg" alt="The PHP Meltdown Shows How AI Makes Bugs More Exploitable" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/" target="_blank">The PHP Meltdown Shows How AI Makes Bugs More Exploitable</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-10-24 12:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/marscloud-500x500.jpg" alt="A 1,000-mile cloud on Mars may reveal physics never seen in nature" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -141,29 +158,20 @@
                 <span class="time">2026-10-24 11:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/" target="_blank">Startups don’t need to go viral to win customers</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-10-23 23:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/centaur-500x500.jpg" alt="NASA updates lander plans for Moon landings, finally solves long-festering Orion issue" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/" target="_blank">NASA updates lander plans for Moon landings, finally solves long-festering Orion issue</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-10-23 22:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ninjafromqueens/uniswap-v4-security-guide-hooks-pools-and-new-attack-vectors-you-need-to-know-before-deploying-5ip" target="_blank">Uniswap V4 Security Guide: Hooks, Pools, and New Attack Vectors You Need to Know Before Deploying</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-25 00:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,20 +217,20 @@
                 <span class="time">2026-10-24 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.southampton.ac.uk/~doug/quantum_physics/index.html" target="_blank">I Don&#x27;t Understand Quantum Physics (2018)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-10-24 09:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/10/halotvshow-1280x761.jpg" alt="Xbox Reportedly Bungled $500 Million Netflix Exclusivity Deal To Develop Movies, Shows Based On Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/xbox-reportedly-bungled-500-million-netflix-exclusivity-deal-to-develop-movies-shows-based-on-games-2000749336" target="_blank">Xbox Reportedly Bungled $500 Million Netflix Exclusivity Deal To Develop Movies, Shows Based On Games</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-24 22:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/10/breathofthewildmastersword.jpg" alt="Legend Of Zelda Producer Eiji Aonuma Knighted By French Ministry Of Culture" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -255,22 +263,13 @@
                 <span class="time">2026-10-24 15:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/10/24/desrt-bus" target="_blank">Desert Bus!</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-10-24 00:04</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 37 | 📡 Total Sources: 40 | 📸 With Images: 270 |
-        🔄 Last Updated: 22:07 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 37 | 📡 Total Sources: 40 | 📸 With Images: 268 |
+        🔄 Last Updated: 00:39 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
