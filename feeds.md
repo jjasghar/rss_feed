@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-10-25 05:27:53 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-10-25 10:18:55 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, October 25, 2026 - 05:28 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, October 25, 2026 - 10:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/10/25/nx-s1-6011190/meta-facebook-settlement-beauty-filters-ai" target="_blank">When a teen posts a selfie, how much filter is &#x27;too much&#x27; filter?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-10-25 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e831/live/b27def00-cff9-11f1-b0ff-614e4f91e969.jpg" alt="Meghan broke contact with father in letter citing abuse claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&at_campaign=rss" target="_blank">Meghan broke contact with father in letter citing abuse claims</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-25 08:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +100,20 @@
                 <span class="time">2026-10-25 01:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-sv-europe-protests-wrap?traffic_source=rss" target="_blank">Violence breaks out across Europe after another day of protests</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-25 00:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/24/nx-s1-6015522/new-york-archdiocese-settlement-agreement" target="_blank">Archdiocese of New York agrees to $800 million settlement over sexual abuse claims</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-24 22:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6adbc78d80db711000c07c3f/master/pass/Review%20Hyve%20Smart%20Package%20Locker%20102026%20top%20art%20SOURCE%20Shop.com.jpg" alt="Hyve Smart Package Locker Review: Protecting Your Holiday Deliveries" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/hyve-smart-package-locker/" target="_blank">Hyve Smart Package Locker Review: Protecting Your Holiday Deliveries</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-10-25 10:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +159,47 @@
                 <span class="time">2026-10-24 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/marscloud-500x500.jpg" alt="A 1,000-mile cloud on Mars may reveal physics never seen in nature" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/" target="_blank">A 1,000-mile cloud on Mars may reveal physics never seen in nature</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-10-24 11:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fraw.githubusercontent.com%2FNirajkam%2Fweek3%2Fmain%2Fsubmission%2Fweek3-cover.svg" alt="# SlothSort: a local-first file organizer for people who would rather not sort files" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nirajthapawork/-slothsort-a-local-first-file-organizer-for-people-who-would-rather-not-sort-files-4dni" target="_blank"># SlothSort: a local-first file organizer for people who would rather not sort files</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-25 10:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17506301/mirko-brombin-raven" target="_blank">Bottles Creator Mirko Brombin Wants Microsoft Office on Linux, Not Its Clones</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-10-25 10:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order" target="_blank">Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-10-25 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/10/pingcap-cloud-data-breach/en/headerimage/generatedHeaderImage-1792787545089.jpg" alt="PingCAP Breach Exposes Customer Records and Source Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/10/pingcap-cloud-data-breach/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">PingCAP Breach Exposes Customer Records and Source Code</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-10-25 06:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -179,47 +218,20 @@
                 <span class="time">2026-10-25 00:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://stealmybitcoin.com/" target="_blank">Steal My Bitcoin</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-10-24 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.roku.com/developer/gitlab-move" target="_blank">Roku developer repositories moved from GitHub to GitLab</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-10-24 16:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/10/google-argon-optimizes-adk/en/headerimage/functiongemma-1792855681633.jpeg" alt="Google Optimizes Agent Development Kit&#x27;s 200K-line Python Codebase Overnight with Gemini 4 Argon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/10/google-argon-optimizes-adk/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Optimizes Agent Development Kit&#x27;s 200K-line Python Codebase Overnight with Gemini 4 Argon</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-10-24 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://astral.sh/blog/uv-ty-integration" target="_blank">Bringing uv and ty together</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-10-24 15:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/10/meuniverse1-1280x720.jpg" alt="Mass Effect: Universe Would Have Allowed Players To ‘Generate’ Timelines That Acknowledged Multiple Choices From The Trilogy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/mass-effect-universe-would-have-allowed-players-to-generate-timelines-that-acknowledged-multiple-choices-from-the-trilogy-2000749344" target="_blank">Mass Effect: Universe Would Have Allowed Players To ‘Generate’ Timelines That Acknowledged Multiple Choices From The Trilogy</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-25 01:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/10/halotvshow-1280x761.jpg" alt="Xbox Reportedly Bungled $500 Million Netflix Exclusivity Deal To Develop Movies, Shows Based On Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,8 +278,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 38 | 📡 Total Sources: 40 | 📸 With Images: 267 |
-        🔄 Last Updated: 05:28 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 42 | 📡 Total Sources: 40 | 📸 With Images: 267 |
+        🔄 Last Updated: 10:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
