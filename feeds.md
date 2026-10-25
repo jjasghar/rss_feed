@@ -1,43 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-10-25 14:38:50 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-25 17:56:34 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 34 feeds processed -->
+<!-- Generated 11 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, October 25, 2026 - 14:39 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Sunday, October 25, 2026 - 17:56 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/10/25/can-protests-in-europe-bring-about-change?traffic_source=rss" target="_blank">Can protests in Europe bring about change?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-25 17:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/gettyimages-2298720837-594x594_1792940290118_hpMain_4x3t_384.jpg" alt="US Marine indicted in alleged Okinawa robbery homicide" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/us-marine-indicted-alleged-okinawa-robbery-homicide/story?id=137553792" target="_blank">US Marine indicted in alleged Okinawa robbery homicide</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-25 16:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/1792937049246_Mtp_full_schiffimpeachment_261025_S3_1920x1080-a2v3az.jpg" alt="Adam Schiff says Democrats should put &#x27;overriding emphasis&#x27; on costs, not impeachment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/adam-schiff-says-democrats-should-put-overriding-emphasis-on-costs-not-impeachment-272191557816" target="_blank">Adam Schiff says Democrats should put &#x27;overriding emphasis&#x27; on costs, not impeachment</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-10-25 14:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/colom-1-ap-jef-261022_1792689297854_hpMain_4x3t_384.jpg" alt="Democrat Scott Colom aims for deep-red Mississippi Senate seat" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -72,39 +94,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e831/live/b27def00-cff9-11f1-b0ff-614e4f91e969.jpg" alt="Meghan broke contact with father in letter citing abuse claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b53/live/c94ca0d0-d041-11f1-950a-2dcbf5245e34.jpg" alt="Musk says SpaceX restricted Ukraine&#x27;s Starlink connection as service restored" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&at_campaign=rss" target="_blank">Meghan broke contact with father in letter citing abuse claims</a></span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss" target="_blank">Musk says SpaceX restricted Ukraine&#x27;s Starlink connection as service restored</a></span>
                 <span class="feed">BBC News</span>
-                <span class="time">2026-10-25 08:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/25/serbia-votes-in-election-pitting-longtime-leader-against-student-movement?traffic_source=rss" target="_blank">Serbia votes in election pitting longtime leader against student movement</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-25 04:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/25/nx-s1-5992998/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers" target="_blank">Drought, fire and high diesel prices &#x27;addin&#x27; up tough&#x27; for Oregon ranchers</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-25 04:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/acton_1792880897934_hpMain_4x3t_384.jpg" alt="Amy Acton says Trump, Vance should &#x27;look at the facts&#x27; after Ramaswamy attack ad" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/amy-acton-trump-vance-facts-abuse-after-ramaswamy/story?id=137543717" target="_blank">Amy Acton says Trump, Vance should &#x27;look at the facts&#x27; after Ramaswamy attack ad</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-25 02:03</span>
+                <span class="time">2026-10-25 09:00</span>
             </div>
         </div>
 </div>
@@ -112,6 +107,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/" target="_blank">AI delivers ‘zero financial payoff’ to most companies, Apollo economist says</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-10-25 16:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -157,20 +161,38 @@
                 <span class="time">2026-10-24 20:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/" target="_blank">The AI graveyard: a running list of projects and startups that didn’t make it</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-10-24 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://lynchlab.net/llm-skin-cancer" target="_blank">A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-10-25 17:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/10/google-ml-drift/en/headerimage/gemini-agentic-vision-1792946554031.jpg" alt="Google ML Drift Accelerates On-Device AI Inference Across Diverse GPUs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/10/google-ml-drift/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google ML Drift Accelerates On-Device AI Inference Across Diverse GPUs</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-10-25 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wayland-ext-transient-output" target="_blank">New Wayland Protocol Proposed For VNC/Remote Software</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-25 15:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,33 +218,6 @@
                 <span class="title"><a href="https://dev.to/nirajthapawork/-slothsort-a-local-first-file-organizer-for-people-who-would-rather-not-sort-files-4dni" target="_blank"># SlothSort: a local-first file organizer for people who would rather not sort files</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-10-25 10:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17506301/mirko-brombin-raven" target="_blank">Bottles Creator Mirko Brombin Wants Microsoft Office on Linux, Not Its Clones</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-10-25 10:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order" target="_blank">Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-10-25 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/10/pingcap-cloud-data-breach/en/headerimage/generatedHeaderImage-1792787545089.jpg" alt="PingCAP Breach Exposes Customer Records and Source Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/10/pingcap-cloud-data-breach/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">PingCAP Breach Exposes Customer Records and Source Code</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-10-25 06:27</span>
             </div>
         </div>
 </div>
@@ -258,6 +253,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/HP-EliteBook-830-G8-13-1200.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="A business-class HP EliteBook with 32GB of RAM is $430 refurbished" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/10/24/a-business-class-hp-elitebook-with-32gb-of-ram-is-430-refurbished.html" target="_blank">A business-class HP EliteBook with 32GB of RAM is $430 refurbished</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-10-24 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/10/breathofthewildmastersword.jpg" alt="Legend Of Zelda Producer Eiji Aonuma Knighted By French Ministry Of Culture" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -266,27 +270,18 @@
                 <span class="time">2026-10-24 19:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/toysrus.jpg?fit=1200%2C858&amp;quality=60&amp;ssl=1" alt="The haunted Toys R Us is now an unhaunted REI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/10/24/the-haunted-toys-r-us-is-now-an-unhaunted-rei.html" target="_blank">The haunted Toys R Us is now an unhaunted REI</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-10-24 15:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
-            <img src="https://www.smbc-comics.com/comics/1792794277-20261024.png" alt="Saturday Morning Breakfast Cereal - Watch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1792883115-20261025.png" alt="Saturday Morning Breakfast Cereal - XXL" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/watch-2" target="_blank">Saturday Morning Breakfast Cereal - Watch</a></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/xxl" target="_blank">Saturday Morning Breakfast Cereal - XXL</a></span>
                 <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-10-24 15:30</span>
+                <span class="time">2026-10-25 15:20</span>
             </div>
         </div>
 </div>
@@ -294,8 +289,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 44 | 📡 Total Sources: 40 | 📸 With Images: 267 |
-        🔄 Last Updated: 14:39 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 47 | 📡 Total Sources: 41 | 📸 With Images: 268 |
+        🔄 Last Updated: 17:56 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
