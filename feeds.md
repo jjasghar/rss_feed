@@ -1,34 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-10-25 20:12:35 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-25 22:53:31 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Generated 2 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, October 25, 2026 - 20:12 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Sunday, October 25, 2026 - 22:53 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +43,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss" target="_blank">Real Madrid beat Barcelona 2-1 at Camp Nou to halve gap to La Liga leaders</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-25 22:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/the-listening-post/2026/10/25/the-narrative-battle-over-frances-unrest?traffic_source=rss" target="_blank">The narrative battle over France’s unrest</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-10-25 19:36</span>
@@ -60,6 +64,15 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/c60qk44w9wglo?at_medium=RSS&at_campaign=rss" target="_blank">Letter making claims about Meghan&#x27;s father written by his first wife, BBC understands</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-10-25 18:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-zelenskyy-ukraine_7387115.jpg?20261025192802" alt="Talks between Ukraine, Russia and US to be held next month" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/meeting-between-ukraine-russia-and-us-to-be-held-next-month-zelenskyy-says-13603718" target="_blank">Talks between Ukraine, Russia and US to be held next month</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-10-25 18:09</span>
             </div>
         </div>
 <div class="story">
@@ -78,24 +91,6 @@
                 <span class="title"><a href="https://abcnews.com/International/us-marine-indicted-alleged-okinawa-robbery-homicide/story?id=137553792" target="_blank">US Marine indicted in alleged Okinawa robbery homicide</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-10-25 16:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/1792937049246_Mtp_full_schiffimpeachment_261025_S3_1920x1080-a2v3az.jpg" alt="Adam Schiff says Democrats should put &#x27;overriding emphasis&#x27; on costs, not impeachment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/adam-schiff-says-democrats-should-put-overriding-emphasis-on-costs-not-impeachment-272191557816" target="_blank">Adam Schiff says Democrats should put &#x27;overriding emphasis&#x27; on costs, not impeachment</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-10-25 14:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/colom-1-ap-jef-261022_1792689297854_hpMain_4x3t_384.jpg" alt="Democrat Scott Colom aims for deep-red Mississippi Senate seat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/democrats-aim-deep-red-mississippi-senate-seat-scott/story?id=137484924" target="_blank">Democrat Scott Colom aims for deep-red Mississippi Senate seat</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-25 14:00</span>
             </div>
         </div>
 </div>
@@ -149,12 +144,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Singapore Boffins Weave a GUI Into Fabric" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai" target="_blank">Blue Planet III is keeping the rough edges in the age of AI</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-10-24 21:29</span>
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://tech.slashdot.org/story/26/10/23/2048215/singapore-boffins-weave-a-gui-into-fabric?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Singapore Boffins Weave a GUI Into Fabric</a></span>
+                <span class="feed">Slashdot</span>
+                
             </div>
         </div>
 </div>
@@ -239,24 +234,6 @@
                 <span class="time">2026-10-25 01:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/10/halotvshow-1280x761.jpg" alt="Xbox Reportedly Bungled $500 Million Netflix Exclusivity Deal To Develop Movies, Shows Based On Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/xbox-reportedly-bungled-500-million-netflix-exclusivity-deal-to-develop-movies-shows-based-on-games-2000749336" target="_blank">Xbox Reportedly Bungled $500 Million Netflix Exclusivity Deal To Develop Movies, Shows Based On Games</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-24 22:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/HP-EliteBook-830-G8-13-1200.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="A business-class HP EliteBook with 32GB of RAM is $430 refurbished" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/10/24/a-business-class-hp-elitebook-with-32gb-of-ram-is-430-refurbished.html" target="_blank">A business-class HP EliteBook with 32GB of RAM is $430 refurbished</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-10-24 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -276,8 +253,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 50 | 📡 Total Sources: 41 | 📸 With Images: 266 |
-        🔄 Last Updated: 20:12 UTC
+        📊 Displayed: 21 | 📅 Last 24h: 41 | 📡 Total Sources: 41 | 📸 With Images: 266 |
+        🔄 Last Updated: 22:53 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
