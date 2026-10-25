@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-10-25 00:38:52 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-25 05:27:53 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Sunday, October 25, 2026 - 00:39 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, October 25, 2026 - 05:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +47,42 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/25/serbia-votes-in-election-pitting-longtime-leader-against-student-movement?traffic_source=rss" target="_blank">Serbia votes in election pitting longtime leader against student movement</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-25 04:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/10/25/nx-s1-5992998/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers" target="_blank">Drought, fire and high diesel prices &#x27;addin&#x27; up tough&#x27; for Oregon ranchers</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-10-25 04:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/acton_1792880897934_hpMain_4x3t_384.jpg" alt="Amy Acton says Trump, Vance should &#x27;look at the facts&#x27; after Ramaswamy attack ad" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/amy-acton-trump-vance-facts-abuse-after-ramaswamy/story?id=137543717" target="_blank">Amy Acton says Trump, Vance should &#x27;look at the facts&#x27; after Ramaswamy attack ad</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-25 02:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-lula-bolsonaro_7386344.jpg?20261025020543" alt="Brazilians go to polls today with left-winger and son of Trump ally neck and neck" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/brazilians-go-to-polls-today-with-luiz-inacio-lula-da-silva-and-flavio-bolsonaro-neck-and-neck-13603442" target="_blank">Brazilians go to polls today with left-winger and son of Trump ally neck and neck</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-10-25 01:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-sv-europe-protests-wrap?traffic_source=rss" target="_blank">Violence breaks out across Europe after another day of protests</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-10-25 00:23</span>
@@ -61,42 +95,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/10/24/nx-s1-6015522/new-york-archdiocese-settlement-agreement" target="_blank">Archdiocese of New York agrees to $800 million settlement over sexual abuse claims</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-10-24 22:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/24/brazils-lula-bolsonaro-draw-thousands-to-election-eve-rallies?traffic_source=rss" target="_blank">Brazil’s Lula, Bolsonaro draw thousands to election-eve rallies</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-24 21:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6090/live/bf46ec40-cfe6-11f1-93e1-3b657b665bcf.jpg" alt="Almost 1,000 arrested as clashes follow another day of mass protests across France" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss" target="_blank">Almost 1,000 arrested as clashes follow another day of mass protests across France</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-24 21:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-09/260928-former-president-barack-obama-vsb-1816-909d6c.jpg" alt="Obama describes Trump as an agent of ‘chaos and cruelty’ in midterm elections pitch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/obama-trump-chaos-cruelty-midterm-election-pitch-acton-ramaswamy-rcna605223" target="_blank">Obama describes Trump as an agent of ‘chaos and cruelty’ in midterm elections pitch</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-10-24 20:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7559/live/33cbd240-cfb2-11f1-9012-0172b9f73a72.jpg" alt="Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss" target="_blank">Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-24 20:30</span>
             </div>
         </div>
 </div>
@@ -166,6 +164,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.4-Block" target="_blank">Linux 7.4 Block Updates Range From Floppy Disk Driver Fixes To Apple M4 NVMe Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-25 00:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ninjafromqueens/uniswap-v4-security-guide-hooks-pools-and-new-attack-vectors-you-need-to-know-before-deploying-5ip" target="_blank">Uniswap V4 Security Guide: Hooks, Pools, and New Attack Vectors You Need to Know Before Deploying</a></span>
                 <span class="feed">DEV Community</span>
@@ -206,15 +213,6 @@
                 <span class="title"><a href="https://astral.sh/blog/uv-ty-integration" target="_blank">Bringing uv and ty together</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2026-10-24 15:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.4-memblock" target="_blank">Linux&#x27;s Early Boot-Time Physical Memory Allocator Sees Big Speed-Up: ~268s To ~50ms</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-10-24 13:00</span>
             </div>
         </div>
 </div>
@@ -268,8 +266,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 37 | 📡 Total Sources: 40 | 📸 With Images: 268 |
-        🔄 Last Updated: 00:39 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 38 | 📡 Total Sources: 40 | 📸 With Images: 267 |
+        🔄 Last Updated: 05:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
