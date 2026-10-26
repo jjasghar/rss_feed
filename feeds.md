@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-10-26 17:48:14 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-10-26 22:01:12 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 30 feeds processed -->
+<!-- Generated 12 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, October 26, 2026 - 17:48 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Monday, October 26, 2026 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-5-ap-gmh-261026_1793046150106_hpMain_4x3t_384.jpg" alt="Trump offers $1M reward for people who report voter fraud in past, upcoming elections" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-offers-1m-reward-people-report-voter-fraud/story?id=137581908" target="_blank">Trump offers $1M reward for people who report voter fraud in past, upcoming elections</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-26 20:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,6 +82,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of" target="_blank">UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-10-26 15:07</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/1793026641537_now_current_brk_anthropic_ipo_261026_S3_1920x1080-mafeew.jpg" alt="AI startup Anthropic unveils its public IPO filing for the first time" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
@@ -85,29 +99,29 @@
                 <span class="time">2026-10-26 14:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/26/nx-s1-6014772/anthropic-ai-ipo-could-break-records" target="_blank">AI giant Anthropic files for an IPO that could break records</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-26 14:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3365/live/16d03480-d118-11f1-b441-2b33b063138f.jpg" alt="Storm Boelo leaves 90,000 without power as Met Office issues new wind warning" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss" target="_blank">Storm Boelo leaves 90,000 without power as Met Office issues new wind warning</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-26 11:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale" target="_blank">Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-10-26 21:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/larvae-released-500x500.jpg" alt="Worms mate in man&#x27;s eyes, get plucked out right before larvae burst out" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/10/whats-worse-than-having-eye-worms-having-eye-worms-with-babies/" target="_blank">Worms mate in man&#x27;s eyes, get plucked out right before larvae burst out</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-10-26 20:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,29 +158,38 @@
                 <span class="time">2026-10-26 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge" target="_blank">iFixit&amp;#8217;s look inside the iPhone Duo may explain those broken screens and hinges</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-10-25 21:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/1018275/zen-browser-arc-replacement" target="_blank">Zen Browser is the Arc replacement I was looking for</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-10-25 19:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/10/agntcon-mcpcon-2026/en/headerimage/agntcon-header-1792936265463.jpg" alt="AGNTCon + MCPCon 2026: Agentic AI Foundation Adds Four Projects as MCP Turns to Security" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/10/agntcon-mcpcon-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AGNTCon + MCPCon 2026: Agentic AI Foundation Adds Four Projects as MCP Turns to Security</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-10-26 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/geminate_solutions_9b6035/migrating-an-application-to-the-cloud-nodejs-graceful-shutdown-2a58" target="_blank">Migrating an Application to the Cloud: Node.js Graceful Shutdown</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-26 21:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md" target="_blank">Type Server Protocol</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-10-26 18:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,33 +217,6 @@
                 <span class="time">2026-10-26 14:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aiio_8140/stop-counting-calls-start-counting-accepted-outputs-a-five-stage-token-ledger-tutorial-5gi6" target="_blank">Stop Counting Calls, Start Counting Accepted Outputs: A Five-Stage Token Ledger Tutorial</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-26 11:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-CAS-Regression-AMD-HX-370" target="_blank">Linux Fixes AMD Ryzen AI 9 HX 370 Regression Due To Cache Aware Scheduling</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-10-26 10:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blocks.manifold3d.ch/" target="_blank">Switzerland. Block by block. At 1:1 scale</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-10-26 08:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/gta-6-1.jpg" alt="AI Has Triggered A PS5 Homebrew Gold Rush, But It’s Also The Reason GTA 6 Can’t Be Pirated At Release" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ai-has-triggered-a-ps5-homebrew-gold-rush-but-its-also-the-reason-gta-6-cant-be-pirated-at-release-2000749776" target="_blank">AI Has Triggered A PS5 Homebrew Gold Rush, But It’s Also The Reason GTA 6 Can’t Be Pirated At Release</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-26 21:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/Cheerble-Ball-1200.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Retire the laser pointer and let this $27 self-rolling ball tire out your cat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/10/26/retire-the-laser-pointer-and-let-this-27-self-rolling-ball-tire-out-your-cat.html" target="_blank">Retire the laser pointer and let this $27 self-rolling ball tire out your cat</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-10-26 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/10/koenig-1280x720.jpg" alt="Walter Koenig, Star Of Star Trek And Babylon 5, Dies Aged 90" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,6 +287,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.smbc-comics.com/comics/1792967615-20261026.png" alt="Saturday Morning Breakfast Cereal - Order" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/order-3" target="_blank">Saturday Morning Breakfast Cereal - Order</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-10-26 15:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -295,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 45 | 📡 Total Sources: 40 | 📸 With Images: 265 |
-        🔄 Last Updated: 17:48 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 48 | 📡 Total Sources: 40 | 📸 With Images: 265 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
