@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-10-26 00:49:30 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-26 05:32:33 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Generated 11 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Monday, October 26, 2026 - 00:49 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, October 26, 2026 - 05:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +49,42 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/politics/2026/oct/26/uk-international-aid-target-spending-shortfall-budget-research" target="_blank">Labour urged to plug predicted £400m shortfall in overseas aid funding in 2027</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-10-26 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3454/live/c15b5b00-d0af-11f1-84bc-f3a33719a550.jpg" alt="Two men killed by falling trees as Storm Boelo leaves 90,000 properties without power" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss" target="_blank">Two men killed by falling trees as Storm Boelo leaves 90,000 properties without power</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-26 04:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a400/live/789d12b0-d0f9-11f1-93e1-3b657b665bcf.jpg" alt="Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss" target="_blank">Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-26 01:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election" target="_blank">Brazil&#x27;s left-wing President Lula elected for fourth term</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-10-26 00:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss" target="_blank">Lula holds off far right with victory in Brazil presidential election</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
@@ -53,48 +92,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e676/live/8534e970-d0c8-11f1-b441-2b33b063138f.jpg" alt="Serbia&#x27;s veteran ruler Vučić concedes election to student-led protest movement" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://s.abcnews.com/images/Politics/AP26289523858830_1792898723099_hpMain_4x3t_384.jpg" alt="Appeals court hears arguments in Trump admin&#x27;s voting suit against California" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss" target="_blank">Serbia&#x27;s veteran ruler Vučić concedes election to student-led protest movement</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-25 22:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3454/live/c15b5b00-d0af-11f1-84bc-f3a33719a550.jpg" alt="Two men killed by falling trees as Storm Boelo leaves 160,000 properties without power" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss" target="_blank">Two men killed by falling trees as Storm Boelo leaves 160,000 properties without power</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-25 22:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss" target="_blank">Real Madrid beat Barcelona 2-1 at Camp Nou to halve gap to La Liga leaders</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-25 22:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/the-listening-post/2026/10/25/the-narrative-battle-over-frances-unrest?traffic_source=rss" target="_blank">The narrative battle over France’s unrest</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-25 19:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec0f/live/9f405020-d096-11f1-93e1-3b657b665bcf.jpg" alt="Letter making claims about Meghan&#x27;s father written by his first wife, BBC understands" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c60qk44w9wglo?at_medium=RSS&at_campaign=rss" target="_blank">Letter making claims about Meghan&#x27;s father written by his first wife, BBC understands</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-25 18:38</span>
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/federal-appeals-court-hear-arguments-trump-administrations-voting/story?id=137546706" target="_blank">Appeals court hears arguments in Trump admin&#x27;s voting suit against California</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-25 23:48</span>
             </div>
         </div>
 </div>
@@ -102,6 +105,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge" target="_blank">iFixit&amp;#8217;s look inside the iPhone Duo may explain those broken screens and hinges</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-10-25 21:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +159,20 @@
                 <span class="time">2026-10-25 10:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Singapore Boffins Weave a GUI Into Fabric" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://tech.slashdot.org/story/26/10/23/2048215/singapore-boffins-weave-a-gui-into-fabric?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Singapore Boffins Weave a GUI Into Fabric</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1y8cw0yr7rpucsqgrfpt.png" alt="Two Roads, One Plan View: Modeling Seattle&#x27;s SR 99 Tunnel in 3D" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/genanywhere/two-roads-one-plan-view-modeling-seattles-sr-99-tunnel-in-3d-52d" target="_blank">Two Roads, One Plan View: Modeling Seattle&#x27;s SR 99 Tunnel in 3D</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-26 05:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -168,6 +180,15 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Redox-OS-September-2026" target="_blank">Redox OS Landed Nice Performance Improvements In September</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-10-26 00:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2024/03/launchpad-406x232.jpg" alt="Ubuntu users can now file bugs against specific Launchpad PPAs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/launchpad-ppa-dedicated-bug-tracker" target="_blank">Ubuntu users can now file bugs against specific Launchpad PPAs</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-10-25 23:41</span>
             </div>
         </div>
 <div class="story">
@@ -197,29 +218,20 @@
                 <span class="time">2026-10-25 18:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://lynchlab.net/llm-skin-cancer" target="_blank">A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-10-25 17:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/10/google-ml-drift/en/headerimage/gemini-agentic-vision-1792946554031.jpg" alt="Google ML Drift Accelerates On-Device AI Inference Across Diverse GPUs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/10/google-ml-drift/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google ML Drift Accelerates On-Device AI Inference Across Diverse GPUs</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-10-25 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/10/IMG_1307.jpeg" alt="Eric Bauza, The Voice Of Bugs Bunny, Daffy Duck, And Many More Has Died At 46" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/eric-bauza-looney-tunes-death-dies-announcement-2000749416" target="_blank">Eric Bauza, The Voice Of Bugs Bunny, Daffy Duck, And Many More Has Died At 46</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-26 03:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/10/werewolfthelastwarrior.jpg" alt="Google’s Finnish Data Centers Were Already In Trouble Over Deforestation, Then The Wolves Came" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -236,15 +248,6 @@
                 <span class="title"><a href="https://kotaku.com/vinland-sagas-creator-has-no-good-news-on-season-3-the-project-is-not-currently-in-progress-2000749374" target="_blank">Vinland Saga’s Creator Has ‘No Good News’ On Season 3: ‘The Project Is Not Currently In Progress’</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-10-25 14:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/10/meuniverse1-1280x720.jpg" alt="Mass Effect: Universe Would Have Allowed Players To ‘Generate’ Timelines That Acknowledged Multiple Choices From The Trilogy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/mass-effect-universe-would-have-allowed-players-to-generate-timelines-that-acknowledged-multiple-choices-from-the-trilogy-2000749344" target="_blank">Mass Effect: Universe Would Have Allowed Players To ‘Generate’ Timelines That Acknowledged Multiple Choices From The Trilogy</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-25 01:46</span>
             </div>
         </div>
 </div>
@@ -266,8 +269,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 43 | 📡 Total Sources: 41 | 📸 With Images: 266 |
-        🔄 Last Updated: 00:49 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 47 | 📡 Total Sources: 41 | 📸 With Images: 269 |
+        🔄 Last Updated: 05:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
