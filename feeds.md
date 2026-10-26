@@ -1,36 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-10-26 05:32:33 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-10-26 11:46:11 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 11 new posts out of 28 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, October 26, 2026 - 05:32 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, October 26, 2026 - 11:46 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3365/live/16d03480-d118-11f1-b441-2b33b063138f.jpg" alt="Storm Boelo leaves 90,000 without power as Met Office issues new wind warning" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss" target="_blank">Storm Boelo leaves 90,000 without power as Met Office issues new wind warning</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-26 11:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/capitol-2-ap-gmh-261023_1792792152730_hpMain_4x3t_384.jpg" alt="These key Senate races will determine which party controls the body next year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/key-senate-races-determine-party-controls-body-year/story?id=137301095" target="_blank">These key Senate races will determine which party controls the body next year</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-26 11:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +95,20 @@
                 <span class="time">2026-10-26 00:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss" target="_blank">Lula holds off far right with victory in Brazil presidential election</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-26 00:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/AP26289523858830_1792898723099_hpMain_4x3t_384.jpg" alt="Appeals court hears arguments in Trump admin&#x27;s voting suit against California" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/federal-appeals-court-hear-arguments-trump-administrations-voting/story?id=137546706" target="_blank">Appeals court hears arguments in Trump admin&#x27;s voting suit against California</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-25 23:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/features/1017836/flock-huntington-west-virginia-surveillance-ballot-measure" target="_blank">The city that fought Flock</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-10-26 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +154,38 @@
                 <span class="time">2026-10-25 13:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6adbc78d80db711000c07c3f/master/pass/Review%20Hyve%20Smart%20Package%20Locker%20102026%20top%20art%20SOURCE%20Shop.com.jpg" alt="Hyve Smart Package Locker Review: Protecting Your Holiday Deliveries" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/hyve-smart-package-locker/" target="_blank">Hyve Smart Package Locker Review: Protecting Your Holiday Deliveries</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-10-25 10:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aiio_8140/stop-counting-calls-start-counting-accepted-outputs-a-five-stage-token-ledger-tutorial-5gi6" target="_blank">Stop Counting Calls, Start Counting Accepted Outputs: A Five-Stage Token Ledger Tutorial</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-26 11:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-CAS-Regression-AMD-HX-370" target="_blank">Linux Fixes AMD Ryzen AI 9 HX 370 Regression Due To Cache Aware Scheduling</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-26 10:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blocks.manifold3d.ch/" target="_blank">Switzerland. Block by block. At 1:1 scale</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-10-26 08:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1y8cw0yr7rpucsqgrfpt.png" alt="Two Roads, One Plan View: Modeling Seattle&#x27;s SR 99 Tunnel in 3D" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -191,31 +213,18 @@
                 <span class="time">2026-10-25 23:41</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lamama/a-retry-safe-handoff-contract-for-long-ai-chats-28pe" target="_blank">A Retry-Safe Handoff Contract for Long AI Chats</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-25 20:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://imaginationlibrary.com/" target="_blank">Dolly Parton&#x27;s Imagination Library</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-10-25 18:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/10/php-critical-rce-patches/en/headerimage/generatedHeaderImage-1792866020447.jpg" alt="PHP Patches Two Critical RCE Flaws That Were Already Under Attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/10/php-critical-rce-patches/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">PHP Patches Two Critical RCE Flaws That Were Already Under Attack</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-10-25 18:07</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/10/bias-in-qwen3-coder-model.html" target="_blank">Bias in Qwen3-Coder Model</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-10-26 11:03</span>
             </div>
         </div>
 </div>
@@ -242,6 +251,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/AdGuard-DNS-Personal-1200.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Stop letting trackers get comfy — 5 years of AdGuard DNS protection is just $23 through today" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/10/25/stop-letting-trackers-get-comfy-5-years-of-adguard-dns-protection-is-just-23-through-today.html" target="_blank">Stop letting trackers get comfy — 5 years of AdGuard DNS protection is just $23 through today</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-10-25 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/10/Vinland-Saga-season-1-official-key-visual-Netflix-1280x720.jpg" alt="Vinland Saga’s Creator Has ‘No Good News’ On Season 3: ‘The Project Is Not Currently In Progress’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -256,6 +274,24 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/10/26/back-to-back-rap-tracks" target="_blank">Back To Back Rap Tracks</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-10-26 07:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.questionablecontent.net/comics/5946.png" alt="Hanners Lore" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5946" target="_blank">Hanners Lore</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-10-26 00:57</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1792883115-20261025.png" alt="Saturday Morning Breakfast Cereal - XXL" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -269,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 47 | 📡 Total Sources: 41 | 📸 With Images: 269 |
-        🔄 Last Updated: 05:32 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 48 | 📡 Total Sources: 40 | 📸 With Images: 268 |
+        🔄 Last Updated: 11:46 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
