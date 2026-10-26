@@ -1,31 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-10-26 11:46:11 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-26 17:48:14 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 23 feeds processed -->
+<!-- Generated 12 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, October 26, 2026 - 11:46 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, October 26, 2026 - 17:48 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +50,51 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/26/britain-sanctions-sudanese-commanders-over-weaponised-rape?traffic_source=rss" target="_blank">Britain sanctions Sudanese commanders over weaponised rape</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-26 17:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eab1/live/a6b767f0-d15c-11f1-a701-fddedf244c16.jpg" alt="Lula wins fourth term in dramatic Brazil election comeback" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss" target="_blank">Lula wins fourth term in dramatic Brazil election comeback</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-26 16:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a43b/live/79bb9a20-603f-11f1-89a3-d1f559421220.jpg" alt="Independent review announced into murder of student Henry Nowak" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cv70pnw784x7o?at_medium=RSS&at_campaign=rss" target="_blank">Independent review announced into murder of student Henry Nowak</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-26 16:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/1793026641537_now_current_brk_anthropic_ipo_261026_S3_1920x1080-mafeew.jpg" alt="AI startup Anthropic unveils its public IPO filing for the first time" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/ai-startup-anthropic-unveils-its-public-ipo-filing-for-the-first-time-272224837929" target="_blank">AI startup Anthropic unveils its public IPO filing for the first time</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-10-26 14:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/10/26/nx-s1-6014772/anthropic-ai-ipo-could-break-records" target="_blank">AI giant Anthropic files for an IPO that could break records</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-10-26 14:16</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3365/live/16d03480-d118-11f1-b441-2b33b063138f.jpg" alt="Storm Boelo leaves 90,000 without power as Met Office issues new wind warning" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -50,56 +103,38 @@
                 <span class="time">2026-10-26 11:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/capitol-2-ap-gmh-261023_1792792152730_hpMain_4x3t_384.jpg" alt="These key Senate races will determine which party controls the body next year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/key-senate-races-determine-party-controls-body-year/story?id=137301095" target="_blank">These key Senate races will determine which party controls the body next year</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-26 11:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/politics/2026/oct/26/uk-international-aid-target-spending-shortfall-budget-research" target="_blank">Labour urged to plug predicted £400m shortfall in overseas aid funding in 2027</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-10-26 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3454/live/c15b5b00-d0af-11f1-84bc-f3a33719a550.jpg" alt="Two men killed by falling trees as Storm Boelo leaves 90,000 properties without power" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss" target="_blank">Two men killed by falling trees as Storm Boelo leaves 90,000 properties without power</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-26 04:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a400/live/789d12b0-d0f9-11f1-93e1-3b657b665bcf.jpg" alt="Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss" target="_blank">Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-26 01:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election" target="_blank">Brazil&#x27;s left-wing President Lula elected for fourth term</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-26 00:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/" target="_blank">This startup’s self-driving excavators help dig up $600M in new funding</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-10-26 17:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/via-Cook-County-Sheriffs-Office-X-500x500.jpeg" alt="Highway thieves are spoofing GPS to steal millions in data center-bound cargo" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/" target="_blank">Highway thieves are spoofing GPS to steal millions in data center-bound cargo</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-10-26 17:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6adf6d7844b1eb496ab79957/master/pass/Business_The%20Anthropic%20IPO%20Is%20Also%20a%20Doomsday%20Primer_v1.jpg" alt="The Anthropic S-1 Filing Is Also an AI Doomsday Primer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/" target="_blank">The Anthropic S-1 Filing Is Also an AI Doomsday Primer</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-10-26 16:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -127,38 +162,38 @@
                 <span class="time">2026-10-25 19:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/" target="_blank">AI delivers ‘zero financial payoff’ to most companies, Apollo economist says</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-10-25 16:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/" target="_blank">The hottest AI wearables and gadgets you should know about</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-10-25 14:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban" target="_blank">r/opensource just banned AI, non-English speakers, and more</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-10-25 13:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/KDE-KWin-Type" target="_blank">KWin-Type Introduced To Address KDE Wayland Usability Gap For Auto-Typing Text</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-26 17:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://magazine.sebastianraschka.com/p/building-reasoning-models" target="_blank">Sebastian Raschka&#x27;s from-scratch video course on building reasoning models</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-10-26 15:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17506987/amutable-foundations-private-preview" target="_blank">Systemd Creator’s Startup Opens Signups for Private Preview of its Linux System</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-10-26 14:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -186,33 +221,6 @@
                 <span class="time">2026-10-26 08:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1y8cw0yr7rpucsqgrfpt.png" alt="Two Roads, One Plan View: Modeling Seattle&#x27;s SR 99 Tunnel in 3D" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/genanywhere/two-roads-one-plan-view-modeling-seattles-sr-99-tunnel-in-3d-52d" target="_blank">Two Roads, One Plan View: Modeling Seattle&#x27;s SR 99 Tunnel in 3D</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-26 05:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Redox-OS-September-2026" target="_blank">Redox OS Landed Nice Performance Improvements In September</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-10-26 00:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2024/03/launchpad-406x232.jpg" alt="Ubuntu users can now file bugs against specific Launchpad PPAs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/launchpad-ppa-dedicated-bug-tracker" target="_blank">Ubuntu users can now file bugs against specific Launchpad PPAs</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-10-25 23:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +241,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/10/koenig-1280x720.jpg" alt="Walter Koenig, Star Of Star Trek And Babylon 5, Dies Aged 90" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/walter-koenig-star-of-star-trek-and-babylon-5-dies-aged-90-2000749786" target="_blank">Walter Koenig, Star Of Star Trek And Babylon 5, Dies Aged 90</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-26 16:51</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/10/IMG_1307.jpeg" alt="Eric Bauza, The Voice Of Bugs Bunny, Daffy Duck, And Many More Has Died At 46" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -248,24 +265,6 @@
                 <span class="title"><a href="https://kotaku.com/googles-finnish-data-centers-were-already-in-trouble-over-deforestation-then-the-wolves-came-2000749401" target="_blank">Google’s Finnish Data Centers Were Already In Trouble Over Deforestation, Then The Wolves Came</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-10-25 22:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/AdGuard-DNS-Personal-1200.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Stop letting trackers get comfy — 5 years of AdGuard DNS protection is just $23 through today" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/10/25/stop-letting-trackers-get-comfy-5-years-of-adguard-dns-protection-is-just-23-through-today.html" target="_blank">Stop letting trackers get comfy — 5 years of AdGuard DNS protection is just $23 through today</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-10-25 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/10/Vinland-Saga-season-1-official-key-visual-Netflix-1280x720.jpg" alt="Vinland Saga’s Creator Has ‘No Good News’ On Season 3: ‘The Project Is Not Currently In Progress’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/vinland-sagas-creator-has-no-good-news-on-season-3-the-project-is-not-currently-in-progress-2000749374" target="_blank">Vinland Saga’s Creator Has ‘No Good News’ On Season 3: ‘The Project Is Not Currently In Progress’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-25 14:31</span>
             </div>
         </div>
 </div>
@@ -291,22 +290,13 @@
                 <span class="time">2026-10-26 00:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1792883115-20261025.png" alt="Saturday Morning Breakfast Cereal - XXL" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/xxl" target="_blank">Saturday Morning Breakfast Cereal - XXL</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-10-25 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 48 | 📡 Total Sources: 40 | 📸 With Images: 268 |
-        🔄 Last Updated: 11:46 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 45 | 📡 Total Sources: 40 | 📸 With Images: 265 |
+        🔄 Last Updated: 17:48 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
