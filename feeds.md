@@ -1,29 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-10-25 22:53:31 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-10-26 00:49:30 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 2 new posts out of 21 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Sunday, October 25, 2026 - 22:53 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, October 26, 2026 - 00:49 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +43,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss" target="_blank">Lula holds off far right with victory in Brazil presidential election</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-26 00:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e676/live/8534e970-d0c8-11f1-b441-2b33b063138f.jpg" alt="Serbia&#x27;s veteran ruler Vučić concedes election to student-led protest movement" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss" target="_blank">Serbia&#x27;s veteran ruler Vučić concedes election to student-led protest movement</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-25 22:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3454/live/c15b5b00-d0af-11f1-84bc-f3a33719a550.jpg" alt="Two men killed by falling trees as Storm Boelo leaves 160,000 properties without power" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss" target="_blank">Two men killed by falling trees as Storm Boelo leaves 160,000 properties without power</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-25 22:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -64,33 +95,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/c60qk44w9wglo?at_medium=RSS&at_campaign=rss" target="_blank">Letter making claims about Meghan&#x27;s father written by his first wife, BBC understands</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-10-25 18:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-zelenskyy-ukraine_7387115.jpg?20261025192802" alt="Talks between Ukraine, Russia and US to be held next month" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/meeting-between-ukraine-russia-and-us-to-be-held-next-month-zelenskyy-says-13603718" target="_blank">Talks between Ukraine, Russia and US to be held next month</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-10-25 18:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/10/25/can-protests-in-europe-bring-about-change?traffic_source=rss" target="_blank">Can protests in Europe bring about change?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-25 17:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/gettyimages-2298720837-594x594_1792940290118_hpMain_4x3t_384.jpg" alt="US Marine indicted in alleged Okinawa robbery homicide" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/us-marine-indicted-alleged-okinawa-robbery-homicide/story?id=137553792" target="_blank">US Marine indicted in alleged Okinawa robbery homicide</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-25 16:05</span>
             </div>
         </div>
 </div>
@@ -160,6 +164,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Redox-OS-September-2026" target="_blank">Redox OS Landed Nice Performance Improvements In September</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-26 00:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/lamama/a-retry-safe-handoff-contract-for-long-ai-chats-28pe" target="_blank">A Retry-Safe Handoff Contract for Long AI Chats</a></span>
                 <span class="feed">DEV Community</span>
@@ -202,20 +215,20 @@
                 <span class="time">2026-10-25 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Wayland-ext-transient-output" target="_blank">New Wayland Protocol Proposed For VNC/Remote Software</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-10-25 15:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/10/werewolfthelastwarrior.jpg" alt="Google’s Finnish Data Centers Were Already In Trouble Over Deforestation, Then The Wolves Came" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/googles-finnish-data-centers-were-already-in-trouble-over-deforestation-then-the-wolves-came-2000749401" target="_blank">Google’s Finnish Data Centers Were Already In Trouble Over Deforestation, Then The Wolves Came</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-25 22:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/10/Vinland-Saga-season-1-official-key-visual-Netflix-1280x720.jpg" alt="Vinland Saga’s Creator Has ‘No Good News’ On Season 3: ‘The Project Is Not Currently In Progress’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -253,8 +266,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 21 | 📅 Last 24h: 41 | 📡 Total Sources: 41 | 📸 With Images: 266 |
-        🔄 Last Updated: 22:53 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 43 | 📡 Total Sources: 41 | 📸 With Images: 266 |
+        🔄 Last Updated: 00:49 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
