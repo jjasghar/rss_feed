@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-10-26 22:01:12 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-10-27 01:40:20 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 26 feeds processed -->
+<!-- Generated 10 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, October 26, 2026 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, October 27, 2026 - 01:40 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f60/live/9da26470-d18f-11f1-8c41-0bbbeafdc6d4.jpg" alt="Chris Mason: The Budget is imminent as tricky things pile up for Burnham" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c317k85r5lglo?at_medium=RSS&at_campaign=rss" target="_blank">Chris Mason: The Budget is imminent as tricky things pile up for Burnham</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-26 23:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-5-ap-gmh-261026_1793046150106_hpMain_4x3t_384.jpg" alt="Trump offers $1M reward for voter fraud tips that result in conviction" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-offers-1m-reward-people-report-voter-fraud/story?id=137581908" target="_blank">Trump offers $1M reward for voter fraud tips that result in conviction</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-26 22:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-5-ap-gmh-261026_1793046150106_hpMain_4x3t_384.jpg" alt="Trump offers $1M reward for people who report voter fraud in past, upcoming elections" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,29 +97,38 @@
                 <span class="time">2026-10-26 16:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of" target="_blank">UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-10-26 15:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/1793026641537_now_current_brk_anthropic_ipo_261026_S3_1920x1080-mafeew.jpg" alt="AI startup Anthropic unveils its public IPO filing for the first time" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/ai-startup-anthropic-unveils-its-public-ipo-filing-for-the-first-time-272224837929" target="_blank">AI startup Anthropic unveils its public IPO filing for the first time</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-10-26 14:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/" target="_blank">Cohere says Alibaba’s Qwen model tried to send a file to Beijing</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-10-27 01:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics" target="_blank">OpenAI announces three big science discoveries and a new way to work with academics</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-10-26 23:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6adfd0bd71d0e77d5637708d/master/pass/MCDODYS_UV008.jpg" alt="Grok Says Its AI-Generated Version of ‘The Odyssey’ Is ‘Not Historically Accurate’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/grok-says-its-ai-generated-version-of-the-odyssey-is-not-historically-accurate/" target="_blank">Grok Says Its AI-Generated Version of ‘The Odyssey’ Is ‘Not Historically Accurate’</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-10-26 22:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -129,33 +154,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/" target="_blank">This startup’s self-driving excavators help dig up $600M in new funding</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-10-26 17:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/via-Cook-County-Sheriffs-Office-X-500x500.jpeg" alt="Highway thieves are spoofing GPS to steal millions in data center-bound cargo" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/" target="_blank">Highway thieves are spoofing GPS to steal millions in data center-bound cargo</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-10-26 17:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6adf6d7844b1eb496ab79957/master/pass/Business_The%20Anthropic%20IPO%20Is%20Also%20a%20Doomsday%20Primer_v1.jpg" alt="The Anthropic S-1 Filing Is Also an AI Doomsday Primer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/" target="_blank">The Anthropic S-1 Filing Is Also an AI Doomsday Primer</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-10-26 16:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/features/1017836/flock-huntington-west-virginia-surveillance-ballot-measure" target="_blank">The city that fought Flock</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-10-26 10:00</span>
             </div>
         </div>
 </div>
@@ -185,6 +183,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://openai.com/index/building-scientific-understanding-with-academic-communities/" target="_blank">Announcing three new discoveries in mathematics, computer science, and physics</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-10-26 21:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md" target="_blank">Type Server Protocol</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-10-26 18:14</span>
@@ -206,15 +213,6 @@
                 <span class="title"><a href="https://magazine.sebastianraschka.com/p/building-reasoning-models" target="_blank">Sebastian Raschka&#x27;s from-scratch video course on building reasoning models</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-10-26 15:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17506987/amutable-foundations-private-preview" target="_blank">Systemd Creator’s Startup Opens Signups for Private Preview of its Linux System</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-10-26 14:23</span>
             </div>
         </div>
 </div>
@@ -246,6 +244,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/fountain-pen-just-eat-ai-menu-photos.jpg?fit=1368%2C912&amp;quality=60&amp;ssl=1" alt="A food delivery app&#x27;s AI turned a breakfast sandwich into bacon soda" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/10/26/fountain-pen-just-eat-ai-menu-photos.html" target="_blank">A food delivery app&#x27;s AI turned a breakfast sandwich into bacon soda</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-10-26 21:26</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/Cheerble-Ball-1200.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Retire the laser pointer and let this $27 self-rolling ball tire out your cat" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -272,20 +279,20 @@
                 <span class="time">2026-10-26 03:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/10/werewolfthelastwarrior.jpg" alt="Google’s Finnish Data Centers Were Already In Trouble Over Deforestation, Then The Wolves Came" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/googles-finnish-data-centers-were-already-in-trouble-over-deforestation-then-the-wolves-came-2000749401" target="_blank">Google’s Finnish Data Centers Were Already In Trouble Over Deforestation, Then The Wolves Came</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-25 22:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/10/26/back-to-back-rap-tracks" target="_blank">Back To Back Rap Tracks</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-10-26 18:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1792967615-20261026.png" alt="Saturday Morning Breakfast Cereal - Order" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -304,22 +311,13 @@
                 <span class="time">2026-10-26 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5946.png" alt="Hanners Lore" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5946" target="_blank">Hanners Lore</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-10-26 00:57</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 48 | 📡 Total Sources: 40 | 📸 With Images: 265 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 43 | 📡 Total Sources: 40 | 📸 With Images: 266 |
+        🔄 Last Updated: 01:40 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
