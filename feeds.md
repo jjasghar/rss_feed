@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-10-27 18:28:24 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-27 22:43:34 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 14 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 10 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, October 27, 2026 - 18:28 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, October 27, 2026 - 22:43 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/27/flavio-bolsonaro-flees-brazil-after-election-loss-us-says-will-grant-visa?traffic_source=rss" target="_blank">Flavio Bolsonaro flees Brazil after election loss, US says will grant visa</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-27 21:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-6-ap-gmh-261027_1793106444747_hpMain_4x3t_384.jpg" alt="Trump continues red-state campaign push with days until midterms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-continues-red-state-campaign-push-days-midterms/story?id=137576082" target="_blank">Trump continues red-state campaign push with days until midterms</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-27 21:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +98,29 @@
                 <span class="time">2026-10-27 11:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-kylian-mbappe_7388663.jpg?20261027120518" alt="Mbappe apologises for &#x27;ill-judged&#x27; Mao remark after being dropped by Chinese brands" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/french-football-star-kylian-mbappe-dropped-by-chinese-brands-after-dictator-remark-13604279" target="_blank">Mbappe apologises for &#x27;ill-judged&#x27; Mao remark after being dropped by Chinese brands</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-10-27 08:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/justice-1-gty-er-261008_1791493123435_hpMain_4x3t_384.jpg" alt="Appeals court declines to step in on Trump administration&#x27;s California voting case" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/appeals-court-rejects-trump-admins-voting-lawsuit-california/story?id=137586284" target="_blank">Appeals court declines to step in on Trump administration&#x27;s California voting case</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-27 02:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/" target="_blank">Guidewire buys Hyperexponential for $1.7B in cash</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-10-27 22:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6ae0b0627e979e34b657973e/master/pass/102726-Anthropic%20Bio.jpg" alt="Anthropic Says It Will Revolutionize Biology—Some Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/" target="_blank">Anthropic Says It Will Revolutionize Biology—Some Day</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-10-27 19:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,29 +157,20 @@
                 <span class="time">2026-10-27 01:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics" target="_blank">OpenAI announces three big science discoveries and a new way to work with academics</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-10-26 23:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6adfd0bd71d0e77d5637708d/master/pass/MCDODYS_UV008.jpg" alt="Grok Says Its AI-Generated Version of ‘The Odyssey’ Is ‘Not Historically Accurate’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/grok-says-its-ai-generated-version-of-the-odyssey-is-not-historically-accurate/" target="_blank">Grok Says Its AI-Generated Version of ‘The Odyssey’ Is ‘Not Historically Accurate’</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-10-26 22:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/DMA-BUF-IO-uring-Linux-7.4" target="_blank">Linux 7.4 Introduces DMA-BUF Support To I/O Path With IO_uring</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-27 21:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,15 +216,6 @@
                 <span class="time">2026-10-27 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/10/27/elevators-toasters-and-the-birth-of-java/" target="_blank">Elevators, toasters, and the birth of Java</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-10-27 07:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/10/gta-6-screen-booth-1280x720.jpg" alt="GTA 6′s Expectedly Massive File Size Has Been Revealed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/gta-6s-expectedly-massive-file-size-has-been-revealed-2000750298" target="_blank">GTA 6′s Expectedly Massive File Size Has Been Revealed</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-27 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/fountain-pen-flock-cameras-bipartisan-backlash.jpg?fit=1600%2C1058&amp;quality=60&amp;ssl=1" alt="Police and 911 staff have used Flock cameras to stalk their exes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/10/27/fountain-pen-flock-cameras-bipartisan-backlash.html" target="_blank">Police and 911 staff have used Flock cameras to stalk their exes</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-10-27 21:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/06/gta-online-2-1280x720.jpg" alt="Rockstar Games Devs In The UK Will Hold A Union Vote During The Launch Of GTA 6" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,22 +289,18 @@
                 <span class="time">2026-10-27 12:30</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section webcomics-section" id="webcomics">
+<h2 class="section-header">🎨 Daily Comics</h2>
+<div class="stories-container">
 <div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/10/skydance-1280x746.jpg" alt="Skydance Institutes Company-Wide Mandatory Return To Office So It Can Avoid Saying ‘Layoffs’ So Soon After Merger" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1792967696-20261027.png" alt="Saturday Morning Breakfast Cereal - Clankor" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/skydance-institutes-company-wide-mandatory-return-to-office-so-it-can-avoid-saying-layoffs-so-soon-after-merger-2000749847" target="_blank">Skydance Institutes Company-Wide Mandatory Return To Office So It Can Avoid Saying ‘Layoffs’ So Soon After Merger</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-26 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/gta-6-1.jpg" alt="AI Has Triggered A PS5 Homebrew Gold Rush, But It’s Also The Reason GTA 6 Can’t Be Pirated At Release" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ai-has-triggered-a-ps5-homebrew-gold-rush-but-its-also-the-reason-gta-6-cant-be-pirated-at-release-2000749776" target="_blank">AI Has Triggered A PS5 Homebrew Gold Rush, But It’s Also The Reason GTA 6 Can’t Be Pirated At Release</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-26 21:30</span>
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/clankor" target="_blank">Saturday Morning Breakfast Cereal - Clankor</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-10-27 15:20</span>
             </div>
         </div>
 </div>
@@ -297,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 39 | 📡 Total Sources: 41 | 📸 With Images: 269 |
-        🔄 Last Updated: 18:28 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 36 | 📡 Total Sources: 41 | 📸 With Images: 269 |
+        🔄 Last Updated: 22:43 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
