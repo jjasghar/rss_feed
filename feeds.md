@@ -1,31 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-10-27 12:56:02 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-10-27 18:28:24 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 14 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Tuesday, October 27, 2026 - 12:56 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, October 27, 2026 - 18:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -78,6 +84,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-kylian-mbappe_7388663.jpg?20261027120518" alt="Mbappe apologises for &#x27;ill-judged&#x27; Mao remark after being dropped by Chinese brands" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/french-football-star-kylian-mbappe-dropped-by-chinese-brands-after-dictator-remark-13604279" target="_blank">Mbappe apologises for &#x27;ill-judged&#x27; Mao remark after being dropped by Chinese brands</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-10-27 08:51</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/justice-1-gty-er-261008_1791493123435_hpMain_4x3t_384.jpg" alt="Appeals court declines to step in on Trump administration&#x27;s California voting case" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -86,20 +101,38 @@
                 <span class="time">2026-10-27 02:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f60/live/9da26470-d18f-11f1-8c41-0bbbeafdc6d4.jpg" alt="Chris Mason: The Budget is imminent as tricky things pile up for Burnham" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c317k85r5lglo?at_medium=RSS&at_campaign=rss" target="_blank">Chris Mason: The Budget is imminent as tricky things pile up for Burnham</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-26 23:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/1019691/gas-leak-methane-rule-rollback-trump" target="_blank">Trump is making it easier for fossil fuel companies to leak methane</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-10-27 18:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/dune1-500x500-1793122976.jpg" alt="Warner Bros. drops final trailer for Dune: Part Three" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2026/10/warner-bros-drops-final-trailer-for-dune-part-three/" target="_blank">Warner Bros. drops final trailer for Dune: Part Three</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-10-27 18:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/" target="_blank">Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-10-27 17:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -127,38 +160,38 @@
                 <span class="time">2026-10-26 22:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2021/02/microsoft-500x500.jpg" alt="Microsoft offers to buy out a quarter of its workforce" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/" target="_blank">Microsoft offers to buy out a quarter of its workforce</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-10-26 22:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale" target="_blank">Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-10-26 21:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/larvae-released-500x500.jpg" alt="Worms mate in man&#x27;s eyes, get plucked out right before larvae burst out" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/10/whats-worse-than-having-eye-worms-having-eye-worms-with-babies/" target="_blank">Worms mate in man&#x27;s eyes, get plucked out right before larvae burst out</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-10-26 20:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/brandon_trumble_b94e49147/first-library-1o7" target="_blank">First library</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-27 18:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/KDE-Fixes-15-Year-Old-Bugs" target="_blank">KDE Fixes 15 Year Old Bug Over Inaccurate Notifications When Copying Files To USB Drives</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-27 16:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!v-ox!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2fa0f8f5-2796-4db4-91f1-7ab4b45fb8fd_1350x970.png" alt="AI SRE: what is it, how could it change on-call – and does it work?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/ai-sre" target="_blank">AI SRE: what is it, how could it change on-call – and does it work?</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-10-27 16:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -180,37 +213,24 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/" target="_blank">Python&#x27;s experimental JIT to be removed</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-10-27 06:20</span>
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/10/27/elevators-toasters-and-the-birth-of-java/" target="_blank">Elevators, toasters, and the birth of Java</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-10-27 07:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/10/agntcon-mcpcon-2026/en/headerimage/agntcon-header-1792936265463.jpg" alt="AGNTCon + MCPCon 2026: Agentic AI Foundation Adds Four Projects as MCP Turns to Security" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/10/agntcon-mcpcon-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AGNTCon + MCPCon 2026: Agentic AI Foundation Adds Four Projects as MCP Turns to Security</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-10-26 22:00</span>
-            </div>
-        </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/geminate_solutions_9b6035/migrating-an-application-to-the-cloud-nodejs-graceful-shutdown-2a58" target="_blank">Migrating an Application to the Cloud: Node.js Graceful Shutdown</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-26 21:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://openai.com/index/building-scientific-understanding-with-academic-communities/" target="_blank">Announcing three new discoveries in mathematics, computer science, and physics</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-10-26 21:35</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/10/hiding-capabilities-in-ai-models.html" target="_blank">Hiding Capabilities in AI Models</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-10-27 11:01</span>
             </div>
         </div>
 </div>
@@ -218,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/06/gta-online-2-1280x720.jpg" alt="Rockstar Games Devs In The UK Will Hold A Union Vote During The Launch Of GTA 6" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/rockstar-games-devs-in-the-uk-will-hold-a-union-vote-during-the-launch-of-gta-6-2000750216" target="_blank">Rockstar Games Devs In The UK Will Hold A Union Vote During The Launch Of GTA 6</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-27 18:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M5Z6ZGZ2ECSAH4RAN3B53TJS/hero-image.jpg" alt="If You Loved &#x27;Carrie,&#x27; There&#x27;s One Movie You Need to Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/movies-like-carrie?utm_medium=RSS" target="_blank">If You Loved &#x27;Carrie,&#x27; There&#x27;s One Movie You Need to Watch Next</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-10-27 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/10/sauron-eye-1280x720.jpg" alt="Lord Of The Rings RPG Game Studio Hit By ‘Serious’ Cyberattack As The Internet Continues Breaking" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -254,54 +292,13 @@
                 <span class="time">2026-10-26 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/fountain-pen-just-eat-ai-menu-photos.jpg?fit=1368%2C912&amp;quality=60&amp;ssl=1" alt="A food delivery app&#x27;s AI turned a breakfast sandwich into bacon soda" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/10/26/fountain-pen-just-eat-ai-menu-photos.html" target="_blank">A food delivery app&#x27;s AI turned a breakfast sandwich into bacon soda</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-10-26 21:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/Cheerble-Ball-1200.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Retire the laser pointer and let this $27 self-rolling ball tire out your cat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/10/26/retire-the-laser-pointer-and-let-this-27-self-rolling-ball-tire-out-your-cat.html" target="_blank">Retire the laser pointer and let this $27 self-rolling ball tire out your cat</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-10-26 21:00</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section webcomics-section" id="webcomics">
-<h2 class="section-header">🎨 Daily Comics</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/10/26/back-to-back-rap-tracks" target="_blank">Back To Back Rap Tracks</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-10-26 18:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1792967615-20261026.png" alt="Saturday Morning Breakfast Cereal - Order" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/order-3" target="_blank">Saturday Morning Breakfast Cereal - Order</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-10-26 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 43 | 📡 Total Sources: 40 | 📸 With Images: 270 |
-        🔄 Last Updated: 12:56 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 39 | 📡 Total Sources: 41 | 📸 With Images: 269 |
+        🔄 Last Updated: 18:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
