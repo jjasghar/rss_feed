@@ -1,30 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-10-28 01:53:10 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-28 07:40:23 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 22 feeds processed -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, October 28, 2026 - 01:53 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, October 28, 2026 - 07:40 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -59,6 +66,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/1793150284905_nn_gutierrez_trump_texas_261027_S3_1920x1080-9gltyn.jpg" alt="Trump holds two rallies in critical Texas battleground" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-holds-two-rallies-in-critical-texas-battleground-272370245884" target="_blank">Trump holds two rallies in critical Texas battleground</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-10-27 22:54</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -85,15 +101,6 @@
                 <span class="time">2026-10-27 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62a7/live/0a738c90-d1fa-11f1-8c9f-8d21fef6ffad.jpg" alt="Norway and Finland leaders hold rare call with Putin" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss" target="_blank">Norway and Finland leaders hold rare call with Putin</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-27 18:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -102,10 +109,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/" target="_blank">Jio shares surge 21% in market debut after blockbuster India IPO</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-10-28 05:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge" target="_blank">Here’s why the iPhone Duo’s hinge could be cracking the screen</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-10-27 22:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/M6-iMac-500x500.jpg" alt="Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/" target="_blank">Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-10-27 22:37</span>
             </div>
         </div>
 <div class="story">
@@ -135,29 +160,20 @@
                 <span class="time">2026-10-27 18:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/dune1-500x500-1793122976.jpg" alt="Warner Bros. drops final trailer for Dune: Part Three" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2026/10/warner-bros-drops-final-trailer-for-dune-part-three/" target="_blank">Warner Bros. drops final trailer for Dune: Part Three</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-10-27 18:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/" target="_blank">Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-10-27 17:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://storage.ghost.io/c/eb/aa/ebaa2665-01a8-4415-8825-69d1f0e8fd19/content/images/2026/10/wealth-inequality-in-america-card-qr.png" alt="Suffering as a Feature" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-skull"></span>
+                <span class="title"><a href="https://blog.codinghorror.com/suffering-as-a-feature/" target="_blank">Suffering as a Feature</a></span>
+                <span class="feed">Coding Horror</span>
+                <span class="time">2026-10-28 06:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -177,6 +193,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/09/ubuntu-firmware-406x232.webp" alt="Ubuntu firmware HWE will prevent issues on older kernel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/ubuntu-firmware-hwe-effort-moving-forward" target="_blank">Ubuntu firmware HWE will prevent issues on older kernel</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-10-27 23:15</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -192,24 +217,6 @@
                 <span class="title"><a href="https://dev.to/brandon_trumble_b94e49147/first-library-1o7" target="_blank">First library</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-10-27 18:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/KDE-Fixes-15-Year-Old-Bugs" target="_blank">KDE Fixes 15 Year Old Bug Over Inaccurate Notifications When Copying Files To USB Drives</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-10-27 16:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!v-ox!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2fa0f8f5-2796-4db4-91f1-7ab4b45fb8fd_1350x970.png" alt="AI SRE: what is it, how could it change on-call – and does it work?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/ai-sre" target="_blank">AI SRE: what is it, how could it change on-call – and does it work?</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-10-27 16:19</span>
             </div>
         </div>
 </div>
@@ -291,6 +298,24 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/10/28/nautical-naughties" target="_blank">Nautical Naughties</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-10-28 07:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.questionablecontent.net/comics/5948.png" alt="Pivot Point" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5948" target="_blank">Pivot Point</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-10-28 00:34</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1792967696-20261027.png" alt="Saturday Morning Breakfast Cereal - Clankor" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -304,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 38 | 📡 Total Sources: 41 | 📸 With Images: 265 |
-        🔄 Last Updated: 01:53 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 43 | 📡 Total Sources: 41 | 📸 With Images: 266 |
+        🔄 Last Updated: 07:40 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
