@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-10-28 07:40:23 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-10-28 14:38:36 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 13 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, October 28, 2026 - 07:40 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, October 28, 2026 - 14:38 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/28/iran-faces-espionage-attempts-but-using-threat-for-crackdown-on-opponents?traffic_source=rss" target="_blank">Espionage threats blur lines between security and dissent in Iran</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-28 14:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7eaf/live/69ded4d0-d26f-11f1-a4f1-4fff2e6cf5f3.jpg" alt="Luxury cruise passengers stranded in Cambodia due to soaring fuel costs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss" target="_blank">Luxury cruise passengers stranded in Cambodia due to soaring fuel costs</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-28 10:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/cali-vote-1-epa-jef-261026_1793016753057_hpMain_4x3t_384.jpg" alt="Why California&#x27;s election results take longer than other states" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/californias-election-results-longer-states/story?id=137301737" target="_blank">Why California&#x27;s election results take longer than other states</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-28 09:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,38 +100,38 @@
                 <span class="time">2026-10-27 22:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/27/flavio-bolsonaro-flees-brazil-after-election-loss-us-says-will-grant-visa?traffic_source=rss" target="_blank">Flavio Bolsonaro flees Brazil after election loss, US says will grant visa</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-27 21:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/27/nx-s1-6019352/southwest-flood-damage-estimates-are-hundreds-of-millions-for-new-mexico-alone" target="_blank">Southwest flood damage estimates are hundreds of millions for New Mexico alone</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-27 21:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-6-ap-gmh-261027_1793106444747_hpMain_4x3t_384.jpg" alt="Trump continues red-state campaign push with days until midterms" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-continues-red-state-campaign-push-days-midterms/story?id=137576082" target="_blank">Trump continues red-state campaign push with days until midterms</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-27 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/" target="_blank">Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-10-28 14:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/science/1020607/virgin-galactic-apeiron-2027-commercial-spaceflight" target="_blank">Here&amp;#8217;s Virgin Galactic&amp;#8217;s new Apeiron spaceship</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-10-28 14:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6ae10eb928ee41eb8014df31/master/pass/Update%20Best%20Kindles%20102026%20top%20art%20SOURCE%20Amazon.jpg" alt="What’s the Best Kindle of 2026 (So Far)?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-kindle/" target="_blank">What’s the Best Kindle of 2026 (So Far)?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-10-28 13:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -133,38 +159,29 @@
                 <span class="time">2026-10-27 22:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/" target="_blank">Guidewire buys Hyperexponential for $1.7B in cash</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-10-27 22:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6ae0b0627e979e34b657973e/master/pass/102726-Anthropic%20Bio.jpg" alt="Anthropic Says It Will Revolutionize Biology—Some Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/" target="_blank">Anthropic Says It Will Revolutionize Biology—Some Day</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-10-27 19:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/1019691/gas-leak-methane-rule-rollback-trump" target="_blank">Trump is making it easier for fossil fuel companies to leak methane</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-10-27 18:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Airbnb Cuts Recommendation Staleness from 2 Days to Seconds with Chronon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/10/airbnb-chronon-recommendation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Airbnb Cuts Recommendation Staleness from 2 Days to Seconds with Chronon</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-10-28 13:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17508486/ghostty-1-4-release" target="_blank">Ghostty 1.4 Is Faster and Uses Less RAM, but Drops Ubuntu 24.04 LTS Support</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-10-28 10:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://storage.ghost.io/c/eb/aa/ebaa2665-01a8-4415-8825-69d1f0e8fd19/content/images/2026/10/wealth-inequality-in-america-card-qr.png" alt="Suffering as a Feature" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -201,43 +218,29 @@
                 <span class="time">2026-10-27 23:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/DMA-BUF-IO-uring-Linux-7.4" target="_blank">Linux 7.4 Introduces DMA-BUF Support To I/O Path With IO_uring</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-10-27 21:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/brandon_trumble_b94e49147/first-library-1o7" target="_blank">First library</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-27 18:23</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/10/hiding-capabilities-in-ai-models.html" target="_blank">Hiding Capabilities in AI Models</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-10-27 11:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M5ZEKWQEG8Y4Q7V0VY0TWX8T/hero-image.png" alt="This Pricey New Accessory Gives Your Kindle a Feature That Used to Be Standard" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/the-kindle-page-turn-cover-turns-your-paperwhite-into-an-oasis?utm_medium=RSS" target="_blank">This Pricey New Accessory Gives Your Kindle a Feature That Used to Be Standard</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-10-28 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/map.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="Map thief jailed after refusing to show the way" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/10/28/map-thief-jailed-after-refusing-to-show-the-way.html" target="_blank">Map thief jailed after refusing to show the way</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-10-28 13:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/10/gta-6-screen-booth-1280x720.jpg" alt="GTA 6′s Expectedly Massive File Size Has Been Revealed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,24 +275,6 @@
                 <span class="title"><a href="https://lifehacker.com/entertainment/movies-like-carrie?utm_medium=RSS" target="_blank">If You Loved &#x27;Carrie,&#x27; There&#x27;s One Movie You Need to Watch Next</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-10-27 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/10/sauron-eye-1280x720.jpg" alt="Lord Of The Rings RPG Game Studio Hit By ‘Serious’ Cyberattack As The Internet Continues Breaking" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/lord-of-the-rings-rpg-game-studio-hit-by-serious-cyberattack-as-the-internet-continues-breaking-2000750137" target="_blank">Lord Of The Rings RPG Game Studio Hit By ‘Serious’ Cyberattack As The Internet Continues Breaking</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-27 12:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M5WHVDEK4J18D19FCDN683KH/hero-image.png" alt="Google Is Using Data From Gmail and Drive to Target Ads, but You Can Stop It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/google-may-use-data-from-gmail-in-personal-intelligence-opt-out?utm_medium=RSS" target="_blank">Google Is Using Data From Gmail and Drive to Target Ads, but You Can Stop It</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-10-27 12:30</span>
             </div>
         </div>
 </div>
@@ -329,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 43 | 📡 Total Sources: 41 | 📸 With Images: 266 |
-        🔄 Last Updated: 07:40 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 42 | 📡 Total Sources: 41 | 📸 With Images: 267 |
+        🔄 Last Updated: 14:38 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
