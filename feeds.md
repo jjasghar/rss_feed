@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-10-28 14:38:36 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-28 19:57:46 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 13 new posts out of 28 feeds processed -->
+<!-- Generated 13 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Wednesday, October 28, 2026 - 14:38 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, October 28, 2026 - 19:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +46,42 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/10/28/spain-demands-answers-after-deadliest-train-disaster-in-over-a-decade?traffic_source=rss" target="_blank">Spain demands answers after deadliest train disaster in over a decade</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-28 19:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/10/28/nx-s1-6019370/jordan-neely-daniel-penny-anand-giridharadas-man-in-the-mirror" target="_blank">New book revisits the 2023 killing of an unhoused man in crisis on the NYC subway</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-10-28 18:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96c9/live/8111fee0-d2e5-11f1-8d3a-ef62f316044e.jpg" alt="Chris Mason: Budget felt cautious despite its range of small measures" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cm78pljvqvxeo?at_medium=RSS&at_campaign=rss" target="_blank">Chris Mason: Budget felt cautious despite its range of small measures</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-28 16:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown" target="_blank">Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-10-28 14:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/10/28/iran-faces-espionage-attempts-but-using-threat-for-crackdown-on-opponents?traffic_source=rss" target="_blank">Espionage threats blur lines between security and dissent in Iran</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-10-28 14:03</span>
@@ -64,47 +96,38 @@
                 <span class="time">2026-10-28 10:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/cali-vote-1-epa-jef-261026_1793016753057_hpMain_4x3t_384.jpg" alt="Why California&#x27;s election results take longer than other states" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/californias-election-results-longer-states/story?id=137301737" target="_blank">Why California&#x27;s election results take longer than other states</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-28 09:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss" target="_blank">Arab parties projected to win 18 seats in Israeli parliamentary election</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-28 00:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/cassidy-gty-er-261027_1793138911603_hpMain_4x3t_384.jpg" alt="DOJ fails to get indictment against ex-Trump aide Cassidy Hutchinson: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/doj-fails-indictment-trump-aide-cassidy-hutchinson-jan/story?id=137619918" target="_blank">DOJ fails to get indictment against ex-Trump aide Cassidy Hutchinson: Sources</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-27 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/1793150284905_nn_gutierrez_trump_texas_261027_S3_1920x1080-9gltyn.jpg" alt="Trump holds two rallies in critical Texas battleground" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-holds-two-rallies-in-critical-texas-battleground-272370245884" target="_blank">Trump holds two rallies in critical Texas battleground</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-10-27 22:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream" target="_blank">Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-10-28 19:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/" target="_blank">Anthropic just launched tools to show companies what their AI spending is buying</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-10-28 19:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6ae217bc6d6203230c9f52b5/master/pass/macbook%20pro%20m6%20deals%20post%20102026%20top%20art%20SOURCE%20Amazon.jpg" alt="The New M6 MacBook Pro Has a Serious Price Problem" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/m6-macbook-pro-price-problem/" target="_blank">The New M6 MacBook Pro Has a Serious Price Problem</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-10-28 18:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -132,38 +155,29 @@
                 <span class="time">2026-10-28 13:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/" target="_blank">Jio shares surge 21% in market debut after blockbuster India IPO</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-10-28 05:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge" target="_blank">Here’s why the iPhone Duo’s hinge could be cracking the screen</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-10-27 22:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/M6-iMac-500x500.jpg" alt="Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/" target="_blank">Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-10-27 22:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2023/05/ubuntu-logo-and-the-snapcraft-logo-tiled-406x232.jpg" alt="Ubuntu Core Desktop ‘accelerating’ development ahead of 27.04" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/ubuntu-core-desktop-2704" target="_blank">Ubuntu Core Desktop ‘accelerating’ development ahead of 27.04</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-10-28 19:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17510159/jadens-jd-166-review" target="_blank">Jadens JD-166 Review: Portable, Inkless Thermal Printer on Linux</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-10-28 16:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Airbnb Cuts Recommendation Staleness from 2 Days to Seconds with Chronon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -198,24 +212,6 @@
                 <span class="title"><a href="https://dev.to/samstull9007/limitcast-016-find-the-notes-claude-code-never-loads-and-split-big-memory-files-3fei" target="_blank">limitcast 0.16: find the notes Claude Code never loads, and split big memory files</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-10-28 01:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Wine-Mesa-Map-Buffer-Client-Ptr" target="_blank">Wine Merges Support For MESA_map_buffer_client_pointer To Improve WoW64 32-bit OpenGL</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-10-28 00:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/09/ubuntu-firmware-406x232.webp" alt="Ubuntu firmware HWE will prevent issues on older kernel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/ubuntu-firmware-hwe-effort-moving-forward" target="_blank">Ubuntu firmware HWE will prevent issues on older kernel</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-10-27 23:15</span>
             </div>
         </div>
 </div>
@@ -259,29 +255,20 @@
                 <span class="time">2026-10-27 21:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/06/gta-online-2-1280x720.jpg" alt="Rockstar Games Devs In The UK Will Hold A Union Vote During The Launch Of GTA 6" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/rockstar-games-devs-in-the-uk-will-hold-a-union-vote-during-the-launch-of-gta-6-2000750216" target="_blank">Rockstar Games Devs In The UK Will Hold A Union Vote During The Launch Of GTA 6</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-27 18:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M5Z6ZGZ2ECSAH4RAN3B53TJS/hero-image.jpg" alt="If You Loved &#x27;Carrie,&#x27; There&#x27;s One Movie You Need to Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/movies-like-carrie?utm_medium=RSS" target="_blank">If You Loved &#x27;Carrie,&#x27; There&#x27;s One Movie You Need to Watch Next</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-10-27 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1792967762-20261028.png" alt="Saturday Morning Breakfast Cereal - Signal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/signal-5" target="_blank">Saturday Morning Breakfast Cereal - Signal</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-10-28 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -300,22 +287,13 @@
                 <span class="time">2026-10-28 00:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1792967696-20261027.png" alt="Saturday Morning Breakfast Cereal - Clankor" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/clankor" target="_blank">Saturday Morning Breakfast Cereal - Clankor</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-10-27 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 42 | 📡 Total Sources: 41 | 📸 With Images: 267 |
-        🔄 Last Updated: 14:38 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 40 | 📡 Total Sources: 41 | 📸 With Images: 265 |
+        🔄 Last Updated: 19:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
