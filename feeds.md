@@ -1,34 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-10-27 22:43:34 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-28 01:53:10 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 25 feeds processed -->
+<!-- Generated 9 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Tuesday, October 27, 2026 - 22:43 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Wednesday, October 28, 2026 - 01:53 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,9 +44,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss" target="_blank">Arab parties projected to win 18 seats in Israeli parliamentary election</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-28 00:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/cassidy-gty-er-261027_1793138911603_hpMain_4x3t_384.jpg" alt="DOJ fails to get indictment against ex-Trump aide Cassidy Hutchinson: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/doj-fails-indictment-trump-aide-cassidy-hutchinson-jan/story?id=137619918" target="_blank">DOJ fails to get indictment against ex-Trump aide Cassidy Hutchinson: Sources</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-27 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/10/27/flavio-bolsonaro-flees-brazil-after-election-loss-us-says-will-grant-visa?traffic_source=rss" target="_blank">Flavio Bolsonaro flees Brazil after election loss, US says will grant visa</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-10-27 21:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/10/27/nx-s1-6019352/southwest-flood-damage-estimates-are-hundreds-of-millions-for-new-mexico-alone" target="_blank">Southwest flood damage estimates are hundreds of millions for New Mexico alone</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-10-27 21:17</span>
             </div>
         </div>
 <div class="story">
@@ -63,39 +86,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62a7/live/0a738c90-d1fa-11f1-8c9f-8d21fef6ffad.jpg" alt="Norway and Finland leaders hold rare call with Putin" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/27/ebola-cases-in-dr-congo-surpass-10000-in-fastest-growing-outbreak?traffic_source=rss" target="_blank">Ebola cases in DR Congo surpass 10,000 in fastest-growing outbreak</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-27 12:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/27/g-s1-150052/up-first-newsletter-midterms-polling-data-voter-fraud-israel-prime-minister-elections" target="_blank">Democrats have a midterm edge, poll shows. And, Israelis vote in high-stakes election</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-27 11:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Capitol-1-ap-gmh-261013_1791915975350_hpMain_4x3t_384.jpg" alt="Control of Congress is up for grabs. What&#x27;s the math for Democrats and Republicans?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/control-congress-grabs-election-day-math-democrats-republicans/story?id=137229697" target="_blank">Control of Congress is up for grabs. What&#x27;s the math for Democrats and Republicans?</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-27 11:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/1793100466621_tdy_news_7a_engel_israel_election_261027_S3_1920x1080-pzme9a.jpg" alt="Voting Underway in Israel as Netanyahu Faces Battle for Survival" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/voting-underway-in-israel-as-netanyahu-faces-battle-for-survival-272309829597" target="_blank">Voting Underway in Israel as Netanyahu Faces Battle for Survival</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-10-27 11:27</span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss" target="_blank">Norway and Finland leaders hold rare call with Putin</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-27 18:28</span>
             </div>
         </div>
 </div>
@@ -103,6 +99,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge" target="_blank">Here’s why the iPhone Duo’s hinge could be cracking the screen</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-10-27 22:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +153,29 @@
                 <span class="time">2026-10-27 17:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/" target="_blank">Cohere says Alibaba’s Qwen model tried to send a file to Beijing</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-10-27 01:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/samstull9007/limitcast-016-find-the-notes-claude-code-never-loads-and-split-big-memory-files-3fei" target="_blank">limitcast 0.16: find the notes Claude Code never loads, and split big memory files</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-28 01:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wine-Mesa-Map-Buffer-Client-Ptr" target="_blank">Wine Merges Support For MESA_map_buffer_client_pointer To Improve WoW64 32-bit OpenGL</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-28 00:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,24 +210,6 @@
                 <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/ai-sre" target="_blank">AI SRE: what is it, how could it change on-call – and does it work?</a></span>
                 <span class="feed">The Pragmatic Engineer</span>
                 <span class="time">2026-10-27 16:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/darkvelocity_/shellghost-a-local-open-weight-spirit-that-haunts-my-terminalpublished-3ba" target="_blank">ShellGhost: a local open-weight spirit that haunts my terminal published</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-27 12:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.4-KVM" target="_blank">AMD EPYC Zen 6 PML Support, ARM64 On s390 Merged For Linux 7.4 KVM</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-10-27 12:00</span>
             </div>
         </div>
 </div>
@@ -308,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 36 | 📡 Total Sources: 41 | 📸 With Images: 269 |
-        🔄 Last Updated: 22:43 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 38 | 📡 Total Sources: 41 | 📸 With Images: 265 |
+        🔄 Last Updated: 01:53 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
