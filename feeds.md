@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-10-29 10:31:12 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-29 17:09:43 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 15 new posts out of 27 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 13 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, October 29, 2026 - 10:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, October 29, 2026 - 17:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/10/29/g-s1-150666/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production" target="_blank">US and Japan agree to establish a Japanese facility for joint missile production</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-10-29 15:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-flavio-bolsonaro-florida_7389792.jpg?20261028133928" alt="Why defeated Flavio Bolsonaro fled Brazil for Miami - and what comes next" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/why-defeated-flavio-bolsonaro-fled-brazil-for-miami-and-what-comes-next-13605308" target="_blank">Why defeated Flavio Bolsonaro fled Brazil for Miami - and what comes next</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-10-29 12:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +99,29 @@
                 <span class="time">2026-10-29 02:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/1793232709061_now_topstory_early_voting_data_261028_S3_1920x1080-0hskou.jpg" alt="Early midterm voting data shows enthusiasm ahead of election day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/early-midterm-voting-data-shows-enthusiasm-ahead-of-election-day-272440901813" target="_blank">Early midterm voting data shows enthusiasm ahead of election day</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-10-29 00:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/28/un-experts-sound-alarm-at-excessive-use-of-force-in-french-student-protests?traffic_source=rss" target="_blank">UN experts sound alarm at excessive use of force in French student protests</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-28 22:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/" target="_blank">U.S. investigated Chinese spy plot aimed at Nvidia CEO</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-10-29 16:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/1022214/yourownweigh-sync-withings-smart-scale-data-wireless-web-app-free" target="_blank">This open-source project lets you sync Withings data to other apps without a subscription</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-10-29 16:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,29 +158,47 @@
                 <span class="time">2026-10-28 22:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/55617683176_c8f6425b60_o-500x500.jpg" alt="ULA&#x27;s Vulcan rocket is set to return to flight on Friday the 13th" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/" target="_blank">ULA&#x27;s Vulcan rocket is set to return to flight on Friday the 13th</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-10-28 22:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream" target="_blank">Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-10-28 19:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vultr/processing-text-with-bash-using-grep-sed-and-awk-commands-1jec" target="_blank">Processing Text with Bash Using Grep, Sed, and Awk Commands</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-29 17:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/F2FS-Linux-7.4" target="_blank">F2FS Adds Opt-In Multi-Grain Timestamps With Linux 7.4, Other Improvements</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-29 16:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/10/bug0-agent-testing-cached-replay/en/headerimage/generatedHeaderImage-1793286673185.jpg" alt="Bug0 Releases QA Agent to Automate Regression Testing With Cached Playwright Replays" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/10/bug0-agent-testing-cached-replay/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Bug0 Releases QA Agent to Automate Regression Testing With Cached Playwright Replays</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-10-29 15:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://mistral.ai/news/mistral-large-4-oss/" target="_blank">We&#x27;re releasing the weights of Mistral Large 4</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-10-29 14:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -182,61 +217,38 @@
                 <span class="time">2026-10-29 04:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://divagr.com/blog/qwenputer" target="_blank">Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-10-29 00:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2023/05/ubuntu-logo-and-the-snapcraft-logo-tiled-406x232.jpg" alt="Ubuntu Core Desktop ‘accelerating’ development ahead of 27.04" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/ubuntu-core-desktop-2704" target="_blank">Ubuntu Core Desktop ‘accelerating’ development ahead of 27.04</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-10-28 19:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17510159/jadens-jd-166-review" target="_blank">Jadens JD-166 Review: Portable, Inkless Thermal Printer on Linux</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-10-28 16:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/" target="_blank">GitHub Universe 2026: Evolving every layer of the stack</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-10-28 16:09</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/10/studying-fraudulent-north-korean-it-workers.html" target="_blank">Studying Fraudulent North Korean IT Workers</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-10-28 11:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M647JQ2E3AWGHBBCZ91DZ3JX/hero-image.jpg" alt="The JBL Vibe Beam Earbuds Are on Sale for $30 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/jbls-vibe-beam-earbuds-deal-october-2026?utm_medium=RSS" target="_blank">The JBL Vibe Beam Earbuds Are on Sale for $30 Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-10-29 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/09/pika30-1280x720.jpg" alt="A Rare Pokémon Is Being Distributed Again For The First Time In A Decade, But There’s A Catch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-legends-za-vivillon-poke-ball-pattern-mystery-gift-2000751036" target="_blank">A Rare Pokémon Is Being Distributed Again For The First Time In A Decade, But There’s A Catch</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-29 16:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/The-2026-CompTIA-Certification-Training-1-1200.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Breaking into IT? Start with nine CompTIA exam prep courses for $24.99" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/10/29/breaking-into-it-start-with-nine-comptia-exam-prep-courses-for-24-99.html" target="_blank">Breaking into IT? Start with nine CompTIA exam prep courses for $24.99</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-10-29 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2021/05/40aba6f00c5e80046d4eddd9ef2b7d85-1280x720.jpg" alt="BioWare Co-Founder Says EA’s Private Equity Acquisition Was ‘Final Nail In The Coffin’ For The Mass Effect Studio" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,33 +276,6 @@
                 <span class="time">2026-10-28 22:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M6231702RTPQEFFEW6PFP307/hero-image.jpg" alt="10 Hacks Every Fitbit Edge User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/best-fitbit-edge-hacks?utm_medium=RSS" target="_blank">10 Hacks Every Fitbit Edge User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-10-28 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M5ZEKWQEG8Y4Q7V0VY0TWX8T/hero-image.png" alt="This Pricey New Accessory Gives Your Kindle a Feature That Used to Be Standard" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/the-kindle-page-turn-cover-turns-your-paperwhite-into-an-oasis?utm_medium=RSS" target="_blank">This Pricey New Accessory Gives Your Kindle a Feature That Used to Be Standard</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-10-28 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/map.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="Map thief jailed after refusing to show the way" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/10/28/map-thief-jailed-after-refusing-to-show-the-way.html" target="_blank">Map thief jailed after refusing to show the way</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-10-28 13:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -314,22 +299,13 @@
                 <span class="time">2026-10-28 20:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1792967762-20261028.png" alt="Saturday Morning Breakfast Cereal - Signal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/signal-5" target="_blank">Saturday Morning Breakfast Cereal - Signal</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-10-28 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 43 | 📡 Total Sources: 40 | 📸 With Images: 265 |
-        🔄 Last Updated: 10:31 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 41 | 📡 Total Sources: 40 | 📸 With Images: 265 |
+        🔄 Last Updated: 17:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
