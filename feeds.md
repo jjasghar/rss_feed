@@ -1,35 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-10-29 17:09:43 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-10-29 22:08:58 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 13 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 14 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, October 29, 2026 - 17:09 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, October 29, 2026 - 22:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +41,33 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/patrick-stewart-1-ap-gmh-261029_1793303251504_hpMain_4x3t_384.jpg" alt="&#x27;Star Trek,&#x27; &#x27;X-Men&#x27; star Patrick Stewart dies at 86" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/GMA/Culture/star-trek-star-patrick-stewart-dies-86/story?id=137684409" target="_blank">&#x27;Star Trek,&#x27; &#x27;X-Men&#x27; star Patrick Stewart dies at 86</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-29 22:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/10/29/1230906945/patrick-stewart-dead" target="_blank">Patrick Stewart, a perceptive patriarch in &#x27;Star Trek&#x27; and &#x27;X-Men,&#x27; dies at 86</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-10-29 20:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/213a/live/ecf64a00-d3d3-11f1-9c32-1532a6164171.jpg" alt="Israeli opposition accuses Netanyahu of trying to &#x27;delegitimise&#x27; election" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss" target="_blank">Israeli opposition accuses Netanyahu of trying to &#x27;delegitimise&#x27; election</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-29 20:21</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -55,48 +77,21 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-flavio-bolsonaro-florida_7389792.jpg?20261028133928" alt="Why defeated Flavio Bolsonaro fled Brazil for Miami - and what comes next" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80a9/live/4b0bdaa0-d3b7-11f1-a701-fddedf244c16.png" alt="Burnham says he wants to cut welfare bill &#x27;as soon as we possibly can&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/why-defeated-flavio-bolsonaro-fled-brazil-for-miami-and-what-comes-next-13605308" target="_blank">Why defeated Flavio Bolsonaro fled Brazil for Miami - and what comes next</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-10-29 12:28</span>
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6x2w4zy15nwo?at_medium=RSS&at_campaign=rss" target="_blank">Burnham says he wants to cut welfare bill &#x27;as soon as we possibly can&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-29 15:42</span>
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261029-Dunleavy-Peltola-ch-0941-ce965c.jpg" alt="Alaska governor orders probe into Peltola camp after report on second Dan Sullivan in Senate race" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/10/29/why-michigan-could-decide-the-future-of-trumps-presidency?traffic_source=rss" target="_blank">Why Michigan could decide the future of Trump’s presidency</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-29 09:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/vote-5-gty-gmh-261026_1793021665595_hpMain_4x3t_384.jpg" alt="Billionaire tax, transgender rights, voter access among key midterm ballot measures" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/billionaire-tax-transgender-rights-voter-access-key-midterm/story?id=137602375" target="_blank">Billionaire tax, transgender rights, voter access among key midterm ballot measures</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-29 09:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/29/g-s1-147496/ukraine-ai-drones-war-russia" target="_blank">How AI drones are influencing the course of the Ukraine war</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-29 09:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/28/nx-s1-6009547/el-nino-forecast-us-winter" target="_blank">Forecasters are predicting a warmer and wetter winter. Here&#x27;s how El Niño will affect your region.</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-29 02:20</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/mike-dunleavy-orders-investigation-mary-peltola-campaign-dan-sullivan-rcna606316" target="_blank">Alaska governor orders probe into Peltola camp after report on second Dan Sullivan in Senate race</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-10-29 14:50</span>
             </div>
         </div>
 </div>
@@ -104,6 +99,33 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/" target="_blank">Elon Musk is ‘truly a genius,’ says Vladimir Putin</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-10-29 21:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/reddit-icon-500x500.jpg" alt="Reddit is moving to “a logged-in-only experience,” CEO says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/" target="_blank">Reddit is moving to “a logged-in-only experience,” CEO says</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-10-29 21:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6ae3aab21b78b1068035e643/master/pass/PRC%20Space%20Plane_Vantor.jpg" alt="What to Know About China’s Top-Secret Spaceplane" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/what-to-know-about-chinas-top-secret-spaceplane/" target="_blank">What to Know About China’s Top-Secret Spaceplane</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-10-29 20:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -131,38 +153,20 @@
                 <span class="time">2026-10-29 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/" target="_blank">Upwind raises $400M after walking away from Datadog acquisition offer</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-10-28 23:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity" target="_blank">Adam Mosseri says negativity around AI is ‘going to get worse’</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-10-28 23:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6ae27b1cbef604c6ee2089e7/master/pass/APPLE_OLED.jpg" alt="The 2,000-Nit OLED in Apple’s New MacBook Is a Big Deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-2000-nit-oled-in-apples-new-macbook-pro-is-a-big-deal/" target="_blank">The 2,000-Nit OLED in Apple’s New MacBook Is a Big Deal</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-10-28 22:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8" target="_blank">Binance-hacker-1029 – $5.6B stolen from Binance</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-10-29 21:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,19 +206,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/michael_banigo_6bea76d866/free-study-resources-and-reading-plans-150-books-and-courses-that-cost-nothing-50oe" target="_blank">Free Study Resources and Reading Plans: 150 Books and Courses That Cost Nothing</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-29 10:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2024/12/ghostty-logo-406x232.jpg" alt="Ghostty 1.4 is out with big improvements on Linux" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/ghostty-1-4-released" target="_blank">Ghostty 1.4 is out with big improvements on Linux</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-10-29 04:08</span>
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/software-engineering-at-google-and" target="_blank">Software engineering at Google &amp; CS education with Titus Winters</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-10-29 13:37</span>
             </div>
         </div>
 </div>
@@ -290,22 +285,13 @@
                 <span class="time">2026-10-29 00:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/10/28/nautical-naughties" target="_blank">Nautical Naughties</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-10-28 20:21</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 41 | 📡 Total Sources: 40 | 📸 With Images: 265 |
-        🔄 Last Updated: 17:09 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 41 | 📡 Total Sources: 41 | 📸 With Images: 264 |
+        🔄 Last Updated: 22:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
