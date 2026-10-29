@@ -1,31 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-10-28 23:50:21 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-29 03:17:00 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, October 28, 2026 - 23:50 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, October 29, 2026 - 03:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/10/28/nx-s1-6009547/el-nino-forecast-us-winter" target="_blank">Forecasters are predicting a warmer and wetter winter. Here&#x27;s how El Niño will affect your region.</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-10-29 02:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/1793232709061_now_topstory_early_voting_data_261028_S3_1920x1080-0hskou.jpg" alt="Early midterm voting data shows enthusiasm ahead of election day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/early-midterm-voting-data-shows-enthusiasm-ahead-of-election-day-272440901813" target="_blank">Early midterm voting data shows enthusiasm ahead of election day</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-10-29 00:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -60,39 +78,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-flavio-bolsonaro-brazil_7390251.jpg?20261028204032" alt="Defiant Bolsonaro breaks silence after fleeing Brazil for the US" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/flavio-bolsonaro-insists-he-is-leader-of-brazil-despite-losing-election-run-off-13605006" target="_blank">Defiant Bolsonaro breaks silence after fleeing Brazil for the US</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-10-28 19:48</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/10/28/spain-demands-answers-after-deadliest-train-disaster-in-over-a-decade?traffic_source=rss" target="_blank">Spain demands answers after deadliest train disaster in over a decade</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-10-28 19:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab01/live/ce128db0-d2fc-11f1-a701-fddedf244c16.jpg" alt="Healey unveils £100 for energy bills and bank tax in first Budget" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss" target="_blank">Healey unveils £100 for energy bills and bank tax in first Budget</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-28 18:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/28/nx-s1-6019370/jordan-neely-daniel-penny-anand-giridharadas-man-in-the-mirror" target="_blank">New book revisits the 2023 killing of an unhoused man in crisis on the NYC subway</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-28 18:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96c9/live/8111fee0-d2e5-11f1-8d3a-ef62f316044e.jpg" alt="Chris Mason: Budget felt cautious despite its range of small measures" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cm78pljvqvxeo?at_medium=RSS&at_campaign=rss" target="_blank">Chris Mason: Budget felt cautious despite its range of small measures</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-28 16:52</span>
             </div>
         </div>
 </div>
@@ -107,6 +107,15 @@
                 <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity" target="_blank">Adam Mosseri says negativity around AI is ‘going to get worse’</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-10-28 23:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6ae27b1cbef604c6ee2089e7/master/pass/APPLE_OLED.jpg" alt="The 2,000-Nit OLED in Apple’s New MacBook Is a Big Deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-2000-nit-oled-in-apples-new-macbook-pro-is-a-big-deal/" target="_blank">The 2,000-Nit OLED in Apple’s New MacBook Is a Big Deal</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-10-28 22:54</span>
             </div>
         </div>
 <div class="story">
@@ -143,15 +152,6 @@
                 <span class="title"><a href="https://www.wired.com/story/m6-macbook-pro-price-problem/" target="_blank">The New M6 MacBook Pro Has a Serious Price Problem</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-10-28 18:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/" target="_blank">Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-10-28 14:34</span>
             </div>
         </div>
 </div>
@@ -215,6 +215,20 @@
         </div>
 </div>
 </div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/10/studying-fraudulent-north-korean-it-workers.html" target="_blank">Studying Fraudulent North Korean IT Workers</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-10-28 11:05</span>
+            </div>
+        </div>
+</div>
+</div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
@@ -234,6 +248,15 @@
                 <span class="title"><a href="https://kotaku.com/world-of-warcrafts-long-awaited-housing-feature-was-the-best-thing-about-this-expansion-so-why-did-i-stop-visiting-2000750584" target="_blank">World Of Warcraft’s Long Awaited Housing Feature Was The Best Thing About This Expansion, So Why Did I Stop Visiting?</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-10-28 22:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M6231702RTPQEFFEW6PFP307/hero-image.jpg" alt="10 Hacks Every Fitbit Edge User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/best-fitbit-edge-hacks?utm_medium=RSS" target="_blank">10 Hacks Every Fitbit Edge User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-10-28 22:00</span>
             </div>
         </div>
 <div class="story">
@@ -286,22 +309,13 @@
                 <span class="time">2026-10-28 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5948.png" alt="Pivot Point" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5948" target="_blank">Pivot Point</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-10-28 00:34</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 38 | 📡 Total Sources: 41 | 📸 With Images: 263 |
-        🔄 Last Updated: 23:50 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 39 | 📡 Total Sources: 41 | 📸 With Images: 265 |
+        🔄 Last Updated: 03:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
