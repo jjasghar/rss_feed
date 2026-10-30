@@ -1,30 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-10-29 22:08:58 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-30 02:13:55 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 14 new posts out of 22 feeds processed -->
+<!-- Generated 10 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, October 29, 2026 - 22:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, October 30, 2026 - 02:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/california-rt-er-261029_1793313163493_hpMain_4x3t_384.jpg" alt="DOJ issues grand jury subpoenas to election officials in California" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/doj-issues-grand-jury-subpoenas-election-officials-california/story?id=137689807" target="_blank">DOJ issues grand jury subpoenas to election officials in California</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-30 02:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/10/29/nx-s1-6022560/doj-subpoenas-california-election" target="_blank">Justice Department issues subpoenas to California election workers</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-10-30 01:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/1793315166115_nn_rno_alaska_senate_race_261029_S3_1920x1080-llffjp.jpg" alt="Criminal investigation into Alaska Democrat’s Senate campaign" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/criminal-investigation-into-alaska-democrat-s-senate-campaign-272502341775" target="_blank">Criminal investigation into Alaska Democrat’s Senate campaign</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-10-29 23:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/patrick-stewart-1-ap-gmh-261029_1793303251504_hpMain_4x3t_384.jpg" alt="&#x27;Star Trek,&#x27; &#x27;X-Men&#x27; star Patrick Stewart dies at 86" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -65,33 +96,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss" target="_blank">Israeli opposition accuses Netanyahu of trying to &#x27;delegitimise&#x27; election</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-10-29 20:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/29/g-s1-150666/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production" target="_blank">US and Japan agree to establish a Japanese facility for joint missile production</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-29 15:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80a9/live/4b0bdaa0-d3b7-11f1-a701-fddedf244c16.png" alt="Burnham says he wants to cut welfare bill &#x27;as soon as we possibly can&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6x2w4zy15nwo?at_medium=RSS&at_campaign=rss" target="_blank">Burnham says he wants to cut welfare bill &#x27;as soon as we possibly can&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-29 15:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261029-Dunleavy-Peltola-ch-0941-ce965c.jpg" alt="Alaska governor orders probe into Peltola camp after report on second Dan Sullivan in Senate race" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/mike-dunleavy-orders-investigation-mary-peltola-campaign-dan-sullivan-rcna606316" target="_blank">Alaska governor orders probe into Peltola camp after report on second Dan Sullivan in Senate race</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-10-29 14:50</span>
             </div>
         </div>
 </div>
@@ -161,10 +165,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ayumu_kitabayashi_8e0de96/yutyubeu-alrimeul-nureumyeon-syoceuro-bbajyeoyo-aiponeseo-baggul-alrim-seoljeonggwa-syoceuman-sumgineun-bangbeob-2026-ef9" target="_blank">유튜브 알림을 누르면 쇼츠로 빠져요: 아이폰에서 바꿀 알림 설정과 쇼츠만 숨기는 방법 (2026)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-30 02:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/10/29/the-reports-of-stack-overflow-s-death-are-greatly-exaggerated/" target="_blank">The reports of Stack Overflow&#x27;s death are greatly exaggerated</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-10-29 22:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8" target="_blank">Binance-hacker-1029 – $5.6B stolen from Binance</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-10-29 21:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Google Adopts DPoP to Strengthen OAuth 2.0 Against Token Theft and Replay Attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/10/google-dpop-oauth2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Adopts DPoP to Strengthen OAuth 2.0 Against Token Theft and Replay Attacks</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-10-29 19:00</span>
             </div>
         </div>
 <div class="story">
@@ -185,38 +216,20 @@
                 <span class="time">2026-10-29 16:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/10/bug0-agent-testing-cached-replay/en/headerimage/generatedHeaderImage-1793286673185.jpg" alt="Bug0 Releases QA Agent to Automate Regression Testing With Cached Playwright Replays" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/10/bug0-agent-testing-cached-replay/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Bug0 Releases QA Agent to Automate Regression Testing With Cached Playwright Replays</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-10-29 15:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://mistral.ai/news/mistral-large-4-oss/" target="_blank">We&#x27;re releasing the weights of Mistral Large 4</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-10-29 14:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/software-engineering-at-google-and" target="_blank">Software engineering at Google &amp; CS education with Titus Winters</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-10-29 13:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/10/Spirt-Halloween-2026-1-1280x720.jpg" alt="Spirit Halloween 2026: The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/checking-in-on-spirit-halloween-in-2026-was-a-wild-ride-2000751047" target="_blank">Spirit Halloween 2026: The Kotaku Review</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-29 21:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01M647JQ2E3AWGHBBCZ91DZ3JX/hero-image.jpg" alt="The JBL Vibe Beam Earbuds Are on Sale for $30 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -244,45 +257,18 @@
                 <span class="time">2026-10-29 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2021/05/40aba6f00c5e80046d4eddd9ef2b7d85-1280x720.jpg" alt="BioWare Co-Founder Says EA’s Private Equity Acquisition Was ‘Final Nail In The Coffin’ For The Mass Effect Studio" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/bioware-co-founder-says-eas-acquisition-was-final-nail-in-the-coffin-for-the-mass-effect-studio-2000750626" target="_blank">BioWare Co-Founder Says EA’s Private Equity Acquisition Was ‘Final Nail In The Coffin’ For The Mass Effect Studio</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-29 00:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/1.webp?fit=1280%2C800&amp;quality=55&amp;ssl=1" alt="How to turn modern Linux into an old Mac" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/10/28/how-to-turn-modern-linux-into-an-old-mac.html" target="_blank">How to turn modern Linux into an old Mac</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-10-28 22:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/10/wow-housing-1-1280x720.jpg" alt="World Of Warcraft’s Long Awaited Housing Feature Was The Best Thing About This Expansion, So Why Did I Stop Visiting?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/world-of-warcrafts-long-awaited-housing-feature-was-the-best-thing-about-this-expansion-so-why-did-i-stop-visiting-2000750584" target="_blank">World Of Warcraft’s Long Awaited Housing Feature Was The Best Thing About This Expansion, So Why Did I Stop Visiting?</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-28 22:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
-            <img src="https://www.questionablecontent.net/comics/5949.png" alt="The Finest Vintage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.questionablecontent.net/comics/5950.png" alt="Frugality" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5949" target="_blank">The Finest Vintage</a></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5950" target="_blank">Frugality</a></span>
                 <span class="feed">QC RSS v2</span>
-                <span class="time">2026-10-29 00:57</span>
+                <span class="time">2026-10-30 01:08</span>
             </div>
         </div>
 </div>
@@ -290,8 +276,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 41 | 📡 Total Sources: 41 | 📸 With Images: 264 |
-        🔄 Last Updated: 22:09 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 37 | 📡 Total Sources: 41 | 📸 With Images: 263 |
+        🔄 Last Updated: 02:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
