@@ -1,27 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-10-30 16:20:24 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing 54 RSS feeds at 2026-10-30 21:11:29 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 19 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 12 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Friday, October 30, 2026 - 16:20 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, October 30, 2026 - 21:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/30/swiss-supreme-court-upholds-liberian-ex-rebel-commanders-20-year-sentence?traffic_source=rss" target="_blank">Swiss supreme court upholds Liberian ex-rebel commander’s 20-year sentence</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-30 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/10/30/nx-s1-6023331/ice-activity-surge-midterms" target="_blank">ICE activity is surging ahead of midterms. So is voter turnout.</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-10-30 17:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-gty-gmh-261030_1793367510763_hpMain_4x3t_384.jpg" alt="Midterm elections live updates: Trump&#x27;s weekend rallies in Kansas, Iowa are back on" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -73,29 +96,38 @@
                 <span class="time">2026-10-30 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8f6/live/00c2f580-d413-11f1-b012-87a4c031cb4d.jpg" alt="Foreign defence contractors will need to invest in UK under new rules" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o?at_medium=RSS&at_campaign=rss" target="_blank">Foreign defence contractors will need to invest in UK under new rules</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-30 08:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg" target="_blank">Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-10-30 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-500x500.jpeg" alt="Anthropic VS code extension on Cursor backdoored for nearly 12 hours" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/" target="_blank">Anthropic VS code extension on Cursor backdoored for nearly 12 hours</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-10-30 21:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive" target="_blank">Exclusive details about Akai’s MPC Sample Key</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-10-30 21:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6ae4bfbc8b1b5cec21132f41/master/pass/103026-HACK_.jpg" alt="A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems/" target="_blank">A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-10-30 20:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -115,37 +147,10 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media.wired.com/photos/6ae3aab21b78b1068035e643/master/pass/PRC%20Space%20Plane_Vantor.jpg" alt="What to Know About China’s Top-Secret Spaceplane" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/what-to-know-about-chinas-top-secret-spaceplane/" target="_blank">What to Know About China’s Top-Secret Spaceplane</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-10-29 20:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/" target="_blank">U.S. investigated Chinese spy plot aimed at Nvidia CEO</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-10-29 16:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Reddit Will Force Everyone to Log In" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Sam Altman Thinks Your PC Is Wasting Precious RAM" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://tech.slashdot.org/story/26/10/30/0155237/reddit-will-force-everyone-to-log-in?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Reddit Will Force Everyone to Log In</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Trump&#x27;s CTFC Steps In to Defend Kalshi As Utah Brings Criminal Charges Against Execs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://yro.slashdot.org/story/26/10/29/193242/trumps-ctfc-steps-in-to-defend-kalshi-as-utah-brings-criminal-charges-against-execs?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Trump&#x27;s CTFC Steps In to Defend Kalshi As Utah Brings Criminal Charges Against Execs</a></span>
+                <span class="title"><a href="https://hardware.slashdot.org/story/26/10/30/2017206/sam-altman-thinks-your-pc-is-wasting-precious-ram?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Sam Altman Thinks Your PC Is Wasting Precious RAM</a></span>
                 <span class="feed">Slashdot</span>
                 
             </div>
@@ -159,9 +164,45 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/PostgreSQL-19-Late" target="_blank">PostgreSQL 19 Running Behind Schedule Due To AI/LLM Burden</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-30 18:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/" target="_blank">My favourite PowerMac is a Nintendo Wii</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-10-30 17:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!LqGQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc10d7a14-d196-4d3e-89f4-51d28a0ce45a_2042x1006.png" alt="The Pulse: Anthropic kills the coding interview" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-anthropic-kills-the-coding" target="_blank">The Pulse: Anthropic kills the coding interview</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-10-30 16:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.4-x86-Platform-Driver" target="_blank">AMD Ryzen Zen 6 Looks Like It Will Be In Good Shape With Linux 7.4, Laptop Improvements</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-10-30 15:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="DoorDash Cuts Grocery Reorder Latency from 16 to 2 Seconds with AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/10/doordash-ai-grocery-reorder/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">DoorDash Cuts Grocery Reorder Latency from 16 to 2 Seconds with AI Agents</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-10-30 13:31</span>
             </div>
         </div>
 <div class="story">
@@ -173,40 +214,18 @@
                 <span class="time">2026-10-30 09:10</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/10/30/it-s-ok-that-computers-are-sometimes-better-than-us/" target="_blank">It’s ok that computers are (sometimes) better than us</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-10-30 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/10/cmf-linux-406x232.avif" alt="This app lets you manage Nothing &amp; CMF earbuds on Linux" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/cmf-nothing-earbuds-linux-companion-app" target="_blank">This app lets you manage Nothing &amp; CMF earbuds on Linux</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-10-30 03:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ayumu_kitabayashi_8e0de96/yutyubeu-alrimeul-nureumyeon-syoceuro-bbajyeoyo-aiponeseo-baggul-alrim-seoljeonggwa-syoceuman-sumgineun-bangbeob-2026-ef9" target="_blank">유튜브 알림을 누르면 쇼츠로 빠져요: 아이폰에서 바꿀 알림 설정과 쇼츠만 숨기는 방법 (2026)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-30 02:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.4-RISC-V" target="_blank">RISC-V Has A Nice Portable Performance Optimization With Linux 7.4</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-10-30 00:36</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-bigfin-squid-off-california-coast.html" target="_blank">Friday Squid Blogging: Bigfin Squid Off California Coast</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-10-30 21:04</span>
             </div>
         </div>
 </div>
@@ -241,29 +260,20 @@
                 <span class="time">2026-10-29 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M647JQ2E3AWGHBBCZ91DZ3JX/hero-image.jpg" alt="The JBL Vibe Beam Earbuds Are on Sale for $30 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/jbls-vibe-beam-earbuds-deal-october-2026?utm_medium=RSS" target="_blank">The JBL Vibe Beam Earbuds Are on Sale for $30 Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-10-29 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/09/pika30-1280x720.jpg" alt="A Rare Pokémon Is Being Distributed Again For The First Time In A Decade, But There’s A Catch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-legends-za-vivillon-poke-ball-pattern-mystery-gift-2000751036" target="_blank">A Rare Pokémon Is Being Distributed Again For The First Time In A Decade, But There’s A Catch</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-29 16:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1793146786-20261030.png" alt="Saturday Morning Breakfast Cereal - Dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/dead-3" target="_blank">Saturday Morning Breakfast Cereal - Dead</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-10-30 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.questionablecontent.net/comics/5950.png" alt="Frugality" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,8 +288,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 36 | 📡 Total Sources: 41 | 📸 With Images: 264 |
-        🔄 Last Updated: 16:20 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 37 | 📡 Total Sources: 40 | 📸 With Images: 260 |
+        🔄 Last Updated: 21:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
