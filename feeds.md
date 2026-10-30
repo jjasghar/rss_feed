@@ -1,30 +1,27 @@
-<!-- Processing 54 RSS feeds at 2026-10-30 09:13:10 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-10-30 16:20:24 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dilbert -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 21 feeds processed -->
+<!-- Generated 10 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, October 30, 2026 - 09:13 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, October 30, 2026 - 16:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +37,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-gty-gmh-261030_1793367510763_hpMain_4x3t_384.jpg" alt="Midterm elections live updates: Trump&#x27;s weekend rallies in Kansas, Iowa are back on" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/live-updates/midterm-elections-2026-1-week-high-stakes-elections/?id=137578278" target="_blank">Midterm elections live updates: Trump&#x27;s weekend rallies in Kansas, Iowa are back on</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-30 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/107f/live/fce8fef0-d47b-11f1-80bc-6d398902272f.jpg" alt="Police Scotland carrying out &#x27;active inquiries&#x27; into Andrew and Epstein Balmoral visits" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqglwp088532o?at_medium=RSS&at_campaign=rss" target="_blank">Police Scotland carrying out &#x27;active inquiries&#x27; into Andrew and Epstein Balmoral visits</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-30 15:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31a8/live/31633420-d43b-11f1-93e1-3b657b665bcf.jpg" alt="Crypto giant Binance hit by $6.3bn hack suspected to be largest in history" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -74,24 +89,6 @@
                 <span class="title"><a href="https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg" target="_blank">Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2026-10-30 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/california-rt-er-261029_1793313163493_hpMain_4x3t_384.jpg" alt="DOJ issues grand jury subpoenas to election officials in California" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/doj-issues-grand-jury-subpoenas-election-officials-california/story?id=137689807" target="_blank">DOJ issues grand jury subpoenas to election officials in California</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-30 02:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/29/nx-s1-6022560/doj-subpoenas-california-election" target="_blank">Justice Department issues subpoenas to California election workers</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-30 01:35</span>
             </div>
         </div>
 </div>
@@ -136,21 +133,21 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Reddit Will Force Everyone to Log In" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/1022214/yourownweigh-sync-withings-smart-scale-data-wireless-web-app-free" target="_blank">This open-source project lets you sync Withings data to other apps without a subscription</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-10-29 16:14</span>
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://tech.slashdot.org/story/26/10/30/0155237/reddit-will-force-everyone-to-log-in?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Reddit Will Force Everyone to Log In</a></span>
+                <span class="feed">Slashdot</span>
+                
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Trump&#x27;s CTFC Steps In to Defend Kalshi As Utah Brings Criminal Charges Against Execs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc" target="_blank">AI has come for Arizona’s water</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-10-29 10:00</span>
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://yro.slashdot.org/story/26/10/29/193242/trumps-ctfc-steps-in-to-defend-kalshi-as-utah-brings-criminal-charges-against-execs?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Trump&#x27;s CTFC Steps In to Defend Kalshi As Utah Brings Criminal Charges Against Execs</a></span>
+                <span class="feed">Slashdot</span>
+                
             </div>
         </div>
 </div>
@@ -161,10 +158,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.4-x86-Platform-Driver" target="_blank">AMD Ryzen Zen 6 Looks Like It Will Be In Good Shape With Linux 7.4, Laptop Improvements</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-30 15:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/faliye/i-bought-thunderbolt-5-and-got-usb4-40g-re-benchmarking-a-two-machine-llamacpp-rpc-setup-across-29im" target="_blank">I bought Thunderbolt 5 and got USB4 40G: re-benchmarking a two-machine llama.cpp RPC setup across three links and six models</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-10-30 09:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/10/30/it-s-ok-that-computers-are-sometimes-better-than-us/" target="_blank">It’s ok that computers are (sometimes) better than us</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-10-30 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/10/cmf-linux-406x232.avif" alt="This app lets you manage Nothing &amp; CMF earbuds on Linux" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/cmf-nothing-earbuds-linux-companion-app" target="_blank">This app lets you manage Nothing &amp; CMF earbuds on Linux</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-10-30 03:15</span>
             </div>
         </div>
 <div class="story">
@@ -185,38 +209,29 @@
                 <span class="time">2026-10-30 00:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/10/29/the-reports-of-stack-overflow-s-death-are-greatly-exaggerated/" target="_blank">The reports of Stack Overflow&#x27;s death are greatly exaggerated</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-10-29 22:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8" target="_blank">Binance-hacker-1029 – $5.6B stolen from Binance</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-10-29 21:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Google Adopts DPoP to Strengthen OAuth 2.0 Against Token Theft and Replay Attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/10/google-dpop-oauth2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Adopts DPoP to Strengthen OAuth 2.0 Against Token Theft and Replay Attacks</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-10-29 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2023/06/7a2604f28d0906292e1706ff5ef6fff3-1280x720.jpg" alt="AI Is Forcing Reddit To Get Way Worse" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ai-is-forcing-reddit-to-get-way-worse-2000751581" target="_blank">AI Is Forcing Reddit To Get Way Worse</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-30 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/Microsoft-Office-Professional-2021-for-Windows-1-1200.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="For only $28, get Word, Excel, Outlook, Access, and more without recurring subscription fees" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/10/30/for-only-28-get-word-excel-outlook-access-and-more-without-recurring-subscription-fees.html" target="_blank">For only $28, get Word, Excel, Outlook, Access, and more without recurring subscription fees</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-10-30 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/10/Spirt-Halloween-2026-1-1280x720.jpg" alt="Spirit Halloween 2026: The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -244,15 +259,6 @@
                 <span class="time">2026-10-29 16:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/The-2026-CompTIA-Certification-Training-1-1200.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Breaking into IT? Start with nine CompTIA exam prep courses for $24.99" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/10/29/breaking-into-it-start-with-nine-comptia-exam-prep-courses-for-24-99.html" target="_blank">Breaking into IT? Start with nine CompTIA exam prep courses for $24.99</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-10-29 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -272,8 +278,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 41 | 📡 Total Sources: 41 | 📸 With Images: 261 |
-        🔄 Last Updated: 09:13 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 36 | 📡 Total Sources: 41 | 📸 With Images: 264 |
+        🔄 Last Updated: 16:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
