@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-10-31 07:40:00 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-31 13:58:40 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 10 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, October 31, 2026 - 07:40 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, October 31, 2026 - 13:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-garda-police-ireland_7305746.jpg?20260724122344" alt="Man dies and another injured after attack at centre housing migrants" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/man-dies-and-another-injured-after-attack-at-centre-housing-migrants-in-ireland-13606071" target="_blank">Man dies and another injured after attack at centre housing migrants</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-10-31 12:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261030-Talarico-Hamilton-Cognetti-ch-0959-930075.jpg" alt="Democrats in key battlegrounds throw Joe Biden under the bus on the border" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/2026-democratic-candidates-throw-joe-biden-bus-border-security-rcna603228" target="_blank">Democrats in key battlegrounds throw Joe Biden under the bus on the border</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-10-31 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a09/live/908b67d0-d4cf-11f1-b441-2b33b063138f.jpg" alt="Burnham &#x27;open&#x27; to calls for slavery apology but not reparations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,29 +100,29 @@
                 <span class="time">2026-10-31 00:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/31/germany-and-france-brace-for-protests-on-halloween-weekend?traffic_source=rss" target="_blank">Germany and France brace for protests on Halloween weekend</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-31 00:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/1793401644124_nn_spa_alaska_senate_261030_S3_1920x1080-s33q29.jpg" alt="FBI investigating Alaska Democrat’s campaign" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/fbi-investigating-alaska-democrat-s-campaign-272577605670" target="_blank">FBI investigating Alaska Democrat’s campaign</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-10-30 23:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6ae4e9f503c2c36f4cfc913c/master/pass/KernelPanic_10312026_v1.jpg" alt="Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/" target="_blank">Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-10-31 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-4-500x500.jpeg" alt="Seabirds racing home over the ocean can get jet-lagged" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/" target="_blank">Seabirds racing home over the ocean can get jet-lagged</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-10-31 11:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,29 +159,38 @@
                 <span class="time">2026-10-30 21:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive" target="_blank">Exclusive details about Akai’s MPC Sample Key</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-10-30 21:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6ae4bfbc8b1b5cec21132f41/master/pass/103026-HACK_.jpg" alt="A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems/" target="_blank">A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-10-30 20:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/momin_aziz_1/source-code-leakage-through-ai-coding-assistants-5-paths-and-the-control-for-each-37c7" target="_blank">Source code leakage through AI coding assistants: 5 paths and the control for each</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-31 13:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.4-Drops-Taint-Bind" target="_blank">New Linux 7.4 Feature For Reducing AI Noise Already Reverted Due To A &quot;Crazy Beast&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-31 12:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament" target="_blank">Serbia just elected the world&#x27;s brainiest parliament</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-10-31 10:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -191,33 +218,6 @@
                 <span class="time">2026-10-31 01:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Wine-11.21-Released" target="_blank">Wine 11.21 Released With Better WoW64 OpenGL Performance</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-10-31 00:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/10/ubuntu-tenacious-t-rex-406x232.webp" alt="Ubuntu 27.04 ‘Tenacious T-Rex’ opens for development" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/ubuntu-2704-opens-for-development" target="_blank">Ubuntu 27.04 ‘Tenacious T-Rex’ opens for development</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-10-30 21:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/PostgreSQL-19-Late" target="_blank">PostgreSQL 19 Running Behind Schedule Due To AI/LLM Burden</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-10-30 18:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/DOOM-MAIN-1280x720.jpg" alt="Doom Director Says ‘We’re Doing Great’ After Half Of id Software Was Laid Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/doom-director-says-were-doing-great-after-half-of-id-software-was-laid-off-2000751940" target="_blank">Doom Director Says ‘We’re Doing Great’ After Half Of id Software Was Laid Off</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-31 13:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/popkin-west-virginia-cryptid-license-plate.jpg?fit=1200%2C1600&amp;quality=60&amp;ssl=1" alt="West Virginia now has a license plate full of cryptids, including Mothman" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/10/31/popkin-west-virginia-cryptid-license-plate.html" target="_blank">West Virginia now has a license plate full of cryptids, including Mothman</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-10-31 12:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/bottle-imps-rucker-painting.jpg?fit=2048%2C1638&amp;quality=60&amp;ssl=1" alt="&quot;The Bottle Imps&quot; — new short fiction by Rudy Rucker and Bruce Sterling" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -301,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 38 | 📡 Total Sources: 41 | 📸 With Images: 262 |
-        🔄 Last Updated: 07:40 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 42 | 📡 Total Sources: 41 | 📸 With Images: 264 |
+        🔄 Last Updated: 13:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
