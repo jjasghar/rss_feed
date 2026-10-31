@@ -1,32 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-10-30 21:11:29 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-10-31 01:10:43 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 24 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 13 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, October 30, 2026 - 21:11 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, October 31, 2026 - 01:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,12 +52,48 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea75/live/f93e2820-d4b7-11f1-a701-fddedf244c16.jpg" alt="US approves sale of 500 Patriot missiles to Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss" target="_blank">US approves sale of 500 Patriot missiles to Ukraine</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-31 00:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/10/31/germany-and-france-brace-for-protests-on-halloween-weekend?traffic_source=rss" target="_blank">Germany and France brace for protests on Halloween weekend</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-31 00:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/1793401644124_nn_spa_alaska_senate_261030_S3_1920x1080-s33q29.jpg" alt="FBI investigating Alaska Democrat’s campaign" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/fbi-investigating-alaska-democrat-s-campaign-272577605670" target="_blank">FBI investigating Alaska Democrat’s campaign</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-10-30 23:07</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/10/30/swiss-supreme-court-upholds-liberian-ex-rebel-commanders-20-year-sentence?traffic_source=rss" target="_blank">Swiss supreme court upholds Liberian ex-rebel commander’s 20-year sentence</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-10-30 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/alaska-vote-1-ap-gmh-261027_1793111616709_hpMain_4x3t_384.jpg" alt="Ranked choice voting explained as voters in 2 states rank congressional picks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/ranked-choice-voting-explained-voters-2-states-rank/story?id=137476649" target="_blank">Ranked choice voting explained as voters in 2 states rank congressional picks</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-30 20:24</span>
             </div>
         </div>
 <div class="story">
@@ -60,47 +105,38 @@
                 <span class="time">2026-10-30 17:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-gty-gmh-261030_1793367510763_hpMain_4x3t_384.jpg" alt="Midterm elections live updates: Trump&#x27;s weekend rallies in Kansas, Iowa are back on" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/live-updates/midterm-elections-2026-1-week-high-stakes-elections/?id=137578278" target="_blank">Midterm elections live updates: Trump&#x27;s weekend rallies in Kansas, Iowa are back on</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-30 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/107f/live/fce8fef0-d47b-11f1-80bc-6d398902272f.jpg" alt="Police Scotland carrying out &#x27;active inquiries&#x27; into Andrew and Epstein Balmoral visits" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqglwp088532o?at_medium=RSS&at_campaign=rss" target="_blank">Police Scotland carrying out &#x27;active inquiries&#x27; into Andrew and Epstein Balmoral visits</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-30 15:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31a8/live/31633420-d43b-11f1-93e1-3b657b665bcf.jpg" alt="Crypto giant Binance hit by $6.3bn hack suspected to be largest in history" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss" target="_blank">Crypto giant Binance hit by $6.3bn hack suspected to be largest in history</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-30 09:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/30/g-s1-149560/2026-vote-midterm-election-local-voter-guides" target="_blank">2026 midterm election voter guides: Find local resources in your community</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-30 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/" target="_blank">Salesforce’s M&amp;A spree continues with a reported $375M deal for defense tech startup Rune</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-10-30 23:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3" target="_blank">Apple Intelligence is finally coming to China with iOS 27.3</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-10-30 22:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6ae50ed40af6dcf295d6abe7/master/pass/Google%20Pixel%20Watch%205%20Deals%20Post%2010206%20top%20art%20SOURCE%20Amazon.jpg" alt="Google Pixel Watch 5 Sale: Its Lowest Price Yet (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/googles-pixel-watch-5-is-down-to-its-lowest-price-yet/" target="_blank">Google Pixel Watch 5 Sale: Its Lowest Price Yet (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-10-30 22:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-500x500.jpeg" alt="Anthropic VS code extension on Cursor backdoored for nearly 12 hours" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -128,38 +164,29 @@
                 <span class="time">2026-10-30 20:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/" target="_blank">Elon Musk is ‘truly a genius,’ says Vladimir Putin</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-10-29 21:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/reddit-icon-500x500.jpg" alt="Reddit is moving to “a logged-in-only experience,” CEO says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/" target="_blank">Reddit is moving to “a logged-in-only experience,” CEO says</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-10-29 21:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Sam Altman Thinks Your PC Is Wasting Precious RAM" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://hardware.slashdot.org/story/26/10/30/2017206/sam-altman-thinks-your-pc-is-wasting-precious-ram?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Sam Altman Thinks Your PC Is Wasting Precious RAM</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/frankchu/applebees-shipped-its-database-password-inside-its-app-anyone-with-the-apk-was-an-admin-4048" target="_blank">Applebee&#x27;s shipped its database password inside its app. Anyone with the APK was an admin.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-31 01:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wine-11.21-Released" target="_blank">Wine 11.21 Released With Better WoW64 OpenGL Performance</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-10-31 00:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,24 +221,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.4-x86-Platform-Driver" target="_blank">AMD Ryzen Zen 6 Looks Like It Will Be In Good Shape With Linux 7.4, Laptop Improvements</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-10-30 15:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="DoorDash Cuts Grocery Reorder Latency from 16 to 2 Seconds with AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/10/doordash-ai-grocery-reorder/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">DoorDash Cuts Grocery Reorder Latency from 16 to 2 Seconds with AI Agents</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-10-30 13:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/faliye/i-bought-thunderbolt-5-and-got-usb4-40g-re-benchmarking-a-two-machine-llamacpp-rpc-setup-across-29im" target="_blank">I bought Thunderbolt 5 and got USB4 40G: re-benchmarking a two-machine llama.cpp RPC setup across three links and six models</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-30 09:10</span>
             </div>
         </div>
 </div>
@@ -251,20 +260,20 @@
                 <span class="time">2026-10-30 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/10/Spirt-Halloween-2026-1-1280x720.jpg" alt="Spirit Halloween 2026: The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/checking-in-on-spirit-halloween-in-2026-was-a-wild-ride-2000751047" target="_blank">Spirit Halloween 2026: The Kotaku Review</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-29 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/10/30/mr-yuk" target="_blank">Mr. Yuk</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-10-30 19:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1793146786-20261030.png" alt="Saturday Morning Breakfast Cereal - Dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,12 +284,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://www.questionablecontent.net/comics/5950.png" alt="Frugality" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://imgs.xkcd.com/comics/earth_sized_planets.png" alt="Earth Sized Planets" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5950" target="_blank">Frugality</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-10-30 01:08</span>
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3318/" target="_blank">Earth Sized Planets</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-10-30 04:00</span>
             </div>
         </div>
 </div>
@@ -288,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 37 | 📡 Total Sources: 40 | 📸 With Images: 260 |
-        🔄 Last Updated: 21:11 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 38 | 📡 Total Sources: 41 | 📸 With Images: 258 |
+        🔄 Last Updated: 01:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
