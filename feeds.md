@@ -1,40 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-10-31 18:09:16 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-10-31 22:00:05 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 32 feeds processed -->
+<!-- Generated 6 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, October 31, 2026 - 18:09 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Saturday, October 31, 2026 - 22:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -78,6 +69,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca26/live/ddbc05b0-d546-11f1-b69a-cfba30d5f3d4.jpg" alt="Healey risks breaking minimum wage promise for younger workers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss" target="_blank">Healey risks breaking minimum wage promise for younger workers</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-31 17:26</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -95,20 +95,29 @@
                 <span class="time">2026-10-31 12:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261030-Talarico-Hamilton-Cognetti-ch-0959-930075.jpg" alt="Democrats in key battlegrounds throw Joe Biden under the bus on the border" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/2026-democratic-candidates-throw-joe-biden-bus-border-security-rcna603228" target="_blank">Democrats in key battlegrounds throw Joe Biden under the bus on the border</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-10-31 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/" target="_blank">Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-10-31 21:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror" target="_blank">Get in the spirit with these horrors from YouTube</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-10-31 21:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6ae4e9f503c2c36f4cfc913c/master/pass/KernelPanic_10312026_v1.jpg" alt="Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,29 +154,20 @@
                 <span class="time">2026-10-30 22:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6ae50ed40af6dcf295d6abe7/master/pass/Google%20Pixel%20Watch%205%20Deals%20Post%2010206%20top%20art%20SOURCE%20Amazon.jpg" alt="Google Pixel Watch 5 Sale: Its Lowest Price Yet (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/googles-pixel-watch-5-is-down-to-its-lowest-price-yet/" target="_blank">Google Pixel Watch 5 Sale: Its Lowest Price Yet (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-10-30 22:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-500x500.jpeg" alt="Anthropic VS code extension on Cursor backdoored for nearly 12 hours" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/" target="_blank">Anthropic VS code extension on Cursor backdoored for nearly 12 hours</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-10-30 21:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://karpathy.bearblog.dev/hacker-tube/" target="_blank">HackerTube: YouTube built from videos recommended by HN</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-10-31 19:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fcdn.bsky.app%2Fimg%2Ffeed_fullsize%2Fplain%2Fdid%3Aplc%3Azl7pjaqajbk5mlwalj62hiz2%2Fbafkreidd2zmdf6d42iqqdb6ff6vbaiuqknnz36s4ff6veegf77vmaqan44" alt="Prospero is a C++ coding harness for local LLMs whose author claims around two orders of magnitude fewer resources" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -211,29 +211,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.4-Drops-Taint-Bind" target="_blank">New Linux 7.4 Feature For Reducing AI Noise Already Reverted Due To A &quot;Crazy Beast&quot;</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-10-31 12:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament" target="_blank">Serbia just elected the world&#x27;s brainiest parliament</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-10-31 10:21</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-bigfin-squid-off-california-coast.html" target="_blank">Friday Squid Blogging: Bigfin Squid Off California Coast</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-10-30 21:04</span>
             </div>
         </div>
 </div>
@@ -300,22 +277,13 @@
                 <span class="time">2026-10-31 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/10/30/mr-yuk" target="_blank">Mr. Yuk</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-10-30 19:46</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 41 | 📡 Total Sources: 40 | 📸 With Images: 264 |
-        🔄 Last Updated: 18:09 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 38 | 📡 Total Sources: 39 | 📸 With Images: 266 |
+        🔄 Last Updated: 22:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
