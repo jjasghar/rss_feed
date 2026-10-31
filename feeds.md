@@ -1,36 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-10-31 13:58:40 UTC -->
+<!-- Processing 54 RSS feeds at 2026-10-31 18:09:16 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Saturday, October 31, 2026 - 13:58 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, October 31, 2026 - 18:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +51,42 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/Politics/east-potomac-watch-20261030-ap-jh_1793405130651_hpMain_4x3t_384.jpg" alt="Judge says court will investigate government officials in DC golf course case" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/judge-court-investigate-government-officials-dc-golf-case/story?id=137723824" target="_blank">Judge says court will investigate government officials in DC golf course case</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-31 17:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41b8/live/9f93a310-d532-11f1-b441-2b33b063138f.jpg" alt="Ukrainian evacuees reunite with family after years trapped in Russia-occupied city" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss" target="_blank">Ukrainian evacuees reunite with family after years trapped in Russia-occupied city</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-10-31 17:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/10/31/coventry-beat-sunderland-man-united-on-verge-of-premier-league-drop-zone?traffic_source=rss" target="_blank">Coventry win leaves Man United on brink of Premier League relegation zone</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-10-31 17:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/10/31/nx-s1-6024423/criminal-probe-alaska-senate-candidate" target="_blank">Justice Department seeks to isolate Alaska ballots amid criminal probe over Senate candidate</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-10-31 13:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/26/07/1920x1080/skynews-garda-police-ireland_7305746.jpg?20260724122344" alt="Man dies and another injured after attack at centre housing migrants" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
@@ -62,42 +102,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/2026-democratic-candidates-throw-joe-biden-bus-border-security-rcna603228" target="_blank">Democrats in key battlegrounds throw Joe Biden under the bus on the border</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-10-31 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a09/live/908b67d0-d4cf-11f1-b441-2b33b063138f.jpg" alt="Burnham &#x27;open&#x27; to calls for slavery apology but not reparations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c5398239je88o?at_medium=RSS&at_campaign=rss" target="_blank">Burnham &#x27;open&#x27; to calls for slavery apology but not reparations</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-31 03:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261030-voting-minn-aa-0946-99ae34.jpg" alt="Judge orders Trump administration to stop threatening election officials" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/judge-orders-trump-administration-stop-threatening-election-officials-rcna606659" target="_blank">Judge orders Trump administration to stop threatening election officials</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-10-31 02:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/vote-1-rt-gmh-261026_1793106949045_hpMain_4x3t_384.jpg" alt="Midterm elections live updates: Judge orders DOJ to halt threats to election workers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/live-updates/midterm-elections-2026-1-week-high-stakes-elections/?id=137578278" target="_blank">Midterm elections live updates: Judge orders DOJ to halt threats to election workers</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-31 01:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea75/live/f93e2820-d4b7-11f1-a701-fddedf244c16.jpg" alt="US approves sale of 500 Patriot missiles to Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss" target="_blank">US approves sale of 500 Patriot missiles to Ukraine</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-31 00:40</span>
             </div>
         </div>
 </div>
@@ -165,6 +169,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fcdn.bsky.app%2Fimg%2Ffeed_fullsize%2Fplain%2Fdid%3Aplc%3Azl7pjaqajbk5mlwalj62hiz2%2Fbafkreidd2zmdf6d42iqqdb6ff6vbaiuqknnz36s4ff6veegf77vmaqan44" alt="Prospero is a C++ coding harness for local LLMs whose author claims around two orders of magnitude fewer resources" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/delimitter/prospero-is-a-c-coding-harness-for-local-llms-whose-author-claims-around-two-orders-of-magnitude-3on7" target="_blank">Prospero is a C++ coding harness for local LLMs whose author claims around two orders of magnitude fewer resources</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-10-31 18:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/10/openbsd-8-released/en/headerimage/openbsd-8-released-1793464400707.jpeg" alt="OpenBSD 8.0 Brings Expanded Hardware Support, Security Enhancements, and Virtualization Improvements" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/10/openbsd-8-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenBSD 8.0 Brings Expanded Hardware Support, Security Enhancements, and Virtualization Improvements</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-10-31 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/" target="_blank">Malware uses LLMs to rank victims by how much they&#x27;re worth</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-10-31 14:29</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -191,33 +222,6 @@
                 <span class="time">2026-10-31 10:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/koheip/before-you-burn-gpu-hours-smoke-test-one-task-on-a-cheap-cpu-runtime-h8h" target="_blank">Before You Burn GPU Hours, Smoke-Test One Task on a Cheap CPU Runtime</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-31 07:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/10/google-pagebreak-security-agent/en/headerimage/generatedHeaderImage-1791008728252.jpg" alt="Google Discloses PageBreak AI Security Agent That Found 500+ XSS Bugs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/10/google-pagebreak-security-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Discloses PageBreak AI Security Agent That Found 500+ XSS Bugs</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-10-31 06:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/frankchu/applebees-shipped-its-database-password-inside-its-app-anyone-with-the-apk-was-an-admin-4048" target="_blank">Applebee&#x27;s shipped its database password inside its app. Anyone with the APK was an admin.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-31 01:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/High-Definition-Monocular-Telescope.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Upgrade your nosebleed seats with a $39.99 high-def monocular" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/10/31/upgrade-your-nosebleed-seats-with-a-39-99-high-def-monocular.html" target="_blank">Upgrade your nosebleed seats with a $39.99 high-def monocular</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-10-31 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/DOOM-MAIN-1280x720.jpg" alt="Doom Director Says ‘We’re Doing Great’ After Half Of id Software Was Laid Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,29 +286,20 @@
                 <span class="time">2026-10-31 01:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2023/06/7a2604f28d0906292e1706ff5ef6fff3-1280x720.jpg" alt="AI Is Forcing Reddit To Get Way Worse" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ai-is-forcing-reddit-to-get-way-worse-2000751581" target="_blank">AI Is Forcing Reddit To Get Way Worse</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-30 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/Microsoft-Office-Professional-2021-for-Windows-1-1200.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="For only $28, get Word, Excel, Outlook, Access, and more without recurring subscription fees" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/10/30/for-only-28-get-word-excel-outlook-access-and-more-without-recurring-subscription-fees.html" target="_blank">For only $28, get Word, Excel, Outlook, Access, and more without recurring subscription fees</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-10-30 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1793393828-20261031.png" alt="Saturday Morning Breakfast Cereal - Help" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/help-4" target="_blank">Saturday Morning Breakfast Cereal - Help</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-10-31 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -305,22 +309,13 @@
                 <span class="time">2026-10-30 19:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1793146786-20261030.png" alt="Saturday Morning Breakfast Cereal - Dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/dead-3" target="_blank">Saturday Morning Breakfast Cereal - Dead</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-10-30 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 42 | 📡 Total Sources: 41 | 📸 With Images: 264 |
-        🔄 Last Updated: 13:58 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 41 | 📡 Total Sources: 40 | 📸 With Images: 264 |
+        🔄 Last Updated: 18:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
