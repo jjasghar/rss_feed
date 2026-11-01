@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-11-01 14:00:51 UTC -->
+<!-- Processing 54 RSS feeds at 2026-11-01 19:15:27 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Generated 12 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, November 01, 2026 - 14:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Sunday, November 01, 2026 - 19:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,42 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/11/01/nx-s1-6025467/chris-murphy-stroke" target="_blank">Connecticut Senator Chris Murphy is hospitalized with a stroke</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-11-01 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/11/1/how-will-the-iran-war-shape-the-outcome-of-the-u-s-midterm-vote?traffic_source=rss" target="_blank">How will the Iran war shape the outcome of the US midterm vote?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-11-01 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/chris-murphy-abc-jm-250209_1739113572108_hpMain_4x3t_384.jpg" alt="Sen. Chris Murphy hospitalized after suffering a stroke, chief of staff says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/sen-chris-murphy-hospitalized-after-suffering-stroke-chief/story?id=137751743" target="_blank">Sen. Chris Murphy hospitalized after suffering a stroke, chief of staff says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-11-01 18:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ace/live/3e4ef120-d5d4-11f1-8629-7b9503d639be.jpg" alt="Shops looted as German cost-of-living protests turn violent" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss" target="_blank">Shops looted as German cost-of-living protests turn violent</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-01 11:57</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/trump-main_1793528992925_hpMain_4x3t_384.jpg" alt="Midterm elections live updates: Trump feeling &#x27;very good&#x27; ahead of midterms" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -55,48 +92,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1d6/live/e39b2030-d58f-11f1-b151-73ae9f7607e8.jpg" alt="Shops looted as German cost of living protests turn violent" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/26/11/1920x1080/skynews-ciara-mageean-european_7393707.jpg?20261101104505" alt="Former Ireland European 1,500m champion dies at age of 34" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss" target="_blank">Shops looted as German cost of living protests turn violent</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-01 06:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/11/1/canelo-alvarez-defeats-christian-mbilli-to-reclaim-wbc-title-in-riyadh?traffic_source=rss" target="_blank">Canelo Alvarez defeats Christian Mbilli to reclaim WBC title in Riyadh</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-11-01 06:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261030-dan-sullivan-alaska-w-1507-797575.jpg" alt="Alaska officials ask judge to deny DOJ’s ‘impossible’ demand to set aside ballots" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/alaska-officials-ask-judge-deny-trump-administrations-impossible-deman-rcna606765" target="_blank">Alaska officials ask judge to deny DOJ’s ‘impossible’ demand to set aside ballots</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-11-01 02:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz?traffic_source=rss" target="_blank">Iran war live: Araghchi says talks under way on 2-day plan to reopen Hormuz</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-11-01 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/california-voting-ap-jt-261031_1793472010818_hpMain_4x3t_384.jpg" alt="Election workers describe toll of DOJ threats in court filings" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/california-election-workers-describe-toll-doj-threats-court/story?id=137736879" target="_blank">Election workers describe toll of DOJ threats in court filings</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-31 22:43</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/ciara-mageean-former-european-1500m-champion-dies-at-age-of-34-13606579" target="_blank">Former Ireland European 1,500m champion dies at age of 34</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-11-01 08:15</span>
             </div>
         </div>
 </div>
@@ -104,6 +105,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features" target="_blank">Apple’s HomeView could add security camera features</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-11-01 17:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -132,28 +142,19 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Which Tech Companies Started Using Trump&#x27;s Phrase &#x27;Super Intelligence&#x27;?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://tech.slashdot.org/story/26/10/31/0615204/which-tech-companies-started-using-trumps-phrase-super-intelligence?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Which Tech Companies Started Using Trump&#x27;s Phrase &#x27;Super Intelligence&#x27;?</a></span>
+                <span class="feed">Slashdot</span>
+                
+            </div>
+        </div>
+<div class="story">
             <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Meta Discussed &#x27;Whisper Strategy&#x27; to Discredit Social Media Critic Jonathan Haidt, Files Show" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-comments"></span>
                 <span class="title"><a href="https://tech.slashdot.org/story/26/10/31/0559203/meta-discussed-whisper-strategy-to-discredit-social-media-critic-jonathan-haidt-files-show?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Meta Discussed &#x27;Whisper Strategy&#x27; to Discredit Social Media Critic Jonathan Haidt, Files Show</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Computer Simulations Suggest Building Blocks of Life Didn&#x27;t Arrive on Prehistoric Comets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://science.slashdot.org/story/26/10/31/2142240/computer-simulations-suggest-building-blocks-of-life-didnt-arrive-on-prehistoric-comets?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Computer Simulations Suggest Building Blocks of Life Didn&#x27;t Arrive on Prehistoric Comets</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Dozens of Unexplained Drones Have Buzzed America&#x27;s Nuclear Plants Since 2024" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://news.slashdot.org/story/26/10/31/1742209/dozens-of-unexplained-drones-have-buzzed-americas-nuclear-plants-since-2024?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Dozens of Unexplained Drones Have Buzzed America&#x27;s Nuclear Plants Since 2024</a></span>
                 <span class="feed">Slashdot</span>
                 
             </div>
@@ -163,6 +164,24 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aicoding-guide/codex-cli-v0166-adds-codex-queue-resume-and-codex-doctor-network-only-5ae0" target="_blank">Codex CLI v0.166 adds codex queue --resume and codex doctor --network-only</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-11-01 19:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17512838/free-vpn-linux" target="_blank">Here&#x27;s How You Can Use VPNs for FREE on Linux</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-11-01 15:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdummyimage.com%2F1200x500%2F101827%2F00eaff.png%26text%3DAdaptive%2BConcurrency%253A%2BMeasure%2B%25E2%2586%2592%2BAdjust%2B%25E2%2586%2592%2BProtect" alt="Adaptive Concurrency Limits in Go: Dynamically Protecting Dependencies Under Load" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -199,29 +218,29 @@
                 <span class="time">2026-11-01 06:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/RAID-Drive-Replacement-Tonight" target="_blank">Brief Server Downtime Expected Tonight</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-11-01 00:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/10/sanket-menu-layouts-406x232.avif" alt="Sanket lets you redesign GNOME’s date menu and Quick Settings" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/sanket-rearrange-gnome-calendar-menus" target="_blank">Sanket lets you redesign GNOME’s date menu and Quick Settings</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-10-31 20:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/11/halloweenmariospeedrun.jpg" alt="Mario-Dressed Speedrunner Breaks World Super Mario Bros. Record On Halloween Stream: ‘Can I Please Break Character’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/mario-dressed-speedrunner-breaks-world-super-mario-bros-record-on-halloween-stream-can-i-please-break-character-2000752087" target="_blank">Mario-Dressed Speedrunner Breaks World Super Mario Bros. Record On Halloween Stream: ‘Can I Please Break Character’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-11-01 16:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/Microsoft-Windows-11-Pro-3-1200.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Your PC could be running Windows 11 Pro for less than $10" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/11/01/your-pc-could-be-running-windows-11-pro-for-less-than-10.html" target="_blank">Your PC could be running Windows 11 Pro for less than $10</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-11-01 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/Apple-MacBook-Air.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This is your chance to get a free gift when you purchase a refurbished Mac" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -240,27 +259,18 @@
                 <span class="time">2026-10-31 19:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/High-Definition-Monocular-Telescope.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Upgrade your nosebleed seats with a $39.99 high-def monocular" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/10/31/upgrade-your-nosebleed-seats-with-a-39-99-high-def-monocular.html" target="_blank">Upgrade your nosebleed seats with a $39.99 high-def monocular</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-10-31 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
-            <img src="https://www.smbc-comics.com/comics/1793393828-20261031.png" alt="Saturday Morning Breakfast Cereal - Help" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1793393877-20261101.png" alt="Saturday Morning Breakfast Cereal - Burnout" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/help-4" target="_blank">Saturday Morning Breakfast Cereal - Help</a></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/burnout" target="_blank">Saturday Morning Breakfast Cereal - Burnout</a></span>
                 <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-10-31 15:20</span>
+                <span class="time">2026-11-01 16:20</span>
             </div>
         </div>
 </div>
@@ -268,8 +278,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 27 | 📡 Total Sources: 40 | 📸 With Images: 267 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 29 | 📡 Total Sources: 40 | 📸 With Images: 269 |
+        🔄 Last Updated: 19:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
