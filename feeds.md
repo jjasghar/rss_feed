@@ -1,31 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-10-31 22:00:05 UTC -->
+<!-- Processing 54 RSS feeds at 2026-11-01 00:45:54 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 22 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Saturday, October 31, 2026 - 22:00 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, November 01, 2026 - 00:46 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz?traffic_source=rss" target="_blank">Iran war live: Araghchi says talks under way on 2-day plan to reopen Hormuz</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-11-01 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/california-voting-ap-jt-261031_1793472010818_hpMain_4x3t_384.jpg" alt="Election workers describe toll of DOJ threats in court filings" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/california-election-workers-describe-toll-doj-threats-court/story?id=137736879" target="_blank">Election workers describe toll of DOJ threats in court filings</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-10-31 22:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/east-potomac-watch-20261030-ap-jh_1793405130651_hpMain_4x3t_384.jpg" alt="Judge says court will investigate government officials in DC golf course case" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -75,24 +100,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss" target="_blank">Healey risks breaking minimum wage promise for younger workers</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-10-31 17:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/10/31/nx-s1-6024423/criminal-probe-alaska-senate-candidate" target="_blank">Justice Department seeks to isolate Alaska ballots amid criminal probe over Senate candidate</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-10-31 13:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/07/1920x1080/skynews-garda-police-ireland_7305746.jpg?20260724122344" alt="Man dies and another injured after attack at centre housing migrants" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/man-dies-and-another-injured-after-attack-at-centre-housing-migrants-in-ireland-13606071" target="_blank">Man dies and another injured after attack at centre housing migrants</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-10-31 12:05</span>
             </div>
         </div>
 </div>
@@ -137,21 +144,21 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Computer Simulations Suggest Building Blocks of Life Didn&#x27;t Arrive on Prehistoric Comets" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/" target="_blank">Salesforce’s M&amp;A spree continues with a reported $375M deal for defense tech startup Rune</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-10-30 23:21</span>
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://science.slashdot.org/story/26/10/31/2142240/computer-simulations-suggest-building-blocks-of-life-didnt-arrive-on-prehistoric-comets?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Computer Simulations Suggest Building Blocks of Life Didn&#x27;t Arrive on Prehistoric Comets</a></span>
+                <span class="feed">Slashdot</span>
+                
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Dozens of Unexplained Drones Have Buzzed America&#x27;s Nuclear Plants Since 2024" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3" target="_blank">Apple Intelligence is finally coming to China with iOS 27.3</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-10-30 22:32</span>
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://news.slashdot.org/story/26/10/31/1742209/dozens-of-unexplained-drones-have-buzzed-americas-nuclear-plants-since-2024?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Dozens of Unexplained Drones Have Buzzed America&#x27;s Nuclear Plants Since 2024</a></span>
+                <span class="feed">Slashdot</span>
+                
             </div>
         </div>
 </div>
@@ -159,6 +166,15 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/10/sanket-menu-layouts-406x232.avif" alt="Sanket lets you redesign GNOME’s date menu and Quick Settings" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/10/sanket-rearrange-gnome-calendar-menus" target="_blank">Sanket lets you redesign GNOME’s date menu and Quick Settings</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-10-31 20:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,20 +220,20 @@
                 <span class="time">2026-10-31 13:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.4-Drops-Taint-Bind" target="_blank">New Linux 7.4 Feature For Reducing AI Noise Already Reverted Due To A &quot;Crazy Beast&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-10-31 12:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2022/07/452cce7a4e33f51ab2dd8aaa30dcb516-1280x720.jpg" alt="EA Offices Tagged With ‘Save Mass Effect’ Graffiti" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ea-offices-tagged-with-save-mass-effect-graffiti-2000751962" target="_blank">EA Offices Tagged With ‘Save Mass Effect’ Graffiti</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-10-31 19:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/High-Definition-Monocular-Telescope.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Upgrade your nosebleed seats with a $39.99 high-def monocular" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 38 | 📡 Total Sources: 39 | 📸 With Images: 266 |
-        🔄 Last Updated: 22:00 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 36 | 📡 Total Sources: 39 | 📸 With Images: 267 |
+        🔄 Last Updated: 00:46 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
