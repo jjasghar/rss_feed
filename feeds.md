@@ -1,32 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-11-01 06:58:27 UTC -->
+<!-- Processing 54 RSS feeds at 2026-11-01 14:00:51 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, November 01, 2026 - 06:58 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, November 01, 2026 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +46,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/trump-main_1793528992925_hpMain_4x3t_384.jpg" alt="Midterm elections live updates: Trump feeling &#x27;very good&#x27; ahead of midterms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/live-updates/midterm-elections-2026-1-week-high-stakes-elections/?id=137578278" target="_blank">Midterm elections live updates: Trump feeling &#x27;very good&#x27; ahead of midterms</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-11-01 11:16</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1d6/live/e39b2030-d58f-11f1-b151-73ae9f7607e8.jpg" alt="Shops looted as German cost of living protests turn violent" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -58,6 +70,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/11/1/canelo-alvarez-defeats-christian-mbilli-to-reclaim-wbc-title-in-riyadh?traffic_source=rss" target="_blank">Canelo Alvarez defeats Christian Mbilli to reclaim WBC title in Riyadh</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-11-01 06:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261030-dan-sullivan-alaska-w-1507-797575.jpg" alt="Alaska officials ask judge to deny DOJ’s ‘impossible’ demand to set aside ballots" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/alaska-officials-ask-judge-deny-trump-administrations-impossible-deman-rcna606765" target="_blank">Alaska officials ask judge to deny DOJ’s ‘impossible’ demand to set aside ballots</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-11-01 02:00</span>
             </div>
         </div>
 <div class="story">
@@ -78,29 +99,20 @@
                 <span class="time">2026-10-31 22:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/east-potomac-watch-20261030-ap-jh_1793405130651_hpMain_4x3t_384.jpg" alt="Judge says court will investigate government officials in DC golf course case" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/judge-court-investigate-government-officials-dc-golf-case/story?id=137723824" target="_blank">Judge says court will investigate government officials in DC golf course case</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-10-31 17:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41b8/live/9f93a310-d532-11f1-b441-2b33b063138f.jpg" alt="Ukrainian evacuees reunite with family after years trapped in Russia-occupied city" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss" target="_blank">Ukrainian evacuees reunite with family after years trapped in Russia-occupied city</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-31 17:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists" target="_blank">New Zelda and GTA represent a games industry that no longer exists</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-11-01 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -120,21 +132,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media.wired.com/photos/6ae4e9f503c2c36f4cfc913c/master/pass/KernelPanic_10312026_v1.jpg" alt="Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Meta Discussed &#x27;Whisper Strategy&#x27; to Discredit Social Media Critic Jonathan Haidt, Files Show" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/" target="_blank">Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-10-31 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-4-500x500.jpeg" alt="Seabirds racing home over the ocean can get jet-lagged" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/" target="_blank">Seabirds racing home over the ocean can get jet-lagged</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-10-31 11:15</span>
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://tech.slashdot.org/story/26/10/31/0559203/meta-discussed-whisper-strategy-to-discredit-social-media-critic-jonathan-haidt-files-show?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Meta Discussed &#x27;Whisper Strategy&#x27; to Discredit Social Media Critic Jonathan Haidt, Files Show</a></span>
+                <span class="feed">Slashdot</span>
+                
             </div>
         </div>
 <div class="story">
@@ -160,6 +163,24 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdummyimage.com%2F1200x500%2F101827%2F00eaff.png%26text%3DAdaptive%2BConcurrency%253A%2BMeasure%2B%25E2%2586%2592%2BAdjust%2B%25E2%2586%2592%2BProtect" alt="Adaptive Concurrency Limits in Go: Dynamically Protecting Dependencies Under Load" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/serifcolakel/adaptive-concurrency-limits-in-go-dynamically-protecting-dependencies-under-load-32gf" target="_blank">Adaptive Concurrency Limits in Go: Dynamically Protecting Dependencies Under Load</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-11-01 13:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/KDE-Kwi-Terminal-Emulator" target="_blank">Kwi Being Developed As New KDE Terminal Emulator With 3x To 35x Performance</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-11-01 13:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="I built many ghosts that haunt my Windows desktop — each one reacts to a different action" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -196,29 +217,20 @@
                 <span class="time">2026-10-31 20:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://karpathy.bearblog.dev/hacker-tube/" target="_blank">HackerTube: YouTube built from videos recommended by HN</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-10-31 19:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fcdn.bsky.app%2Fimg%2Ffeed_fullsize%2Fplain%2Fdid%3Aplc%3Azl7pjaqajbk5mlwalj62hiz2%2Fbafkreidd2zmdf6d42iqqdb6ff6vbaiuqknnz36s4ff6veegf77vmaqan44" alt="Prospero is a C++ coding harness for local LLMs whose author claims around two orders of magnitude fewer resources" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/delimitter/prospero-is-a-c-coding-harness-for-local-llms-whose-author-claims-around-two-orders-of-magnitude-3on7" target="_blank">Prospero is a C++ coding harness for local LLMs whose author claims around two orders of magnitude fewer resources</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-31 18:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/Apple-MacBook-Air.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This is your chance to get a free gift when you purchase a refurbished Mac" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/10/31/this-is-your-chance-to-get-a-free-gift-when-you-purchase-a-refurbished-mac.html" target="_blank">This is your chance to get a free gift when you purchase a refurbished Mac</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-10-31 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2022/07/452cce7a4e33f51ab2dd8aaa30dcb516-1280x720.jpg" alt="EA Offices Tagged With ‘Save Mass Effect’ Graffiti" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -235,24 +247,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/10/31/upgrade-your-nosebleed-seats-with-a-39-99-high-def-monocular.html" target="_blank">Upgrade your nosebleed seats with a $39.99 high-def monocular</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-10-31 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/DOOM-MAIN-1280x720.jpg" alt="Doom Director Says ‘We’re Doing Great’ After Half Of id Software Was Laid Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/doom-director-says-were-doing-great-after-half-of-id-software-was-laid-off-2000751940" target="_blank">Doom Director Says ‘We’re Doing Great’ After Half Of id Software Was Laid Off</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-31 13:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/popkin-west-virginia-cryptid-license-plate.jpg?fit=1200%2C1600&amp;quality=60&amp;ssl=1" alt="West Virginia now has a license plate full of cryptids, including Mothman" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/10/31/popkin-west-virginia-cryptid-license-plate.html" target="_blank">West Virginia now has a license plate full of cryptids, including Mothman</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-10-31 12:30</span>
             </div>
         </div>
 </div>
@@ -274,8 +268,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 33 | 📡 Total Sources: 40 | 📸 With Images: 266 |
-        🔄 Last Updated: 06:58 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 27 | 📡 Total Sources: 40 | 📸 With Images: 267 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
