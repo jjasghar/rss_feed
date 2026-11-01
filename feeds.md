@@ -1,38 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-11-01 00:45:54 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-11-01 06:58:27 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, November 01, 2026 - 00:46 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, November 01, 2026 - 06:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1d6/live/e39b2030-d58f-11f1-b151-73ae9f7607e8.jpg" alt="Shops looted as German cost of living protests turn violent" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss" target="_blank">Shops looted as German cost of living protests turn violent</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-01 06:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/11/1/canelo-alvarez-defeats-christian-mbilli-to-reclaim-wbc-title-in-riyadh?traffic_source=rss" target="_blank">Canelo Alvarez defeats Christian Mbilli to reclaim WBC title in Riyadh</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-11-01 06:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +94,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss" target="_blank">Ukrainian evacuees reunite with family after years trapped in Russia-occupied city</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-10-31 17:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/10/31/coventry-beat-sunderland-man-united-on-verge-of-premier-league-drop-zone?traffic_source=rss" target="_blank">Coventry win leaves Man United on brink of Premier League relegation zone</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-10-31 17:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca26/live/ddbc05b0-d546-11f1-b69a-cfba30d5f3d4.jpg" alt="Healey risks breaking minimum wage promise for younger workers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss" target="_blank">Healey risks breaking minimum wage promise for younger workers</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-10-31 17:26</span>
             </div>
         </div>
 </div>
@@ -167,6 +161,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="I built many ghosts that haunt my Windows desktop — each one reacts to a different action" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/soumabhi/i-built-many-ghosts-that-haunt-my-windows-desktop-each-one-reacts-to-a-different-action-3ooh" target="_blank">I built many ghosts that haunt my Windows desktop — each one reacts to a different action</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-11-01 06:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/11/aws-s3-file-transfer/en/headerimage/generatedHeaderImage-1792218946629.jpg" alt="File Mover Express: AWS Releases Open-Source Tool for S3 File Transfers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/11/aws-s3-file-transfer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">File Mover Express: AWS Releases Open-Source Tool for S3 File Transfers</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-11-01 06:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/RAID-Drive-Replacement-Tonight" target="_blank">Brief Server Downtime Expected Tonight</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-11-01 00:32</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/10/sanket-menu-layouts-406x232.avif" alt="Sanket lets you redesign GNOME’s date menu and Quick Settings" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -191,33 +212,6 @@
                 <span class="title"><a href="https://dev.to/delimitter/prospero-is-a-c-coding-harness-for-local-llms-whose-author-claims-around-two-orders-of-magnitude-3on7" target="_blank">Prospero is a C++ coding harness for local LLMs whose author claims around two orders of magnitude fewer resources</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-10-31 18:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/10/openbsd-8-released/en/headerimage/openbsd-8-released-1793464400707.jpeg" alt="OpenBSD 8.0 Brings Expanded Hardware Support, Security Enhancements, and Virtualization Improvements" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/10/openbsd-8-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenBSD 8.0 Brings Expanded Hardware Support, Security Enhancements, and Virtualization Improvements</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-10-31 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/" target="_blank">Malware uses LLMs to rank victims by how much they&#x27;re worth</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-10-31 14:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/momin_aziz_1/source-code-leakage-through-ai-coding-assistants-5-paths-and-the-control-for-each-37c7" target="_blank">Source code leakage through AI coding assistants: 5 paths and the control for each</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-10-31 13:55</span>
             </div>
         </div>
 </div>
@@ -261,24 +255,6 @@
                 <span class="time">2026-10-31 12:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/bottle-imps-rucker-painting.jpg?fit=2048%2C1638&amp;quality=60&amp;ssl=1" alt="&quot;The Bottle Imps&quot; — new short fiction by Rudy Rucker and Bruce Sterling" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/10/30/the-bottle-imps-rudy-rucker-bruce-sterling.html" target="_blank">&quot;The Bottle Imps&quot; — new short fiction by Rudy Rucker and Bruce Sterling</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-10-31 04:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/09/NS2_TheLegendofZeldaOcarina12-1280x720.jpg" alt="If Walmart Canceled Your Zelda Switch 2 Pre-Order, The Store’s Giving You 48 Hours To Get A New One" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/if-walmart-canceled-your-zelda-switch-2-pre-order-the-stores-giving-you-48-hours-to-get-a-new-one-2000751739" target="_blank">If Walmart Canceled Your Zelda Switch 2 Pre-Order, The Store’s Giving You 48 Hours To Get A New One</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-10-31 01:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -298,8 +274,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 36 | 📡 Total Sources: 39 | 📸 With Images: 267 |
-        🔄 Last Updated: 00:46 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 33 | 📡 Total Sources: 40 | 📸 With Images: 266 |
+        🔄 Last Updated: 06:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
