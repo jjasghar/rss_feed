@@ -1,40 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-11-02 03:07:38 UTC -->
+<!-- Processing 54 RSS feeds at 2026-11-02 11:45:57 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 11 new posts out of 32 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Monday, November 02, 2026 - 03:07 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, November 02, 2026 - 11:46 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/planet-money/2026/11/02/g-s1-151009/two-economists-studied-californias-billionaire-tax-they-reached-wildly-different-conclusions" target="_blank">Two economists studied California&#x27;s billionaire tax. They reached wildly different conclusions</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-11-02 11:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,20 +103,29 @@
                 <span class="time">2026-11-01 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8e6/live/7871d270-d627-11f1-a947-0507737f09b2.jpg" alt="Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss" target="_blank">Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-01 21:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6abd93babaed9055bd40abc5/master/pass/culture_comedian_trolling_ai_interviewers.jpg" alt="Want to Sign With a Hollywood Agent? Start Making Fun of AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/comedians-making-fun-of-ai/" target="_blank">Want to Sign With a Hollywood Agent? Start Making Fun of AI</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-11-02 11:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data/" target="_blank">Ford launches a ‘privacy promise’ and explains how and why it uses customer data</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-11-02 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,29 +162,38 @@
                 <span class="time">2026-11-01 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6ac3f7f587319ffac19f963c/master/pass/Star%20Wars%20Gift%20Guide%20102026%20top%20art%20SOURCE%20Amazon.jpg" alt="The 30 Best Gifts for Star Wars Fans (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-star-wars-gifts/" target="_blank">The 30 Best Gifts for Star Wars Fans (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-11-01 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="SystemD&#x27;s Creator Opens Signups for Private Preview of Amutable&#x27;s Cryptographically Verified Linux Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://tech.slashdot.org/story/26/11/01/229250/systemds-creator-opens-signups-for-private-preview-of-amutables-cryptographically-verified-linux-systems?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">SystemD&#x27;s Creator Opens Signups for Private Preview of Amutable&#x27;s Cryptographically Verified Linux Systems</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://www.willmunn.xyz/gemini/python/2026/10/16/we-have-lift-off.html" target="_blank">Building a gemini server in python</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-11-02 11:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/articles/agentic-ai-context-memory-knowledge/en/headerimage/agentic-ai-context-memory-knowledge-header-1793173492489.jpg" alt="Article: Systemic Approach to Memory, Knowledge, and Context in Agentic AI Architectures" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/agentic-ai-context-memory-knowledge/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Systemic Approach to Memory, Knowledge, and Context in Agentic AI Architectures</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-11-02 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17513348/vlc-outrage-at-french-internet-tax" target="_blank">France’s Weird Per-Gigabyte Data Tax Could Cost VLC Over €1 Million a Year!</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-11-02 07:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -193,33 +219,6 @@
                 <span class="title"><a href="https://dev.to/kayabyte/onboarding-in-confluence-make-new-hires-watch-the-right-spaces-automatically-10ec" target="_blank">Onboarding in Confluence: make new hires watch the right spaces automatically</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-11-01 23:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.4-rc1" target="_blank">Linux 7.4-rc1 Released With Nice Performance Improvements, AMD Ryzen Zen 6 Preparations &amp; AMDGPU HDMI 2.1 Default</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-11-01 21:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/" target="_blank">Game Off 2026: The theme is SHIFT</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-11-01 21:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2024/01/enlightenment-desktop-logo-omgubuntu-406x232.jpg" alt="Enlightenment desktop 0.28 released with better networking" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/11/enlightenment-0-28-features" target="_blank">Enlightenment desktop 0.28 released with better networking</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-11-01 19:18</span>
             </div>
         </div>
 </div>
@@ -282,8 +281,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 39 | 📡 Total Sources: 40 | 📸 With Images: 269 |
-        🔄 Last Updated: 03:07 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 39 | 📡 Total Sources: 41 | 📸 With Images: 268 |
+        🔄 Last Updated: 11:46 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
