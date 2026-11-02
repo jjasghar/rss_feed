@@ -1,37 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-11-01 23:11:36 UTC -->
+<!-- Processing 54 RSS feeds at 2026-11-02 03:07:38 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 28 feeds processed -->
+<!-- Generated 11 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, November 01, 2026 - 23:11 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Monday, November 02, 2026 - 03:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +51,42 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/11/2/el-sayed-dismisses-haley-stevens-for-backing-of-republican-rival?traffic_source=rss" target="_blank">El-Sayed dismisses Stevens’ backing of Republican Senate candidate</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-11-02 02:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3608/live/1d2513e0-d646-11f1-b441-2b33b063138f.jpg" alt="Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-02 01:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1793577040977_wnn_lkr_michigan_senate_race_261101_S3_1920x1080-ja0kob.jpg" alt="New twist in critical Michigan Senate race" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/new-twist-in-critical-michigan-senate-race-272667717513" target="_blank">New twist in critical Michigan Senate race</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-11-01 23:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/11/01/nx-s1-6025502/stroke-acronym-be-fast" target="_blank">Do you know signs of a stroke? BE FAST are the words to remember</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-11-01 22:22</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/Learjet-crash-palm-beach-county-hd-bh-110126_1793570070769_hpMain_4x3t_384.jpg" alt="Learjet with 9 aboard crashes in Palm Beach County, Florida: FAA" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -63,42 +102,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss" target="_blank">Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-11-01 21:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/11/01/nx-s1-6025467/chris-murphy-stroke" target="_blank">Connecticut Senator Chris Murphy is hospitalized with a stroke</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-11-01 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/11/1/how-will-the-iran-war-shape-the-outcome-of-the-u-s-midterm-vote?traffic_source=rss" target="_blank">How will the Iran war shape the outcome of the US midterm vote?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-11-01 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/chris-murphy-abc-jm-250209_1739113572108_hpMain_4x3t_384.jpg" alt="Sen. Chris Murphy hospitalized after suffering a stroke, chief of staff says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/sen-chris-murphy-hospitalized-after-suffering-stroke-chief/story?id=137751743" target="_blank">Sen. Chris Murphy hospitalized after suffering a stroke, chief of staff says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-11-01 18:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ace/live/3e4ef120-d5d4-11f1-8629-7b9503d639be.jpg" alt="Shops looted as German cost-of-living protests turn violent" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss" target="_blank">Shops looted as German cost-of-living protests turn violent</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-01 11:57</span>
             </div>
         </div>
 </div>
@@ -169,6 +172,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/callumreed2198/2026-build-retrieval-for-restaurant-menu-assistant-with-metadata-filters-and-runbooks-bl4" target="_blank">2026 Build Retrieval for Restaurant Menu Assistant with Metadata Filters (and Runbooks)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-11-02 03:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Steam-Survey-October-2026" target="_blank">Steam On Linux Just Under 4% For October 2026</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-11-02 01:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/kayabyte/onboarding-in-confluence-make-new-hires-watch-the-right-spaces-automatically-10ec" target="_blank">Onboarding in Confluence: make new hires watch the right spaces automatically</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-11-01 23:08</span>
@@ -184,6 +205,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/" target="_blank">Game Off 2026: The theme is SHIFT</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-11-01 21:36</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2024/01/enlightenment-desktop-logo-omgubuntu-406x232.jpg" alt="Enlightenment desktop 0.28 released with better networking" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -192,38 +222,20 @@
                 <span class="time">2026-11-01 19:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aicoding-guide/codex-cli-v0166-adds-codex-queue-resume-and-codex-doctor-network-only-5ae0" target="_blank">Codex CLI v0.166 adds codex queue --resume and codex doctor --network-only</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-11-01 19:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://hackerbooks.org" target="_blank">Show HN: HackerBooks – HackerTube, but for books mentioned on HN</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-11-01 15:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17512838/free-vpn-linux" target="_blank">Here&#x27;s How You Can Use VPNs for FREE on Linux</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-11-01 15:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/11/nineworldspatrickstewart.jpg" alt="Patrick Stewart, Our Captain Of Multimedia CD-ROM Edutainment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/patrick-stewart-our-captain-of-multimedia-cd-rom-edutainment-2000752105" target="_blank">Patrick Stewart, Our Captain Of Multimedia CD-ROM Edutainment</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-11-01 22:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/Night-Vision-Binoculars-with-4.5-1.jpg?fit=1200%2C901&amp;quality=60&amp;ssl=1" alt="Capture the sights of the night with this deal on digital binoculars" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,8 +282,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 32 | 📡 Total Sources: 40 | 📸 With Images: 270 |
-        🔄 Last Updated: 23:11 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 39 | 📡 Total Sources: 40 | 📸 With Images: 269 |
+        🔄 Last Updated: 03:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
