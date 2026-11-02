@@ -1,39 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-11-02 11:45:57 UTC -->
+<!-- Processing 54 RSS feeds at 2026-11-02 20:58:14 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 30 feeds processed -->
+<!-- Generated 13 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, November 02, 2026 - 11:46 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, November 02, 2026 - 20:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +47,42 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/11/2/whats-the-future-of-the-western-sahara-conflict?traffic_source=rss" target="_blank">What’s the future of the Western Sahara conflict?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-11-02 20:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f63e/live/cc23f870-d6ff-11f1-a701-fddedf244c16.jpg" alt="Mahmood scraps settlement plans for migrant care workers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6lye8g4w7g1o?at_medium=RSS&at_campaign=rss" target="_blank">Mahmood scraps settlement plans for migrant care workers</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-02 20:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/11/02/nx-s1-6025407/chatbots-midterms-voting-advice" target="_blank">AI chatbots are becoming political advisers. Their answers can mislead voters</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-11-02 20:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1793644682517_now_current_vespa_elections_preview_261102_S3_1920x1080-ktrntg.jpg" alt="Economy, court fights and Dem chaos: Final days of the 2026 midterm race" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/economy-court-fights-and-dem-chaos-final-days-of-the-2026-midterm-race-272705093545" target="_blank">Economy, court fights and Dem chaos: Final days of the 2026 midterm race</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-11-02 18:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/sections/planet-money/2026/11/02/g-s1-151009/two-economists-studied-californias-billionaire-tax-they-reached-wildly-different-conclusions" target="_blank">Two economists studied California&#x27;s billionaire tax. They reached wildly different conclusions</a></span>
                 <span class="feed">NPR Topics: News</span>
@@ -65,42 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/11/2/el-sayed-dismisses-haley-stevens-for-backing-of-republican-rival?traffic_source=rss" target="_blank">El-Sayed dismisses Stevens’ backing of Republican Senate candidate</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-11-02 02:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3608/live/1d2513e0-d646-11f1-b441-2b33b063138f.jpg" alt="Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-02 01:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1793577040977_wnn_lkr_michigan_senate_race_261101_S3_1920x1080-ja0kob.jpg" alt="New twist in critical Michigan Senate race" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/new-twist-in-critical-michigan-senate-race-272667717513" target="_blank">New twist in critical Michigan Senate race</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-11-01 23:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/11/01/nx-s1-6025502/stroke-acronym-be-fast" target="_blank">Do you know signs of a stroke? BE FAST are the words to remember</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-11-01 22:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Learjet-crash-palm-beach-county-hd-bh-110126_1793570070769_hpMain_4x3t_384.jpg" alt="Learjet with 9 aboard crashes in Palm Beach County, Florida: FAA" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/learjet-9-aboard-crashes-palm-beach-florida-faa/story?id=137753599" target="_blank">Learjet with 9 aboard crashes in Palm Beach County, Florida: FAA</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-11-01 22:00</span>
             </div>
         </div>
 </div>
@@ -145,21 +140,21 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="OpenAI Might Rebrand Its Data Centers As &#x27;AI Compute Campuses&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features" target="_blank">Apple’s HomeView could add security camera features</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-11-01 17:16</span>
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://slashdot.org/story/26/11/02/1940254/openai-might-rebrand-its-data-centers-as-ai-compute-campuses?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">OpenAI Might Rebrand Its Data Centers As &#x27;AI Compute Campuses&#x27;</a></span>
+                <span class="feed">Slashdot</span>
+                
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Bad Flock Info Leads Police To Tow Wrong Car, Then Towing Company Totals It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists" target="_blank">New Zelda and GTA represent a games industry that no longer exists</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-11-01 13:00</span>
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://yro.slashdot.org/story/26/11/01/1832251/bad-flock-info-leads-police-to-tow-wrong-car-then-towing-company-totals-it?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Bad Flock Info Leads Police To Tow Wrong Car, Then Towing Company Totals It</a></span>
+                <span class="feed">Slashdot</span>
+                
             </div>
         </div>
 </div>
@@ -167,6 +162,42 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ashish_624379625242c5d263/meta-expands-sdks-to-boost-spatial-apps-on-quest-amp-vr-glasses-including-nba-disney-3jll" target="_blank">Meta Expands SDKs To Boost Spatial Apps On Quest &amp;amp; VR Glasses, Including NBA, Disney+</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-11-02 20:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17513978/pond-early-preview" target="_blank">I Came for This New Linux Distro’s Aesthetic Looks and Stayed for its Window Tiling</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-11-02 17:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/11/torchtpu-native-pythorch-tpu/en/headerimage/torchtpu-1793636927771.jpeg" alt="Google and Meta Open-source TorchTPU to Bring Native PyTorch Support to Google TPUs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/11/torchtpu-native-pythorch-tpu/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google and Meta Open-source TorchTPU to Bring Native PyTorch Support to Google TPUs</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-11-02 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/02/pi-price-increase-406x232.jpg" alt="Raspberry Pi announce another eye-watering price hike" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/11/raspberry-pi-5-price-goes-up-and-up" target="_blank">Raspberry Pi announce another eye-watering price hike</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-11-02 16:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -185,47 +216,38 @@
                 <span class="time">2026-11-02 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17513348/vlc-outrage-at-french-internet-tax" target="_blank">France’s Weird Per-Gigabyte Data Tax Could Cost VLC Over €1 Million a Year!</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-11-02 07:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/callumreed2198/2026-build-retrieval-for-restaurant-menu-assistant-with-metadata-filters-and-runbooks-bl4" target="_blank">2026 Build Retrieval for Restaurant Menu Assistant with Metadata Filters (and Runbooks)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-11-02 03:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Steam-Survey-October-2026" target="_blank">Steam On Linux Just Under 4% For October 2026</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-11-02 01:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kayabyte/onboarding-in-confluence-make-new-hires-watch-the-right-spaces-automatically-10ec" target="_blank">Onboarding in Confluence: make new hires watch the right spaces automatically</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-11-01 23:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2024/03/76b5cacdb9c9c06eec4aa90f685fea3b-1280x720.jpg" alt="Developers, Creators, And Fans Remember BioWare: ‘I’ve Been Trying To Replicate That Feeling For Almost My Whole Life’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/bioware-closure-mass-effect-universe-dragon-age-baldurs-gate-kotor-2000752411" target="_blank">Developers, Creators, And Fans Remember BioWare: ‘I’ve Been Trying To Replicate That Feeling For Almost My Whole Life’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-11-02 20:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HN0ZP8S1KSR9CY579D4F5JF6/hero-image.png" alt="Amazon Prime Members Can Get Two Free E-Books in November" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/free-kindle-books-november-2026?utm_medium=RSS" target="_blank">Amazon Prime Members Can Get Two Free E-Books in November</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-11-02 19:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/shutterstock_2814942001.jpg?fit=1200%2C801&amp;quality=60&amp;ssl=1" alt="Abdul El-Sayed: &quot;We are being actively bullied by the dumbest people in the room&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/11/02/abdul-el-sayed-dumbest-people-room.html" target="_blank">Abdul El-Sayed: &quot;We are being actively bullied by the dumbest people in the room&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-11-02 19:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/11/nineworldspatrickstewart.jpg" alt="Patrick Stewart, Our Captain Of Multimedia CD-ROM Edutainment" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -244,36 +266,18 @@
                 <span class="time">2026-11-01 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/11/halloweenmariospeedrun.jpg" alt="Mario-Dressed Speedrunner Breaks World Super Mario Bros. Record On Halloween Stream: ‘Can I Please Break Character’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/mario-dressed-speedrunner-breaks-world-super-mario-bros-record-on-halloween-stream-can-i-please-break-character-2000752087" target="_blank">Mario-Dressed Speedrunner Breaks World Super Mario Bros. Record On Halloween Stream: ‘Can I Please Break Character’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-11-01 16:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/Microsoft-Windows-11-Pro-3-1200.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Your PC could be running Windows 11 Pro for less than $10" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/11/01/your-pc-could-be-running-windows-11-pro-for-less-than-10.html" target="_blank">Your PC could be running Windows 11 Pro for less than $10</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-11-01 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
-            <img src="https://www.smbc-comics.com/comics/1793393877-20261101.png" alt="Saturday Morning Breakfast Cereal - Burnout" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/burnout" target="_blank">Saturday Morning Breakfast Cereal - Burnout</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-11-01 16:20</span>
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/11/02/candyman" target="_blank">Candyman</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-11-02 08:01</span>
             </div>
         </div>
 </div>
@@ -281,8 +285,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 39 | 📡 Total Sources: 41 | 📸 With Images: 268 |
-        🔄 Last Updated: 11:46 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 33 | 📡 Total Sources: 41 | 📸 With Images: 268 |
+        🔄 Last Updated: 20:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
