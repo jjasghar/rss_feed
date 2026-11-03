@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-11-02 20:58:14 UTC -->
+<!-- Processing 54 RSS feeds at 2026-11-03 02:44:52 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Generated 13 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Monday, November 02, 2026 - 20:58 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, November 03, 2026 - 02:45 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/11/3/thousands-displaced-as-homes-are-bulldozed-in-indias-assam-state?traffic_source=rss" target="_blank">Thousands displaced as homes are bulldozed in India’s Assam state</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-11-03 02:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee1e/live/8480acc0-d6eb-11f1-a741-236ee91c2e25.png" alt="Russian bombing kills 26 people at Ukraine aid centre, Kyiv says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss" target="_blank">Russian bombing kills 26 people at Ukraine aid centre, Kyiv says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-03 01:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +98,38 @@
                 <span class="time">2026-11-02 18:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/planet-money/2026/11/02/g-s1-151009/two-economists-studied-californias-billionaire-tax-they-reached-wildly-different-conclusions" target="_blank">Two economists studied California&#x27;s billionaire tax. They reached wildly different conclusions</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-11-02 11:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/11/2/el-sayed-dismisses-haley-stevens-for-backing-of-republican-rival?traffic_source=rss" target="_blank">El-Sayed dismisses Stevens’ backing of Republican Senate candidate</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-11-02 02:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/" target="_blank">Apple may try to increase revenue by doing…something with third-party AI apps</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-11-03 01:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6ae8cc86fdca8a2bb1f7b391/master/pass/Right-Wingers-Embracing-Anakin-Skywalker-Culture-MCDSTWA_FE048.jpg" alt="The Online Right’s Closing Campaign Argument: Fascist Anakin Skywalker Memes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-online-rights-closing-campaign-argument-fascist-anakin-skywalker-memes/" target="_blank">The Online Right’s Closing Campaign Argument: Fascist Anakin Skywalker Memes</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-11-02 23:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints" target="_blank">Apple is ‘not able to predict’ when it&amp;#8217;ll have enough iPhone Duos to go around</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-11-02 22:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6abd93babaed9055bd40abc5/master/pass/culture_comedian_trolling_ai_interviewers.jpg" alt="Want to Sign With a Hollywood Agent? Start Making Fun of AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -122,37 +149,10 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/" target="_blank">OpenAI might rebrand its data centers as ‘AI compute campuses’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-11-01 21:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble" target="_blank">NASA hopes the commercial space industry can help save Hubble</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-11-01 21:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="OpenAI Might Rebrand Its Data Centers As &#x27;AI Compute Campuses&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Snap Reaches Settlement In Social Media Addiction Lawsuit Ahead of Trial" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://slashdot.org/story/26/11/02/1940254/openai-might-rebrand-its-data-centers-as-ai-compute-campuses?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">OpenAI Might Rebrand Its Data Centers As &#x27;AI Compute Campuses&#x27;</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Bad Flock Info Leads Police To Tow Wrong Car, Then Towing Company Totals It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://yro.slashdot.org/story/26/11/01/1832251/bad-flock-info-leads-police-to-tow-wrong-car-then-towing-company-totals-it?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Bad Flock Info Leads Police To Tow Wrong Car, Then Towing Company Totals It</a></span>
+                <span class="title"><a href="https://tech.slashdot.org/story/26/11/02/2047236/snap-reaches-settlement-in-social-media-addiction-lawsuit-ahead-of-trial?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Snap Reaches Settlement In Social Media Addiction Lawsuit Ahead of Trial</a></span>
                 <span class="feed">Slashdot</span>
                 
             </div>
@@ -162,6 +162,33 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl07qf4jmb5u7u5zet1o6.png" alt="Sume Review: HeyGen Video 1 on Free Event Tickets, Tested" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/heygalatea/sume-review-heygen-video-1-on-free-event-tickets-tested-2a1n" target="_blank">Sume Review: HeyGen Video 1 on Free Event Tickets, Tested</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-11-03 02:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-SoundWire-Raptor-Lake" target="_blank">Intel Brings RPL-M/RPL-P SoundWire To Upstream Linux For Raptor Lake Powered Automobiles</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-11-03 01:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/01/linux-mint-22.3-on-a-laptop-406x232.jpg" alt="Linux Mint is ‘bringing back’ hibernation to laptops" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/11/linux-mint-hibernation-sleep-mode" target="_blank">Linux Mint is ‘bringing back’ hibernation to laptops</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-11-03 00:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -189,31 +216,18 @@
                 <span class="time">2026-11-02 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/02/pi-price-increase-406x232.jpg" alt="Raspberry Pi announce another eye-watering price hike" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/11/raspberry-pi-5-price-goes-up-and-up" target="_blank">Raspberry Pi announce another eye-watering price hike</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-11-02 16:51</span>
-            </div>
-        </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://www.willmunn.xyz/gemini/python/2026/10/16/we-have-lift-off.html" target="_blank">Building a gemini server in python</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-11-02 11:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/agentic-ai-context-memory-knowledge/en/headerimage/agentic-ai-context-memory-knowledge-header-1793173492489.jpg" alt="Article: Systemic Approach to Memory, Knowledge, and Context in Agentic AI Architectures" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/agentic-ai-context-memory-knowledge/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Systemic Approach to Memory, Knowledge, and Context in Agentic AI Architectures</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-11-02 11:00</span>
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/" target="_blank">Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2026-11-03 02:24</span>
             </div>
         </div>
 </div>
@@ -221,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/The-first-appearance-of-Sid-Monster.jpg?fit=1280%2C827&amp;quality=60&amp;ssl=1" alt="Happy Birthday, Cookie Monster!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/11/02/happy-birthday-cookie-monster.html" target="_blank">Happy Birthday, Cookie Monster!</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-11-03 00:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2024/03/76b5cacdb9c9c06eec4aa90f685fea3b-1280x720.jpg" alt="Developers, Creators, And Fans Remember BioWare: ‘I’ve Been Trying To Replicate That Feeling For Almost My Whole Life’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -248,24 +271,6 @@
                 <span class="time">2026-11-02 19:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/11/nineworldspatrickstewart.jpg" alt="Patrick Stewart, Our Captain Of Multimedia CD-ROM Edutainment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/patrick-stewart-our-captain-of-multimedia-cd-rom-edutainment-2000752105" target="_blank">Patrick Stewart, Our Captain Of Multimedia CD-ROM Edutainment</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-11-01 22:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/Night-Vision-Binoculars-with-4.5-1.jpg?fit=1200%2C901&amp;quality=60&amp;ssl=1" alt="Capture the sights of the night with this deal on digital binoculars" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/11/01/capture-the-sights-of-the-night-with-this-deal-on-digital-binoculars.html" target="_blank">Capture the sights of the night with this deal on digital binoculars</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-11-01 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -280,13 +285,22 @@
                 <span class="time">2026-11-02 08:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/elevators.png" alt="Elevators" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3319/" target="_blank">Elevators</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-11-02 05:00</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 33 | 📡 Total Sources: 41 | 📸 With Images: 268 |
-        🔄 Last Updated: 20:58 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 30 | 📡 Total Sources: 41 | 📸 With Images: 269 |
+        🔄 Last Updated: 02:45 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
