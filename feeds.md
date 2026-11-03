@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-11-03 02:44:52 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-11-03 10:13:32 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 13 new posts out of 26 feeds processed -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, November 03, 2026 - 02:45 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Tuesday, November 03, 2026 - 10:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/11/03/nx-s1-6026676/cold-war-hackers-fridges" target="_blank">A new cold war: hackers target fridges across the globe</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-11-03 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d44/live/1a0b49b0-d757-11f1-93e1-3b657b665bcf.jpg" alt="UK and EU agree draft deal to scrap Brexit red tape over food exports" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss" target="_blank">UK and EU agree draft deal to scrap Brexit red tape over food exports</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-03 09:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -63,39 +81,21 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://e3.365dm.com/26/11/1920x1080/skynews-army-soldier_7395310.jpg?20261102211246" alt="British troops will be allowed to fire at Russian forces if attacked during multinational mission" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/11/2/whats-the-future-of-the-western-sahara-conflict?traffic_source=rss" target="_blank">What’s the future of the Western Sahara conflict?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-11-02 20:43</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/british-troops-will-be-allowed-to-fire-back-at-russian-forces-if-attacked-in-mission-13607272" target="_blank">British troops will be allowed to fire at Russian forces if attacked during multinational mission</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-11-03 01:55</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f63e/live/cc23f870-d6ff-11f1-a701-fddedf244c16.jpg" alt="Mahmood scraps settlement plans for migrant care workers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6lye8g4w7g1o?at_medium=RSS&at_campaign=rss" target="_blank">Mahmood scraps settlement plans for migrant care workers</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-02 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/11/02/nx-s1-6025407/chatbots-midterms-voting-advice" target="_blank">AI chatbots are becoming political advisers. Their answers can mislead voters</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-11-02 20:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1793644682517_now_current_vespa_elections_preview_261102_S3_1920x1080-ktrntg.jpg" alt="Economy, court fights and Dem chaos: Final days of the 2026 midterm race" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/nn_cln_rno_tuesday_pre_261102-o5msp8.jpg" alt="Voters making final decisions in midterm elections" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/economy-court-fights-and-dem-chaos-final-days-of-the-2026-midterm-race-272705093545" target="_blank">Economy, court fights and Dem chaos: Final days of the 2026 midterm race</a></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/voters-making-final-decisions-in-midterm-elections-272729157757" target="_blank">Voters making final decisions in midterm elections</a></span>
                 <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-11-02 18:38</span>
+                <span class="time">2026-11-03 00:30</span>
             </div>
         </div>
 </div>
@@ -163,6 +163,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/11/affinity-linux-406x232.avif" alt="Affinity is coming to Linux (but there’s no ETA yet)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/11/affinity-linux-release-confirmed" target="_blank">Affinity is coming to Linux (but there’s no ETA yet)</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-11-03 03:33</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl07qf4jmb5u7u5zet1o6.png" alt="Sume Review: HeyGen Video 1 on Free Event Tickets, Tested" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -192,28 +201,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ashish_624379625242c5d263/meta-expands-sdks-to-boost-spatial-apps-on-quest-amp-vr-glasses-including-nba-disney-3jll" target="_blank">Meta Expands SDKs To Boost Spatial Apps On Quest &amp;amp; VR Glasses, Including NBA, Disney+</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-11-02 20:54</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/fixes-available-in-proposed-pocket-for-cve-2026-98432" target="_blank">Fixes available in -proposed pocket for CVE-2026-98432</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-11-02 21:00</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17513978/pond-early-preview" target="_blank">I Came for This New Linux Distro’s Aesthetic Looks and Stayed for its Window Tiling</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-11-02 17:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/11/torchtpu-native-pythorch-tpu/en/headerimage/torchtpu-1793636927771.jpeg" alt="Google and Meta Open-source TorchTPU to Bring Native PyTorch Support to Google TPUs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/11/torchtpu-native-pythorch-tpu/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google and Meta Open-source TorchTPU to Bring Native PyTorch Support to Google TPUs</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-11-02 17:00</span>
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ashish_624379625242c5d263/meta-expands-sdks-to-boost-spatial-apps-on-quest-amp-vr-glasses-including-nba-disney-3jll" target="_blank">Meta Expands SDKs To Boost Spatial Apps On Quest &amp;amp; VR Glasses, Including NBA, Disney+</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-11-02 20:54</span>
             </div>
         </div>
 </div>
@@ -277,21 +277,21 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
-            
+            <img src="https://www.questionablecontent.net/comics/5952.png" alt="Huffing And Puffing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/11/02/candyman" target="_blank">Candyman</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-11-02 08:01</span>
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5952" target="_blank">Huffing And Puffing</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-11-03 02:02</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://imgs.xkcd.com/comics/elevators.png" alt="Elevators" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1793577832-20261102.png" alt="Saturday Morning Breakfast Cereal - Borated" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3319/" target="_blank">Elevators</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-11-02 05:00</span>
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/borated" target="_blank">Saturday Morning Breakfast Cereal - Borated</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-11-02 16:20</span>
             </div>
         </div>
 </div>
@@ -299,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 30 | 📡 Total Sources: 41 | 📸 With Images: 269 |
-        🔄 Last Updated: 02:45 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 34 | 📡 Total Sources: 41 | 📸 With Images: 272 |
+        🔄 Last Updated: 10:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
