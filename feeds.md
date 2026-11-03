@@ -1,34 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-11-03 10:13:32 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-11-03 18:07:36 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Generated 9 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Tuesday, November 03, 2026 - 10:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, November 03, 2026 - 18:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +39,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db91/live/79069d70-d79d-11f1-84dd-e55f4bec0ecd.png" alt="Seven flights across Europe targeted by suspected bomb threats" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss" target="_blank">Seven flights across Europe targeted by suspected bomb threats</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-03 17:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/11/03/nx-s1-6026479/when-caring-for-aging-family-members-becomes-cost-prohibitive" target="_blank">When caring for aging family members becomes cost prohibitive</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-11-03 17:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +93,29 @@
                 <span class="time">2026-11-03 01:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/11/1920x1080/skynews-army-soldier_7395310.jpg?20261102211246" alt="British troops will be allowed to fire at Russian forces if attacked during multinational mission" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/british-troops-will-be-allowed-to-fire-back-at-russian-forces-if-attacked-in-mission-13607272" target="_blank">British troops will be allowed to fire at Russian forces if attacked during multinational mission</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-11-03 01:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/nn_cln_rno_tuesday_pre_261102-o5msp8.jpg" alt="Voters making final decisions in midterm elections" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/voters-making-final-decisions-in-midterm-elections-272729157757" target="_blank">Voters making final decisions in midterm elections</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-11-03 00:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations" target="_blank">Netflix will show you themed recommendations through a new ‘AI Discover’ tab</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-11-03 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/" target="_blank">CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-11-03 17:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -131,28 +144,10 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media.wired.com/photos/6abd93babaed9055bd40abc5/master/pass/culture_comedian_trolling_ai_interviewers.jpg" alt="Want to Sign With a Hollywood Agent? Start Making Fun of AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/comedians-making-fun-of-ai/" target="_blank">Want to Sign With a Hollywood Agent? Start Making Fun of AI</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-11-02 11:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data/" target="_blank">Ford launches a ‘privacy promise’ and explains how and why it uses customer data</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-11-02 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Snap Reaches Settlement In Social Media Addiction Lawsuit Ahead of Trial" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Google Will Turn Off Search For Schools That Reject AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://tech.slashdot.org/story/26/11/02/2047236/snap-reaches-settlement-in-social-media-addiction-lawsuit-ahead-of-trial?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Snap Reaches Settlement In Social Media Addiction Lawsuit Ahead of Trial</a></span>
+                <span class="title"><a href="https://news.slashdot.org/story/26/11/03/1711242/google-will-turn-off-search-for-schools-that-reject-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Google Will Turn Off Search For Schools That Reject AI</a></span>
                 <span class="feed">Slashdot</span>
                 
             </div>
@@ -162,6 +157,24 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/03/launchpad.jpg?resize=406%2C232&amp;ssl=1" alt="Canonical adds FIDO2 hardware key support to Launchpad" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/11/launchpad-fido2-hardware-tokens" target="_blank">Canonical adds FIDO2 hardware key support to Launchpad</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-11-03 17:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/" target="_blank">Arnis turns any place on Earth into a Minecraft world</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-11-03 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/11/affinity-linux-406x232.avif" alt="Affinity is coming to Linux (but there’s no ETA yet)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -198,24 +211,6 @@
                 <span class="time">2026-11-03 00:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/fixes-available-in-proposed-pocket-for-cve-2026-98432" target="_blank">Fixes available in -proposed pocket for CVE-2026-98432</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-11-02 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ashish_624379625242c5d263/meta-expands-sdks-to-boost-spatial-apps-on-quest-amp-vr-glasses-including-nba-disney-3jll" target="_blank">Meta Expands SDKs To Boost Spatial Apps On Quest &amp;amp; VR Glasses, Including NBA, Disney+</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-11-02 20:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +230,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/10/GTA-launch-trailer_0001_Brightness_Contrast-2-1280x720.jpg" alt="Fan Who Went Viral Wishing To Stay Alive Long Enough To Play GTA 6 Has Passed Away" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/fan-who-went-viral-wishing-to-stay-alive-long-enough-to-play-gta-6-has-passed-away-2000752775" target="_blank">Fan Who Went Viral Wishing To Stay Alive Long Enough To Play GTA 6 Has Passed Away</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-11-03 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/The-first-appearance-of-Sid-Monster.jpg?fit=1280%2C827&amp;quality=60&amp;ssl=1" alt="Happy Birthday, Cookie Monster!" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,22 +289,13 @@
                 <span class="time">2026-11-03 02:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1793577832-20261102.png" alt="Saturday Morning Breakfast Cereal - Borated" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/borated" target="_blank">Saturday Morning Breakfast Cereal - Borated</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-11-02 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 34 | 📡 Total Sources: 41 | 📸 With Images: 272 |
-        🔄 Last Updated: 10:13 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 32 | 📡 Total Sources: 41 | 📸 With Images: 270 |
+        🔄 Last Updated: 18:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
