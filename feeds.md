@@ -1,29 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-11-03 18:07:36 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-11-03 23:44:57 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 21 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 16 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, November 03, 2026 - 18:07 UTC</div>
+    <div class="newspaper-date">Tuesday, November 03, 2026 - 23:45 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/11/3/first-polls-close-in-pivotal-us-midterm-elections?traffic_source=rss" target="_blank">First polls close in pivotal US midterm elections</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-11-03 23:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d61f/live/6dc1cd30-d7c6-11f1-a701-fddedf244c16.jpg" alt="Spanish transport minister resigns days after deadly train crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss" target="_blank">Spanish transport minister resigns days after deadly train crash</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-03 22:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1793737256767_now_midterms_3p_ablock_261103_S3_1920x1080-ccyrkg.jpg" alt="On the ground in Texas, Michigan and Maine: Voters speak out at polls on key Senate races" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/texas-michigan-and-maine-voters-speak-out-at-polls-on-key-senate-races-272783429899" target="_blank">On the ground in Texas, Michigan and Maine: Voters speak out at polls on key Senate races</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-11-03 20:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db91/live/79069d70-d79d-11f1-84dd-e55f4bec0ecd.png" alt="Seven flights across Europe targeted by suspected bomb threats" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -66,38 +101,29 @@
                 <span class="time">2026-11-03 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d44/live/1a0b49b0-d757-11f1-93e1-3b657b665bcf.jpg" alt="UK and EU agree draft deal to scrap Brexit red tape over food exports" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss" target="_blank">UK and EU agree draft deal to scrap Brexit red tape over food exports</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-03 09:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/11/3/thousands-displaced-as-homes-are-bulldozed-in-indias-assam-state?traffic_source=rss" target="_blank">Thousands displaced as homes are bulldozed in India’s Assam state</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-11-03 02:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee1e/live/8480acc0-d6eb-11f1-a741-236ee91c2e25.png" alt="Russian bombing kills 26 people at Ukraine aid centre, Kyiv says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss" target="_blank">Russian bombing kills 26 people at Ukraine aid centre, Kyiv says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-03 01:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6aea5ab56c2140d939cde5aa/master/pass/Ideapad%20Slim%205x%20deals%20post%20112026%20top%20art%20SOURCE%20Amazon.jpg" alt="The Lenovo IdeaPad Slim 5x Is Only $900 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/lenovo-ideapad-slim-5x-deal-11-26/" target="_blank">The Lenovo IdeaPad Slim 5x Is Only $900 Right Now</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-11-03 22:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/" target="_blank">Anthropic is working on a system to prove AI models’ identity</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-11-03 22:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -126,28 +152,10 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media.wired.com/photos/6ae8cc86fdca8a2bb1f7b391/master/pass/Right-Wingers-Embracing-Anakin-Skywalker-Culture-MCDSTWA_FE048.jpg" alt="The Online Right’s Closing Campaign Argument: Fascist Anakin Skywalker Memes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-online-rights-closing-campaign-argument-fascist-anakin-skywalker-memes/" target="_blank">The Online Right’s Closing Campaign Argument: Fascist Anakin Skywalker Memes</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-11-02 23:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints" target="_blank">Apple is ‘not able to predict’ when it&amp;#8217;ll have enough iPhone Duos to go around</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-11-02 22:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Google Will Turn Off Search For Schools That Reject AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="EU Court Advisor Warns Google AI Chatbot May Breach Copyright Rules" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://news.slashdot.org/story/26/11/03/1711242/google-will-turn-off-search-for-schools-that-reject-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Google Will Turn Off Search For Schools That Reject AI</a></span>
+                <span class="title"><a href="https://yro.slashdot.org/story/26/11/03/2144244/eu-court-advisor-warns-google-ai-chatbot-may-breach-copyright-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">EU Court Advisor Warns Google AI Chatbot May Breach Copyright Rules</a></span>
                 <span class="feed">Slashdot</span>
                 
             </div>
@@ -158,6 +166,42 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8gw5oyb431gt5jhm80co.png" alt="How to Remember What You Learn From Stack Overflow (Without Bookmarking Forever)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/spartanrich430/how-to-remember-what-you-learn-from-stack-overflow-without-bookmarking-forever-313a" target="_blank">How to Remember What You Learn From Stack Overflow (Without Bookmarking Forever)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-11-03 23:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GIMP-3.2.8-Released" target="_blank">GIMP 3.2.8 Released With Many Refinements, Numerous Security Fixes Due To AI Reports</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-11-03 22:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://arxiv.org/abs/2605.29713" target="_blank">The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-11-03 21:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/11/litert-tensor-api/en/headerimage/litert-tensor-api-1793729374644.jpeg" alt="Google Launches LiteRT Tensor API for Building, Customizing, and Optimizing ML Models for On-Device" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/11/litert-tensor-api/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Launches LiteRT Tensor API for Building, Customizing, and Optimizing ML Models for On-Device</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-11-03 19:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/03/launchpad.jpg?resize=406%2C232&amp;ssl=1" alt="Canonical adds FIDO2 hardware key support to Launchpad" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -167,48 +211,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://substackcdn.com/image/fetch/$s_!WYGs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25c874c2-9b02-4a24-9046-879cb1500023_1920x899.png" alt="How software engineering is changing: a tale of two eras" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/" target="_blank">Arnis turns any place on Earth into a Minecraft world</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-11-03 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/11/affinity-linux-406x232.avif" alt="Affinity is coming to Linux (but there’s no ETA yet)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/11/affinity-linux-release-confirmed" target="_blank">Affinity is coming to Linux (but there’s no ETA yet)</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-11-03 03:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl07qf4jmb5u7u5zet1o6.png" alt="Sume Review: HeyGen Video 1 on Free Event Tickets, Tested" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/heygalatea/sume-review-heygen-video-1-on-free-event-tickets-tested-2a1n" target="_blank">Sume Review: HeyGen Video 1 on Free Event Tickets, Tested</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-11-03 02:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-SoundWire-Raptor-Lake" target="_blank">Intel Brings RPL-M/RPL-P SoundWire To Upstream Linux For Raptor Lake Powered Automobiles</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-11-03 01:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/01/linux-mint-22.3-on-a-laptop-406x232.jpg" alt="Linux Mint is ‘bringing back’ hibernation to laptops" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/11/linux-mint-hibernation-sleep-mode" target="_blank">Linux Mint is ‘bringing back’ hibernation to laptops</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-11-03 00:00</span>
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/how-software-engineering-is-changing" target="_blank">How software engineering is changing: a tale of two eras</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-11-03 16:58</span>
             </div>
         </div>
 </div>
@@ -216,6 +224,15 @@
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/11/ais-hacking-the-law.html" target="_blank">AIs Hacking the Law</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-11-03 12:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -230,6 +247,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/AskAnyModel-AI-Pro-Plan.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Stop paying for Claude, GPT and Gemini separately — get them all with AskAnyModel for $39.99" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/11/03/stop-paying-for-claude-gpt-and-gemini-separately-get-them-all-with-askanymodel-for-39-99.html" target="_blank">Stop paying for Claude, GPT and Gemini separately — get them all with AskAnyModel for $39.99</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-11-03 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/10/GTA-launch-trailer_0001_Brightness_Contrast-2-1280x720.jpg" alt="Fan Who Went Viral Wishing To Stay Alive Long Enough To Play GTA 6 Has Passed Away" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -246,33 +272,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/11/02/happy-birthday-cookie-monster.html" target="_blank">Happy Birthday, Cookie Monster!</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-11-03 00:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2024/03/76b5cacdb9c9c06eec4aa90f685fea3b-1280x720.jpg" alt="Developers, Creators, And Fans Remember BioWare: ‘I’ve Been Trying To Replicate That Feeling For Almost My Whole Life’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/bioware-closure-mass-effect-universe-dragon-age-baldurs-gate-kotor-2000752411" target="_blank">Developers, Creators, And Fans Remember BioWare: ‘I’ve Been Trying To Replicate That Feeling For Almost My Whole Life’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-11-02 20:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HN0ZP8S1KSR9CY579D4F5JF6/hero-image.png" alt="Amazon Prime Members Can Get Two Free E-Books in November" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/free-kindle-books-november-2026?utm_medium=RSS" target="_blank">Amazon Prime Members Can Get Two Free E-Books in November</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-11-02 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/shutterstock_2814942001.jpg?fit=1200%2C801&amp;quality=60&amp;ssl=1" alt="Abdul El-Sayed: &quot;We are being actively bullied by the dumbest people in the room&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/11/02/abdul-el-sayed-dumbest-people-room.html" target="_blank">Abdul El-Sayed: &quot;We are being actively bullied by the dumbest people in the room&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-11-02 19:08</span>
             </div>
         </div>
 </div>
@@ -294,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 32 | 📡 Total Sources: 41 | 📸 With Images: 270 |
-        🔄 Last Updated: 18:07 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 35 | 📡 Total Sources: 41 | 📸 With Images: 271 |
+        🔄 Last Updated: 23:45 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
