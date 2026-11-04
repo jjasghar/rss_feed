@@ -1,35 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-11-04 11:41:32 UTC -->
+<!-- Processing 54 RSS feeds at 2026-11-04 18:59:17 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Generated 17 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, November 04, 2026 - 11:41 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Wednesday, November 04, 2026 - 18:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,10 +56,46 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/11/04/g-s1-151833/2026-midterms-chuck-schumer-senate-democrats" target="_blank">Chuck Schumer heralds Democrats&#x27; &#x27;generational remake&#x27; of Senate</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-11-04 18:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts" target="_blank">ANC faces anger over poor services as South Africans vote in local elections</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-11-04 14:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/11/4/seismic-shift-world-reacts-to-us-midterm-election-results?traffic_source=rss" target="_blank">‘Seismic shift’: World reacts to US midterm election results</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-11-04 11:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/11/1920x1080/skynews-donald-trump-midterm_7395458.jpg?20261103085122" alt="&#x27;Expect the worst&#x27;: What results mean for the world" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/expect-the-worst-what-results-mean-for-the-world-dominic-waghorn-13607794" target="_blank">&#x27;Expect the worst&#x27;: What results mean for the world</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-11-04 05:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg" alt="TAKEOVER - LINK - BALANCE OF POWER" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.comhttps://abcnews.com/widgets/balanceofpower?chamber=house%2Csenate%2Cgovernor&year=2026&source=takeover&isTakeOver=true" target="_blank">TAKEOVER - LINK - BALANCE OF POWER</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-11-04 04:54</span>
             </div>
         </div>
 <div class="story">
@@ -63,47 +107,38 @@
                 <span class="time">2026-11-04 03:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/11/4/seven-flights-across-europe-targeted-by-suspected-bomb-threats?traffic_source=rss" target="_blank">Seven flights across Europe targeted by suspected bomb threats</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-11-04 02:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/11/3/first-polls-close-in-pivotal-us-midterm-elections?traffic_source=rss" target="_blank">First polls close in pivotal US midterm elections</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-11-03 23:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d61f/live/6dc1cd30-d7c6-11f1-a701-fddedf244c16.jpg" alt="Spanish transport minister resigns days after deadly train crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss" target="_blank">Spanish transport minister resigns days after deadly train crash</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-03 22:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1793737256767_now_midterms_3p_ablock_261103_S3_1920x1080-ccyrkg.jpg" alt="On the ground in Texas, Michigan and Maine: Voters speak out at polls on key Senate races" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/texas-michigan-and-maine-voters-speak-out-at-polls-on-key-senate-races-272783429899" target="_blank">On the ground in Texas, Michigan and Maine: Voters speak out at polls on key Senate races</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-11-03 20:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6aeb74f2291739b7e29cddcb/master/pass/Get-Google%E2%80%99s-Great-Pixel-11-Phones-for-Less.jpg" alt="Google Pixel 11, 11 Pro, and 11 Pro XL Sale: Save Up to $350" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/google-pixel-11-deal-november-2026/" target="_blank">Google Pixel 11, 11 Pro, and 11 Pro XL Sale: Save Up to $350</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-11-04 18:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei" target="_blank">Nothing teases a screen-free AI device ahead of launch next month</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-11-04 18:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Enough-Phone-in-Hand-500x500.jpg" alt="People say they want small smartphones—the Enough Phone will put that to the test" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/11/people-say-they-want-small-smartphones-the-enough-phone-will-put-that-to-the-test/" target="_blank">People say they want small smartphones—the Enough Phone will put that to the test</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-11-04 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6aea06f2bd6c21c6b16c255d/master/pass/Kindle%20Klick%20112026%20top%20art%20SOURCE%20Amazon.jpg" alt="I Tried Amazon’s New Kindles. Buy This Accessory Instead (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -131,38 +166,47 @@
                 <span class="time">2026-11-03 22:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/" target="_blank">Anthropic is working on a system to prove AI models’ identity</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-11-03 22:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations" target="_blank">Netflix will show you themed recommendations through a new ‘AI Discover’ tab</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-11-03 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/" target="_blank">CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-11-03 17:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://tildeweb.nl/~michiel/python-on-my-wrist.html" target="_blank">Python on my wrist</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-11-04 17:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/11/04/your-net-parallel-loop-can-become-serial-in-a-one-cpu-container/" target="_blank">Your .NET parallel loop can become serial in a one-CPU container</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-11-04 16:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/linux-74-threadripper" target="_blank">Linux 7.4 Showing Few Performance Gains With Initial Benchmarks On AMD Ryzen Threadripper</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-11-04 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability" target="_blank">AI is forcing us to pay off 40 years of technical debt</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-11-04 11:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -181,61 +225,38 @@
                 <span class="time">2026-11-04 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Domicile-Desktop-Wayland" target="_blank">Domicile Desktop Brings Web Technologies To Building Wayland Desktops</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-11-04 01:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8gw5oyb431gt5jhm80co.png" alt="How to Remember What You Learn From Stack Overflow (Without Bookmarking Forever)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/spartanrich430/how-to-remember-what-you-learn-from-stack-overflow-without-bookmarking-forever-313a" target="_blank">How to Remember What You Learn From Stack Overflow (Without Bookmarking Forever)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-11-03 23:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GIMP-3.2.8-Released" target="_blank">GIMP 3.2.8 Released With Many Refinements, Numerous Security Fixes Due To AI Reports</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-11-03 22:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/08/gimp-file-format.webp?resize=406%2C232&amp;ssl=1" alt="GIMP 3.2.8 released with improved text tool, performance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/11/gimp-3-2-8-brings-bug-fixes-fixes-fixes" target="_blank">GIMP 3.2.8 released with improved text tool, performance</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-11-03 21:59</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/11/ais-hacking-the-law.html" target="_blank">AIs Hacking the Law</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-11-03 12:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/11/vision.jpg" alt="Last Night’s VisionQuest Reveal Has A Whole Lot Of Marvel History Tied Up In It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/visionquest-jim-hammond-human-torch-synthetic-man-explained-2000753358" target="_blank">Last Night’s VisionQuest Reveal Has A Whole Lot Of Marvel History Tied Up In It</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-11-04 18:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M6KV55KG319MNBV47A9QNZ6Z/hero-image.jpg" alt="Firefox&#x27;s New &#x27;Mini Window&#x27; Feature Is a Game Changer for Productivity" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/firefoxs-new-mini-window-feature-is-a-game-changer?utm_medium=RSS" target="_blank">Firefox&#x27;s New &#x27;Mini Window&#x27; Feature Is a Game Changer for Productivity</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-11-04 18:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/1809-TEASER1200-dementia-donnie-9-bottoming-out.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Tom the Dancing Bug: Dementia Donnie bottoms out!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/11/04/tom-the-dancing-bug-dementia-donnie-bottoms-out.html" target="_blank">Tom the Dancing Bug: Dementia Donnie bottoms out!</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-11-04 17:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/11/thronefall-1280x720.jpg" alt="Game Pass Is About To Get One Of My Favorite Minimalist Strategy Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -254,20 +275,29 @@
                 <span class="time">2026-11-03 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/10/GTA-launch-trailer_0001_Brightness_Contrast-2-1280x720.jpg" alt="Fan Who Went Viral Wishing To Stay Alive Long Enough To Play GTA 6 Has Passed Away" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/fan-who-went-viral-wishing-to-stay-alive-long-enough-to-play-gta-6-has-passed-away-2000752775" target="_blank">Fan Who Went Viral Wishing To Stay Alive Long Enough To Play GTA 6 Has Passed Away</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-11-03 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1793577905-20261104.png" alt="Saturday Morning Breakfast Cereal - Light" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/light" target="_blank">Saturday Morning Breakfast Cereal - Light</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-11-04 16:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/11/04/sentinels" target="_blank">Sentinels</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-11-04 08:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.questionablecontent.net/comics/5953.png" alt="How To Say Hello" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,22 +307,13 @@
                 <span class="time">2026-11-04 02:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1793577866-20261103.png" alt="Saturday Morning Breakfast Cereal - Trial" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/trial" target="_blank">Saturday Morning Breakfast Cereal - Trial</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-11-03 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 33 | 📡 Total Sources: 41 | 📸 With Images: 268 |
-        🔄 Last Updated: 11:41 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 37 | 📡 Total Sources: 41 | 📸 With Images: 267 |
+        🔄 Last Updated: 18:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
