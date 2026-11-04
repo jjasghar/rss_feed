@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-11-04 03:43:31 UTC -->
+<!-- Processing 54 RSS feeds at 2026-11-04 11:41:32 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, November 04, 2026 - 03:43 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, November 04, 2026 - 11:41 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/11/4/seismic-shift-world-reacts-to-us-midterm-election-results?traffic_source=rss" target="_blank">‘Seismic shift’: World reacts to US midterm election results</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-11-04 11:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +99,29 @@
                 <span class="time">2026-11-03 20:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db91/live/79069d70-d79d-11f1-84dd-e55f4bec0ecd.png" alt="Seven flights across Europe targeted by suspected bomb threats" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss" target="_blank">Seven flights across Europe targeted by suspected bomb threats</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-03 17:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6aea06f2bd6c21c6b16c255d/master/pass/Kindle%20Klick%20112026%20top%20art%20SOURCE%20Amazon.jpg" alt="I Tried Amazon’s New Kindles. Buy This Accessory Instead (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/finally-a-kindle-page-turner/" target="_blank">I Tried Amazon’s New Kindles. Buy This Accessory Instead (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-11-04 11:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/1025415/the-legend-of-zelda-ocarina-of-time-review-nintendo-switch-2" target="_blank">The Legend of Zelda: Ocarina of Time never gets old</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-11-04 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6aea5ab56c2140d939cde5aa/master/pass/Ideapad%20Slim%205x%20deals%20post%20112026%20top%20art%20SOURCE%20Amazon.jpg" alt="The Lenovo IdeaPad Slim 5x Is Only $900 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,29 +158,29 @@
                 <span class="time">2026-11-03 17:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="EU Court Advisor Warns Google AI Chatbot May Breach Copyright Rules" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://yro.slashdot.org/story/26/11/03/2144244/eu-court-advisor-warns-google-ai-chatbot-may-breach-copyright-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">EU Court Advisor Warns Google AI Chatbot May Breach Copyright Rules</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Google Will Turn Off Search For Schools That Reject AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://news.slashdot.org/story/26/11/03/1711242/google-will-turn-off-search-for-schools-that-reject-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Google Will Turn Off Search For Schools That Reject AI</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ruslan_railian_ceecd0bf87/a-visual-canvas-for-your-existing-expo-repo-synced-both-ways-39fk" target="_blank">A visual canvas for your existing Expo repo, synced both ways</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-11-04 11:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/panel-ai-frontend-architecture/en/mediumimage/medium-1792133520845.jpg" alt="Presentation: Panel: Who Builds the Frontend Now? (And What Breaks When They Do)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/panel-ai-frontend-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Panel: Who Builds the Frontend Now? (And What Breaks When They Do)</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-11-04 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -191,30 +209,12 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://arxiv.org/abs/2605.29713" target="_blank">The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-11-03 21:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/11/litert-tensor-api/en/headerimage/litert-tensor-api-1793729374644.jpeg" alt="Google Launches LiteRT Tensor API for Building, Customizing, and Optimizing ML Models for On-Device" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/11/litert-tensor-api/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Launches LiteRT Tensor API for Building, Customizing, and Optimizing ML Models for On-Device</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-11-03 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/03/launchpad.jpg?resize=406%2C232&amp;ssl=1" alt="Canonical adds FIDO2 hardware key support to Launchpad" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/08/gimp-file-format.webp?resize=406%2C232&amp;ssl=1" alt="GIMP 3.2.8 released with improved text tool, performance" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/11/launchpad-fido2-hardware-tokens" target="_blank">Canonical adds FIDO2 hardware key support to Launchpad</a></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/11/gimp-3-2-8-brings-bug-fixes-fixes-fixes" target="_blank">GIMP 3.2.8 released with improved text tool, performance</a></span>
                 <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-11-03 17:05</span>
+                <span class="time">2026-11-03 21:59</span>
             </div>
         </div>
 </div>
@@ -269,6 +269,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.questionablecontent.net/comics/5953.png" alt="How To Say Hello" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5953" target="_blank">How To Say Hello</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-11-04 02:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1793577866-20261103.png" alt="Saturday Morning Breakfast Cereal - Trial" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -282,8 +291,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 28 | 📡 Total Sources: 41 | 📸 With Images: 269 |
-        🔄 Last Updated: 03:43 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 33 | 📡 Total Sources: 41 | 📸 With Images: 268 |
+        🔄 Last Updated: 11:41 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
