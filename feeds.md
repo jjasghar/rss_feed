@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-11-03 23:44:57 UTC -->
+<!-- Processing 54 RSS feeds at 2026-11-04 03:43:31 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 16 new posts out of 29 feeds processed -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, November 03, 2026 - 23:45 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, November 04, 2026 - 03:43 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/11/03/g-s1-151666/south-carolina-senate-race-andrews-graham" target="_blank">Democrat Annie Andrews wins South Carolina Senate race in major upset</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-11-04 03:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/11/4/seven-flights-across-europe-targeted-by-suspected-bomb-threats?traffic_source=rss" target="_blank">Seven flights across Europe targeted by suspected bomb threats</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-11-04 02:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,24 +97,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss" target="_blank">Seven flights across Europe targeted by suspected bomb threats</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-11-03 17:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/11/03/nx-s1-6026479/when-caring-for-aging-family-members-becomes-cost-prohibitive" target="_blank">When caring for aging family members becomes cost prohibitive</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-11-03 17:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/11/03/nx-s1-6026676/cold-war-hackers-fridges" target="_blank">A new cold war: hackers target fridges across the globe</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-11-03 10:00</span>
             </div>
         </div>
 </div>
@@ -143,19 +141,19 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/" target="_blank">Apple may try to increase revenue by doing…something with third-party AI apps</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-11-03 01:49</span>
-            </div>
-        </div>
-<div class="story">
             <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="EU Court Advisor Warns Google AI Chatbot May Breach Copyright Rules" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-comments"></span>
                 <span class="title"><a href="https://yro.slashdot.org/story/26/11/03/2144244/eu-court-advisor-warns-google-ai-chatbot-may-breach-copyright-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">EU Court Advisor Warns Google AI Chatbot May Breach Copyright Rules</a></span>
+                <span class="feed">Slashdot</span>
+                
+            </div>
+        </div>
+<div class="story">
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Google Will Turn Off Search For Schools That Reject AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://news.slashdot.org/story/26/11/03/1711242/google-will-turn-off-search-for-schools-that-reject-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Google Will Turn Off Search For Schools That Reject AI</a></span>
                 <span class="feed">Slashdot</span>
                 
             </div>
@@ -165,6 +163,15 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Domicile-Desktop-Wayland" target="_blank">Domicile Desktop Brings Web Technologies To Building Wayland Desktops</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-11-04 01:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8gw5oyb431gt5jhm80co.png" alt="How to Remember What You Learn From Stack Overflow (Without Bookmarking Forever)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -210,15 +217,6 @@
                 <span class="time">2026-11-03 17:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!WYGs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25c874c2-9b02-4a24-9046-879cb1500023_1920x899.png" alt="How software engineering is changing: a tale of two eras" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/how-software-engineering-is-changing" target="_blank">How software engineering is changing: a tale of two eras</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-11-03 16:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,20 +231,20 @@
                 <span class="time">2026-11-03 12:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/" target="_blank">Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2026-11-03 02:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/11/thronefall-1280x720.jpg" alt="Game Pass Is About To Get One Of My Favorite Minimalist Strategy Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/game-pass-is-about-to-get-one-of-my-favorite-minimalist-strategy-games-2000752877" target="_blank">Game Pass Is About To Get One Of My Favorite Minimalist Strategy Games</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-11-04 00:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/AskAnyModel-AI-Pro-Plan.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Stop paying for Claude, GPT and Gemini separately — get them all with AskAnyModel for $39.99" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,27 +263,18 @@
                 <span class="time">2026-11-03 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/The-first-appearance-of-Sid-Monster.jpg?fit=1280%2C827&amp;quality=60&amp;ssl=1" alt="Happy Birthday, Cookie Monster!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/11/02/happy-birthday-cookie-monster.html" target="_blank">Happy Birthday, Cookie Monster!</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-11-03 00:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
-            <img src="https://www.questionablecontent.net/comics/5952.png" alt="Huffing And Puffing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1793577866-20261103.png" alt="Saturday Morning Breakfast Cereal - Trial" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5952" target="_blank">Huffing And Puffing</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-11-03 02:02</span>
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/trial" target="_blank">Saturday Morning Breakfast Cereal - Trial</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-11-03 16:20</span>
             </div>
         </div>
 </div>
@@ -293,8 +282,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 35 | 📡 Total Sources: 41 | 📸 With Images: 271 |
-        🔄 Last Updated: 23:45 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 28 | 📡 Total Sources: 41 | 📸 With Images: 269 |
+        🔄 Last Updated: 03:43 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
