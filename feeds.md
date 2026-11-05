@@ -1,43 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-11-04 18:59:17 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-11-05 00:10:09 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 17 new posts out of 35 feeds processed -->
+<!-- Generated 15 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Wednesday, November 04, 2026 - 18:59 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Thursday, November 05, 2026 - 00:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -56,10 +50,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/11/4/who-gets-to-vote-in-the-us?traffic_source=rss" target="_blank">Who gets to vote in the US?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-11-04 23:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d226/live/51085d40-d897-11f1-bffe-b94c467713ac.jpg" alt="Pound rises to its highest level since the Brexit referendum" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss" target="_blank">Pound rises to its highest level since the Brexit referendum</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-04 23:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/11/04/g-s1-151833/2026-midterms-chuck-schumer-senate-democrats" target="_blank">Chuck Schumer heralds Democrats&#x27; &#x27;generational remake&#x27; of Senate</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-11-04 18:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1793817133144_f_mash_dc_trump_midterms_qa_261104_S3_1920x1080-5r8ynh.jpg" alt="Trump answers questions from reporters after Republican midterm losses" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/trump-answers-questions-from-reporters-after-republican-midterm-losses-272858693547" target="_blank">Trump answers questions from reporters after Republican midterm losses</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-11-04 18:32</span>
             </div>
         </div>
 <div class="story">
@@ -72,39 +93,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5315/live/41e364b0-d854-11f1-94f3-cf7d1e52bb8c.jpg" alt="&#x27;This is a disaster&#x27;: Angry Republicans blame Trump for midterms defeat" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/11/4/seismic-shift-world-reacts-to-us-midterm-election-results?traffic_source=rss" target="_blank">‘Seismic shift’: World reacts to US midterm election results</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-11-04 11:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/11/1920x1080/skynews-donald-trump-midterm_7395458.jpg?20261103085122" alt="&#x27;Expect the worst&#x27;: What results mean for the world" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/expect-the-worst-what-results-mean-for-the-world-dominic-waghorn-13607794" target="_blank">&#x27;Expect the worst&#x27;: What results mean for the world</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-11-04 05:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg" alt="TAKEOVER - LINK - BALANCE OF POWER" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.comhttps://abcnews.com/widgets/balanceofpower?chamber=house%2Csenate%2Cgovernor&year=2026&source=takeover&isTakeOver=true" target="_blank">TAKEOVER - LINK - BALANCE OF POWER</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-11-04 04:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/11/03/g-s1-151666/south-carolina-senate-race-andrews-graham" target="_blank">Democrat Annie Andrews wins South Carolina Senate race in major upset</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-11-04 03:39</span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;This is a disaster&#x27;: Angry Republicans blame Trump for midterms defeat</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-04 13:33</span>
             </div>
         </div>
 </div>
@@ -112,6 +106,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/" target="_blank">AI PACs spent millions trying to shape Congress — here’s how they fared</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-11-04 22:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6aeb74f2291739b7e29cddcb/master/pass/Get-Google%E2%80%99s-Great-Pixel-11-Phones-for-Less.jpg" alt="Google Pixel 11, 11 Pro, and 11 Pro XL Sale: Save Up to $350" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -157,20 +160,38 @@
                 <span class="time">2026-11-04 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6aea5ab56c2140d939cde5aa/master/pass/Ideapad%20Slim%205x%20deals%20post%20112026%20top%20art%20SOURCE%20Amazon.jpg" alt="The Lenovo IdeaPad Slim 5x Is Only $900 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/lenovo-ideapad-slim-5x-deal-11-26/" target="_blank">The Lenovo IdeaPad Slim 5x Is Only $900 Right Now</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-11-03 22:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/benedetleandro/show-hn-fenestra-double-click-a-local-distindexhtml-and-it-opens-over-localhost-2132" target="_blank">Show HN: Fenestra – double-click a local dist/index.html and it opens over localhost</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-11-05 00:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/05/ubuntu-bug.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu users say Canonical “asleep at the wheel” over critical Linux kernel bug" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/11/ubuntu-fix-tcp-bug-criticism" target="_blank">Ubuntu users say Canonical “asleep at the wheel” over critical Linux kernel bug</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-11-04 23:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://layer3intel.com/blog/residential-proxies-white-house-network" target="_blank">Residential proxies detected on White House network</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-11-04 20:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,38 +219,20 @@
                 <span class="time">2026-11-04 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability" target="_blank">AI is forcing us to pay off 40 years of technical debt</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-11-04 11:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ruslan_railian_ceecd0bf87/a-visual-canvas-for-your-existing-expo-repo-synced-both-ways-39fk" target="_blank">A visual canvas for your existing Expo repo, synced both ways</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-11-04 11:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/panel-ai-frontend-architecture/en/mediumimage/medium-1792133520845.jpg" alt="Presentation: Panel: Who Builds the Frontend Now? (And What Breaks When They Do)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/panel-ai-frontend-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Panel: Who Builds the Frontend Now? (And What Breaks When They Do)</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-11-04 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M6M9C0FEV5RNYQPDWWT8HYHR/hero-image.png" alt="Everything You Should Know About This Year&#x27;s Black Friday Sales" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/what-to-know-about-black-friday-2026-sales?utm_medium=RSS" target="_blank">Everything You Should Know About This Year&#x27;s Black Friday Sales</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-11-04 22:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/11/vision.jpg" alt="Last Night’s VisionQuest Reveal Has A Whole Lot Of Marvel History Tied Up In It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -257,29 +260,20 @@
                 <span class="time">2026-11-04 17:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/11/thronefall-1280x720.jpg" alt="Game Pass Is About To Get One Of My Favorite Minimalist Strategy Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/game-pass-is-about-to-get-one-of-my-favorite-minimalist-strategy-games-2000752877" target="_blank">Game Pass Is About To Get One Of My Favorite Minimalist Strategy Games</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-11-04 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/AskAnyModel-AI-Pro-Plan.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Stop paying for Claude, GPT and Gemini separately — get them all with AskAnyModel for $39.99" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/11/03/stop-paying-for-claude-gpt-and-gemini-separately-get-them-all-with-askanymodel-for-39-99.html" target="_blank">Stop paying for Claude, GPT and Gemini separately — get them all with AskAnyModel for $39.99</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-11-03 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/11/04/sentinels" target="_blank">Sentinels</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-11-04 20:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1793577905-20261104.png" alt="Saturday Morning Breakfast Cereal - Light" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -312,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 37 | 📡 Total Sources: 41 | 📸 With Images: 267 |
-        🔄 Last Updated: 18:59 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 37 | 📡 Total Sources: 41 | 📸 With Images: 268 |
+        🔄 Last Updated: 00:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
