@@ -1,37 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-11-05 15:52:59 UTC -->
+<!-- Processing 54 RSS feeds at 2026-11-05 21:39:05 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 14 new posts out of 29 feeds processed -->
+<!-- Generated 17 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, November 05, 2026 - 15:53 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Thursday, November 05, 2026 - 21:39 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +51,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2478/live/e8f58d90-d94a-11f1-a701-fddedf244c16.jpg" alt="Russell Brand found guilty of rape and sexual assault" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ckyvrze96y70o?at_medium=RSS&at_campaign=rss" target="_blank">Russell Brand found guilty of rape and sexual assault</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-05 18:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7423/live/1976bf00-d911-11f1-94c6-3f8050561bf5.jpg" alt="Hoax bomb threats target European airlines and airports for second time in a week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss" target="_blank">Hoax bomb threats target European airlines and airports for second time in a week</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-05 17:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1793899892212_now_current_markets_midterms_261105_S3_1920x1080-50hw30.jpg" alt="Stock market reacts to Democrats&#x27; midterm win" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/stock-market-reacts-to-democrats-midterm-win-272933445627" target="_blank">Stock market reacts to Democrats&#x27; midterm win</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-11-05 17:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,38 +105,47 @@
                 <span class="time">2026-11-05 10:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/11/1920x1080/skynews-cristiano-ronaldo-portugal_7397799.jpg?20261105110638" alt="Cristiano Ronaldo bows out from national team with emotional message" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/cristiano-ronaldo-retires-from-international-football-13608313" target="_blank">Cristiano Ronaldo bows out from national team with emotional message</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-11-05 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/11/05/g-s1-152035/vatican-pope-bob-dylan" target="_blank">Bob Dylan comes knockin&#x27; on pope&#x27;s door as Leo welcomes legend to Vatican</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-11-05 07:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c74/live/1d4cf850-d8e5-11f1-a701-fddedf244c16.jpg" alt="Vance walks Trump tightrope with scathing election critique blaming Iran war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss" target="_blank">Vance walks Trump tightrope with scathing election critique blaming Iran war</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-05 03:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/" target="_blank">Serve Robotics launches new business to become the AWS for robots</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-11-05 21:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/science/1028178/blue-origins-next-launch-now-wont-happen-until-2027" target="_blank">Blue Origin’s next launch now won’t happen until 2027</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-11-05 20:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/BMW_i7_60_xD_Vancouver-Green_023-500x500.jpg" alt="BMW bumps battery for the better: The 2027 i7 60 xDrive, driven" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/11/bmw-bumps-battery-for-the-better-the-2027-i7-60-xdrive-driven/" target="_blank">BMW bumps battery for the better: The 2027 i7 60 xDrive, driven</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-11-05 20:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6aeccae2d6b6f235d0bba953/master/pass/The-Best-Early-Black-Friday-Tech-Deals-at-Best-Buy.jpg" alt="13 Best Early Black Friday Deals at Best Buy on Hot Tech (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/early-black-friday-best-buy-deals-11-5-26/" target="_blank">13 Best Early Black Friday Deals at Best Buy on Hot Tech (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-11-05 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -124,47 +164,47 @@
                 <span class="time">2026-11-05 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/switchcarts-500x500.jpg" alt="Nintendo&#x27;s biggest ROM chip supplier is bowing out of the business" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/" target="_blank">Nintendo&#x27;s biggest ROM chip supplier is bowing out of the business</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-11-04 22:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/" target="_blank">AI PACs spent millions trying to shape Congress — here’s how they fared</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-11-04 22:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6aeb74f2291739b7e29cddcb/master/pass/Get-Google%E2%80%99s-Great-Pixel-11-Phones-for-Less.jpg" alt="Google Pixel 11, 11 Pro, and 11 Pro XL Sale: Save Up to $350" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/google-pixel-11-deal-november-2026/" target="_blank">Google Pixel 11, 11 Pro, and 11 Pro XL Sale: Save Up to $350</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-11-04 18:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei" target="_blank">Nothing teases a screen-free AI device ahead of launch next month</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-11-04 18:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/cverports/cve-2026-12411-cve-2026-12411-cross-guest-volume-hijack-via-devlxd-device-patch-in-canonical-lxd-i4i" target="_blank">CVE-2026-12411: CVE-2026-12411: Cross-Guest Volume Hijack via DevLXD Device PATCH in Canonical LXD</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-11-05 21:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/" target="_blank">Inside GitHub’s new Git storage architecture</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-11-05 20:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/11/gcp-api-gateway-streaming/en/headerimage/google-adk-java-1-0-1793893770890.jpeg" alt="Google Cloud API Gateway Introduces Streaming Support for Real-Time and AI-Powered Applications" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/11/gcp-api-gateway-streaming/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Cloud API Gateway Introduces Streaming Support for Real-Time and AI-Powered Applications</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-11-05 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/scaling-slack-and-github-with-maude" target="_blank">Scaling Slack and GitHub with Maude Lemaire</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-11-05 15:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -178,45 +218,23 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://sshhole.com" target="_blank">Sshole</a></span>
+                <span class="title"><a href="https://sshhole.com" target="_blank">sshole</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-11-05 12:19</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/MPV-0.42-Released" target="_blank">MPV 0.42 Media Player Brings Wayland Improvements, Improved HDR</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-11-05 01:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/benedetleandro/show-hn-fenestra-double-click-a-local-distindexhtml-and-it-opens-over-localhost-2132" target="_blank">Show HN: Fenestra – double-click a local dist/index.html and it opens over localhost</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-11-05 00:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/bridging-open-source-remediation-gap-introducing-two-new-lessons-lightwell" target="_blank">Bridging the open source remediation gap: Introducing two new lessons on Lightwell</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2026-11-05 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/05/ubuntu-bug.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu users blast Canonical for slow kernel security fix" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/11/ubuntu-fix-tcp-bug-criticism" target="_blank">Ubuntu users blast Canonical for slow kernel security fix</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-11-04 23:47</span>
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/" target="_blank">Want to Rent an Internet Address at the White House?</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2026-11-05 04:36</span>
             </div>
         </div>
 </div>
@@ -224,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M6PPENPNBN33VAWM7SAJFR22/hero-image.jpg" alt="Sony Wants to Give You Up to $400 for Your PS5" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/sony-wants-to-give-you-up-to-400-for-your-ps5?utm_medium=RSS" target="_blank">Sony Wants to Give You Up to $400 for Your PS5</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-11-05 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/11/mulgore-1280x720.jpg" alt="World Of Warcraft: Forever Had A Shockingly Smooth Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -251,38 +278,20 @@
                 <span class="time">2026-11-04 22:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/11/vision.jpg" alt="Last Night’s VisionQuest Reveal Has A Whole Lot Of Marvel History Tied Up In It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/visionquest-jim-hammond-human-torch-synthetic-man-explained-2000753358" target="_blank">Last Night’s VisionQuest Reveal Has A Whole Lot Of Marvel History Tied Up In It</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-11-04 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M6KV55KG319MNBV47A9QNZ6Z/hero-image.jpg" alt="Firefox&#x27;s New &#x27;Mini Window&#x27; Feature Is a Game Changer for Productivity" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/firefoxs-new-mini-window-feature-is-a-game-changer?utm_medium=RSS" target="_blank">Firefox&#x27;s New &#x27;Mini Window&#x27; Feature Is a Game Changer for Productivity</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-11-04 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/1809-TEASER1200-dementia-donnie-9-bottoming-out.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Tom the Dancing Bug: Dementia Donnie bottoms out!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/11/04/tom-the-dancing-bug-dementia-donnie-bottoms-out.html" target="_blank">Tom the Dancing Bug: Dementia Donnie bottoms out!</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-11-04 17:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1793825706-20261105.png" alt="Saturday Morning Breakfast Cereal - Index" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/index" target="_blank">Saturday Morning Breakfast Cereal - Index</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-11-05 16:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.questionablecontent.net/comics/5954.png" alt="Thread Count" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -292,31 +301,13 @@
                 <span class="time">2026-11-05 02:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/11/04/sentinels" target="_blank">Sentinels</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-11-04 20:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1793577905-20261104.png" alt="Saturday Morning Breakfast Cereal - Light" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/light" target="_blank">Saturday Morning Breakfast Cereal - Light</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-11-04 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 39 | 📡 Total Sources: 41 | 📸 With Images: 269 |
-        🔄 Last Updated: 15:53 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 40 | 📡 Total Sources: 40 | 📸 With Images: 271 |
+        🔄 Last Updated: 21:39 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
