@@ -1,41 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-11-05 07:29:41 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-11-05 15:52:59 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 33 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 14 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, November 05, 2026 - 07:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, November 05, 2026 - 15:53 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +50,42 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/11/5/why-has-cristiano-ronaldo-retired-from-international-football?traffic_source=rss" target="_blank">Why has Cristiano Ronaldo retired from international football?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-11-05 15:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1793881362079_tdy_news_7a_kornacki_welker_historic_election_261105_S3_1920x1080-bg8wjj.jpg" alt="Kornacki: Why the Midterm Election Results Are Historic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/kornacki-why-the-midterm-election-results-are-historic-272905797903" target="_blank">Kornacki: Why the Midterm Election Results Are Historic</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-11-05 12:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/shomari-figures_1793850602197_hpMain_4x3t_384.jpg" alt="Who won the redistricting war? So far, it looks like Democrats" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/won-redistricting-war-democrats/story?id=137858678" target="_blank">Who won the redistricting war? So far, it looks like Democrats</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-11-05 10:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/11/1920x1080/skynews-cristiano-ronaldo-portugal_7397799.jpg?20261105110638" alt="Cristiano Ronaldo bows out from national team with emotional message" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/cristiano-ronaldo-retires-from-international-football-13608313" target="_blank">Cristiano Ronaldo bows out from national team with emotional message</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-11-05 10:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/11/05/g-s1-152035/vatican-pope-bob-dylan" target="_blank">Bob Dylan comes knockin&#x27; on pope&#x27;s door as Leo welcomes legend to Vatican</a></span>
                 <span class="feed">NPR Topics: News</span>
@@ -61,48 +93,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/Politics/lance-bottoms-gty-jef-261104_1793812161471_hpMain_4x3t_384.jpg" alt="Black candidates from both parties made history in midterm elections" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c74/live/1d4cf850-d8e5-11f1-a701-fddedf244c16.jpg" alt="Vance walks Trump tightrope with scathing election critique blaming Iran war" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/black-candidates-make-history-party-lines-250-years/story?id=137851377" target="_blank">Black candidates from both parties made history in midterm elections</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-11-05 00:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/11/4/who-gets-to-vote-in-the-us?traffic_source=rss" target="_blank">Who gets to vote in the US?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-11-04 23:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d226/live/51085d40-d897-11f1-bffe-b94c467713ac.jpg" alt="Pound rises to its highest level since the Brexit referendum" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss" target="_blank">Pound rises to its highest level since the Brexit referendum</a></span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss" target="_blank">Vance walks Trump tightrope with scathing election critique blaming Iran war</a></span>
                 <span class="feed">BBC News</span>
-                <span class="time">2026-11-04 23:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/11/04/g-s1-151833/2026-midterms-chuck-schumer-senate-democrats" target="_blank">Chuck Schumer heralds Democrats&#x27; &#x27;generational remake&#x27; of Senate</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-11-04 18:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1793817133144_f_mash_dc_trump_midterms_qa_261104_S3_1920x1080-5r8ynh.jpg" alt="Trump answers questions from reporters after Republican midterm losses" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/trump-answers-questions-from-reporters-after-republican-midterm-losses-272858693547" target="_blank">Trump answers questions from reporters after Republican midterm losses</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-11-04 18:32</span>
+                <span class="time">2026-11-05 03:47</span>
             </div>
         </div>
 </div>
@@ -110,6 +106,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/11/05/bluesky-hit-peak-usage-for-the-year-on-election-night/" target="_blank">Bluesky hit peak usage for the year on Election Night</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-11-05 15:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/signature27-1-500x500.jpg" alt="Motorola&#x27;s new Signature 27 has it all if you can stomach the $1,600 price tag" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/11/motorolas-new-signature-27-has-it-all-if-you-can-stomach-the-1600-price-tag/" target="_blank">Motorola&#x27;s new Signature 27 has it all if you can stomach the $1,600 price tag</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-11-05 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/switchcarts-500x500.jpg" alt="Nintendo&#x27;s biggest ROM chip supplier is bowing out of the business" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,29 +160,29 @@
                 <span class="time">2026-11-04 18:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Enough-Phone-in-Hand-500x500.jpg" alt="People say they want small smartphones—the Enough Phone will put that to the test" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/11/people-say-they-want-small-smartphones-the-enough-phone-will-put-that-to-the-test/" target="_blank">People say they want small smartphones—the Enough Phone will put that to the test</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-11-04 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6aea06f2bd6c21c6b16c255d/master/pass/Kindle%20Klick%20112026%20top%20art%20SOURCE%20Amazon.jpg" alt="I Tried Amazon’s New Kindles. Buy This Accessory Instead (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/finally-a-kindle-page-turner/" target="_blank">I Tried Amazon’s New Kindles. Buy This Accessory Instead (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-11-04 11:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Servo-0.7-Changes" target="_blank">Servo Browser Engine Continues Broadening Web Compatibility, New Features</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-11-05 15:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://sshhole.com" target="_blank">Sshole</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-11-05 12:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -188,39 +202,21 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/05/ubuntu-bug.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu users say Canonical “asleep at the wheel” over critical Linux kernel bug" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/bridging-open-source-remediation-gap-introducing-two-new-lessons-lightwell" target="_blank">Bridging the open source remediation gap: Introducing two new lessons on Lightwell</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2026-11-05 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/05/ubuntu-bug.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu users blast Canonical for slow kernel security fix" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/11/ubuntu-fix-tcp-bug-criticism" target="_blank">Ubuntu users say Canonical “asleep at the wheel” over critical Linux kernel bug</a></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/11/ubuntu-fix-tcp-bug-criticism" target="_blank">Ubuntu users blast Canonical for slow kernel security fix</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-11-04 23:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://layer3intel.com/blog/residential-proxies-white-house-network" target="_blank">Residential proxies detected on White House network</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-11-04 20:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://tildeweb.nl/~michiel/python-on-my-wrist.html" target="_blank">Python on my wrist</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-11-04 17:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/11/04/your-net-parallel-loop-can-become-serial-in-a-one-cpu-container/" target="_blank">Your .NET parallel loop can become serial in a one-CPU container</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-11-04 16:34</span>
             </div>
         </div>
 </div>
@@ -228,6 +224,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/11/mulgore-1280x720.jpg" alt="World Of Warcraft: Forever Had A Shockingly Smooth Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/world-of-warcraft-forever-had-a-shockingly-smooth-launch-2000754182" target="_blank">World Of Warcraft: Forever Had A Shockingly Smooth Launch</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-11-05 15:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/trump-1.jpg?fit=1200%2C741&amp;quality=60&amp;ssl=1" alt="Trump&#x27;s anal fixation fails to deliver in the end" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -305,22 +310,13 @@
                 <span class="time">2026-11-04 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/11/04/sentinels" target="_blank">Sentinels</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-11-04 08:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 38 | 📡 Total Sources: 41 | 📸 With Images: 268 |
-        🔄 Last Updated: 07:29 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 39 | 📡 Total Sources: 41 | 📸 With Images: 269 |
+        🔄 Last Updated: 15:53 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
