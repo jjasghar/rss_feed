@@ -1,37 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-11-05 00:10:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-11-05 07:29:41 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 15 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 9 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Thursday, November 05, 2026 - 00:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, November 05, 2026 - 07:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/11/05/g-s1-152035/vatican-pope-bob-dylan" target="_blank">Bob Dylan comes knockin&#x27; on pope&#x27;s door as Leo welcomes legend to Vatican</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-11-05 07:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/lance-bottoms-gty-jef-261104_1793812161471_hpMain_4x3t_384.jpg" alt="Black candidates from both parties made history in midterm elections" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/black-candidates-make-history-party-lines-250-years/story?id=137851377" target="_blank">Black candidates from both parties made history in midterm elections</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-11-05 00:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +105,20 @@
                 <span class="time">2026-11-04 18:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts" target="_blank">ANC faces anger over poor services as South Africans vote in local elections</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-11-04 14:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5315/live/41e364b0-d854-11f1-94f3-cf7d1e52bb8c.jpg" alt="&#x27;This is a disaster&#x27;: Angry Republicans blame Trump for midterms defeat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;This is a disaster&#x27;: Angry Republicans blame Trump for midterms defeat</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-04 13:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/switchcarts-500x500.jpg" alt="Nintendo&#x27;s biggest ROM chip supplier is bowing out of the business" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/" target="_blank">Nintendo&#x27;s biggest ROM chip supplier is bowing out of the business</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-11-04 22:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +164,20 @@
                 <span class="time">2026-11-04 11:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/1025415/the-legend-of-zelda-ocarina-of-time-review-nintendo-switch-2" target="_blank">The Legend of Zelda: Ocarina of Time never gets old</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-11-04 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/MPV-0.42-Released" target="_blank">MPV 0.42 Media Player Brings Wayland Improvements, Improved HDR</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-11-05 01:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,20 +223,20 @@
                 <span class="time">2026-11-04 16:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/linux-74-threadripper" target="_blank">Linux 7.4 Showing Few Performance Gains With Initial Benchmarks On AMD Ryzen Threadripper</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-11-04 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/trump-1.jpg?fit=1200%2C741&amp;quality=60&amp;ssl=1" alt="Trump&#x27;s anal fixation fails to deliver in the end" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/11/04/trump-handsome-candidates-election-losses.html" target="_blank">Trump&#x27;s anal fixation fails to deliver in the end</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-11-04 23:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01M6M9C0FEV5RNYQPDWWT8HYHR/hero-image.png" alt="Everything You Should Know About This Year&#x27;s Black Friday Sales" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,6 +279,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.questionablecontent.net/comics/5954.png" alt="Thread Count" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5954" target="_blank">Thread Count</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-11-05 02:06</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -292,22 +314,13 @@
                 <span class="time">2026-11-04 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5953.png" alt="How To Say Hello" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5953" target="_blank">How To Say Hello</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-11-04 02:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 37 | 📡 Total Sources: 41 | 📸 With Images: 268 |
-        🔄 Last Updated: 00:10 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 38 | 📡 Total Sources: 41 | 📸 With Images: 268 |
+        🔄 Last Updated: 07:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
