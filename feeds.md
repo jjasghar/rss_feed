@@ -1,37 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-11-06 16:26:25 UTC -->
+<!-- Processing 54 RSS feeds at 2026-11-06 21:50:39 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 13 new posts out of 28 feeds processed -->
+<!-- Generated 14 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, November 06, 2026 - 16:26 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Friday, November 06, 2026 - 21:51 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +54,42 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/11/6/who-is-stephen-miller-trumps-new-white-house-chief-of-staff?traffic_source=rss" target="_blank">Who is Stephen Miller, Trump’s new White House chief of staff?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-11-06 21:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties" target="_blank">Israel&#x27;s Arab-led parties in spotlight after inconclusive election</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-11-06 20:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/10/1920x1080/skynews-waterford-fire_7377650.jpg?20261015153331" alt="Boy, 6, dies in hospital after house fire that killed four members of his family" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/boy-6-dies-in-hospital-after-house-fire-that-killed-four-members-of-his-family-13609051" target="_blank">Boy, 6, dies in hospital after house fire that killed four members of his family</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-11-06 20:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1793993411181_nbc_spec_wiles_miller_wh_261106_S3_1920x1080-huxtni.jpg" alt="Wiles’ significance as Trump’s longest-serving chief of staff" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/special-report-stephen-miller-to-replace-susie-wiles-as-trump-s-chief-of-staff-273019461547" target="_blank">Wiles’ significance as Trump’s longest-serving chief of staff</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-11-06 19:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a55a/live/c7545ca0-d9ec-11f1-bbe5-797ee05bee69.jpg" alt="AI stocks climb after trillions wiped from market values" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -63,42 +105,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/11/6/protesters-break-into-microsoft-ai-data-centre-site-in-amsterdam?traffic_source=rss" target="_blank">Protesters break into Microsoft AI data centre site in Amsterdam</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-11-06 15:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes" target="_blank">European air traffic is targeted by new threats after a week of hoaxes</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-11-06 15:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie" target="_blank">Kenyan doomsday sect leader jailed for 200 years for murder of 190 children</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-11-06 15:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Business/construction-4-ap-gmh-261105_1793910287862_hpMain_4x3t_384.jpg" alt="Jobs report shows hiring accelerated in October" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Business/jobs-report-provide-latest-snapshot-hiring-days-after/story?id=137874249" target="_blank">Jobs report shows hiring accelerated in October</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-11-06 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1793967282937_tdy_news_7a_nobles_midterm_races_261106_S3_1920x1080-yrgfe3.jpg" alt="Democrats Maintain Narrow Lead in Mississippi and Alaska" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/democrats-maintain-narrow-lead-in-mississippi-and-alaska-272991301706" target="_blank">Democrats Maintain Narrow Lead in Mississippi and Alaska</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-11-06 12:14</span>
             </div>
         </div>
 </div>
@@ -152,12 +158,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Developer Pulls Roku&#x27;s Popular Fish Tank Screensaver Following Fox Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/" target="_blank">Serve Robotics launches new business to become the AWS for robots</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-11-05 21:15</span>
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://tech.slashdot.org/story/26/11/06/2051253/developer-pulls-rokus-popular-fish-tank-screensaver-following-fox-sale?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Developer Pulls Roku&#x27;s Popular Fish Tank Screensaver Following Fox Sale</a></span>
+                <span class="feed">Slashdot</span>
+                
             </div>
         </div>
 </div>
@@ -165,6 +171,33 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/browser_act_e2505dbdf454a/give-parallel-browser-jobs-an-account-level-budget-37e" target="_blank">Give parallel browser jobs an account-level budget</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-11-06 21:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!C0F6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffec3dc29-90f7-4d34-b586-727f577dc608_2096x1920.png" alt="The Pragmatic Summit 2027" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pragmatic-summit-2027" target="_blank">The Pragmatic Summit 2027</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-11-06 19:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/ubuntu-summit-26-10-less-than-a-week-away" target="_blank">Ubuntu Summit 26.10: Less than a week away!</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-11-06 16:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Yelp Combines Native and Server-Driven UI for Its AI Assistant" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -186,37 +219,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/11/06/welcome-to-life-in-the-chip-age/" target="_blank">Welcome to life in the chip age</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-11-06 08:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/ppmpreetham/BUI" target="_blank">Blender&#x27;s UI and Runtime: Much Faster Than GPUI</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-11-06 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/11/ai-credentials-isolation/en/headerimage/generatedHeaderImage-1793853184587.jpg" alt="Edera&#x27;s Object Capability Bounded Authority Promises to Isolate Credentials From AI Agent Workloads" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/11/ai-credentials-isolation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Edera&#x27;s Object Capability Bounded Authority Promises to Isolate Credentials From AI Agent Workloads</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-11-06 06:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17516378/passbolt-review" target="_blank">Passbolt is an Open Source Password Manager Built Specially For Teams</a></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17516546/kitty-0-50-release" target="_blank">Kitty 0.50 Picks Up Where You Left Off After a System Restart</a></span>
                 <span class="feed">It's FOSS</span>
-                <span class="time">2026-11-06 05:00</span>
+                <span class="time">2026-11-06 12:17</span>
             </div>
         </div>
 </div>
@@ -224,6 +230,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/giant-crash-test-dummy-glen-burnie.jpg?fit=1200%2C1607&amp;quality=60&amp;ssl=1" alt="A 30-foot-tall crash test dummy stands guard outside Maryland&#x27;s motor vehicle office" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/11/06/giant-crash-test-dummy-glen-burnie.html" target="_blank">A 30-foot-tall crash test dummy stands guard outside Maryland&#x27;s motor vehicle office</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-11-06 21:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/11/GettyImages-2300243843-e1793996570578-1280x817.jpg" alt="Dad Has 6-Year-Old Daughter Save His Spot In Line At Target For Pokémon Cards And Then Leaves" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/dad-has-6-year-old-daughter-save-his-spot-in-line-at-target-for-pokemon-cards-and-then-leaves-2000754745" target="_blank">Dad Has 6-Year-Old Daughter Save His Spot In Line At Target For Pokémon Cards And Then Leaves</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-11-06 21:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M6S8ASVYZDRYTXTZB6C7RDVH/hero-image.webp" alt="Everything You Need to Know About Amazon&#x27;s 2026 Black Friday and Cyber Monday Sales" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/amazon-black-friday-cyber-monday-faq-2026?utm_medium=RSS" target="_blank">Everything You Need to Know About Amazon&#x27;s 2026 Black Friday and Cyber Monday Sales</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-11-06 20:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01M6RKF1WDG308VAAFPCC293XS/hero-image.jpg" alt="ChatGPT&#x27;s New GIF Generator Is Fun, but Won&#x27;t Replace Us Humans (Yet)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -251,24 +284,6 @@
                 <span class="time">2026-11-05 22:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/12-in-1-USB-C-Hub-and-Laptop-Stand-1200.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Give your laptop 12 more ports and enjoy better posture with this $54.97 USB-C hub" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/11/05/give-your-laptop-12-more-ports-and-enjoy-better-posture-with-this-54-97-usb-c-hub.html" target="_blank">Give your laptop 12 more ports and enjoy better posture with this $54.97 USB-C hub</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-11-05 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M6PPENPNBN33VAWM7SAJFR22/hero-image.jpg" alt="Sony Wants to Give You Up to $400 for Your PS5" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/sony-wants-to-give-you-up-to-400-for-your-ps5?utm_medium=RSS" target="_blank">Sony Wants to Give You Up to $400 for Your PS5</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-11-05 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -283,13 +298,22 @@
                 <span class="time">2026-11-06 08:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://www.questionablecontent.net/comics/5955.png" alt="Keg&#x27;s Run Dry" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5955" target="_blank">Keg&#x27;s Run Dry</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-11-06 02:01</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 40 | 📡 Total Sources: 40 | 📸 With Images: 268 |
-        🔄 Last Updated: 16:26 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 41 | 📡 Total Sources: 40 | 📸 With Images: 268 |
+        🔄 Last Updated: 21:51 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
