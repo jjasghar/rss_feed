@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-11-06 01:52:32 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-11-06 08:41:30 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 27 feeds processed -->
+<!-- Generated 10 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, November 06, 2026 - 01:52 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, November 06, 2026 - 08:41 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/arch-5-ht-gmh-260917._1789661371270_hpMain_4x3t_384.jpg" alt="Judge blocks Trump arch hours after federal panel approval" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/vietnam-vet-leading-opposition-trumps-arch-calls-frankly/story?id=137885182" target="_blank">Judge blocks Trump arch hours after federal panel approval</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-11-06 08:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/11/06/nx-s1-6031990/trump-arch-planning-commission-injunction" target="_blank">A judge blocks construction of Trump&#x27;s arch moments after it won federal approval</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-11-06 05:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a50/live/01328a20-d94b-11f1-b2ee-87d22b17ac74.jpg" alt="Met chief warns policing &#x27;heading for failure&#x27; without reform" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,29 +98,29 @@
                 <span class="time">2026-11-05 18:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7423/live/1976bf00-d911-11f1-94c6-3f8050561bf5.jpg" alt="Hoax bomb threats target European airlines and airports for second time in a week" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss" target="_blank">Hoax bomb threats target European airlines and airports for second time in a week</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-05 17:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1793899892212_now_current_markets_midterms_261105_S3_1920x1080-50hw30.jpg" alt="Stock market reacts to Democrats&#x27; midterm win" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/stock-market-reacts-to-democrats-midterm-win-272933445627" target="_blank">Stock market reacts to Democrats&#x27; midterm win</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-11-05 17:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/" target="_blank">At least 10 local governments have moved to drop Flock’s surveillance cameras since summer</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-11-06 07:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/News_BlueOrigin-Northstar-Engine-500x500.webp" alt="Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/" target="_blank">Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-11-06 00:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,24 +157,6 @@
                 <span class="time">2026-11-05 20:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/BMW_i7_60_xD_Vancouver-Green_023-500x500.jpg" alt="BMW bumps battery for the better: The 2027 i7 60 xDrive, driven" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/11/bmw-bumps-battery-for-the-better-the-2027-i7-60-xdrive-driven/" target="_blank">BMW bumps battery for the better: The 2027 i7 60 xDrive, driven</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-11-05 20:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6aeccae2d6b6f235d0bba953/master/pass/The-Best-Early-Black-Friday-Tech-Deals-at-Best-Buy.jpg" alt="13 Best Early Black Friday Deals at Best Buy on Hot Tech (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/early-black-friday-best-buy-deals-11-5-26/" target="_blank">13 Best Early Black Friday Deals at Best Buy on Hot Tech (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-11-05 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -166,69 +165,55 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/11/06/welcome-to-life-in-the-chip-age/" target="_blank">Welcome to life in the chip age</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-11-06 08:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/ppmpreetham/BUI" target="_blank">Blender&#x27;s UI and Runtime: Much Faster Than GPUI</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-11-06 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/11/ai-credentials-isolation/en/headerimage/generatedHeaderImage-1793853184587.jpg" alt="Edera&#x27;s Object Capability Bounded Authority Promises to Isolate Credentials From AI Agent Workloads" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/11/ai-credentials-isolation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Edera&#x27;s Object Capability Bounded Authority Promises to Isolate Credentials From AI Agent Workloads</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-11-06 06:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17516378/passbolt-review" target="_blank">Passbolt is an Open Source Password Manager Built Specially For Teams</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-11-06 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-november-6-2026-red-hat" target="_blank">Friday Five — November 6, 2026 | Red Hat</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2026-11-06 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-HDMI-2.2-FRL-Fixes" target="_blank">AMDGPU Driver Seeing HDMI 2.2 FRL Fixes For Linux 7.4</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-11-05 22:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/cverports/cve-2026-12411-cve-2026-12411-cross-guest-volume-hijack-via-devlxd-device-patch-in-canonical-lxd-i4i" target="_blank">CVE-2026-12411: CVE-2026-12411: Cross-Guest Volume Hijack via DevLXD Device PATCH in Canonical LXD</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-11-05 21:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/" target="_blank">Inside GitHub’s new Git storage architecture</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-11-05 20:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/11/05/don-t-build-the-reusable-component-yet/" target="_blank">Don’t Build the Reusable Component Yet</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-11-05 16:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/11/gcp-api-gateway-streaming/en/headerimage/google-adk-java-1-0-1793893770890.jpeg" alt="Google Cloud API Gateway Introduces Streaming Support for Real-Time and AI-Powered Applications" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/11/gcp-api-gateway-streaming/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Cloud API Gateway Introduces Streaming Support for Real-Time and AI-Powered Applications</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-11-05 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/scaling-slack-and-github-with-maude" target="_blank">Scaling Slack and GitHub with Maude Lemaire</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-11-05 15:58</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/" target="_blank">Want to Rent an Internet Address at the White House?</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2026-11-05 04:36</span>
             </div>
         </div>
 </div>
@@ -243,6 +228,15 @@
                 <span class="title"><a href="https://lifehacker.com/tech/best-buy-sale-black-friday-2026?utm_medium=RSS" target="_blank">What to Expect From Best Buy&#x27;s Black Friday and Cyber Monday Sales This Year</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-11-05 22:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/11/saria-1280x720.jpg" alt="One Of The Coolest New Features In The Ocarina Of Time Remake Is Equal Parts Impressive And Hysterical" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/legend-zelda-ocarina-of-time-microphone-songs-instruments-2000754324" target="_blank">One Of The Coolest New Features In The Ocarina Of Time Remake Is Equal Parts Impressive And Hysterical</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-11-05 22:30</span>
             </div>
         </div>
 <div class="story">
@@ -286,22 +280,13 @@
                 <span class="time">2026-11-05 16:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5954.png" alt="Thread Count" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5954" target="_blank">Thread Count</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-11-05 02:06</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 38 | 📡 Total Sources: 40 | 📸 With Images: 269 |
-        🔄 Last Updated: 01:52 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 44 | 📡 Total Sources: 40 | 📸 With Images: 268 |
+        🔄 Last Updated: 08:41 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
