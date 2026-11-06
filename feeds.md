@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-11-06 08:41:30 UTC -->
+<!-- Processing 54 RSS feeds at 2026-11-06 16:26:25 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Slashdot -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 10 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 13 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, November 06, 2026 - 08:41 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, November 06, 2026 - 16:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,57 +48,57 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
-            <img src="https://s.abcnews.com/images/Politics/arch-5-ht-gmh-260917._1789661371270_hpMain_4x3t_384.jpg" alt="Judge blocks Trump arch hours after federal panel approval" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a55a/live/c7545ca0-d9ec-11f1-bbe5-797ee05bee69.jpg" alt="AI stocks climb after trillions wiped from market values" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/vietnam-vet-leading-opposition-trumps-arch-calls-frankly/story?id=137885182" target="_blank">Judge blocks Trump arch hours after federal panel approval</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-11-06 08:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/11/06/nx-s1-6031990/trump-arch-planning-commission-injunction" target="_blank">A judge blocks construction of Trump&#x27;s arch moments after it won federal approval</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-11-06 05:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a50/live/01328a20-d94b-11f1-b2ee-87d22b17ac74.jpg" alt="Met chief warns policing &#x27;heading for failure&#x27; without reform" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cvglww2r307ko?at_medium=RSS&at_campaign=rss" target="_blank">Met chief warns policing &#x27;heading for failure&#x27; without reform</a></span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss" target="_blank">AI stocks climb after trillions wiped from market values</a></span>
                 <span class="feed">BBC News</span>
-                <span class="time">2026-11-06 01:13</span>
+                <span class="time">2026-11-06 16:23</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/11/6/israeli-settlers-set-fire-to-palestinian-olive-grove-near-ramallah?traffic_source=rss" target="_blank">Israeli settlers set fire to Palestinian olive grove near Ramallah</a></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/11/6/protesters-break-into-microsoft-ai-data-centre-site-in-amsterdam?traffic_source=rss" target="_blank">Protesters break into Microsoft AI data centre site in Amsterdam</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-11-06 00:19</span>
+                <span class="time">2026-11-06 15:48</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://e3.365dm.com/26/11/1920x1080/skynews-jesus-de-miguel-tenerife_7395647.jpg?20261104195713" alt="Family of footballer who died after on-pitch collision pay tribute to him" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/jesus-de-miguel-hundreds-gather-for-funeral-of-tenerife-striker-13608553" target="_blank">Family of footballer who died after on-pitch collision pay tribute to him</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-11-05 18:50</span>
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes" target="_blank">European air traffic is targeted by new threats after a week of hoaxes</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-11-06 15:21</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2478/live/e8f58d90-d94a-11f1-a701-fddedf244c16.jpg" alt="Russell Brand found guilty of rape and sexual assault" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ckyvrze96y70o?at_medium=RSS&at_campaign=rss" target="_blank">Russell Brand found guilty of rape and sexual assault</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-05 18:28</span>
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie" target="_blank">Kenyan doomsday sect leader jailed for 200 years for murder of 190 children</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-11-06 15:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Business/construction-4-ap-gmh-261105_1793910287862_hpMain_4x3t_384.jpg" alt="Jobs report shows hiring accelerated in October" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Business/jobs-report-provide-latest-snapshot-hiring-days-after/story?id=137874249" target="_blank">Jobs report shows hiring accelerated in October</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-11-06 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1793967282937_tdy_news_7a_nobles_midterm_races_261106_S3_1920x1080-yrgfe3.jpg" alt="Democrats Maintain Narrow Lead in Mississippi and Alaska" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/democrats-maintain-narrow-lead-in-mississippi-and-alaska-272991301706" target="_blank">Democrats Maintain Narrow Lead in Mississippi and Alaska</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-11-06 12:14</span>
             </div>
         </div>
 </div>
@@ -103,6 +106,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/" target="_blank">Fox completes its $22B acquisition of Roku</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-11-06 16:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +160,29 @@
                 <span class="time">2026-11-05 21:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/science/1028178/blue-origins-next-launch-now-wont-happen-until-2027" target="_blank">Blue Origin’s next launch now won’t happen until 2027</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-11-05 20:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Yelp Combines Native and Server-Driven UI for Its AI Assistant" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/11/yelp-assistant-hybrid-ui/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Yelp Combines Native and Server-Driven UI for Its AI Assistant</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-11-06 14:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/the-missing-piece-bringing-up-to-15-years-of-support-to-zephyr-for-microcontroller-based-ecus" target="_blank">The missing piece: bringing up to 15 years of support to Zephyr for microcontroller-based ECUs</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-11-06 13:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,29 +219,20 @@
                 <span class="time">2026-11-06 05:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-november-6-2026-red-hat" target="_blank">Friday Five — November 6, 2026 | Red Hat</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2026-11-06 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-HDMI-2.2-FRL-Fixes" target="_blank">AMDGPU Driver Seeing HDMI 2.2 FRL Fixes For Linux 7.4</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-11-05 22:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M6RKF1WDG308VAAFPCC293XS/hero-image.jpg" alt="ChatGPT&#x27;s New GIF Generator Is Fun, but Won&#x27;t Replace Us Humans (Yet)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/chatgpts-new-gif-generator-is-fun-but-wont-replace-us-humans?utm_medium=RSS" target="_blank">ChatGPT&#x27;s New GIF Generator Is Fun, but Won&#x27;t Replace Us Humans (Yet)</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-11-06 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01M6PVBT1AQZCDFJKV7T68456D/hero-image.png" alt="What to Expect From Best Buy&#x27;s Black Friday and Cyber Monday Sales This Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -257,27 +269,18 @@
                 <span class="time">2026-11-05 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/11/mulgore-1280x720.jpg" alt="World Of Warcraft: Forever Had A Shockingly Smooth Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/world-of-warcraft-forever-had-a-shockingly-smooth-launch-2000754182" target="_blank">World Of Warcraft: Forever Had A Shockingly Smooth Launch</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-11-05 15:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
-            <img src="https://www.smbc-comics.com/comics/1793825706-20261105.png" alt="Saturday Morning Breakfast Cereal - Index" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/index" target="_blank">Saturday Morning Breakfast Cereal - Index</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-11-05 16:20</span>
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/11/06/musical-scares" target="_blank">Musical Scares</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-11-06 08:01</span>
             </div>
         </div>
 </div>
@@ -285,8 +288,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 44 | 📡 Total Sources: 40 | 📸 With Images: 268 |
-        🔄 Last Updated: 08:41 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 40 | 📡 Total Sources: 40 | 📸 With Images: 268 |
+        🔄 Last Updated: 16:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
