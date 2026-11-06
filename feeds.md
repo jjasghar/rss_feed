@@ -1,41 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-11-05 21:39:05 UTC -->
+<!-- Processing 54 RSS feeds at 2026-11-06 01:52:32 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 17 new posts out of 32 feeds processed -->
+<!-- Generated 11 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Thursday, November 05, 2026 - 21:39 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, November 06, 2026 - 01:52 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a50/live/01328a20-d94b-11f1-b2ee-87d22b17ac74.jpg" alt="Met chief warns policing &#x27;heading for failure&#x27; without reform" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cvglww2r307ko?at_medium=RSS&at_campaign=rss" target="_blank">Met chief warns policing &#x27;heading for failure&#x27; without reform</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-06 01:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/11/6/israeli-settlers-set-fire-to-palestinian-olive-grove-near-ramallah?traffic_source=rss" target="_blank">Israeli settlers set fire to Palestinian olive grove near Ramallah</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-11-06 00:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/11/1920x1080/skynews-jesus-de-miguel-tenerife_7395647.jpg?20261104195713" alt="Family of footballer who died after on-pitch collision pay tribute to him" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/jesus-de-miguel-hundreds-gather-for-funeral-of-tenerife-striker-13608553" target="_blank">Family of footballer who died after on-pitch collision pay tribute to him</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-11-05 18:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2478/live/e8f58d90-d94a-11f1-a701-fddedf244c16.jpg" alt="Russell Brand found guilty of rape and sexual assault" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -78,38 +99,29 @@
                 <span class="time">2026-11-05 17:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/11/5/why-has-cristiano-ronaldo-retired-from-international-football?traffic_source=rss" target="_blank">Why has Cristiano Ronaldo retired from international football?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-11-05 15:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1793881362079_tdy_news_7a_kornacki_welker_historic_election_261105_S3_1920x1080-bg8wjj.jpg" alt="Kornacki: Why the Midterm Election Results Are Historic" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/kornacki-why-the-midterm-election-results-are-historic-272905797903" target="_blank">Kornacki: Why the Midterm Election Results Are Historic</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-11-05 12:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/shomari-figures_1793850602197_hpMain_4x3t_384.jpg" alt="Who won the redistricting war? So far, it looks like Democrats" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/won-redistricting-war-democrats/story?id=137858678" target="_blank">Who won the redistricting war? So far, it looks like Democrats</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-11-05 10:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/" target="_blank">The New York Times reportedly in talks to buy Letterboxd for $330 million</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-11-06 00:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68c88e3fadc88e6a8852f302/master/pass/nordvpn.png" alt="6 Best VPN Services (2026), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-vpn/" target="_blank">6 Best VPN Services (2026), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-11-05 23:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,29 +158,20 @@
                 <span class="time">2026-11-05 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/11/05/bluesky-hit-peak-usage-for-the-year-on-election-night/" target="_blank">Bluesky hit peak usage for the year on Election Night</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-11-05 15:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/signature27-1-500x500.jpg" alt="Motorola&#x27;s new Signature 27 has it all if you can stomach the $1,600 price tag" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/11/motorolas-new-signature-27-has-it-all-if-you-can-stomach-the-1600-price-tag/" target="_blank">Motorola&#x27;s new Signature 27 has it all if you can stomach the $1,600 price tag</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-11-05 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-HDMI-2.2-FRL-Fixes" target="_blank">AMDGPU Driver Seeing HDMI 2.2 FRL Fixes For Linux 7.4</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-11-05 22:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -188,6 +191,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/11/05/don-t-build-the-reusable-component-yet/" target="_blank">Don’t Build the Reusable Component Yet</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-11-05 16:02</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/11/gcp-api-gateway-streaming/en/headerimage/google-adk-java-1-0-1793893770890.jpeg" alt="Google Cloud API Gateway Introduces Streaming Support for Real-Time and AI-Powered Applications" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -203,24 +215,6 @@
                 <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/scaling-slack-and-github-with-maude" target="_blank">Scaling Slack and GitHub with Maude Lemaire</a></span>
                 <span class="feed">The Pragmatic Engineer</span>
                 <span class="time">2026-11-05 15:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Servo-0.7-Changes" target="_blank">Servo Browser Engine Continues Broadening Web Compatibility, New Features</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-11-05 15:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://sshhole.com" target="_blank">sshole</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-11-05 12:19</span>
             </div>
         </div>
 </div>
@@ -243,6 +237,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M6PVBT1AQZCDFJKV7T68456D/hero-image.png" alt="What to Expect From Best Buy&#x27;s Black Friday and Cyber Monday Sales This Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-buy-sale-black-friday-2026?utm_medium=RSS" target="_blank">What to Expect From Best Buy&#x27;s Black Friday and Cyber Monday Sales This Year</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-11-05 22:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/12-in-1-USB-C-Hub-and-Laptop-Stand-1200.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Give your laptop 12 more ports and enjoy better posture with this $54.97 USB-C hub" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/11/05/give-your-laptop-12-more-ports-and-enjoy-better-posture-with-this-54-97-usb-c-hub.html" target="_blank">Give your laptop 12 more ports and enjoy better posture with this $54.97 USB-C hub</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-11-05 22:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01M6PPENPNBN33VAWM7SAJFR22/hero-image.jpg" alt="Sony Wants to Give You Up to $400 for Your PS5" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -258,24 +270,6 @@
                 <span class="title"><a href="https://kotaku.com/world-of-warcraft-forever-had-a-shockingly-smooth-launch-2000754182" target="_blank">World Of Warcraft: Forever Had A Shockingly Smooth Launch</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-11-05 15:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/trump-1.jpg?fit=1200%2C741&amp;quality=60&amp;ssl=1" alt="Trump&#x27;s anal fixation fails to deliver in the end" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/11/04/trump-handsome-candidates-election-losses.html" target="_blank">Trump&#x27;s anal fixation fails to deliver in the end</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-11-04 23:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M6M9C0FEV5RNYQPDWWT8HYHR/hero-image.png" alt="Everything You Should Know About This Year&#x27;s Black Friday Sales" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/what-to-know-about-black-friday-2026-sales?utm_medium=RSS" target="_blank">Everything You Should Know About This Year&#x27;s Black Friday Sales</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-11-04 22:17</span>
             </div>
         </div>
 </div>
@@ -306,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 40 | 📡 Total Sources: 40 | 📸 With Images: 271 |
-        🔄 Last Updated: 21:39 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 38 | 📡 Total Sources: 40 | 📸 With Images: 269 |
+        🔄 Last Updated: 01:52 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
