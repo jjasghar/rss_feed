@@ -1,43 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-11-06 21:50:39 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-11-07 01:24:00 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 14 new posts out of 34 feeds processed -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Friday, November 06, 2026 - 21:51 UTC</div>
+    <div class="newspaper-date">Saturday, November 07, 2026 - 01:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/firearms_1794011160483_hpMain_4x3t_384.jpeg" alt="Secret Service finds man parked near White House with multiple firearms: Authorities" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/man-arrested-after-secret-service-finds-parked-white/story?id=137930505" target="_blank">Secret Service finds man parked near White House with multiple firearms: Authorities</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-11-07 01:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/11/7/pope-leo-xiv-arrives-for-south-american-tour-after-cancer-surgery?traffic_source=rss" target="_blank">Pope Leo XIV arrives for South American tour after cancer surgery</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-11-07 00:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,29 +101,29 @@
                 <span class="time">2026-11-06 19:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a55a/live/c7545ca0-d9ec-11f1-bbe5-797ee05bee69.jpg" alt="AI stocks climb after trillions wiped from market values" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss" target="_blank">AI stocks climb after trillions wiped from market values</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-06 16:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/11/6/protesters-break-into-microsoft-ai-data-centre-site-in-amsterdam?traffic_source=rss" target="_blank">Protesters break into Microsoft AI data centre site in Amsterdam</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-11-06 15:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/" target="_blank">OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-11-06 22:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6aee2f4e65a8d4362bf27531/master/pass/GettyImages-2150577028.jpg" alt="The Cybertruck’s Death Is Actually Great News for EVs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/cybertrucks-death-great-news-for-evs/" target="_blank">The Cybertruck’s Death Is Actually Great News for EVs</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-11-06 22:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -131,37 +143,19 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/News_BlueOrigin-Northstar-Engine-500x500.webp" alt="Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/" target="_blank">Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-11-06 00:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/" target="_blank">The New York Times reportedly in talks to buy Letterboxd for $330 million</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-11-06 00:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68c88e3fadc88e6a8852f302/master/pass/nordvpn.png" alt="6 Best VPN Services (2026), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-vpn/" target="_blank">6 Best VPN Services (2026), Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-11-05 23:00</span>
-            </div>
-        </div>
-<div class="story">
             <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Developer Pulls Roku&#x27;s Popular Fish Tank Screensaver Following Fox Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-comments"></span>
                 <span class="title"><a href="https://tech.slashdot.org/story/26/11/06/2051253/developer-pulls-rokus-popular-fish-tank-screensaver-following-fox-sale?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Developer Pulls Roku&#x27;s Popular Fish Tank Screensaver Following Fox Sale</a></span>
+                <span class="feed">Slashdot</span>
+                
+            </div>
+        </div>
+<div class="story">
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Sony Revives the Original Walkman Headphones, Adds USB-C" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://entertainment.slashdot.org/story/26/11/06/0711224/sony-revives-the-original-walkman-headphones-adds-usb-c?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Sony Revives the Original Walkman Headphones, Adds USB-C</a></span>
                 <span class="feed">Slashdot</span>
                 
             </div>
@@ -171,6 +165,25 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/surajdev3290/got-tired-of-typing-random-dictionary-words-so-i-built-syntaxmonkey-its-a-typing-test-572b" target="_blank">Got tired of typing random dictionary words, so I built SyntaxMonkey 🐒. It&#x27;s a typing test specifically for developers to practice syntax in Python, JS, C++ &amp; more. Track your WPM &amp; accuracy on real code! 
+Try it out: www.syntaxmonkey.online</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-11-07 01:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/FreeBSD-15.2-Beta-1" target="_blank">FreeBSD 15.2 Beta 1 Allows Experimental Cross-Building Of Base Packages On Linux/macOS</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-11-07 00:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -190,39 +203,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/11/global-menu-for-gnome-shell.webp?resize=406%2C232&amp;ssl=1" alt="Global menu extension puts app menus in GNOME’s top panel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/11/global-menu-gnome-extension" target="_blank">Global menu extension puts app menus in GNOME’s top panel</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-11-06 17:43</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://ubuntu.com//blog/ubuntu-summit-26-10-less-than-a-week-away" target="_blank">Ubuntu Summit 26.10: Less than a week away!</a></span>
                 <span class="feed">Ubuntu blog</span>
                 <span class="time">2026-11-06 16:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Yelp Combines Native and Server-Driven UI for Its AI Assistant" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/11/yelp-assistant-hybrid-ui/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Yelp Combines Native and Server-Driven UI for Its AI Assistant</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-11-06 14:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/the-missing-piece-bringing-up-to-15-years-of-support-to-zephyr-for-microcontroller-based-ecus" target="_blank">The missing piece: bringing up to 15 years of support to Zephyr for microcontroller-based ECUs</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-11-06 13:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17516546/kitty-0-50-release" target="_blank">Kitty 0.50 Picks Up Where You Left Off After a System Restart</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-11-06 12:17</span>
             </div>
         </div>
 </div>
@@ -266,29 +261,20 @@
                 <span class="time">2026-11-06 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M6PVBT1AQZCDFJKV7T68456D/hero-image.png" alt="What to Expect From Best Buy&#x27;s Black Friday and Cyber Monday Sales This Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-buy-sale-black-friday-2026?utm_medium=RSS" target="_blank">What to Expect From Best Buy&#x27;s Black Friday and Cyber Monday Sales This Year</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-11-05 22:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/11/saria-1280x720.jpg" alt="One Of The Coolest New Features In The Ocarina Of Time Remake Is Equal Parts Impressive And Hysterical" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/legend-zelda-ocarina-of-time-microphone-songs-instruments-2000754324" target="_blank">One Of The Coolest New Features In The Ocarina Of Time Remake Is Equal Parts Impressive And Hysterical</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-11-05 22:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1793825743-20261106.png" alt="Saturday Morning Breakfast Cereal - Sat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/sat" target="_blank">Saturday Morning Breakfast Cereal - Sat</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-11-06 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -312,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 41 | 📡 Total Sources: 40 | 📸 With Images: 268 |
-        🔄 Last Updated: 21:51 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 39 | 📡 Total Sources: 40 | 📸 With Images: 268 |
+        🔄 Last Updated: 01:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
