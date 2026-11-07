@@ -1,35 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-11-07 14:31:00 UTC -->
+<!-- Processing 54 RSS feeds at 2026-11-07 19:09:07 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, November 07, 2026 - 14:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, November 07, 2026 - 19:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +52,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/11/07/g-s1-152532/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15" target="_blank">Gunman opens fire in Polish city of Krakow, killing 6 people and injuring 15</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-11-07 18:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg" alt="What we know about Krakow mass shooting so far" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss" target="_blank">What we know about Krakow mass shooting so far</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-07 18:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44f1/live/699ff730-daab-11f1-93e1-3b657b665bcf.jpg" alt="UK cannot &#x27;cherry pick&#x27; EU single market deal, Barnier tells BBC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss" target="_blank">UK cannot &#x27;cherry pick&#x27; EU single market deal, Barnier tells BBC</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-07 15:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,33 +106,6 @@
                 <span class="time">2026-11-07 05:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/firearms_1794011160483_hpMain_4x3t_384.jpeg" alt="Secret Service finds man parked near White House with multiple firearms: Authorities" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/man-arrested-after-secret-service-finds-parked-white/story?id=137930505" target="_blank">Secret Service finds man parked near White House with multiple firearms: Authorities</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-11-07 01:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/261106_GGU_Trump-9ogwri.jpg" alt="Stephen Miller named as new White House chief of staff" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/stephen-miller-named-as-new-white-house-chief-of-staff-273042501821" target="_blank">Stephen Miller named as new White House chief of staff</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-11-07 01:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/11/7/pope-leo-xiv-arrives-for-south-american-tour-after-cancer-surgery?traffic_source=rss" target="_blank">Pope Leo XIV arrives for South American tour after cancer surgery</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-11-07 00:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -108,9 +115,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions" target="_blank">The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-11-07 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer" target="_blank">Zelda is back and better than ever</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-11-07 13:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6aecfb1b276d9711716c8ef8/master/pass/KernelPanic_10312026_v1-ezgif.com-video-to-gif-converter.gif" alt="The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/kernel-panic-refrigeration-hacks-internet-of-things/" target="_blank">The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-11-07 13:00</span>
             </div>
         </div>
 <div class="story">
@@ -138,24 +163,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/" target="_blank">OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-11-06 22:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6aee2f4e65a8d4362bf27531/master/pass/GettyImages-2150577028.jpg" alt="The Cybertruck’s Death Is Actually Great News for EVs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/cybertrucks-death-great-news-for-evs/" target="_blank">The Cybertruck’s Death Is Actually Great News for EVs</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-11-06 22:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/" target="_blank">Fox completes its $22B acquisition of Roku</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-11-06 16:05</span>
             </div>
         </div>
 </div>
@@ -238,6 +245,15 @@ Try it out: www.syntaxmonkey.online</a></span>
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/fountain-pen-june-cohen-gary-wolf-village-well.jpg?fit=1200%2C860&amp;quality=60&amp;ssl=1" alt="Gary Wolf and June Cohen on cold plunges, self-tracking, and the science of ancient practices" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/11/07/fountain-pen-june-cohen-gary-wolf-village-well.html" target="_blank">Gary Wolf and June Cohen on cold plunges, self-tracking, and the science of ancient practices</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-11-07 17:33</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -282,15 +298,6 @@ Try it out: www.syntaxmonkey.online</a></span>
                 <span class="time">2026-11-06 21:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M6S8ASVYZDRYTXTZB6C7RDVH/hero-image.webp" alt="Everything You Need to Know About Amazon&#x27;s 2026 Black Friday and Cyber Monday Sales" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/amazon-black-friday-cyber-monday-faq-2026?utm_medium=RSS" target="_blank">Everything You Need to Know About Amazon&#x27;s 2026 Black Friday and Cyber Monday Sales</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-11-06 20:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -305,22 +312,13 @@ Try it out: www.syntaxmonkey.online</a></span>
                 <span class="time">2026-11-06 22:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1793825743-20261106.png" alt="Saturday Morning Breakfast Cereal - Sat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/sat" target="_blank">Saturday Morning Breakfast Cereal - Sat</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-11-06 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 43 | 📡 Total Sources: 39 | 📸 With Images: 266 |
-        🔄 Last Updated: 14:31 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 38 | 📡 Total Sources: 39 | 📸 With Images: 269 |
+        🔄 Last Updated: 19:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
