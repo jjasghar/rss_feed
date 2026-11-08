@@ -1,36 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-11-08 03:05:17 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-11-08 10:50:30 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Sunday, November 08, 2026 - 03:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Sunday, November 08, 2026 - 10:50 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +40,42 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/project-force-2/2026/11/8/after-rebel-offensive-efforts-to-push-them-back-appear-to-have-stalled?traffic_source=rss" target="_blank">After rebel offensive, efforts to push them back appear to have stalled</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-11-08 10:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/11/08/nx-s1-6032829/gen-z-voters-midterm-elections" target="_blank">How Gen Z voters helped fuel a blue wave for Democrats</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-11-08 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Royadh-file-DB-261108_1794126805575_hpMain_4x3t_384.jpg" alt="Iran live updates: Saudis say Houthi missiles targeted Riyadh, Aramco tower damaged" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trump-good-call-netanyahu/?id=137762456" target="_blank">Iran live updates: Saudis say Houthi missiles targeted Riyadh, Aramco tower damaged</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-11-08 09:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/11/1920x1080/skynews-krakow-poland-mass-shooting_7400724.jpg?20261108081858" alt="Briton among six killed by &#x27;far-right&#x27; gunman in Krakow rampage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/british-national-among-six-killed-by-far-right-gunman-in-krakow-rampage-13609612" target="_blank">Briton among six killed by &#x27;far-right&#x27; gunman in Krakow rampage</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-11-08 02:19</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d7f/live/340fa0a0-daf8-11f1-b9a2-091c4f802785.jpg" alt="Briton among six killed in &#x27;far-right&#x27; shooting in Krakow" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -62,42 +91,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/11/07/nx-s1-6033491/homelessness-in-the-u-s-saw-its-largest-drop-in-more-than-a-decade-last-year" target="_blank">Homelessness in the U.S. saw its largest drop in more than a decade last year</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-11-08 00:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/centcom-ht-jt-261107_1794089252973_hpMain_4x3t_384.jpg" alt="Iran live updates: US disables another ship trying to breach the Iran naval blockade" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trump-good-call-netanyahu/?id=137762456" target="_blank">Iran live updates: US disables another ship trying to breach the Iran naval blockade</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-11-07 22:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/11/07/nx-s1-6030759/the-surprising-and-often-forgotten-history-of-texas-tradition-of-economic-populism" target="_blank">The surprising and often forgotten history of economic populism in Texas</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-11-07 22:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/11/07/g-s1-152532/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15" target="_blank">Gunman opens fire in Polish city of Krakow, killing 6 people and injuring 15</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-11-07 18:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg" alt="What we know about Krakow mass shooting so far" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss" target="_blank">What we know about Krakow mass shooting so far</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-07 18:22</span>
             </div>
         </div>
 </div>
@@ -151,12 +144,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="NASA Announces It&#x27;s Looking for New Astronauts" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/" target="_blank">Sequoia shutting down its Scouts program marks the end of an era</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-11-07 05:01</span>
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://science.slashdot.org/story/26/11/08/0629226/nasa-announces-its-looking-for-new-astronauts?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">NASA Announces It&#x27;s Looking for New Astronauts</a></span>
+                <span class="feed">Slashdot</span>
+                
             </div>
         </div>
 </div>
@@ -164,6 +157,24 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.lorekit.io/blog/open-agent-memory-format" target="_blank">Agent memory needs its OpenTelemetry moment</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-11-08 08:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/11/google-cloud-self-managed-vmware/en/headerimage/generatedHeaderImage-1793604325753.jpg" alt="Google Cloud Adds Self-Managed VMware Cloud Foundation on Bare Metal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/11/google-cloud-self-managed-vmware/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Cloud Adds Self-Managed VMware Cloud Foundation on Bare Metal</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-11-08 07:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp66b9csp24dd2vuzk2wj.jpg" alt="Wie du eine alte Claude Code-Session in osFoundry findest und fortsetzt" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -200,29 +211,20 @@
                 <span class="time">2026-11-07 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/denoroy737/building-your-own-hermes-ai-hacking-agent-a-complete-setup-guide-4337" target="_blank">Building Your Own Hermes AI Hacking Agent: A Complete Setup Guide</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-11-07 07:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-server"></span>
-                <span class="title"><a href="https://distrowatch.com/13030" target="_blank">OS Release: OpenIndiana 2026.10</a></span>
-                <span class="feed">DistroWatch.com: News</span>
-                
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/The-All-in-One-Microsoft-Office-Pro-2019-for-Windows-1200.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Office 2019 &amp; Windows 11 Pro for $25 total, and nobody bills you next month" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/11/07/office-2019-windows-11-pro-for-25-total-and-nobody-bills-you-next-month.html" target="_blank">Office 2019 &amp; Windows 11 Pro for $25 total, and nobody bills you next month</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-11-07 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/fountain-pen-june-cohen-gary-wolf-village-well.jpg?fit=1200%2C860&amp;quality=60&amp;ssl=1" alt="Gary Wolf and June Cohen on cold plunges, self-tracking, and the science of ancient practices" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -251,8 +253,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 20 | 📅 Last 24h: 23 | 📡 Total Sources: 40 | 📸 With Images: 268 |
-        🔄 Last Updated: 03:05 UTC
+        📊 Displayed: 21 | 📅 Last 24h: 26 | 📡 Total Sources: 40 | 📸 With Images: 269 |
+        🔄 Last Updated: 10:50 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
