@@ -1,29 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-11-08 10:50:30 UTC -->
+<!-- Processing 54 RSS feeds at 2026-11-08 16:48:57 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 21 feeds processed -->
+<!-- Generated 9 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Sunday, November 08, 2026 - 10:50 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, November 08, 2026 - 16:49 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/11/8/israeli-forces-release-palestinian-journalist-abou-shhadeh?traffic_source=rss" target="_blank">Israeli forces release Palestinian journalist Abou Shhadeh</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-11-08 16:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/jeffries-2-gty-gmh-261104_1793812779580_hpMain_4x3t_384.jpg" alt="&#x27;I&#x27;m a hard yes&#x27;: Hakeem Jeffries announces support for Hegseth impeachment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/im-hard-hakeem-jeffries-announces-support-hegseth-impeachment/story?id=137952235" target="_blank">&#x27;I&#x27;m a hard yes&#x27;: Hakeem Jeffries announces support for Hegseth impeachment</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-11-08 14:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,29 +97,20 @@
                 <span class="time">2026-11-08 02:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d7f/live/340fa0a0-daf8-11f1-b9a2-091c4f802785.jpg" alt="Briton among six killed in &#x27;far-right&#x27; shooting in Krakow" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6n9r01d2709o?at_medium=RSS&at_campaign=rss" target="_blank">Briton among six killed in &#x27;far-right&#x27; shooting in Krakow</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-08 00:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/11/07/nx-s1-6033491/homelessness-in-the-u-s-saw-its-largest-drop-in-more-than-a-decade-last-year" target="_blank">Homelessness in the U.S. saw its largest drop in more than a decade last year</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-11-08 00:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale" target="_blank">Apple’s M5 MacBook Air is down to its lowest price since July</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-11-08 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -117,30 +130,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Norwegians Release FOSS GNOME Software for Music Recording, Internet Radio, and Cameras" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer" target="_blank">Zelda is back and better than ever</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-11-07 13:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6aecfb1b276d9711716c8ef8/master/pass/KernelPanic_10312026_v1-ezgif.com-video-to-gif-converter.gif" alt="The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/kernel-panic-refrigeration-hacks-internet-of-things/" target="_blank">The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-11-07 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/great-zimbabwe-500x500.jpg" alt="The Bantu expansion changed Africa. Scientists are still tracing how." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/" target="_blank">The Bantu expansion changed Africa. Scientists are still tracing how.</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-11-07 12:15</span>
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://entertainment.slashdot.org/story/26/11/08/039242/norwegians-release-foss-gnome-software-for-music-recording-internet-radio-and-cameras?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Norwegians Release FOSS GNOME Software for Music Recording, Internet Radio, and Cameras</a></span>
+                <span class="feed">Slashdot</span>
+                
             </div>
         </div>
 <div class="story">
@@ -152,11 +147,38 @@
                 
             </div>
         </div>
+<div class="story">
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="AlpineBSD Announced - an AI-free FOSS OS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://bsd.slashdot.org/story/26/11/08/0044219/alpinebsd-announced---an-ai-free-foss-os?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">AlpineBSD Announced - an AI-free FOSS OS</a></span>
+                <span class="feed">Slashdot</span>
+                
+            </div>
+        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/" target="_blank">Tesla Hasn&#x27;t Had a Successful New Product Launch Since JB Straubel Stepped Down</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-11-08 16:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17517892/asahi-linux-drops-mit-for-gpl" target="_blank">Asahi Linux Drops MIT and Goes Full GPL After AI Tools Were Used to Steal Unreleased Code</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-11-08 12:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -193,29 +215,29 @@
                 <span class="time">2026-11-07 22:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/HyprBSD" target="_blank">HyprBSD Provides Wayland-Based Desktop Built Atop FreeBSD, Complete With Steam Gaming</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-11-07 12:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/11/grab-ai-generated-code-safety/en/headerimage/momentic-postgres-clickhouse-1794048104353.jpeg" alt="How Grab Improved Mobile App Stability by Safely Handling Surge in AI-Generated Code Changes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/11/grab-ai-generated-code-safety/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How Grab Improved Mobile App Stability by Safely Handling Surge in AI-Generated Code Changes</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-11-07 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/Touchscreen-Wi-Fi-1200.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Your old car can run CarPlay and Android Auto on this $110 touchscreen" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/11/08/your-old-car-can-run-carplay-and-android-auto-on-this-110-touchscreen.html" target="_blank">Your old car can run CarPlay and Android Auto on this $110 touchscreen</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-11-08 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2024/03/ab7be0140108d75dfb05d247751184ee-1280x720.jpg" alt="For This Year’s N7 Day, Fans, Alumni And Policy Makers Fought For Mass Effect’s Future" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/this-years-n7-day-spent-fighting-for-mass-effects-future-2000754828" target="_blank">For This Year’s N7 Day, Fans, Alumni And Policy Makers Fought For Mass Effect’s Future</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-11-07 22:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/The-All-in-One-Microsoft-Office-Pro-2019-for-Windows-1200.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Office 2019 &amp; Windows 11 Pro for $25 total, and nobody bills you next month" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -240,12 +262,12 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
-            <img src="https://www.smbc-comics.com/comics/1794016123-20261107.png" alt="Saturday Morning Breakfast Cereal - Theodicy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1794016163-20261108.png" alt="Saturday Morning Breakfast Cereal - Friendship" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/theodicy-6" target="_blank">Saturday Morning Breakfast Cereal - Theodicy</a></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/friendship-2" target="_blank">Saturday Morning Breakfast Cereal - Friendship</a></span>
                 <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-11-07 16:20</span>
+                <span class="time">2026-11-08 16:20</span>
             </div>
         </div>
 </div>
@@ -253,8 +275,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 21 | 📅 Last 24h: 26 | 📡 Total Sources: 40 | 📸 With Images: 269 |
-        🔄 Last Updated: 10:50 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 26 | 📡 Total Sources: 40 | 📸 With Images: 270 |
+        🔄 Last Updated: 16:49 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
