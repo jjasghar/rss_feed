@@ -1,33 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-11-08 16:48:57 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-11-08 20:51:01 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Sunday, November 08, 2026 - 16:49 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, November 08, 2026 - 20:51 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +40,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia" target="_blank">Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-11-08 19:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5f9/live/5b43f440-db76-11f1-b1f1-3be4e895d0fe.jpg" alt="Surgeon having lunch near Krakow shooting undoubtedly saved officer&#x27;s life, colleague says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss" target="_blank">Surgeon having lunch near Krakow shooting undoubtedly saved officer&#x27;s life, colleague says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-08 18:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e401/live/d9d100d0-db91-11f1-b441-2b33b063138f.jpg" alt="King leads solemn Remembrance Sunday service at Cenotaph" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o?at_medium=RSS&at_campaign=rss" target="_blank">King leads solemn Remembrance Sunday service at Cenotaph</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-08 18:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -70,33 +94,6 @@
                 <span class="time">2026-11-08 10:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/11/08/nx-s1-6032829/gen-z-voters-midterm-elections" target="_blank">How Gen Z voters helped fuel a blue wave for Democrats</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-11-08 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Royadh-file-DB-261108_1794126805575_hpMain_4x3t_384.jpg" alt="Iran live updates: Saudis say Houthi missiles targeted Riyadh, Aramco tower damaged" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trump-good-call-netanyahu/?id=137762456" target="_blank">Iran live updates: Saudis say Houthi missiles targeted Riyadh, Aramco tower damaged</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-11-08 09:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/11/1920x1080/skynews-krakow-poland-mass-shooting_7400724.jpg?20261108081858" alt="Briton among six killed by &#x27;far-right&#x27; gunman in Krakow rampage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/british-national-among-six-killed-by-far-right-gunman-in-krakow-rampage-13609612" target="_blank">Briton among six killed by &#x27;far-right&#x27; gunman in Krakow rampage</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-11-08 02:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -112,21 +109,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/6aea49805aac4b5e71c0c066/master/pass/Best%20Computer%20Speakers%20112026%20top%20art%20SOURCE%20Amazon.jpg" alt="8 Best Computer Speakers (2026) After Testing 30 Pairs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-computer-speakers/" target="_blank">8 Best Computer Speakers (2026) After Testing 30 Pairs</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-11-08 12:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/" target="_blank">After the midterms, things are looking rocky for Elon Musk and data centers</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-11-07 22:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions" target="_blank">The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-11-07 17:00</span>
             </div>
         </div>
 <div class="story">
@@ -164,6 +161,33 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sorrelthorncroft/monitoring-arubaos-exposure-after-cve-2026-79850-1n2p" target="_blank">Monitoring ArubaOS exposure after CVE-2026-79850</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-11-08 20:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/11/gnome-extension-puzzle-piece.webp?resize=406%2C232&amp;ssl=1" alt="Extension Manager 0.7 released with new (and fixed) features" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/11/gnome-extension-manager-0-7-released" target="_blank">Extension Manager 0.7 released with new (and fixed) features</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-11-08 18:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers" target="_blank">Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-11-08 18:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/" target="_blank">Tesla Hasn&#x27;t Had a Successful New Product Launch Since JB Straubel Stepped Down</a></span>
                 <span class="feed">Hacker News</span>
@@ -182,37 +206,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.lorekit.io/blog/open-agent-memory-format" target="_blank">Agent memory needs its OpenTelemetry moment</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-11-08 08:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/11/google-cloud-self-managed-vmware/en/headerimage/generatedHeaderImage-1793604325753.jpg" alt="Google Cloud Adds Self-Managed VMware Cloud Foundation on Bare Metal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/11/google-cloud-self-managed-vmware/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Cloud Adds Self-Managed VMware Cloud Foundation on Bare Metal</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-11-08 07:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp66b9csp24dd2vuzk2wj.jpg" alt="Wie du eine alte Claude Code-Session in osFoundry findest und fortsetzt" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bbt-de/wie-du-eine-alte-claude-code-session-in-osfoundry-findest-und-fortsetzt-167o" target="_blank">Wie du eine alte Claude Code-Session in osFoundry findest und fortsetzt</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-11-07 23:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/OpenIndiana-2026.10" target="_blank">OpenIndiana 2026.10 Released With Updated Tools &amp; Compilers, New Apps</a></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.5-RK3568-AMD-AIE4" target="_blank">Linux 7.5 To Provide More AMD Ryzen AI NPU AIE4 Enablement</a></span>
                 <span class="feed">Phoronix</span>
-                <span class="time">2026-11-07 22:50</span>
+                <span class="time">2026-11-08 12:22</span>
             </div>
         </div>
 </div>
@@ -220,6 +217,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/11/wowforevercampfire-1280x720.jpg" alt="World Of Warcraft: Forever Player Already Hits Level Cap As Users Return To Azeroth In Record Numbers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/world-of-warcraft-forever-player-already-hits-level-cap-as-users-return-to-azeroth-in-record-numbers-2000754888" target="_blank">World Of Warcraft: Forever Player Already Hits Level Cap As Users Return To Azeroth In Record Numbers</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-11-08 20:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/Touchscreen-Wi-Fi-1200.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Your old car can run CarPlay and Android Auto on this $110 touchscreen" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -247,15 +253,6 @@
                 <span class="time">2026-11-07 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/fountain-pen-june-cohen-gary-wolf-village-well.jpg?fit=1200%2C860&amp;quality=60&amp;ssl=1" alt="Gary Wolf and June Cohen on cold plunges, self-tracking, and the science of ancient practices" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/11/07/fountain-pen-june-cohen-gary-wolf-village-well.html" target="_blank">Gary Wolf and June Cohen on cold plunges, self-tracking, and the science of ancient practices</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-11-07 17:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -275,8 +272,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 26 | 📡 Total Sources: 40 | 📸 With Images: 270 |
-        🔄 Last Updated: 16:49 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 32 | 📡 Total Sources: 39 | 📸 With Images: 270 |
+        🔄 Last Updated: 20:51 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
