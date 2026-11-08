@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-11-07 23:12:16 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-11-08 03:05:17 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Saturday, November 07, 2026 - 23:12 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, November 08, 2026 - 03:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d7f/live/340fa0a0-daf8-11f1-b9a2-091c4f802785.jpg" alt="Briton among six killed in &#x27;far-right&#x27; shooting in Krakow" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6n9r01d2709o?at_medium=RSS&at_campaign=rss" target="_blank">Briton among six killed in &#x27;far-right&#x27; shooting in Krakow</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-08 00:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/11/07/nx-s1-6033491/homelessness-in-the-u-s-saw-its-largest-drop-in-more-than-a-decade-last-year" target="_blank">Homelessness in the U.S. saw its largest drop in more than a decade last year</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-11-08 00:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/centcom-ht-jt-261107_1794089252973_hpMain_4x3t_384.jpg" alt="Iran live updates: US disables another ship trying to breach the Iran naval blockade" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-trump-good-call-netanyahu/?id=137762456" target="_blank">Iran live updates: US disables another ship trying to breach the Iran naval blockade</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-11-07 22:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,38 +100,20 @@
                 <span class="time">2026-11-07 18:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44f1/live/699ff730-daab-11f1-93e1-3b657b665bcf.jpg" alt="UK cannot &#x27;cherry pick&#x27; EU single market deal, Barnier tells BBC" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss" target="_blank">UK cannot &#x27;cherry pick&#x27; EU single market deal, Barnier tells BBC</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-07 15:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/11/7/iraqs-fm-says-external-parties-using-iraqi-soil-to-attack-neighbours?traffic_source=rss" target="_blank">Iraq’s FM says external parties using Iraqi soil to attack neighbours</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-11-07 14:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/11/7/qatari-pm-says-us-willing-to-seek-solution-to-war-with-iran?traffic_source=rss" target="_blank">Qatari PM says US willing to seek solution to war with Iran</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-11-07 07:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/" target="_blank">After the midterms, things are looking rocky for Elon Musk and data centers</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-11-07 22:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -131,30 +142,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/great-zimbabwe-500x500.jpg" alt="The Bantu expansion changed Africa. Scientists are still tracing how." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/" target="_blank">The Bantu expansion changed Africa. Scientists are still tracing how.</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-11-07 12:15</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/" target="_blank">Sequoia shutting down its Scouts program marks the end of an era</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-11-07 05:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Developer Pulls Roku&#x27;s Popular Fish Tank Screensaver Following Fox Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://tech.slashdot.org/story/26/11/06/2051253/developer-pulls-rokus-popular-fish-tank-screensaver-following-fox-sale?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Developer Pulls Roku&#x27;s Popular Fish Tank Screensaver Following Fox Sale</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Sony Revives the Original Walkman Headphones, Adds USB-C" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://entertainment.slashdot.org/story/26/11/06/0711224/sony-revives-the-original-walkman-headphones-adds-usb-c?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Sony Revives the Original Walkman Headphones, Adds USB-C</a></span>
-                <span class="feed">Slashdot</span>
-                
             </div>
         </div>
 </div>
@@ -210,11 +212,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/surajdev3290/got-tired-of-typing-random-dictionary-words-so-i-built-syntaxmonkey-its-a-typing-test-572b" target="_blank">Got tired of typing random dictionary words, so I built SyntaxMonkey 🐒. It&#x27;s a typing test specifically for developers to practice syntax in Python, JS, C++ &amp; more. Track your WPM &amp; accuracy on real code! 
-Try it out: www.syntaxmonkey.online</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-11-07 01:21</span>
+                <span class="fa fa-fw fa-server"></span>
+                <span class="title"><a href="https://distrowatch.com/13030" target="_blank">OS Release: OpenIndiana 2026.10</a></span>
+                <span class="feed">DistroWatch.com: News</span>
+                
             </div>
         </div>
 </div>
@@ -229,15 +230,6 @@ Try it out: www.syntaxmonkey.online</a></span>
                 <span class="title"><a href="https://boingboing.net/2026/11/07/fountain-pen-june-cohen-gary-wolf-village-well.html" target="_blank">Gary Wolf and June Cohen on cold plunges, self-tracking, and the science of ancient practices</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-11-07 17:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-11-07 00:23</span>
             </div>
         </div>
 </div>
@@ -259,8 +251,8 @@ Try it out: www.syntaxmonkey.online</a></span>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 21 | 📅 Last 24h: 25 | 📡 Total Sources: 39 | 📸 With Images: 268 |
-        🔄 Last Updated: 23:12 UTC
+        📊 Displayed: 20 | 📅 Last 24h: 23 | 📡 Total Sources: 40 | 📸 With Images: 268 |
+        🔄 Last Updated: 03:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
