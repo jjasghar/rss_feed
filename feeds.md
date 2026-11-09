@@ -1,30 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-11-08 20:51:01 UTC -->
+<!-- Processing 54 RSS feeds at 2026-11-09 00:14:15 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 22 feeds processed -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, November 08, 2026 - 20:51 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, November 09, 2026 - 00:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Technology/NVIDIA_logo_gty_cw_20261108_1794171451641_hpMain_4x3t_384.jpg" alt="NVIDIA announces investigation of CEO amid foreign intelligence target allegations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Technology/nvidia-announces-investigation-ceo-amid-foreign-intelligence-target/story?id=137959091" target="_blank">NVIDIA announces investigation of CEO amid foreign intelligence target allegations</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-11-08 23:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/09/1920x1080/skynews-nvidia-jensen-huang_7354587.jpg?20260917130746" alt="Nvidia launches &#x27;foreign intelligence&#x27; investigation after CEO admits affair" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/tech-giant-nvidia-launches-investigation-after-reports-ceo-was-targeted-by-chinese-intelligence-13609986" target="_blank">Nvidia launches &#x27;foreign intelligence&#x27; investigation after CEO admits affair</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-11-08 20:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,24 +99,6 @@
                 <span class="time">2026-11-08 16:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/jeffries-2-gty-gmh-261104_1793812779580_hpMain_4x3t_384.jpg" alt="&#x27;I&#x27;m a hard yes&#x27;: Hakeem Jeffries announces support for Hegseth impeachment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/im-hard-hakeem-jeffries-announces-support-hegseth-impeachment/story?id=137952235" target="_blank">&#x27;I&#x27;m a hard yes&#x27;: Hakeem Jeffries announces support for Hegseth impeachment</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-11-08 14:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/project-force-2/2026/11/8/after-rebel-offensive-efforts-to-push-them-back-appear-to-have-stalled?traffic_source=rss" target="_blank">After rebel offensive, efforts to push them back appear to have stalled</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-11-08 10:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -102,10 +107,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/" target="_blank">Apps to distract you from the endless cycle of doomscrolling</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-11-08 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale" target="_blank">Apple’s M5 MacBook Air is down to its lowest price since July</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-11-08 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-90737843-500x500.jpg" alt="Physicists listened to electrical noise to crack a superconductor mystery" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/" target="_blank">Physicists listened to electrical noise to crack a superconductor mystery</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-11-08 12:15</span>
             </div>
         </div>
 <div class="story">
@@ -118,12 +141,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Nvidia CEO Admits Affair With Alleged Chinese Spy. Investigation Opened" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/" target="_blank">After the midterms, things are looking rocky for Elon Musk and data centers</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-11-07 22:07</span>
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://hardware.slashdot.org/story/26/11/08/2125219/nvidia-ceo-admits-affair-with-alleged-chinese-spy-investigation-opened?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Nvidia CEO Admits Affair With Alleged Chinese Spy. Investigation Opened</a></span>
+                <span class="feed">Slashdot</span>
+                
             </div>
         </div>
 <div class="story">
@@ -135,29 +158,29 @@
                 
             </div>
         </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="NASA Announces It&#x27;s Looking for New Astronauts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://science.slashdot.org/story/26/11/08/0629226/nasa-announces-its-looking-for-new-astronauts?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">NASA Announces It&#x27;s Looking for New Astronauts</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="AlpineBSD Announced - an AI-free FOSS OS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://bsd.slashdot.org/story/26/11/08/0044219/alpinebsd-announced---an-ai-free-foss-os?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">AlpineBSD Announced - an AI-free FOSS OS</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Faptu08v4pfjq64qarrl1.jpg" alt="如何讓 Claude 根據 osFoundry 知識庫回答，並為每個說法附上出處文章" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/bbt-zh/ru-he-rang-claude-gen-ju-osfoundry-zhi-shi-ku-hui-da-bing-wei-mei-ge-shuo-fa-fu-shang-chu-chu-wen-zhang-1eio" target="_blank">如何讓 Claude 根據 osFoundry 知識庫回答，並為每個說法附上出處文章</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-11-09 00:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://ketchup3d.github.io/app/" target="_blank">KetchUp – Open-source SketchUp alternative built with Rust and WebGPU</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-11-08 22:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,24 +217,6 @@
                 <span class="time">2026-11-08 16:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17517892/asahi-linux-drops-mit-for-gpl" target="_blank">Asahi Linux Drops MIT and Goes Full GPL After AI Tools Were Used to Steal Unreleased Code</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-11-08 12:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.5-RK3568-AMD-AIE4" target="_blank">Linux 7.5 To Provide More AMD Ryzen AI NPU AIE4 Enablement</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-11-08 12:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -235,24 +240,6 @@
                 <span class="time">2026-11-08 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2024/03/ab7be0140108d75dfb05d247751184ee-1280x720.jpg" alt="For This Year’s N7 Day, Fans, Alumni And Policy Makers Fought For Mass Effect’s Future" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/this-years-n7-day-spent-fighting-for-mass-effects-future-2000754828" target="_blank">For This Year’s N7 Day, Fans, Alumni And Policy Makers Fought For Mass Effect’s Future</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-11-07 22:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/The-All-in-One-Microsoft-Office-Pro-2019-for-Windows-1200.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Office 2019 &amp; Windows 11 Pro for $25 total, and nobody bills you next month" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/11/07/office-2019-windows-11-pro-for-25-total-and-nobody-bills-you-next-month.html" target="_blank">Office 2019 &amp; Windows 11 Pro for $25 total, and nobody bills you next month</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-11-07 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -272,8 +259,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 32 | 📡 Total Sources: 39 | 📸 With Images: 270 |
-        🔄 Last Updated: 20:51 UTC
+        📊 Displayed: 21 | 📅 Last 24h: 31 | 📡 Total Sources: 39 | 📸 With Images: 272 |
+        🔄 Last Updated: 00:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
