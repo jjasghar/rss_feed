@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-11-09 07:21:53 UTC -->
+<!-- Processing 54 RSS feeds at 2026-11-09 17:55:13 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 13 new posts out of 27 feeds processed -->
+<!-- Generated 10 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, November 09, 2026 - 07:22 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Monday, November 09, 2026 - 17:55 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/26/11/1920x1080/skynews-crete-migrant-crisis_7401963.jpg?20261109103131" alt="At least 14 dead after boat carrying migrants found near Crete" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/at-least-14-dead-after-boat-carrying-migrants-found-near-crete-13610083" target="_blank">At least 14 dead after boat carrying migrants found near Crete</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-11-09 09:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +103,29 @@
                 <span class="time">2026-11-08 23:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/09/1920x1080/skynews-nvidia-jensen-huang_7354587.jpg?20260917130746" alt="Nvidia launches &#x27;foreign intelligence&#x27; investigation after CEO admits affair" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/tech-giant-nvidia-launches-investigation-after-reports-ceo-was-targeted-by-chinese-intelligence-13609986" target="_blank">Nvidia launches &#x27;foreign intelligence&#x27; investigation after CEO admits affair</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-11-08 20:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/" target="_blank">Uber launches parking service following SpotHero acquisition, with an eye on robotaxis</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-11-09 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6af1d38e0949f43953b8f9d7/master/pass/Jensen%20Huang.jpg" alt="Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/" target="_blank">Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-11-09 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6aba9754b8c27fd4adca81cc/master/pass/092426-Jersey%20Weed%20Island.jpg" alt="Welcome to Weed Island" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -132,30 +154,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Huawei Says It&#x27;s Made a 100% Chinese PC" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale" target="_blank">Apple’s M5 MacBook Air is down to its lowest price since July</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-11-08 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-90737843-500x500.jpg" alt="Physicists listened to electrical noise to crack a superconductor mystery" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/" target="_blank">Physicists listened to electrical noise to crack a superconductor mystery</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-11-08 12:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6aea49805aac4b5e71c0c066/master/pass/Best%20Computer%20Speakers%20112026%20top%20art%20SOURCE%20Amazon.jpg" alt="8 Best Computer Speakers (2026) After Testing 30 Pairs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-computer-speakers/" target="_blank">8 Best Computer Speakers (2026) After Testing 30 Pairs</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-11-08 12:00</span>
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://hardware.slashdot.org/story/26/11/09/056241/huawei-says-its-made-a-100-chinese-pc?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Huawei Says It&#x27;s Made a 100% Chinese PC</a></span>
+                <span class="feed">Slashdot</span>
+                
             </div>
         </div>
 </div>
@@ -163,6 +167,24 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alanwest/is-claude-opus-55-nerfed-claude-code-ignores-your-effortlevel-how-to-fix-it-502b" target="_blank">Is Claude Opus 5.5 Nerfed? Claude Code Ignores Your effortLevel. How to Fix It</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-11-09 17:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Darling-Using-AI-macOS-Linux" target="_blank">Darling Now Embraces AI For Running macOS Binaries On Linux</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-11-09 13:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -184,37 +206,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-gitlab"></span>
+                <span class="title"><a href="https://about.gitlab.com/blog/how-to-develop-a-decision-grade-ai-pilot/" target="_blank">How to design a decision-grade pilot for agentic AI</a></span>
+                <span class="feed">GitLab</span>
+                <span class="time">2026-11-09 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://ketchup3d.github.io/app/" target="_blank">KetchUp – Open-source SketchUp alternative built with Rust and WebGPU</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-11-08 22:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sorrelthorncroft/monitoring-arubaos-exposure-after-cve-2026-79850-1n2p" target="_blank">Monitoring ArubaOS exposure after CVE-2026-79850</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-11-08 20:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/11/gnome-extension-puzzle-piece.webp?resize=406%2C232&amp;ssl=1" alt="Extension Manager 0.7 released with new (and fixed) features" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/11/gnome-extension-manager-0-7-released" target="_blank">Extension Manager 0.7 released with new (and fixed) features</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-11-08 18:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers" target="_blank">Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-11-08 18:16</span>
             </div>
         </div>
 </div>
@@ -222,6 +226,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/11/GettyImages-2300106347-1280x853.jpg" alt="James Gunn And Peter Safran Step Down As DC Studios Co-Presidents Two Years Into The DC Universe" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/james-gunn-peter-safran-dc-studios-steps-down-quits-2000755133" target="_blank">James Gunn And Peter Safran Step Down As DC Studios Co-Presidents Two Years Into The DC Universe</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-11-09 17:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/09/shutterstock_104740628.jpg?fit=2000%2C1501&amp;quality=60&amp;ssl=1" alt="Russell Brand sentenced to 10 years and 6 months for rape and sexual assault" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/11/09/russell-brand-sentenced-to-10-years-and-6-months-for-rape-and-sexual-assault.html" target="_blank">Russell Brand sentenced to 10 years and 6 months for rape and sexual assault</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-11-09 14:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/Night-Vision-Binoculars-1200.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Catch the backyard raccoon in the act with $105 night vision binoculars" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -240,15 +262,6 @@
                 <span class="time">2026-11-08 20:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/Touchscreen-Wi-Fi-1200.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Your old car can run CarPlay and Android Auto on this $110 touchscreen" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/11/08/your-old-car-can-run-carplay-and-android-auto-on-this-110-touchscreen.html" target="_blank">Your old car can run CarPlay and Android Auto on this $110 touchscreen</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-11-08 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -263,22 +276,13 @@
                 <span class="time">2026-11-09 01:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1794016163-20261108.png" alt="Saturday Morning Breakfast Cereal - Friendship" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/friendship-2" target="_blank">Saturday Morning Breakfast Cereal - Friendship</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-11-08 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 38 | 📡 Total Sources: 39 | 📸 With Images: 273 |
-        🔄 Last Updated: 07:22 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 30 | 📡 Total Sources: 40 | 📸 With Images: 275 |
+        🔄 Last Updated: 17:55 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
