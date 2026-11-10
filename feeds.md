@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-11-10 15:55:52 UTC -->
+<!-- Processing 54 RSS feeds at 2026-11-10 21:33:52 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 23 feeds processed -->
+<!-- Generated 14 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, November 10, 2026 - 15:56 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Tuesday, November 10, 2026 - 21:34 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a13/live/1b8d2f10-dd47-11f1-9ac0-6b8f7fc58221.jpg" alt="Meghan&#x27;s father Thomas Markle detained for allegedly cutting off ankle monitor, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss" target="_blank">Meghan&#x27;s father Thomas Markle detained for allegedly cutting off ankle monitor, officials say</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-10 21:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e229/live/97ca3420-dd41-11f1-a701-fddedf244c16.jpg" alt="David Walliams accused of sexual misconduct after losing injunction bid" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ckn8w8p9370zo?at_medium=RSS&at_campaign=rss" target="_blank">David Walliams accused of sexual misconduct after losing injunction bid</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-10 20:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1794339947254_now_daily_b_kapur_jordan_minority_261110_S3_1920x1080-9iries.jpg" alt="House Republicans elect Rep. Jim Jordan as next minority leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/house-republicans-elect-rep-jim-jordan-as-next-minority-leader-273220677677" target="_blank">House Republicans elect Rep. Jim Jordan as next minority leader</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-11-10 19:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1794317377455_now_brk_pete_hegseth_impeachment_briefing_261110_S3_1920x1080-gduct2.jpg" alt="Hegseth says the impeachment push against him is a &#x27;farce&#x27; and &#x27;stunt&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -69,38 +100,20 @@
                 <span class="time">2026-11-10 03:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/11/09/g-s1-151625/california-billionaire-tax-referendum" target="_blank">California voters defeat billionaire tax proposal that divided Democrats</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-11-10 03:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1794265691247_now_hallie_kod_bch_jensen_huang_261109_S3_1920x1080-q2gyqy.jpg" alt="What are the national security implications of Jensen Huang&#x27;s affair with an alleged Chinese spy?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/what-are-the-national-security-implications-of-jensen-huang-s-affair-with-an-alleged-chinese-spy-273160773529" target="_blank">What are the national security implications of Jensen Huang&#x27;s affair with an alleged Chinese spy?</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-11-09 22:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-7-ap-gmh-261109_1794261971836_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says Hegseth has &#x27;won the war in Iran&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-americans-tired-forever-wars-araghchi/?id=137967256" target="_blank">Iran live updates: Trump says Hegseth has &#x27;won the war in Iran&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-11-09 22:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-plugin-marketplace-500x500.webp" alt="Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/" target="_blank">Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-11-10 21:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,19 +151,10 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/" target="_blank">Uber launches parking service following SpotHero acquisition, with an eye on robotaxis</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-11-09 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Microsoft Took 31 Years to Let You Kill Windows 11&#x27;s Sticky Keys Popup" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Anthropic Launches New Workplace Features To Take On Microsoft and Google" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://build.slashdot.org/story/26/11/09/2224257/microsoft-took-31-years-to-let-you-kill-windows-11s-sticky-keys-popup?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Microsoft Took 31 Years to Let You Kill Windows 11&#x27;s Sticky Keys Popup</a></span>
+                <span class="title"><a href="https://tech.slashdot.org/story/26/11/10/2023200/anthropic-launches-new-workplace-features-to-take-on-microsoft-and-google?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Anthropic Launches New Workplace Features To Take On Microsoft and Google</a></span>
                 <span class="feed">Slashdot</span>
                 
             </div>
@@ -160,6 +164,24 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/06/high-tide.jpg?resize=406%2C232&amp;ssl=1" alt="High Tide (Linux Tidal Client) adds playlist editing, artist blocking" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/11/high-tide-linux-update" target="_blank">High Tide (Linux Tidal Client) adds playlist editing, artist blocking</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-11-10 21:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://neil.fraser.name/news/2026/11/10/" target="_blank">.name Grandfathered</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-11-10 16:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,30 +218,6 @@
                 <span class="time">2026-11-10 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/cyberlab0/nigerias-ngcert-is-warning-of-high-impact-cyber-incidents-ransomware-business-email-compromise-5cp7" target="_blank">Nigeria’s ngCERT is warning of high-impact cyber incidents.
-
-ransomware, business email compromise and data breaches are being amplified by AI and cybercrime-as-a-service.
-
-But the biggest remains familiar:
-
-Poor access controls. Missing MFA.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-11-10 07:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/noahcontrolplane/what-it-costs-to-run-ai-agents-in-production-a-worked-cost-model-for-tokens-sandboxes-storage-25pk" target="_blank">What It Costs to Run AI Agents in Production: A Worked Cost Model for Tokens, Sandboxes, Storage, and Networking</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-11-10 00:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +238,24 @@ Poor access controls. Missing MFA.</a></span>
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/11/xboxone-1280x718.jpg" alt="You Can Play GTA 6 On A 13-Year-Old Xbox And It’ll Run At The Same Framerate As PS5 Pro" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/you-can-play-gta-6-on-a-13-year-old-xbox-and-itll-run-at-the-same-framerate-as-ps5-pro-2000755587" target="_blank">You Can Play GTA 6 On A 13-Year-Old Xbox And It’ll Run At The Same Framerate As PS5 Pro</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-11-10 21:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M73DS1B5VF1E6XRWH67TK3BS/hero-image.jpg" alt="This Actively Exploited Chrome Vulnerability Is Putting Your Browser at Risk" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/this-actively-exploited-security-vulnerability-is-putting-your-chrome-browser?utm_medium=RSS" target="_blank">This Actively Exploited Chrome Vulnerability Is Putting Your Browser at Risk</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-11-10 20:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/11/zora-domain-2-1280x720.jpg" alt="Zelda: Ocarina Of Time Remake Has A Massive Second-Act Change That Took My Breath Away" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -257,20 +273,29 @@ Poor access controls. Missing MFA.</a></span>
                 <span class="time">2026-11-09 23:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/11/GettyImages-2300106347-1280x853.jpg" alt="James Gunn And Peter Safran Step Down As DC Studios Co-Presidents Two Years Into The DC Universe" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/james-gunn-peter-safran-dc-studios-steps-down-quits-2000755133" target="_blank">James Gunn And Peter Safran Step Down As DC Studios Co-Presidents Two Years Into The DC Universe</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-11-09 17:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/11/10/ocarina-of-time" target="_blank">Ocarina Of Time!</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-11-10 19:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1794186829-20261110.png" alt="Saturday Morning Breakfast Cereal - Mega" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/mega" target="_blank">Saturday Morning Breakfast Cereal - Mega</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-11-10 16:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.questionablecontent.net/comics/5957.png" alt="Brun With The Assist" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -289,22 +314,13 @@ Poor access controls. Missing MFA.</a></span>
                 <span class="time">2026-11-09 21:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1794186749-20261109.png" alt="Saturday Morning Breakfast Cereal - Learn" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/learn-3" target="_blank">Saturday Morning Breakfast Cereal - Learn</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-11-09 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 32 | 📡 Total Sources: 40 | 📸 With Images: 273 |
-        🔄 Last Updated: 15:56 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 36 | 📡 Total Sources: 40 | 📸 With Images: 272 |
+        🔄 Last Updated: 21:34 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
