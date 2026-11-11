@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-11-11 08:34:16 UTC -->
+<!-- Processing 54 RSS feeds at 2026-11-11 16:43:49 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 26 feeds processed -->
+<!-- Generated 17 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, November 11, 2026 - 08:34 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, November 11, 2026 - 16:44 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/11/11/its-just-too-expensive-housing-and-wages-at-the-heart-of-spains-strike?traffic_source=rss" target="_blank">‘It’s just too expensive’: Housing and wages at the heart of Spain’s strike</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-11-11 16:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/AP26267587244617_1794406668172_hpMain_4x3t_384.jpg" alt="Trump administration moves to drop millions from SNAP under proposal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-administration-moves-drop-millions-snap-proposal/story?id=138031618" target="_blank">Trump administration moves to drop millions from SNAP under proposal</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-11-11 14:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49d4/live/b795f200-ddc1-11f1-a50f-85eebf9e50e5.jpg" alt="Spain sees widespread disruption in first general strike for 14 years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss" target="_blank">Spain sees widespread disruption in first general strike for 14 years</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-11 14:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,38 +103,29 @@
                 <span class="time">2026-11-11 01:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/11/11/tigray-displaced-families-fear-renewed-war-as-hopes-of-returning-home-fade?traffic_source=rss" target="_blank">Tigray displaced families fear renewed war as hopes of returning home fade</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-11-11 01:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/hegseth-9-gty-gmh-261110_1794318527060_hpMain_4x3t_384.jpg" alt="House tables Hegseth impeachment, effectively killing it in current Congress" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/hegseth-dismisses-impeachment-effort-political-spectacle/story?id=138002466" target="_blank">House tables Hegseth impeachment, effectively killing it in current Congress</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-11-11 01:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1794353591674_now_hallie_ska_cku_house_hegseth_261110_S3_1920x1080-dgdtds.jpg" alt="House votes to block motion to impeach Secretary of Defense Pete Hegseth" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/house-votes-to-block-motion-to-impeach-secretary-of-defense-pete-hegseth-273236037919" target="_blank">House votes to block motion to impeach Secretary of Defense Pete Hegseth</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-11-10 23:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/IBM-Quantum-Nighthawk-r2-and-r3-processors-comparison-500x500-1794412960.jpg" alt="IBM to offer access to a dual-processor quantum system in 2027" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027/" target="_blank">IBM to offer access to a dual-processor quantum system in 2027</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-11-11 16:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/" target="_blank">Is Jensen Huang’s bad behavior more commonplace than it seems?</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-11-11 16:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,29 +162,47 @@
                 <span class="time">2026-11-10 21:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/1030735/ember-mug-3-criterion-collection-blu-ray-pixel-watch-deal-sale" target="_blank">Ember’s latest self-heating 14-ounce mug is $50 off</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-11-10 15:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Google Fi Brings Back Network Switching With &#x27;Secondary&#x27; Partner" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://mobile.slashdot.org/story/26/11/10/2221238/google-fi-brings-back-network-switching-with-secondary-partner?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Google Fi Brings Back Network Switching With &#x27;Secondary&#x27; Partner</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/johnettagaweraks/proving-aos-8-remediation-after-cve-2026-79868-47am" target="_blank">Proving AOS-8 remediation after CVE-2026-79868</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-11-11 16:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/amd-venice-nvidia-vera" target="_blank">AMD EPYC 9006 Venice vs. NVIDIA Vera Benchmarks For HPC Performance</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-11-11 15:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028" target="_blank">In Memoriam: Tim Peters 1952–2026</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-11-11 14:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://pietromiotti.com/latest/maya-site/?maya" target="_blank">Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-11-11 12:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -181,47 +221,20 @@
                 <span class="time">2026-11-11 07:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dailycontext/how-we-review-4x-more-ai-code-without-reading-every-line-d5j" target="_blank">How We Review 4x More AI Code Without Reading Every Line</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-11-11 01:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.vulncheck.com/blog/anthropic-glasswing-november-update" target="_blank">After 7 months, Glasswing overwelms maintainers with underwhelming findings</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-11-10 22:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/06/high-tide.jpg?resize=406%2C232&amp;ssl=1" alt="High Tide (Linux Tidal Client) adds playlist editing, artist blocking" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/11/high-tide-linux-update" target="_blank">High Tide (Linux Tidal Client) adds playlist editing, artist blocking</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-11-10 21:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://neil.fraser.name/news/2026/11/10/" target="_blank">.name Grandfathered</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-11-10 16:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/11/three-people-arrested-for-ai-enhanced-impersonation-fraud.html" target="_blank">Three People Arrested for AI-Enhanced Impersonation Fraud</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-11-11 12:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -231,20 +244,29 @@
                 <span class="time">2026-11-10 21:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/11/new-openssh-vulnerability.html" target="_blank">New OpenSSH Vulnerability</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-11-10 12:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M6S8ASVYZDRYTXTZB6C7RDVH/hero-image.webp" alt="Here&#x27;s What We Know About Amazon&#x27;s Black Friday and Cyber Monday 2026 Sales" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/what-to-know-about-amazon-black-friday-2026-sales?utm_medium=RSS" target="_blank">Here&#x27;s What We Know About Amazon&#x27;s Black Friday and Cyber Monday 2026 Sales</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-11-11 16:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/The-Lifetime-AI-Software-Stack-Bundle-1200.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="One bundle for AI writing, voiceovers, video, and prompt building — $47.99 for life" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/11/11/one-bundle-for-ai-writing-voiceovers-video-and-prompt-building-47-99-for-life.html" target="_blank">One bundle for AI writing, voiceovers, video, and prompt building — $47.99 for life</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-11-11 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01M73DWMG8ZJ8DNGSQKN189YBP/hero-image.jpg" alt="Hackers Now Want Your Browser Sessions More Than Your Passwords, but You Can Stop Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,20 +294,20 @@
                 <span class="time">2026-11-10 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/11/zora-domain-2-1280x720.jpg" alt="Zelda: Ocarina Of Time Remake Has A Massive Second-Act Change That Took My Breath Away" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/zelda-ocarina-of-time-remake-has-a-massive-second-act-change-that-took-my-breath-away-2000755518" target="_blank">Zelda: Ocarina Of Time Remake Has A Massive Second-Act Change That Took My Breath Away</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-11-10 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1794359640-20261111.png" alt="Saturday Morning Breakfast Cereal - Please" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/please" target="_blank">Saturday Morning Breakfast Cereal - Please</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-11-11 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -293,6 +315,15 @@
                 <span class="title"><a href="https://www.penny-arcade.com/comic/2026/11/11/gunn-jamm" target="_blank">Gunn Jamm</a></span>
                 <span class="feed">Penny Arcade</span>
                 <span class="time">2026-11-11 08:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.questionablecontent.net/comics/5958.png" alt="Best Of Pals" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5958" target="_blank">Best Of Pals</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-11-11 02:45</span>
             </div>
         </div>
 <div class="story">
@@ -304,22 +335,13 @@
                 <span class="time">2026-11-10 19:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1794186829-20261110.png" alt="Saturday Morning Breakfast Cereal - Mega" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/mega" target="_blank">Saturday Morning Breakfast Cereal - Mega</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-11-10 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 37 | 📡 Total Sources: 40 | 📸 With Images: 271 |
-        🔄 Last Updated: 08:34 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 39 | 📡 Total Sources: 40 | 📸 With Images: 269 |
+        🔄 Last Updated: 16:44 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
