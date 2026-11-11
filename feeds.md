@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-11-10 21:33:52 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-11-11 01:33:34 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 14 new posts out of 28 feeds processed -->
+<!-- Generated 10 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Tuesday, November 10, 2026 - 21:34 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, November 11, 2026 - 01:33 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +42,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/11/11/tigray-displaced-families-fear-renewed-war-as-hopes-of-returning-home-fade?traffic_source=rss" target="_blank">Tigray displaced families fear renewed war as hopes of returning home fade</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-11-11 01:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/hegseth-9-gty-gmh-261110_1794318527060_hpMain_4x3t_384.jpg" alt="House tables Hegseth impeachment, effectively killing it in current Congress" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/hegseth-dismisses-impeachment-effort-political-spectacle/story?id=138002466" target="_blank">House tables Hegseth impeachment, effectively killing it in current Congress</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-11-11 01:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1794353591674_now_hallie_ska_cku_house_hegseth_261110_S3_1920x1080-dgdtds.jpg" alt="House votes to block motion to impeach Secretary of Defense Pete Hegseth" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/house-votes-to-block-motion-to-impeach-secretary-of-defense-pete-hegseth-273236037919" target="_blank">House votes to block motion to impeach Secretary of Defense Pete Hegseth</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-11-10 23:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a13/live/1b8d2f10-dd47-11f1-9ac0-6b8f7fc58221.jpg" alt="Meghan&#x27;s father Thomas Markle detained for allegedly cutting off ankle monitor, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -73,38 +96,29 @@
                 <span class="time">2026-11-10 19:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1794317377455_now_brk_pete_hegseth_impeachment_briefing_261110_S3_1920x1080-gduct2.jpg" alt="Hegseth says the impeachment push against him is a &#x27;farce&#x27; and &#x27;stunt&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/hegseth-says-the-impeachment-push-against-him-is-a-farce-and-stunt-273193029527" target="_blank">Hegseth says the impeachment push against him is a &#x27;farce&#x27; and &#x27;stunt&#x27;</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-11-10 13:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/11/10/australia-tightens-ai-oversight-rules-after-openai-government-breach?traffic_source=rss" target="_blank">Australia tightens AI oversight rules after OpenAI government breach</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-11-10 07:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/123a/live/434e87b0-dcd9-11f1-a701-fddedf244c16.png" alt="Trump says FBI investigating Nvidia boss&#x27;s affair with alleged Chinese spy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss" target="_blank">Trump says FBI investigating Nvidia boss&#x27;s affair with alleged Chinese spy</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-10 03:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling" target="_blank">Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-11-11 00:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6af39cc2b435cf5927e355e7/master/pass/Amazon%E2%80%99s-Black-Friday-Sale-Starts-Next-Week,-but-Deals-Are-Already-Live.jpg" alt="Best Early Amazon Black Friday Deals (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/amazon-black-friday-november-2026-early-deals/" target="_blank">Best Early Amazon Black Friday Deals (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-11-10 22:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-plugin-marketplace-500x500.webp" alt="Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -133,28 +147,10 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai" target="_blank">David Ellison says AI could be the ‘biggest creative unlock in modern history’</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-11-10 00:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6af20d5c5d3e4adc0dc34622/master/pass/What-Jensen-Huangs-Spy-Scandal-Means-For-AI-Industry-Business-2219673294.jpg" alt="Jensen Huang’s Troubles Leave the AI Industry Reeling" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/" target="_blank">Jensen Huang’s Troubles Leave the AI Industry Reeling</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-11-10 00:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Anthropic Launches New Workplace Features To Take On Microsoft and Google" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Google Fi Brings Back Network Switching With &#x27;Secondary&#x27; Partner" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://tech.slashdot.org/story/26/11/10/2023200/anthropic-launches-new-workplace-features-to-take-on-microsoft-and-google?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Anthropic Launches New Workplace Features To Take On Microsoft and Google</a></span>
+                <span class="title"><a href="https://mobile.slashdot.org/story/26/11/10/2221238/google-fi-brings-back-network-switching-with-secondary-partner?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Google Fi Brings Back Network Switching With &#x27;Secondary&#x27; Partner</a></span>
                 <span class="feed">Slashdot</span>
                 
             </div>
@@ -164,6 +160,24 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dailycontext/how-we-review-4x-more-ai-code-without-reading-every-line-d5j" target="_blank">How We Review 4x More AI Code Without Reading Every Line</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-11-11 01:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.vulncheck.com/blog/anthropic-glasswing-november-update" target="_blank">After 7 months, Glasswing overwelms maintainers with underwhelming findings</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-11-10 22:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/06/high-tide.jpg?resize=406%2C232&amp;ssl=1" alt="High Tide (Linux Tidal Client) adds playlist editing, artist blocking" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -200,29 +214,20 @@
                 <span class="time">2026-11-10 15:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://deepmind.google/blog/introducing-alphaproof-code/" target="_blank">AlphaProof Code</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-11-10 12:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/11/pinterest-intel-profiling/en/headerimage/generatedHeaderImage-1793692423906.jpg" alt="Pinterest and Intel Take Open-Source Profiling to Internet Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/11/pinterest-intel-profiling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Pinterest and Intel Take Open-Source Profiling to Internet Scale</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-11-10 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/" target="_blank">Microsoft Fixes Nearly 1,100 Security Vulnerabilities</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2026-11-10 21:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -264,15 +269,6 @@
                 <span class="time">2026-11-10 15:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/pikano.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="Man charged after daughter left asleep outside Target before Pokémon card drop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/11/09/man-charged-after-daughter-left-asleep-outside-target-before-pokemon-card-drop.html" target="_blank">Man charged after daughter left asleep outside Target before Pokémon card drop</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-11-09 23:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -305,22 +301,13 @@
                 <span class="time">2026-11-10 02:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/11/09/the-genesis-device" target="_blank">The Genesis Device</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-11-09 21:59</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 36 | 📡 Total Sources: 40 | 📸 With Images: 272 |
-        🔄 Last Updated: 21:34 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 33 | 📡 Total Sources: 40 | 📸 With Images: 271 |
+        🔄 Last Updated: 01:33 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
