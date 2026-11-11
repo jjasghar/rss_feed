@@ -1,39 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-11-11 16:43:49 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-11-11 23:11:29 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
 <!-- Generated 17 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, November 11, 2026 - 16:44 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, November 11, 2026 - 23:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +49,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/colom-speech_1793878849575_hpMain_4x3t_384.jpg" alt="Colom will be Mississippi&#x27;s first Black senator in more than 100 years, AP projects" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/democrat-colom-mississippis-black-senator-100-years-ap/story?id=137984057" target="_blank">Colom will be Mississippi&#x27;s first Black senator in more than 100 years, AP projects</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-11-11 23:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/11/1920x1080/skynews-jensen-huang-nvidia_7402606.jpg?20261110022343" alt="Nvidia shares hit 52-week low amid claim CEO had second affair" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/nvidia-shares-hit-52-week-low-amid-claims-ceo-jensen-huang-had-second-affair-13611255" target="_blank">Nvidia shares hit 52-week low amid claim CEO had second affair</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-11-11 22:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8f2/live/d0df2010-de11-11f1-a701-fddedf244c16.jpg" alt="Clashes erupt in Barcelona after thousands join Spain general strike" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss" target="_blank">Clashes erupt in Barcelona after thousands join Spain general strike</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-11 22:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3da/live/be8fbc60-ddeb-11f1-a701-fddedf244c16.jpg" alt="Author says there were &#x27;real concerns&#x27; about David Walliams within publishing industry" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c95y15830k77o?at_medium=RSS&at_campaign=rss" target="_blank">Author says there were &#x27;real concerns&#x27; about David Walliams within publishing industry</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-11 20:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -67,47 +103,47 @@
                 <span class="time">2026-11-11 14:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49d4/live/b795f200-ddc1-11f1-a50f-85eebf9e50e5.jpg" alt="Spain sees widespread disruption in first general strike for 14 years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss" target="_blank">Spain sees widespread disruption in first general strike for 14 years</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-11 14:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/11/11/why-chinas-1-trillion-trade-surplus-isnt-all-good-news-for-its-economy?traffic_source=rss" target="_blank">Why China’s $1 trillion trade surplus isn’t all good news for its economy</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-11-11 08:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e955/live/1ca9a750-dd62-11f1-bbe9-135ba88862f9.jpg" alt="Jonathan Ross &#x27;horrified&#x27; by Walliams allegations and Brand conviction" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cmwy9jl18840o?at_medium=RSS&at_campaign=rss" target="_blank">Jonathan Ross &#x27;horrified&#x27; by Walliams allegations and Brand conviction</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-11 04:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/11/10/nx-s1-6036135/federal-government-failed-to-hold-epstein-accountable-republican-committee-says" target="_blank">Federal government failed to hold Epstein accountable, Republican committee says</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-11-11 01:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-500x500.jpg" alt="CEO Jensen Huang&#x27;s job is suddenly on the line at Nvidia" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/" target="_blank">CEO Jensen Huang&#x27;s job is suddenly on the line at Nvidia</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-11-11 23:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/1031652/jensen-huang-rumor" target="_blank">Nvidia is reportedly preparing to fire Jensen Huang</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-11-11 22:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6af4b41c996b256982d289fd/master/pass/politics_hegseth_impeach.jpg" alt="Pete Hegseth Is About to Get His Ass Kicked" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/pete-hegseth-is-about-to-get-his-ass-kicked/" target="_blank">Pete Hegseth Is About to Get His Ass Kicked</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-11-11 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/" target="_blank">Why the data center you dread might never even be built</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-11-11 20:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/IBM-Quantum-Nighthawk-r2-and-r3-processors-comparison-500x500-1794412960.jpg" alt="IBM to offer access to a dual-processor quantum system in 2027" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -126,47 +162,20 @@
                 <span class="time">2026-11-11 16:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/" target="_blank">Nvidia’s crisis has corporate governance experts reaching for the popcorn</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-11-11 07:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling" target="_blank">Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-11-11 00:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6af39cc2b435cf5927e355e7/master/pass/Amazon%E2%80%99s-Black-Friday-Sale-Starts-Next-Week,-but-Deals-Are-Already-Live.jpg" alt="Best Early Amazon Black Friday Deals (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/amazon-black-friday-november-2026-early-deals/" target="_blank">Best Early Amazon Black Friday Deals (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-11-10 22:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-plugin-marketplace-500x500.webp" alt="Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/" target="_blank">Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-11-10 21:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/11/github-agentic-workflows-ga/en/headerimage/header-1793990975266.jpeg" alt="GitHub Makes Agentic Workflows Generally Available with Isolation and Budget Controls" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/11/github-agentic-workflows-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">GitHub Makes Agentic Workflows Generally Available with Isolation and Budget Controls</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-11-11 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -212,15 +221,6 @@
                 <span class="time">2026-11-11 08:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/11/angular-compiler-rust-typescript/en/headerimage/generatedHeaderImage-1794323310151.jpg" alt="Angular&#x27;s TypeScript 7-Powered Compiler Enters Beta with Rust-Based Preprocessor" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/11/angular-compiler-rust-typescript/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Angular&#x27;s TypeScript 7-Powered Compiler Enters Beta with Rust-Based Preprocessor</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-11-11 07:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,20 +235,29 @@
                 <span class="time">2026-11-11 12:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/" target="_blank">Microsoft Fixes Nearly 1,100 Security Vulnerabilities</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2026-11-10 21:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/11/honeyanddarling-1280x720.jpg" alt="Hey, Nintendo, What’s Going On With Zelda: Ocarina Of Time’s Most Insufferable Couple?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/hey-nintendo-whats-going-on-with-zelda-ocarina-of-times-most-insufferable-couple-2000755954" target="_blank">Hey, Nintendo, What’s Going On With Zelda: Ocarina Of Time’s Most Insufferable Couple?</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-11-11 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M75Z3JJZJKEP3CXDTBW36G1M/hero-image.png" alt="These Are the Best Early Black Friday Deals on Samsung Devices" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/these-are-the-best-early-black-friday-deals-on-samsung-devices?utm_medium=RSS" target="_blank">These Are the Best Early Black Friday Deals on Samsung Devices</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-11-11 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01M6S8ASVYZDRYTXTZB6C7RDVH/hero-image.webp" alt="Here&#x27;s What We Know About Amazon&#x27;s Black Friday and Cyber Monday 2026 Sales" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,29 +285,20 @@
                 <span class="time">2026-11-11 00:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/11/xboxone-1280x718.jpg" alt="You Can Play GTA 6 On A 13-Year-Old Xbox And It’ll Run At The Same Framerate As PS5 Pro" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/you-can-play-gta-6-on-a-13-year-old-xbox-and-itll-run-at-the-same-framerate-as-ps5-pro-2000755587" target="_blank">You Can Play GTA 6 On A 13-Year-Old Xbox And It’ll Run At The Same Framerate As PS5 Pro</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-11-10 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M73DS1B5VF1E6XRWH67TK3BS/hero-image.jpg" alt="This Actively Exploited Chrome Vulnerability Is Putting Your Browser at Risk" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/this-actively-exploited-security-vulnerability-is-putting-your-chrome-browser?utm_medium=RSS" target="_blank">This Actively Exploited Chrome Vulnerability Is Putting Your Browser at Risk</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-11-10 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/11/11/gunn-jamm" target="_blank">Gunn Jamm</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-11-11 19:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1794359640-20261111.png" alt="Saturday Morning Breakfast Cereal - Please" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -326,22 +326,13 @@
                 <span class="time">2026-11-11 02:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/11/10/ocarina-of-time" target="_blank">Ocarina Of Time!</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-11-10 19:24</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 39 | 📡 Total Sources: 40 | 📸 With Images: 269 |
-        🔄 Last Updated: 16:44 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 41 | 📡 Total Sources: 39 | 📸 With Images: 271 |
+        🔄 Last Updated: 23:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
