@@ -1,32 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-11-11 01:33:34 UTC -->
+<!-- Processing 54 RSS feeds at 2026-11-11 08:34:16 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 23 feeds processed -->
+<!-- Generated 10 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, November 11, 2026 - 01:33 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Wednesday, November 11, 2026 - 08:34 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/11/11/why-chinas-1-trillion-trade-surplus-isnt-all-good-news-for-its-economy?traffic_source=rss" target="_blank">Why China’s $1 trillion trade surplus isn’t all good news for its economy</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-11-11 08:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e955/live/1ca9a750-dd62-11f1-bbe9-135ba88862f9.jpg" alt="Jonathan Ross &#x27;horrified&#x27; by Walliams allegations and Brand conviction" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cmwy9jl18840o?at_medium=RSS&at_campaign=rss" target="_blank">Jonathan Ross &#x27;horrified&#x27; by Walliams allegations and Brand conviction</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-11 04:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/11/10/nx-s1-6036135/federal-government-failed-to-hold-epstein-accountable-republican-committee-says" target="_blank">Federal government failed to hold Epstein accountable, Republican committee says</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-11-11 01:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,38 +99,20 @@
                 <span class="time">2026-11-10 23:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a13/live/1b8d2f10-dd47-11f1-9ac0-6b8f7fc58221.jpg" alt="Meghan&#x27;s father Thomas Markle detained for allegedly cutting off ankle monitor, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss" target="_blank">Meghan&#x27;s father Thomas Markle detained for allegedly cutting off ankle monitor, officials say</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-10 21:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e229/live/97ca3420-dd41-11f1-a701-fddedf244c16.jpg" alt="David Walliams accused of sexual misconduct after losing injunction bid" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ckn8w8p9370zo?at_medium=RSS&at_campaign=rss" target="_blank">David Walliams accused of sexual misconduct after losing injunction bid</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-10 20:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1794339947254_now_daily_b_kapur_jordan_minority_261110_S3_1920x1080-9iries.jpg" alt="House Republicans elect Rep. Jim Jordan as next minority leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/house-republicans-elect-rep-jim-jordan-as-next-minority-leader-273220677677" target="_blank">House Republicans elect Rep. Jim Jordan as next minority leader</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-11-10 19:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/" target="_blank">Nvidia’s crisis has corporate governance experts reaching for the popcorn</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-11-11 07:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,15 +150,6 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/" target="_blank">Otter AI can now follow conversations across 30+ languages</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-11-10 07:00</span>
-            </div>
-        </div>
-<div class="story">
             <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Google Fi Brings Back Network Switching With &#x27;Secondary&#x27; Partner" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-comments"></span>
@@ -160,6 +163,24 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/what-if-your-virtual-data-room-vdr-was-android-based" target="_blank">What if your Virtual Data Room (VDR) was Android™ based?</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-11-11 08:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/11/angular-compiler-rust-typescript/en/headerimage/generatedHeaderImage-1794323310151.jpg" alt="Angular&#x27;s TypeScript 7-Powered Compiler Enters Beta with Rust-Based Preprocessor" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/11/angular-compiler-rust-typescript/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Angular&#x27;s TypeScript 7-Powered Compiler Enters Beta with Rust-Based Preprocessor</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-11-11 07:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,24 +217,6 @@
                 <span class="time">2026-11-10 16:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/legendaryspy/copy-the-expected-but-build-what-you-need-11pb" target="_blank">Copy the expected, but build what you need.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-11-10 15:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17521589/kora-ai-desktop-os-unveiled" target="_blank">The Company Behind GameOS is Now Building an AI Desktop OS Based on Linux</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-11-10 15:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +245,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M73DWMG8ZJ8DNGSQKN189YBP/hero-image.jpg" alt="Hackers Now Want Your Browser Sessions More Than Your Passwords, but You Can Stop Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/hackers-now-want-your-browser-sessions-more-than-passwords?utm_medium=RSS" target="_blank">Hackers Now Want Your Browser Sessions More Than Your Passwords, but You Can Stop Them</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-11-11 00:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/11/xboxone-1280x718.jpg" alt="You Can Play GTA 6 On A 13-Year-Old Xbox And It’ll Run At The Same Framerate As PS5 Pro" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,6 +290,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/11/11/gunn-jamm" target="_blank">Gunn Jamm</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-11-11 08:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/11/10/ocarina-of-time" target="_blank">Ocarina Of Time!</a></span>
                 <span class="feed">Penny Arcade</span>
                 <span class="time">2026-11-10 19:24</span>
@@ -292,22 +313,13 @@
                 <span class="time">2026-11-10 16:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5957.png" alt="Brun With The Assist" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5957" target="_blank">Brun With The Assist</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-11-10 02:08</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 33 | 📡 Total Sources: 40 | 📸 With Images: 271 |
-        🔄 Last Updated: 01:33 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 37 | 📡 Total Sources: 40 | 📸 With Images: 271 |
+        🔄 Last Updated: 08:34 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
