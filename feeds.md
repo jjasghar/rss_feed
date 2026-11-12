@@ -1,39 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-11-11 23:11:29 UTC -->
+<!-- Processing 54 RSS feeds at 2026-11-12 04:43:46 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 17 new posts out of 31 feeds processed -->
+<!-- Generated 13 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, November 11, 2026 - 23:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, November 12, 2026 - 04:44 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/11/11/nx-s1-6030853/ss-united-states-artificial-reef-sinking" target="_blank">World&#x27;s fastest ocean liner is sunk to break another record: largest artificial reef</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-11-12 03:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad2c/live/98868060-de1f-11f1-a701-fddedf244c16.jpg" alt="Some under-25s should get fewer benefits, Milburn review to say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss" target="_blank">Some under-25s should get fewer benefits, Milburn review to say</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-11 23:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/colom-speech_1793878849575_hpMain_4x3t_384.jpg" alt="Colom will be Mississippi&#x27;s first Black senator in more than 100 years, AP projects" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,29 +102,20 @@
                 <span class="time">2026-11-11 20:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/11/11/its-just-too-expensive-housing-and-wages-at-the-heart-of-spains-strike?traffic_source=rss" target="_blank">‘It’s just too expensive’: Housing and wages at the heart of Spain’s strike</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-11-11 16:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/AP26267587244617_1794406668172_hpMain_4x3t_384.jpg" alt="Trump administration moves to drop millions from SNAP under proposal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-administration-moves-drop-millions-snap-proposal/story?id=138031618" target="_blank">Trump administration moves to drop millions from SNAP under proposal</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-11-11 14:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/" target="_blank">Who could replace Jensen Huang? A highly unscientific list of possible successors</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-11-12 03:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-500x500.jpg" alt="CEO Jensen Huang&#x27;s job is suddenly on the line at Nvidia" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -153,20 +161,29 @@
                 <span class="time">2026-11-11 16:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/" target="_blank">Is Jensen Huang’s bad behavior more commonplace than it seems?</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-11-11 16:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shivaysinghrajput/praxis-1-a-developers-checklist-before-you-run-an-open-robot-model-on-your-hardware-2j9" target="_blank">Praxis-1: A Developer&#x27;s Checklist Before You Run an Open Robot Model on Your Hardware</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-11-12 04:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/11/sprout.webp?resize=406%2C232&amp;ssl=1" alt="Sprout Pi lets old iPods run Linux apps and stream Spotify" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/11/sprout-upgrades-ipod-modern-features" target="_blank">Sprout Pi lets old iPods run Linux apps and stream Spotify</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-11-11 23:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/11/github-agentic-workflows-ga/en/headerimage/header-1793990975266.jpeg" alt="GitHub Makes Agentic Workflows Generally Available with Isolation and Budget Controls" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -203,24 +220,6 @@
                 <span class="time">2026-11-11 14:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://pietromiotti.com/latest/maya-site/?maya" target="_blank">Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-11-11 12:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/what-if-your-virtual-data-room-vdr-was-android-based" target="_blank">What if your Virtual Data Room (VDR) was Android™ based?</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-11-11 08:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,12 +240,39 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/11/GTa-6-reallife-vid-1280x720.jpg" alt="This Isn’t A Video From Miami, It’s A GTA 6 Gameplay Clip" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/this-isnt-a-video-from-miami-its-a-gta-6-gameplay-clip-2000756038" target="_blank">This Isn’t A Video From Miami, It’s A GTA 6 Gameplay Clip</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-11-11 23:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/11/honeyanddarling-1280x720.jpg" alt="Hey, Nintendo, What’s Going On With Zelda: Ocarina Of Time’s Most Insufferable Couple?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/hey-nintendo-whats-going-on-with-zelda-ocarina-of-times-most-insufferable-couple-2000755954" target="_blank">Hey, Nintendo, What’s Going On With Zelda: Ocarina Of Time’s Most Insufferable Couple?</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-11-11 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M766FXGN63MJJHBX0XQQAGD0/hero-image.jpg" alt="How to Make Sure an &#x27;Onion&#x27; Site on the Dark Web Is Legitimate" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/how-to-make-sure-onion-site-on-dark-web-is-legitimate?utm_medium=RSS" target="_blank">How to Make Sure an &#x27;Onion&#x27; Site on the Dark Web Is Legitimate</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-11-11 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/Lenovo-500w-Gen-5-1200.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Save $240 on a refurbished Lenovo Gen 5 laptop and get a month of Surfshark VPN for free" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/11/11/save-240-on-a-refurbished-lenovo-gen-5-laptop-and-get-a-month-of-surfshark-vpn-for-free.html" target="_blank">Save $240 on a refurbished Lenovo Gen 5 laptop and get a month of Surfshark VPN for free</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-11-11 22:00</span>
             </div>
         </div>
 <div class="story">
@@ -267,29 +293,20 @@
                 <span class="time">2026-11-11 16:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/The-Lifetime-AI-Software-Stack-Bundle-1200.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="One bundle for AI writing, voiceovers, video, and prompt building — $47.99 for life" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/11/11/one-bundle-for-ai-writing-voiceovers-video-and-prompt-building-47-99-for-life.html" target="_blank">One bundle for AI writing, voiceovers, video, and prompt building — $47.99 for life</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-11-11 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M73DWMG8ZJ8DNGSQKN189YBP/hero-image.jpg" alt="Hackers Now Want Your Browser Sessions More Than Your Passwords, but You Can Stop Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/hackers-now-want-your-browser-sessions-more-than-passwords?utm_medium=RSS" target="_blank">Hackers Now Want Your Browser Sessions More Than Your Passwords, but You Can Stop Them</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-11-11 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.questionablecontent.net/comics/5959.png" alt="The Plot Unravels" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5959" target="_blank">The Plot Unravels</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-11-12 02:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -317,22 +334,13 @@
                 <span class="time">2026-11-11 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5958.png" alt="Best Of Pals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5958" target="_blank">Best Of Pals</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-11-11 02:45</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 41 | 📡 Total Sources: 39 | 📸 With Images: 271 |
-        🔄 Last Updated: 23:11 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 40 | 📡 Total Sources: 39 | 📸 With Images: 268 |
+        🔄 Last Updated: 04:44 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
