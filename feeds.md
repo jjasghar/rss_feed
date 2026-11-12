@@ -1,43 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-11-12 13:24:34 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-11-12 21:12:41 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 16 new posts out of 34 feeds processed -->
+<!-- Generated 17 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, November 12, 2026 - 13:24 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Thursday, November 12, 2026 - 21:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +46,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0196/live/ef110310-de9c-11f1-a701-fddedf244c16.jpg" alt="US envoys head to meet Zelensky after talks with Putin in Moscow" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss" target="_blank">US envoys head to meet Zelensky after talks with Putin in Moscow</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-12 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/11/12/whats-at-stake-in-the-renewed-tensions-over-the-falkland-islands?traffic_source=rss" target="_blank">What’s at stake in the renewed tensions over the Falkland Islands?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-11-12 20:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/11/12/nx-s1-6038940/punch-in-the-gut-homes-sales-fall-to-their-lowest-in-16-years" target="_blank">&#x27;Punch in the gut&#x27;: Homes sales fall to their lowest in 16 years</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-11-12 18:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1794501153757_now_current_trump_nvidia_cook_261112_S3_1920x1080-e1npn8.jpg" alt="Trump recommends Tim Cook for Nvidia CEO after Jensen Huang resigns" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/trump-recommends-tim-cook-for-nvidia-ceo-after-jensen-huang-resigns-273344581767" target="_blank">Trump recommends Tim Cook for Nvidia CEO after Jensen Huang resigns</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-11-12 16:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,47 +100,38 @@
                 <span class="time">2026-11-12 12:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia" target="_blank">Colom wins Mississippi Senate race. And, White House warns Dems over future probes</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-11-12 12:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b029/live/c4ae2930-de89-11f1-b441-2b33b063138f.jpg" alt="UK economy grows at fastest rate for more than two years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss" target="_blank">UK economy grows at fastest rate for more than two years</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-12 11:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/11/11/nx-s1-6030853/ss-united-states-artificial-reef-sinking" target="_blank">World&#x27;s fastest ocean liner is sunk to break another record: largest artificial reef</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-11-12 03:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/11/1920x1080/skynews-spain-barcelona_7404497.jpg?20261112043458" alt="Fiery clashes erupt in Spain as millions join general strike" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/fiery-clashes-erupt-in-spain-as-millions-join-general-strike-13611270" target="_blank">Fiery clashes erupt in Spain as millions join general strike</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-11-12 02:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6af5df9b506e35cfaae88b85/master/pass/111226-Jensen%20Power%20Women%20tech.jpg" alt="Jensen Huang Didn’t Name His Own Replacement as One of Tech’s Most Powerful Women" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/jensen-huang-colette-kress-replacement-powerful-women-in-tech/" target="_blank">Jensen Huang Didn’t Name His Own Replacement as One of Tech’s Most Powerful Women</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-11-12 20:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/" target="_blank">Jensen Huang was having a third affair, Reuters reports</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-11-12 20:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ukraine-data-center-under-attack-500x500.jpg" alt="Ars Live: What drone attacks on data centers mean for modern life in the cloud" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/" target="_blank">Ars Live: What drone attacks on data centers mean for modern life in the cloud</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-11-12 19:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/IMG_9812-500x500.jpeg" alt="Review: Apple&#x27;s M6 iMac is pricey, but it&#x27;s still a good choice for a clean desk" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,38 +159,38 @@
                 <span class="time">2026-11-12 03:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-500x500.jpg" alt="CEO Jensen Huang&#x27;s job is suddenly on the line at Nvidia" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/" target="_blank">CEO Jensen Huang&#x27;s job is suddenly on the line at Nvidia</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-11-11 23:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/1031652/jensen-huang-rumor" target="_blank">Nvidia is reportedly preparing to fire Jensen Huang</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-11-11 22:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6af4b41c996b256982d289fd/master/pass/politics_hegseth_impeach.jpg" alt="Pete Hegseth Is About to Get His Ass Kicked" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/pete-hegseth-is-about-to-get-his-ass-kicked/" target="_blank">Pete Hegseth Is About to Get His Ass Kicked</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-11-11 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp643agjszlhlwtqwkudo.jpg" alt="Prompt Injection Is the SQL Injection of AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/michaelpetler/prompt-injection-is-the-sql-injection-of-ai-agents-20mk" target="_blank">Prompt Injection Is the SQL Injection of AI Agents</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-11-12 21:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!qBog!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7cde86f6-c46b-4000-9c17-7754eab47daa_1330x1418.png" alt="The Pulse: What can we learn from the Railway hack?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-what-can-we-learn-from-114" target="_blank">The Pulse: What can we learn from the Railway hack?</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-11-12 18:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/firefox-vpn-1.webp?resize=406%2C232&amp;ssl=1" alt="Firefox’s free built-in VPN removes its data limit (until next year)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/11/firefox-vpn-unlimited-data-temp" target="_blank">Firefox’s free built-in VPN removes its data limit (until next year)</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-11-12 16:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,33 +218,6 @@
                 <span class="time">2026-11-12 11:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://pron.github.io/posts/correctness-and-complexity" target="_blank">Why Writing Correct Software Is Hard</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-11-12 10:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shivaysinghrajput/praxis-1-a-developers-checklist-before-you-run-an-open-robot-model-on-your-hardware-2j9" target="_blank">Praxis-1: A Developer&#x27;s Checklist Before You Run an Open Robot Model on Your Hardware</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-11-12 04:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/11/sprout.webp?resize=406%2C232&amp;ssl=1" alt="Sprout Pi lets old iPods run Linux apps and stream Spotify" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/11/sprout-upgrades-ipod-modern-features" target="_blank">Sprout Pi lets old iPods run Linux apps and stream Spotify</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-11-11 23:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,20 +232,29 @@
                 <span class="time">2026-11-12 12:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/" target="_blank">Who Runs the Ransomware Group Qilin?</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2026-11-11 18:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/11/JENSEN-SURPRISE-1280x708.jpg" alt="A-One, A Two-Hoo, A-Three…" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/a-one-a-two-hoo-a-three-2000756353" target="_blank">A-One, A Two-Hoo, A-Three…</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-11-12 20:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M78P4V49B289VT4HX72EYC0S/hero-image.jpg" alt="These Beats Solo 4 Headphones Are 65% Off During Walmart&#x27;s Early Black Friday Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/beats-solo-4-headphones-walmart-early-black-friday-2026?utm_medium=RSS" target="_blank">These Beats Solo 4 Headphones Are 65% Off During Walmart&#x27;s Early Black Friday Sale</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-11-12 20:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/09/5fff9c051f83ae269e56062c6dba90bdba6515fc-1280x720.jpg" alt="Bioware Is Gone But Its People Are Still Making Cool Stuff" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -289,24 +291,6 @@
                 <span class="time">2026-11-11 23:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/Lenovo-500w-Gen-5-1200.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Save $240 on a refurbished Lenovo Gen 5 laptop and get a month of Surfshark VPN for free" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/11/11/save-240-on-a-refurbished-lenovo-gen-5-laptop-and-get-a-month-of-surfshark-vpn-for-free.html" target="_blank">Save $240 on a refurbished Lenovo Gen 5 laptop and get a month of Surfshark VPN for free</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-11-11 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M75Z3JJZJKEP3CXDTBW36G1M/hero-image.png" alt="These Are the Best Early Black Friday Deals on Samsung Devices" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/these-are-the-best-early-black-friday-deals-on-samsung-devices?utm_medium=RSS" target="_blank">These Are the Best Early Black Friday Deals on Samsung Devices</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-11-11 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,31 +305,13 @@
                 <span class="time">2026-11-12 02:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/11/11/gunn-jamm" target="_blank">Gunn Jamm</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-11-11 19:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1794359640-20261111.png" alt="Saturday Morning Breakfast Cereal - Please" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/please" target="_blank">Saturday Morning Breakfast Cereal - Please</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-11-11 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 46 | 📡 Total Sources: 39 | 📸 With Images: 265 |
-        🔄 Last Updated: 13:24 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 44 | 📡 Total Sources: 40 | 📸 With Images: 269 |
+        🔄 Last Updated: 21:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
