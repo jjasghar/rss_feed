@@ -1,38 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-11-12 04:43:46 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-11-12 13:24:34 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 13 new posts out of 29 feeds processed -->
+<!-- Generated 16 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, November 12, 2026 - 04:44 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, November 12, 2026 - 13:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +56,42 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/11/12/fifa-under-17-world-cup-to-kick-off-in-qatar-despite-us-withdrawal?traffic_source=rss" target="_blank">FIFA Under-17 World Cup to kick off in Qatar despite US withdrawal</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-11-12 12:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1794485805674_tdy_news_7a_nvidia_jensen_huang_261112_S3_1920x1080-hgczod.jpg" alt="Nvidia Board Meets to Discuss CEO Jensen Huang’s Future" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/nvidia-board-weighs-ceo-s-future-as-2nd-scandal-comes-to-light-273326149690" target="_blank">Nvidia Board Meets to Discuss CEO Jensen Huang’s Future</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-11-12 12:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia" target="_blank">Colom wins Mississippi Senate race. And, White House warns Dems over future probes</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-11-12 12:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b029/live/c4ae2930-de89-11f1-b441-2b33b063138f.jpg" alt="UK economy grows at fastest rate for more than two years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss" target="_blank">UK economy grows at fastest rate for more than two years</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-12 11:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/11/11/nx-s1-6030853/ss-united-states-artificial-reef-sinking" target="_blank">World&#x27;s fastest ocean liner is sunk to break another record: largest artificial reef</a></span>
                 <span class="feed">NPR Topics: News</span>
@@ -58,48 +99,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad2c/live/98868060-de1f-11f1-a701-fddedf244c16.jpg" alt="Some under-25s should get fewer benefits, Milburn review to say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss" target="_blank">Some under-25s should get fewer benefits, Milburn review to say</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-11 23:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/colom-speech_1793878849575_hpMain_4x3t_384.jpg" alt="Colom will be Mississippi&#x27;s first Black senator in more than 100 years, AP projects" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/democrat-colom-mississippis-black-senator-100-years-ap/story?id=137984057" target="_blank">Colom will be Mississippi&#x27;s first Black senator in more than 100 years, AP projects</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-11-11 23:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/11/1920x1080/skynews-jensen-huang-nvidia_7402606.jpg?20261110022343" alt="Nvidia shares hit 52-week low amid claim CEO had second affair" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/26/11/1920x1080/skynews-spain-barcelona_7404497.jpg?20261112043458" alt="Fiery clashes erupt in Spain as millions join general strike" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/nvidia-shares-hit-52-week-low-amid-claims-ceo-jensen-huang-had-second-affair-13611255" target="_blank">Nvidia shares hit 52-week low amid claim CEO had second affair</a></span>
+                <span class="title"><a href="https://news.sky.com/story/fiery-clashes-erupt-in-spain-as-millions-join-general-strike-13611270" target="_blank">Fiery clashes erupt in Spain as millions join general strike</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-11-11 22:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8f2/live/d0df2010-de11-11f1-a701-fddedf244c16.jpg" alt="Clashes erupt in Barcelona after thousands join Spain general strike" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss" target="_blank">Clashes erupt in Barcelona after thousands join Spain general strike</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-11 22:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3da/live/be8fbc60-ddeb-11f1-a701-fddedf244c16.jpg" alt="Author says there were &#x27;real concerns&#x27; about David Walliams within publishing industry" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c95y15830k77o?at_medium=RSS&at_campaign=rss" target="_blank">Author says there were &#x27;real concerns&#x27; about David Walliams within publishing industry</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-11 20:40</span>
+                <span class="time">2026-11-12 02:41</span>
             </div>
         </div>
 </div>
@@ -107,6 +112,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/IMG_9812-500x500.jpeg" alt="Review: Apple&#x27;s M6 iMac is pricey, but it&#x27;s still a good choice for a clean desk" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/features/2026/11/review-apples-m6-imac-is-pricey-but-its-still-a-good-choice-for-a-clean-desk/" target="_blank">Review: Apple&#x27;s M6 iMac is pricey, but it&#x27;s still a good choice for a clean desk</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-11-12 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/1031817/ring-drone-cam-manual-flight-controls" target="_blank">Ring confirms its camera drone won’t have manual controls after crashing on CBS News</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-11-12 11:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,29 +166,47 @@
                 <span class="time">2026-11-11 22:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/" target="_blank">Why the data center you dread might never even be built</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-11-11 20:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/IBM-Quantum-Nighthawk-r2-and-r3-processors-comparison-500x500-1794412960.jpg" alt="IBM to offer access to a dual-processor quantum system in 2027" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027/" target="_blank">IBM to offer access to a dual-processor quantum system in 2027</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-11-11 16:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/guang_diyuzhi_74b0fec2c09/n8n-vs-zapier-vs-make-when-paying-10x-more-is-the-right-call-1i8k" target="_blank">n8n vs Zapier vs Make: When Paying 10x More Is the Right Call</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-11-12 13:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17522776/labex-review" target="_blank">Learn Linux and Cybersecurity Skills With Hands-on Interactive Labs</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-11-12 12:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.5-ASUS-Transformer" target="_blank">Linux 7.5 To Improve Support For Old ASUS Transformer Hybrid Laptops/Tablets</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-11-12 11:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://pron.github.io/posts/correctness-and-complexity" target="_blank">Why Writing Correct Software Is Hard</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-11-12 10:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -184,42 +225,6 @@
                 <span class="time">2026-11-11 23:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/11/github-agentic-workflows-ga/en/headerimage/header-1793990975266.jpeg" alt="GitHub Makes Agentic Workflows Generally Available with Isolation and Budget Controls" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/11/github-agentic-workflows-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">GitHub Makes Agentic Workflows Generally Available with Isolation and Budget Controls</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-11-11 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/johnettagaweraks/proving-aos-8-remediation-after-cve-2026-79868-47am" target="_blank">Proving AOS-8 remediation after CVE-2026-79868</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-11-11 16:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/amd-venice-nvidia-vera" target="_blank">AMD EPYC 9006 Venice vs. NVIDIA Vera Benchmarks For HPC Performance</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-11-11 15:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028" target="_blank">In Memoriam: Tim Peters 1952–2026</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-11-11 14:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -229,9 +234,18 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/11/three-people-arrested-for-ai-enhanced-impersonation-fraud.html" target="_blank">Three People Arrested for AI-Enhanced Impersonation Fraud</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/11/another-way-police-are-locating-people-from-their-smartphones.html" target="_blank">Another Way Police Are Locating People from Their Smartphones</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2026-11-11 12:05</span>
+                <span class="time">2026-11-12 12:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/" target="_blank">Who Runs the Ransomware Group Qilin?</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2026-11-11 18:06</span>
             </div>
         </div>
 </div>
@@ -239,6 +253,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/09/5fff9c051f83ae269e56062c6dba90bdba6515fc-1280x720.jpg" alt="Bioware Is Gone But Its People Are Still Making Cool Stuff" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/bioware-developers-new-projects-studios-star-wars-exodus-2000756010" target="_blank">Bioware Is Gone But Its People Are Still Making Cool Stuff</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-11-12 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/11/GTa-6-reallife-vid-1280x720.jpg" alt="This Isn’t A Video From Miami, It’s A GTA 6 Gameplay Clip" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +307,6 @@
                 <span class="time">2026-11-11 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M6S8ASVYZDRYTXTZB6C7RDVH/hero-image.webp" alt="Here&#x27;s What We Know About Amazon&#x27;s Black Friday and Cyber Monday 2026 Sales" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/what-to-know-about-amazon-black-friday-2026-sales?utm_medium=RSS" target="_blank">Here&#x27;s What We Know About Amazon&#x27;s Black Friday and Cyber Monday 2026 Sales</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-11-11 16:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,22 +339,13 @@
                 <span class="time">2026-11-11 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/11/11/gunn-jamm" target="_blank">Gunn Jamm</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-11-11 08:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 40 | 📡 Total Sources: 39 | 📸 With Images: 268 |
-        🔄 Last Updated: 04:44 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 46 | 📡 Total Sources: 39 | 📸 With Images: 265 |
+        🔄 Last Updated: 13:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
