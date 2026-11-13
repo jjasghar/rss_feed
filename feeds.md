@@ -1,32 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-11-13 10:15:01 UTC -->
+<!-- Processing 54 RSS feeds at 2026-11-13 18:14:50 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 24 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 10 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, November 13, 2026 - 10:15 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, November 13, 2026 - 18:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +40,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg" alt="Why is Microsoft&#x27;s outage lasting so long and will emails be lost?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss" target="_blank">Why is Microsoft&#x27;s outage lasting so long and will emails be lost?</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-13 17:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/11/13/the-fight-over-canadian-steelworker-jobs?traffic_source=rss" target="_blank">The fight over Canadian steelworker jobs</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-11-13 17:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d86/live/54377b90-df86-11f1-b441-2b33b063138f.jpg" alt="Police investigating David Walliams over reports alleging serious sexual offences" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss" target="_blank">Police investigating David Walliams over reports alleging serious sexual offences</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-13 16:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67dd/live/e629b0c0-df47-11f1-a48c-75dd2efdacb5.jpg" alt="GPs, police and pharmacies among UK services affected by Microsoft outage" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -69,38 +94,29 @@
                 <span class="time">2026-11-12 23:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0196/live/ef110310-de9c-11f1-a701-fddedf244c16.jpg" alt="US envoys head to meet Zelensky after talks with Putin in Moscow" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss" target="_blank">US envoys head to meet Zelensky after talks with Putin in Moscow</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-12 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1794516038369_now_daily_b_cro_rise_fall_jensen_huang_261112_S3_1920x1080-2totfw.jpg" alt="The rise and fall of former Nvidia CEO Jensen Huang" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/the-rise-and-fall-of-former-nvidia-ceo-jensen-huang-273361477672" target="_blank">The rise and fall of former Nvidia CEO Jensen Huang</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-11-12 20:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/11/12/whats-at-stake-in-the-renewed-tensions-over-the-falkland-islands?traffic_source=rss" target="_blank">What’s at stake in the renewed tensions over the Falkland Islands?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-11-12 20:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable" target="_blank">You can adjust the position of the trackball on Keychron’s new wireless mouse</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-11-13 18:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-destination-500x500.jpg" alt="OpenAI board member worries an AI &quot;takeover&quot; of society could be months away" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/" target="_blank">OpenAI board member worries an AI &quot;takeover&quot; of society could be months away</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-11-13 17:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6af5dcf2d057d0b5e841ea04/master/pass/27990737266_8b321346a4_o.jpg" alt="The Hubble Space Telescope Is Sinking. NASA Is Looking for Ways to Keep It Afloat" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -137,24 +153,6 @@
                 <span class="time">2026-11-12 22:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Prostate-Cancer-500x500.jpg" alt="In reversal, American Cancer Society urges prostate cancer tests for all men" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/" target="_blank">In reversal, American Cancer Society urges prostate cancer tests for all men</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-11-12 22:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/" target="_blank">Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-11-12 22:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,6 +165,15 @@
                 <span class="title"><a href="https://stackoverflow.blog/2026/11/13/agentic-doesn-t-find-pages-it-assembles-answers/" target="_blank">Agentic search doesn&#x27;t find pages, it assembles answers</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2026-11-13 08:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2019/06/pinebook-ubuntu-mate.jpg?resize=406%2C232&amp;ssl=1" alt="Polo is a Wayland compositor for the MATE desktop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/11/mate-wayland-compositor-polo" target="_blank">Polo is a Wayland compositor for the MATE desktop</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-11-13 02:26</span>
             </div>
         </div>
 <div class="story">
@@ -190,42 +197,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/news-insights/company-news/github-availability-report-october-2026/" target="_blank">GitHub availability report: October 2026</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-11-13 00:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-hat-cowboy"></span>
                 <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-november-13-2026-red-hat" target="_blank">Friday Five — November 13, 2026 | Red Hat</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-11-13 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/11/waydroid-on-ubuntu.webp?resize=406%2C232&amp;ssl=1" alt="Running Android apps on Ubuntu is now surprisingly easy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/11/android-apps-on-ubuntu-waydroid" target="_blank">Running Android apps on Ubuntu is now surprisingly easy</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-11-12 22:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp643agjszlhlwtqwkudo.jpg" alt="Prompt Injection Is the SQL Injection of AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/michaelpetler/prompt-injection-is-the-sql-injection-of-ai-agents-20mk" target="_blank">Prompt Injection Is the SQL Injection of AI Agents</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-11-12 21:09</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/11/another-way-police-are-locating-people-from-their-smartphones.html" target="_blank">Another Way Police Are Locating People from Their Smartphones</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-11-12 12:02</span>
             </div>
         </div>
 </div>
@@ -269,20 +253,29 @@
                 <span class="time">2026-11-12 20:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/09/5fff9c051f83ae269e56062c6dba90bdba6515fc-1280x720.jpg" alt="Bioware Is Gone But Its People Are Still Making Cool Stuff" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/bioware-developers-new-projects-studios-star-wars-exodus-2000756010" target="_blank">Bioware Is Gone But Its People Are Still Making Cool Stuff</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-11-12 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/11/13/huang-bang" target="_blank">Huang Bang</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-11-13 08:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/ultimate_movie_series.png" alt="Ultimate Movie Series" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3324/" target="_blank">Ultimate Movie Series</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-11-13 05:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.questionablecontent.net/comics/5960.png" alt="C14L1$" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -292,22 +285,13 @@
                 <span class="time">2026-11-13 01:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1794451776-20261112.png" alt="Saturday Morning Breakfast Cereal - History" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/history-6" target="_blank">Saturday Morning Breakfast Cereal - History</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-11-12 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 49 | 📡 Total Sources: 40 | 📸 With Images: 268 |
-        🔄 Last Updated: 10:15 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 37 | 📡 Total Sources: 40 | 📸 With Images: 269 |
+        🔄 Last Updated: 18:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
