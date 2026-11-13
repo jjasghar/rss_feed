@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-11-12 21:12:41 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-11-13 02:13:33 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 17 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 15 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Thursday, November 12, 2026 - 21:12 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, November 13, 2026 - 02:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,12 +46,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg" alt="Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss" target="_blank">Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-12 23:34</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0196/live/ef110310-de9c-11f1-a701-fddedf244c16.jpg" alt="US envoys head to meet Zelensky after talks with Putin in Moscow" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss" target="_blank">US envoys head to meet Zelensky after talks with Putin in Moscow</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-11-12 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1794516038369_now_daily_b_cro_rise_fall_jensen_huang_261112_S3_1920x1080-2totfw.jpg" alt="The rise and fall of former Nvidia CEO Jensen Huang" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/the-rise-and-fall-of-former-nvidia-ceo-jensen-huang-273361477672" target="_blank">The rise and fall of former Nvidia CEO Jensen Huang</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-11-12 20:40</span>
             </div>
         </div>
 <div class="story">
@@ -82,29 +99,47 @@
                 <span class="time">2026-11-12 16:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/11/12/fifa-under-17-world-cup-to-kick-off-in-qatar-despite-us-withdrawal?traffic_source=rss" target="_blank">FIFA Under-17 World Cup to kick off in Qatar despite US withdrawal</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-11-12 12:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1794485805674_tdy_news_7a_nvidia_jensen_huang_261112_S3_1920x1080-hgczod.jpg" alt="Nvidia Board Meets to Discuss CEO Jensen Huang’s Future" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/nvidia-board-weighs-ceo-s-future-as-2nd-scandal-comes-to-light-273326149690" target="_blank">Nvidia Board Meets to Discuss CEO Jensen Huang’s Future</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-11-12 12:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6af6533dc5d481da1362b330/master/pass/Petition-Bring-Back-Jensen-Business-2299493060.jpg" alt="‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/" target="_blank">‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-11-13 01:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang" target="_blank">Donald Trump really wants Tim Cook to run Nvidia</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-11-13 00:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Prostate-Cancer-500x500.jpg" alt="In reversal, American Cancer Society urges prostate cancer tests for all men" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/" target="_blank">In reversal, American Cancer Society urges prostate cancer tests for all men</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-11-12 22:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/" target="_blank">Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-11-12 22:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6af5df9b506e35cfaae88b85/master/pass/111226-Jensen%20Power%20Women%20tech.jpg" alt="Jensen Huang Didn’t Name His Own Replacement as One of Tech’s Most Powerful Women" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -123,47 +158,38 @@
                 <span class="time">2026-11-12 20:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ukraine-data-center-under-attack-500x500.jpg" alt="Ars Live: What drone attacks on data centers mean for modern life in the cloud" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/" target="_blank">Ars Live: What drone attacks on data centers mean for modern life in the cloud</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-11-12 19:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/IMG_9812-500x500.jpeg" alt="Review: Apple&#x27;s M6 iMac is pricey, but it&#x27;s still a good choice for a clean desk" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/features/2026/11/review-apples-m6-imac-is-pricey-but-its-still-a-good-choice-for-a-clean-desk/" target="_blank">Review: Apple&#x27;s M6 iMac is pricey, but it&#x27;s still a good choice for a clean desk</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-11-12 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/1031817/ring-drone-cam-manual-flight-controls" target="_blank">Ring confirms its camera drone won’t have manual controls after crashing on CBS News</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-11-12 11:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/" target="_blank">Who could replace Jensen Huang? A highly unscientific list of possible successors</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-11-12 03:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ngfmuf7w5flp0lzdk25.jpg" alt="Krestianstvo Abstract Holographic Computer: Bose–Einstein condensates and Fermionic superfluids." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nikolaysuslov/krestianstvo-abstract-holographic-computer-bose-einstein-condensates-and-fermionic-superfluids-1m91" target="_blank">Krestianstvo Abstract Holographic Computer: Bose–Einstein condensates and Fermionic superfluids.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-11-13 02:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Codex-R600-UVD-FIx-Linux-7.5" target="_blank">OpenAI Codex Helps Uncover &amp; Fix A Nearly 20 Year Old Radeon Linux Driver Bug</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-11-13 01:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/11/waydroid-on-ubuntu.webp?resize=406%2C232&amp;ssl=1" alt="Running Android apps on Ubuntu is now surprisingly easy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/11/android-apps-on-ubuntu-waydroid" target="_blank">Running Android apps on Ubuntu is now surprisingly easy</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-11-12 22:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp643agjszlhlwtqwkudo.jpg" alt="Prompt Injection Is the SQL Injection of AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -189,33 +215,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/11/firefox-vpn-unlimited-data-temp" target="_blank">Firefox’s free built-in VPN removes its data limit (until next year)</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-11-12 16:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/guang_diyuzhi_74b0fec2c09/n8n-vs-zapier-vs-make-when-paying-10x-more-is-the-right-call-1i8k" target="_blank">n8n vs Zapier vs Make: When Paying 10x More Is the Right Call</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-11-12 13:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17522776/labex-review" target="_blank">Learn Linux and Cybersecurity Skills With Hands-on Interactive Labs</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-11-12 12:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.5-ASUS-Transformer" target="_blank">Linux 7.5 To Improve Support For Old ASUS Transformer Hybrid Laptops/Tablets</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-11-12 11:26</span>
             </div>
         </div>
 </div>
@@ -264,45 +263,18 @@
                 <span class="time">2026-11-12 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/11/GTa-6-reallife-vid-1280x720.jpg" alt="This Isn’t A Video From Miami, It’s A GTA 6 Gameplay Clip" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/this-isnt-a-video-from-miami-its-a-gta-6-gameplay-clip-2000756038" target="_blank">This Isn’t A Video From Miami, It’s A GTA 6 Gameplay Clip</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-11-11 23:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/11/honeyanddarling-1280x720.jpg" alt="Hey, Nintendo, What’s Going On With Zelda: Ocarina Of Time’s Most Insufferable Couple?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/hey-nintendo-whats-going-on-with-zelda-ocarina-of-times-most-insufferable-couple-2000755954" target="_blank">Hey, Nintendo, What’s Going On With Zelda: Ocarina Of Time’s Most Insufferable Couple?</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-11-11 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M766FXGN63MJJHBX0XQQAGD0/hero-image.jpg" alt="How to Make Sure an &#x27;Onion&#x27; Site on the Dark Web Is Legitimate" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/how-to-make-sure-onion-site-on-dark-web-is-legitimate?utm_medium=RSS" target="_blank">How to Make Sure an &#x27;Onion&#x27; Site on the Dark Web Is Legitimate</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-11-11 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
-            <img src="https://www.questionablecontent.net/comics/5959.png" alt="The Plot Unravels" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1794451776-20261112.png" alt="Saturday Morning Breakfast Cereal - History" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5959" target="_blank">The Plot Unravels</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-11-12 02:12</span>
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/history-6" target="_blank">Saturday Morning Breakfast Cereal - History</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-11-12 16:20</span>
             </div>
         </div>
 </div>
@@ -310,8 +282,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 44 | 📡 Total Sources: 40 | 📸 With Images: 269 |
-        🔄 Last Updated: 21:12 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 43 | 📡 Total Sources: 40 | 📸 With Images: 268 |
+        🔄 Last Updated: 02:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
