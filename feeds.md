@@ -1,30 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-11-13 18:14:50 UTC -->
+<!-- Processing 54 RSS feeds at 2026-11-13 23:59:40 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 22 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, November 13, 2026 - 18:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Friday, November 13, 2026 - 23:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +39,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/plane-03-rt-jt-261113_1794608335759_hpMain_4x3t_384.jpg" alt="FAA ground stop live updates: 1,000 flights canceled, no indication a &#x27;nefarious&#x27; act" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/live-updates/faa-ground-stop-live-updates-hundreds-flights-canceled/?id=138125140" target="_blank">FAA ground stop live updates: 1,000 flights canceled, no indication a &#x27;nefarious&#x27; act</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-11-13 23:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1794608304299_nbc_spec_mullin_outage_261113_S3_1920x1080-78t6ql.jpg" alt="Secy. Mullin says FAA ground stop was caused by &#x27;telecommunication outage&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/secy-mullin-says-faa-ground-stop-was-caused-by-telecommunication-outage-273475141556" target="_blank">Secy. Mullin says FAA ground stop was caused by &#x27;telecommunication outage&#x27;</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-11-13 22:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/11/1920x1080/skynews-ukraine-russia_7405617.jpg?20261113082724" alt="EU leaders choose team for Ukraine peace talks after months of wavering" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/eu-leaders-choose-team-for-ukraine-peace-talks-after-months-of-wavering-13612008" target="_blank">EU leaders choose team for Ukraine peace talks after months of wavering</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-11-13 18:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg" alt="Why is Microsoft&#x27;s outage lasting so long and will emails be lost?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -65,33 +91,6 @@
                 <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss" target="_blank">Police investigating David Walliams over reports alleging serious sexual offences</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-11-13 16:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67dd/live/e629b0c0-df47-11f1-a48c-75dd2efdacb5.jpg" alt="GPs, police and pharmacies among UK services affected by Microsoft outage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss" target="_blank">GPs, police and pharmacies among UK services affected by Microsoft outage</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-13 10:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/11/13/nx-s1-6032777/rivers-in-the-sky-are-raining-down-on-the-pacific-northwest-what-are-they" target="_blank">Rivers in the sky are raining down on the Pacific Northwest. What are they?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-11-13 10:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg" alt="Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss" target="_blank">Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-12 23:34</span>
             </div>
         </div>
 </div>
@@ -145,12 +144,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Prostate-Cancer-500x500.jpg" alt="In reversal, American Cancer Society urges routine prostate cancer screening" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Lego&#x27;s BrickLink Marketplace Back Online After Week-Long Outage Caused By &#x27;Cyber Incident&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/" target="_blank">In reversal, American Cancer Society urges routine prostate cancer screening</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-11-12 22:59</span>
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://tech.slashdot.org/story/26/11/13/2053209/legos-bricklink-marketplace-back-online-after-week-long-outage-caused-by-cyber-incident?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Lego&#x27;s BrickLink Marketplace Back Online After Week-Long Outage Caused By &#x27;Cyber Incident&#x27;</a></span>
+                <span class="feed">Slashdot</span>
+                
             </div>
         </div>
 </div>
@@ -158,6 +157,24 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Cloudflare-Kitesurf-Open-Source" target="_blank">Cloudflare Open Sources Kitesurf: Their Web Browser For AI Agents</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-11-13 21:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17523951/slax-linux-returns" target="_blank">Slax Linux Makes a Comeback</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-11-13 14:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,22 +211,18 @@
                 <span class="time">2026-11-13 01:41</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/news-insights/company-news/github-availability-report-october-2026/" target="_blank">GitHub availability report: October 2026</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-11-13 00:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-november-13-2026-red-hat" target="_blank">Friday Five — November 13, 2026 | Red Hat</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2026-11-13 00:00</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-pacific-flying-squid-populations-dropping-in-korean-waters.html" target="_blank">Friday Squid Blogging: Pacific Flying Squid Populations Dropping in Korean Waters</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-11-13 22:00</span>
             </div>
         </div>
 </div>
@@ -218,39 +231,12 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/11/Slay-the-Spire-2s-new-character-The-Fool-in-the-new-Blitz-Mode.jpg" alt="Slay The Spire 2′s Latest Update Adds A New Character, Two New Modes, And A Byrdpip Evolution!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/slay-the-spire-2s-latest-update-adds-a-new-character-two-new-modes-and-a-byrdpip-evolution-2000756380" target="_blank">Slay The Spire 2′s Latest Update Adds A New Character, Two New Modes, And A Byrdpip Evolution!</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-11-12 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/PopuPiano-Smart-1200.jpg?fit=1200%2C901&amp;quality=60&amp;ssl=1" alt="Give the gift of music with this PopuPiano keyboard bundle for $336" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/03/shutterstock_1055129501.jpg?fit=1200%2C801&amp;quality=60&amp;ssl=1" alt="FAA orders nationwide ground stop: please do not call it &quot;AI&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/11/12/give-the-gift-of-music-with-this-popupiano-keyboard-bundle-for-336.html" target="_blank">Give the gift of music with this PopuPiano keyboard bundle for $336</a></span>
+                <span class="title"><a href="https://boingboing.net/2026/11/13/faa-nationwide-ground-stop-mullin-si.html" target="_blank">FAA orders nationwide ground stop: please do not call it &quot;AI&quot;</a></span>
                 <span class="feed">Boing Boing</span>
-                <span class="time">2026-11-12 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/11/JENSEN-SURPRISE-1280x708.jpg" alt="A-One, A Two-Hoo, A-Three…" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/a-one-a-two-hoo-a-three-2000756353" target="_blank">A-One, A Two-Hoo, A-Three…</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-11-12 20:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M78P4V49B289VT4HX72EYC0S/hero-image.jpg" alt="These Beats Solo 4 Headphones Are 65% Off During Walmart&#x27;s Early Black Friday Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/beats-solo-4-headphones-walmart-early-black-friday-2026?utm_medium=RSS" target="_blank">These Beats Solo 4 Headphones Are 65% Off During Walmart&#x27;s Early Black Friday Sale</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-11-12 20:30</span>
+                <span class="time">2026-11-13 22:50</span>
             </div>
         </div>
 </div>
@@ -290,8 +276,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 37 | 📡 Total Sources: 40 | 📸 With Images: 269 |
-        🔄 Last Updated: 18:14 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 26 | 📡 Total Sources: 40 | 📸 With Images: 270 |
+        🔄 Last Updated: 23:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
