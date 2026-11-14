@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-11-14 18:34:00 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-11-14 22:47:21 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 10 new posts out of 29 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Saturday, November 14, 2026 - 18:34 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, November 14, 2026 - 22:47 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +107,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch" target="_blank">Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-11-14 21:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/" target="_blank">Got an iPhone Duo? These 9 settings make it easier to use</a></span>
                 <span class="feed">TechCrunch</span>
@@ -151,15 +158,6 @@
                 <span class="time">2026-11-14 01:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/" target="_blank">Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-11-13 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,9 +167,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ronanhalewood782/signed-documents-select-object-storage-apis-for-secure-browser-direct-uploads-jn6" target="_blank">Signed Documents: Select Object Storage APIs for Secure Browser Direct Uploads</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-11-14 22:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/sharathjapa/systems-blueprint-rea-bench-benchmarking-responsible-agent-auditing-19ol" target="_blank">Systems Blueprint: ReA-Bench: Benchmarking Responsible Agent Auditing</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-11-14 18:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.crissyfield.de/research/lovable-en/" target="_blank">Lovable apps expose passport details and more than 200K private messages</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-11-14 17:43</span>
             </div>
         </div>
 <div class="story">
@@ -193,44 +209,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://res.infoq.com/news/2026/11/nodejs-debounce-throttle/en/headerimage/generatedHeaderImage-1794593143949.jpg" alt="Node.js Brings Debounce, Throttle, and PKCS#12 Parsing Into Core Modules" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/11/nodejs-debounce-throttle/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Node.js Brings Debounce, Throttle, and PKCS#12 Parsing Into Core Modules</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-11-14 08:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/11/jottacloud-linux-mascot.webp?resize=406%2C232&amp;ssl=1" alt="Norway’s Dropbox Rival Jottacloud is making a Linux app" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/11/jottacloud-linux-app-coming-soon" target="_blank">Norway’s Dropbox Rival Jottacloud is making a Linux app</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-11-14 03:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/ggml-org/ggml/releases/tag/v1.0.0" target="_blank">Ggml v1.0.0</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-11-14 02:28</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-pacific-flying-squid-populations-dropping-in-korean-waters.html" target="_blank">Friday Squid Blogging: Pacific Flying Squid Populations Dropping in Korean Waters</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-11-13 22:00</span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17524498/open-source-anti-ai-sentiment" target="_blank">Open Source’s Anti-AI Sentiment Has Real Reasons, and So Does The Other Side</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-11-14 11:52</span>
             </div>
         </div>
 </div>
@@ -238,6 +222,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/The-Ultimate-Microsoft-Office-Professional-2021-for-Windows.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Two sides of your Windows PC, covered for $38.39" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/11/14/two-sides-of-your-windows-pc-covered-for-38-39.html" target="_blank">Two sides of your Windows PC, covered for $38.39</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-11-14 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/11/pokemangafishing-1280x857.jpg" alt="Long-Lost, Self-Deleting Pokémon Fishing Game For Nintendo DS Resurfaces 20 Years Later" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/long-lost-self-deleting-pokemon-fishing-game-for-nintendo-ds-resurfaces-20-years-later-2000756876" target="_blank">Long-Lost, Self-Deleting Pokémon Fishing Game For Nintendo DS Resurfaces 20 Years Later</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-11-14 21:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01M7BE8Q8NVPPMAYDSMTTXET1T/hero-image.jpg" alt="How to Check Your Flight Status After the FAA Canceled the Ground Stop for All Airports" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,12 +273,12 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
-            
+            <img src="https://www.smbc-comics.com/comics/1794620545-20261114.png" alt="Saturday Morning Breakfast Cereal - Field" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/11/13/huang-bang" target="_blank">Huang Bang</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-11-13 19:47</span>
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/field" target="_blank">Saturday Morning Breakfast Cereal - Field</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-11-14 16:20</span>
             </div>
         </div>
 </div>
@@ -284,8 +286,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 33 | 📡 Total Sources: 40 | 📸 With Images: 267 |
-        🔄 Last Updated: 18:34 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 35 | 📡 Total Sources: 40 | 📸 With Images: 266 |
+        🔄 Last Updated: 22:47 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
