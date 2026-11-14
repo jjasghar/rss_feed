@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-11-14 12:39:05 UTC -->
+<!-- Processing 54 RSS feeds at 2026-11-14 18:34:00 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 28 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 10 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, November 14, 2026 - 12:39 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Saturday, November 14, 2026 - 18:34 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +51,42 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/11/14/us-blames-system-upgrade-for-longest-nationwide-faa-ground-stop-since-9?traffic_source=rss" target="_blank">US blames system upgrade for longest nationwide FAA ground stop since 9/11</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-11-14 18:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce07/live/190ced90-e04c-11f1-88e1-eb4e155225b3.jpg" alt="Copper wire upgrade caused nationwide flight suspension, US transport secretary says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss" target="_blank">Copper wire upgrade caused nationwide flight suspension, US transport secretary says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-14 17:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel" target="_blank">FAA blames Friday&#x27;s ground stop on &#x27;equipment issue&#x27; during telecoms network upgrade</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-11-14 16:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/11/1920x1080/skynews-zelenskyy-dublin_7406411.jpg?20261114133024" alt="US asked if Ukraine would give up parts of Donbas for NATO membership, Zelenskyy says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/us-asks-if-ukraine-would-give-up-parts-of-donbas-for-nato-membership-zelenskyy-says-13612188" target="_blank">US asked if Ukraine would give up parts of Donbas for NATO membership, Zelenskyy says</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-11-14 13:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect?traffic_source=rss" target="_blank">Trump-Xi-Putin trilateral meeting at APEC: What to expect</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-11-14 12:14</span>
@@ -65,47 +101,29 @@
                 <span class="time">2026-11-14 12:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/plane-schedule-rt-jt-261113_1794609304473_hpMain_4x3t_384.jpg" alt="FAA ground stop live updates: More than 12,500 flights canceled Friday and Saturday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/live-updates/faa-ground-stop-live-updates-hundreds-flights-canceled/?id=138125140" target="_blank">FAA ground stop live updates: More than 12,500 flights canceled Friday and Saturday</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-11-14 11:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg" alt="What we know about the ground stop and what to do if you&#x27;re affected" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss" target="_blank">What we know about the ground stop and what to do if you&#x27;re affected</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-14 07:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins" target="_blank">Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-11-14 05:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/11/14/lagos-art-week-confronts-history-identity-and-belonging?traffic_source=rss" target="_blank">Lagos Art Week confronts history, identity and belonging</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-11-14 04:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/" target="_blank">Got an iPhone Duo? These 9 settings make it easier to use</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-11-14 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire" target="_blank">Work to replace old copper wire led to the FAA’s ground stop</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-11-14 17:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-1-500x500.jpeg" alt="James Webb telescope finds ice older than the star it orbits" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,29 +160,29 @@
                 <span class="time">2026-11-13 23:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable" target="_blank">You can adjust the position of the trackball on Keychron’s new wireless mouse</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-11-13 18:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-destination-500x500.jpg" alt="OpenAI board member worries an AI &quot;takeover&quot; of society could be months away" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/" target="_blank">OpenAI board member worries an AI &quot;takeover&quot; of society could be months away</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-11-13 17:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sharathjapa/systems-blueprint-rea-bench-benchmarking-responsible-agent-auditing-19ol" target="_blank">Systems Blueprint: ReA-Bench: Benchmarking Responsible Agent Auditing</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-11-14 18:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Redox-OS-Golang-GIMP" target="_blank">Redox OS Gets Golang Working, GIMP Ported &amp; Simplified AI Policy</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-11-14 16:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -184,39 +202,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/11/jottacloud-linux-mascot.webp?resize=406%2C232&amp;ssl=1" alt="Norway’s Dropbox Rival Jottacloud is making a Linux app" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/11/jottacloud-linux-app-coming-soon" target="_blank">Norway’s Dropbox Rival Jottacloud is making a Linux app</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-11-14 03:55</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://github.com/ggml-org/ggml/releases/tag/v1.0.0" target="_blank">Ggml v1.0.0</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-11-14 02:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Wine-11.22-Released" target="_blank">Wine 11.22 Introduces x86 AVX Emulation On ARM64</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-11-14 01:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Cloudflare-Kitesurf-Open-Source" target="_blank">Cloudflare Open Sources Kitesurf: Their Web Browser For AI Agents</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-11-13 21:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/11/13/your-coding-agent-shouldn-t-grade-its-own-homework/" target="_blank">Your coding agent shouldn&#x27;t grade its own homework</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-11-13 17:27</span>
             </div>
         </div>
 </div>
@@ -279,22 +279,13 @@
                 <span class="time">2026-11-13 19:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1794451841-20261113.png" alt="Saturday Morning Breakfast Cereal - AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/ai-18" target="_blank">Saturday Morning Breakfast Cereal - AI</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-11-13 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 32 | 📡 Total Sources: 40 | 📸 With Images: 270 |
-        🔄 Last Updated: 12:39 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 33 | 📡 Total Sources: 40 | 📸 With Images: 267 |
+        🔄 Last Updated: 18:34 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
