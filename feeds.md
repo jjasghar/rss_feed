@@ -1,29 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-11-13 23:59:40 UTC -->
+<!-- Processing 54 RSS feeds at 2026-11-14 05:17:46 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 21 feeds processed -->
+<!-- Generated 13 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Friday, November 13, 2026 - 23:59 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Saturday, November 14, 2026 - 05:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,12 +46,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins" target="_blank">Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-11-14 05:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/11/14/lagos-art-week-confronts-history-identity-and-belonging?traffic_source=rss" target="_blank">Lagos Art Week confronts history, identity and belonging</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-11-14 04:46</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/plane-03-rt-jt-261113_1794608335759_hpMain_4x3t_384.jpg" alt="FAA ground stop live updates: 1,000 flights canceled, no indication a &#x27;nefarious&#x27; act" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/US/live-updates/faa-ground-stop-live-updates-hundreds-flights-canceled/?id=138125140" target="_blank">FAA ground stop live updates: 1,000 flights canceled, no indication a &#x27;nefarious&#x27; act</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-11-13 23:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a5e/live/65a2f270-dfad-11f1-be1f-9dae57fabf82.jpg" alt="&#x27;Miracle on Mississippi&#x27; - All passengers rescued after New Orleans cruise ship collision" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Miracle on Mississippi&#x27; - All passengers rescued after New Orleans cruise ship collision</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-13 23:40</span>
             </div>
         </div>
 <div class="story">
@@ -66,38 +99,20 @@
                 <span class="time">2026-11-13 18:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg" alt="Why is Microsoft&#x27;s outage lasting so long and will emails be lost?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss" target="_blank">Why is Microsoft&#x27;s outage lasting so long and will emails be lost?</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-13 17:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/11/13/the-fight-over-canadian-steelworker-jobs?traffic_source=rss" target="_blank">The fight over Canadian steelworker jobs</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-11-13 17:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d86/live/54377b90-df86-11f1-b441-2b33b063138f.jpg" alt="Police investigating David Walliams over reports alleging serious sexual offences" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss" target="_blank">Police investigating David Walliams over reports alleging serious sexual offences</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-13 16:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6af796575e4ca9026ac50e15/master/pass/Air-Traffic-Outage-Wasnt-AI-Gear-2239205748.jpg" alt="The FAA Nationwide Ground Stop Is Over" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-faa-nationwide-ground-stop-is-over/" target="_blank">The FAA Nationwide Ground Stop Is Over</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-11-14 01:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -126,28 +141,19 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media.wired.com/photos/6af6533dc5d481da1362b330/master/pass/Petition-Bring-Back-Jensen-Business-2299493060.jpg" alt="‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/" target="_blank">‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-11-13 01:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang" target="_blank">Donald Trump really wants Tim Cook to run Nvidia</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-11-13 00:46</span>
-            </div>
-        </div>
-<div class="story">
             <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Lego&#x27;s BrickLink Marketplace Back Online After Week-Long Outage Caused By &#x27;Cyber Incident&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-comments"></span>
                 <span class="title"><a href="https://tech.slashdot.org/story/26/11/13/2053209/legos-bricklink-marketplace-back-online-after-week-long-outage-caused-by-cyber-incident?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Lego&#x27;s BrickLink Marketplace Back Online After Week-Long Outage Caused By &#x27;Cyber Incident&#x27;</a></span>
+                <span class="feed">Slashdot</span>
+                
+            </div>
+        </div>
+<div class="story">
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Whoop Launches a Social Network Where Every User Has a &#x27;Verified Heartbeat&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://tech.slashdot.org/story/26/11/13/0135237/whoop-launches-a-social-network-where-every-user-has-a-verified-heartbeat?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Whoop Launches a Social Network Where Every User Has a &#x27;Verified Heartbeat&#x27;</a></span>
                 <span class="feed">Slashdot</span>
                 
             </div>
@@ -160,10 +166,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/ggml-org/ggml/releases/tag/v1.0.0" target="_blank">Ggml v1.0.0</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-11-14 02:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wine-11.22-Released" target="_blank">Wine 11.22 Introduces x86 AVX Emulation On ARM64</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-11-14 01:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Cloudflare-Kitesurf-Open-Source" target="_blank">Cloudflare Open Sources Kitesurf: Their Web Browser For AI Agents</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-11-13 21:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/11/13/your-coding-agent-shouldn-t-grade-its-own-homework/" target="_blank">Your coding agent shouldn&#x27;t grade its own homework</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-11-13 17:27</span>
             </div>
         </div>
 <div class="story">
@@ -178,37 +211,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/11/13/agentic-doesn-t-find-pages-it-assembles-answers/" target="_blank">Agentic search doesn&#x27;t find pages, it assembles answers</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-11-13 08:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2019/06/pinebook-ubuntu-mate.jpg?resize=406%2C232&amp;ssl=1" alt="Polo is a Wayland compositor for the MATE desktop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/11/mate-wayland-compositor-polo" target="_blank">Polo is a Wayland compositor for the MATE desktop</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-11-13 02:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ngfmuf7w5flp0lzdk25.jpg" alt="Krestianstvo Abstract Holographic Computer: Bose–Einstein condensates and Fermionic superfluids." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nikolaysuslov/krestianstvo-abstract-holographic-computer-bose-einstein-condensates-and-fermionic-superfluids-1m91" target="_blank">Krestianstvo Abstract Holographic Computer: Bose–Einstein condensates and Fermionic superfluids.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-11-13 02:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Codex-R600-UVD-FIx-Linux-7.5" target="_blank">OpenAI Codex Helps Uncover &amp; Fix A Nearly 20 Year Old Radeon Linux Driver Bug</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-11-13 01:41</span>
+                <span class="title"><a href="https://ubuntu.com//blog/from-desktop-to-cloud-to-road" target="_blank">From desktop to cloud to road</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-11-13 09:31</span>
             </div>
         </div>
 </div>
@@ -231,6 +237,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M7BE8Q8NVPPMAYDSMTTXET1T/hero-image.jpg" alt="How to Check Your Flight Status After the FAA Canceled the Ground Stop for All Airports" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/how-to-check-your-flight-status-faa-ground-stop?utm_medium=RSS" target="_blank">How to Check Your Flight Status After the FAA Canceled the Ground Stop for All Airports</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-11-14 01:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/11/microsoft-sflight-sim-1280x720.jpg" alt="Microsoft On FAA Ground Stop: It Wasn’t Me" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/microsoft-on-faa-ground-stop-it-wasnt-me-2000756749" target="_blank">Microsoft On FAA Ground Stop: It Wasn’t Me</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-11-13 23:24</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/03/shutterstock_1055129501.jpg?fit=1200%2C801&amp;quality=60&amp;ssl=1" alt="FAA orders nationwide ground stop: please do not call it &quot;AI&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -248,27 +272,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/11/13/huang-bang" target="_blank">Huang Bang</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-11-13 19:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1794451841-20261113.png" alt="Saturday Morning Breakfast Cereal - AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/ai-18" target="_blank">Saturday Morning Breakfast Cereal - AI</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-11-13 16:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://www.penny-arcade.com/comic/2026/11/13/huang-bang" target="_blank">Huang Bang</a></span>
                 <span class="feed">Penny Arcade</span>
                 <span class="time">2026-11-13 08:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/ultimate_movie_series.png" alt="Ultimate Movie Series" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3324/" target="_blank">Ultimate Movie Series</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-11-13 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5960.png" alt="C14L1$" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5960" target="_blank">C14L1$</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-11-13 01:53</span>
             </div>
         </div>
 </div>
@@ -276,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 26 | 📡 Total Sources: 40 | 📸 With Images: 270 |
-        🔄 Last Updated: 23:59 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 29 | 📡 Total Sources: 40 | 📸 With Images: 269 |
+        🔄 Last Updated: 05:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
