@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-11-15 02:13:50 UTC -->
+<!-- Processing 54 RSS feeds at 2026-11-15 10:04:48 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Sunday, November 15, 2026 - 02:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Sunday, November 15, 2026 - 10:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families" target="_blank">New Mexico wanted free childcare for all. This is what&#x27;s worked — and what hasn&#x27;t</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-11-15 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/11/15/protesters-condemn-us-policies-as-asean-summit-begins-in-manila?traffic_source=rss" target="_blank">Protesters condemn US policies as ASEAN summit begins in Manila</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-11-15 09:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc82/live/f8afbeb0-e087-11f1-b780-31cc9daf154a.jpg" alt="US has floated Ukraine ceding Donbas for Nato membership, Zelensky says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss" target="_blank">US has floated Ukraine ceding Donbas for Nato membership, Zelensky says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-14 22:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,33 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel" target="_blank">FAA blames Friday&#x27;s ground stop on &#x27;equipment issue&#x27; during telecoms network upgrade</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-11-14 16:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/11/1920x1080/skynews-zelenskyy-dublin_7406411.jpg?20261114133024" alt="US asked if Ukraine would give up parts of Donbas for NATO membership, Zelenskyy says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/us-asks-if-ukraine-would-give-up-parts-of-donbas-for-nato-membership-zelenskyy-says-13612188" target="_blank">US asked if Ukraine would give up parts of Donbas for NATO membership, Zelenskyy says</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-11-14 13:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect?traffic_source=rss" target="_blank">Trump-Xi-Putin trilateral meeting at APEC: What to expect</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-11-14 12:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee34/live/00e38c90-dfea-11f1-93e1-3b657b665bcf.jpg" alt="Young people should have legal guarantee of job or training, Milburn tells BBC" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss" target="_blank">Young people should have legal guarantee of job or training, Milburn tells BBC</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-14 12:05</span>
             </div>
         </div>
 </div>
@@ -165,9 +168,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/robswierk/two-etsy-listings-expired-and-dropped-out-of-the-catalogue-1n1o" target="_blank">Two Etsy listings expired and dropped out of the catalogue</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-11-15 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/extensionbooster/chrome-extension-landing-page-6-blocks-that-drive-installs-3f6m" target="_blank">Chrome Extension Landing Page: 6 Blocks That Drive Installs</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-11-15 02:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/09/Ubuntu-Security-Bug.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu Pro users can get early access to AI-written security fixes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/11/ubuntu-pro-ai-security-archive" target="_blank">Ubuntu Pro users can get early access to AI-written security fixes</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-11-15 01:55</span>
             </div>
         </div>
 <div class="story">
@@ -195,24 +216,6 @@
                 <span class="title"><a href="https://www.spacex.com/launches/starship-flight-15" target="_blank">SpaceX catches the Starship to end Flight 15</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-11-14 21:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sharathjapa/systems-blueprint-rea-bench-benchmarking-responsible-agent-auditing-19ol" target="_blank">Systems Blueprint: ReA-Bench: Benchmarking Responsible Agent Auditing</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-11-14 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.crissyfield.de/research/lovable-en/" target="_blank">Lovable apps expose passport details and more than 200K private messages</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-11-14 17:43</span>
             </div>
         </div>
 </div>
@@ -257,8 +260,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 21 | 📅 Last 24h: 31 | 📡 Total Sources: 40 | 📸 With Images: 265 |
-        🔄 Last Updated: 02:13 UTC
+        📊 Displayed: 21 | 📅 Last 24h: 30 | 📡 Total Sources: 40 | 📸 With Images: 266 |
+        🔄 Last Updated: 10:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
