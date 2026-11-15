@@ -1,38 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-11-15 17:28:56 UTC -->
+<!-- Processing 54 RSS feeds at 2026-11-15 22:14:05 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 29 feeds processed -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, November 15, 2026 - 17:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Sunday, November 15, 2026 - 22:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +51,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/11/15/nx-s1-6013327/sydney-sweeney-jeans-american-eagle-garment-industry" target="_blank">Sydney Sweeney has great jeans. Who made them? (Psst: Workers)</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-11-15 22:07</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/786b/live/57899d60-e0f2-11f1-a701-fddedf244c16.jpg" alt="Staggered age of consent to be discussed after Brand case, minister says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -64,6 +75,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/15/somalia-we-would-not-have-recovered-without-the-international-community?traffic_source=rss" target="_blank">Somalia: We would not have recovered without the international community</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-11-15 16:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1794752896766_mtp_clip_duffybipartisan_261115_S3_1920x1080-s0b5lt.jpg" alt="Sec. Duffy says ‘I can’t apologize’ for decades-old air traffic control infrastructure" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/sec-duffy-says-i-can-t-apologize-for-decades-old-air-traffic-control-infrastructure-273548869867" target="_blank">Sec. Duffy says ‘I can’t apologize’ for decades-old air traffic control infrastructure</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-11-15 14:28</span>
             </div>
         </div>
 <div class="story">
@@ -84,29 +104,29 @@
                 <span class="time">2026-11-15 09:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc82/live/f8afbeb0-e087-11f1-b780-31cc9daf154a.jpg" alt="US has floated Ukraine ceding Donbas for Nato membership, Zelensky says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss" target="_blank">US has floated Ukraine ceding Donbas for Nato membership, Zelensky says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-14 22:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/11/14/us-blames-system-upgrade-for-longest-nationwide-faa-ground-stop-since-9?traffic_source=rss" target="_blank">US blames system upgrade for longest nationwide FAA ground stop since 9/11</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-11-14 18:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/" target="_blank">Is bad news for Jensen Huang also bad news for the AI industry?</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-11-15 21:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review" target="_blank">Listen to this: Armand Hammer’s Snakes &amp;#038; Ladders</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-11-15 21:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -135,30 +155,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Siri Glitches Ruin Reviewer&#x27;s Test of Apple&#x27;s New &#x27;HomeView&#x27; Smart Speaker" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch" target="_blank">Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-11-14 21:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/" target="_blank">Got an iPhone Duo? These 9 settings make it easier to use</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-11-14 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire" target="_blank">Work to replace old copper wire led to the FAA’s ground stop</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-11-14 17:44</span>
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://apple.slashdot.org/story/26/11/15/2151238/siri-glitches-ruin-reviewers-test-of-apples-new-homeview-smart-speaker?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Siri Glitches Ruin Reviewer&#x27;s Test of Apple&#x27;s New &#x27;HomeView&#x27; Smart Speaker</a></span>
+                <span class="feed">Slashdot</span>
+                
             </div>
         </div>
 </div>
@@ -166,6 +168,15 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/11/uber-secure-ai-framework/en/headerimage/uber-open-search-semantic-1794769460527.jpeg" alt="Uber&#x27;s Secure AI Framework Governs Autonomous AI Agents Across Their Lifecycle" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/11/uber-secure-ai-framework/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Uber&#x27;s Secure AI Framework Governs Autonomous AI Agents Across Their Lifecycle</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-11-15 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,20 +222,20 @@
                 <span class="time">2026-11-15 09:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/extensionbooster/chrome-extension-landing-page-6-blocks-that-drive-installs-3f6m" target="_blank">Chrome Extension Landing Page: 6 Blocks That Drive Installs</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-11-15 02:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/11/towersofbable.jpg" alt="Universal Paperclips Creator Blends Scrabble And Strategy In Towers Of Babble" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/universal-paperclips-creator-blends-scrabble-and-strategy-in-towers-of-babble-2000757126" target="_blank">Universal Paperclips Creator Blends Scrabble And Strategy In Towers Of Babble</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-11-15 22:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/11/austincreedpowerglove-1280x863.jpg" alt="Wrestler Austin Creed Unleashes The Nintendo Power Glove During AEW Full Gear" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -234,31 +245,13 @@
                 <span class="time">2026-11-15 16:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/The-Ultimate-Microsoft-Office-Professional-2021-for-Windows.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Two sides of your Windows PC, covered for $38.39" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/11/14/two-sides-of-your-windows-pc-covered-for-38-39.html" target="_blank">Two sides of your Windows PC, covered for $38.39</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-11-14 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/11/pokemangafishing-1280x857.jpg" alt="Long-Lost, Self-Deleting Pokémon Fishing Game For Nintendo DS Resurfaces 20 Years Later" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/long-lost-self-deleting-pokemon-fishing-game-for-nintendo-ds-resurfaces-20-years-later-2000756876" target="_blank">Long-Lost, Self-Deleting Pokémon Fishing Game For Nintendo DS Resurfaces 20 Years Later</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-11-14 21:47</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 21 | 📅 Last 24h: 27 | 📡 Total Sources: 40 | 📸 With Images: 264 |
-        🔄 Last Updated: 17:29 UTC
+        📊 Displayed: 20 | 📅 Last 24h: 24 | 📡 Total Sources: 40 | 📸 With Images: 266 |
+        🔄 Last Updated: 22:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
