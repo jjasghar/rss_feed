@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-11-14 22:47:21 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-11-15 02:13:50 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, November 14, 2026 - 22:47 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Sunday, November 15, 2026 - 02:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +103,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304631389-500x500.jpg" alt="SpaceX returned its Starship rocket on Saturday—but there&#x27;s a catch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/" target="_blank">SpaceX returned its Starship rocket on Saturday—but there&#x27;s a catch</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-11-15 00:40</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -149,15 +156,6 @@
                 <span class="time">2026-11-14 12:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6af796575e4ca9026ac50e15/master/pass/Air-Traffic-Outage-Wasnt-AI-Gear-2239205748.jpg" alt="The FAA Nationwide Ground Stop Is Over" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-faa-nationwide-ground-stop-is-over/" target="_blank">The FAA Nationwide Ground Stop Is Over</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-11-14 01:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,9 +165,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/extensionbooster/chrome-extension-landing-page-6-blocks-that-drive-installs-3f6m" target="_blank">Chrome Extension Landing Page: 6 Blocks That Drive Installs</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-11-15 02:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/09/Ubuntu-Security-Bug.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu Pro users get early access to AI-written security fixes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/11/ubuntu-pro-ai-security-archive" target="_blank">Ubuntu Pro users get early access to AI-written security fixes</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-11-15 01:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ronanhalewood782/signed-documents-select-object-storage-apis-for-secure-browser-direct-uploads-jn6" target="_blank">Signed Documents: Select Object Storage APIs for Secure Browser Direct Uploads</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-11-14 22:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.spacex.com/launches/starship-flight-15" target="_blank">SpaceX catches the Starship to end Flight 15</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-11-14 21:22</span>
             </div>
         </div>
 <div class="story">
@@ -188,33 +213,6 @@
                 <span class="title"><a href="https://www.crissyfield.de/research/lovable-en/" target="_blank">Lovable apps expose passport details and more than 200K private messages</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-11-14 17:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Redox-OS-Golang-GIMP" target="_blank">Redox OS Gets Golang Working, GIMP Ported &amp; Simplified AI Policy</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-11-14 16:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/suraj_khaitan_f893c243958/claude-duet-messages-you-first-that-changes-who-is-in-control-3n74" target="_blank">Claude Duet Messages You First. That Changes Who Is in Control.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-11-14 12:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17524498/open-source-anti-ai-sentiment" target="_blank">Open Source’s Anti-AI Sentiment Has Real Reasons, and So Does The Other Side</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-11-14 11:52</span>
             </div>
         </div>
 </div>
@@ -240,33 +238,6 @@
                 <span class="time">2026-11-14 21:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M7BE8Q8NVPPMAYDSMTTXET1T/hero-image.jpg" alt="How to Check Your Flight Status After the FAA Canceled the Ground Stop for All Airports" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/how-to-check-your-flight-status-faa-ground-stop?utm_medium=RSS" target="_blank">How to Check Your Flight Status After the FAA Canceled the Ground Stop for All Airports</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-11-14 01:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/11/microsoft-sflight-sim-1280x720.jpg" alt="Microsoft On FAA Ground Stop: It Wasn’t Me" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/microsoft-on-faa-ground-stop-it-wasnt-me-2000756749" target="_blank">Microsoft On FAA Ground Stop: It Wasn’t Me</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-11-13 23:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/03/shutterstock_1055129501.jpg?fit=1200%2C801&amp;quality=60&amp;ssl=1" alt="FAA orders nationwide ground stop: please do not call it &quot;AI&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/11/13/faa-nationwide-ground-stop-mullin-si.html" target="_blank">FAA orders nationwide ground stop: please do not call it &quot;AI&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-11-13 22:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -286,8 +257,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 35 | 📡 Total Sources: 40 | 📸 With Images: 266 |
-        🔄 Last Updated: 22:47 UTC
+        📊 Displayed: 21 | 📅 Last 24h: 31 | 📡 Total Sources: 40 | 📸 With Images: 265 |
+        🔄 Last Updated: 02:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
