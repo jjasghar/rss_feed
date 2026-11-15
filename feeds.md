@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-11-15 10:04:48 UTC -->
+<!-- Processing 54 RSS feeds at 2026-11-15 17:28:56 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, November 15, 2026 - 10:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, November 15, 2026 - 17:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/786b/live/57899d60-e0f2-11f1-a701-fddedf244c16.jpg" alt="Staggered age of consent to be discussed after Brand case, minister says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cwdr1dmn563do?at_medium=RSS&at_campaign=rss" target="_blank">Staggered age of consent to be discussed after Brand case, minister says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-15 17:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/15/somalia-we-would-not-have-recovered-without-the-international-community?traffic_source=rss" target="_blank">Somalia: We would not have recovered without the international community</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-11-15 16:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +102,29 @@
                 <span class="time">2026-11-14 18:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce07/live/190ced90-e04c-11f1-88e1-eb4e155225b3.jpg" alt="Copper wire upgrade caused nationwide flight suspension, US transport secretary says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss" target="_blank">Copper wire upgrade caused nationwide flight suspension, US transport secretary says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-14 17:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel" target="_blank">FAA blames Friday&#x27;s ground stop on &#x27;equipment issue&#x27; during telecoms network upgrade</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-11-14 16:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/1033620/fantikk-s1-pro-electric-screwdriver-black-friday-2026-deal-sale" target="_blank">Fanttik’s S1 Pro electric screwdriver is $40 off in the run-up to Black Friday</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-11-15 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6af7de304c1f7b55abfd9851/master/pass/I%E2%80%99ve-Tested-Dozens-of-Planners.-These-Are-the-Best-Ones.jpg" alt="The 4 Best Planners of 2027: Roterunner, Hobonichi, Cloth &amp; Paper" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-paper-planners/" target="_blank">The 4 Best Planners of 2027: Roterunner, Hobonichi, Cloth &amp; Paper</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-11-15 12:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304631389-500x500.jpg" alt="SpaceX returned its Starship rocket on Saturday—but there&#x27;s a catch" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,24 +161,6 @@
                 <span class="time">2026-11-14 17:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-1-500x500.jpeg" alt="James Webb telescope finds ice older than the star it orbits" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/" target="_blank">James Webb telescope finds ice older than the star it orbits</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-11-14 12:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6af78dee04380d6fbf425df6/master/pass/The-Best-Digital-Notebooks-and-Smart-Pens.jpg" alt="I Put the Best Digital Notebooks to the Test. Here Are My Favorites (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/" target="_blank">I Put the Best Digital Notebooks to the Test. Here Are My Favorites (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-11-14 12:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,10 +169,46 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://jakub.jankiewicz.org/blog/ai-code-open-source/" target="_blank">All AI-generated code should be Open Source</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-11-15 14:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-Hybrid-Capacity-Aware-Sched" target="_blank">AMD Posts Linux Patches For Capacity Aware Scheduling On Hybrid CPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-11-15 14:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17524990/ziggity-git-client" target="_blank">Ziggity is a Helpful Tool for Power Users Who Still Use Git Manually</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-11-15 11:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/robswierk/two-etsy-listings-expired-and-dropped-out-of-the-catalogue-1n1o" target="_blank">Two Etsy listings expired and dropped out of the catalogue</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-11-15 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/11/claude-code-review/en/headerimage/generatedHeaderImage-1794735663601.jpg" alt="Anthropic Outlines Its AI-Powered Code Review Process for Claude Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/11/claude-code-review/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Anthropic Outlines Its AI-Powered Code Review Process for Claude Code</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-11-15 09:55</span>
             </div>
         </div>
 <div class="story">
@@ -182,47 +220,20 @@
                 <span class="time">2026-11-15 02:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/09/Ubuntu-Security-Bug.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu Pro users can get early access to AI-written security fixes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/11/ubuntu-pro-ai-security-archive" target="_blank">Ubuntu Pro users can get early access to AI-written security fixes</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-11-15 01:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/09/Ubuntu-Security-Bug.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu Pro users get early access to AI-written security fixes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/11/ubuntu-pro-ai-security-archive" target="_blank">Ubuntu Pro users get early access to AI-written security fixes</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-11-15 01:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ronanhalewood782/signed-documents-select-object-storage-apis-for-secure-browser-direct-uploads-jn6" target="_blank">Signed Documents: Select Object Storage APIs for Secure Browser Direct Uploads</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-11-14 22:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.spacex.com/launches/starship-flight-15" target="_blank">SpaceX catches the Starship to end Flight 15</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-11-14 21:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/11/austincreedpowerglove-1280x863.jpg" alt="Wrestler Austin Creed Unleashes The Nintendo Power Glove During AEW Full Gear" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/wrestler-austin-creed-unleashes-the-nintendo-power-glove-during-aew-full-gear-2000757095" target="_blank">Wrestler Austin Creed Unleashes The Nintendo Power Glove During AEW Full Gear</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-11-15 16:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/The-Ultimate-Microsoft-Office-Professional-2021-for-Windows.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Two sides of your Windows PC, covered for $38.39" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -243,25 +254,11 @@
         </div>
 </div>
 </div>
-<div class="news-section webcomics-section" id="webcomics">
-<h2 class="section-header">🎨 Daily Comics</h2>
-<div class="stories-container">
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1794620545-20261114.png" alt="Saturday Morning Breakfast Cereal - Field" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/field" target="_blank">Saturday Morning Breakfast Cereal - Field</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-11-14 16:20</span>
-            </div>
-        </div>
-</div>
-</div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 21 | 📅 Last 24h: 30 | 📡 Total Sources: 40 | 📸 With Images: 266 |
-        🔄 Last Updated: 10:05 UTC
+        📊 Displayed: 21 | 📅 Last 24h: 27 | 📡 Total Sources: 40 | 📸 With Images: 264 |
+        🔄 Last Updated: 17:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
