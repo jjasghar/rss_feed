@@ -1,40 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-11-15 22:14:05 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-11-16 02:27:24 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 32 feeds processed -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Sunday, November 15, 2026 - 22:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Monday, November 16, 2026 - 02:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,10 +48,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/11/16/pope-condemns-murders-of-perus-indigenous-leaders-deforestation-of-amazon?traffic_source=rss" target="_blank">Pope condemns murders of Peru’s Indigenous leaders, deforestation of Amazon</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-11-16 01:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/11/15/nx-s1-6013327/sydney-sweeney-jeans-american-eagle-garment-industry" target="_blank">Sydney Sweeney has great jeans. Who made them? (Psst: Workers)</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-11-15 22:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bb5/live/938b6e20-e114-11f1-a7db-d90284d21c62.jpg" alt="Zelensky urges US and Musk to lift Starlink restrictions and be on &#x27;right side of history&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky urges US and Musk to lift Starlink restrictions and be on &#x27;right side of history&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-15 19:32</span>
             </div>
         </div>
 <div class="story">
@@ -86,29 +99,20 @@
                 <span class="time">2026-11-15 14:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families" target="_blank">New Mexico wanted free childcare for all. This is what&#x27;s worked — and what hasn&#x27;t</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-11-15 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/11/15/protesters-condemn-us-policies-as-asean-summit-begins-in-manila?traffic_source=rss" target="_blank">Protesters condemn US policies as ASEAN summit begins in Manila</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-11-15 09:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools" target="_blank">Apple’s new study looks to improve the effectiveness of AI health tools</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-11-16 01:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,15 +150,6 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304631389-500x500.jpg" alt="SpaceX returned its Starship rocket on Saturday—but there&#x27;s a catch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/" target="_blank">SpaceX returned its Starship rocket on Saturday—but there&#x27;s a catch</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-11-15 00:40</span>
-            </div>
-        </div>
-<div class="story">
             <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Siri Glitches Ruin Reviewer&#x27;s Test of Apple&#x27;s New &#x27;HomeView&#x27; Smart Speaker" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-comments"></span>
@@ -169,12 +164,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/11/uber-secure-ai-framework/en/headerimage/uber-open-search-semantic-1794769460527.jpeg" alt="Uber&#x27;s Secure AI Framework Governs Autonomous AI Agents across Their Lifecycle" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/11/uber-secure-ai-framework/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Uber&#x27;s Secure AI Framework Governs Autonomous AI Agents across Their Lifecycle</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-11-15 20:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/11/uber-secure-ai-framework/en/headerimage/uber-open-search-semantic-1794769460527.jpeg" alt="Uber&#x27;s Secure AI Framework Governs Autonomous AI Agents Across Their Lifecycle" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
                 <span class="title"><a href="https://www.infoq.com/news/2026/11/uber-secure-ai-framework/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Uber&#x27;s Secure AI Framework Governs Autonomous AI Agents Across Their Lifecycle</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-11-15 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/11/purism-librem-5-v2.webp?resize=406%2C232&amp;ssl=1" alt="Purism announce second-gen Librem 5 Linux phone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/11/librem-5-risc-v-new-linux-phone" target="_blank">Purism announce second-gen Librem 5 Linux phone</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-11-15 18:39</span>
             </div>
         </div>
 <div class="story">
@@ -204,24 +217,6 @@
                 <span class="time">2026-11-15 11:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/robswierk/two-etsy-listings-expired-and-dropped-out-of-the-catalogue-1n1o" target="_blank">Two Etsy listings expired and dropped out of the catalogue</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-11-15 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/11/claude-code-review/en/headerimage/generatedHeaderImage-1794735663601.jpg" alt="Anthropic Outlines Its AI-Powered Code Review Process for Claude Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/11/claude-code-review/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Anthropic Outlines Its AI-Powered Code Review Process for Claude Code</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-11-15 09:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -247,11 +242,25 @@
         </div>
 </div>
 </div>
+<div class="news-section webcomics-section" id="webcomics">
+<h2 class="section-header">🎨 Daily Comics</h2>
+<div class="stories-container">
+<div class="story">
+            <img src="https://www.questionablecontent.net/comics/5961.png" alt="Brun Investigates" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5961" target="_blank">Brun Investigates</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-11-16 01:58</span>
+            </div>
+        </div>
+</div>
+</div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 20 | 📅 Last 24h: 24 | 📡 Total Sources: 40 | 📸 With Images: 266 |
-        🔄 Last Updated: 22:14 UTC
+        📊 Displayed: 21 | 📅 Last 24h: 25 | 📡 Total Sources: 40 | 📸 With Images: 266 |
+        🔄 Last Updated: 02:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
