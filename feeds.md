@@ -1,45 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-11-16 10:18:40 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-11-16 20:43:05 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 36 feeds processed -->
+<!-- Generated 14 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, November 16, 2026 - 10:18 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Monday, November 16, 2026 - 20:43 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/11/16/uefa-backs-diallo-to-challenge-infantino-for-fifa-presidency?traffic_source=rss" target="_blank">UEFA backs Diallo to challenge Infantino for FIFA presidency</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-11-16 20:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1794858708887_now_daily_b_cheung_online_bank_difficulty_261116_S3_1920x1080-bqslch.jpg" alt="Customers report difficulty accessing online Chase accounts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/customers-report-difficulty-accessing-online-chase-accounts-273591877865" target="_blank">Customers report difficulty accessing online Chase accounts</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-11-16 19:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/xi-trump-putin-rt-gmh-261113_1794616739738_hpMain_4x3t_384.jpg" alt="Trump heads to Asia for 2nd high-stakes meeting with Chinese President Xi" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,29 +97,29 @@
                 <span class="time">2026-11-16 09:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0bf/live/84ae2db0-e165-11f1-9e72-69608c7a1547.jpg" alt="Yemeni forces&#x27; retreat leaves Houthis in control of key area on coast of Red Sea waterway" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss" target="_blank">Yemeni forces&#x27; retreat leaves Houthis in control of key area on coast of Red Sea waterway</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-16 07:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/11/16/pope-condemns-murders-of-perus-indigenous-leaders-deforestation-of-amazon?traffic_source=rss" target="_blank">Pope condemns murders of Peru’s Indigenous leaders, deforestation of Amazon</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-11-16 01:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor" target="_blank">Sam Altman says he wants everyone ‘to have a lot of RAM’</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-11-16 20:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6afb4cc16a1af442b6a49972/master/pass/Update--Best-Early-Black-Friday-Espresso-Machine-Deals.jpg" alt="Best Early Black Friday Espresso Machine Deals (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/early-black-friday-coffee-espresso-deals-11-16-2026/" target="_blank">Best Early Black Friday Espresso Machine Deals (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-11-16 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,28 +148,10 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/1033620/fantikk-s1-pro-electric-screwdriver-black-friday-2026-deal-sale" target="_blank">Fanttik’s S1 Pro electric screwdriver is $40 off in the run-up to Black Friday</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-11-15 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6af7de304c1f7b55abfd9851/master/pass/I%E2%80%99ve-Tested-Dozens-of-Planners.-These-Are-the-Best-Ones.jpg" alt="The 4 Best Planners of 2027: Roterunner, Hobonichi, Cloth &amp; Paper" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-paper-planners/" target="_blank">The 4 Best Planners of 2027: Roterunner, Hobonichi, Cloth &amp; Paper</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-11-15 12:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Purism Announces &#x27;Librem 5 v2&#x27; Linux Phone with RISC-V SoC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Apple Eyes 2027 Launch For AI-Powered Smart Glasses" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://mobile.slashdot.org/story/26/11/16/0742226/purism-announces-librem-5-v2-linux-phone-with-risc-v-soc?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Purism Announces &#x27;Librem 5 v2&#x27; Linux Phone with RISC-V SoC</a></span>
+                <span class="title"><a href="https://apple.slashdot.org/story/26/11/16/186242/apple-eyes-2027-launch-for-ai-powered-smart-glasses?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Apple Eyes 2027 Launch For AI-Powered Smart Glasses</a></span>
                 <span class="feed">Slashdot</span>
                 
             </div>
@@ -173,6 +161,33 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda" target="_blank">Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-11-16 18:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/mrdimm-8800-12800-amd-epyc" target="_blank">MRDIMM 8800 MT/s vs. 12800 MT/s Memory Performance With AMD EPYC Venice</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-11-16 15:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://alexwlchan.net/2026/funkycache/" target="_blank">funkycache: a Python library to cache functions in SQLite</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-11-16 13:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,31 +215,18 @@
                 <span class="time">2026-11-16 05:50</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.4-rc3-Released" target="_blank">Linux 7.4-rc3 Released: &quot;The Usual Noise All Over&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-11-15 22:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/11/uber-secure-ai-framework/en/headerimage/uber-open-search-semantic-1794769460527.jpeg" alt="Uber&#x27;s Secure AI Framework Governs Autonomous AI Agents across Their Lifecycle" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/11/uber-secure-ai-framework/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Uber&#x27;s Secure AI Framework Governs Autonomous AI Agents across Their Lifecycle</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-11-15 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/11/uber-secure-ai-framework/en/headerimage/uber-open-search-semantic-1794769460527.jpeg" alt="Uber&#x27;s Secure AI Framework Governs Autonomous AI Agents Across Their Lifecycle" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/11/uber-secure-ai-framework/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Uber&#x27;s Secure AI Framework Governs Autonomous AI Agents Across Their Lifecycle</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-11-15 20:00</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/11/usable-security-at-luxury-hotels.html" target="_blank">Usable Security at Luxury Hotels</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-11-16 12:04</span>
             </div>
         </div>
 </div>
@@ -232,6 +234,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/11/exploding.jpg" alt="Booby-Trapped Video Game Console Explodes At Rival Gaming Store" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/booby-trapped-video-game-console-explodes-at-rival-gaming-store-2000757507" target="_blank">Booby-Trapped Video Game Console Explodes At Rival Gaming Store</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-11-16 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/banana.jpg?fit=1200%2C801&amp;quality=60&amp;ssl=1" alt="Just look at this banana, man!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/11/16/banana-man-linton-indiana.html" target="_blank">Just look at this banana, man!</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-11-16 19:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/11/towersofbable.jpg" alt="Universal Paperclips Creator Blends Scrabble And Strategy In Towers Of Babble" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -241,20 +261,20 @@
                 <span class="time">2026-11-15 22:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/11/austincreedpowerglove-1280x863.jpg" alt="Wrestler Austin Creed Unleashes The Nintendo Power Glove During AEW Full Gear" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/wrestler-austin-creed-unleashes-the-nintendo-power-glove-during-aew-full-gear-2000757095" target="_blank">Wrestler Austin Creed Unleashes The Nintendo Power Glove During AEW Full Gear</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-11-15 16:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1794795615-20261116.png" alt="Saturday Morning Breakfast Cereal - Cats" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/cats-2" target="_blank">Saturday Morning Breakfast Cereal - Cats</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-11-16 16:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.questionablecontent.net/comics/5961.png" alt="Brun Investigates" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,8 +289,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 21 | 📅 Last 24h: 29 | 📡 Total Sources: 40 | 📸 With Images: 268 |
-        🔄 Last Updated: 10:18 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 28 | 📡 Total Sources: 40 | 📸 With Images: 268 |
+        🔄 Last Updated: 20:43 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
