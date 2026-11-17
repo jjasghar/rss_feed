@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-11-16 20:43:05 UTC -->
+<!-- Processing 54 RSS feeds at 2026-11-17 03:16:35 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 14 new posts out of 25 feeds processed -->
+<!-- Generated 10 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Monday, November 16, 2026 - 20:43 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, November 17, 2026 - 03:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +49,42 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field?traffic_source=rss" target="_blank">Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-11-17 03:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261106-Pan-American-Health-Organization-vsb-1757-1ad98e.jpg" alt="U.S. loses measles-elimination status, erasing decades of progress" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/health/health-news/measles-no-longer-eliminated-us-rcna607920" target="_blank">U.S. loses measles-elimination status, erasing decades of progress</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-11-17 00:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-5-ap-gmh-261116_1794841393009_hpMain_4x3t_384.jpg" alt="Trump Asia trip live updates: Logistical hurdles with a Trump-Kim Jong Un meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/live-updates/trump-asia-trip-2026/?id=138187702" target="_blank">Trump Asia trip live updates: Logistical hurdles with a Trump-Kim Jong Un meeting</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-11-16 23:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident" target="_blank">California sues OpenAI over hacking risks</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-11-16 22:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/11/16/uefa-backs-diallo-to-challenge-infantino-for-fifa-presidency?traffic_source=rss" target="_blank">UEFA backs Diallo to challenge Infantino for FIFA presidency</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-11-16 20:20</span>
@@ -61,47 +99,29 @@
                 <span class="time">2026-11-16 19:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/xi-trump-putin-rt-gmh-261113_1794616739738_hpMain_4x3t_384.jpg" alt="Trump heads to Asia for 2nd high-stakes meeting with Chinese President Xi" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-heads-asia-2nd-high-stakes-meeting-chinese/story?id=138059807" target="_blank">Trump heads to Asia for 2nd high-stakes meeting with Chinese President Xi</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-11-16 10:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/11/16/nato-will-collapse-russia-stalls-ukraine-talks-seeks-to-divide-europe?traffic_source=rss" target="_blank">‘NATO will collapse’: Russia stalls Ukraine talks, seeks to divide Europe</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-11-16 10:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261116-reagan-airport-mb-0935-c48bcd.jpg" alt="Air travel starts to normalize after ground stop caused weekend of unprecedented disruption" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/flights-air-traffic-delays-groundstop-faa-duffy-rcna609545" target="_blank">Air travel starts to normalize after ground stop caused weekend of unprecedented disruption</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-11-16 09:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69ea/live/b856ca50-e18d-11f1-93e1-3b657b665bcf.jpg" alt="Create more jobs for under-25s by cutting National Insurance, key report urges" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss" target="_blank">Create more jobs for under-25s by cutting National Insurance, key report urges</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-16 09:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj" target="_blank">Hacker behind 2022 GTA VI leaks pleads guilty</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-11-16 23:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/" target="_blank">Cybersecurity AI startup Corma reaches $1B valuation in about 3 months</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-11-16 23:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -121,30 +141,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="JPMorgan Chase Glitch Disrupts Online Banking Across Major US Banks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools" target="_blank">Apple’s new study looks to improve the effectiveness of AI health tools</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-11-16 01:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/" target="_blank">Is bad news for Jensen Huang also bad news for the AI industry?</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-11-15 21:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review" target="_blank">Listen to this: Armand Hammer’s Snakes &amp;#038; Ladders</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-11-15 21:49</span>
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://news.slashdot.org/story/26/11/16/2332229/jpmorgan-chase-glitch-disrupts-online-banking-across-major-us-banks?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">JPMorgan Chase Glitch Disrupts Online Banking Across Major US Banks</a></span>
+                <span class="feed">Slashdot</span>
+                
             </div>
         </div>
 <div class="story">
@@ -173,10 +175,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17525729/microsofts-outage-reaction" target="_blank">Microsoft’s Outage Shows the Cost of One Vendor Running Everything</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-11-16 16:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/review/mrdimm-8800-12800-amd-epyc" target="_blank">MRDIMM 8800 MT/s vs. 12800 MT/s Memory Performance With AMD EPYC Venice</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-11-16 15:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/software-engineering-after-code-becomes" target="_blank">Software engineering after code becomes cheap with Satya Nadella</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-11-16 13:33</span>
             </div>
         </div>
 <div class="story">
@@ -195,24 +215,6 @@
                 <span class="title"><a href="https://dev.to/mir_arshadalitalpur_1b3/how-to-pass-an-enterprise-ai-security-review-build-an-evidence-pack-that-closes-deals-1o5m" target="_blank">How to Pass an Enterprise AI Security Review: Build an Evidence Pack That Closes Deals</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-11-16 10:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/11/aws-nitro-sandboxes-eks/en/headerimage/generatedHeaderImage-1794301940782.jpg" alt="AWS Nitro Sandboxes Put Each EKS Pod in Its Own MicroVM with One RuntimeClass Field" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/11/aws-nitro-sandboxes-eks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Nitro Sandboxes Put Each EKS Pod in Its Own MicroVM with One RuntimeClass Field</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-11-16 09:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://pub.cba.mit.edu/863.26/site/" target="_blank">How to make almost anything</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-11-16 05:50</span>
             </div>
         </div>
 </div>
@@ -252,15 +254,6 @@
                 <span class="time">2026-11-16 19:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/11/towersofbable.jpg" alt="Universal Paperclips Creator Blends Scrabble And Strategy In Towers Of Babble" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/universal-paperclips-creator-blends-scrabble-and-strategy-in-towers-of-babble-2000757126" target="_blank">Universal Paperclips Creator Blends Scrabble And Strategy In Towers Of Babble</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-11-15 22:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -275,22 +268,13 @@
                 <span class="time">2026-11-16 16:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5961.png" alt="Brun Investigates" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5961" target="_blank">Brun Investigates</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-11-16 01:58</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 28 | 📡 Total Sources: 40 | 📸 With Images: 268 |
-        🔄 Last Updated: 20:43 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 28 | 📡 Total Sources: 40 | 📸 With Images: 266 |
+        🔄 Last Updated: 03:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
