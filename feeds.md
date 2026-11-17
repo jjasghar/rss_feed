@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-11-17 03:16:35 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-11-17 12:35:32 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Error processing https://ubuntu.com/blog/feed: The read operation timed out -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 26 feeds processed -->
+<!-- Generated 11 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, November 17, 2026 - 03:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Tuesday, November 17, 2026 - 12:35 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/11/17/mozambiques-opposition-leader-stands-trial-over-deadly-2024-protests?traffic_source=rss" target="_blank">Mozambique’s opposition leader stands trial over deadly 2024 protests</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-11-17 12:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png" alt="Putin&#x27;s Crimea bridge partly collapses as Zelensky hails &#x27;unprecedented&#x27; attack by Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss" target="_blank">Putin&#x27;s Crimea bridge partly collapses as Zelensky hails &#x27;unprecedented&#x27; attack by Ukraine</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-17 10:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/11/1920x1080/skynews-melbourne-cup-makybe-diva_7408286.jpg?20261117045039" alt="Three Melbourne Cup trophies worth £500k each stolen" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/police-searching-for-three-stolen-melbourne-cup-trophies-worth-500k-each-13613066" target="_blank">Three Melbourne Cup trophies worth £500k each stolen</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-11-17 04:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,38 +99,29 @@
                 <span class="time">2026-11-16 23:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident" target="_blank">California sues OpenAI over hacking risks</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-11-16 22:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/11/16/uefa-backs-diallo-to-challenge-infantino-for-fifa-presidency?traffic_source=rss" target="_blank">UEFA backs Diallo to challenge Infantino for FIFA presidency</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-11-16 20:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1794858708887_now_daily_b_cheung_online_bank_difficulty_261116_S3_1920x1080-bqslch.jpg" alt="Customers report difficulty accessing online Chase accounts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/customers-report-difficulty-accessing-online-chase-accounts-273591877865" target="_blank">Customers report difficulty accessing online Chase accounts</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-11-16 19:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/news-111326aa-lg-500x500.jpg" alt="Artist brings old Space Shuttle tank back to life" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/11/how-an-artist-gave-shape-to-a-space-shuttles-new-towering-exhibit/" target="_blank">Artist brings old Space Shuttle tank back to life</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-11-17 12:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6afb590244f979cc615251c6/master/pass/Review--Capillus-HairBand.jpg" alt="Capillus HairBand Review: Good Looks, Awkward Fit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/capillus-hairband/" target="_blank">Capillus HairBand Review: Good Looks, Awkward Fit</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-11-17 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,29 +158,29 @@
                 <span class="time">2026-11-16 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="JPMorgan Chase Glitch Disrupts Online Banking Across Major US Banks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://news.slashdot.org/story/26/11/16/2332229/jpmorgan-chase-glitch-disrupts-online-banking-across-major-us-banks?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">JPMorgan Chase Glitch Disrupts Online Banking Across Major US Banks</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Apple Eyes 2027 Launch For AI-Powered Smart Glasses" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://apple.slashdot.org/story/26/11/16/186242/apple-eyes-2027-launch-for-ai-powered-smart-glasses?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Apple Eyes 2027 Launch For AI-Powered Smart Glasses</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/11/quik-2-streaming/en/headerimage/generatedHeaderImage-1794907611481.jpg" alt="Qwik 2.0 RC: Replaces HTML Comment Markers for Faster Reactivity and Out-of-Order Streaming" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/11/quik-2-streaming/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Qwik 2.0 RC: Replaces HTML Comment Markers for Faster Reactivity and Out-of-Order Streaming</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-11-17 12:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/11/discord-linux-no-watermark.jpg?resize=406%2C232&amp;ssl=1" alt="Discord’s Linux app sure did improve a lot this year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/11/discord-linux-app-wayland-updates" target="_blank">Discord’s Linux app sure did improve a lot this year</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-11-16 23:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,43 +217,20 @@
                 <span class="time">2026-11-16 13:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://alexwlchan.net/2026/funkycache/" target="_blank">funkycache: a Python library to cache functions in SQLite</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-11-16 13:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mir_arshadalitalpur_1b3/how-to-pass-an-enterprise-ai-security-review-build-an-evidence-pack-that-closes-deals-1o5m" target="_blank">How to Pass an Enterprise AI Security Review: Build an Evidence Pack That Closes Deals</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-11-16 10:11</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/11/usable-security-at-luxury-hotels.html" target="_blank">Usable Security at Luxury Hotels</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-11-16 12:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/11/Shigeru-Miyamoto-1280x787.jpg" alt="Shigeru Miyamoto To Receive Inaugural Legend Award At The 30th D.I.C.E. Awards" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/shigeru-miyamoto-to-receive-inaugural-legend-award-at-the-30th-d-i-c-e-awards-2000757556" target="_blank">Shigeru Miyamoto To Receive Inaugural Legend Award At The 30th D.I.C.E. Awards</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-11-17 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/11/exploding.jpg" alt="Booby-Trapped Video Game Console Explodes At Rival Gaming Store" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -260,6 +255,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.questionablecontent.net/comics/5962.png" alt="Annie Bananny" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5962" target="_blank">Annie Bananny</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-11-17 02:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1794795615-20261116.png" alt="Saturday Morning Breakfast Cereal - Cats" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -273,8 +277,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 28 | 📡 Total Sources: 40 | 📸 With Images: 266 |
-        🔄 Last Updated: 03:16 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 28 | 📡 Total Sources: 40 | 📸 With Images: 269 |
+        🔄 Last Updated: 12:35 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
