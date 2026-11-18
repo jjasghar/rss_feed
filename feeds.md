@@ -1,29 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-11-17 21:25:41 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-11-18 03:11:44 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 13 new posts out of 21 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 12 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Tuesday, November 17, 2026 - 21:25 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Wednesday, November 18, 2026 - 03:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -67,30 +73,30 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1794930485392_now_current_canal_huang_appear_261117_S3_1920x1080-gjr47r.jpg" alt="Jensen Huang agrees to appear for House interview on Nvidia in December" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf5e/live/7e3d3ce0-e2b0-11f1-8226-87dfa5049e9a.jpg" alt="Government backs welfare shake-up to prevent &#x27;lost generation&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/jensen-huang-agrees-to-appear-for-house-interview-on-nvidia-in-december-273650245602" target="_blank">Jensen Huang agrees to appear for House interview on Nvidia in December</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-11-17 15:48</span>
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss" target="_blank">Government backs welfare shake-up to prevent &#x27;lost generation&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-17 18:43</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/11/17/mozambiques-opposition-leader-stands-trial-over-deadly-2024-protests?traffic_source=rss" target="_blank">Mozambique’s opposition leader stands trial over deadly 2024 protests</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-11-17 12:10</span>
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain" target="_blank">Iran launches a third round of strikes on Bahrain, host of U.S. Navy&#x27;s 5th Fleet</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-11-17 18:34</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png" alt="Putin&#x27;s Crimea bridge partly collapses as Zelensky hails &#x27;unprecedented&#x27; attack by Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/26/11/1920x1080/skynews-thomas-markle-mugshot_7403623.jpg?20261111090436" alt="Police in Philippines pursue three charges against Thomas Markle Sr" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss" target="_blank">Putin&#x27;s Crimea bridge partly collapses as Zelensky hails &#x27;unprecedented&#x27; attack by Ukraine</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-17 10:45</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/police-in-philippines-pursue-three-charges-against-thomas-markle-sr-over-child-sex-abuse-images-13613346" target="_blank">Police in Philippines pursue three charges against Thomas Markle Sr</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-11-17 17:34</span>
             </div>
         </div>
 </div>
@@ -98,6 +104,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6afb4dfb95139a14a66d113d/master/pass/Roblox-Senate-Hearing-Culture-2260855878.jpg" alt="‘The Predators Are Real’: Senate Hearing Slams Roblox Over Child Sex Abuse" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-predators-are-real-senate-hearing-slams-roblox-over-child-sex-abuse/" target="_blank">‘The Predators Are Real’: Senate Hearing Slams Roblox Over Child Sex Abuse</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-11-18 00:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Huang-Trump-billboard-via-TOP-500x500.jpg" alt="“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -135,21 +150,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="JPMorgan Chase Glitch Disrupts Online Banking Across Major US Banks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj" target="_blank">Hacker behind 2022 GTA VI leaks pleads guilty</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-11-16 23:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/" target="_blank">Cybersecurity AI startup Corma reaches $1B valuation in about 3 months</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-11-16 23:32</span>
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://news.slashdot.org/story/26/11/16/2332229/jpmorgan-chase-glitch-disrupts-online-banking-across-major-us-banks?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">JPMorgan Chase Glitch Disrupts Online Banking Across Major US Banks</a></span>
+                <span class="feed">Slashdot</span>
+                
             </div>
         </div>
 </div>
@@ -157,6 +163,24 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/RBRD-Rust-Linux-RAM-Driver" target="_blank">RBRD: RAM-Backed Linux Block Driver Written In Rust For Better Safety But Slower Performance</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-11-18 02:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://calif.io/java4shell/" target="_blank">Java4Shell: RCE in OpenJDK when processing Base64</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-11-17 21:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/11/shopify-remote-ai-dev/en/headerimage/shopify-ruvy-ruby-wasm-1794947458635.jpeg" alt="How Shopify Orchestrates AI-Powered Mobile App Development Without Overloading Developers&#x27; Machines" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -193,22 +217,18 @@
                 <span class="time">2026-11-17 16:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/11/quik-2-streaming/en/headerimage/generatedHeaderImage-1794907611481.jpg" alt="Qwik 2.0 RC: Replaces HTML Comment Markers for Faster Reactivity and Out-of-Order Streaming" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/11/quik-2-streaming/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Qwik 2.0 RC: Replaces HTML Comment Markers for Faster Reactivity and Out-of-Order Streaming</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-11-17 12:25</span>
-            </div>
-        </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/11/17/coding-tricks-that-built-doom-and-quake/" target="_blank">The pioneering coding tricks that built Doom and Quake</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-11-17 08:40</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/11/formal-verification-of-the-signal-protocol-using-ai.html" target="_blank">Formal Verification of the Signal Protocol Using AI</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-11-17 12:05</span>
             </div>
         </div>
 </div>
@@ -216,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/11/PS5-1280x720.jpg" alt="PS5 Gets Last-Minute Software Update That’s Required To Play GTA 6" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ps5-gets-last-minute-software-update-thats-required-to-play-gta-6-2000757868" target="_blank">PS5 Gets Last-Minute Software Update That’s Required To Play GTA 6</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-11-18 03:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/Hestia-1200.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Your phone can photograph the Moon with this $260 telescope" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/11/17/your-phone-can-photograph-the-moon-with-this-260-telescope.html" target="_blank">Your phone can photograph the Moon with this $260 telescope</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-11-17 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/10/GTA-launch-trailer_0005_Brightness_Contrast-6-1280x720.jpg" alt="Why Should I Care About GTA 6?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -248,22 +286,13 @@
                 <span class="time">2026-11-17 16:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5962.png" alt="Annie Bananny" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5962" target="_blank">Annie Bananny</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-11-17 02:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 28 | 📡 Total Sources: 40 | 📸 With Images: 270 |
-        🔄 Last Updated: 21:25 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 31 | 📡 Total Sources: 40 | 📸 With Images: 268 |
+        🔄 Last Updated: 03:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
