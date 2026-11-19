@@ -1,30 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-11-18 20:57:23 UTC -->
+<!-- Processing 54 RSS feeds at 2026-11-19 02:10:55 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 14 new posts out of 22 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 12 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, November 18, 2026 - 20:57 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Thursday, November 19, 2026 - 02:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/cma-20-gty-gmh-261118_1795050367563_hpMain_4x3t_384.jpg" alt="2026 CMA Awards open with moving Dolly Parton tribute from Lainey Wilson, Vince Gill" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/GMA/Culture/cma-awards-2026-dolly-parton-honored-moving-tribute/story?id=138230261" target="_blank">2026 CMA Awards open with moving Dolly Parton tribute from Lainey Wilson, Vince Gill</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-11-19 01:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/11/1920x1080/skynews-palestinians-gaza_7409882.jpg?20261118205348" alt="Israeli troops launch ground operation in central Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/israeli-troops-launch-ground-operation-in-central-gaza-13613724" target="_blank">Israeli troops launch ground operation in central Gaza</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-11-18 20:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a52/live/a0e1e280-e36b-11f1-99b6-a35a62fa4264.jpg" alt="Inside the old gas pipeline where Ukraine is fighting an underground war with Russia" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,29 +102,29 @@
                 <span class="time">2026-11-18 10:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court" target="_blank">Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-11-18 09:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court" target="_blank">Fears grow that US will impose sanctions on ICJ judges ahead of Myanmar genocide ruling</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-11-18 09:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6afddd76bde75796e1384cb4/master/pass/The-Best-Early-Black-Friday-Laptop-Deals.jpg" alt="The Best Early Black Friday Deals On Laptops I&#x27;ve Tested Myself (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-early-black-friday-laptop-deals-11-18-26/" target="_blank">The Best Early Black Friday Deals On Laptops I&#x27;ve Tested Myself (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-11-19 00:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/01/ted-cruz-500x500-1738093209.jpg" alt="Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/" target="_blank">Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-11-18 23:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6afdf5886a27dda013bf5998/master/pass/2026-07-06T063630Z_730025260_MT1AAP000JVGO6Y_RTRMADP_3_NEIL-THE-SEAL.jpg" alt="Australia’s Plan to Manage Neil the Unruly Seal Involves ‘Hazing’ and ‘Seal Enrichment’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -135,29 +161,47 @@
                 <span class="time">2026-11-18 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/" target="_blank">Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-11-18 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6afb4dfb95139a14a66d113d/master/pass/Roblox-Senate-Hearing-Culture-2260855878.jpg" alt="‘The Predators Are Real’: Senate Hearing Slams Roblox Over Child Sex Abuse" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-predators-are-real-senate-hearing-slams-roblox-over-child-sex-abuse/" target="_blank">‘The Predators Are Real’: Senate Hearing Slams Roblox Over Child Sex Abuse</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-11-18 00:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/extensionbooster/chrome-extension-ab-testing-in-mv3-without-breaking-policy-3al6" target="_blank">Chrome Extension A/B Testing in MV3 Without Breaking Policy</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-11-19 02:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/automating-bare-metal-infrastructure-in-fips-regulated-environments-with-maas" target="_blank">Automating bare metal infrastructure in FIPS-regulated environments with MAAS</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-11-18 22:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/" target="_blank">Gemini 4 Neon</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-11-18 21:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://blog.pypi.org/posts/2026-11-18-stricter-checks-for-uploaded-sdists/" target="_blank">Stricter checks for uploaded distributions on PyPI</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-11-18 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -174,42 +218,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-620.73.04-Linux" target="_blank">NVIDIA 620.73.04 Linux Driver Released With Bug FIxes</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-11-18 17:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17527229/local-ai-weekly-10" target="_blank">Local AI Weekly #10: Say It, Don&#x27;t Type It</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-11-18 15:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities" target="_blank">Unauthenticated remote code execution in Nginx</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-11-18 15:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/bookingcom-ml-data-platform-evolution/en/mediumimage/jabez-eliezer-manuel-medium-1792654383362.jpg" alt="Presentation: Behind Booking.com&#x27;s AI Evolution: The Unpolished Story" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/bookingcom-ml-data-platform-evolution/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Behind Booking.com&#x27;s AI Evolution: The Unpolished Story</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-11-18 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://energy-based-reasoners.github.io/" target="_blank">Energy-Based Reasoners: 385x more efficient inference</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-11-18 09:29</span>
             </div>
         </div>
 </div>
@@ -241,6 +249,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M7RAXMFEK2DRRKKE38XYM503/hero-image.png" alt="The Best Tech Deals From Costco&#x27;s Early Black Friday Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-costco-early-black-friday-2026?utm_medium=RSS" target="_blank">The Best Tech Deals From Costco&#x27;s Early Black Friday Sale</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-11-18 22:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01M7R2N18XB5KXB1Q92V6Y0C18/hero-image.jpg" alt="These Noise-Canceling Skullcandy Headphones Are 50% Off Ahead of Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -265,24 +282,6 @@
                 <span class="title"><a href="https://kotaku.com/ps5-gets-last-minute-software-update-thats-required-to-play-gta-6-2000757868" target="_blank">PS5 Gets Last-Minute Software Update That’s Required To Play GTA 6</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-11-18 03:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/Hestia-1200.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Your phone can photograph the Moon with this $260 telescope" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/11/17/your-phone-can-photograph-the-moon-with-this-260-telescope.html" target="_blank">Your phone can photograph the Moon with this $260 telescope</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-11-17 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/10/GTA-launch-trailer_0005_Brightness_Contrast-6-1280x720.jpg" alt="Why Should I Care About GTA 6?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/why-should-i-care-about-gta-6-2000757747" target="_blank">Why Should I Care About GTA 6?</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-11-17 21:00</span>
             </div>
         </div>
 </div>
@@ -322,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 35 | 📡 Total Sources: 40 | 📸 With Images: 269 |
-        🔄 Last Updated: 20:57 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 35 | 📡 Total Sources: 40 | 📸 With Images: 271 |
+        🔄 Last Updated: 02:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
