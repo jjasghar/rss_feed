@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-11-19 02:10:55 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-11-19 10:51:32 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 30 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 15 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, November 19, 2026 - 02:11 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, November 19, 2026 - 10:51 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +45,51 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/International/trump-embed_1795080802091_hpMain_2_4x3t_384.jpg" alt="Trump Asia live updates: Trump praises &#x27;my friend&#x27; Xi ahead of talks with Putin" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/live-updates/trump-asia-trip-2026/?id=138187702" target="_blank">Trump Asia live updates: Trump praises &#x27;my friend&#x27; Xi ahead of talks with Putin</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-11-19 10:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/11/19/displacement-by-design-trumps-gaza-peace-plan-a-failure-aid-groups-say?traffic_source=rss" target="_blank">‘Displacement by design’: Trump’s Gaza peace plan a failure, aid groups say</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-11-19 10:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/11/19/nx-s1-6042558/anthropic-ipo-breaks-records-100-billion" target="_blank">AI giant Anthropic raises more than $100 billion in record-setting IPO</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-11-19 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/11/1920x1080/skynews-philippe-diallo-gianni-infantino_7410244.jpg?20261119095059" alt="FIFA confirms candidates to stand against Gianni Infantino in presidential election" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/fifa-confirms-candidates-to-stand-against-gianni-infantino-in-presidential-election-13613862" target="_blank">FIFA confirms candidates to stand against Gianni Infantino in presidential election</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-11-19 09:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa" target="_blank">One in four women globally unable to refuse sex within marriage, says UN</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-11-19 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/cma-20-gty-gmh-261118_1795050367563_hpMain_4x3t_384.jpg" alt="2026 CMA Awards open with moving Dolly Parton tribute from Lainey Wilson, Vince Gill" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -57,56 +98,29 @@
                 <span class="time">2026-11-19 01:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/11/1920x1080/skynews-palestinians-gaza_7409882.jpg?20261118205348" alt="Israeli troops launch ground operation in central Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/israeli-troops-launch-ground-operation-in-central-gaza-13613724" target="_blank">Israeli troops launch ground operation in central Gaza</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-11-18 20:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a52/live/a0e1e280-e36b-11f1-99b6-a35a62fa4264.jpg" alt="Inside the old gas pipeline where Ukraine is fighting an underground war with Russia" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss" target="_blank">Inside the old gas pipeline where Ukraine is fighting an underground war with Russia</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-18 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/11/18/partnership-buys-silence-fears-grow-over-eu-rwanda-deportation-plans?traffic_source=rss" target="_blank">‘Partnership buys silence’: Fears grow over EU-Rwanda deportation plans</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-11-18 11:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/11/1920x1080/skynews-measles-testing-texas_7409438.jpg?20261118105509" alt="US loses measles-free status amid worst outbreak in 35 years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/us-loses-measles-free-status-amid-worst-outbreak-in-35-years-13613526" target="_blank">US loses measles-free status amid worst outbreak in 35 years</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-11-18 10:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1732/live/d7b747f0-e339-11f1-a094-5fdc692f3e33.jpg" alt="Energy bills forecast to go up by £443 a year from January as UK inflation rises again" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss" target="_blank">Energy bills forecast to go up by £443 a year from January as UK inflation rises again</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-18 10:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6afe63e1564242f4569cab85/master/pass/The-Therabody-Gift-Guide-for-Rest-and-Relaxation.jpg" alt="10 Best Therabody Gadgets &amp; Theraguns to Gift This Year (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-theragun-percussive-therapy-devices/" target="_blank">10 Best Therabody Gadgets &amp; Theraguns to Gift This Year (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-11-19 10:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook" target="_blank">Elon Musk tries to explain what&amp;#8217;s going on with Ukraine and Starlink</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-11-19 01:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6afddd76bde75796e1384cb4/master/pass/The-Best-Early-Black-Friday-Laptop-Deals.jpg" alt="The Best Early Black Friday Deals On Laptops I&#x27;ve Tested Myself (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,29 +157,38 @@
                 <span class="time">2026-11-18 12:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/science/1036431/nasa-voyager-1-light-day-milestone" target="_blank">NASA’s Voyager 1 probe is now one light-day away</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-11-18 12:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6ac027cfd5ba006200028110/master/pass/Best%20Gifts%20Under%20$25%20102026%20top%20art%20SOURCE%20Amazon.jpg" alt="The Best Gifts Under $25 for Everyone on Your List (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-gifts-under-25-2026/" target="_blank">The Best Gifts Under $25 for Everyone on Your List (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-11-18 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Valkey-9.2" target="_blank">Valkey 9.2 Delivers More Performance, Zstd Compression &amp; Lower Memory Overhead</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-11-19 10:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/daniel_pertu/26-of-our-files-use-framer-motions-m-one-uses-motion-and-that-one-renders-on-every-public-page-4c07" target="_blank">26 of our files use framer-motion&#x27;s m, one uses motion, and that one renders on every public page</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-11-19 10:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/11/NetWasm-0-10-Faster/en/headerimage/header-1794869319776.jpg" alt="NetWasm 0.10 Speeds Up C# on WebAssembly, Now Faster Than Mono AOT" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/11/NetWasm-0-10-Faster/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">NetWasm 0.10 Speeds Up C# on WebAssembly, Now Faster Than Mono AOT</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-11-19 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -193,33 +216,6 @@
                 <span class="time">2026-11-18 21:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://blog.pypi.org/posts/2026-11-18-stricter-checks-for-uploaded-sdists/" target="_blank">Stricter checks for uploaded distributions on PyPI</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-11-18 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/software-factories-and-code-reviews" target="_blank">Software factories and code reviews with Harjot Gill</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-11-18 18:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-620.73.04-Linux" target="_blank">NVIDIA 620.73.04 Linux Driver Released With Bug FIxes</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-11-18 17:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,20 +230,20 @@
                 <span class="time">2026-11-18 12:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/" target="_blank">Attackers Used Optimizely to A/B Test Malware on Top Websites</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2026-11-18 02:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/11/GTa-nba-heat-shirt-1280x720.jpg" alt="GTA 6‘s Big Miami Heat Game Led To Black Friday-Like Crowds Trying To Buy All The Merch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/gta-6s-big-miami-heat-game-led-to-black-friday-like-crowds-trying-to-buy-all-the-merch-2000758204" target="_blank">GTA 6‘s Big Miami Heat Game Led To Black Friday-Like Crowds Trying To Buy All The Merch</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-11-19 01:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01M7RAXMFEK2DRRKKE38XYM503/hero-image.png" alt="The Best Tech Deals From Costco&#x27;s Early Black Friday Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -255,6 +251,15 @@
                 <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-costco-early-black-friday-2026?utm_medium=RSS" target="_blank">The Best Tech Deals From Costco&#x27;s Early Black Friday Sale</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-11-18 22:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/Image-NASA.jpg?fit=1170%2C808&amp;quality=60&amp;ssl=1" alt="Voyager 1 now 1 light day from Earth" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/11/18/voyager-1-now-1-light-day-from-earth.html" target="_blank">Voyager 1 now 1 light day from Earth</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-11-18 22:14</span>
             </div>
         </div>
 <div class="story">
@@ -273,15 +278,6 @@
                 <span class="title"><a href="https://kotaku.com/no-websites-in-gta-6-vice-city-rockstar-rob-nelson-interview-2000757890" target="_blank">The Web Is Dead In GTA 6: ‘It Didn’t Feel Necessary For Us’</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-11-18 12:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/11/PS5-1280x720.jpg" alt="PS5 Gets Last-Minute Software Update That’s Required To Play GTA 6" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ps5-gets-last-minute-software-update-thats-required-to-play-gta-6-2000757868" target="_blank">PS5 Gets Last-Minute Software Update That’s Required To Play GTA 6</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-11-18 03:02</span>
             </div>
         </div>
 </div>
@@ -307,22 +303,13 @@
                 <span class="time">2026-11-18 16:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/voyager_crash.png" alt="Voyager Crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3326/" target="_blank">Voyager Crash</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-11-18 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 35 | 📡 Total Sources: 40 | 📸 With Images: 271 |
-        🔄 Last Updated: 02:11 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 39 | 📡 Total Sources: 40 | 📸 With Images: 272 |
+        🔄 Last Updated: 10:51 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
