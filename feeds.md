@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-11-19 10:51:32 UTC -->
+<!-- Processing 54 RSS feeds at 2026-11-19 19:13:28 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 15 new posts out of 25 feeds processed -->
+<!-- Generated 18 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, November 19, 2026 - 10:51 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, November 19, 2026 - 19:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +48,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/11/19/families-flee-gazas-bureij-camp-as-israel-launches-new-offensive?traffic_source=rss" target="_blank">Families flee Gaza’s Bureij camp as Israel launches new offensive</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-11-19 19:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d789/live/7c1a8b30-e435-11f1-99b6-a35a62fa4264.jpg" alt="Myanmar committed genocide against Rohingya minority, top UN court rules" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss" target="_blank">Myanmar committed genocide against Rohingya minority, top UN court rules</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-19 16:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/11/1920x1080/skynews-andy-burnham-volodymyr-zelenskyy_7410778.jpg?20261119175118" alt="Burnham says Europe &#x27;ready to enter negotiations&#x27; to help end Russia&#x27;s war in Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/putin-vows-to-retaliate-as-ukraine-hits-prized-crimea-bridge-for-third-time-in-four-days-13613963" target="_blank">Burnham says Europe &#x27;ready to enter negotiations&#x27; to help end Russia&#x27;s war in Ukraine</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-11-19 12:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe" target="_blank">Race to replant five South African baobabs after export blocked</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-11-19 11:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/trump-embed_1795080802091_hpMain_2_4x3t_384.jpg" alt="Trump Asia live updates: Trump praises &#x27;my friend&#x27; Xi ahead of talks with Putin" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -62,47 +102,38 @@
                 <span class="time">2026-11-19 10:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/11/19/nx-s1-6042558/anthropic-ipo-breaks-records-100-billion" target="_blank">AI giant Anthropic raises more than $100 billion in record-setting IPO</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-11-19 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/11/1920x1080/skynews-philippe-diallo-gianni-infantino_7410244.jpg?20261119095059" alt="FIFA confirms candidates to stand against Gianni Infantino in presidential election" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/fifa-confirms-candidates-to-stand-against-gianni-infantino-in-presidential-election-13613862" target="_blank">FIFA confirms candidates to stand against Gianni Infantino in presidential election</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-11-19 09:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa" target="_blank">One in four women globally unable to refuse sex within marriage, says UN</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-11-19 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/cma-20-gty-gmh-261118_1795050367563_hpMain_4x3t_384.jpg" alt="2026 CMA Awards open with moving Dolly Parton tribute from Lainey Wilson, Vince Gill" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/GMA/Culture/cma-awards-2026-dolly-parton-honored-moving-tribute/story?id=138230261" target="_blank">2026 CMA Awards open with moving Dolly Parton tribute from Lainey Wilson, Vince Gill</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-11-19 01:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads" target="_blank">Some creators are skeptical of Instagram’s new affiliate program</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-11-19 19:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/" target="_blank">Anthropic’s IPO could deliver $156 billion to charity</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-11-19 19:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6aff303dd91b5ce0f67d7c99/master/pass/security_chrome_mirror_browser_ai_agent.jpg" alt="Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/" target="_blank">Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-11-19 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6afe63e1564242f4569cab85/master/pass/The-Therabody-Gift-Guide-for-Rest-and-Relaxation.jpg" alt="10 Best Therabody Gadgets &amp; Theraguns to Gift This Year (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -130,38 +161,38 @@
                 <span class="time">2026-11-19 00:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/01/ted-cruz-500x500-1738093209.jpg" alt="Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/" target="_blank">Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-11-18 23:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6afdf5886a27dda013bf5998/master/pass/2026-07-06T063630Z_730025260_MT1AAP000JVGO6Y_RTRMADP_3_NEIL-THE-SEAL.jpg" alt="Australia’s Plan to Manage Neil the Unruly Seal Involves ‘Hazing’ and ‘Seal Enrichment’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/australia-neil-the-seal-management-plan/" target="_blank">Australia’s Plan to Manage Neil the Unruly Seal Involves ‘Hazing’ and ‘Seal Enrichment’</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-11-18 19:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/news-111826a-lg-500x500.jpg" alt="Voyager 1 at one light-day: Historian revisits Golden Record&#x27;s forgotten details" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/11/voyager-1-at-one-light-day-historian-revisits-golden-records-forgotten-details/" target="_blank">Voyager 1 at one light-day: Historian revisits Golden Record&#x27;s forgotten details</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-11-18 12:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/publicrows/google-trends-for-1000-keywords-in-one-run-without-getting-blocked-1oob" target="_blank">Google Trends for 1,000 keywords in one run, without getting blocked</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-11-19 19:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/" target="_blank">Anthropic hits $2T in Nasdaq debut</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-11-19 17:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/11/libreoffice-tiktok.webp?resize=406%2C232&amp;ssl=1" alt="LibreOffice launch a TikTok account to reach a younger audience" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/11/libreoffice-joins-tiktok" target="_blank">LibreOffice launch a TikTok account to reach a younger audience</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-11-19 16:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -189,52 +220,29 @@
                 <span class="time">2026-11-19 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/extensionbooster/chrome-extension-ab-testing-in-mv3-without-breaking-policy-3al6" target="_blank">Chrome Extension A/B Testing in MV3 Without Breaking Policy</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-11-19 02:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/automating-bare-metal-infrastructure-in-fips-regulated-environments-with-maas" target="_blank">Automating bare metal infrastructure in FIPS-regulated environments with MAAS</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-11-18 22:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/" target="_blank">Gemini 4 Neon</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-11-18 21:34</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/11/france-is-blaming-iran-for-the-fridge-cyberattack.html" target="_blank">France Is Blaming Iran for the Fridge Cyberattack</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-11-18 12:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/11/jasonweight-1280x720.jpg" alt="Grand Theft Auto 6’s Weight System Can Give Jason A Dad Bod, But Lucia Isn’t Quite As Malleable" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/grand-theft-auto-6-weight-muscle-gain-fat-jason-lucia-2000758438" target="_blank">Grand Theft Auto 6’s Weight System Can Give Jason A Dad Bod, But Lucia Isn’t Quite As Malleable</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-11-19 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M7TEHH1H2BEV82GH21MNS8W3/hero-image.jpg" alt="If You Loved &#x27;Phony,&#x27; There&#x27;s One Movie You Need to Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/best-movie-to-watch-after-phony?utm_medium=RSS" target="_blank">If You Loved &#x27;Phony,&#x27; There&#x27;s One Movie You Need to Watch Next</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-11-19 18:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/11/GTa-nba-heat-shirt-1280x720.jpg" alt="GTA 6‘s Big Miami Heat Game Led To Black Friday-Like Crowds Trying To Buy All The Merch" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,20 +279,29 @@
                 <span class="time">2026-11-18 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/05/6e4d92d133ed5480ab9ce36cbe5f9e0b-1280x720.jpg" alt="The Web Is Dead In GTA 6: ‘It Didn’t Feel Necessary For Us’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/no-websites-in-gta-6-vice-city-rockstar-rob-nelson-interview-2000757890" target="_blank">The Web Is Dead In GTA 6: ‘It Didn’t Feel Necessary For Us’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-11-18 12:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1795043823-20261119.webp" alt="Saturday Morning Breakfast Cereal - Juice" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/juice-3" target="_blank">Saturday Morning Breakfast Cereal - Juice</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-11-19 16:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.questionablecontent.net/comics/5964.png" alt="Peer Evaluations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5964" target="_blank">Peer Evaluations</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-11-19 01:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -294,22 +311,13 @@
                 <span class="time">2026-11-18 20:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1794795738-20261118.webp" alt="Saturday Morning Breakfast Cereal - Formal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/formal" target="_blank">Saturday Morning Breakfast Cereal - Formal</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-11-18 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 39 | 📡 Total Sources: 40 | 📸 With Images: 272 |
-        🔄 Last Updated: 10:51 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 41 | 📡 Total Sources: 40 | 📸 With Images: 270 |
+        🔄 Last Updated: 19:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
