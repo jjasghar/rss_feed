@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-11-19 19:13:28 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-11-20 01:28:57 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 18 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 10 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, November 19, 2026 - 19:13 UTC</div>
+    <div class="newspaper-date">Friday, November 20, 2026 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +43,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db7d/live/acdc01e0-e467-11f1-99b6-a35a62fa4264.jpg" alt="Woman drugged and advertised for sex by husband speaks out as abusers found guilty" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/crq5n5pe935no?at_medium=RSS&at_campaign=rss" target="_blank">Woman drugged and advertised for sex by husband speaks out as abusers found guilty</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-20 01:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/LoSapio_Thumb_Site-xvxml4.jpg" alt="Trump’s pick to lead election security agency says Jan. 6 was not an ‘attack’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/trump-s-pick-to-lead-election-security-agency-says-jan-6-was-not-an-attack-273860677873" target="_blank">Trump’s pick to lead election security agency says Jan. 6 was not an ‘attack’</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-11-19 23:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b7d/live/94082910-e452-11f1-a094-5fdc692f3e33.jpg" alt="Anthropic becomes one of world&#x27;s most valuable public companies in stock market debut" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss" target="_blank">Anthropic becomes one of world&#x27;s most valuable public companies in stock market debut</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-19 23:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/11/19/nx-s1-6047151/trump-arch-golf-course-judge-orders" target="_blank">Judges have put Trump&#x27;s arch and golf course on hold, but only for a matter of days</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-11-19 19:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -66,47 +97,29 @@
                 <span class="time">2026-11-19 16:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/11/1920x1080/skynews-andy-burnham-volodymyr-zelenskyy_7410778.jpg?20261119175118" alt="Burnham says Europe &#x27;ready to enter negotiations&#x27; to help end Russia&#x27;s war in Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/putin-vows-to-retaliate-as-ukraine-hits-prized-crimea-bridge-for-third-time-in-four-days-13613963" target="_blank">Burnham says Europe &#x27;ready to enter negotiations&#x27; to help end Russia&#x27;s war in Ukraine</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-11-19 12:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe" target="_blank">Race to replant five South African baobabs after export blocked</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-11-19 11:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/trump-embed_1795080802091_hpMain_2_4x3t_384.jpg" alt="Trump Asia live updates: Trump praises &#x27;my friend&#x27; Xi ahead of talks with Putin" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/live-updates/trump-asia-trip-2026/?id=138187702" target="_blank">Trump Asia live updates: Trump praises &#x27;my friend&#x27; Xi ahead of talks with Putin</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-11-19 10:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/11/19/displacement-by-design-trumps-gaza-peace-plan-a-failure-aid-groups-say?traffic_source=rss" target="_blank">‘Displacement by design’: Trump’s Gaza peace plan a failure, aid groups say</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-11-19 10:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6afe07274e8d4af8d3d5721a/master/pass/Right-Wing-GTA-Woke-Complaints-Culture-Jason_and_Lucia_03.jpg" alt="Dudes Online Are So Mad That ‘Grand Theft Auto 6’ Makes Them Respect Women" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/dudes-online-are-so-mad-that-gta-vi-makes-them-respect-women/" target="_blank">Dudes Online Are So Mad That ‘Grand Theft Auto 6’ Makes Them Respect Women</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-11-19 23:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1243765669-500x500.jpg" alt="Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/" target="_blank">Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-11-19 22:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,29 +156,20 @@
                 <span class="time">2026-11-19 10:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook" target="_blank">Elon Musk tries to explain what&amp;#8217;s going on with Ukraine and Starlink</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-11-19 01:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6afddd76bde75796e1384cb4/master/pass/The-Best-Early-Black-Friday-Laptop-Deals.jpg" alt="The Best Early Black Friday Deals On Laptops I&#x27;ve Tested Myself (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-early-black-friday-laptop-deals-11-18-26/" target="_blank">The Best Early Black Friday Deals On Laptops I&#x27;ve Tested Myself (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-11-19 00:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2016/04/usb-live-boot.jpg?resize=406%2C232&amp;ssl=1" alt="How to see if your bargain SD card or USB drive is fake on Ubuntu" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/11/check-fake-usb-drive-sd-card-ubuntu" target="_blank">How to see if your bargain SD card or USB drive is fake on Ubuntu</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-11-19 23:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -173,6 +177,15 @@
                 <span class="title"><a href="https://dev.to/publicrows/google-trends-for-1000-keywords-in-one-run-without-getting-blocked-1oob" target="_blank">Google Trends for 1,000 keywords in one run, without getting blocked</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-11-19 19:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/" target="_blank">Anthropic’s Nasdaq debut</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-11-19 17:02</span>
             </div>
         </div>
 <div class="story">
@@ -202,29 +215,29 @@
                 <span class="time">2026-11-19 10:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/daniel_pertu/26-of-our-files-use-framer-motions-m-one-uses-motion-and-that-one-renders-on-every-public-page-4c07" target="_blank">26 of our files use framer-motion&#x27;s m, one uses motion, and that one renders on every public page</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-11-19 10:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/11/NetWasm-0-10-Faster/en/headerimage/header-1794869319776.jpg" alt="NetWasm 0.10 Speeds Up C# on WebAssembly, Now Faster Than Mono AOT" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/11/NetWasm-0-10-Faster/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">NetWasm 0.10 Speeds Up C# on WebAssembly, Now Faster Than Mono AOT</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-11-19 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/nazis.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="Denmark&#x27;s celebrated eldest woman turns out to be former Nazi leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/11/19/denmarks-celebrated-eldest-woman-turns-out-to-be-former-nazi-leader.html" target="_blank">Denmark&#x27;s celebrated eldest woman turns out to be former Nazi leader</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-11-20 01:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/11/queensdomain-1280x711.jpg" alt="Here’s What People Are Playing That’s Not GTA 6" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/heres-what-people-are-playing-thats-not-gta-6-2000758577" target="_blank">Here’s What People Are Playing That’s Not GTA 6</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-11-20 00:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/11/jasonweight-1280x720.jpg" alt="Grand Theft Auto 6’s Weight System Can Give Jason A Dad Bod, But Lucia Isn’t Quite As Malleable" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -252,33 +265,6 @@
                 <span class="time">2026-11-19 01:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M7RAXMFEK2DRRKKE38XYM503/hero-image.png" alt="The Best Tech Deals From Costco&#x27;s Early Black Friday Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-costco-early-black-friday-2026?utm_medium=RSS" target="_blank">The Best Tech Deals From Costco&#x27;s Early Black Friday Sale</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-11-18 22:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/Image-NASA.jpg?fit=1170%2C808&amp;quality=60&amp;ssl=1" alt="Voyager 1 now 1 light day from Earth" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/11/18/voyager-1-now-1-light-day-from-earth.html" target="_blank">Voyager 1 now 1 light day from Earth</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-11-18 22:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M7R2N18XB5KXB1Q92V6Y0C18/hero-image.jpg" alt="These Noise-Canceling Skullcandy Headphones Are 50% Off Ahead of Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/skullcandy-crusher-anc-headphones-sale-early-black-friday-2026?utm_medium=RSS" target="_blank">These Noise-Canceling Skullcandy Headphones Are 50% Off Ahead of Black Friday</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-11-18 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -302,22 +288,13 @@
                 <span class="time">2026-11-19 01:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/11/18/mons-publius" target="_blank">Mons Publius</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-11-18 20:32</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 41 | 📡 Total Sources: 40 | 📸 With Images: 270 |
-        🔄 Last Updated: 19:13 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 38 | 📡 Total Sources: 40 | 📸 With Images: 273 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
