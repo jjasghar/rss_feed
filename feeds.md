@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-11-20 09:20:37 UTC -->
+<!-- Processing 54 RSS feeds at 2026-11-20 18:05:02 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 16 new posts out of 27 feeds processed -->
+<!-- Generated 14 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, November 20, 2026 - 09:20 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, November 20, 2026 - 18:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/11/20/mamdani-unveils-plan-to-close-new-yorks-rikers-island-by-2032?traffic_source=rss" target="_blank">Mamdani unveils plan to close New York’s Rikers Island by 2032</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-11-20 17:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bf1/live/0fd5d6a0-e4b2-11f1-a1dc-9f4190df3aa7.png" alt="Calls for consent defence change after Joanne Young rape case" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqy4jvprxyrdo?at_medium=RSS&at_campaign=rss" target="_blank">Calls for consent defence change after Joanne Young rape case</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-20 17:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +98,29 @@
                 <span class="time">2026-11-20 01:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3db/live/57d6aa20-d769-11f1-a956-ff083523ef77.jpg" alt="Tens of thousands of UK fridges secured from hackers in secret nationwide operation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss" target="_blank">Tens of thousands of UK fridges secured from hackers in secret nationwide operation</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-20 00:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/LoSapio_Thumb_Site-xvxml4.jpg" alt="Trump’s pick to lead election security agency says Jan. 6 was not an ‘attack’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/trump-s-pick-to-lead-election-security-agency-says-jan-6-was-not-an-attack-273860677873" target="_blank">Trump’s pick to lead election security agency says Jan. 6 was not an ‘attack’</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-11-19 23:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down" target="_blank">Google says it’s going to shut off Google Assistant on smart speakers next year</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-11-20 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/sm1-500x500.jpg" alt="Valve says it might have to raise the price of supply-limited Steam Machines" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/" target="_blank">Valve says it might have to raise the price of supply-limited Steam Machines</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-11-20 16:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,29 +157,38 @@
                 <span class="time">2026-11-19 22:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads" target="_blank">Some creators are skeptical of Instagram’s new affiliate program</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-11-19 19:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/" target="_blank">Anthropic’s IPO could deliver $156 billion to charity</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-11-19 19:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/answerenginee/how-to-analyze-gptbot-chatgpt-user-and-claudebot-requests-in-server-logs-a7g" target="_blank">How to Analyze GPTBot, ChatGPT-User, and ClaudeBot Requests in Server Logs</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-11-20 18:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/11/lts-linux-kernel-see-thru.webp?resize=406%2C232&amp;ssl=1" alt="Linux 7.3 is likely to be the next LTS kernel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/11/linux-7-3-lts-kernel-likely" target="_blank">Linux 7.3 is likely to be the next LTS kernel</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-11-20 17:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/11/20/dispatches-from-o-reilly-inside-a-software-factory/" target="_blank">Dispatches from O&#x27;Reilly: Inside a software factory</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-11-20 17:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -185,37 +210,24 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/openssl/openssl/pull/33652" target="_blank">OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-11-20 02:01</span>
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://dev-discuss.pytorch.org/t/debugging-story-the-case-of-the-flaky-dynamo-export-tests/1124" target="_blank">The case of the flaky Dynamo export tests</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-11-20 06:51</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-november-20-2026-red-hat" target="_blank">Friday Five — November 20, 2026 | Red Hat</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2026-11-20 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2016/04/usb-live-boot.jpg?resize=406%2C232&amp;ssl=1" alt="How to see if your bargain SD card or USB drive is fake on Ubuntu" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/11/check-fake-usb-drive-sd-card-ubuntu" target="_blank">How to see if your bargain SD card or USB drive is fake on Ubuntu</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-11-19 23:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.5-Restrict-proc-kcore" target="_blank">Linux 7.5 To Optionally Block /proc/kcore Access For Better Security</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-11-19 22:03</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/11/opening-a-400-year-old-cryptex.html" target="_blank">Opening a 400-Year-Old Cryptex</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-11-20 12:04</span>
             </div>
         </div>
 </div>
@@ -223,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/popkin-john-squirrel-boxes-cameras-e1795197397231.jpg?fit=1200%2C801&amp;quality=60&amp;ssl=1" alt="YouTube has a squirrel enthusiasts&#x27; channel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/11/20/if-you-want-vermin-this-is-how-you-get-vermin.html" target="_blank">YouTube has a squirrel enthusiasts&#x27; channel</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-11-20 17:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/07/siri-ai-hands-on-1-1280x853.jpg" alt="Apple Is Reportedly Building Its Own Full-Featured AI Agent" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,20 +289,29 @@
                 <span class="time">2026-11-19 22:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/11/jasonweight-1280x720.jpg" alt="Grand Theft Auto 6’s Weight System Can Give Jason A Dad Bod, But Lucia Isn’t Quite As Malleable" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/grand-theft-auto-6-weight-muscle-gain-fat-jason-lucia-2000758438" target="_blank">Grand Theft Auto 6’s Weight System Can Give Jason A Dad Bod, But Lucia Isn’t Quite As Malleable</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-11-19 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1795043869-20261120.webp" alt="Saturday Morning Breakfast Cereal - Ed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/ed" target="_blank">Saturday Morning Breakfast Cereal - Ed</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-11-20 16:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/11/20/womp-womp" target="_blank">Womp Womp</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-11-20 08:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.questionablecontent.net/comics/5965.png" alt="Clinton Blows It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -291,22 +321,13 @@
                 <span class="time">2026-11-20 02:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1795043823-20261119.webp" alt="Saturday Morning Breakfast Cereal - Juice" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/juice-3" target="_blank">Saturday Morning Breakfast Cereal - Juice</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-11-19 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 45 | 📡 Total Sources: 41 | 📸 With Images: 272 |
-        🔄 Last Updated: 09:20 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 44 | 📡 Total Sources: 40 | 📸 With Images: 270 |
+        🔄 Last Updated: 18:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
