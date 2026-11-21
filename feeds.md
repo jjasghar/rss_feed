@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-11-21 00:25:22 UTC -->
+<!-- Processing 54 RSS feeds at 2026-11-21 07:48:35 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 29 feeds processed -->
+<!-- Generated 11 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, November 21, 2026 - 00:25 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Saturday, November 21, 2026 - 07:48 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,6 +106,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" alt="Mint Mobile Discounts for November 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/mint-mobile-promo-code/" target="_blank">Mint Mobile Discounts for November 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-11-21 06:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/" target="_blank">Startup sues Apple in India over tap-to-share contacts feature</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-11-21 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6b008734209518b1b255d3f5/master/pass/Law-Enforcement-GTA-Recruitment-Culture-Lucia_Caminos_05.jpg" alt="Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -142,29 +159,29 @@
                 <span class="time">2026-11-20 16:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/" target="_blank">The U.S. national cyber director is stepping down</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-11-20 09:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Palo Alto Networks Signs $4.5 Billion Deal For Applied Compute" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://it.slashdot.org/story/26/11/19/1812240/palo-alto-networks-signs-45-billion-deal-for-applied-compute?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Palo Alto Networks Signs $4.5 Billion Deal For Applied Compute</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/bazaarledger/building-an-offline-first-flutter-ledger-for-shops-what-no-internet-really-costs-3epo" target="_blank">Building an offline-first Flutter ledger for shops: what &quot;no internet&quot; really costs</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-11-21 07:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/11/kessler.jpg?resize=406%2C232&amp;ssl=1" alt="Kessler is an open-source, zine-style music player (with iPod support)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/11/kessler-music-player" target="_blank">Kessler is an open-source, zine-style music player (with iPod support)</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-11-21 05:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -184,39 +201,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/11/meta-triton-tlx-gpu-compiler/en/headerimage/meta-java-kotlin-port-1795195032767.jpeg" alt="Meta TLX, a Native GPU Compiler Extension Supporting Advanced Hardware Capabilities" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/11/meta-triton-tlx-gpu-compiler/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Meta TLX, a Native GPU Compiler Extension Supporting Advanced Hardware Capabilities</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-11-20 18:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/11/lts-linux-kernel-see-thru.webp?resize=406%2C232&amp;ssl=1" alt="Linux 7.3 is likely to be the next LTS kernel" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/11/linux-7-3-lts-kernel-likely" target="_blank">Linux 7.3 is likely to be the next LTS kernel</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-11-20 17:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/11/20/dispatches-from-o-reilly-inside-a-software-factory/" target="_blank">Dispatches from O&#x27;Reilly: Inside a software factory</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-11-20 17:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kulissa/how-to-close-a-deal-that-keeps-stalling-a-mutual-action-plan-template-and-closing-techniques-for-3gc3" target="_blank">How to Close a Deal That Keeps Stalling: A Mutual Action Plan Template and Closing Techniques for Founder-Led Sales</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-11-20 09:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/observability-control-plane-failover/en/headerimage/header-1795002929606.jpg" alt="Article: Building Reliability Into the Cloud: Observability as the Control Plane for Multi-Region Failover" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/observability-control-plane-failover/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Building Reliability Into the Cloud: Observability as the Control Plane for Multi-Region Failover</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-11-20 09:00</span>
             </div>
         </div>
 </div>
@@ -248,6 +247,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/TEcd.jpg?fit=1978%2C1411&amp;quality=60&amp;ssl=1" alt="Teenage Engineering&#x27;s compact disc player" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/11/20/teenage-engineerings-compact-disc-player.html" target="_blank">Teenage Engineering&#x27;s compact disc player</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-11-21 02:39</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/11/GTA-6-ult-ed-1280x720.jpg" alt="So Is The $100 GTA 6 Ultimate Edition Actually Worth It?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -265,38 +273,20 @@
                 <span class="time">2026-11-20 17:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/07/siri-ai-hands-on-1-1280x853.jpg" alt="Apple Is Reportedly Building Its Own Full-Featured AI Agent" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/apple-is-reportedly-building-its-own-full-featured-ai-agent-2000842954" target="_blank">Apple Is Reportedly Building Its Own Full-Featured AI Agent</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-11-20 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/05/2c7a8d2667bfd160f18de04dd8105069-1280x720.jpg" alt="GTA 6 Has A Surprising Late Game Cameo That Knocked Me On My Ass" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/gta-6-has-a-surprising-late-game-cameo-that-knocked-me-on-my-ass-2000758623" target="_blank">GTA 6 Has A Surprising Late Game Cameo That Knocked Me On My Ass</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-11-20 02:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/nazis.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="Denmark&#x27;s celebrated eldest woman turns out to be former Nazi leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/11/19/denmarks-celebrated-eldest-woman-turns-out-to-be-former-nazi-leader.html" target="_blank">Denmark&#x27;s celebrated eldest woman turns out to be former Nazi leader</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-11-20 01:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/11/20/womp-womp" target="_blank">Womp Womp</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-11-20 23:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1795043869-20261120.webp" alt="Saturday Morning Breakfast Cereal - Ed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -315,22 +305,13 @@
                 <span class="time">2026-11-20 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5965.png" alt="Clinton Blows It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5965" target="_blank">Clinton Blows It</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-11-20 02:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 32 | 📡 Total Sources: 41 | 📸 With Images: 268 |
-        🔄 Last Updated: 00:25 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 32 | 📡 Total Sources: 41 | 📸 With Images: 267 |
+        🔄 Last Updated: 07:48 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
