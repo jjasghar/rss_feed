@@ -1,33 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-11-21 15:43:27 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-11-21 21:16:04 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Generated 9 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, November 21, 2026 - 15:43 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Saturday, November 21, 2026 - 21:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/11/21/nx-s1-6049684/roundup-bayer-hodgkins-settlement" target="_blank">Bayer reaches Roundup settlement that could cost the company billions</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-11-21 20:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/hormuz-strike-ap-jt-261119_1795129033197_hpMain_4x3t_384.jpg" alt="What&#x27;s behind the uptick in attacks in the Strait of Hormuz?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -62,6 +78,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/11/1920x1080/skynews-fausto-isidro_7412275.png?20261121142327" alt="At least 11 dead after suspected cartel leader &#x27;El Chapo Isidro&#x27; captured in Mexico" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/suspected-cartel-leader-el-chapo-isidro-from-fbi-most-wanted-list-captured-in-mexico-13614689" target="_blank">At least 11 dead after suspected cartel leader &#x27;El Chapo Isidro&#x27; captured in Mexico</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-11-21 13:34</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/26/11/1920x1080/skynews-fausto-isidro_7412275.png?20261121142327" alt="Suspected cartel leader &#x27;El Chapo Isidro&#x27; from FBI most-wanted list captured in Mexico" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
@@ -71,30 +96,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/US/Rinderknecht-ap-er-261120_1795217240993_hpMain_4x3t_384.jpg" alt="Man accused of starting blaze that became Palisades Fire found guilty of arson" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3686/live/9ee585d0-e5a6-11f1-99b6-a35a62fa4264.jpg" alt="Zelensky says Crimean Bridge strikes &#x27;fair response&#x27; as he meets UK&#x27;s Streeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/man-accused-starting-blaze-palisades-fire-found-guilty/story?id=138333631" target="_blank">Man accused of starting blaze that became Palisades Fire found guilty of arson</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-11-21 00:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative" target="_blank">S&amp;P 500 sinks 3.7% and the Nasdaq composite goes negative for the year</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-11-20 22:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/11/20/mamdani-unveils-plan-to-close-new-yorks-rikers-island-by-2032?traffic_source=rss" target="_blank">Mamdani unveils plan to close New York’s Rikers Island by 2032</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-11-20 17:54</span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky says Crimean Bridge strikes &#x27;fair response&#x27; as he meets UK&#x27;s Streeting</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-21 13:17</span>
             </div>
         </div>
 </div>
@@ -102,6 +109,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/" target="_blank">A tale of two Nvidias</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-11-21 21:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,21 +155,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Anthropic Mathematician Claims to Prove Riemann Hypothesis" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement" target="_blank">YouTube is reportedly preparing to settle social media addiction claims for $3 billion</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-11-20 20:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down" target="_blank">Google says it’s going to shut off Google Assistant on smart speakers next year</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-11-20 18:00</span>
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://science.slashdot.org/story/26/11/21/028221/anthropic-mathematician-claims-to-prove-riemann-hypothesis?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Anthropic Mathematician Claims to Prove Riemann Hypothesis</a></span>
+                <span class="feed">Slashdot</span>
+                
             </div>
         </div>
 </div>
@@ -161,6 +168,33 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/deployedlabs/why-your-llm-is-slow-twice-and-why-it-runs-out-of-memory-prefill-decode-and-the-kv-cache-26op" target="_blank">Why your LLM is slow twice, and why it runs out of memory: prefill, decode and the KV cache</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-11-21 21:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/ShinMegamiBoson/lookatmyquant" target="_blank">Inkling-2-Mini in 5.4 GB Memory</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-11-21 18:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17536916/owl-os-launch" target="_blank">Owl OS is a New Kali Linux Competitor</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-11-21 17:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -186,33 +220,6 @@
                 <span class="title"><a href="https://dev.to/nilsberg2187/nodejs-png-retention-verifying-ai-image-buffers-in-s3-compatible-tenant-storage-2gip" target="_blank">Node.js PNG Retention: Verifying AI Image Buffers in S3-Compatible Tenant Storage</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-11-21 00:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/answerenginee/how-to-analyze-gptbot-chatgpt-user-and-claudebot-requests-in-server-logs-a7g" target="_blank">How to Analyze GPTBot, ChatGPT-User, and ClaudeBot Requests in Server Logs</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-11-20 18:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/11/meta-triton-tlx-gpu-compiler/en/headerimage/meta-java-kotlin-port-1795195032767.jpeg" alt="Meta TLX, a Native GPU Compiler Extension Supporting Advanced Hardware Capabilities" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/11/meta-triton-tlx-gpu-compiler/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Meta TLX, a Native GPU Compiler Extension Supporting Advanced Hardware Capabilities</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-11-20 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/11/lts-linux-kernel-see-thru.webp?resize=406%2C232&amp;ssl=1" alt="Linux 7.3 is likely to be the next LTS kernel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/11/linux-7-3-lts-kernel-likely" target="_blank">Linux 7.3 is likely to be the next LTS kernel</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-11-20 17:37</span>
             </div>
         </div>
 </div>
@@ -270,15 +277,6 @@
                 <span class="time">2026-11-21 00:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/popkin-john-squirrel-boxes-cameras-e1795197397231.jpg?fit=1200%2C801&amp;quality=60&amp;ssl=1" alt="YouTube has a squirrel enthusiasts&#x27; channel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/11/20/if-you-want-vermin-this-is-how-you-get-vermin.html" target="_blank">YouTube has a squirrel enthusiasts&#x27; channel</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-11-20 17:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -293,22 +291,13 @@
                 <span class="time">2026-11-20 23:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1795043869-20261120.webp" alt="Saturday Morning Breakfast Cereal - Ed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/ed" target="_blank">Saturday Morning Breakfast Cereal - Ed</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-11-20 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 30 | 📡 Total Sources: 41 | 📸 With Images: 266 |
-        🔄 Last Updated: 15:43 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 26 | 📡 Total Sources: 41 | 📸 With Images: 264 |
+        🔄 Last Updated: 21:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
