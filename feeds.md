@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-11-20 18:05:02 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-11-21 00:25:22 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 14 new posts out of 25 feeds processed -->
+<!-- Generated 11 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, November 20, 2026 - 18:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, November 21, 2026 - 00:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,12 +48,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/Rinderknecht-ap-er-261120_1795217240993_hpMain_4x3t_384.jpg" alt="Man accused of starting blaze that became Palisades Fire found guilty of arson" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/man-accused-starting-blaze-palisades-fire-found-guilty/story?id=138333631" target="_blank">Man accused of starting blaze that became Palisades Fire found guilty of arson</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-11-21 00:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative" target="_blank">S&amp;P 500 sinks 3.7% and the Nasdaq composite goes negative for the year</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-11-20 22:11</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/11/20/mamdani-unveils-plan-to-close-new-yorks-rikers-island-by-2032?traffic_source=rss" target="_blank">Mamdani unveils plan to close New York’s Rikers Island by 2032</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-11-20 17:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b92/live/7ef50e70-e511-11f1-a094-5fdc692f3e33.jpg" alt="UK to explore even closer ties with EU after agreeing deal, says Burnham" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss" target="_blank">UK to explore even closer ties with EU after agreeing deal, says Burnham</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-20 17:49</span>
             </div>
         </div>
 <div class="story">
@@ -71,38 +101,29 @@
                 <span class="time">2026-11-20 09:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state" target="_blank">California’s coastal communities on alert as biggest waves in years hit state</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-11-20 09:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/alaska-2-rt-gmh-261030_1793380027346_hpMain_2_4x3t_384.jpg" alt="DOJ dropping Alaska midterms Senate certification lawsuit, saying case is &#x27;moot&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/doj-dropping-alaska-midterms-senate-certification-lawsuit-case/story?id=138307517" target="_blank">DOJ dropping Alaska midterms Senate certification lawsuit, saying case is &#x27;moot&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-11-20 03:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db7d/live/acdc01e0-e467-11f1-99b6-a35a62fa4264.jpg" alt="Woman drugged and advertised for sex by husband speaks out as abusers found guilty" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/crq5n5pe935no?at_medium=RSS&at_campaign=rss" target="_blank">Woman drugged and advertised for sex by husband speaks out as abusers found guilty</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-20 01:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6b008734209518b1b255d3f5/master/pass/Law-Enforcement-GTA-Recruitment-Culture-Lucia_Caminos_05.jpg" alt="Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/" target="_blank">Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-11-20 23:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement" target="_blank">YouTube is reportedly preparing to settle social media addiction claims for $3 billion</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-11-20 20:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -131,30 +152,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media.wired.com/photos/6afe07274e8d4af8d3d5721a/master/pass/Right-Wing-GTA-Woke-Complaints-Culture-Jason_and_Lucia_03.jpg" alt="Dudes Online Are So Mad That ‘Grand Theft Auto 6’ Makes Them Respect Women" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Palo Alto Networks Signs $4.5 Billion Deal For Applied Compute" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/dudes-online-are-so-mad-that-gta-vi-makes-them-respect-women/" target="_blank">Dudes Online Are So Mad That ‘Grand Theft Auto 6’ Makes Them Respect Women</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-11-19 23:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing" target="_blank">Apple is hiring engineers to build its own AI agent</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-11-19 22:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1243765669-500x500.jpg" alt="Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/" target="_blank">Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-11-19 22:16</span>
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://it.slashdot.org/story/26/11/19/1812240/palo-alto-networks-signs-45-billion-deal-for-applied-compute?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Palo Alto Networks Signs $4.5 Billion Deal For Applied Compute</a></span>
+                <span class="feed">Slashdot</span>
+                
             </div>
         </div>
 </div>
@@ -162,6 +165,15 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nilsberg2187/nodejs-png-retention-verifying-ai-image-buffers-in-s3-compatible-tenant-storage-2gip" target="_blank">Node.js PNG Retention: Verifying AI Image Buffers in S3-Compatible Tenant Storage</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-11-21 00:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,20 +219,20 @@
                 <span class="time">2026-11-20 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://dev-discuss.pytorch.org/t/debugging-story-the-case-of-the-flaky-dynamo-export-tests/1124" target="_blank">The case of the flaky Dynamo export tests</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-11-20 06:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-the-largest-squid-ever-filmed.html" target="_blank">Friday Squid Blogging: The Largest Squid Ever Filmed</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-11-20 22:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -235,6 +247,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/11/GTA-6-ult-ed-1280x720.jpg" alt="So Is The $100 GTA 6 Ultimate Edition Actually Worth It?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/so-is-the-100-gta-6-ultimate-edition-actually-worth-it-2000758998" target="_blank">So Is The $100 GTA 6 Ultimate Edition Actually Worth It?</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-11-21 00:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/10/popkin-john-squirrel-boxes-cameras-e1795197397231.jpg?fit=1200%2C801&amp;quality=60&amp;ssl=1" alt="YouTube has a squirrel enthusiasts&#x27; channel" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +290,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/11/19/denmarks-celebrated-eldest-woman-turns-out-to-be-former-nazi-leader.html" target="_blank">Denmark&#x27;s celebrated eldest woman turns out to be former Nazi leader</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-11-20 01:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/11/queensdomain-1280x711.jpg" alt="Here’s What People Are Playing That’s Not GTA 6" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/heres-what-people-are-playing-thats-not-gta-6-2000758577" target="_blank">Here’s What People Are Playing That’s Not GTA 6</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-11-20 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-11-19 22:48</span>
             </div>
         </div>
 </div>
@@ -326,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 44 | 📡 Total Sources: 40 | 📸 With Images: 270 |
-        🔄 Last Updated: 18:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 32 | 📡 Total Sources: 41 | 📸 With Images: 268 |
+        🔄 Last Updated: 00:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
