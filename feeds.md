@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-11-21 07:48:35 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-11-21 15:43:27 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, November 21, 2026 - 07:48 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, November 21, 2026 - 15:43 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +43,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/hormuz-strike-ap-jt-261119_1795129033197_hpMain_4x3t_384.jpg" alt="What&#x27;s behind the uptick in attacks in the Strait of Hormuz?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/strait-hormuz-attacks-increased-highest-level-iran-war/story?id=138304456" target="_blank">What&#x27;s behind the uptick in attacks in the Strait of Hormuz?</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-11-21 15:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones" target="_blank">Killer robots: U.N. talks fall short of hopes for legally binding rules</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-11-21 14:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/11/1920x1080/skynews-fausto-isidro_7412275.png?20261121142327" alt="Suspected cartel leader &#x27;El Chapo Isidro&#x27; from FBI most-wanted list captured in Mexico" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/suspected-cartel-leader-el-chapo-isidro-from-fbi-most-wanted-list-captured-in-mexico-13614689" target="_blank">Suspected cartel leader &#x27;El Chapo Isidro&#x27; from FBI most-wanted list captured in Mexico</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-11-21 13:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/Rinderknecht-ap-er-261120_1795217240993_hpMain_4x3t_384.jpg" alt="Man accused of starting blaze that became Palisades Fire found guilty of arson" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -73,38 +97,20 @@
                 <span class="time">2026-11-20 17:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b92/live/7ef50e70-e511-11f1-a094-5fdc692f3e33.jpg" alt="UK to explore even closer ties with EU after agreeing deal, says Burnham" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss" target="_blank">UK to explore even closer ties with EU after agreeing deal, says Burnham</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-20 17:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bf1/live/0fd5d6a0-e4b2-11f1-a1dc-9f4190df3aa7.png" alt="Calls for consent defence change after Joanne Young rape case" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqy4jvprxyrdo?at_medium=RSS&at_campaign=rss" target="_blank">Calls for consent defence change after Joanne Young rape case</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-20 17:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news-analysis/2026/11/20/pakistan-minister-visits-india-for-first-time-since-2025-war?traffic_source=rss" target="_blank">Pakistan minister visits India for first time since 2025 war</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-11-20 09:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/" target="_blank">Alaska, your next governor is a Wikipedia nerd</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-11-21 15:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" alt="Mint Mobile Discounts for November 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,15 +154,6 @@
                 <span class="title"><a href="https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down" target="_blank">Google says it’s going to shut off Google Assistant on smart speakers next year</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-11-20 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/sm1-500x500.jpg" alt="Valve says it might have to raise the price of supply-limited Steam Machines" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/" target="_blank">Valve says it might have to raise the price of supply-limited Steam Machines</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-11-20 16:11</span>
             </div>
         </div>
 </div>
@@ -226,19 +223,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-the-largest-squid-ever-filmed.html" target="_blank">Friday Squid Blogging: The Largest Squid Ever Filmed</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-11-20 22:04</span>
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/" target="_blank">CTO of ‘RansomwareHelp’ Indicted for Wire Fraud</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2026-11-21 00:36</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/11/opening-a-400-year-old-cryptex.html" target="_blank">Opening a 400-Year-Old Cryptex</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-the-largest-squid-ever-filmed.html" target="_blank">Friday Squid Blogging: The Largest Squid Ever Filmed</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2026-11-20 12:04</span>
+                <span class="time">2026-11-20 22:04</span>
             </div>
         </div>
 </div>
@@ -246,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2024/06/d9de42a45f494af809f226f239bcf7c1.jpg" alt="These Are The 11 Best Romances BioWare Ever Made" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/bioware-best-11-romance-dragon-age-mass-effect-garrus-2000758976" target="_blank">These Are The 11 Best Romances BioWare Ever Made</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-11-21 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/TEcd.jpg?fit=1978%2C1411&amp;quality=60&amp;ssl=1" alt="Teenage Engineering&#x27;s compact disc player" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -296,22 +302,13 @@
                 <span class="time">2026-11-20 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/11/20/womp-womp" target="_blank">Womp Womp</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-11-20 08:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 32 | 📡 Total Sources: 41 | 📸 With Images: 267 |
-        🔄 Last Updated: 07:48 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 30 | 📡 Total Sources: 41 | 📸 With Images: 266 |
+        🔄 Last Updated: 15:43 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
