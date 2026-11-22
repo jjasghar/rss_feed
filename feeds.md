@@ -1,6 +1,7 @@
-<!-- Processing 54 RSS feeds at 2026-11-21 21:16:04 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-11-22 01:44:56 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
@@ -8,33 +9,24 @@
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 31 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Saturday, November 21, 2026 - 21:16 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, November 22, 2026 - 01:45 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261121-abdul-el-sayed-ww-1531-766f03.jpg" alt="Abdul El-Sayed catches president’s attention with pitch for ‘Trumpcare’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/abdul-el-sayed-catches-trumps-attention-pitch-trumpcare-rcna610626" target="_blank">Abdul El-Sayed catches president’s attention with pitch for ‘Trumpcare’</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-11-22 00:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,20 +96,29 @@
                 <span class="time">2026-11-21 13:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3686/live/9ee585d0-e5a6-11f1-99b6-a35a62fa4264.jpg" alt="Zelensky says Crimean Bridge strikes &#x27;fair response&#x27; as he meets UK&#x27;s Streeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky says Crimean Bridge strikes &#x27;fair response&#x27; as he meets UK&#x27;s Streeting</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-21 13:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/godzillaTOP-500x500.jpg" alt="Review: Godzilla Minus Zero joins the list of truly stellar sequels" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/" target="_blank">Review: Godzilla Minus Zero joins the list of truly stellar sequels</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-11-21 22:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label" target="_blank">Amazon is complaining about NYC Council on shipping labels, too</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-11-21 21:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -128,6 +138,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/6b00ba06fb286bb31d23be2b/master/pass/Kernel-Panic-Brace-for-More-Outages-Security.jpg" alt="The Outages Are Just Getting Started" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/" target="_blank">The Outages Are Just Getting Started</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-11-21 13:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" alt="Mint Mobile Discounts for November 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -136,38 +155,20 @@
                 <span class="time">2026-11-21 06:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/" target="_blank">Startup sues Apple in India over tap-to-share contacts feature</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-11-21 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6b008734209518b1b255d3f5/master/pass/Law-Enforcement-GTA-Recruitment-Culture-Lucia_Caminos_05.jpg" alt="Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/" target="_blank">Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-11-20 23:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Anthropic Mathematician Claims to Prove Riemann Hypothesis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://science.slashdot.org/story/26/11/21/028221/anthropic-mathematician-claims-to-prove-riemann-hypothesis?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Anthropic Mathematician Claims to Prove Riemann Hypothesis</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.4-NVMe-NS-Parallel" target="_blank">Linux 7.4 To Remove NVMe Namespaces In Parallel For Faster Results</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-11-22 01:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,6 +197,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/11/grafana-13-3-shared-variables/en/headerimage/header-1795209346746.jpeg" alt="Grafana 13.3 Adds Shared Dashboard Variables and Notebooks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/11/grafana-13-3-shared-variables/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Grafana 13.3 Adds Shared Dashboard Variables and Notebooks</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-11-21 14:30</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -204,52 +214,20 @@
                 <span class="time">2026-11-21 07:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/11/kessler.jpg?resize=406%2C232&amp;ssl=1" alt="Kessler is an open-source, zine-style music player (with iPod support)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/11/kessler-music-player" target="_blank">Kessler is an open-source, zine-style music player (with iPod support)</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-11-21 05:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nilsberg2187/nodejs-png-retention-verifying-ai-image-buffers-in-s3-compatible-tenant-storage-2gip" target="_blank">Node.js PNG Retention: Verifying AI Image Buffers in S3-Compatible Tenant Storage</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-11-21 00:19</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/" target="_blank">CTO of ‘RansomwareHelp’ Indicted for Wire Fraud</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2026-11-21 00:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-the-largest-squid-ever-filmed.html" target="_blank">Friday Squid Blogging: The Largest Squid Ever Filmed</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-11-20 22:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/Internxt-Cloud-Storage-Lifetime-Subscription-1200.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="10TB of encrypted cloud storage is a one-time $249.97 purchase, right now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/11/21/10tb-of-encrypted-cloud-storage-is-a-one-time-249-97-purchase-right-now.html" target="_blank">10TB of encrypted cloud storage is a one-time $249.97 purchase, right now</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-11-21 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2024/06/d9de42a45f494af809f226f239bcf7c1.jpg" alt="These Are The 11 Best Romances BioWare Ever Made" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,36 +246,13 @@
                 <span class="time">2026-11-21 02:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/11/GTA-6-ult-ed-1280x720.jpg" alt="So Is The $100 GTA 6 Ultimate Edition Actually Worth It?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/so-is-the-100-gta-6-ultimate-edition-actually-worth-it-2000758998" target="_blank">So Is The $100 GTA 6 Ultimate Edition Actually Worth It?</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-11-21 00:00</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section webcomics-section" id="webcomics">
-<h2 class="section-header">🎨 Daily Comics</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/11/20/womp-womp" target="_blank">Womp Womp</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-11-20 23:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 26 | 📡 Total Sources: 41 | 📸 With Images: 264 |
-        🔄 Last Updated: 21:16 UTC
+        📊 Displayed: 21 | 📅 Last 24h: 25 | 📡 Total Sources: 41 | 📸 With Images: 265 |
+        🔄 Last Updated: 01:45 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
