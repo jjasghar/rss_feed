@@ -1,38 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-11-22 16:52:14 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-11-22 22:12:20 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 14 new posts out of 30 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, November 22, 2026 - 16:52 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Sunday, November 22, 2026 - 22:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +53,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya" target="_blank">Russian warship sinks in Benghazi after suspected Ukrainian drone attack</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-11-22 21:33</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/Politics/DNIClayton_TW-abc_cw_20261122_1795364812910_hpMain_4x3t_384.jpg" alt="DNI Clayton: Putin is &#x27;not America&#x27;s friend in Ukraine&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -64,6 +77,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse?traffic_source=rss" target="_blank">‘Disappointing’: Delegates react after COP31 climate talks end without deal</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-11-22 16:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/11/1920x1080/skynews-civil-guard-montserrat_7413582.jpg?20261122164357" alt="Man who was lured to remote villa and held for 15 hours rescued after being tied up and beaten" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/man-rescued-after-being-lured-to-remote-villa-in-spain-where-he-was-held-for-15-hours-tied-up-and-beaten-13615282" target="_blank">Man who was lured to remote villa and held for 15 hours rescued after being tied up and beaten</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-11-22 15:13</span>
             </div>
         </div>
 <div class="story">
@@ -84,29 +106,29 @@
                 <span class="time">2026-11-22 13:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/11/1920x1080/skynews-maksym-ukraine-drummond_7411179.jpg?20261122092143" alt="Meet the Ukrainian energy workers dodging drones to bring people&#x27;s electricity back" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/meet-the-ukrainian-energy-workers-who-dodge-drones-to-bring-peoples-electricity-back-13615168" target="_blank">Meet the Ukrainian energy workers dodging drones to bring people&#x27;s electricity back</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-11-22 09:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b71/live/e0c68530-e61e-11f1-94c8-1db910b5b42e.jpg" alt="New draft deal aims to avert collapse of talks at COP31 climate summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss" target="_blank">New draft deal aims to avert collapse of talks at COP31 climate summit</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-22 06:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/" target="_blank">‘You Can See Everything’ has made more than $100M worldwide</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-11-22 21:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage" target="_blank">Delta flights in and out of Atlanta delayed due to system outage</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-11-22 17:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/04/agriculture-500x500.jpg" alt="GLP-1 drugs could have a surprisingly large environmental payoff" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -135,30 +157,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Anthropic Mathematician Claims to Prove Riemann Hypothesis" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label" target="_blank">Amazon is complaining about NYC Council on shipping labels, too</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-11-21 21:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/" target="_blank">Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-11-21 21:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/" target="_blank">A tale of two Nvidias</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-11-21 21:07</span>
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://science.slashdot.org/story/26/11/21/028221/anthropic-mathematician-claims-to-prove-riemann-hypothesis?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Anthropic Mathematician Claims to Prove Riemann Hypothesis</a></span>
+                <span class="feed">Slashdot</span>
+                
             </div>
         </div>
 </div>
@@ -166,6 +170,33 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/06/high-tide-tidal.jpg?resize=406%2C232&amp;ssl=1" alt="High Tide (Linux TIDAL client) adds support for DLNA, Chromecast" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/11/high-tide-chromecast-dlna-support" target="_blank">High Tide (Linux TIDAL client) adds support for DLNA, Chromecast</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-11-22 21:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife" target="_blank">The Birds of GTA 6: A Field Guide to Vice City and Leonida&#x27;s Wildlife</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-11-22 19:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-More-DCN6-Linux-7.5" target="_blank">AMD Preps More Graphics Driver Fixes For Linux 7.5, More DCN6 Enablement</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-11-22 17:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0857abaql076oujlop5t.png" alt="EF Core IDbCommandInterceptor" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -187,37 +218,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/CachyOS-November-2026" target="_blank">CachyOS November 2026 Released With EAC Linux v2 Support, New Recovery Tool</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-11-22 13:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/11/postgresql-19-released/en/headerimage/generatedHeaderImage-1795349035334.jpg" alt="PostgreSQL 19 Released with Online Table Repacking and Query Planning Controls" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/11/postgresql-19-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">PostgreSQL 19 Released with Online Table Repacking and Query Planning Controls</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-11-22 12:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/15-years-of-long-term-support-for-bare-metal-automation-with-maas" target="_blank">15 years of long term support for bare metal automation with MAAS</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-11-22 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/11/google-agent-compute-engine/en/headerimage/generatedHeaderImage-1793561615054.jpg" alt="Google Announces Agent Compute Engine for Secure AI Agent Execution" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/11/google-agent-compute-engine/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Announces Agent Compute Engine for Secure AI Agent Execution</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-11-22 06:30</span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17537621/linux-laptop-suspend-inhibitor-lock" target="_blank">Your Linux Laptop Won&#x27;t Suspend? Here&#x27;s What You Can Do</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-11-22 13:44</span>
             </div>
         </div>
 </div>
@@ -226,21 +230,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/11/peoplescomputer.jpg" alt="Physicist’s Long-Lost 1977 Fantasy Text Adventure Discovered On Hard Drive" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/physicists-long-lost-1977-fantasy-text-adventure-discovered-on-hard-drive-2000759290" target="_blank">Physicist’s Long-Lost 1977 Fantasy Text Adventure Discovered On Hard Drive</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-11-22 22:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/The-Microsoft-Office-Professional-Plus-2024-for-Windows-1200.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Black Friday showed up early with Windows 11 Pro and Office 2024 for $45" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/11/22/black-friday-showed-up-early-with-windows-11-pro-and-office-2024-for-45.html" target="_blank">Black Friday showed up early with Windows 11 Pro and Office 2024 for $45</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-11-22 22:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/11/binding-of-isaac.jpg" alt="Binding Of Isaac Update Review-Bombed Over AI-Generated Music In GTA 6 Mode: ‘Woke Up To A Sh*t Show, Obviously I Had No Idea’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/binding-of-isaac-update-review-bombed-over-ai-generated-music-in-gta-6-mode-woke-up-to-a-sht-show-obviously-i-had-no-idea-2000759213" target="_blank">Binding Of Isaac Update Review-Bombed Over AI-Generated Music In GTA 6 Mode: ‘Woke Up To A Sh*t Show, Obviously I Had No Idea’</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-11-22 00:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/Internxt-Cloud-Storage-Lifetime-Subscription-1200.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="10TB of encrypted cloud storage is a one-time $249.97 purchase, right now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/11/21/10tb-of-encrypted-cloud-storage-is-a-one-time-249-97-purchase-right-now.html" target="_blank">10TB of encrypted cloud storage is a one-time $249.97 purchase, right now</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-11-21 22:00</span>
             </div>
         </div>
 </div>
@@ -262,8 +275,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 21 | 📅 Last 24h: 31 | 📡 Total Sources: 41 | 📸 With Images: 266 |
-        🔄 Last Updated: 16:52 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 33 | 📡 Total Sources: 41 | 📸 With Images: 268 |
+        🔄 Last Updated: 22:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
