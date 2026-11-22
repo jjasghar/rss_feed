@@ -1,32 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-11-22 01:44:56 UTC -->
+<!-- Processing 54 RSS feeds at 2026-11-22 08:58:13 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Sunday, November 22, 2026 - 01:45 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, November 22, 2026 - 08:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +49,33 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b71/live/e0c68530-e61e-11f1-94c8-1db910b5b42e.jpg" alt="New draft deal aims to avert collapse of talks at COP31 climate summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss" target="_blank">New draft deal aims to avert collapse of talks at COP31 climate summit</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-22 06:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/sea-tac-airport-2_1795310671098_hpMain_4x3t_384.jpg" alt="Wash. officials condemn ICE after 2 arrested boarding flight at Seattle airport" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/washington-state-officials-condemn-ice-after-2-arrested/story?id=138349974" target="_blank">Wash. officials condemn ICE after 2 arrested boarding flight at Seattle airport</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-11-22 06:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fb1/live/99436a80-e5f0-11f1-b1d8-fd34c88a50a0.jpg" alt="Theresa May &#x27;aghast&#x27; at Burnham&#x27;s EU plans and says &#x27;Brexit is done&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o?at_medium=RSS&at_campaign=rss" target="_blank">Theresa May &#x27;aghast&#x27; at Burnham&#x27;s EU plans and says &#x27;Brexit is done&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-22 06:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261121-abdul-el-sayed-ww-1531-766f03.jpg" alt="Abdul El-Sayed catches president’s attention with pitch for ‘Trumpcare’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
@@ -55,45 +88,18 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/11/21/nx-s1-6049684/roundup-bayer-hodgkins-settlement" target="_blank">Bayer reaches Roundup settlement that could cost the company billions</a></span>
+                <span class="title"><a href="https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress" target="_blank">Trump orders federal contractors to check with White House before responding to Congress</a></span>
                 <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-11-21 20:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/hormuz-strike-ap-jt-261119_1795129033197_hpMain_4x3t_384.jpg" alt="What&#x27;s behind the uptick in attacks in the Strait of Hormuz?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/strait-hormuz-attacks-increased-highest-level-iran-war/story?id=138304456" target="_blank">What&#x27;s behind the uptick in attacks in the Strait of Hormuz?</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-11-21 15:19</span>
+                <span class="time">2026-11-21 22:40</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones" target="_blank">Killer robots: U.N. talks fall short of hopes for legally binding rules</a></span>
+                <span class="title"><a href="https://www.npr.org/2026/11/21/nx-s1-6049684/roundup-bayer-hodgkins-settlement" target="_blank">Bayer reaches Roundup settlement that could cost the company billions</a></span>
                 <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-11-21 14:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/11/1920x1080/skynews-fausto-isidro_7412275.png?20261121142327" alt="At least 11 dead after suspected cartel leader &#x27;El Chapo Isidro&#x27; captured in Mexico" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/suspected-cartel-leader-el-chapo-isidro-from-fbi-most-wanted-list-captured-in-mexico-13614689" target="_blank">At least 11 dead after suspected cartel leader &#x27;El Chapo Isidro&#x27; captured in Mexico</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-11-21 13:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/11/1920x1080/skynews-fausto-isidro_7412275.png?20261121142327" alt="Suspected cartel leader &#x27;El Chapo Isidro&#x27; from FBI most-wanted list captured in Mexico" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/suspected-cartel-leader-el-chapo-isidro-from-fbi-most-wanted-list-captured-in-mexico-13614689" target="_blank">Suspected cartel leader &#x27;El Chapo Isidro&#x27; from FBI most-wanted list captured in Mexico</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-11-21 13:34</span>
+                <span class="time">2026-11-21 20:37</span>
             </div>
         </div>
 </div>
@@ -123,6 +129,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/" target="_blank">Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-11-21 21:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/" target="_blank">A tale of two Nvidias</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-11-21 21:07</span>
@@ -146,20 +161,29 @@
                 <span class="time">2026-11-21 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" alt="Mint Mobile Discounts for November 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/mint-mobile-promo-code/" target="_blank">Mint Mobile Discounts for November 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-11-21 06:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/11/google-agent-compute-engine/en/headerimage/generatedHeaderImage-1793561615054.jpg" alt="Google Announces Agent Compute Engine for Secure AI Agent Execution" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/11/google-agent-compute-engine/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Announces Agent Compute Engine for Secure AI Agent Execution</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-11-22 06:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/" target="_blank">Toyota, Nissan, and Honda to standardize parts to lower costs</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-11-22 04:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,29 +220,20 @@
                 <span class="time">2026-11-21 17:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/11/grafana-13-3-shared-variables/en/headerimage/header-1795209346746.jpeg" alt="Grafana 13.3 Adds Shared Dashboard Variables and Notebooks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/11/grafana-13-3-shared-variables/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Grafana 13.3 Adds Shared Dashboard Variables and Notebooks</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-11-21 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bazaarledger/building-an-offline-first-flutter-ledger-for-shops-what-no-internet-really-costs-3epo" target="_blank">Building an offline-first Flutter ledger for shops: what &quot;no internet&quot; really costs</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-11-21 07:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/11/binding-of-isaac.jpg" alt="Binding Of Isaac Update Review-Bombed Over AI-Generated Music In GTA 6 Mode: ‘Woke Up To A Sh*t Show, Obviously I Had No Idea’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/binding-of-isaac-update-review-bombed-over-ai-generated-music-in-gta-6-mode-woke-up-to-a-sht-show-obviously-i-had-no-idea-2000759213" target="_blank">Binding Of Isaac Update Review-Bombed Over AI-Generated Music In GTA 6 Mode: ‘Woke Up To A Sh*t Show, Obviously I Had No Idea’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-11-22 00:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/Internxt-Cloud-Storage-Lifetime-Subscription-1200.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="10TB of encrypted cloud storage is a one-time $249.97 purchase, right now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -237,22 +252,13 @@
                 <span class="time">2026-11-21 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/TEcd.jpg?fit=1978%2C1411&amp;quality=60&amp;ssl=1" alt="Teenage Engineering&#x27;s compact disc player" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/11/20/teenage-engineerings-compact-disc-player.html" target="_blank">Teenage Engineering&#x27;s compact disc player</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-11-21 02:39</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 21 | 📅 Last 24h: 25 | 📡 Total Sources: 41 | 📸 With Images: 265 |
-        🔄 Last Updated: 01:45 UTC
+        📊 Displayed: 21 | 📅 Last 24h: 28 | 📡 Total Sources: 40 | 📸 With Images: 265 |
+        🔄 Last Updated: 08:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
