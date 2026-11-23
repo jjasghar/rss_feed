@@ -1,42 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-11-22 22:12:20 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-11-23 03:19:08 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 33 feeds processed -->
+<!-- Generated 9 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Sunday, November 22, 2026 - 22:12 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, November 23, 2026 - 03:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +51,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/11/23/indonesian-police-remove-24-body-bags-from-factory-fire-site?traffic_source=rss" target="_blank">Indonesian police remove 24 body bags from factory fire site</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-11-23 02:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/11/22/nx-s1-6049723/do-not-feed-the-animals-vets-explain-why-hats-coins-and-shoes-can-be-deadly" target="_blank">Do not feed the animals. Vets explain why hats, coins and shoes can be deadly.</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-11-23 01:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3431/live/0e8b4920-e6be-11f1-a023-d502158f79f8.jpg" alt="Burnham to tell MPs &#x27;landmark&#x27; EU deal could make next decade &#x27;much better&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss" target="_blank">Burnham to tell MPs &#x27;landmark&#x27; EU deal could make next decade &#x27;much better&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-22 22:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,38 +105,20 @@
                 <span class="time">2026-11-22 16:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/11/1920x1080/skynews-civil-guard-montserrat_7413582.jpg?20261122164357" alt="Man who was lured to remote villa and held for 15 hours rescued after being tied up and beaten" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/man-rescued-after-being-lured-to-remote-villa-in-spain-where-he-was-held-for-15-hours-tied-up-and-beaten-13615282" target="_blank">Man who was lured to remote villa and held for 15 hours rescued after being tied up and beaten</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-11-22 15:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1795356943591_mtp_clip_elsayedhealth_261122_S3_1920x1080-ne2rci.jpg" alt="Abdul El-Sayed says passing Medicare for all with Trump support would be ‘the ultimate trump card’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/abdul-el-sayed-says-passing-medicare-for-all-with-trump-support-would-be-the-ultimate-trump-card-273978437750" target="_blank">Abdul El-Sayed says passing Medicare for all with Trump support would be ‘the ultimate trump card’</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-11-22 14:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7208/live/d02d4240-e682-11f1-99b6-a35a62fa4264.jpg" alt="Boss of British Gas owners Centrica &#x27;hugely concerned&#x27; over impact of soaring energy bills" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss" target="_blank">Boss of British Gas owners Centrica &#x27;hugely concerned&#x27; over impact of soaring energy bills</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-22 13:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink" target="_blank">Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-11-23 03:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,15 +156,6 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/godzillaTOP-500x500.jpg" alt="Review: Godzilla Minus Zero joins the list of truly stellar sequels" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/" target="_blank">Review: Godzilla Minus Zero joins the list of truly stellar sequels</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-11-21 22:12</span>
-            </div>
-        </div>
-<div class="story">
             <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Anthropic Mathematician Claims to Prove Riemann Hypothesis" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-comments"></span>
@@ -170,6 +169,33 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/swgbar/fixing-unable-to-get-local-issuer-certificate-in-claude-code-cursor-git-npm-on-a-work-mac-270j" target="_blank">Fixing &quot;unable to get local issuer certificate&quot; in Claude Code, Cursor, Git &amp; npm on a Work Mac</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-11-23 03:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Black-Friday-Week-2026" target="_blank">Black Friday / End Of Year Special &amp; The Unfortunate Ad Network Situation This Year</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-11-23 02:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/11/harness-new-operating-system/en/headerimage/harness-header-1200x630-1795301479582.jpg" alt="QCon San Francisco 2026: The Harness Is the New Operating System" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/11/harness-new-operating-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">QCon San Francisco 2026: The Harness Is the New Operating System</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-11-22 22:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/06/high-tide-tidal.jpg?resize=406%2C232&amp;ssl=1" alt="High Tide (Linux TIDAL client) adds support for DLNA, Chromecast" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -197,38 +223,20 @@
                 <span class="time">2026-11-22 17:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0857abaql076oujlop5t.png" alt="EF Core IDbCommandInterceptor" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/maayurdahake/ef-core-idbcommandinterceptor-410d" target="_blank">EF Core IDbCommandInterceptor</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-11-22 16:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://osw-alliance.net/en/" target="_blank">Open Social Web Alliance</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-11-22 15:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17537621/linux-laptop-suspend-inhibitor-lock" target="_blank">Your Linux Laptop Won&#x27;t Suspend? Here&#x27;s What You Can Do</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-11-22 13:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/11/SamKinisonAI-1280x772.jpg" alt="Fantastic News, Sam Kinison’s Brother Wants To Revive The Shrieking Comic Through AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/fantastic-news-sam-kinisons-brother-wants-to-revive-the-shrieking-comic-through-ai-2000759297" target="_blank">Fantastic News, Sam Kinison’s Brother Wants To Revive The Shrieking Comic Through AI</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-11-22 23:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/11/peoplescomputer.jpg" alt="Physicist’s Long-Lost 1977 Fantasy Text Adventure Discovered On Hard Drive" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -245,15 +253,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/11/22/black-friday-showed-up-early-with-windows-11-pro-and-office-2024-for-45.html" target="_blank">Black Friday showed up early with Windows 11 Pro and Office 2024 for $45</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-11-22 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/11/binding-of-isaac.jpg" alt="Binding Of Isaac Update Review-Bombed Over AI-Generated Music In GTA 6 Mode: ‘Woke Up To A Sh*t Show, Obviously I Had No Idea’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/binding-of-isaac-update-review-bombed-over-ai-generated-music-in-gta-6-mode-woke-up-to-a-sht-show-obviously-i-had-no-idea-2000759213" target="_blank">Binding Of Isaac Update Review-Bombed Over AI-Generated Music In GTA 6 Mode: ‘Woke Up To A Sh*t Show, Obviously I Had No Idea’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-11-22 00:18</span>
             </div>
         </div>
 </div>
@@ -275,8 +274,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 33 | 📡 Total Sources: 41 | 📸 With Images: 268 |
-        🔄 Last Updated: 22:12 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 36 | 📡 Total Sources: 41 | 📸 With Images: 267 |
+        🔄 Last Updated: 03:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
