@@ -1,41 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-11-23 03:19:08 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-11-23 13:47:43 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 32 feeds processed -->
+<!-- Generated 10 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, November 23, 2026 - 03:19 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Monday, November 23, 2026 - 13:47 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +47,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a992/live/9f0fe980-e70c-11f1-99a1-253766e7ad8b.jpg" alt="Police investigate unknown substance that caused Manchester&#x27;s Co-op Live evacuation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c9e851dn8516o?at_medium=RSS&at_campaign=rss" target="_blank">Police investigate unknown substance that caused Manchester&#x27;s Co-op Live evacuation</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-23 12:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31" target="_blank">Democrats win House by largest margin in 50 years. And, COP31 ends with no deal</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-11-23 12:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya" target="_blank">Ukraine confirms it used naval drones to strike two Russian ships off Libya</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-11-23 11:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/927f/live/24790470-e740-11f1-99b6-a35a62fa4264.png" alt="Russian warship hit by Ukrainian drones in Libya, Zelensky says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss" target="_blank">Russian warship hit by Ukrainian drones in Libya, Zelensky says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-23 11:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,47 +101,29 @@
                 <span class="time">2026-11-23 01:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3431/live/0e8b4920-e6be-11f1-a023-d502158f79f8.jpg" alt="Burnham to tell MPs &#x27;landmark&#x27; EU deal could make next decade &#x27;much better&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss" target="_blank">Burnham to tell MPs &#x27;landmark&#x27; EU deal could make next decade &#x27;much better&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-22 22:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya" target="_blank">Russian warship sinks in Benghazi after suspected Ukrainian drone attack</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-11-22 21:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/DNIClayton_TW-abc_cw_20261122_1795364812910_hpMain_4x3t_384.jpg" alt="DNI Clayton: Putin is &#x27;not America&#x27;s friend in Ukraine&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/dni-clayton-putin-americas-friend-ukraine/story?id=138356905" target="_blank">DNI Clayton: Putin is &#x27;not America&#x27;s friend in Ukraine&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-11-22 16:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse?traffic_source=rss" target="_blank">‘Disappointing’: Delegates react after COP31 climate talks end without deal</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-11-22 16:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/1039903/motorola-moto-tag-3-tracker-amazon-leak" target="_blank">Amazon is taking orders for the Moto Tag 3 before it’s even been announced</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-11-23 13:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/20261120_163720-500x500.jpg" alt="Tri-screen portable monitors aren’t for the faint of heart" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/11/a-triple-screen-portable-monitor-means-more-pixels-and-more-bulk/" target="_blank">Tri-screen portable monitors aren’t for the faint of heart</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-11-23 12:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,24 +152,6 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/04/agriculture-500x500.jpg" alt="GLP-1 drugs could have a surprisingly large environmental payoff" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/" target="_blank">GLP-1 drugs could have a surprisingly large environmental payoff</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-11-22 12:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69f5039cd2f33f723151e0ca/master/pass/The-Best-Travel-Adapters.jpg" alt="8 Best Travel Adapters (2026): 20+ Models Tested" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-travel-adapters/" target="_blank">8 Best Travel Adapters (2026): 20+ Models Tested</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-11-22 12:00</span>
-            </div>
-        </div>
-<div class="story">
             <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Anthropic Mathematician Claims to Prove Riemann Hypothesis" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-comments"></span>
@@ -169,6 +165,24 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/11/claude-code-mode/en/headerimage/generatedHeaderImage-1795090945761.jpg" alt="Claude Code Adds Experimental Code Mode to Orchestrate Tool Calls with JavaScript" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/11/claude-code-mode/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Claude Code Adds Experimental Code Mode to Orchestrate Tool Calls with JavaScript</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-11-23 12:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="http://bubble.aiei.ch:8050/" target="_blank">Bub-n-Bros a Bubble Bobble remake that was based on python2, up to 10 players over the network</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-11-23 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,29 +219,20 @@
                 <span class="time">2026-11-22 21:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife" target="_blank">The Birds of GTA 6: A Field Guide to Vice City and Leonida&#x27;s Wildlife</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-11-22 19:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-More-DCN6-Linux-7.5" target="_blank">AMD Preps More Graphics Driver Fixes For Linux 7.5, More DCN6 Enablement</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-11-22 17:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/11/Resident-Evil-2005-original-art-Capcom-1280x720.jpg" alt="Resident Evil Creator Wishes AI Would ‘Vanish Entirely,’ Fearing Mass Job Losses" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/resident-evil-shinji-mikami-ai-kim-hyung-tae-job-losses-stellar-blade-2000759397" target="_blank">Resident Evil Creator Wishes AI Would ‘Vanish Entirely,’ Fearing Mass Job Losses</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-11-23 11:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/11/SamKinisonAI-1280x772.jpg" alt="Fantastic News, Sam Kinison’s Brother Wants To Revive The Shrieking Comic Through AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -261,6 +266,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.questionablecontent.net/comics/5966.png" alt="Clinton Un-Blows It?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5966" target="_blank">Clinton Un-Blows It?</a></span>
+                <span class="feed">QC RSS v2</span>
+                <span class="time">2026-11-23 01:51</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1795321174-20261122.webp" alt="Saturday Morning Breakfast Cereal - Order" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -274,8 +288,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 36 | 📡 Total Sources: 41 | 📸 With Images: 267 |
-        🔄 Last Updated: 03:19 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 34 | 📡 Total Sources: 41 | 📸 With Images: 267 |
+        🔄 Last Updated: 13:47 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
