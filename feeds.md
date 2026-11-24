@@ -1,34 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-11-24 11:44:33 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-11-24 21:39:25 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 14 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, November 24, 2026 - 11:44 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Tuesday, November 24, 2026 - 21:39 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +41,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8836/live/971a11c0-e828-11f1-8d9d-c156c75bcdb5.jpg" alt="Disability benefit review calls for closer link with claimant costs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cm4gn6gn9057o?at_medium=RSS&at_campaign=rss" target="_blank">Disability benefit review calls for closer link with claimant costs</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-24 19:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data" target="_blank">More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-11-24 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/11/1920x1080/skynews-gianni-infantino-debbie-hewitt_7415270.jpg?20261124130731" alt="FA chair had to sign NDA to view FIFA documents on World Cup sell-off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/fa-chair-had-to-sign-nda-to-view-fifa-documents-on-world-cup-sell-off-13615958" target="_blank">FA chair had to sign NDA to view FIFA documents on World Cup sell-off</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-11-24 12:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,38 +95,20 @@
                 <span class="time">2026-11-24 00:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/huang-2-rt-gmh-261116_1794843333676_hpMain_4x3t_384.jpg" alt="Some Republicans condemn Jensen Huang&#x27;s reinstatement at Nvidia after Trump steps in" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/republicans-condemn-jensen-huangs-reinstatement-nvidia-after-trump/story?id=138384161" target="_blank">Some Republicans condemn Jensen Huang&#x27;s reinstatement at Nvidia after Trump steps in</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-11-23 23:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a992/live/9f0fe980-e70c-11f1-99a1-253766e7ad8b.jpg" alt="Police investigate unknown substance that caused Manchester&#x27;s Co-op Live evacuation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c9e851dn8516o?at_medium=RSS&at_campaign=rss" target="_blank">Police investigate unknown substance that caused Manchester&#x27;s Co-op Live evacuation</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-23 12:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31" target="_blank">Democrats win House by largest margin in 50 years. And, COP31 ends with no deal</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-11-23 12:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/" target="_blank">Even the best AI agents struggle with everyday life</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-11-24 21:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -131,21 +137,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Microsoft Declares &#x27;Code Red&#x27; After Historic Outage" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/1039903/motorola-moto-tag-3-tracker-amazon-leak" target="_blank">Amazon is taking orders for the Moto Tag 3 before it’s even been announced</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-11-23 13:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/20261120_163720-500x500.jpg" alt="Tri-screen portable monitors aren’t for the faint of heart" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/11/a-triple-screen-portable-monitor-means-more-pixels-and-more-bulk/" target="_blank">Tri-screen portable monitors aren’t for the faint of heart</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-11-23 12:15</span>
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://it.slashdot.org/story/26/11/24/1859221/microsoft-declares-code-red-after-historic-outage?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Microsoft Declares &#x27;Code Red&#x27; After Historic Outage</a></span>
+                <span class="feed">Slashdot</span>
+                
             </div>
         </div>
 <div class="story">
@@ -174,46 +171,46 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tanmay2627/a-pragmatic-uptime-and-deployment-guide-for-early-stage-startups-33e" target="_blank">A Pragmatic Uptime and Deployment Guide for Early-Stage Startups</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-11-24 21:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linus-Torvalds-EXT4-AI-Big" target="_blank">Linus Torvalds: &quot;Tell Your AI Companion To Get Its Act Together&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-11-24 21:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://prismml.com/news/bonsai-2-5-27b" target="_blank">Ternary Bonsai 2.5 27B</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-11-24 20:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/11/cncf-vm-ai-workloads/en/headerimage/generatedHeaderImage-1794993904528.jpg" alt="CNCF Research Shows Virtual Machines Remain Central as AI Workloads Evolve" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/11/cncf-vm-ai-workloads/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">CNCF Research Shows Virtual Machines Remain Central as AI Workloads Evolve</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-11-24 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/zlib-rs-0.6.9" target="_blank">zlib-rs 0.6.9 Released With Performance Improvements</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-11-24 11:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17538371/firefox-apple-dispute" target="_blank">No One is Using Real Firefox Browser on iPhones (Blame it on Apple)</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-11-23 15:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/11/claude-code-mode/en/headerimage/generatedHeaderImage-1795090945761.jpg" alt="Claude Code Adds Experimental Code Mode to Orchestrate Tool Calls with JavaScript" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/11/claude-code-mode/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Claude Code Adds Experimental Code Mode to Orchestrate Tool Calls with JavaScript</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-11-23 12:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-server"></span>
-                <span class="title"><a href="https://distrowatch.com/13046" target="_blank">DistroWatch Weekly, Issue 1200</a></span>
-                <span class="feed">DistroWatch.com: News</span>
-                
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-feather"></span>
-                <span class="title"><a href="https://martinfowler.com/fragments/2026-11-20.html" target="_blank">Fragments: November 20</a></span>
-                <span class="feed">Martin Fowler</span>
-                
             </div>
         </div>
 </div>
@@ -225,9 +222,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/11/humans-have-rights-machines-do-not.html" target="_blank">Humans Have Rights. Machines Do Not.</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/11/we-get-the-infrastructure-we-pay-for.html" target="_blank">We Get the Infrastructure We Pay For</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2026-11-23 12:00</span>
+                <span class="time">2026-11-24 12:06</span>
             </div>
         </div>
 </div>
@@ -244,36 +241,13 @@
                 <span class="time">2026-11-23 22:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/11/Resident-Evil-2005-original-art-Capcom-1280x720.jpg" alt="Resident Evil Creator Wishes AI Would ‘Vanish Entirely,’ Fearing Mass Job Losses" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/resident-evil-shinji-mikami-ai-kim-hyung-tae-job-losses-stellar-blade-2000759397" target="_blank">Resident Evil Creator Wishes AI Would ‘Vanish Entirely,’ Fearing Mass Job Losses</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-11-23 11:45</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section webcomics-section" id="webcomics">
-<h2 class="section-header">🎨 Daily Comics</h2>
-<div class="stories-container">
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1795401592-20261123.png" alt="Saturday Morning Breakfast Cereal - See" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/see-2" target="_blank">Saturday Morning Breakfast Cereal - See</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-11-23 16:30</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 19 | 📡 Total Sources: 41 | 📸 With Images: 268 |
-        🔄 Last Updated: 11:44 UTC
+        📊 Displayed: 20 | 📅 Last 24h: 21 | 📡 Total Sources: 41 | 📸 With Images: 265 |
+        🔄 Last Updated: 21:39 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
