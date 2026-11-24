@@ -1,31 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-11-24 01:18:49 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-11-24 11:44:33 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 22 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, November 24, 2026 - 01:19 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Tuesday, November 24, 2026 - 11:44 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/11/24/the-eighth-front-why-israels-influence-war-in-the-us-is-failing?traffic_source=rss" target="_blank">The ‘eighth front’: Why Israel’s influence war in the US is failing</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-11-24 11:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/11/1920x1080/skynews-gisele-pelicot-france_7414958.jpg?20261124010316" alt="Gisele Pelicot &#x27;deeply shocked&#x27; as nude photos of her sent to media" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/gisele-pelicot-deeply-shocked-after-nude-photos-used-to-promote-book-13615849" target="_blank">Gisele Pelicot &#x27;deeply shocked&#x27; as nude photos of her sent to media</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-11-24 02:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bc4/live/776e1e70-e788-11f1-9baa-c1f9a8f8c840.jpg" alt="Benefits review to suggest quicker payment for some disabled people" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,24 +98,6 @@
                 <span class="time">2026-11-23 12:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya" target="_blank">Ukraine confirms it used naval drones to strike two Russian ships off Libya</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-11-23 11:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/927f/live/24790470-e740-11f1-99b6-a35a62fa4264.png" alt="Russian warship hit by Ukrainian drones in Libya, Zelensky says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss" target="_blank">Russian warship hit by Ukrainian drones in Libya, Zelensky says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-23 11:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -119,6 +122,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2306107359-500x500.jpg" alt="Trump halts Iowa detonation, says new governor to blame if it blows accidentally" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally/" target="_blank">Trump halts Iowa detonation, says new governor to blame if it blows accidentally</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-11-23 21:58</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -134,15 +146,6 @@
                 <span class="title"><a href="https://arstechnica.com/gadgets/2026/11/a-triple-screen-portable-monitor-means-more-pixels-and-more-bulk/" target="_blank">Tri-screen portable monitors aren’t for the faint of heart</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-11-23 12:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink" target="_blank">Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-11-23 03:00</span>
             </div>
         </div>
 <div class="story">
@@ -171,6 +174,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/zlib-rs-0.6.9" target="_blank">zlib-rs 0.6.9 Released With Performance Improvements</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-11-24 11:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17538371/firefox-apple-dispute" target="_blank">No One is Using Real Firefox Browser on iPhones (Blame it on Apple)</a></span>
                 <span class="feed">It's FOSS</span>
@@ -189,28 +201,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="http://bubble.aiei.ch:8050/" target="_blank">Bub-n-Bros a Bubble Bobble remake that was based on python2, up to 10 players over the network</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-11-23 11:00</span>
+                <span class="fa fa-fw fa-server"></span>
+                <span class="title"><a href="https://distrowatch.com/13046" target="_blank">DistroWatch Weekly, Issue 1200</a></span>
+                <span class="feed">DistroWatch.com: News</span>
+                
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/swgbar/fixing-unable-to-get-local-issuer-certificate-in-claude-code-cursor-git-npm-on-a-work-mac-270j" target="_blank">Fixing &quot;unable to get local issuer certificate&quot; in Claude Code, Cursor, Git &amp; npm on a Work Mac</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-11-23 03:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Black-Friday-Week-2026" target="_blank">Black Friday / End Of Year Special &amp; The Unfortunate Ad Network Situation This Year</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-11-23 02:45</span>
+                <span class="fa fa-fw fa-feather"></span>
+                <span class="title"><a href="https://martinfowler.com/fragments/2026-11-20.html" target="_blank">Fragments: November 20</a></span>
+                <span class="feed">Martin Fowler</span>
+                
             </div>
         </div>
 </div>
@@ -232,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M84YZYHK9RWQ3K861603FCW6/hero-image.jpg" alt="10 Hidden Controls Every &#x27;GTA 6&#x27; Player Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/10-hidden-controls-every-gta-6-player-should-know?utm_medium=RSS" target="_blank">10 Hidden Controls Every &#x27;GTA 6&#x27; Player Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-11-23 22:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/11/Resident-Evil-2005-original-art-Capcom-1280x720.jpg" alt="Resident Evil Creator Wishes AI Would ‘Vanish Entirely,’ Fearing Mass Job Losses" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -255,31 +267,13 @@
                 <span class="time">2026-11-23 16:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/ivory_tower_elites.png" alt="Ivory Tower Elites" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3328/" target="_blank">Ivory Tower Elites</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-11-23 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5966.png" alt="Clinton Un-Blows It?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5966" target="_blank">Clinton Un-Blows It?</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-11-23 01:51</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 24 | 📡 Total Sources: 41 | 📸 With Images: 265 |
-        🔄 Last Updated: 01:19 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 19 | 📡 Total Sources: 41 | 📸 With Images: 268 |
+        🔄 Last Updated: 11:44 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
