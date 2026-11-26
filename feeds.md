@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-11-26 05:47:45 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-11-26 15:56:56 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 12 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, November 26, 2026 - 05:47 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, November 26, 2026 - 15:57 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,12 +47,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/ny-travel_1795688990469_hpMain_4x3t_384.jpg" alt="New York declares emergency as Thanksgiving storm threatens East Coast" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/new-york-declares-emergency-thanksgiving-storm-threatens-east/story?id=138464273" target="_blank">New York declares emergency as Thanksgiving storm threatens East Coast</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-11-26 13:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/nov/26/lana-nusseibeh-uae-sudan-un-secretary-general" target="_blank">‘I’m no longer a UAE official’: UN hopeful Lana Nusseibeh tries to shake off Sudan record</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-11-26 12:37</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/11/26/puerto-ricos-supreme-court-cancels-major-power-contract?traffic_source=rss" target="_blank">Puerto Rico’s Supreme Court cancels major power contract</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-11-26 05:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4ee/live/c6384f50-e984-11f1-99b6-a35a62fa4264.png" alt="German boat dealer suspected of supplying Channel smuggling gangs, BBC finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss" target="_blank">German boat dealer suspected of supplying Channel smuggling gangs, BBC finds</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-26 05:00</span>
             </div>
         </div>
 <div class="story">
@@ -73,38 +100,20 @@
                 <span class="time">2026-11-26 00:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/macys-balloon-gty-jt-261125_1795640588812_hpMain_4x3t_384.jpg" alt="Macy&#x27;s Thanksgiving Day parade postponed due to weather" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/macys-thanksgiving-day-parade-postponed-sources/story?id=138452401" target="_blank">Macy&#x27;s Thanksgiving Day parade postponed due to weather</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-11-25 23:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway" target="_blank">At least 30 killed as fuel tanker crash ignites large fire on Cairo highway</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-11-25 22:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1795642436476_nbc_spec_full_macys_parade_ppd_261125_S3_1920x1080-n9bd6f.jpg" alt="Macy&#x27;s Thanksgiving Day Parade postponed, will air on NBC on Saturday morning" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/macy-s-thanksgiving-day-parade-postponed-will-air-on-nbc-on-saturday-morning-274189381737" target="_blank">Macy&#x27;s Thanksgiving Day Parade postponed, will air on NBC on Saturday morning</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-11-25 21:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6aee6a4f4bc3f0945f84d9ea/master/pass/early%20black%20friday%20deals.png" alt="The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-black-friday-deals-11-26-2026/" target="_blank">The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-11-26 15:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -112,6 +121,15 @@
                 <span class="title"><a href="https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras" target="_blank">Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-11-26 00:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/" target="_blank">S&amp;P considers Nvidia credit downgrade over governance and ‘key man’ risks</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-11-25 22:44</span>
             </div>
         </div>
 <div class="story">
@@ -124,30 +142,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Physicists Send an Unblockable Message Using Gravity" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/1023735/best-gifts-under-25-2026" target="_blank">The Verge’s guide to affordable holiday gifts under $25</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-11-25 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/freezer-cleanup-500x500.jpg" alt="A familiar Iranian hacking group has found a new way to cause chaos" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos/" target="_blank">A familiar Iranian hacking group has found a new way to cause chaos</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-11-25 14:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach/" target="_blank">Todoist confirms 6% of customers’ details were stolen in data breach</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-11-25 14:20</span>
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://science.slashdot.org/story/26/11/25/2217235/physicists-send-an-unblockable-message-using-gravity?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Physicists Send an Unblockable Message Using Gravity</a></span>
+                <span class="feed">Slashdot</span>
+                
             </div>
         </div>
 <div class="story">
@@ -171,6 +171,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/futurum-research-study-why-97-percent-enterprise-it-teams-cannot-survive-cloud-cutoff" target="_blank">Futurum Research study: Why 97 percent of enterprise IT teams cannot survive a cloud cutoff</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-11-30 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jackmally/interview-scorecard-templates-on-libreoffice-extensions-and-figma-community-27pf" target="_blank">Interview scorecard templates on LibreOffice Extensions and Figma Community</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-11-26 15:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/11/xnulinux-macos-linux.webp?resize=406%2C232&amp;ssl=1" alt="XNULinux lets you run macOS on Linux without a VM" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/11/xnulinux-runs-mac-desktop-on-linux-natively" target="_blank">XNULinux lets you run macOS on Linux without a VM</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-11-26 03:03</span>
             </div>
         </div>
 <div class="story">
@@ -200,43 +218,29 @@
                 <span class="time">2026-11-25 17:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/11/deepmind-gemini-robotics-2-5/en/headerimage/tripadvisor-tca-migration-1795623375360.jpeg" alt="DeepMind&#x27;s Gemini Robotics 2.5 Aims to Make Robots Safer, More Dexterous, and Faster Learners" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/11/deepmind-gemini-robotics-2-5/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">DeepMind&#x27;s Gemini Robotics 2.5 Aims to Make Robots Safer, More Dexterous, and Faster Learners</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-11-25 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/postgresql-19-benchmarks" target="_blank">PostgreSQL 19 Delivering Nice Performance Gains, Benchmarks On 6th Gen AMD EPYC Venice</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-11-25 16:31</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/11/tracking-incidents-of-hacking-using-ai-tools.html" target="_blank">Tracking Incidents of Hacking Using AI Tools</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-11-25 12:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/11/GTa-666-1280x720.jpg" alt="Microsoft-Owned Github Deletes Unhinged Post Celebrating PlayStation 5 Emulator’s Success Following Launch Of GTA 6" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/github-microsoft-ps5-anyps5-emulation-sony-grand-theft-auto-gta6-2001000617" target="_blank">Microsoft-Owned Github Deletes Unhinged Post Celebrating PlayStation 5 Emulator’s Success Following Launch Of GTA 6</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-11-26 15:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M7RAXMFEK2DRRKKE38XYM503/hero-image.png" alt="The Best Tech Deals From Costco&#x27;s Black Friday Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-costco-black-friday-2026?utm_medium=RSS" target="_blank">The Best Tech Deals From Costco&#x27;s Black Friday Sale</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-11-26 15:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/ChatPlayground-AI-1200.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="This early Black Friday deal pits ChatGPT, Gemini, and DeepSeek against each other for a flat $54.97" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,20 +268,20 @@
                 <span class="time">2026-11-25 23:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/11/jasonhouse-1280x720.jpg" alt="You Should Go Back To Your Old House After GTA 6’s Second Chapter" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/grand-theft-auto-6-dolores-snake-alive-where-to-find-2001000332" target="_blank">You Should Go Back To Your Old House After GTA 6’s Second Chapter</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-11-25 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/11/25/return-of-the-mack" target="_blank">Return Of the Mack</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-11-25 19:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1795562858-20261125-edit.png" alt="Saturday Morning Breakfast Cereal - Wowww" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,22 +291,13 @@
                 <span class="time">2026-11-25 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/11/25/return-of-the-mack" target="_blank">Return Of the Mack</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-11-25 08:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 39 | 📡 Total Sources: 40 | 📸 With Images: 259 |
-        🔄 Last Updated: 05:47 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 33 | 📡 Total Sources: 41 | 📸 With Images: 259 |
+        🔄 Last Updated: 15:57 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
