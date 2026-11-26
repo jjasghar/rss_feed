@@ -1,31 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-11-25 23:51:05 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-11-26 05:47:45 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 15 new posts out of 23 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, November 25, 2026 - 23:51 UTC</div>
+    <div class="newspaper-date">Thursday, November 26, 2026 - 05:47 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/11/26/puerto-ricos-supreme-court-cancels-major-power-contract?traffic_source=rss" target="_blank">Puerto Rico’s Supreme Court cancels major power contract</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-11-26 05:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/trump-oval-1-gty-gmh-261125_1795638847181_hpMain_4x3t_384.jpg" alt="Judge blocks latest Trump effort to restrict birthright citizenship" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/judge-blocks-latest-trump-effort-restrict-birthright-citizenship/story?id=138451919" target="_blank">Judge blocks latest Trump effort to restrict birthright citizenship</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-11-26 03:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway" target="_blank">At least 31 killed as fuel tanker crash ignites large fire on Cairo highway</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-11-26 00:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/macys-balloon-gty-jt-261125_1795640588812_hpMain_4x3t_384.jpg" alt="Macy&#x27;s Thanksgiving Day parade postponed due to weather" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -68,38 +100,29 @@
                 <span class="time">2026-11-25 21:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5177/live/c7a2f690-e8fa-11f1-99a1-253766e7ad8b.jpg" alt="Poundland collapses putting 11,000 jobs at risk" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss" target="_blank">Poundland collapses putting 11,000 jobs at risk</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-25 21:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/11/25/nx-s1-6005522/little-free-bakery-austin-community-connection" target="_blank">At this Little Free Bakery in Austin, neighbors come for the pastries and stay for community connection</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-11-25 21:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  Lead azide detonation at Iowa Army base: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  Lead azide detonation at Iowa Army base: ABC News Live</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-11-25 14:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras" target="_blank">Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-11-26 00:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6b070bb9c3af37e5a5192585/master/pass/GettyImages-2306835116.jpg" alt="The Iowa Lead Detonation Happened. Now the Real Work Begins to Study It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/iowa-lead-detonation-real-monitoring-work-begins/" target="_blank">The Iowa Lead Detonation Happened. Now the Real Work Begins to Study It</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-11-25 18:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -128,28 +151,10 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/" target="_blank">Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-11-25 00:12</span>
-            </div>
-        </div>
-<div class="story">
             <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Is Nvidia&#x27;s Legal Trouble Over - Or Just Beginning?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-comments"></span>
                 <span class="title"><a href="https://hardware.slashdot.org/story/26/11/25/0923237/is-nvidias-legal-trouble-over---or-just-beginning?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Is Nvidia&#x27;s Legal Trouble Over - Or Just Beginning?</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Microsoft Declares &#x27;Code Red&#x27; After Historic Outage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://it.slashdot.org/story/26/11/24/1859221/microsoft-declares-code-red-after-historic-outage?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Microsoft Declares &#x27;Code Red&#x27; After Historic Outage</a></span>
                 <span class="feed">Slashdot</span>
                 
             </div>
@@ -166,6 +171,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/futurum-research-study-why-97-percent-enterprise-it-teams-cannot-survive-cloud-cutoff" target="_blank">Futurum Research study: Why 97 percent of enterprise IT teams cannot survive a cloud cutoff</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-11-30 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Vulkan-Macs-Go-KosmicKrisp" target="_blank">KosmicKrisp Now The Go-To Solution For Vulkan On Macs In Place Of MoltenVK</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-11-26 01:39</span>
             </div>
         </div>
 <div class="story">
@@ -204,15 +218,6 @@
                 <span class="time">2026-11-25 16:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/news-insights/company-news/art-of-play-in-the-age-of-ai/" target="_blank">Art of play in the age of AI</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-11-25 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/ChatPlayground-AI-1200.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="This early Black Friday deal pits ChatGPT, Gemini, and DeepSeek against each other for a flat $54.97" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/11/25/this-early-black-friday-deal-pits-chatgpt-gemini-and-deepseek-against-each-other-for-a-flat-54-97.html" target="_blank">This early Black Friday deal pits ChatGPT, Gemini, and DeepSeek against each other for a flat $54.97</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-11-26 01:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/11/jensenhuang-1-1280x720.jpg" alt="Denny’s Posts Statement Celebrating Jensen Huang’s Return As Nvidia CEO: ‘Some Things You Just Don’t Take Off The Menu’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/dennys-posts-statement-celebrating-jensen-huangs-return-as-nvidia-ceo-some-things-you-just-dont-take-off-the-menu-2001000521" target="_blank">Denny’s Posts Statement Celebrating Jensen Huang’s Return As Nvidia CEO: ‘Some Things You Just Don’t Take Off The Menu’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-11-26 00:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01M8A7DGQ26XSB2DXSCZMDJKJS/hero-image.jpg" alt="These MAMMOTION Robotic Lawn Mowers Are up to $800 Off for Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -256,6 +279,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.smbc-comics.com/comics/1795562858-20261125-edit.png" alt="Saturday Morning Breakfast Cereal - Wowww" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/wowww" target="_blank">Saturday Morning Breakfast Cereal - Wowww</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-11-25 16:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -264,31 +296,13 @@
                 <span class="time">2026-11-25 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/cesium_atom.png" alt="Cesium Atom" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3329/" target="_blank">Cesium Atom</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-11-25 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.questionablecontent.net/comics/5968.png" alt="In Her Clutches" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="https://questionablecontent.net/view.php?comic=5968" target="_blank">In Her Clutches</a></span>
-                <span class="feed">QC RSS v2</span>
-                <span class="time">2026-11-25 02:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 36 | 📡 Total Sources: 41 | 📸 With Images: 258 |
-        🔄 Last Updated: 23:51 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 39 | 📡 Total Sources: 40 | 📸 With Images: 259 |
+        🔄 Last Updated: 05:47 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
