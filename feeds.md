@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-11-27 09:12:57 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-11-27 19:13:44 UTC -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 14 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, November 27, 2026 - 09:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Friday, November 27, 2026 - 19:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -76,6 +72,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/nov/27/mad-about-mara-the-diy-dance-movement-helping-young-nigerians-escape-the-daily-grind" target="_blank">Mad about mara: the DIY dance movement helping young Nigerians escape the daily grind</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-11-27 06:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/26/11/1920x1080/skynews-amazon-germany_7417550.jpg?20261127015645" alt="Amazon staff to strike and rally on busiest weekend of the year" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
@@ -93,20 +98,38 @@
                 <span class="time">2026-11-27 00:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/heavy-wind-blows-roof-off-hd-bh-112626_1795708107270_hpMain_4x3t_384.jpg" alt="Thanksgiving storm damages buildings, floods streets, causes power outages" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/new-york-declares-emergency-thanksgiving-storm-threatens-east/story?id=138464273" target="_blank">Thanksgiving storm damages buildings, floods streets, causes power outages</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-11-26 23:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6b065b795e00c95c05adad67/master/pass/The-Best-Black-Friday-Mattress-Deals.jpg" alt="Black Friday Mattress Deals: Get Up to 55% Off (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/black-friday-mattress-deals-11-27-2026/" target="_blank">Black Friday Mattress Deals: Get Up to 55% Off (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-11-27 19:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas" target="_blank">The absolute best Black Friday deals we’ve found (so far)</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-11-27 18:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/black_friday_matrix-500x500-1795796102.jpg" alt="The best Black Friday deals Ars could find" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/" target="_blank">The best Black Friday deals Ars could find</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-11-27 17:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6b073e1d34813a006d725bef/master/pass/QANT-CEO-QandA-Business.jpg" alt="A New Breed of Chip Runs AI Models Using Waves of Light" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -126,39 +149,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media.wired.com/photos/6aee6a4f4bc3f0945f84d9ea/master/pass/early%20black%20friday%20deals.png" alt="The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-black-friday-deals-11-26-2026/" target="_blank">The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-11-26 15:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Scientists Used Seabirds To Track Hidden Ships" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://news.slashdot.org/story/26/11/26/0422228/scientists-used-seabirds-to-track-hidden-ships?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Scientists Used Seabirds To Track Hidden Ships</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="NYT Warns Photographers Not To Update Photoshop Over AI Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://news.slashdot.org/story/26/11/26/041231/nyt-warns-photographers-not-to-update-photoshop-over-ai-features?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">NYT Warns Photographers Not To Update Photoshop Over AI Features</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Physicists Send an Unblockable Message Using Gravity" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://science.slashdot.org/story/26/11/25/2217235/physicists-send-an-unblockable-message-using-gravity?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Physicists Send an Unblockable Message Using Gravity</a></span>
-                <span class="feed">Slashdot</span>
-                
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/" target="_blank">Nvidia hits pause on chip shipments to Southeast Asia</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-11-26 20:03</span>
             </div>
         </div>
 </div>
@@ -173,6 +169,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/futurum-research-study-why-97-percent-enterprise-it-teams-cannot-survive-cloud-cutoff" target="_blank">Futurum Research study: Why 97 percent of enterprise IT teams cannot survive a cloud cutoff</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-11-30 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer" target="_blank">Credit card skimming scripts using WebRTC found on popular shopping sites</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-11-27 15:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17541993/lf-cyber-monday-offer-26" target="_blank">A Better Black Friday Gift: Linux Foundation Certifications at Up to 65% Off</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-11-27 12:22</span>
             </div>
         </div>
 <div class="story">
@@ -196,24 +210,6 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17541571/signal-blocks-gemini-siri-ai" target="_blank">Signal Takes a Radical Step to Block Gemini and Siri From Reading Your Chats</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-11-26 17:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jackmally/interview-scorecard-templates-on-libreoffice-extensions-and-figma-community-27pf" target="_blank">Interview scorecard templates on LibreOffice Extensions and Figma Community</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-11-26 15:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
                 <span class="fa fa-fw fa-server"></span>
                 <span class="title"><a href="https://distrowatch.com/13051" target="_blank">Distribution Release: Lilidog 26.11.25</a></span>
                 <span class="feed">DistroWatch.com: News</span>
@@ -222,9 +218,32 @@
         </div>
 </div>
 </div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/11/recent-outages-have-economic-causes.html" target="_blank">Recent Outages Have Economic Causes</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-11-27 12:02</span>
+            </div>
+        </div>
+</div>
+</div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/11/thanksgaming-26-2-1280x720.jpg" alt="Fight The Bleak Friday Blues With 12 Incredible Indie Games To Slam On Your Wishlist" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/fight-the-bleak-friday-blues-with-12-astonishing-indie-games-to-slam-on-your-wishlist-2001001287" target="_blank">Fight The Bleak Friday Blues With 12 Incredible Indie Games To Slam On Your Wishlist</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-11-27 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/ai-diktatoren.jpg?fit=1600%2C1040&amp;quality=60&amp;ssl=1" alt="Fabulous Der Spiegel cover: The AI Dictators" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -243,33 +262,6 @@
                 <span class="time">2026-11-26 23:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M84W32G30BPA948419GTNNYB/hero-image.jpg" alt="Black Friday and Cyber Monday 2026 Live Blog: The Best Deals on Apple Devices, TVs, Fitness Tech, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/black-friday-live-blog-11-26-2026?utm_medium=RSS" target="_blank">Black Friday and Cyber Monday 2026 Live Blog: The Best Deals on Apple Devices, TVs, Fitness Tech, and More</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-11-26 17:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/11/GTa-666-1280x720.jpg" alt="Microsoft-Owned Github Deletes Unhinged Post Celebrating PlayStation 5 Emulator’s Success Following Launch Of GTA 6" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/github-microsoft-ps5-anyps5-emulation-sony-grand-theft-auto-gta6-2001000617" target="_blank">Microsoft-Owned Github Deletes Unhinged Post Celebrating PlayStation 5 Emulator’s Success Following Launch Of GTA 6</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-11-26 15:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M7RAXMFEK2DRRKKE38XYM503/hero-image.png" alt="The Best Tech Deals From Costco&#x27;s Black Friday Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-costco-black-friday-2026?utm_medium=RSS" target="_blank">The Best Tech Deals From Costco&#x27;s Black Friday Sale</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-11-26 15:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -284,22 +276,13 @@
                 <span class="time">2026-11-27 08:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1795660261-20261126.webp" alt="Saturday Morning Breakfast Cereal - Staring" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/staring" target="_blank">Saturday Morning Breakfast Cereal - Staring</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-11-26 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 25 | 📡 Total Sources: 41 | 📸 With Images: 259 |
-        🔄 Last Updated: 09:13 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 23 | 📡 Total Sources: 41 | 📸 With Images: 258 |
+        🔄 Last Updated: 19:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
