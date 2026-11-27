@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-11-27 00:12:17 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-11-27 09:12:57 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 14 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, November 27, 2026 - 00:12 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, November 27, 2026 - 09:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +49,51 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/11/27/south-korea-sends-rescued-fishermen-back-to-north?traffic_source=rss" target="_blank">South Korea sends rescued fishermen back to North</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-11-27 09:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/11/27/nx-s1-6055519/eagles-stun-cowboys" target="_blank">Eagles rally to stun Cowboys coming back from 21 points behind</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-11-27 08:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cba4/live/ef5cfd40-ea2e-11f1-99b6-a35a62fa4264.jpg" alt="&#x27;I wouldn&#x27;t be here today without you&#x27;: Student&#x27;s praise for man who stopped train attacker" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ck792lq4xrero?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;I wouldn&#x27;t be here today without you&#x27;: Student&#x27;s praise for man who stopped train attacker</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-27 07:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/11/1920x1080/skynews-amazon-germany_7417550.jpg?20261127015645" alt="Amazon staff to strike and rally on busiest weekend of the year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/amazon-staff-to-strike-and-rally-on-busiest-weekend-of-the-year-13617042" target="_blank">Amazon staff to strike and rally on busiest weekend of the year</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-11-27 03:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1795738010774_nn_sro_thanksgiving_weather_261126_S3_1920x1080-xwkhca.jpg" alt="Monster East Coast storm leaves hundreds of thousands without power" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/monster-east-coast-storm-leaves-hundreds-of-thousands-without-power-274244677776" target="_blank">Monster East Coast storm leaves hundreds of thousands without power</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-11-27 00:06</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/heavy-wind-blows-roof-off-hd-bh-112626_1795708107270_hpMain_4x3t_384.jpg" alt="Thanksgiving storm damages buildings, floods streets, causes power outages" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -54,56 +102,20 @@
                 <span class="time">2026-11-26 23:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-infantino-rob-harris_7333190.jpg?20260827222142" alt="Witnesses contacted as US probe into World Cup sell-off plan intensifies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/witnesses-contacted-as-us-probe-into-world-cup-sell-off-plan-intensifies-13616919" target="_blank">Witnesses contacted as US probe into World Cup sell-off plan intensifies</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-11-26 17:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc65/live/28a10870-e99f-11f1-b880-15b494ba858d.jpg" alt="UK net migration at lowest level since 1997 as asylum claims also fall" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cq36gj12n0l3o?at_medium=RSS&at_campaign=rss" target="_blank">UK net migration at lowest level since 1997 as asylum claims also fall</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-26 14:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/ny-travel_1795688990469_hpMain_4x3t_384.jpg" alt="New York declares emergency as Thanksgiving storm threatens East Coast" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/new-york-declares-emergency-thanksgiving-storm-threatens-east/story?id=138464273" target="_blank">New York declares emergency as Thanksgiving storm threatens East Coast</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-11-26 13:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/nov/26/lana-nusseibeh-uae-sudan-un-secretary-general" target="_blank">‘I’m no longer a UAE official’: UN hopeful Lana Nusseibeh tries to shake off Sudan record</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-11-26 12:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/11/26/puerto-ricos-supreme-court-cancels-major-power-contract?traffic_source=rss" target="_blank">Puerto Rico’s Supreme Court cancels major power contract</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-11-26 05:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6b073e1d34813a006d725bef/master/pass/QANT-CEO-QandA-Business.jpg" alt="A New Breed of Chip Runs AI Models Using Waves of Light" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/" target="_blank">A New Breed of Chip Runs AI Models Using Waves of Light</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-11-27 07:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -120,6 +132,15 @@
                 <span class="title"><a href="https://www.wired.com/story/best-black-friday-deals-11-26-2026/" target="_blank">The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-11-26 15:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Scientists Used Seabirds To Track Hidden Ships" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://news.slashdot.org/story/26/11/26/0422228/scientists-used-seabirds-to-track-hidden-ships?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Scientists Used Seabirds To Track Hidden Ships</a></span>
+                <span class="feed">Slashdot</span>
+                
             </div>
         </div>
 <div class="story">
@@ -140,24 +161,6 @@
                 
             </div>
         </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Is Nvidia&#x27;s Legal Trouble Over - Or Just Beginning?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://hardware.slashdot.org/story/26/11/25/0923237/is-nvidias-legal-trouble-over---or-just-beginning?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Is Nvidia&#x27;s Legal Trouble Over - Or Just Beginning?</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Microsoft Declares &#x27;Code Red&#x27; After Historic Outage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://it.slashdot.org/story/26/11/24/1859221/microsoft-declares-code-red-after-historic-outage?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Microsoft Declares &#x27;Code Red&#x27; After Historic Outage</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,30 +176,39 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/11/linux-imac-4k-full-resolution.webp?resize=406%2C232&amp;ssl=1" alt="New Linux kernel patches unlock native resolution on 4K/5K iMacs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/11/linux-imac-tiled-display-support-coming" target="_blank">New Linux kernel patches unlock native resolution on 4K/5K iMacs</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-11-27 04:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-november-27-2026-red-hat" target="_blank">Friday Five — November 27, 2026 | Red Hat</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2026-11-27 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17541571/signal-blocks-gemini-siri-ai" target="_blank">Signal Takes a Radical Step to Block Gemini and Siri From Reading Your Chats</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-11-26 17:01</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/jackmally/interview-scorecard-templates-on-libreoffice-extensions-and-figma-community-27pf" target="_blank">Interview scorecard templates on LibreOffice Extensions and Figma Community</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-11-26 15:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/11/xnulinux-macos-linux.webp?resize=406%2C232&amp;ssl=1" alt="XNULinux lets you run macOS on Linux without a VM" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/11/xnulinux-runs-mac-desktop-on-linux-natively" target="_blank">XNULinux lets you run macOS on Linux without a VM</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-11-26 03:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Vulkan-Macs-Go-KosmicKrisp" target="_blank">KosmicKrisp Now The Go-To Solution For Vulkan On Macs In Place Of MoltenVK</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-11-26 01:39</span>
             </div>
         </div>
 <div class="story">
@@ -208,20 +220,20 @@
                 
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-server"></span>
-                <span class="title"><a href="https://distrowatch.com/13049" target="_blank">Distribution Release: Proxmox 9.3 &quot;Virtual Environment&quot;</a></span>
-                <span class="feed">DistroWatch.com: News</span>
-                
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/ai-diktatoren.jpg?fit=1600%2C1040&amp;quality=60&amp;ssl=1" alt="Fabulous Der Spiegel cover: The AI Dictators" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/11/26/fabulous-der-spiegel-cover-the-ai-dictators.html" target="_blank">Fabulous Der Spiegel cover: The AI Dictators</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-11-27 02:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/This-is-what-Grand-Theft-Auto-used-to-look-like.jpg?fit=1280%2C846&amp;quality=60&amp;ssl=1" alt="Online archive of Grand Theft Auto radio stations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -229,6 +241,15 @@
                 <span class="title"><a href="https://boingboing.net/2026/11/26/online-archive-of-grand-theft-auto-radio-stations.html" target="_blank">Online archive of Grand Theft Auto radio stations</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-11-26 23:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01M84W32G30BPA948419GTNNYB/hero-image.jpg" alt="Black Friday and Cyber Monday 2026 Live Blog: The Best Deals on Apple Devices, TVs, Fitness Tech, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/black-friday-live-blog-11-26-2026?utm_medium=RSS" target="_blank">Black Friday and Cyber Monday 2026 Live Blog: The Best Deals on Apple Devices, TVs, Fitness Tech, and More</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-11-26 17:40</span>
             </div>
         </div>
 <div class="story">
@@ -249,13 +270,27 @@
                 <span class="time">2026-11-26 15:42</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section webcomics-section" id="webcomics">
+<h2 class="section-header">🎨 Daily Comics</h2>
+<div class="stories-container">
 <div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/ChatPlayground-AI-1200.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="This early Black Friday deal pits ChatGPT, Gemini, and DeepSeek against each other for a flat $54.97" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/11/25/this-early-black-friday-deal-pits-chatgpt-gemini-and-deepseek-against-each-other-for-a-flat-54-97.html" target="_blank">This early Black Friday deal pits ChatGPT, Gemini, and DeepSeek against each other for a flat $54.97</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-11-26 01:00</span>
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/11/27/victor-von-dumb" target="_blank">Victor Von Dumb</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-11-27 08:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1795660261-20261126.webp" alt="Saturday Morning Breakfast Cereal - Staring" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/staring" target="_blank">Saturday Morning Breakfast Cereal - Staring</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-11-26 16:20</span>
             </div>
         </div>
 </div>
@@ -263,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 19 | 📡 Total Sources: 41 | 📸 With Images: 257 |
-        🔄 Last Updated: 00:12 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 25 | 📡 Total Sources: 41 | 📸 With Images: 259 |
+        🔄 Last Updated: 09:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
