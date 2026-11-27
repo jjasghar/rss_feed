@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-11-26 15:56:56 UTC -->
+<!-- Processing 54 RSS feeds at 2026-11-27 00:12:17 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 12 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, November 26, 2026 - 15:57 UTC</div>
+    <div class="newspaper-date">Friday, November 27, 2026 - 00:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/heavy-wind-blows-roof-off-hd-bh-112626_1795708107270_hpMain_4x3t_384.jpg" alt="Thanksgiving storm damages buildings, floods streets, causes power outages" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/new-york-declares-emergency-thanksgiving-storm-threatens-east/story?id=138464273" target="_blank">Thanksgiving storm damages buildings, floods streets, causes power outages</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-11-26 23:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/08/1920x1080/skynews-infantino-rob-harris_7333190.jpg?20260827222142" alt="Witnesses contacted as US probe into World Cup sell-off plan intensifies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/witnesses-contacted-as-us-probe-into-world-cup-sell-off-plan-intensifies-13616919" target="_blank">Witnesses contacted as US probe into World Cup sell-off plan intensifies</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-11-26 17:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc65/live/28a10870-e99f-11f1-b880-15b494ba858d.jpg" alt="UK net migration at lowest level since 1997 as asylum claims also fall" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cq36gj12n0l3o?at_medium=RSS&at_campaign=rss" target="_blank">UK net migration at lowest level since 1997 as asylum claims also fall</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-26 14:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/ny-travel_1795688990469_hpMain_4x3t_384.jpg" alt="New York declares emergency as Thanksgiving storm threatens East Coast" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -73,38 +99,20 @@
                 <span class="time">2026-11-26 05:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4ee/live/c6384f50-e984-11f1-99b6-a35a62fa4264.png" alt="German boat dealer suspected of supplying Channel smuggling gangs, BBC finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss" target="_blank">German boat dealer suspected of supplying Channel smuggling gangs, BBC finds</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-26 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/trump-oval-1-gty-gmh-261125_1795638847181_hpMain_4x3t_384.jpg" alt="Judge blocks latest Trump effort to restrict birthright citizenship" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/judge-blocks-latest-trump-effort-restrict-birthright-citizenship/story?id=138451919" target="_blank">Judge blocks latest Trump effort to restrict birthright citizenship</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-11-26 03:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway" target="_blank">At least 31 killed as fuel tanker crash ignites large fire on Cairo highway</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-11-26 00:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/1043489/midnight-diner-season3" target="_blank">Netflix’s coziest show has made a very quiet return</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-11-26 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6aee6a4f4bc3f0945f84d9ea/master/pass/early%20black%20friday%20deals.png" alt="The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -115,30 +123,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="NYT Warns Photographers Not To Update Photoshop Over AI Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras" target="_blank">Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-11-26 00:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/" target="_blank">S&amp;P considers Nvidia credit downgrade over governance and ‘key man’ risks</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-11-25 22:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6b070bb9c3af37e5a5192585/master/pass/GettyImages-2306835116.jpg" alt="The Iowa Lead Detonation Happened. Now the Real Work Begins to Study It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/iowa-lead-detonation-real-monitoring-work-begins/" target="_blank">The Iowa Lead Detonation Happened. Now the Real Work Begins to Study It</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-11-25 18:38</span>
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://news.slashdot.org/story/26/11/26/041231/nyt-warns-photographers-not-to-update-photoshop-over-ai-features?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">NYT Warns Photographers Not To Update Photoshop Over AI Features</a></span>
+                <span class="feed">Slashdot</span>
+                
             </div>
         </div>
 <div class="story">
@@ -155,6 +145,15 @@
             <div class="story-content">
                 <span class="fa fa-fw fa-comments"></span>
                 <span class="title"><a href="https://hardware.slashdot.org/story/26/11/25/0923237/is-nvidias-legal-trouble-over---or-just-beginning?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Is Nvidia&#x27;s Legal Trouble Over - Or Just Beginning?</a></span>
+                <span class="feed">Slashdot</span>
+                
+            </div>
+        </div>
+<div class="story">
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Microsoft Declares &#x27;Code Red&#x27; After Historic Outage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://it.slashdot.org/story/26/11/24/1859221/microsoft-declares-code-red-after-historic-outage?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Microsoft Declares &#x27;Code Red&#x27; After Historic Outage</a></span>
                 <span class="feed">Slashdot</span>
                 
             </div>
@@ -203,19 +202,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.linux.com/news/openvdl-making-validation-rules-readable-and-traceable/" target="_blank">OpenVDL: Making Validation Rules Readable and Traceable</a></span>
-                <span class="feed">Linux.com</span>
-                <span class="time">2026-11-25 17:58</span>
+                <span class="fa fa-fw fa-server"></span>
+                <span class="title"><a href="https://distrowatch.com/13051" target="_blank">Distribution Release: Lilidog 26.11.25</a></span>
+                <span class="feed">DistroWatch.com: News</span>
+                
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/how-anthropic-builds-software-in" target="_blank">How Anthropic builds software in 2026 with Katelyn Lesse</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-11-25 17:31</span>
+                <span class="fa fa-fw fa-server"></span>
+                <span class="title"><a href="https://distrowatch.com/13049" target="_blank">Distribution Release: Proxmox 9.3 &quot;Virtual Environment&quot;</a></span>
+                <span class="feed">DistroWatch.com: News</span>
+                
             </div>
         </div>
 </div>
@@ -223,6 +222,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/This-is-what-Grand-Theft-Auto-used-to-look-like.jpg?fit=1280%2C846&amp;quality=60&amp;ssl=1" alt="Online archive of Grand Theft Auto radio stations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/11/26/online-archive-of-grand-theft-auto-radio-stations.html" target="_blank">Online archive of Grand Theft Auto radio stations</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-11-26 23:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/11/GTa-666-1280x720.jpg" alt="Microsoft-Owned Github Deletes Unhinged Post Celebrating PlayStation 5 Emulator’s Success Following Launch Of GTA 6" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -250,54 +258,13 @@
                 <span class="time">2026-11-26 01:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/11/jensenhuang-1-1280x720.jpg" alt="Denny’s Posts Statement Celebrating Jensen Huang’s Return As Nvidia CEO: ‘Some Things You Just Don’t Take Off The Menu’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/dennys-posts-statement-celebrating-jensen-huangs-return-as-nvidia-ceo-some-things-you-just-dont-take-off-the-menu-2001000521" target="_blank">Denny’s Posts Statement Celebrating Jensen Huang’s Return As Nvidia CEO: ‘Some Things You Just Don’t Take Off The Menu’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-11-26 00:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01M8A7DGQ26XSB2DXSCZMDJKJS/hero-image.jpg" alt="These MAMMOTION Robotic Lawn Mowers Are up to $800 Off for Black Friday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/ad/tech/mammotions-robot-lawn-mowers-black-friday-2026?utm_medium=RSS" target="_blank">These MAMMOTION Robotic Lawn Mowers Are up to $800 Off for Black Friday</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-11-25 23:00</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section webcomics-section" id="webcomics">
-<h2 class="section-header">🎨 Daily Comics</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/11/25/return-of-the-mack" target="_blank">Return Of the Mack</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-11-25 19:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1795562858-20261125-edit.png" alt="Saturday Morning Breakfast Cereal - Wowww" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/wowww" target="_blank">Saturday Morning Breakfast Cereal - Wowww</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-11-25 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 33 | 📡 Total Sources: 41 | 📸 With Images: 259 |
-        🔄 Last Updated: 15:57 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 19 | 📡 Total Sources: 41 | 📸 With Images: 257 |
+        🔄 Last Updated: 00:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
