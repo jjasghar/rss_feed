@@ -1,39 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-11-28 02:18:46 UTC -->
+<!-- Processing 54 RSS feeds at 2026-11-28 11:01:22 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 12 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Saturday, November 28, 2026 - 02:18 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, November 28, 2026 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/26/11/1920x1080/skynews-msf-gaza-palestinian_7418384.jpg?20261128082520" alt="Doctors Without Borders &#x27;outraged&#x27; after staff killed in Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/son-of-hamas-chief-and-his-family-survive-israeli-airstrike-group-says-13617394" target="_blank">Doctors Without Borders &#x27;outraged&#x27; after staff killed in Gaza</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-11-28 00:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/26/11/1920x1080/skynews-hamas-gaza_7418335.jpg?20261128004513" alt="Son of Hamas chief and his family survive Israeli airstrike, group says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -94,20 +104,20 @@
                 <span class="time">2026-11-27 11:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/11/27/south-korea-sends-rescued-fishermen-back-to-north?traffic_source=rss" target="_blank">South Korea sends rescued fishermen back to North</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-11-27 09:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6affa2c5fc894cda63c23f38/master/pass/Roborock%E2%80%99s-Early-Black-Friday-Sale-Isn%E2%80%99t-One-to-Miss.jpg" alt="Best Black Friday Robot Vacuum Deals from Roborock (2026): Up to 60% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/black-friday-robot-vacuum-deals-11-28-2026/" target="_blank">Best Black Friday Robot Vacuum Deals from Roborock (2026): Up to 60% Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-11-28 10:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6b089bf933af9bd86d9db0c5/master/pass/Black-Friday-Deals.jpg" alt="2026’s Best Black Friday Deals: We’ve Been Tracking Since 4 AM" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,19 +155,10 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media.wired.com/photos/6b073e1d34813a006d725bef/master/pass/QANT-CEO-QandA-Business.jpg" alt="A New Breed of Chip Runs AI Models Using Waves of Light" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/" target="_blank">A New Breed of Chip Runs AI Models Using Waves of Light</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-11-27 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Nvidia Seeded Pirated Books and Shared Them With Adobe, Authors Allege" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="GTA VI: Console Shortages, Performance Showdowns, $1B More Sales, and Some Tech Issues" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://yro.slashdot.org/story/26/11/26/0449255/nvidia-seeded-pirated-books-and-shared-them-with-adobe-authors-allege?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Nvidia Seeded Pirated Books and Shared Them With Adobe, Authors Allege</a></span>
+                <span class="title"><a href="https://games.slashdot.org/story/26/11/28/0445221/gta-vi-console-shortages-performance-showdowns-1b-more-sales-and-some-tech-issues?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">GTA VI: Console Shortages, Performance Showdowns, $1B More Sales, and Some Tech Issues</a></span>
                 <span class="feed">Slashdot</span>
                 
             </div>
@@ -180,6 +181,33 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/damogallagher/cloudwatch-otel-enrichment-promql-on-aws-metrics-and-the-paid-default-3m09" target="_blank">CloudWatch OTel Enrichment: PromQL on AWS Metrics, and the Paid Default</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-11-28 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/KDE-Plasma-6.9-End-November" target="_blank">KDE Plasma 6.9 Lands More Improvements Ahead Of The Holidays</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-11-28 10:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/11/anthropic-claude-ship/en/headerimage/header-1795792564565.jpg" alt="Anthropic Introduces Claude Ship to Review, Fix, and Approve Pull Requests by Policy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/11/anthropic-claude-ship/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Anthropic Introduces Claude Ship to Review, Fix, and Approve Pull Requests by Policy</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-11-28 10:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/kestrelquant/stripping-the-ai-of-auto-tpsl-designing-iron-laws-as-guardrails-in-complex-trading-systems-35a7" target="_blank">Stripping the AI of Auto TP/SL: Designing &#x27;Iron Laws&#x27; as Guardrails in Complex Trading Systems</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-11-28 02:17</span>
@@ -194,38 +222,20 @@
                 <span class="time">2026-11-27 15:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17541993/lf-cyber-monday-offer-26" target="_blank">A Better Black Friday Gift: Linux Foundation Certifications at Up to 65% Off</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-11-27 12:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/11/27/sandboxes-secure-inference-and-rogue-agents/" target="_blank">Sandboxes, secure inference, and keeping agents from going rogue</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-11-27 08:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/11/linux-imac-4k-full-resolution.webp?resize=406%2C232&amp;ssl=1" alt="New Linux kernel patches unlock native resolution on 4K/5K iMacs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/11/linux-imac-tiled-display-support-coming" target="_blank">New Linux kernel patches unlock native resolution on 4K/5K iMacs</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-11-27 04:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-giant-squid-in-newfoundland.html" target="_blank">Friday Squid Blogging: Giant Squid in Newfoundland</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-11-27 22:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -258,15 +268,6 @@
                 <span class="time">2026-11-27 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/ai-diktatoren.jpg?fit=1600%2C1040&amp;quality=60&amp;ssl=1" alt="Fabulous Der Spiegel cover: The AI Dictators" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/11/26/fabulous-der-spiegel-cover-the-ai-dictators.html" target="_blank">Fabulous Der Spiegel cover: The AI Dictators</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-11-27 02:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -281,22 +282,13 @@
                 <span class="time">2026-11-27 22:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/11/27/victor-von-dumb" target="_blank">Victor Von Dumb</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-11-27 08:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 27 | 📡 Total Sources: 41 | 📸 With Images: 257 |
-        🔄 Last Updated: 02:18 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 23 | 📡 Total Sources: 41 | 📸 With Images: 259 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
