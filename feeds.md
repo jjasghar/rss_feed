@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-11-27 19:13:44 UTC -->
+<!-- Processing 54 RSS feeds at 2026-11-28 02:18:46 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 25 feeds processed -->
+<!-- Generated 12 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, November 27, 2026 - 19:14 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Saturday, November 28, 2026 - 02:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +50,51 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://e3.365dm.com/26/11/1920x1080/skynews-hamas-gaza_7418335.jpg?20261128004513" alt="Son of Hamas chief and his family survive Israeli airstrike, group says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/son-of-hamas-chief-and-his-family-survive-israeli-airstrike-group-says-13617394" target="_blank">Son of Hamas chief and his family survive Israeli airstrike, group says</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-11-28 00:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1795823989541_nn_sro_weather_friday_261127_S3_1920x1080-bmp3b4.jpg" alt="Mass power outages after Thanksgiving Day storms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/mass-power-outages-after-thanksgiving-day-storms-274286149762" target="_blank">Mass power outages after Thanksgiving Day storms</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-11-27 23:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb1/live/dd63ff10-ea99-11f1-a094-5fdc692f3e33.jpg" alt="Spanish PM and rivals rally supporters in final pitch for votes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss" target="_blank">Spanish PM and rivals rally supporters in final pitch for votes</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-27 21:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6ef/live/2c353ff0-ea95-11f1-a094-5fdc692f3e33.jpg" alt="Millions lose access to benefits and pensions services after &#x27;cyber incident&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss" target="_blank">Millions lose access to benefits and pensions services after &#x27;cyber incident&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-11-27 20:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/11/27/g-s1-156004/up-first-newsletter-thanksgiving-storm-black-friday-shopping-asylum-supreme-court" target="_blank">Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-11-27 11:59</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -53,56 +103,20 @@
                 <span class="time">2026-11-27 09:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/11/27/nx-s1-6055519/eagles-stun-cowboys" target="_blank">Eagles rally to stun Cowboys coming back from 21 points behind</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-11-27 08:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cba4/live/ef5cfd40-ea2e-11f1-99b6-a35a62fa4264.jpg" alt="&#x27;I wouldn&#x27;t be here today without you&#x27;: Student&#x27;s praise for man who stopped train attacker" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/ck792lq4xrero?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;I wouldn&#x27;t be here today without you&#x27;: Student&#x27;s praise for man who stopped train attacker</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-11-27 07:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/nov/27/mad-about-mara-the-diy-dance-movement-helping-young-nigerians-escape-the-daily-grind" target="_blank">Mad about mara: the DIY dance movement helping young Nigerians escape the daily grind</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-11-27 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/11/1920x1080/skynews-amazon-germany_7417550.jpg?20261127015645" alt="Amazon staff to strike and rally on busiest weekend of the year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/amazon-staff-to-strike-and-rally-on-busiest-weekend-of-the-year-13617042" target="_blank">Amazon staff to strike and rally on busiest weekend of the year</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-11-27 03:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_11/1795738010774_nn_sro_thanksgiving_weather_261126_S3_1920x1080-xwkhca.jpg" alt="Monster East Coast storm leaves hundreds of thousands without power" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/monster-east-coast-storm-leaves-hundreds-of-thousands-without-power-274244677776" target="_blank">Monster East Coast storm leaves hundreds of thousands without power</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-11-27 00:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6b089bf933af9bd86d9db0c5/master/pass/Black-Friday-Deals.jpg" alt="2026’s Best Black Friday Deals: We’ve Been Tracking Since 4 AM" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-black-friday-deals-11-27-2026/" target="_blank">2026’s Best Black Friday Deals: We’ve Been Tracking Since 4 AM</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-11-28 00:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6b065b795e00c95c05adad67/master/pass/The-Best-Black-Friday-Mattress-Deals.jpg" alt="Black Friday Mattress Deals: Get Up to 55% Off (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,21 +154,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Nvidia Seeded Pirated Books and Shared Them With Adobe, Authors Allege" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/1043489/midnight-diner-season3" target="_blank">Netflix’s coziest show has made a very quiet return</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-11-26 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/" target="_blank">Nvidia hits pause on chip shipments to Southeast Asia</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-11-26 20:03</span>
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://yro.slashdot.org/story/26/11/26/0449255/nvidia-seeded-pirated-books-and-shared-them-with-adobe-authors-allege?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Nvidia Seeded Pirated Books and Shared Them With Adobe, Authors Allege</a></span>
+                <span class="feed">Slashdot</span>
+                
             </div>
         </div>
 </div>
@@ -169,6 +174,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/futurum-research-study-why-97-percent-enterprise-it-teams-cannot-survive-cloud-cutoff" target="_blank">Futurum Research study: Why 97 percent of enterprise IT teams cannot survive a cloud cutoff</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-11-30 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kestrelquant/stripping-the-ai-of-auto-tpsl-designing-iron-laws-as-guardrails-in-complex-trading-systems-35a7" target="_blank">Stripping the AI of Auto TP/SL: Designing &#x27;Iron Laws&#x27; as Guardrails in Complex Trading Systems</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-11-28 02:17</span>
             </div>
         </div>
 <div class="story">
@@ -190,30 +204,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/11/27/sandboxes-secure-inference-and-rogue-agents/" target="_blank">Sandboxes, secure inference, and keeping agents from going rogue</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-11-27 08:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/11/linux-imac-4k-full-resolution.webp?resize=406%2C232&amp;ssl=1" alt="New Linux kernel patches unlock native resolution on 4K/5K iMacs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/11/linux-imac-tiled-display-support-coming" target="_blank">New Linux kernel patches unlock native resolution on 4K/5K iMacs</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-11-27 04:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-november-27-2026-red-hat" target="_blank">Friday Five — November 27, 2026 | Red Hat</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2026-11-27 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-server"></span>
-                <span class="title"><a href="https://distrowatch.com/13051" target="_blank">Distribution Release: Lilidog 26.11.25</a></span>
-                <span class="feed">DistroWatch.com: News</span>
-                
             </div>
         </div>
 </div>
@@ -236,6 +241,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/popkin-two-headed-carpet-python.jpg?fit=1600%2C1200&amp;quality=60&amp;ssl=1" alt="This two-headed carpet python is one of the coolest pets a person could own" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/11/27/popkin-two-headed-carpet-python.html" target="_blank">This two-headed carpet python is one of the coolest pets a person could own</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-11-28 01:38</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/11/thanksgaming-26-2-1280x720.jpg" alt="Fight The Bleak Friday Blues With 12 Incredible Indie Games To Slam On Your Wishlist" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -253,20 +267,20 @@
                 <span class="time">2026-11-27 02:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/11/This-is-what-Grand-Theft-Auto-used-to-look-like.jpg?fit=1280%2C846&amp;quality=60&amp;ssl=1" alt="Online archive of Grand Theft Auto radio stations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/11/26/online-archive-of-grand-theft-auto-radio-stations.html" target="_blank">Online archive of Grand Theft Auto radio stations</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-11-26 23:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/11/27/victor-von-dumb" target="_blank">Victor Von Dumb</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-11-27 22:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -281,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 23 | 📡 Total Sources: 41 | 📸 With Images: 258 |
-        🔄 Last Updated: 19:14 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 27 | 📡 Total Sources: 41 | 📸 With Images: 257 |
+        🔄 Last Updated: 02:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
